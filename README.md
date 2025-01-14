@@ -41,4 +41,4 @@ python run_bela.py
 
 ``` 
 
-The output will be shown in the `DZ_results` directory.
+The output will be shown in the `DZ_output.csv` file.
