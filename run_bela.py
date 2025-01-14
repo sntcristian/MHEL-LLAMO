@@ -27,10 +27,10 @@ def process_data(paragraphs, annotations):
         doc_id = paragraph["doc_id"]
         text = paragraph["text"]
         annotations = [row for row in annotations if row["doc_id"]==doc_id]
-        offsets = [int(anno["start_pos"] for anno in annotations)]
+        offsets = [int(anno["start_pos"]) for anno in annotations]
         lengths = [len(anno["surface"]) for anno in annotations]
         types = [anno["type"] for anno in annotations]
-        entities = [0*len(annotations)]
+        entities = [0 for _ in annotations]
 
         results = model_eval.process_disambiguation_batch(
             texts=[text],
@@ -51,6 +51,7 @@ def process_data(paragraphs, annotations):
                 "score":score
             })
         pbar.update(1)
+    pbar.close()
     return output
 
 with open("bela_experiments/DZ/v0.1/paragraphs_test.csv", "r", encoding="utf-8") as f1:
