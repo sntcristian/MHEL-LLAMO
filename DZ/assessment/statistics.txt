@@ -1,0 +1,6 @@
+All annotations: 403
+Wrong annotations (false positives): 13
+Missing annotations: 10
+Precision: 0.967741935483871
+Recall: 0.9443099273607748
+F1 score: 0.9558823529411764

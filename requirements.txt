@@ -1,0 +1,15 @@
+faiss-gpu-cu12
+fairscale
+hydra-core
+hydra-submitit-launcher
+pyyaml
+pytorch-lightning
+transformers==4.29.0
+tqdm
+sentencepiece
+h5py
+protobuf==3.20
+ujson
+huggingface_hub
+accelerate>=0.9.0
+numpy==1.26.4

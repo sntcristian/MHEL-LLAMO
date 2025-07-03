@@ -32,7 +32,7 @@ List of annotated entities (coarse level only):
 | Annotations for persons     | 1,661 |
 | Annotations for locations   | 488   |
 | Annotations for works       | 786   |
-| NIL annotations             | 158   |
+| NIL annotations             | 182   |
 
 ### Development Set
 
@@ -43,7 +43,7 @@ List of annotated entities (coarse level only):
 | Annotations for persons     | 375   |
 | Annotations for locations   | 149   |
 | Annotations for works       | 203   |
-| NIL annotations             | 57    |
+| NIL annotations             | 74    |
 
 ### Test Set
 
@@ -54,10 +54,10 @@ List of annotated entities (coarse level only):
 | Annotations for persons     | 318   |
 | Annotations for locations   | 130   |
 | Annotations for works       | 169   |
-| NIL annotations             | 38    |
+| NIL annotations             | 42    |
 
 ## Creation Date
-December 12, 2024
+March 11, 2025
 
 ## Purpose and Use
 The **DigitalZibaldone Entity Linking Dataset** serves as a resource for training and evaluating entity linking models, particularly in historical texts. The presence of NIL annotations highlights instances where entities could not be found in existing knowledge bases, challenging models to handle out-of-knowledge-base (OOV) entities.
