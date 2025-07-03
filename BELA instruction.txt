@@ -1,5 +1,0 @@
-BELA instruction:
-
-- Python==3.19
-- requirements with correct library version
-- check compatibility of faiss with cuda < 12

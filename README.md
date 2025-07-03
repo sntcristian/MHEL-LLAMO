@@ -15,11 +15,11 @@ This project want to create easy-to-use Multilingual Entity Linking model by BEL
 
 (optional) It might be a good idea to use a separate conda environment. Python 3.9 is recommended. It can be created by running:
 ```
-conda create -n bela39 -y python=3.9 && conda activate blink39
+conda create -n bela39 -y python=3.9 && conda activate bela39
 pip install -r requirements.txt
 ```
 
-### 2. Download the BLINK models
+### 2. Download the BELA models
 
 The BELA pretrained models can be downloaded using the following script:
 ```console
