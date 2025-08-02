@@ -5,6 +5,7 @@ from hydra.experimental import compose, initialize_config_module
 from typing import List, Dict, Any, Tuple
 import logging
 import sqlite3
+import re
 
 
 
@@ -150,12 +151,37 @@ class EntityDisambiguator:
         return torch.from_numpy(scores).to(self.device), torch.from_numpy(indices).to(self.device)
 
 
+    def get_entity_info(self, lang, entity_id):
+        supported_lang = ["en", "fr", "sv", "it", "de", "nl", "fi"]
+        if lang not in supported_lang:
+            raise Exception("lang must be one of the following iso-codes: en, de, fr, it, nl, fi, sv")
+        
+        table_name = f"{lang}wiki"
+        cursor = self.conn.cursor()
+        cursor.execute('''
+        SELECT 
+            t1.id,
+            t1.wikidata_qid,
+            t1.type_,
+            t1.min_date,
+            t2.sitelink,
+            t2.descr
+        FROM entities t1
+        LEFT JOIN {} t2 ON t1.id = t2.id
+        WHERE t1.id = ?;
+        '''.format(table_name), (entity_id,))
+        result = cursor.fetchall()[0]
+        return result
+
+
+
 
     def get_candidates_batch(self,
                 texts: List[str],
                 mention_offsets: List[List[int]],
                 mention_lengths: List[List[int]],
-                k: int = 10
+                k: int = 10,
+                lang: str = "en"
         ) -> List[List[Dict[str, Any]]]:
             """
             Get top-k candidates in a batch of texts.
@@ -192,33 +218,22 @@ class EntityDisambiguator:
                         ex_indices = indices[example_idx]
                         ex_scores = scores[example_idx]
                         for index, score in zip(ex_indices, ex_scores):
-                            cursor = self.conn.cursor()
-                            cursor.execute("""
-                                                            SELECT id, wikidata_qid, enwiki, dewiki, itwiki, frwiki, svwiki, fiwiki, nlwiki, type_, min_date
-                                                            FROM entities
-                                                            WHERE id = ?
-                                                        """, (index,))
-                            candidate_info = cursor.fetchall()[0]
+                            candidate_info = self.get_entity_info(lang, index)
                             candidates.append({
                                 "wb_id": candidate_info[1],
-                                "enwiki": candidate_info[2],
-                                "dewiki": candidate_info[3],
-                                "itwiki": candidate_info[4],
-                                "frwiki": candidate_info[5],
-                                "svwiki": candidate_info[6],
-                                "fiwiki": candidate_info[7],
-                                "nlwiki": candidate_info[8],
-                                "type": candidate_info[9],
-                                "min_date": candidate_info[10],
+                                "type": candidate_info[2] if candidate_info[2] else "",
+                                "min_date": candidate_info[3] if candidate_info[3] else "",
+                                "sitelink":candidate_info[4].replace("_", " ") if candidate_info[4] else "",
+                                "descr":candidate_info[5] if candidate_info[5] else "",
                                 "score": score
                             })
-                        text_predictions.append(
-                            {"start_pos": offset,
-                             "end_pos": offset + length,
-                             "surface":text[offset:offset+length],
-                             "candidates":candidates}
-                        )
-                        example_idx += 1
+                    text_predictions.append(
+                        {"start_pos": offset,
+                         "end_pos": offset + length,
+                         "surface":text[offset:offset+length],
+                         "candidates":candidates}
+                    )
+                    example_idx += 1
                 predictions.append(text_predictions)
 
             return predictions
@@ -227,32 +242,5 @@ class EntityDisambiguator:
 
 
 
-def load_disambiguator(
-        checkpoint_path: str = "./models/model_wiki.ckpt",
-        faiss_index_path: str = "./models/faiss.index",
-        wikidata_index_path: str = "./models/index.txt",
-        db_path: str = "./models/entities.sqlite",
-        device: str = "cuda:0",
-        embedding_dim = 300
-) -> EntityDisambiguator:
-    """
-    Factory function to create an EntityDisambiguator instance.
 
-    Args:
-        checkpoint_path: Path to model checkpoint
-        faiss_index_path: Path to FAISS index
-        wikidata_index_path: Path to Wikidata QID index
-        device: Device to run on
-
-    Returns:
-        Configured EntityDisambiguator instance
-    """
-    return EntityDisambiguator(
-        checkpoint_path=checkpoint_path,
-        faiss_index_path=faiss_index_path,
-        wikidata_index_path=wikidata_index_path,
-        db_path=db_path,
-        device=device,
-        embedding_dim = embedding_dim
-    )
 
