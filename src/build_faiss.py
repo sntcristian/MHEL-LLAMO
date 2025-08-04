@@ -160,8 +160,8 @@ class EmbeddingIndexer:
 # Example usage
 def main():
     # Configuration
-    embeddings_file = "./models/embeddings.pt"  # Replace with your file path
-    index_output_file = "./models/faiss.index"
+    embeddings_file = "../models/embeddings.pt"  # Replace with your file path
+    index_output_file = "../models/faiss.index"
 
     # Create indexer
     indexer = EmbeddingIndexer(

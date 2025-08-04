@@ -8,12 +8,12 @@ import concurrent.futures
 import multiprocessing as mp
 
 # File paths
-index_path = 'index.txt'
-db_path = 'knowledge_base.sqlite'
-type2class_path = "type2classes.json"
-rdf1_path = "types_and_dates.rdf"
-rdf2_path = "sitelinks.rdf"
-rdf3_path = "descriptions.rdf"
+index_path = '../models/index.txt'
+db_path = '../models/knowledge_base.sqlite'
+type2class_path = "../rdfs/type2classes.json"
+rdf1_path = "../rdfs/types_and_dates.rdf"
+rdf2_path = "../rdfs/sitelinks.rdf"
+rdf3_path = "../rdfs/descriptions.rdf"
 
 
 # Load mappings once

@@ -1,0 +1,2231 @@
+doc_id,surface,start_pos,end_pos,type,identifier
+hidden_test_de_1_sent1,Wien,0,4,LOC,NIL
+hidden_test_de_1_sent2,Kramarsch,215,224,PER,NIL
+hidden_test_de_1_sent2,Prag,356,360,LOC,Q1085
+hidden_test_de_1_sent2,Prag,475,479,LOC,Q1085
+hidden_test_de_1_sent2,Thun,782,786,PER,Q79181
+hidden_test_de_1_sent2,Böhmen,950,956,LOC,Q39193
+hidden_test_de_1_sent2,Prag,1353,1357,LOC,Q1085
+hidden_test_de_1_sent2,Thun,1417,1421,PER,Q79181
+hidden_test_de_1_sent2,Prag,1478,1482,LOC,Q1085
+hidden_test_de_1_sent2,"Thun,",1683,1688,PER,Q79181
+hidden_test_de_1_sent3,Klub der Vereinigten Linken,14,41,ORG,NIL
+hidden_test_de_1_sent3,v. Plener,88,97,PER,Q324918
+hidden_test_de_1_sent3,v. Plener,162,171,PER,Q324918
+hidden_test_de_1_sent3,v. Plener,413,422,PER,Q324918
+hidden_test_de_1_sent4,v. Plener,138,147,PER,Q324918
+hidden_test_de_1_sent4,v. Plener,583,592,PER,Q324918
+hidden_test_de_1_sent4,v. Plener,727,736,PER,Q324918
+hidden_test_de_1_sent5,v. Plener,187,196,PER,Q324918
+hidden_test_de_1_sent5,v. Plener,246,255,PER,Q324918
+hidden_test_de_1_sent5,v. Plener,289,298,PER,Q324918
+hidden_test_de_1_sent5,v. Plener,555,564,PER,Q324918
+hidden_test_de_1_sent5,v. Plener,774,783,PER,Q324918
+hidden_test_de_1_sent5,Thun,876,880,PER,Q79181
+hidden_test_de_1_sent6,Thun,36,40,PER,Q79181
+hidden_test_de_1_sent6,Kramarsch,91,100,PER,NIL
+hidden_test_de_1_sent6,MariePospischil,133,148,PER,NIL
+hidden_test_de_1_sent6,Prag,199,203,LOC,Q1085
+hidden_test_de_1_sent6,Thun,222,226,PER,Q79181
+hidden_test_de_1_sent6,Brzorad,278,285,PER,Q14971052
+hidden_test_de_1_sent6,Thun,330,334,PER,Q79181
+hidden_test_de_1_sent6,Schamanek,450,459,PER,NIL
+hidden_test_de_1_sent6,Schamanek,571,580,PER,NIL
+hidden_test_de_1_sent6,Thun,627,631,PER,Q79181
+hidden_test_de_1_sent6,Prag,664,668,LOC,Q1085
+hidden_test_de_1_sent6,Thun,683,687,PER,Q79181
+hidden_test_de_1_sent6,Kramarsch,807,816,PER,NIL
+hidden_test_de_1_sent6,Thun,922,926,PER,Q79181
+hidden_test_de_1_sent6,Thun,1166,1170,PER,Q79181
+hidden_test_de_1_sent8,Klausen,19,26,LOC,Q378095
+hidden_test_de_1_sent9,Johann von Wildenradt,23,44,PER,NIL
+hidden_test_de_1_sent10,Gaißmayr,368,376,PER,NIL
+hidden_test_de_1_sent10,Matthäus,381,389,PER,NIL
+hidden_test_de_1_sent11,Michel Gruber,68,81,PER,NIL
+hidden_test_de_1_sent12,Golling,300,307,LOC,NIL
+hidden_test_de_1_sent12,Thomas Reustl,322,335,PER,NIL
+hidden_test_de_1_sent12,Radstatt,539,547,LOC,Q260950
+hidden_test_de_1_sent12,Dietrichstein's,710,725,PER,NIL
+hidden_test_de_1_sent13,Radstatt,4,12,LOC,Q260950
+hidden_test_de_1_sent13,Reustl,22,28,PER,NIL
+hidden_test_de_1_sent13,Schladming,184,194,LOC,Q254221
+hidden_test_de_1_sent14,Dietrichstein,123,136,PER,NIL
+hidden_test_de_1_sent14,Nikolaus von Salm,263,280,PER,Q26486738
+hidden_test_de_1_sent15,Mur,0,3,LOC,Q259893
+hidden_test_de_1_sent15,Bruck an derMur,80,95,LOC,Q259893
+hidden_test_de_1_sent15,"„Obersteierblatt""",110,127,PROD,NIL
+hidden_test_de_1_sent15,Kielmansegg,207,218,PER,NIL
+hidden_test_de_1_sent15,Liechtenstein,1599,1612,PER,Q78567
+hidden_test_de_1_sent15,Liberalen,1616,1625,ORG,NIL
+hidden_test_de_1_sent72,Amsterdam,0,9,LOC,NIL
+hidden_test_de_1_sent73,London,0,6,LOC,NIL
+hidden_test_de_1_sent75,Paris,1,6,LOC,NIL
+hidden_test_de_1_sent87,Wien,15,19,LOC,NIL
+hidden_test_de_1_sent91,Josefstadt,15,25,LOC,NIL
+hidden_test_de_1_sent92,Rudolfsheim,16,27,LOC,NIL
+hidden_test_de_1_sent96,Amerika,27,34,LOC,NIL
+hidden_test_de_1_sent97,Bruno Zappert,38,51,PER,NIL
+hidden_test_de_1_sent99,William BoltonMarie Geiringer,0,29,PER,NIL
+hidden_test_de_1_sent100,Aron MandelblühSarah,0,20,PER,NIL
+hidden_test_de_1_sent100,Wenzel PawlizekCarl Schauer,32,59,PER,NIL
+hidden_test_de_1_sent100,Mitzi Bardi,61,72,PER,NIL
+hidden_test_de_1_sent101,Frank,5,10,PER,NIL
+hidden_test_de_1_sent102,Jos. Paulmann,0,13,PER,NIL
+hidden_test_de_1_sent103,Franz Graselli,0,14,PER,NIL
+hidden_test_de_1_sent104,Marianka,0,8,PER,NIL
+hidden_test_de_1_sent104,Gisela Magnus,22,35,PER,NIL
+hidden_test_de_1_sent105,Johann Degelmeier Ed. Lunzer,0,28,PER,NIL
+hidden_test_de_1_sent106,Mali,0,4,PER,NIL
+hidden_test_de_1_sent106,Kathi Krenn,20,31,PER,NIL
+hidden_test_de_1_sent107,Sali,0,4,PER,NIL
+hidden_test_de_1_sent107,Ella Carlé,6,16,PER,NIL
+hidden_test_de_1_sent108,Kathi,0,5,PER,NIL
+hidden_test_de_1_sent108,Elsa Wernier,7,19,PER,NIL
+hidden_test_de_1_sent109,Tini Käthi Wernier,0,18,PER,NIL
+hidden_test_de_1_sent110,Susi,0,4,PER,NIL
+hidden_test_de_1_sent110,Mitzi Ganser,6,18,PER,NIL
+hidden_test_de_1_sent111,Thildi Käthi Hanke,0,18,PER,NIL
+hidden_test_de_1_sent112,Jenny,0,5,PER,NIL
+hidden_test_de_1_sent112,Mitzi Bär,21,30,PER,NIL
+hidden_test_de_1_sent113,Emmy,0,4,PER,NIL
+hidden_test_de_1_sent113,Lina Stöhr,6,16,PER,NIL
+hidden_test_de_1_sent114,Mary,0,4,PER,NIL
+hidden_test_de_1_sent114,Mitzi Theser,6,18,PER,NIL
+hidden_test_de_1_sent115,Steffens,0,8,PER,NIL
+hidden_test_de_1_sent115,Carl OesterreicherJohn,21,43,PER,NIL
+hidden_test_de_1_sent115,Gustav Marik,54,66,PER,NIL
+hidden_test_de_1_sent116,Willy,0,5,PER,NIL
+hidden_test_de_1_sent116,Josef Frank,7,18,PER,NIL
+hidden_test_de_1_sent117,Hevesy Istwan,0,13,PER,NIL
+hidden_test_de_1_sent117,Julius KnaackKnoll,18,36,PER,NIL
+hidden_test_de_1_sent117,Arthur Lorette,53,67,PER,NIL
+hidden_test_de_1_sent118,Maier,0,5,PER,NIL
+hidden_test_de_1_sent118,Arthur Müllner,23,37,PER,NIL
+hidden_test_de_1_sent119,Tschibi,0,7,PER,NIL
+hidden_test_de_1_sent119,Adolf Karlinger,19,34,PER,NIL
+hidden_test_de_1_sent120,Tschibe,0,7,PER,NIL
+hidden_test_de_1_sent120,Carl Haßmann,20,32,PER,NIL
+hidden_test_de_1_sent121,Fru=Fru,0,7,PER,NIL
+hidden_test_de_1_sent121,Esther Stein,22,34,PER,NIL
+hidden_test_de_1_sent122,Heinrich Baß,20,32,PER,NIL
+hidden_test_de_1_sent123,Arthur Schanenburg,0,18,PER,NIL
+hidden_test_de_1_sent123,Albert Reiß,21,32,PER,NIL
+hidden_test_de_1_sent124,Amerika,62,69,LOC,NIL
+hidden_test_de_1_sent128,Daun,165,169,PER,NIL
+hidden_test_de_1_sent132,Venedig,1,8,LOC,NIL
+hidden_test_de_1_sent132,Wien,12,16,LOC,NIL
+hidden_test_de_1_sent142,Anton Schey,57,68,PER,NIL
+hidden_test_de_1_sent144,Hainfeld,109,117,LOC,NIL
+hidden_test_de_1_sent147,Franz Lütgenau,8,22,PER,NIL
+hidden_test_de_1_sent152,Paul Kempe,4,14,PER,NIL
+hidden_test_de_1_sent153,Wilhelm Liebknecht,4,22,PER,NIL
+hidden_test_de_1_sent154,Sigmund Weiler,80,94,PER,NIL
+hidden_test_de_1_sent154,Wien,110,114,LOC,NIL
+hidden_test_de_1_sent157,Wien,32,36,LOC,NIL
+hidden_test_de_1_sent163,Jacob Rothberger,65,81,PER,NIL
+hidden_test_de_1_sent163,Jakob Weinberger,229,245,PER,NIL
+hidden_test_de_1_sent163,Wien,268,272,LOC,NIL
+hidden_test_de_1_sent163,Ditmar,354,360,PER,NIL
+hidden_test_de_1_sent172,Wien,71,75,LOC,NIL
+hidden_test_de_1_sent184,Brünn,424,429,LOC,NIL
+hidden_test_de_1_sent184,Ignaz Brand,490,501,PER,NIL
+hidden_test_de_1_sent184,Wien,502,506,LOC,NIL
+hidden_test_de_1_sent186,Wien,34,38,LOC,NIL
+hidden_test_de_1_sent187,Wien,18,22,LOC,NIL
+hidden_test_de_1_sent192,Wien,29,33,LOC,NIL
+hidden_test_de_1_sent194,Wien,59,63,LOC,NIL
+hidden_test_de_1_sent194,Wien,84,88,LOC,NIL
+hidden_test_de_1_sent194,Franzensfeste,97,110,LOC,NIL
+hidden_test_de_1_sent194,Wien,142,146,LOC,NIL
+hidden_test_de_1_sent194,Wien,164,168,LOC,NIL
+hidden_test_de_1_sent194,Wien,193,197,LOC,NIL
+hidden_test_de_1_sent194,Leoben,209,215,LOC,NIL
+hidden_test_de_1_sent195,Wien,14,18,LOC,NIL
+hidden_test_de_1_sent195,Payerbach,73,82,LOC,NIL
+hidden_test_de_1_sent195,Laxenburg,108,117,LOC,NIL
+hidden_test_de_1_sent195,Aspang,119,125,LOC,NIL
+hidden_test_de_1_sent195,Potten¬dorf,137,148,LOC,NIL
+hidden_test_de_1_sent195,Leobersdorf,192,203,LOC,NIL
+hidden_test_de_1_sent195,Kaltenleutgeben,205,220,LOC,NIL
+hidden_test_de_1_sent195,Laxen¬burg,222,232,LOC,NIL
+hidden_test_de_1_sent195,Gutenstein,234,244,LOC,NIL
+hidden_test_de_1_sent195,Hainfeld,246,254,LOC,NIL
+hidden_test_de_1_sent195,Mödling,286,293,LOC,NIL
+hidden_test_de_1_sent195,Steinbrück,325,335,LOC,NIL
+hidden_test_de_1_sent195,Kaltenleutgeben,337,352,LOC,NIL
+hidden_test_de_1_sent195,Laxenbug,354,362,LOC,NIL
+hidden_test_de_1_sent195,Pottendorf,375,385,LOC,NIL
+hidden_test_de_1_sent195,Neustadt,391,399,LOC,NIL
+hidden_test_de_1_sent195,Böslau,456,462,LOC,NIL
+hidden_test_de_1_sent195,Böslau,491,497,LOC,NIL
+hidden_test_de_1_sent195,Kaltenleutgeben,499,514,LOC,NIL
+hidden_test_de_1_sent195,Laxenburg,516,525,LOC,NIL
+hidden_test_de_1_sent195,Kaltenleutgeben,569,584,LOC,NIL
+hidden_test_de_1_sent195,Laxenburg,586,595,LOC,NIL
+hidden_test_de_1_sent195,Böslau,629,635,LOC,NIL
+hidden_test_de_1_sent195,Mürzzuschlag,665,677,LOC,NIL
+hidden_test_de_1_sent195,Kaltenleutgeben,679,694,LOC,NIL
+hidden_test_de_1_sent195,Laxenburg,696,705,LOC,NIL
+hidden_test_de_1_sent195,Gutenstein,707,717,LOC,NIL
+hidden_test_de_1_sent195,Hain¬feld,719,728,LOC,NIL
+hidden_test_de_1_sent195,Mödling,764,771,LOC,NIL
+hidden_test_de_1_sent195,Böslau,798,804,LOC,NIL
+hidden_test_de_1_sent195,Kaltenleutgeben,805,820,LOC,NIL
+hidden_test_de_1_sent195,Laxenburg,822,831,LOC,NIL
+hidden_test_de_1_sent195,Leobersdorf,865,876,LOC,NIL
+hidden_test_de_1_sent195,Kaltenleut¬geben,878,894,LOC,NIL
+hidden_test_de_1_sent195,Laxenburg,896,905,LOC,NIL
+hidden_test_de_1_sent195,Böslau,943,949,LOC,NIL
+hidden_test_de_1_sent195,Mödling,980,987,LOC,NIL
+hidden_test_de_1_sent195,Kaltenleutgeben,989,1004,LOC,NIL
+hidden_test_de_1_sent195,Laxenburg,1006,1015,LOC,NIL
+hidden_test_de_1_sent195,Böslau,1065,1071,LOC,NIL
+hidden_test_de_1_sent195,Kaltenleutgeben,1073,1088,LOC,NIL
+hidden_test_de_1_sent195,Laxenburg,1090,1099,LOC,NIL
+hidden_test_de_1_sent195,Böslau,1127,1133,LOC,NIL
+hidden_test_de_1_sent195,Kaltenleutgeben,1175,1190,LOC,NIL
+hidden_test_de_1_sent195,Laxenburg,1192,1201,LOC,NIL
+hidden_test_de_1_sent195,Böslau,1229,1235,LOC,NIL
+hidden_test_de_1_sent195,Rodaun,1237,1243,LOC,NIL
+hidden_test_de_1_sent197,Leobersdorf,0,11,LOC,NIL
+hidden_test_de_1_sent197,Hainfeld,13,21,LOC,NIL
+hidden_test_de_1_sent197,Gutenstein,23,33,LOC,NIL
+hidden_test_de_1_sent197,Böslau,64,70,LOC,NIL
+hidden_test_de_1_sent197,Leobersdorf,116,127,LOC,NIL
+hidden_test_de_1_sent197,Hainfeld,129,137,LOC,NIL
+hidden_test_de_1_sent197,Gutenstein,139,149,LOC,NIL
+hidden_test_de_1_sent197,Böslau,179,185,LOC,NIL
+hidden_test_de_1_sent197,Kaltenleutgeben,187,202,LOC,NIL
+hidden_test_de_1_sent197,Laxenburg,204,213,LOC,NIL
+hidden_test_de_1_sent197,Mödling,225,232,LOC,NIL
+hidden_test_de_1_sent197,Böslau,242,248,LOC,NIL
+hidden_test_de_1_sent197,Graz,280,284,LOC,NIL
+hidden_test_de_1_sent197,Böslau,317,323,LOC,NIL
+hidden_test_de_1_sent197,Kaltenleutgeben,324,339,LOC,NIL
+hidden_test_de_1_sent197,Laxenburg,341,350,LOC,NIL
+hidden_test_de_1_sent197,Mödling,394,401,LOC,NIL
+hidden_test_de_1_sent197,Kaltenleutgeben,446,461,LOC,NIL
+hidden_test_de_1_sent197,Laxenburg,463,472,LOC,NIL
+hidden_test_de_1_sent197,Böslau,506,512,LOC,NIL
+hidden_test_de_1_sent197,Kaltenleutgeben,514,529,LOC,NIL
+hidden_test_de_1_sent197,Böslau,544,550,LOC,NIL
+hidden_test_de_1_sent197,Mödling,600,607,LOC,NIL
+hidden_test_de_1_sent197,Kaltenleutgeben,609,624,LOC,NIL
+hidden_test_de_1_sent197,Laxenburg,626,635,LOC,NIL
+hidden_test_de_1_sent197,Payerbach,664,673,LOC,NIL
+hidden_test_de_1_sent197,Kaltenleutgeben,675,690,LOC,NIL
+hidden_test_de_1_sent197,Laxrnburg,692,701,LOC,NIL
+hidden_test_de_1_sent197,Mödling,747,754,LOC,NIL
+hidden_test_de_1_sent197,Böslau,788,794,LOC,NIL
+hidden_test_de_1_sent197,Kaltenleutgeben,796,811,LOC,NIL
+hidden_test_de_1_sent197,Mödling,857,864,LOC,NIL
+hidden_test_de_1_sent197,Böslau,894,900,LOC,NIL
+hidden_test_de_1_sent197,Kaltenleutgeben,946,961,LOC,NIL
+hidden_test_de_1_sent197,Laxenburg,963,972,LOC,NIL
+hidden_test_de_1_sent197,Leobersdorf,1001,1012,LOC,NIL
+hidden_test_de_1_sent197,Gutenstein,1014,1024,LOC,NIL
+hidden_test_de_1_sent197,Hainfeld,1026,1034,LOC,NIL
+hidden_test_de_1_sent197,Payerbach,1068,1077,LOC,NIL
+hidden_test_de_1_sent197,Kaltenleutgeben,1079,1094,LOC,NIL
+hidden_test_de_1_sent197,Laxenburg,1096,1105,LOC,NIL
+hidden_test_de_1_sent197,Gutenstein,1107,1117,LOC,NIL
+hidden_test_de_1_sent197,Hainfeld,1119,1127,LOC,NIL
+hidden_test_de_1_sent197,Mödling,1156,1163,LOC,NIL
+hidden_test_de_1_sent197,Mödling,1197,1204,LOC,NIL
+hidden_test_de_1_sent197,Böslau,1229,1235,LOC,NIL
+hidden_test_de_1_sent197,Kaltenleutgeben,1238,1253,LOC,NIL
+hidden_test_de_1_sent197,Laxenburg,1255,1264,LOC,NIL
+hidden_test_de_1_sent197,Mödling,1294,1301,LOC,NIL
+hidden_test_de_1_sent197,Kaltenleutgeben,1303,1318,LOC,NIL
+hidden_test_de_1_sent197,Triest,1351,1357,LOC,NIL
+hidden_test_de_1_sent197,Kaltenleutgeben,1359,1374,LOC,NIL
+hidden_test_de_1_sent198,Wien,344,348,LOC,NIL
+hidden_test_de_1_sent199,Wien,31,35,LOC,NIL
+hidden_test_de_1_sent200,Zsolna,49,55,LOC,NIL
+hidden_test_de_1_sent200,Zsolna,349,355,LOC,NIL
+hidden_test_de_1_sent201,Basel,3,8,LOC,NIL
+hidden_test_de_1_sent201,Basel,82,87,LOC,NIL
+hidden_test_de_1_sent201,Pense,389,394,PER,NIL
+hidden_test_de_1_sent204,Neapel,0,6,LOC,NIL
+hidden_test_de_1_sent204,Neapel,100,106,LOC,NIL
+hidden_test_de_1_sent206,Petersburg,177,187,LOC,NIL
+hidden_test_de_1_sent206,Rußland,259,266,LOC,NIL
+hidden_test_de_1_sent207,Rußland,258,265,LOC,NIL
+hidden_test_de_1_sent207,Deutschland,484,495,LOC,NIL
+hidden_test_de_1_sent208,Rußland,3,10,LOC,NIL
+hidden_test_de_1_sent215,G. Arnold,0,9,PER,NIL
+hidden_test_de_1_sent215,Josef Scheu,36,47,PER,NIL
+hidden_test_de_1_sent221,Aussig,58,64,LOC,NIL
+hidden_test_de_1_sent223,Olmütz,14,20,LOC,NIL
+hidden_test_de_1_sent225,Brünn=Wien,14,24,LOC,NIL
+hidden_test_de_1_sent228,Aussig,18,24,LOC,NIL
+hidden_test_de_1_sent232,Olmütz,3,9,LOC,NIL
+hidden_test_de_1_sent235,Brünn=Wien,9,19,LOC,NIL
+hidden_test_de_1_sent237,Wien,37,41,LOC,NIL
+hidden_test_de_1_sent239,Wien,22,26,LOC,NIL
+hidden_test_de_1_sent241,Wien,31,35,LOC,NIL
+hidden_test_de_1_sent243,Wien,21,25,LOC,NIL
+hidden_test_de_1_sent245,Wien,20,24,LOC,NIL
+hidden_test_de_1_sent247,Triest,43,49,LOC,NIL
+hidden_test_de_1_sent249,Triest,23,29,LOC,NIL
+hidden_test_de_1_sent251,Triest,25,31,LOC,NIL
+hidden_test_de_1_sent254,Wien,35,39,LOC,NIL
+hidden_test_de_1_sent256,Wien,47,51,LOC,NIL
+hidden_test_de_1_sent258,Wien,52,56,LOC,NIL
+hidden_test_de_1_sent260,Wien,69,73,LOC,NIL
+hidden_test_de_1_sent262,Triest,50,56,LOC,NIL
+hidden_test_de_1_sent264,Wien,38,42,LOC,NIL
+hidden_test_de_1_sent266,Wien,51,55,LOC,NIL
+hidden_test_de_1_sent268,Wien,64,68,LOC,NIL
+hidden_test_de_1_sent270,Wien,49,53,LOC,NIL
+hidden_test_de_1_sent272,Wien,37,41,LOC,NIL
+hidden_test_de_1_sent273,Wien,52,56,LOC,NIL
+hidden_test_de_1_sent275,Wien,36,40,LOC,NIL
+hidden_test_de_1_sent277,Wien,41,45,LOC,NIL
+hidden_test_de_1_sent279,Wien,37,41,LOC,NIL
+hidden_test_de_1_sent281,Wien,34,38,LOC,NIL
+hidden_test_de_1_sent283,Wien,50,54,LOC,NIL
+hidden_test_de_1_sent285,Wien,36,40,LOC,NIL
+hidden_test_de_1_sent287,Wien,32,36,LOC,NIL
+hidden_test_de_1_sent289,Wien,42,46,LOC,NIL
+hidden_test_de_1_sent291,Wien,53,57,LOC,NIL
+hidden_test_de_1_sent293,Wien,99,103,LOC,NIL
+hidden_test_de_1_sent295,Wien,57,61,LOC,NIL
+hidden_test_de_1_sent297,Wien,54,58,LOC,NIL
+hidden_test_de_1_sent322,Triest,41,47,LOC,NIL
+hidden_test_de_1_sent343,Triest,32,38,LOC,NIL
+hidden_test_de_1_sent462,Wien,41,45,LOC,NIL
+hidden_test_de_2_sent0,Ludwig XIV.,297,308,PER,Q7742
+hidden_test_de_2_sent0,Europas,344,351,LOC,Q46
+hidden_test_de_2_sent0,Marquis de Sade,452,467,PER,Q123867
+hidden_test_de_2_sent1,Weiskirchner,0,12,PER,Q2150882
+hidden_test_de_2_sent1,Bilinski,18,26,PER,Q688332
+hidden_test_de_2_sent1,"Stürgkh,",32,40,PER,Q78537
+hidden_test_de_2_sent1,Haerdtl,45,52,PER,NIL
+hidden_test_de_2_sent2,Bienerth,486,494,PER,Q79052
+hidden_test_de_2_sent2,Oester¬reich,503,515,LOC,Q533534
+hidden_test_de_2_sent2,Bienerth,1196,1204,PER,Q79052
+hidden_test_de_2_sent2,Bienerth,1383,1391,PER,Q79052
+hidden_test_de_2_sent2,"Bilinskis,",1493,1503,PER,Q688332
+hidden_test_de_2_sent2,Ritts,1520,1525,PER,Q7064476
+hidden_test_de_2_sent2,Weiskirchners,1544,1557,PER,Q2150882
+hidden_test_de_2_sent2,Haerdtls,1563,1571,PER,NIL
+hidden_test_de_2_sent2,Stürgkhs,1586,1594,PER,Q78537
+hidden_test_de_2_sent2,Herrv. Bienerth,1809,1824,PER,Q79052
+hidden_test_de_2_sent2,Bienerths,2063,2072,PER,Q79052
+hidden_test_de_2_sent2,Oesterreich,2307,2318,LOC,Q533534
+hidden_test_de_2_sent2,Europas,2483,2490,LOC,Q46
+hidden_test_de_2_sent2,Satan,2585,2590,PER,Q35230
+hidden_test_de_2_sent3,Dänemarks,66,75,LOC,Q35
+hidden_test_de_2_sent3,Frankreichs,80,91,LOC,Q70802
+hidden_test_de_2_sent3,Paris,165,170,LOC,Q90
+hidden_test_de_2_sent3,Grafen Fersen,235,248,PER,NIL
+hidden_test_de_2_sent3,Avenue Friedland,256,272,LOC,NIL
+hidden_test_de_2_sent3,BoulevardMontparnasse,323,344,LOC,Q2922078
+hidden_test_de_2_sent3,New=York,420,428,LOC,Q60
+hidden_test_de_2_sent3,Rue Vaugirard,755,768,LOC,Q2707132
+hidden_test_de_2_sent3,Paris,771,776,LOC,Q90
+hidden_test_de_2_sent3,GrafAdelswärd=Fersen,1660,1680,PER,NIL
+hidden_test_de_2_sent3,Gott,1796,1800,PER,Q178885
+hidden_test_de_2_sent3,Himmels.,1910,1918,LOC,Q5694585
+hidden_test_de_2_sent126,"Wien,",7,12,LOC,Q1741
+hidden_test_de_2_sent126,Arbeiter-Zeitung,20,36,PROD,Q627083
+hidden_test_de_2_sent129,Berlin,0,6,LOC,Q64
+hidden_test_de_2_sent129,Berlin,32,38,LOC,Q64
+hidden_test_de_2_sent132,Leipzig,0,7,LOC,Q2079
+hidden_test_de_2_sent132,Kapitän Lux,19,30,PER,NIL
+hidden_test_de_2_sent132,Belfort,195,202,LOC,Q171545
+hidden_test_de_2_sent132,Deutschland,271,282,LOC,Q43287
+hidden_test_de_2_sent133,Pafitsch,31,39,PER,Q313843
+hidden_test_de_2_sent134,Belgrad,0,7,LOC,Q3711
+hidden_test_de_2_sent134,Pasitsch,32,40,PER,Q313843
+hidden_test_de_2_sent134,Protitsch,147,156,PER,NIL
+hidden_test_de_2_sent134,Prodanowitsch,161,174,PER,NIL
+hidden_test_de_2_sent134,Skuptschina,424,435,ORG,NIL
+hidden_test_de_2_sent135,Belgrad,0,7,LOC,Q3711
+hidden_test_de_2_sent135,Skuptschina Andra Nikolitsch,160,188,PER,NIL
+hidden_test_de_2_sent137,Tirnowo,0,7,LOC,Q173474
+hidden_test_de_2_sent137,Ministerpräsident und Minister desAeußern Geschow,19,68,PER,Q523393
+hidden_test_de_2_sent137,Bulgariens,803,813,LOC,Q147909
+hidden_test_de_2_sent138,Europas,29,36,LOC,Q46
+hidden_test_de_2_sent139,Minister des Innern Ludskanow,0,29,PER,NIL
+hidden_test_de_2_sent143,Madrid,0,6,LOC,Q2807
+hidden_test_de_2_sent143,Calle Mayor,77,88,LOC,Q1149052
+hidden_test_de_2_sent145,London,0,6,LOC,Q84
+hidden_test_de_2_sent146,Hull,11,15,LOC,Q128147
+hidden_test_de_2_sent147,London,0,6,LOC,Q84
+hidden_test_de_2_sent147,Hull,63,67,LOC,Q128147
+hidden_test_de_2_sent148,London,0,6,LOC,Q84
+hidden_test_de_2_sent148,Hull,83,87,LOC,Q128147
+hidden_test_de_2_sent149,Hull,0,4,LOC,Q128147
+hidden_test_de_2_sent149,Wilson Line,60,71,ORG,NIL
+hidden_test_de_2_sent151,New=York,0,8,LOC,Q1384
+hidden_test_de_2_sent153,Rudolf von Habsburg,24,43,PER,Q76956
+hidden_test_de_2_sent153,Maria Theresia=Monument,284,307,LOC,Q21234884
+hidden_test_de_2_sent153,Rudolfs von Habsburg,341,361,PER,Q76956
+hidden_test_de_2_sent153,Rudolf von Habs¬burg,745,765,PER,Q76956
+hidden_test_de_2_sent156,Rudolf von Habsburg=Denkmal,259,286,PER,Q76956
+hidden_test_de_2_sent158,Kohlmarkt,37,46,LOC,Q695132
+hidden_test_de_2_sent158,Mariahilferstraße,58,75,LOC,Q699930
+hidden_test_de_2_sent164,V. Wienstrasse Nr. 89A,48,70,LOC,NIL
+hidden_test_de_2_sent164,Arbeiter=Zeitung,71,87,PROD,Q627083
+hidden_test_de_2_sent164,l. Schulerstrasse Nr. 13,124,148,LOC,NIL
+hidden_test_de_2_sent166,880900900919116255,26,44,LOC,NIL
+hidden_test_de_2_sent166,104684942O. 31722421,63,83,LOC,NIL
+hidden_test_de_2_sent166,Arbeiterzeitung Wien,101,121,LOC,Q1741
+hidden_test_de_2_sent170,E. Braun,25,33,PER,NIL
+hidden_test_de_2_sent170,J. Danneberg,35,47,PER,NIL
+hidden_test_de_2_sent170,M. Dukes,49,57,PER,NIL
+hidden_test_de_2_sent170,Haa'eustein & Vogler,58,78,ORG,NIL
+hidden_test_de_2_sent170,R. Mosse,80,88,PER,NIL
+hidden_test_de_2_sent170,Rarael & Witžek,89,104,ORG,NIL
+hidden_test_de_2_sent170,H. Schalek,109,119,PER,NIL
+hidden_test_de_2_sent172,Sozialdemokratie,34,50,ORG,Q121254
+hidden_test_de_2_sent173,Wien:,91,96,LOC,Q1741
+hidden_test_de_2_sent181,Ungarn,12,18,LOC,Q171150
+hidden_test_de_2_sent185,Deutschland:,0,12,LOC,Q43287
+hidden_test_de_2_sent187,Weltpostverein,21,35,ORG,Q17495
+hidden_test_de_2_sent189,V. Wien¬straße 89 A,52,71,LOC,NIL
+hidden_test_de_2_sent189,I. Schulerstraße 13,93,112,LOC,NIL
+hidden_test_de_2_sent189,9191,123,127,LOC,NIL
+hidden_test_de_2_sent189,II. Bereinsgasse 20,128,147,LOC,NIL
+hidden_test_de_2_sent189,16255,158,163,LOC,NIL
+hidden_test_de_2_sent189,X. Wielandplatz 5,164,181,LOC,Q2568689
+hidden_test_de_2_sent189,XIV. Schweglerstr. 11/13,197,221,LOC,NIL
+hidden_test_de_2_sent189,4942XVI. Klausgasse 34,230,252,LOC,NIL
+hidden_test_de_2_sent189,317,265,268,LOC,NIL
+hidden_test_de_2_sent189,XVII. Lacknergasse 22,269,290,LOC,NIL
+hidden_test_de_2_sent189,22421,300,305,LOC,NIL
+hidden_test_de_2_sent193,Wien,0,4,LOC,Q1741
+hidden_test_de_2_sent196,Wien,0,4,LOC,Q1741
+hidden_test_de_2_sent197,Bienerth,49,57,PER,Q79052
+hidden_test_de_2_sent197,Bienerth,243,251,PER,Q79052
+hidden_test_de_2_sent197,Herrn v. Bienerth,352,369,PER,Q79052
+hidden_test_de_2_sent197,Bienerth,523,531,PER,Q79052
+hidden_test_de_2_sent197,Bienerth,693,701,PER,Q79052
+hidden_test_de_2_sent197,Bienerth,762,770,PER,Q79052
+hidden_test_de_2_sent198,Bienerths,160,169,PER,Q79052
+hidden_test_de_2_sent198,Bienerth,239,247,PER,Q79052
+hidden_test_de_2_sent198,N. Fr. Pr.,494,504,PROD,Q2919142
+hidden_test_de_2_sent198,Bienerth,563,571,PER,Q79052
+hidden_test_de_2_sent198,Serbien,885,892,LOC,Q241748
+hidden_test_de_2_sent198,Ungarn,919,925,LOC,Q171150
+hidden_test_de_2_sent198,Bienerth,1055,1063,PER,Q79052
+hidden_test_de_2_sent198,Herr Steinwender,1090,1106,PER,Q1680904
+hidden_test_de_2_sent198,Handelsminister Pino,1150,1170,PER,Q1403730
+hidden_test_de_2_sent198,Bienerth,1296,1304,PER,Q79052
+hidden_test_de_2_sent198,Bienerth,1355,1363,PER,Q79052
+hidden_test_de_2_sent200,Karl v. Kohl,4,16,PER,NIL
+hidden_test_de_2_sent202,Madame de Staël,27,42,PER,Q123041
+hidden_test_de_2_sent205,Gott,339,343,PER,Q825
+hidden_test_de_2_sent205,Gott,403,407,PER,Q825
+hidden_test_de_2_sent205,Gottes,607,613,PER,Q825
+hidden_test_de_2_sent205,Satan,682,687,PER,Q35230
+hidden_test_de_2_sent205,Mondes,1019,1025,LOC,Q405
+hidden_test_de_2_sent205,Gott,1135,1139,PER,Q190
+hidden_test_de_2_sent205,Bienerthsche,1415,1427,PER,Q79052
+hidden_test_de_2_sent205,Stürgkhs,1499,1507,PER,Q78537
+hidden_test_de_2_sent205,Bienerths,1650,1659,PER,Q79052
+hidden_test_de_2_sent205,Bienerth,1724,1732,PER,Q79052
+hidden_test_de_2_sent205,Bienerthschen,1787,1800,PER,Q79052
+hidden_test_de_2_sent205,Herr v. Bilinski,1834,1850,PER,Q688332
+hidden_test_de_2_sent205,Bienerth,1946,1954,PER,Q79052
+hidden_test_de_2_sent205,Bilinski,1989,1997,PER,Q688332
+hidden_test_de_2_sent205,Stapinski=Bank,2097,2111,ORG,NIL
+hidden_test_de_2_sent205,Bienerths,2184,2193,PER,Q79052
+hidden_test_de_2_sent205,Ritt,2374,2378,PER,Q7064476
+hidden_test_de_2_sent205,Marek,2383,2388,PER,NIL
+hidden_test_de_2_sent205,Bienerth,2471,2479,PER,Q79052
+hidden_test_de_2_sent205,Bienerths,2570,2579,PER,Q79052
+hidden_test_de_2_sent205,Herrn v. Haerdtl,2631,2647,PER,NIL
+hidden_test_de_2_sent205,Herr v. Bienerth,2748,2764,PER,Q79052
+hidden_test_de_2_sent205,Bienerth,3010,3018,PER,Q79052
+hidden_test_de_2_sent205,Bienerth,3091,3099,PER,Q79052
+hidden_test_de_2_sent205,Bienerths,3261,3270,PER,Q79052
+hidden_test_de_2_sent205,Herr v. Bienerth,3330,3346,PER,Q79052
+hidden_test_de_2_sent205,Bienerth,3605,3613,PER,Q79052
+hidden_test_de_2_sent205,Satan,4040,4045,PER,Q35230
+hidden_test_de_2_sent205,Hölle,4255,4260,LOC,Q564
+hidden_test_de_2_sent205,Satan,4335,4340,PER,Q35230
+hidden_test_de_2_sent205,Mond,4453,4457,LOC,Q405
+hidden_test_de_2_sent205,Satan,4643,4648,PER,Q35230
+hidden_test_de_2_sent206,Ersten Wiener Volks¬küchenverein,25,57,ORG,NIL
+hidden_test_de_2_sent206,Erste WienerVolksküchenverein,88,117,ORG,NIL
+hidden_test_de_2_sent206,Zentralverein zur Beköstigungarmer Schulkinder in Wien,132,186,ORG,NIL
+hidden_test_de_2_sent207,Volksküchenverein,17,34,ORG,NIL
+hidden_test_de_2_sent207,Beköstigungsverein,110,128,ORG,NIL
+hidden_test_de_2_sent208,Volksküchenverein,239,256,ORG,NIL
+hidden_test_de_2_sent208,Beköstigungsverein,324,342,ORG,NIL
+hidden_test_de_2_sent208,Favoriten,490,499,LOC,Q1398933
+hidden_test_de_2_sent209,Volksküchenverein,96,113,ORG,NIL
+hidden_test_de_2_sent210,Beköstigungsverein,52,70,ORG,NIL
+hidden_test_de_2_sent211,Volksküchenverein,14,31,ORG,NIL
+hidden_test_de_2_sent211,Beköstigungsverein,179,197,ORG,NIL
+hidden_test_de_2_sent211,Paris,306,311,LOC,Q90
+hidden_test_de_2_sent211,Landelsminister Conyba,414,436,PER,NIL
+hidden_test_de_2_sent211,„Chat Noir“,643,654,LOC,Q1138922
+hidden_test_de_2_sent211,Direktor Salis,709,723,PER,NIL
+hidden_test_de_2_sent211,Maler Willette,771,785,PER,NIL
+hidden_test_de_2_sent211,Maurice Donnay,806,820,PER,Q1251496
+hidden_test_de_2_sent211,Conyba,862,868,PER,NIL
+hidden_test_de_2_sent211,MarcelLegay,960,971,PER,Q7126330
+hidden_test_de_2_sent212,Kahlenberg,7,17,LOC,Q697119
+hidden_test_de_2_sent212,Kahlenberg,65,75,LOC,Q697119
+hidden_test_de_2_sent212,Arbeiter=Zeitung,111,127,PROD,Q627083
+hidden_test_de_2_sent212,Kahlenberg,155,165,LOC,Q697119
+hidden_test_de_2_sent213,Wien,282,286,LOC,Q1741
+hidden_test_de_2_sent213,Kahlenberg,398,408,LOC,Q697119
+hidden_test_de_2_sent213,Kahlenberg,1165,1175,LOC,Q697119
+hidden_test_de_2_sent213,Länderbank,1556,1566,ORG,Q1426044
+hidden_test_de_2_sent214,Europa,28,34,LOC,Q46
+hidden_test_de_2_sent214,Amerika,333,340,LOC,Q828
+hidden_test_de_2_sent214,Europa,346,352,LOC,Q46
+hidden_test_de_2_sent214,Dr. Clerget,425,436,PER,NIL
+hidden_test_de_2_sent214,Zeitschrift der Pariser,444,467,PROD,NIL
+hidden_test_de_2_sent214,Kanada,518,524,LOC,Q16
+hidden_test_de_2_sent214,Rußland,816,823,LOC,Q34266
+hidden_test_de_2_sent214,Skandinavien,827,839,LOC,Q21195
+hidden_test_de_2_sent214,Europas,890,897,LOC,Q46
+hidden_test_de_2_sent214,Europa,935,941,LOC,Q46
+hidden_test_de_2_sent214,Finnland,945,953,LOC,Q33
+hidden_test_de_2_sent214,Bosnien,1054,1061,LOC,Q188736
+hidden_test_de_2_sent214,Herzegowina,1069,1080,LOC,Q189863
+hidden_test_de_2_sent214,Rußland,1087,1094,LOC,Q34266
+hidden_test_de_2_sent214,Skandinavien,1135,1147,LOC,Q21195
+hidden_test_de_2_sent214,Deutschland,1209,1220,LOC,Q43287
+hidden_test_de_2_sent215,Europas,58,65,LOC,Q46
+hidden_test_de_2_sent215,Oesterreich,105,116,LOC,Q533534
+hidden_test_de_2_sent215,Ungarn,120,126,LOC,Q171150
+hidden_test_de_2_sent215,Deutschen Reiche,196,212,LOC,Q43287
+hidden_test_de_2_sent215,Frankreich,233,243,LOC,Q70802
+hidden_test_de_2_sent215,Kanada,423,429,LOC,Q16
+hidden_test_de_2_sent215,Vereinigten Staaten,435,454,LOC,Q30
+hidden_test_de_2_sent215,Indien,575,581,LOC,Q129286
+hidden_test_de_2_sent215,Rußland,642,649,LOC,Q34266
+hidden_test_de_2_sent215,Japan,687,692,LOC,Q17
+hidden_test_de_2_sent215,Rothschildschen Nervenheilanstalt,934,967,ORG,NIL
+hidden_test_de_2_sent215,Maria Theresien=Schlößchens,987,1014,LOC,Q1801194
+hidden_test_de_2_sent215,Döbling,1018,1025,LOC,Q267360
+hidden_test_de_2_sent215,Rothschildschen Nervenheilanstalt,1063,1096,ORG,NIL
+hidden_test_de_2_sent215,Döbling,1100,1107,LOC,Q267360
+hidden_test_de_2_sent215,Döbling,1178,1185,LOC,Q267360
+hidden_test_de_2_sent215,Heilanstalt,1212,1223,ORG,NIL
+hidden_test_de_2_sent215,Maria Theresien=Schlößchens,1254,1281,LOC,Q1801194
+hidden_test_de_2_sent215,Hofzeile,1294,1302,LOC,Q65238254
+hidden_test_de_2_sent215,Pyrkergasse,1311,1322,LOC,NIL
+hidden_test_de_2_sent215,Kuratorium der Rothschildschen Millionenstiftung,1348,1396,ORG,NIL
+hidden_test_de_2_sent215,Kuratoriums,1493,1504,ORG,NIL
+hidden_test_de_2_sent215,Heilanstalt,1592,1603,ORG,NIL
+hidden_test_de_2_sent215,politische Bezirksverein Döbling,1747,1779,ORG,NIL
+hidden_test_de_2_sent215,Wien,1919,1923,LOC,Q1741
+hidden_test_de_2_sent215,Hofzeile,2075,2083,LOC,Q65238254
+hidden_test_de_2_sent244,Jakob Rothberger,195,211,PER,NIL
+hidden_test_de_2_sent245,Emilie Periather,215,231,PER,NIL
+hidden_test_de_2_sent251,Wien,39,43,LOC,NIL
+hidden_test_de_2_sent253,H. Palm,65,72,PER,NIL
+hidden_test_de_2_sent253,Michalecki,73,83,PER,NIL
+hidden_test_de_2_sent254,WIEN,39,43,LOC,NIL
+hidden_test_de_2_sent260,Wilhelm MoikWien,0,16,LOC,NIL
+hidden_test_de_2_sent269,Wien,12,16,LOC,NIL
+hidden_test_de_2_sent271,Payerbach,2,11,LOC,NIL
+hidden_test_de_2_sent271,Kanizsa,13,20,LOC,NIL
+hidden_test_de_2_sent271,Budapest,21,29,LOC,NIL
+hidden_test_de_2_sent271,Güns,31,35,LOC,NIL
+hidden_test_de_2_sent271,Pakrácz=Lipik,75,88,LOC,NIL
+hidden_test_de_2_sent271,Essegg,89,95,LOC,NIL
+hidden_test_de_2_sent271,Sarajevo,97,105,LOC,NIL
+hidden_test_de_2_sent271,Agram,107,112,LOC,NIL
+hidden_test_de_2_sent271,Aspang,114,120,LOC,NIL
+hidden_test_de_2_sent274,Leoben,2,8,LOC,NIL
+hidden_test_de_2_sent274,Vordern¬berg,10,22,LOC,NIL
+hidden_test_de_2_sent274,Venedig,24,31,LOC,NIL
+hidden_test_de_2_sent274,Pontafel,37,45,LOC,NIL
+hidden_test_de_2_sent274,Kanizsa,48,55,LOC,NIL
+hidden_test_de_2_sent274,Essegg,56,62,LOC,NIL
+hidden_test_de_2_sent274,Sarjevo,64,71,LOC,NIL
+hidden_test_de_2_sent274,Pakrácz=Lipik,73,86,LOC,NIL
+hidden_test_de_2_sent274,Agram,87,92,LOC,NIL
+hidden_test_de_2_sent274,Neuberg,94,101,LOC,NIL
+hidden_test_de_2_sent274,Aslenz,103,109,LOC,NIL
+hidden_test_de_2_sent277,Triest,2,8,LOC,NIL
+hidden_test_de_2_sent277,Görz,10,14,LOC,NIL
+hidden_test_de_2_sent277,Fiume,16,21,LOC,NIL
+hidden_test_de_2_sent277,Pola,22,26,LOC,NIL
+hidden_test_de_2_sent277,Rovigno,28,35,LOC,NIL
+hidden_test_de_2_sent277,Sissek,37,43,LOC,NIL
+hidden_test_de_2_sent277,Stein¬brück,49,60,LOC,NIL
+hidden_test_de_2_sent277,Gonobitz,63,71,LOC,NIL
+hidden_test_de_2_sent277,Klagenfurt,73,83,LOC,NIL
+hidden_test_de_2_sent277,Villach,85,92,LOC,NIL
+hidden_test_de_2_sent277,Bozen,93,98,LOC,NIL
+hidden_test_de_2_sent277,Meran,100,105,LOC,NIL
+hidden_test_de_2_sent277,Arco,107,111,LOC,NIL
+hidden_test_de_2_sent277,Innsbruck,113,122,LOC,NIL
+hidden_test_de_2_sent277,Marburg,127,134,LOC,NIL
+hidden_test_de_2_sent277,Wolfsberg,137,146,LOC,NIL
+hidden_test_de_2_sent277,Luttenberg,148,158,LOC,NIL
+hidden_test_de_2_sent277,Gleichenberg,159,171,LOC,NIL
+hidden_test_de_2_sent277,Köflach,174,181,LOC,NIL
+hidden_test_de_2_sent280,Steinbrück,2,12,LOC,NIL
+hidden_test_de_2_sent280,Köflach,14,21,LOC,NIL
+hidden_test_de_2_sent280,Wies,22,26,LOC,NIL
+hidden_test_de_2_sent280,Stainz,28,34,LOC,NIL
+hidden_test_de_2_sent280,Leoben,36,42,LOC,NIL
+hidden_test_de_2_sent280,Neuberg,44,51,LOC,NIL
+hidden_test_de_2_sent284,Triest,2,8,LOC,NIL
+hidden_test_de_2_sent284,Görz,10,14,LOC,NIL
+hidden_test_de_2_sent284,Venedig,16,23,LOC,NIL
+hidden_test_de_2_sent284,Fiume,24,29,LOC,NIL
+hidden_test_de_2_sent284,Pola,31,35,LOC,NIL
+hidden_test_de_2_sent284,Rovigno,37,44,LOC,NIL
+hidden_test_de_2_sent284,Sissek,46,52,LOC,NIL
+hidden_test_de_2_sent284,Brod,54,58,LOC,NIL
+hidden_test_de_2_sent284,Banjaluka,59,68,LOC,NIL
+hidden_test_de_2_sent284,Leoben,70,76,LOC,NIL
+hidden_test_de_2_sent284,Vordernberg,78,89,LOC,NIL
+hidden_test_de_2_sent284,Neuberg,90,97,LOC,NIL
+hidden_test_de_2_sent284,Aslenz,99,105,LOC,NIL
+hidden_test_de_2_sent288,Oedenburg,2,11,LOC,NIL
+hidden_test_de_2_sent288,Kanizsa,13,20,LOC,NIL
+hidden_test_de_2_sent288,Güns,21,25,LOC,NIL
+hidden_test_de_2_sent288,Budapest,27,35,LOC,NIL
+hidden_test_de_2_sent292,Graz,2,6,LOC,NIL
+hidden_test_de_2_sent292,Leoben,8,14,LOC,NIL
+hidden_test_de_2_sent292,Neu¬berg,16,24,LOC,NIL
+hidden_test_de_2_sent297,Stein¬amanger,11,24,LOC,NIL
+hidden_test_de_2_sent301,Kanizsa,2,9,LOC,NIL
+hidden_test_de_2_sent301,Budapest,11,19,LOC,NIL
+hidden_test_de_2_sent301,Pakrácz=Lipik,20,33,LOC,NIL
+hidden_test_de_2_sent301,Essegg,35,41,LOC,NIL
+hidden_test_de_2_sent302,Agram,6,11,LOC,NIL
+hidden_test_de_2_sent302,Sissek,13,19,LOC,NIL
+hidden_test_de_2_sent302,Banjaluka,21,30,LOC,NIL
+hidden_test_de_2_sent306,Triest,2,8,LOC,NIL
+hidden_test_de_2_sent306,Görz,10,14,LOC,NIL
+hidden_test_de_2_sent306,Vene¬dig,16,24,LOC,NIL
+hidden_test_de_2_sent306,Rom,26,29,LOC,NIL
+hidden_test_de_2_sent306,Mailand,31,38,LOC,NIL
+hidden_test_de_2_sent306,Genna,40,45,LOC,NIL
+hidden_test_de_2_sent306,Pola,47,51,LOC,NIL
+hidden_test_de_2_sent306,Rovigno,52,59,LOC,NIL
+hidden_test_de_2_sent306,Fiume,61,66,LOC,NIL
+hidden_test_de_2_sent306,Sissek,68,74,LOC,NIL
+hidden_test_de_2_sent306,Banjaluka,76,85,LOC,NIL
+hidden_test_de_2_sent307,Budapest,0,8,LOC,NIL
+hidden_test_de_2_sent308,Klagenfurt,3,13,LOC,NIL
+hidden_test_de_2_sent308,Franzensfeste,14,27,LOC,NIL
+hidden_test_de_2_sent308,Meran,29,34,LOC,NIL
+hidden_test_de_2_sent308,Arco,36,40,LOC,NIL
+hidden_test_de_2_sent308,Inns¬bruck,42,52,LOC,NIL
+hidden_test_de_2_sent308,Marburg,58,65,LOC,NIL
+hidden_test_de_2_sent312,Triest,2,8,LOC,NIL
+hidden_test_de_2_sent312,Görz,10,14,LOC,NIL
+hidden_test_de_2_sent312,Venedig,16,23,LOC,NIL
+hidden_test_de_2_sent312,Rom,24,27,LOC,NIL
+hidden_test_de_2_sent312,Mailand,29,36,LOC,NIL
+hidden_test_de_2_sent312,Pola,38,42,LOC,NIL
+hidden_test_de_2_sent312,Rovigno,44,51,LOC,NIL
+hidden_test_de_2_sent312,Agram,52,57,LOC,NIL
+hidden_test_de_2_sent312,Gonovitz,59,67,LOC,NIL
+hidden_test_de_2_sent312,Budapest,69,77,LOC,NIL
+hidden_test_de_2_sent312,Pragerhof,82,91,LOC,NIL
+hidden_test_de_2_sent312,Klagenfurt,94,104,LOC,NIL
+hidden_test_de_2_sent312,Wolfsberg,106,115,LOC,NIL
+hidden_test_de_2_sent312,Meran,116,121,LOC,NIL
+hidden_test_de_2_sent312,Arco,123,127,LOC,NIL
+hidden_test_de_2_sent312,Innsbruck,129,138,LOC,NIL
+hidden_test_de_2_sent312,Mar¬burg,144,152,LOC,NIL
+hidden_test_de_2_sent312,Luttenberg,155,165,LOC,NIL
+hidden_test_de_2_sent312,Köflach,167,174,LOC,NIL
+hidden_test_de_2_sent312,Wies,176,180,LOC,NIL
+hidden_test_de_2_sent312,Stainz,181,187,LOC,NIL
+hidden_test_de_2_sent312,Leoben,189,195,LOC,NIL
+hidden_test_de_2_sent312,Vordernberg,197,208,LOC,NIL
+hidden_test_de_2_sent313,Wien,11,15,LOC,NIL
+hidden_test_de_2_sent315,Triest,2,8,LOC,NIL
+hidden_test_de_2_sent315,Rom,10,13,LOC,NIL
+hidden_test_de_2_sent315,Mai¬land,15,23,LOC,NIL
+hidden_test_de_2_sent315,Venedig,25,32,LOC,NIL
+hidden_test_de_2_sent315,Görz,34,38,LOC,NIL
+hidden_test_de_2_sent315,Pola,40,44,LOC,NIL
+hidden_test_de_2_sent315,Agram,46,51,LOC,NIL
+hidden_test_de_2_sent315,Budapest,52,60,LOC,NIL
+hidden_test_de_2_sent316,Arco,3,7,LOC,NIL
+hidden_test_de_2_sent316,Inns¬bruck,9,19,LOC,NIL
+hidden_test_de_2_sent316,Klagenfurt,21,31,LOC,NIL
+hidden_test_de_2_sent316,Wolfsberg,33,42,LOC,NIL
+hidden_test_de_2_sent316,Marburg,47,54,LOC,NIL
+hidden_test_de_2_sent316,Luttenberg,57,67,LOC,NIL
+hidden_test_de_2_sent316,Köflach,69,76,LOC,NIL
+hidden_test_de_2_sent316,Wies,78,82,LOC,NIL
+hidden_test_de_2_sent316,Stainz,83,89,LOC,NIL
+hidden_test_de_2_sent316,Leoben,91,97,LOC,NIL
+hidden_test_de_2_sent320,Essegg,6,12,LOC,NIL
+hidden_test_de_2_sent320,Pakrácz=Lipik,14,27,LOC,NIL
+hidden_test_de_2_sent320,Agram,29,34,LOC,NIL
+hidden_test_de_2_sent320,Buda¬pest,36,45,LOC,NIL
+hidden_test_de_2_sent320,Oedenburg,51,60,LOC,NIL
+hidden_test_de_2_sent324,Steinamanger,2,14,LOC,NIL
+hidden_test_de_2_sent324,Güns,16,20,LOC,NIL
+hidden_test_de_2_sent328,Triest,2,8,LOC,NIL
+hidden_test_de_2_sent328,Rom,10,13,LOC,NIL
+hidden_test_de_2_sent328,Mai¬land,15,23,LOC,NIL
+hidden_test_de_2_sent328,Venedig,25,32,LOC,NIL
+hidden_test_de_2_sent328,Görz,34,38,LOC,NIL
+hidden_test_de_2_sent328,Pola,40,44,LOC,NIL
+hidden_test_de_2_sent328,Rovigno,46,53,LOC,NIL
+hidden_test_de_2_sent328,Fiume,54,59,LOC,NIL
+hidden_test_de_2_sent328,Sissek,61,67,LOC,NIL
+hidden_test_de_2_sent328,Agram,69,74,LOC,NIL
+hidden_test_de_2_sent328,Budapest,76,84,LOC,NIL
+hidden_test_de_2_sent328,Arco,101,105,LOC,NIL
+hidden_test_de_2_sent328,Meran,107,112,LOC,NIL
+hidden_test_de_2_sent328,Inns¬bruck,114,124,LOC,NIL
+hidden_test_de_2_sent328,Klagenfurt,126,136,LOC,NIL
+hidden_test_de_2_sent328,Marburg,142,149,LOC,NIL
+hidden_test_de_2_sent328,Leoben,151,157,LOC,NIL
+hidden_test_de_2_sent328,Neuberg,159,166,LOC,NIL
+hidden_test_de_2_sent332,Graz,2,6,LOC,NIL
+hidden_test_de_2_sent332,Leoben,8,14,LOC,NIL
+hidden_test_de_2_sent332,Vordernberg,15,26,LOC,NIL
+hidden_test_de_2_sent332,Aslenz,28,34,LOC,NIL
+hidden_test_de_2_sent337,Güns,10,14,LOC,NIL
+hidden_test_de_2_sent337,Hainfeld,55,63,LOC,NIL
+hidden_test_de_2_sent337,Aspang,65,71,LOC,NIL
+hidden_test_de_2_sent341,Triest,2,8,LOC,NIL
+hidden_test_de_2_sent341,Görz,10,14,LOC,NIL
+hidden_test_de_2_sent341,Vene¬dig,16,24,LOC,NIL
+hidden_test_de_2_sent341,Pola,26,30,LOC,NIL
+hidden_test_de_2_sent341,Rovigno,32,39,LOC,NIL
+hidden_test_de_2_sent341,Fiume,41,46,LOC,NIL
+hidden_test_de_2_sent341,Sissek,48,54,LOC,NIL
+hidden_test_de_2_sent341,Agram,55,60,LOC,NIL
+hidden_test_de_2_sent341,Radkersburg,62,73,LOC,NIL
+hidden_test_de_2_sent341,Köflach,75,82,LOC,NIL
+hidden_test_de_2_sent341,Wies,84,88,LOC,NIL
+hidden_test_de_2_sent341,Stainz,89,95,LOC,NIL
+hidden_test_de_2_sent341,Vordernberg,97,108,LOC,NIL
+hidden_test_de_2_sent341,Leoben,110,116,LOC,NIL
+hidden_test_de_2_sent341,Neu¬berg,118,126,LOC,NIL
+hidden_test_de_2_sent345,Oedenburg,2,11,LOC,NIL
+hidden_test_de_2_sent349,Steinbrück,2,12,LOC,NIL
+hidden_test_de_2_sent349,Graz,14,18,LOC,NIL
+hidden_test_de_2_sent349,Neuberg,19,26,LOC,NIL
+hidden_test_de_2_sent353,Sarajevo,2,10,LOC,NIL
+hidden_test_de_2_sent353,Essegg,12,18,LOC,NIL
+hidden_test_de_2_sent353,Agram,19,24,LOC,NIL
+hidden_test_de_2_sent353,Budapest,26,34,LOC,NIL
+hidden_test_de_2_sent353,Kanizsa,36,43,LOC,NIL
+hidden_test_de_2_sent353,Pakrácz=Lipik,45,58,LOC,NIL
+hidden_test_de_2_sent353,Oedenburg,64,73,LOC,NIL
+hidden_test_de_2_sent353,Gutenstein,76,86,LOC,NIL
+hidden_test_de_2_sent357,Triest,2,8,LOC,NIL
+hidden_test_de_2_sent357,Görz,10,14,LOC,NIL
+hidden_test_de_2_sent357,Pola,16,20,LOC,NIL
+hidden_test_de_2_sent357,Rovigno,21,28,LOC,NIL
+hidden_test_de_2_sent357,Fiume,30,35,LOC,NIL
+hidden_test_de_2_sent357,Brod,37,41,LOC,NIL
+hidden_test_de_2_sent357,Sissek,43,49,LOC,NIL
+hidden_test_de_2_sent357,Steinbrück,54,64,LOC,NIL
+hidden_test_de_2_sent357,Gonobitz,67,75,LOC,NIL
+hidden_test_de_2_sent357,Villach,77,84,LOC,NIL
+hidden_test_de_2_sent357,Klagenfurt,85,95,LOC,NIL
+hidden_test_de_2_sent357,Wolfsberg,97,106,LOC,NIL
+hidden_test_de_2_sent357,Luttenberg,108,118,LOC,NIL
+hidden_test_de_2_sent357,Köflach,119,126,LOC,NIL
+hidden_test_de_2_sent361,Venedig,2,9,LOC,NIL
+hidden_test_de_2_sent361,Pon¬tafel,15,24,LOC,NIL
+hidden_test_de_2_sent361,Bozen,27,32,LOC,NIL
+hidden_test_de_2_sent361,Meran,34,39,LOC,NIL
+hidden_test_de_2_sent361,Arco,41,45,LOC,NIL
+hidden_test_de_2_sent361,Inns¬bruck,47,57,LOC,NIL
+hidden_test_de_2_sent361,Leoben,59,65,LOC,NIL
+hidden_test_de_2_sent361,Vordernberg,67,78,LOC,NIL
+hidden_test_de_2_sent361,Neu¬berg,80,88,LOC,NIL
+hidden_test_de_2_sent361,Aslenz,90,96,LOC,NIL
+hidden_test_de_2_sent362,Wien,44,48,LOC,NIL
+hidden_test_de_2_sent362,Wien,64,68,LOC,NIL
+hidden_test_de_2_sent362,Wien,91,95,LOC,NIL
+hidden_test_de_2_sent362,Wien,104,108,LOC,NIL
+hidden_test_de_2_sent362,Cormons,121,128,LOC,NIL
+hidden_test_de_2_sent362,Wien,133,137,LOC,NIL
+hidden_test_de_2_sent362,Marburg,155,162,LOC,NIL
+hidden_test_de_2_sent363,M. DukesNachf,484,497,ORG,NIL
+hidden_test_de_2_sent363,Wien I/1,523,531,LOC,Q1741
+hidden_test_de_2_sent364,"DRUCK- UND VERLAGSANSTALT„VORWÄRTS“Wien, V. Wienstrasse 89A",53,112,LOC,NIL
+hidden_test_de_2_sent364,9453,154,158,LOC,NIL
+hidden_test_de_2_sent370,IV. Schäffergasse 22IV. Schönburgstrasse 26V. Diehlgasse 44V. Margaretenstrasse 106V. Ramperstorffergasse 17V. Siebenbrunnengasse 55V. Wiedener Hauptstrasse 156VI. Loquaiplatz 9VI. Millergasse 17XII. Albrechtsbergergasse 29XII. Breitenfurterstrasse 58XII. Gierstergasse 5XII. Ratschkygasse 26XII. Rote Mühlgasse 38XII. Steinackergasse 17XII. Wilhelmstrasse 64XII. Wolfganggasse 58/60XIII. Fenzlgasse 45/52XIII. Hackingerstrasse 41AXIII. Hollergasse 31XIII. Hütteldorferstrasse 181XIII. Kienmayergasse 31XIII. Linzerstrasse 239XIII. St. Veitgasse 65XIII. Iheringgasse 10XIV. Goldschlagstrasse 75XIV. Märzstrasse 39XIV. Märzstrasse 105XIV. Rauchfangkehrergasse 29XV. Herklotzgasse 31XVI. Bertoligasse 1XVI. Hasnerstrasse 51XVI. Koppstrasse 135XVI. Thaliastrasse 132.XVI. Kreitnergasse 31/33,0,788,LOC,NIL
+hidden_test_de_2_sent370,Vereines,823,831,ORG,Q1125001
+hidden_test_de_2_sent370,Verein,1012,1018,ORG,Q1125001
+hidden_test_de_2_sent371,Arbeiter=Zeitung: Dr. Adler=Emmerling,11,48,PER,NIL
+hidden_test_de_2_sent371,Dr. Viktor Adler,65,81,PER,Q366845
+hidden_test_de_2_sent371,Max Winter,113,123,PER,Q214678
+hidden_test_de_2_sent372,Druck= und Verlagsanstalt „Vorwärts“ Swoboda & Co.,0,50,ORG,NIL
+hidden_test_de_2_sent372,Wien. V. Wienstraße 89A,52,75,LOC,NIL
+hidden_test_de_7_sent0,Neueste Zeitung,42,57,PROD,NIL
+hidden_test_de_7_sent1,Wagner'sche Universitäts=Buchdruckerei,34,72,ORG,NIL
+hidden_test_de_7_sent1,Erlerstraße 5,74,87,LOC,NIL
+hidden_test_de_7_sent1,KarlPaulin,117,127,PER,NIL
+hidden_test_de_7_sent1,Erlerstraße 5,129,142,LOC,NIL
+hidden_test_de_7_sent1,Rudolf Wagner,181,194,PER,NIL
+hidden_test_de_7_sent1,Erlerstraße 5,196,209,LOC,NIL
+hidden_test_de_7_sent1,Innsbruck,224,233,LOC,Q1735
+hidden_test_de_7_sent2,illustr. Monatsschrift „Bergland“,8,41,PROD,NIL
+hidden_test_de_7_sent2,750,68,71,LOC,NIL
+hidden_test_de_7_sent2,751,95,98,LOC,NIL
+hidden_test_de_7_sent8,Deutschland,0,11,LOC,Q1206012
+hidden_test_de_7_sent15,Oesterreichische Anzeigen=Gesellschaft A.=G,41,84,ORG,NIL
+hidden_test_de_7_sent15,"Wien, I. Brandstätte 8",86,108,LOC,Q898311
+hidden_test_de_7_sent15,U 22=5=95,118,127,LOC,NIL
+hidden_test_de_7_sent16,"Wien, I., Elisabethstraße 9/II",26,56,LOC,Q19279071
+hidden_test_de_7_sent17,B 22=4=29,8,17,LOC,NIL
+hidden_test_de_7_sent20,Oesterreich,25,36,LOC,Q518101
+hidden_test_de_7_sent21,Innsbruck,0,9,LOC,Q1735
+hidden_test_de_7_sent22,Vaterländische Front,84,104,ORG,Q695482
+hidden_test_de_7_sent22,VaterländischeFront,159,178,ORG,Q695482
+hidden_test_de_7_sent22,Vaterländischen Front,443,464,ORG,Q695482
+hidden_test_de_7_sent22,Innsbruck,546,555,LOC,Q1735
+hidden_test_de_7_sent22,Vaterländische Front,623,643,ORG,Q695482
+hidden_test_de_7_sent22,christlichsozialen Partei,801,826,ORG,Q692131
+hidden_test_de_7_sent22,Oesterreich,840,851,LOC,Q40
+hidden_test_de_7_sent22,Vaterländischen Front,920,941,ORG,Q695482
+hidden_test_de_7_sent22,Oesterreichs,999,1011,LOC,Q518101
+hidden_test_de_7_sent23,N. S. D. A. P,139,152,ORG,Q7320
+hidden_test_de_7_sent23,Oester¬reich,172,184,LOC,Q518101
+hidden_test_de_7_sent23,Vaterländische Front,213,233,ORG,Q695482
+hidden_test_de_7_sent23,Oesterreich,542,553,LOC,Q40
+hidden_test_de_7_sent23,N. S. D. A. P,692,705,ORG,Q7320
+hidden_test_de_7_sent24,Oesterreich,176,187,LOC,Q518101
+hidden_test_de_7_sent24,VaterländischenFront,200,220,ORG,Q695482
+hidden_test_de_7_sent25,Oesterreich,445,456,LOC,Q518101
+hidden_test_de_7_sent25,Deutschen Reich,715,730,LOC,Q1206012
+hidden_test_de_7_sent25,Oesterreichs,787,799,LOC,Q518101
+hidden_test_de_7_sent25,Oesterreichs,971,983,LOC,Q518101
+hidden_test_de_7_sent25,Deutschland,1106,1117,LOC,Q1206012
+hidden_test_de_7_sent26,Deutschen Reiche,171,187,LOC,Q1206012
+hidden_test_de_7_sent28,Vaterländischen Front,60,81,ORG,Q695482
+hidden_test_de_7_sent28,Wien,227,231,LOC,Q1741
+hidden_test_de_7_sent29,BundeskanzlersDr. Dollfuß,42,67,PER,Q11734
+hidden_test_de_7_sent29,Ministerrat,183,194,ORG,NIL
+hidden_test_de_7_sent31,Ministerrat,4,15,ORG,NIL
+hidden_test_de_7_sent31,militärischen Assistenzkörper,50,79,ORG,Q55694738
+hidden_test_de_7_sent31,Heeresministerium,139,156,ORG,Q872173
+hidden_test_de_7_sent31,Ministerrat,248,259,ORG,NIL
+hidden_test_de_7_sent31,militärischenAssistenzkörper,330,358,ORG,Q55694738
+hidden_test_de_7_sent31,frei¬willigen Schutzkorps,397,422,ORG,Q1454936
+hidden_test_de_7_sent31,Schutzkorps,518,529,ORG,Q1454936
+hidden_test_de_7_sent31,Schutz¬korps,795,807,ORG,Q1454936
+hidden_test_de_7_sent32,Ministerrat,24,35,ORG,NIL
+hidden_test_de_7_sent34,Amtlichen Nachrichtenstelle,420,447,ORG,NIL
+hidden_test_de_7_sent34,Bundeskanzleramtes,545,563,ORG,Q668916
+hidden_test_de_7_sent34,Bundes¬kanzler Dollfuß,839,861,PER,Q11734
+hidden_test_de_7_sent34,Innsbruck,897,906,LOC,Q1735
+hidden_test_de_7_sent34,Oesterreich,971,982,LOC,Q518101
+hidden_test_de_7_sent35,Oesterreich,91,102,LOC,Q518101
+hidden_test_de_7_sent35,Oesterreich,491,502,LOC,Q518101
+hidden_test_de_7_sent37,Bundeskanzleramtes,20,38,ORG,Q668916
+hidden_test_de_7_sent83,VINZENZ AHRER,16,29,ORG,NIL
+hidden_test_de_7_sent83,"Innsbruck, Sterzingerstraße 6",76,105,LOC,NIL
+hidden_test_de_7_sent87,Lodenbaur,127,136,ORG,NIL
+hidden_test_de_7_sent87,Moden-Pasch,142,153,ORG,NIL
+hidden_test_de_7_sent87,"Innsbruck, Maria-Theresien-Straße 21",176,212,LOC,Q647485
+hidden_test_de_7_sent88,Grazer Waggon- und Maschinenfabriks - Actiengesellschaftvormals Joh. Weitzer,44,120,ORG,NIL
+hidden_test_de_7_sent88,Graz,122,126,LOC,Q13298
+hidden_test_de_7_sent88,"0253, 3452, 4206",139,155,LOC,NIL
+hidden_test_de_7_sent88,Viktor Stibal,170,183,PER,NIL
+hidden_test_de_7_sent88,"Innsbruck, Müllerstraße Nr. 7",185,214,LOC,NIL
+hidden_test_de_7_sent88,1571,226,230,LOC,NIL
+hidden_test_de_7_sent88,"GerstlWien, VII., Breitegasse 9",406,437,LOC,NIL
+hidden_test_de_7_sent90,A. Sachsenheim,26,40,ORG,NIL
+hidden_test_de_7_sent93,A. Sachsenheims,136,151,ORG,NIL
+hidden_test_de_7_sent94,"Wien, VIII, Langegasse 65",92,117,LOC,NIL
+hidden_test_de_7_sent94,Stiftskeller,188,200,LOC,NIL
+hidden_test_de_7_sent94,Hofgasse,246,254,LOC,NIL
+hidden_test_de_7_sent94,R. Riedmann,298,309,PER,NIL
+hidden_test_de_7_sent95,"P. Marr, GraveurInnsbruck.Erlerstraße 15",0,40,LOC,NIL
+hidden_test_de_7_sent95,Maria=Threresien=Str. 25,44,68,LOC,Q647485
+hidden_test_de_7_sent95,2445,78,82,LOC,NIL
+hidden_test_de_7_sent196,"A. Weissberg, Spezialhaus für Motor¬radindustrie",80,128,ORG,NIL
+hidden_test_de_7_sent196,"Wien, II., Untere Donaustr. 23a",130,161,LOC,NIL
+hidden_test_de_8_sent3,Josef Neugebauer,48,64,PER,NIL
+hidden_test_de_8_sent3,"Neustadta. Mettan, Böhmen",82,107,LOC,NIL
+hidden_test_de_8_sent5,"Krakau,",0,7,LOC,Q31487
+hidden_test_de_8_sent6,Oswiecim,47,55,LOC,Q7342
+hidden_test_de_8_sent6,Krakau,61,67,LOC,Q31487
+hidden_test_de_8_sent6,Oswiecim,482,490,LOC,Q7342
+hidden_test_de_8_sent6,Krakau,496,502,LOC,Q31487
+hidden_test_de_8_sent6,Landes¬ingenieur der Bezirkshauptmannschaft Bugeiski,507,559,PER,NIL
+hidden_test_de_8_sent6,Kommissär der Bezirkshauptmannschaft Kubicks,567,611,PER,NIL
+hidden_test_de_8_sent6,Landesadvokaten Dr. Schlank,619,646,PER,NIL
+hidden_test_de_8_sent6,Alvernia,686,694,LOC,NIL
+hidden_test_de_8_sent7,Landesingenieur Bugeiski,0,24,PER,NIL
+hidden_test_de_8_sent8,Dr. Schlank,0,11,PER,NIL
+hidden_test_de_8_sent9,Kommissär Kubicki,0,17,PER,NIL
+hidden_test_de_8_sent10,"Krakau,",208,215,LOC,Q31487
+hidden_test_de_8_sent10,Landes¬ingenieurs Bugeiski,324,350,PER,NIL
+hidden_test_de_8_sent14,Dr. Ostiller,22,34,PER,NIL
+hidden_test_de_8_sent14,"Il., Karmelitermarkt,Leopoldsgasse 51",42,79,LOC,Q1734069
+hidden_test_de_8_sent15,3979 röm. VIII.,4,19,LOC,NIL
+hidden_test_de_8_sent17,Dürnbach,50,58,LOC,Q673446
+hidden_test_de_8_sent17,Peisching,82,91,LOC,Q673446
+hidden_test_de_8_sent17,Wien,310,314,LOC,Q1741
+hidden_test_de_8_sent17,Dürnbach,320,328,LOC,Q673446
+hidden_test_de_8_sent17,Frau Pottner,387,399,PER,NIL
+hidden_test_de_8_sent18,Frau Pottner,0,12,PER,NIL
+hidden_test_de_8_sent19,Feinputzerei ErnestineGeher,210,237,PER,NIL
+hidden_test_de_8_sent19,2. Bezirk. Asperngasse 5,239,263,LOC,NIL
+hidden_test_de_8_sent19,Firma Anton Schwarz,298,317,ORG,NIL
+hidden_test_de_8_sent19,"Wien, Nußdorferstraße",319,340,LOC,NIL
+hidden_test_de_8_sent20,Franz Leibetzeder,1,18,PER,NIL
+hidden_test_de_8_sent21,Zeillern,37,45,LOC,Q184939
+hidden_test_de_8_sent21,Firma EduardFischer,309,328,LOC,NIL
+hidden_test_de_8_sent21,Linz.,332,337,LOC,Q41329
+hidden_test_de_8_sent21,Franz Leibetzeder,526,543,PER,NIL
+hidden_test_de_8_sent24,Berlin.,16,23,LOC,Q64
+hidden_test_de_8_sent25,Alexander=Kaserne,60,77,LOC,NIL
+hidden_test_de_8_sent25,Berlin,81,87,LOC,Q64
+hidden_test_de_8_sent26,Alexanderkaserne,14,30,PER,NIL
+hidden_test_de_8_sent26,Alexanderstraße,38,53,LOC,Q60457793
+hidden_test_de_8_sent33,Alexanderstraße,395,410,LOC,Q60457793
+hidden_test_de_8_sent47,Triest,32,38,LOC,Q546
+hidden_test_de_8_sent47,Austro=Americana,75,91,ORG,Q609449
+hidden_test_de_8_sent47,Triest,180,186,LOC,Q546
+hidden_test_de_8_sent47,Maria Brenner,264,277,PER,NIL
+hidden_test_de_8_sent48,Sanitäts¬inspektor Dr. Markhl,146,175,PER,NIL
+hidden_test_de_8_sent48,Sankt Bartholomä,179,195,LOC,NIL
+hidden_test_de_8_sent48,Marie Soldan,313,325,PER,NIL
+hidden_test_de_8_sent51,Debrezin.,32,41,LOC,Q79880
+hidden_test_de_8_sent51,Debrezin,44,52,LOC,Q79880
+hidden_test_de_8_sent51,Staats¬bahnlokomotivführer Georg Megyery,80,120,PER,NIL
+hidden_test_de_8_sent53,Niagarafall,17,28,LOC,Q34221
+hidden_test_de_8_sent54,Amerika,67,74,LOC,Q828
+hidden_test_de_8_sent56,Herr Leach,76,86,PER,NIL
+hidden_test_de_8_sent56,„Feuerspritzenhauses“.,116,138,LOC,NIL
+hidden_test_de_8_sent57,Haus Nr. 31 der Unteren Augartenstraße,160,198,LOC,NIL
+hidden_test_de_8_sent57,"„Feuerspritzenhaus“,",215,235,LOC,NIL
+hidden_test_de_8_sent57,Leopoldsgasse,371,384,LOC,NIL
+hidden_test_de_8_sent58,Feuerspritzenhaus,4,21,LOC,NIL
+hidden_test_de_8_sent58,Feuerspritzenhause,185,203,LOC,NIL
+hidden_test_de_8_sent58,Thekla Hegerhorst,238,255,PER,NIL
+hidden_test_de_8_sent58,Johann Frauscher,309,325,PER,NIL
+hidden_test_de_8_sent59,Niagarafälle,30,42,LOC,Q34221
+hidden_test_de_8_sent60,Leach,58,63,PER,NIL
+hidden_test_de_8_sent61,Kurrentgasse.,148,161,LOC,NIL
+hidden_test_de_8_sent336,"Jac. WeinbergerI., Weihburggasse 5Parterre, Mezzanin u. 1. Stock.",0,65,LOC,NIL
+hidden_test_de_8_sent336,4055.,74,79,LOC,NIL
+hidden_test_de_8_sent337,"S. SalzerI., Himmelpfortgasse 3,Mezzanin.",77,118,LOC,Q20796779
+hidden_test_de_8_sent337,1007/VIII,127,136,LOC,NIL
+hidden_test_de_8_sent341,Gisela,72,78,PER,NIL
+hidden_test_de_8_sent341,Marie Locke,83,94,PER,NIL
+hidden_test_de_8_sent342,Gisela,238,244,PER,NIL
+hidden_test_de_8_sent342,Marie Locke,247,258,PER,NIL
+hidden_test_de_8_sent343,"Wien,",0,5,LOC,Q1741
+hidden_test_de_8_sent344,Therese Gritti,0,14,PER,NIL
+hidden_test_de_8_sent345,WEIGL'S VARIÉTÉDREHER - PARK,0,28,LOC,NIL
+hidden_test_de_8_sent345,Deutschland,114,125,LOC,Q43287
+hidden_test_de_8_sent345,Oesterreich,160,171,LOC,Q28513
+hidden_test_de_8_sent346,Otto Trömel,6,17,PER,NIL
+hidden_test_de_8_sent346,Glauchau in Sachsen,18,37,LOC,Q20071
+hidden_test_de_8_sent347,Wien.Wiener Bürgertheater,15,40,ORG,Q1713589
+hidden_test_de_8_sent347,TegernseerBauerntheaters,54,78,ORG,NIL
+hidden_test_de_8_sent352,Ober¬ammergau,15,28,LOC,Q503757
+hidden_test_de_8_sent359,Theater i. d. Josefstadt,0,24,LOC,Q167619
+hidden_test_de_8_sent364,Raimund=Theater.Xaver Terofals SchlierscerBauerntheater,0,55,ORG,NIL
+hidden_test_de_8_sent369,Theater an der Wien,0,19,ORG,Q374336
+hidden_test_de_8_sent370,Exl's Tiroler=Bühne,10,29,ORG,NIL
+hidden_test_de_8_sent380,Heinr. WeinbergerI. Singerstraße 10,0,35,LOC,NIL
+hidden_test_de_8_sent382,9101.Sommertheaterin „Venedig in Wien“,12,50,LOC,NIL
+hidden_test_de_8_sent390,OrnsteinVI. Theobaldgasse 13,0,28,LOC,NIL
+hidden_test_de_8_sent391,Dr. med. u.chlr. Josef Hermann,46,76,PER,NIL
+hidden_test_de_8_sent392,Wieden in Wien,0,14,LOC,Q268001
+hidden_test_de_8_sent400,VerlagOtto & Co,17,32,ORG,NIL
+hidden_test_de_8_sent401,Leipzig,2,9,LOC,Q2079
+hidden_test_de_8_sent403,Oesterreichische Waffenfabriks-Gesellschaft,0,43,ORG,NIL
+hidden_test_de_8_sent403,Steyr.Auto-TechnikumStuttgart,47,76,LOC,Q1022
+hidden_test_de_8_sent403,"Wien, I., WollzeileFilderstr. 63",117,149,LOC,NIL
+hidden_test_de_8_sent408,"7. Bez., Kaiserstraße 40",9,33,LOC,NIL
+hidden_test_de_8_sent409,"., Joselstädterstrasse 34.",0,26,LOC,NIL
+hidden_test_de_8_sent409,"„Zum grossen Mann“., Mariahilferstrasse Nr. 431. Stock.",96,151,LOC,NIL
+hidden_test_de_8_sent409,"Jakob Rothbergen1. Bez., Stephansplatz 9.",288,329,LOC,Q701662
+hidden_test_de_8_sent413,"I., Wipplingerstr. 12.II., Taborstrasse 28.III., Hauptstrasse 36.IV., Margaretenstrasse 4.V., Schönbrunnerstr. 91.VI., Gumpendorferstr. 93.VII., Mariahilferstr. 74 b.VII., Neubaugasse 72.VII. , Lerchenfelderstr. VIII., Josefstädterstr. 73###VIII., Alserstrasse 45.IX., NussdorferstrasseXVIII., Währingerstr. 1###XX., Wallensteinstrasse 2###",9,349,LOC,Q24073580
+hidden_test_de_8_sent418,Kronen=Zeitung,17,31,PROD,Q644103
+hidden_test_de_8_sent422,Julius Hoitasch,34,49,PER,NIL
+hidden_test_de_8_sent422,"Göding Nr. 14, (Mähren)",51,74,LOC,Q321778
+hidden_test_de_8_sent425,Illustrierte Kronen=Zeitung,51,78,PROD,Q644103
+hidden_test_de_8_sent433,IV. Schleifmühlgasse 1.,84,107,LOC,NIL
+hidden_test_de_8_sent433,2106.,120,125,LOC,NIL
+hidden_test_de_8_sent435,Gottlieb Voith,8,22,PER,NIL
+hidden_test_de_8_sent435,"Wien, III/1.",24,36,LOC,Q519552
+hidden_test_de_8_sent438,"Wien, I., Wollzeile 9.",0,22,LOC,NIL
+hidden_test_de_8_sent441,"Waldheim’s ApothelWien, I., Himmelpfortgasse 14 K.",15,65,LOC,Q20796779
+hidden_test_de_8_sent441,N. Eisenmenger,93,107,PER,NIL
+hidden_test_de_8_sent441,"Buchdruckerei und Zeitungsverlag G, Davis & Co",109,155,ORG,NIL
+hidden_test_de_8_sent441,N. Eisenmenger.,182,197,PER,NIL
+hidden_test_de_10_sent0,"Kolowrat-Ring, Fichtegasse Nr. 11",66,99,LOC,NIL
+hidden_test_de_10_sent0,Wollzeile 20,171,183,LOC,NIL
+hidden_test_de_10_sent1,Havas Laffite,73,86,ORG,Q516033
+hidden_test_de_10_sent1,Bul¬& Co.,88,97,ORG,NIL
+hidden_test_de_10_sent1,Paris,101,106,LOC,Q90
+hidden_test_de_10_sent2,"98 London-Wall,in London",7,31,LOC,NIL
+hidden_test_de_10_sent2,Haasenstein & Vogler,33,53,ORG,NIL
+hidden_test_de_10_sent2,Hamburg,57,64,LOC,Q1055
+hidden_test_de_10_sent2,Berlin,65,71,LOC,Q64
+hidden_test_de_10_sent2,Frankf.a.M.,73,84,LOC,Q1794
+hidden_test_de_10_sent2,Basel,88,93,LOC,Q78
+hidden_test_de_10_sent4,Stuttgart,8,17,LOC,Q1022
+hidden_test_de_10_sent4,G.L. Daube & Co.,19,35,ORG,NIL
+hidden_test_de_10_sent4,Ham¬burg,39,47,LOC,Q1055
+hidden_test_de_10_sent4,Frankf.a.M.,51,62,LOC,Q1794
+hidden_test_de_10_sent4,Jäger'sche Buchh.,64,81,ORG,NIL
+hidden_test_de_10_sent4,Chr¬'sche Buchh.,85,101,ORG,NIL
+hidden_test_de_10_sent4,Frankf.a.M.,105,116,LOC,Q1794
+hidden_test_de_10_sent4,Hannover,124,132,LOC,Q1715
+hidden_test_de_10_sent4,Stahel's Annonc.-Bur.,134,155,ORG,NIL
+hidden_test_de_10_sent4,Würz¬burg,159,168,LOC,Q2999
+hidden_test_de_10_sent4,Eugen Fort u. H. Engler,170,193,ORG,NIL
+hidden_test_de_10_sent4,Leipzig,197,204,LOC,Q2079
+hidden_test_de_10_sent5,Dresden,3,10,LOC,Q1731
+hidden_test_de_10_sent5,Jenke,12,17,PER,NIL
+hidden_test_de_10_sent5,Breslau,21,28,LOC,Q1799
+hidden_test_de_10_sent5,A. wager's Central-Annoncen-Bur.,30,62,ORG,NIL
+hidden_test_de_10_sent5,Rudolf Mosse,67,79,PER,Q71476
+hidden_test_de_10_sent5,Berlin,82,88,LOC,Q64
+hidden_test_de_10_sent5,E. E. Oblieght,90,104,ORG,NIL
+hidden_test_de_10_sent5,Florenz,108,115,LOC,Q2044
+hidden_test_de_10_sent6,Wien,15,19,LOC,Q1741
+hidden_test_de_10_sent6,Wollzelle 20,37,49,LOC,NIL
+hidden_test_de_10_sent15,Wien,2,6,LOC,Q1741
+hidden_test_de_10_sent16,Preussen,6,14,LOC,Q38872
+hidden_test_de_10_sent27,Preussen,0,8,LOC,Q38872
+hidden_test_de_10_sent33,Donaufürstenthünmer,0,19,LOC,Q627527
+hidden_test_de_10_sent35,Italien,5,12,LOC,Q172579
+hidden_test_de_10_sent36,G. Edhard,4,13,PER,NIL
+hidden_test_de_10_sent36,Venedig,17,24,LOC,Q641
+hidden_test_de_10_sent36,F. Münster,26,36,PER,NIL
+hidden_test_de_10_sent36,Verona,40,46,LOC,Q2028
+hidden_test_de_10_sent36,E. E.Oblieght,50,63,ORG,NIL
+hidden_test_de_10_sent36,Florenz,67,74,LOC,Q2044
+hidden_test_de_10_sent37,"S.Liechtl, Chef d.Zeitungs¬bur.",5,36,PER,NIL
+hidden_test_de_10_sent37,Bern,40,44,LOC,Q70
+hidden_test_de_10_sent38,Frankreich,5,15,LOC,Q70802
+hidden_test_de_10_sent39,Köln,13,17,LOC,Q365
+hidden_test_de_10_sent40,Auguste Ammel,5,18,PER,NIL
+hidden_test_de_10_sent40,G. A. Alexandre,34,49,PER,NIL
+hidden_test_de_10_sent40,Paris,53,58,LOC,Q90
+hidden_test_de_10_sent40,Strassburg,62,72,LOC,Q6602
+hidden_test_de_10_sent40,A. Havas,85,93,ORG,Q516033
+hidden_test_de_10_sent40,Paris,97,102,LOC,Q90
+hidden_test_de_10_sent41,Schweiz,8,15,LOC,Q39
+hidden_test_de_10_sent43,Spa¬nien,5,13,LOC,Q497777
+hidden_test_de_10_sent43,Portugal,16,24,LOC,Q45670
+hidden_test_de_10_sent44,Köln,14,18,LOC,Q365
+hidden_test_de_10_sent45,"S. Liechtl, Chef d. Zeitungsbur.",5,37,PER,NIL
+hidden_test_de_10_sent45,Bern,40,44,LOC,Q70
+hidden_test_de_10_sent46,England,5,12,LOC,Q21
+hidden_test_de_10_sent47,Köln,15,19,LOC,Q365
+hidden_test_de_10_sent48,H. C. Panzer,5,17,PER,NIL
+hidden_test_de_10_sent48,91. London-Wall,19,34,LOC,NIL
+hidden_test_de_10_sent49,A. Siegle,5,14,PER,NIL
+hidden_test_de_10_sent49,"110 Leadenhall-Street E. C., Lon¬don",16,52,LOC,NIL
+hidden_test_de_10_sent50,Nordamerika,68,79,LOC,Q49
+hidden_test_de_10_sent52,Köln,14,18,LOC,Q365
+hidden_test_de_10_sent53,E. Steiger,5,15,PER,Q16059368
+hidden_test_de_10_sent53,22 and 24 Frankfort Street in Newyork,16,53,LOC,NIL
+hidden_test_de_10_sent54,Brasilien Buenos-Ayres,29,51,LOC,Q1486
+hidden_test_de_10_sent54,Mexico,55,61,LOC,Q96
+hidden_test_de_10_sent54,Spanien,111,118,LOC,Q497777
+hidden_test_de_10_sent54,Köln,132,136,LOC,Q365
+hidden_test_de_10_sent55,Türkei,10,16,LOC,Q12560
+hidden_test_de_10_sent55,Griechenland,18,30,LOC,Q209065
+hidden_test_de_10_sent55,Egypten,31,38,LOC,Q142913
+hidden_test_de_10_sent55,Wien,55,59,LOC,Q1741
+hidden_test_de_10_sent57,Wien,0,4,LOC,Q1741
+hidden_test_de_10_sent58,nordamerikanische Union,4,27,LOC,Q30
+hidden_test_de_10_sent59,England,63,70,LOC,Q21
+hidden_test_de_10_sent59,Albion,202,208,LOC,Q674040
+hidden_test_de_10_sent59,Mexico,434,440,LOC,Q170603
+hidden_test_de_10_sent59,VereinigtenStaaten,892,910,LOC,Q30
+hidden_test_de_10_sent59,Europa,1087,1093,LOC,Q46
+hidden_test_de_10_sent60,Vereinigten Staaten,63,82,LOC,Q30
+hidden_test_de_10_sent60,Forts Sumter,601,613,LOC,Q737517
+hidden_test_de_10_sent62,Louis Napoleon,20,34,PER,Q7721
+hidden_test_de_10_sent62,Richmond,67,75,LOC,Q43421
+hidden_test_de_10_sent62,Mexico,133,139,LOC,Q371334
+hidden_test_de_10_sent63,Europa,58,64,LOC,Q46
+hidden_test_de_10_sent95,Niagarafälle,605,617,LOC,Q34221
+hidden_test_de_10_sent95,Rheinfall,630,639,LOC,Q214924
+hidden_test_de_10_sent96,Alabama,314,321,LOC,Q173
+hidden_test_de_10_sent96,Washington,361,371,LOC,Q61
+hidden_test_de_10_sent97,Nordamerika,31,42,LOC,Q49
+hidden_test_de_10_sent97,Alexis de Tocque¬ville,147,169,PER,Q140694
+hidden_test_de_10_sent97,Frankreich,275,285,LOC,Q58296
+hidden_test_de_10_sent97,Vereinigten Staaten,650,669,LOC,Q30
+hidden_test_de_10_sent97,Weißen Hauses,1048,1061,LOC,Q35525
+hidden_test_de_10_sent98,Vereinigten Staaten,61,80,LOC,Q30
+hidden_test_de_10_sent98,Nordamerika,213,224,LOC,Q49
+hidden_test_de_10_sent99,Neu=England,466,477,LOC,Q18389
+hidden_test_de_10_sent100,Rom,103,106,LOC,Q220
+hidden_test_de_10_sent100,Italien,119,126,LOC,Q170174
+hidden_test_de_10_sent100,Rom,253,256,LOC,Q170174
+hidden_test_de_10_sent100,Bonifaz VIII.,510,523,PER,Q134646
+hidden_test_de_10_sent100,Basilikenvon St. Peter,598,620,ORG,Q12512
+hidden_test_de_10_sent100,St. Paul,625,633,ORG,Q231699
+hidden_test_de_10_sent100,Leo¬stadt,867,876,LOC,Q370350
+hidden_test_de_10_sent100,Veronica,1021,1029,PER,Q196653
+hidden_test_de_10_sent100,St. Peter,1067,1076,LOC,Q12512
+hidden_test_de_10_sent101,Rom,55,58,LOC,Q170174
+hidden_test_de_10_sent101,Giovanni Villani,96,112,PER,Q704179
+hidden_test_de_10_sent104,nordamerikanischen Republik,288,315,LOC,Q30
+hidden_test_de_10_sent104,GeorgeWashington,330,346,PER,Q23
+hidden_test_de_10_sent104,Frankreich,687,697,LOC,Q70802
+hidden_test_de_10_sent104,Spanien,705,712,LOC,Q497777
+hidden_test_de_10_sent104,Washington,729,739,PER,Q23
+hidden_test_de_10_sent106,Wien,0,4,LOC,Q1741
+hidden_test_de_10_sent108,St. Peter,32,41,LOC,Q12512
+hidden_test_de_10_sent108,St. Paul,49,57,LOC,Q231699
+hidden_test_de_10_sent108,Rom,508,511,LOC,Q170174
+hidden_test_de_10_sent108,v. Reumont,517,527,PER,Q76150
+hidden_test_de_10_sent108,Ferdinand Gregorovius,717,738,PER,Q61425
+hidden_test_de_10_sent108,Familie Gaetani=Sermoneta,757,782,PER,Q940238
+hidden_test_de_10_sent108,"Nepot des Papstes, Peter Gae¬tani Graf v. Caserta",818,867,PER,Q134646
+hidden_test_de_10_sent109,Basiliken von St. Peter,136,159,ORG,Q12512
+hidden_test_de_10_sent109,Paul,163,167,ORG,Q231699
+hidden_test_de_10_sent109,Gaetani,285,292,PER,Q940238
+hidden_test_de_10_sent109,Papst Bonifaz' VIII.,629,649,PER,NIL
+hidden_test_de_10_sent109,Bonifaz VIII.,873,886,PER,Q134646
+hidden_test_de_10_sent120,Moriz Löwner,190,202,PER,NIL
+hidden_test_de_10_sent121,israelitischen Friedhofe zu Währing,64,99,LOC,Q872769
+hidden_test_de_10_sent123,"Medicus, 46 Königsstrasse, Jersey, England",111,153,LOC,NIL
+hidden_test_de_10_sent123,Michael Etienne,172,187,PER,Q94052
+hidden_test_de_10_sent123,Adolph Werthner,189,204,PER,Q364523
+hidden_test_de_10_sent124,Verantwortlicher Redacteur: Joseph Mitter,0,41,PER,NIL
+hidden_test_de_10_sent125,Christoph Reisser,38,55,PER,Q1085695
+hidden_test_de_10_sent126,Köln,76,80,LOC,Q365
+hidden_test_de_10_sent126,Posen,89,94,LOC,Q268
+hidden_test_de_10_sent127,Rochow,41,47,PER,NIL
+hidden_test_de_10_sent127,Rochow,1399,1405,PER,NIL
+hidden_test_de_10_sent127,Luther,1533,1539,PER,Q9554
+hidden_test_de_10_sent127,Luther,1788,1794,PER,Q9554
+hidden_test_de_10_sent127,Rochow,2115,2121,PER,NIL
+hidden_test_de_10_sent127,Jesus Christus,2840,2854,PER,Q302
+hidden_test_de_10_sent127,Preußen,3060,3067,LOC,Q27306
+hidden_test_de_10_sent127,Rochow,3120,3126,PER,NIL
+hidden_test_de_10_sent127,Christo,3191,3198,PER,Q302
+hidden_test_de_10_sent128,Rafael,227,233,PER,Q5597
+hidden_test_de_10_sent129,Christus,164,172,PER,Q302
+hidden_test_de_10_sent129,Christus,452,460,PER,Q302
+hidden_test_de_10_sent129,Christus,749,757,PER,Q302
+hidden_test_de_10_sent130,Christus,157,165,PER,Q302
+hidden_test_de_10_sent130,FriedrichWilhelm,427,443,PER,NIL
+hidden_test_de_10_sent134,Rochow,1158,1164,PER,NIL
+hidden_test_de_10_sent139,Frankfurt,0,9,LOC,Q1794
+hidden_test_de_10_sent141,Leipzig,0,7,LOC,Q2079
+hidden_test_de_10_sent146,Amerika,6,13,LOC,Q30
+hidden_test_de_10_sent146,Staatsbahn,23,33,ORG,NIL
+hidden_test_de_10_sent146,Wien,36,40,LOC,Q1741
+hidden_test_de_10_sent262,Wien,180,184,LOC,Q1741
+hidden_test_de_10_sent262,Bludenz,233,240,LOC,Q494504
+hidden_test_de_10_sent262,Debreczin,242,251,LOC,Q79880
+hidden_test_de_10_sent262,Lem¬berg,253,261,LOC,Q36036
+hidden_test_de_10_sent262,Agram,263,268,LOC,Q1435
+hidden_test_de_10_sent262,Lissa,270,275,LOC,Q203767
+hidden_test_de_10_sent262,Szegedin,280,288,LOC,Q81581
+hidden_test_de_10_sent262,Prag,330,334,LOC,Q1085
+hidden_test_de_10_sent262,Pola,363,367,LOC,Q4656
+hidden_test_de_10_sent262,Lissa,437,442,LOC,Q203767
+hidden_test_de_10_sent263,Pariser Observatoriums,19,41,ORG,Q461340
+hidden_test_de_10_sent263,Europa,85,91,LOC,Q46
+hidden_test_de_10_sent263,Irland,107,113,LOC,Q57695350
+hidden_test_de_10_sent263,Schweiz,169,176,LOC,Q39
+hidden_test_de_10_sent263,Greencastle,302,313,LOC,Q2247517
+hidden_test_de_10_sent263,Lyon,344,348,LOC,Q456
+hidden_test_de_10_sent263,Florenz,365,372,LOC,Q2044
+hidden_test_de_10_sent263,Italien,418,425,LOC,Q172579
+hidden_test_de_10_sent263,Mittel=Italien,516,530,LOC,Q172579
+hidden_test_de_10_sent265,k. k. Central=Anstalt fürMeteorologie,55,92,ORG,Q190033
+hidden_test_de_10_sent265,Hohe Warte,94,104,LOC,Q876564
+hidden_test_de_10_sent271,Wiener Börse,0,12,ORG,Q698535
+hidden_test_de_10_sent274,Nationalbank,0,12,ORG,Q670723
+hidden_test_de_10_sent275,Anglo=Bank,4,14,ORG,Q1418039
+hidden_test_de_10_sent276,Staatsbahn,4,14,ORG,NIL
+hidden_test_de_10_sent276,Karl=Ludwigbahn,53,68,ORG,Q554551
+hidden_test_de_10_sent277,Vereinsbank,29,40,ORG,NIL
+hidden_test_de_10_sent277,Franco=Bank,49,60,ORG,NIL
+hidden_test_de_10_sent278,Allgemeine Baugesellschaft,33,59,ORG,Q1770478
+hidden_test_de_10_sent278,Wiener Baugesellschaft,76,98,ORG,NIL
+hidden_test_de_10_sent279,Bauverein,12,21,ORG,NIL
+hidden_test_de_10_sent279,Parcellirungs=Baugesellschaft,34,63,ORG,NIL
+hidden_test_de_10_sent280,Brigittenauer Baugesellschaft,11,40,ORG,NIL
+hidden_test_de_10_sent282,Anglo=Bank,38,48,ORG,Q1418039
+hidden_test_de_10_sent282,Hypothekar=Renten¬bank,61,83,ORG,NIL
+hidden_test_de_10_sent282,Vereinsbank,88,99,ORG,NIL
+hidden_test_de_10_sent282,Staatsbahn,119,129,ORG,NIL
+hidden_test_de_10_sent285,Unionbank,115,124,ORG,Q63437767
+hidden_test_de_10_sent285,Franco=Bank,130,141,ORG,NIL
+hidden_test_de_10_sent285,Hypothekar=Rentenbank,145,166,ORG,NIL
+hidden_test_de_10_sent286,Allgemeine Baugesellschaft,0,26,ORG,Q1770478
+hidden_test_de_10_sent287,Union=Baugesellschaft,4,25,ORG,Q2494460
+hidden_test_de_10_sent288,Staatsbahn,0,10,ORG,NIL
+hidden_test_de_10_sent289,Anglo=Bank,153,163,ORG,Q1418039
+hidden_test_de_10_sent290,Unionbank,3,12,ORG,Q63437767
+hidden_test_de_10_sent291,Vereinsbank,4,15,ORG,NIL
+hidden_test_de_10_sent291,Hypothekar=Rentenbank,20,41,ORG,NIL
+hidden_test_de_10_sent292,Italisch=Oesterreichische Bank,4,34,ORG,NIL
+hidden_test_de_10_sent292,Allge¬meine Oesterreichische Bank,46,79,ORG,NIL
+hidden_test_de_10_sent295,NationalbankCreditanstaltN.=Oe. EscomptebankAnglo=AustrianbankFranco=AustriabankUnionbankBankvereinOesterr. Vereinsb,62,178,ORG,NIL
+hidden_test_de_10_sent296,Donau=Dampfsch.TramwayVerkehrsbankAustro=Egyptische,0,51,ORG,NIL
+hidden_test_de_10_sent304,WechslerbankNordbahnStaatsbahnSüdbahnElisabethbahnKarl=LudwigbahnTheißbahnPardubitzerNordwestbahnFrankf.,14,118,LOC,Q1794
+hidden_test_de_10_sent304,London,128,134,LOC,Q84
+hidden_test_de_10_sent304,Paris,144,149,LOC,Q90
+hidden_test_de_10_sent304,Napoleon,177,185,PER,Q7721
+hidden_test_de_10_sent322,Berlin,0,6,LOC,Q64
+hidden_test_de_10_sent324,WienOest. Staatsb.,0,18,ORG,NIL
+hidden_test_de_10_sent324,Breslau,30,37,LOC,Q1799
+hidden_test_de_10_sent325,WienHambrg.,9,20,LOC,Q1055
+hidden_test_de_10_sent327,Wiener Börse,13,25,ORG,Q698535
+hidden_test_de_10_sent327,Anglo=Bank,65,75,ORG,Q1418039
+hidden_test_de_10_sent327,Unionbank,81,90,ORG,Q63437767
+hidden_test_de_10_sent327,Vereinsbank,95,106,ORG,NIL
+hidden_test_de_10_sent328,Franco=Bank,4,15,ORG,NIL
+hidden_test_de_10_sent328,Italisch=OesterreichischeBank,20,49,ORG,NIL
+hidden_test_de_10_sent329,Handelsbank,4,15,ORG,NIL
+hidden_test_de_10_sent330,Allgemeine Baugesellschaft,4,30,ORG,Q1770478
+hidden_test_de_10_sent330,Wiener Baugesellschaft,35,57,ORG,NIL
+hidden_test_de_10_sent331,Union=Baugesellschaft,4,25,ORG,Q2494460
+hidden_test_de_10_sent331,Bau¬verein,30,40,ORG,NIL
+hidden_test_de_10_sent332,Parcellirungs=Baugesellschaft,4,33,ORG,NIL
+hidden_test_de_10_sent332,BrigittenauerBaugesellschaft,38,66,ORG,NIL
+hidden_test_de_10_sent332,Staatsbahn,71,81,ORG,NIL
+hidden_test_de_10_sent332,Karl=Ludwigbahn,93,108,ORG,Q554551
+hidden_test_de_10_sent334,Pest,3,7,LOC,Q210205
+hidden_test_de_10_sent336,Pest,3,7,LOC,Q210205
+hidden_test_de_10_sent338,Konstantinopel,3,17,LOC,Q406
+hidden_test_de_10_sent342,Hamburg,0,7,LOC,Q1055
+hidden_test_de_10_sent343,Oesterr.,3,11,LOC,Q533534
+hidden_test_de_10_sent346,Staatsbahn,16,26,ORG,NIL
+hidden_test_de_10_sent347,Anglo=Deutsche Bank,32,51,ORG,NIL
+hidden_test_de_10_sent348,Wiener Unionbank,3,19,ORG,Q63437767
+hidden_test_de_10_sent349,Deutsche Effecten= und Wechslerbank,3,38,ORG,Q1202320
+hidden_test_de_10_sent349,Staatsbahn,67,77,ORG,NIL
+hidden_test_de_10_sent350,Berlin,0,6,LOC,Q64
+hidden_test_de_10_sent351,[Berliner Börsenbericht,0,23,ORG,NIL
+hidden_test_de_10_sent352,Frankfurt a. M.,228,243,LOC,Q1794
+hidden_test_de_10_sent352,Staatsbahn,621,631,ORG,NIL
+hidden_test_de_10_sent352,Galizischen Karl=Ludwigbahn,636,663,ORG,Q554551
+hidden_test_de_10_sent352,Staats¬bahn,828,839,ORG,NIL
+hidden_test_de_10_sent352,Wien,981,985,LOC,Q1741
+hidden_test_de_10_sent352,österreich,1048,1058,LOC,Q533534
+hidden_test_de_10_sent352,österreich,1106,1116,LOC,Q533534
+hidden_test_de_10_sent352,Staatsbahn,1162,1172,ORG,NIL
+hidden_test_de_10_sent352,Amerika,1353,1360,LOC,Q30
+hidden_test_de_10_sent354,Frankfurt,41,50,LOC,Q1794
+hidden_test_de_10_sent355,Paris,0,5,LOC,Q90
+hidden_test_de_10_sent361,Banque de France,0,16,ORG,Q806950
+hidden_test_de_10_sent365,Banque de Paris,4,19,ORG,Q3365072
+hidden_test_de_10_sent365,OesterreichischeStaatsbahn,26,52,ORG,NIL
+hidden_test_de_10_sent365,Oesterreichische Bodencredit=Anstalt,168,204,ORG,Q889479
+hidden_test_de_10_sent366,Wien,0,4,LOC,Q1741
+hidden_test_de_10_sent367,[Lemberg=Czernowitz=Jassy Bahn.,0,31,ORG,Q772253
+hidden_test_de_10_sent367,Lemberg=Czernowitz=Jassy Bahn,61,90,ORG,Q772253
+hidden_test_de_10_sent370,Köln,0,4,LOC,Q365
+hidden_test_de_10_sent371,Zürich,0,6,LOC,Q72
+hidden_test_de_10_sent372,Zürich,65,71,LOC,Q72
+hidden_test_de_10_sent373,Liverpool,0,9,LOC,Q24826
+hidden_test_de_10_sent377,Köln,0,4,LOC,Q365
+hidden_test_de_10_sent377,Oesterr. See¬handlung,28,49,ORG,NIL
+hidden_test_de_10_sent378,Zürich,0,6,LOC,Q72
+hidden_test_de_10_sent378,Oesterr. See¬handlung,30,51,ORG,NIL
+hidden_test_de_10_sent378,Amsterd.,236,244,LOC,Q727
+hidden_test_de_10_sent378,London,309,315,LOC,Q84
+hidden_test_de_10_sent378,Wien,326,330,LOC,Q1741
+hidden_test_de_10_sent380,Pariser Observatoriums,19,41,ORG,Q461340
+hidden_test_de_10_sent380,Europa,60,66,LOC,Q46
+hidden_test_de_10_sent380,Irland,72,78,LOC,Q57695350
+hidden_test_de_10_sent380,Italien,86,93,LOC,Q172579
+hidden_test_de_10_sent380,Florenz,263,270,LOC,Q2044
+hidden_test_de_10_sent381,k. k. Central=Austalt fürMeteorologie,37,74,ORG,Q190033
+hidden_test_de_10_sent381,Hohe Warte,76,86,LOC,Q876564
+hidden_test_de_10_sent390,J. F.,6,11,PER,NIL
+hidden_test_de_10_sent390,Toloplas,15,23,LOC,NIL
+hidden_test_de_10_sent390,Kaiserin von Oesterreich,29,53,ORG,NIL
+hidden_test_de_10_sent390,Türkei,72,78,LOC,Q12560
+hidden_test_de_10_sent391,Wien,28,32,LOC,Q1741
+hidden_test_de_10_sent392,K. k. Hofburg-Theater,0,21,LOC,Q45350189
+hidden_test_de_10_sent393,G. v. MoserEduard SternMarie,75,103,PER,NIL
+hidden_test_de_10_sent393,Joseph SommerfeldRose,115,136,PER,NIL
+hidden_test_de_10_sent393,"Heinrich Seld, DoctorSlupetzki",152,182,PER,NIL
+hidden_test_de_10_sent393,Broda,186,191,PER,NIL
+hidden_test_de_10_sent394,Heisler,5,12,PER,NIL
+hidden_test_de_10_sent395,Luaack,4,10,PER,NIL
+hidden_test_de_10_sent395,Brückner,15,23,PER,NIL
+hidden_test_de_10_sent396,v. Hell,4,11,PER,NIL
+hidden_test_de_10_sent397,Wüst,4,8,PER,NIL
+hidden_test_de_10_sent399,von Bauernfeld,26,40,PER,Q78865
+hidden_test_de_10_sent400,RüdigerArnoldMarieGertrud,0,25,PER,NIL
+hidden_test_de_10_sent400,Lewinsky,29,37,PER,Q1707508
+hidden_test_de_10_sent401,Baumeister,4,14,PER,NIL
+hidden_test_de_10_sent402,Zanisch,5,12,PER,NIL
+hidden_test_de_10_sent403,Kupfer,4,10,PER,NIL
+hidden_test_de_10_sent405,K. k. Hof-Operntheater,1,23,LOC,Q209937
+hidden_test_de_10_sent406,Afrika,5,11,LOC,Q15
+hidden_test_de_10_sent407,E. Scribe,24,33,PER,Q319261
+hidden_test_de_10_sent407,F. Gumpert,46,56,PER,Q91749
+hidden_test_de_10_sent407,Meyerbeer,68,77,PER,Q105237
+hidden_test_de_10_sent408,Don Pedro. Präsident,0,20,PER,NIL
+hidden_test_de_10_sent408,Rokitensky,25,35,PER,NIL
+hidden_test_de_10_sent409,"Don Diego, Admiral",0,18,PER,NIL
+hidden_test_de_10_sent409,Neumann,23,30,PER,NIL
+hidden_test_de_10_sent410,Jeus,0,4,PER,NIL
+hidden_test_de_10_sent410,Siegstädt,26,35,PER,Q5741589
+hidden_test_de_10_sent411,Vasco de Gama,0,13,PER,Q7328
+hidden_test_de_10_sent411,Adams,18,23,PER,NIL
+hidden_test_de_10_sent412,Don Alvar,0,9,PER,NIL
+hidden_test_de_10_sent412,Pirk,14,18,PER,NIL
+hidden_test_de_10_sent413,Draxler,24,31,PER,NIL
+hidden_test_de_10_sent414,Krauß,21,26,PER,NIL
+hidden_test_de_10_sent415,NeluscoSeliea,0,13,PER,NIL
+hidden_test_de_10_sent415,Peck,24,28,PER,NIL
+hidden_test_de_10_sent417,"=Materne.Anna, Dienerin",0,23,PER,NIL
+hidden_test_de_10_sent417,Worani,29,35,PER,NIL
+hidden_test_de_10_sent418,Evers,24,29,PER,NIL
+hidden_test_de_10_sent419,Lay,20,23,PER,NIL
+hidden_test_de_10_sent420,Soutscheck,16,26,PER,NIL
+hidden_test_de_10_sent421,Wiener Stadt-Theater,0,20,LOC,Q43436391
+hidden_test_de_10_sent422,Maria Stuart,1,13,PER,Q131412
+hidden_test_de_10_sent423,Schiller,34,42,PER,Q22670
+hidden_test_de_10_sent424,"Elisabeth, Königin vonEngland",0,29,LOC,Q179876
+hidden_test_de_10_sent424,Charles,35,42,PER,NIL
+hidden_test_de_10_sent425,"Marie Stuart, Königin vonSchottland",0,35,PER,Q131412
+hidden_test_de_10_sent425,Frank,41,46,PER,NIL
+hidden_test_de_10_sent427,FrisTheodorWilhelm,1,19,PER,NIL
+hidden_test_de_10_sent427,Mochatschek,35,46,PER,NIL
+hidden_test_de_10_sent427,Guhn,50,54,PER,NIL
+hidden_test_de_10_sent428,A. Bittner,70,80,PER,Q19501972
+hidden_test_de_10_sent429,"Ritschler, FlötistLaura",0,23,PER,NIL
+hidden_test_de_10_sent429,Blasel,39,45,PER,Q1730504
+hidden_test_de_10_sent430,Blasel,4,10,PER,Q18221357
+hidden_test_de_10_sent431,"Bauschperger, Hausherr Resi",0,27,PER,NIL
+hidden_test_de_10_sent431,Pichler,50,57,PER,NIL
+hidden_test_de_10_sent431,Fanni,59,64,PER,NIL
+hidden_test_de_10_sent431,August HolbrichMaschler,76,99,PER,NIL
+hidden_test_de_10_sent431,Bleibtreu,154,163,PER,Q18221370
+hidden_test_de_10_sent432,Brückner,5,13,PER,NIL
+hidden_test_de_10_sent433,Möhring,4,11,PER,NIL
+hidden_test_de_10_sent434,Mettenleitner,4,17,PER,NIL
+hidden_test_de_10_sent434,Schreiner,21,30,PER,NIL
+hidden_test_de_10_sent435,Braunmüller,4,15,PER,Q19284507
+hidden_test_de_10_sent435,Kracher,19,26,PER,Q21033423
+hidden_test_de_10_sent436,Seribani,4,12,PER,NIL
+hidden_test_de_10_sent437,Zelend,4,10,PER,NIL
+hidden_test_de_10_sent439,"Sebastian Tostl, Weber",1,23,PER,NIL
+hidden_test_de_10_sent439,Matras,27,33,PER,Q1705232
+hidden_test_de_10_sent440,Nosl,0,4,PER,NIL
+hidden_test_de_10_sent440,Nazl,15,19,PER,NIL
+hidden_test_de_10_sent440,Mansche,62,69,PER,NIL
+hidden_test_de_10_sent441,Nunzenhofer,4,15,PER,NIL
+hidden_test_de_10_sent442,Braunmüller,4,15,PER,Q19284507
+hidden_test_de_10_sent442,Nöhring,19,26,PER,NIL
+hidden_test_de_10_sent443,Robert Dudley,0,13,PER,NIL
+hidden_test_de_10_sent443,Salomon,18,25,PER,NIL
+hidden_test_de_10_sent444,Georg Talbot,0,12,PER,NIL
+hidden_test_de_10_sent444,Arnau,17,22,PER,Q1725524
+hidden_test_de_10_sent445,Wilhelm Cecil,0,13,PER,NIL
+hidden_test_de_10_sent445,Friedmann,18,27,PER,NIL
+hidden_test_de_10_sent446,Graf v. Kent,0,12,PER,NIL
+hidden_test_de_10_sent446,Klang,17,22,PER,NIL
+hidden_test_de_10_sent447,Wilhelm Davison,0,15,PER,NIL
+hidden_test_de_10_sent447,Urban,20,25,PER,NIL
+hidden_test_de_10_sent448,Amias Paulet,0,12,PER,NIL
+hidden_test_de_10_sent448,Baillant,17,25,PER,NIL
+hidden_test_de_10_sent449,Mortimer,0,8,PER,NIL
+hidden_test_de_10_sent449,Senger,25,31,PER,Q23061647
+hidden_test_de_10_sent450,Graf Aubespine,0,14,PER,NIL
+hidden_test_de_10_sent450,Greve,19,24,PER,NIL
+hidden_test_de_10_sent451,Graf Bellievre,0,14,PER,NIL
+hidden_test_de_10_sent451,Saar,19,23,PER,NIL
+hidden_test_de_10_sent452,Okelin,0,6,PER,NIL
+hidden_test_de_10_sent452,Meixner,30,37,PER,Q1522031
+hidden_test_de_10_sent453,"Melvil, Haushofmeister",0,22,PER,NIL
+hidden_test_de_10_sent453,Pertera,27,34,PER,NIL
+hidden_test_de_10_sent454,Hanna Kennedy,0,13,PER,NIL
+hidden_test_de_10_sent454,Schäffel,19,27,PER,NIL
+hidden_test_de_10_sent455,Margarethe Kurl,0,15,PER,NIL
+hidden_test_de_10_sent455,Balberg,21,28,PER,NIL
+hidden_test_de_10_sent456,Theater in der Josephstadt,0,26,LOC,Q167619
+hidden_test_de_10_sent457,Dr. K. Klug,23,34,PER,NIL
+hidden_test_de_10_sent460,J. . Parisch,95,107,PER,NIL
+hidden_test_de_10_sent460,G. v. Zay##,118,129,PER,NIL
+hidden_test_de_10_sent461,Fürst-Theater im Prater,0,23,LOC,Q1703110
+hidden_test_de_10_sent463,Theater an der Wien,1,20,LOC,Q374336
+hidden_test_de_10_sent465,KarlGörliz,76,86,PER,NIL
+hidden_test_de_10_sent465,A. Berla,118,126,PER,Q15432075
+hidden_test_de_10_sent465,KarlMillöcker,152,165,PER,Q456099
+hidden_test_de_10_sent466,Strampfer-Theater,0,17,LOC,Q1795803
+hidden_test_de_10_sent467,Tuchlauben 16,8,21,LOC,NIL
+hidden_test_de_10_sent469,Oesterreichischer Kunstverein,1,30,ORG,NIL
+hidden_test_de_10_sent469,Tuchlauben Nr. 8,38,54,LOC,NIL
+hidden_test_de_10_sent471,Lothringerstrasse 9,0,19,LOC,Q1852623
+hidden_test_de_10_sent472,Hans Makart,19,30,PER,Q511444
+hidden_test_de_10_sent472,Vene¬dig,50,58,LOC,Q641
+hidden_test_de_10_sent472,Katharina Cornaro,71,88,PER,Q149192
+hidden_test_de_10_sent473,CIRCUS RENZ,0,11,LOC,Q60583150
+hidden_test_de_10_sent473,"Leopoldstadt, Circusgasse 44",12,40,LOC,NIL
+hidden_test_de_10_sent474,Director E. Renz,105,121,PER,Q1359911
+hidden_test_de_10_sent475,Hübel,57,62,PER,NIL
+hidden_test_de_10_sent475,Heger,69,74,PER,NIL
+hidden_test_de_10_sent475,Semmelhock,79,89,PER,NIL
+hidden_test_de_10_sent476,Direktor E. Renz,52,68,PER,Q1359911
+hidden_test_de_10_sent477,Frau Hager=Renz,29,44,PER,NIL
+hidden_test_de_10_sent477,brasilianische Waldmensch Ollve,106,137,PER,NIL
+hidden_test_de_10_sent478,komiker Belling,35,50,PER,NIL
+hidden_test_de_10_sent481,"E. Renz, Director",0,17,PER,Q1359911
+hidden_test_de_10_sent482,Schwender’sNeue Welt Colosseum,0,30,ORG,Q1752074
+hidden_test_de_10_sent482,Hietzing nächst Schönbrunn,33,59,LOC,Q636910
+hidden_test_de_10_sent485,Strauss,0,7,PER,Q13894
+hidden_test_de_10_sent487,Rußland,0,7,LOC,Q34266
+hidden_test_de_10_sent488,Pianoforte - Fabrik,0,19,ORG,Q697519
+hidden_test_de_10_sent488,J. Becker,22,31,PER,Q4081370
+hidden_test_de_10_sent488,St. Petersburg,35,49,LOC,Q656
+hidden_test_de_10_sent488,Rußland,93,100,LOC,Q34266
+hidden_test_de_10_sent489,Bäckerstraße 20,29,44,LOC,Q1018939
+hidden_test_de_10_sent489,Wiener Aquarium,50,65,ORG,NIL
+hidden_test_de_10_sent490,"Prater, Hauptallee Nr. 1",0,24,LOC,NIL
+hidden_test_de_11_sent0,radicalen FührersNikola Pasic,36,65,PER,Q313843
+hidden_test_de_11_sent0,radicalen Partei,104,120,ORG,Q1282536
+hidden_test_de_11_sent0,radicalen Partei,362,378,ORG,Q1282536
+hidden_test_de_11_sent0,Kristic,716,723,PER,Q2072720
+hidden_test_de_11_sent0,Novakovic,757,766,PER,Q1276512
+hidden_test_de_11_sent1,Serbien,407,414,LOC,Q241748
+hidden_test_de_11_sent2,Oesterreichischer Reichsrath,0,28,ORG,Q697775
+hidden_test_de_11_sent3,Wien,0,4,LOC,Q1741
+hidden_test_de_11_sent4,Abgeordnetenhaus,4,20,ORG,Q320261
+hidden_test_de_11_sent4,Ministeriums desInnern,75,97,ORG,Q358589
+hidden_test_de_11_sent4,AbgeordneteRutowski,355,374,PER,Q9354806
+hidden_test_de_11_sent4,Galizien,482,490,LOC,Q180086
+hidden_test_de_11_sent4,Abgeordneten Kaftan,503,522,PER,Q13427235
+hidden_test_de_11_sent4,Fořt,523,527,PER,NIL
+hidden_test_de_11_sent4,Funke,532,537,PER,Q13423870
+hidden_test_de_11_sent4,Prag,582,586,LOC,Q1085
+hidden_test_de_11_sent4,Donau,654,659,LOC,Q1653
+hidden_test_de_11_sent4,Abgeordnete Morre,695,712,PER,Q1686542
+hidden_test_de_11_sent4,Radkersburg,736,747,LOC,Q698465
+hidden_test_de_11_sent4,Mur,802,805,LOC,Q204040
+hidden_test_de_11_sent4,Abgeordnete v. For¬cher,832,855,PER,Q21685586
+hidden_test_de_11_sent4,Eisenerz,904,912,LOC,Q284596
+hidden_test_de_11_sent4,Abgeordnete Schorn,924,942,PER,Q21685564
+hidden_test_de_11_sent4,Tiroler Landtags¬,1003,1020,ORG,Q1668433
+hidden_test_de_11_sent4,Schorn,1160,1166,PER,Q21685564
+hidden_test_de_11_sent5,Adolph Wilbrandt:,0,17,PER,Q67953
+hidden_test_de_11_sent6,Adolph Wilbrandt,13,29,PER,Q67953
+hidden_test_de_11_sent6,Alfred v. Berger,101,117,PER,Q88890
+hidden_test_de_11_sent6,Friedrich Nietzsche,253,272,PER,Q9358
+hidden_test_de_11_sent6,Alfred v. Berger,414,430,PER,Q88890
+hidden_test_de_11_sent6,Wilbrandt,446,455,PER,Q67953
+hidden_test_de_11_sent7,Nietzsche,4,13,PER,Q9358
+hidden_test_de_11_sent7,Wilbrandt,20,29,PER,Q67953
+hidden_test_de_11_sent8,Wilbrandt,4,13,PER,Q67953
+hidden_test_de_11_sent8,Gottfried Keller,149,165,PER,Q122370
+hidden_test_de_11_sent8,Paul Heyse,169,179,PER,Q76487
+hidden_test_de_11_sent9,Wilbrandt,328,337,PER,Q67953
+hidden_test_de_11_sent9,Wil¬brandt,691,701,PER,Q67953
+hidden_test_de_11_sent9,Stuttgart,811,820,LOC,Q1022
+hidden_test_de_11_sent10,Wilbrandt,118,127,PER,Q67953
+hidden_test_de_11_sent10,Hillmann,453,461,PER,NIL
+hidden_test_de_11_sent10,Ada,534,537,PER,NIL
+hidden_test_de_11_sent10,Wilbrandt,643,652,PER,Q67953
+hidden_test_de_11_sent10,Iwan Turgenjew,737,751,PER,Q42831
+hidden_test_de_11_sent10,Niederdeutschen Adolph Wilbrandt,941,973,PER,Q67953
+hidden_test_de_11_sent10,Wittekind,1007,1016,PER,NIL
+hidden_test_de_11_sent10,Turgenjew,1055,1064,PER,Q42831
+hidden_test_de_11_sent11,Wilbrandt,421,430,PER,Q67953
+hidden_test_de_11_sent11,Wilbrandt,672,681,PER,Q67953
+hidden_test_de_11_sent11,Wilbrandt,858,867,PER,Q67953
+hidden_test_de_11_sent12,Friedrich Nietzsche,33,52,PER,Q9358
+hidden_test_de_11_sent12,Friedrich Nietzsche,521,540,PER,Q9358
+hidden_test_de_11_sent12,Wilbrandt,547,556,PER,Q67953
+hidden_test_de_11_sent12,Nietzsche,1221,1230,PER,Q9358
+hidden_test_de_11_sent12,Wilbrandt,1237,1246,PER,Q67953
+hidden_test_de_11_sent12,Baronin Pillnitz,1339,1355,PER,NIL
+hidden_test_de_11_sent12,Ifinger,1457,1464,PER,NIL
+hidden_test_de_11_sent12,Wien,1640,1644,LOC,NIL
+hidden_test_de_11_sent15,Laginja,10,17,PER,NIL
+hidden_test_de_11_sent17,Rutowski,11,19,PER,NIL
+hidden_test_de_11_sent17,Galizien,210,218,LOC,NIL
+hidden_test_de_11_sent18,Polen,409,414,LOC,NIL
+hidden_test_de_11_sent20,Petrus,297,303,PER,Q33923
+hidden_test_de_11_sent20,Petrus,392,398,PER,Q33923
+hidden_test_de_11_sent24,Brü¬der Grimm,236,249,PER,Q2793
+hidden_test_de_11_sent25,Berlin,0,6,LOC,Q64
+hidden_test_de_11_sent25,Dr. Ludwig Stettenheim,8,30,PER,NIL
+hidden_test_de_11_sent25,Elise Polko,127,138,PER,Q87487
+hidden_test_de_11_sent25,Breslau,140,147,LOC,Q1799
+hidden_test_de_11_sent25,SchlesischeBuchdruckerei vormals S. Schottlaender,149,198,ORG,NIL
+hidden_test_de_11_sent25,Elise Polko,207,218,PER,Q87487
+hidden_test_de_11_sent26,R. Lechner's k. k. Hof- u. Univ.-Buchh.,728,767,ORG,NIL
+hidden_test_de_11_sent26,Wilh.Müller,769,780,PER,NIL
+hidden_test_de_11_sent26,"l., Graben 31",782,795,LOC,NIL
+hidden_test_de_11_sent27,Friedrich Beck,43,57,PER,NIL
+hidden_test_de_11_sent27,"Wien, Augustinerstr. 8",61,83,LOC,NIL
+hidden_test_de_11_sent27,"W. Braumüller & Sohn, k. u. k. Hof- u. Univ.-Buchdlg.",84,137,ORG,Q2572062
+hidden_test_de_11_sent27,"Wien, Graben",139,151,LOC,Q699937
+hidden_test_de_11_sent28,Bermann & Altmann,81,98,ORG,NIL
+hidden_test_de_11_sent28,"Wien, I., Johannesgasse 2",102,127,LOC,NIL
+hidden_test_de_11_sent28,Adolph Werthner,141,156,PER,NIL
+hidden_test_de_11_sent28,Dr. Eduard Bacher,158,175,PER,Q89426
+hidden_test_de_11_sent28,Moriz Benedikt,177,191,PER,Q877165
+hidden_test_de_11_sent28,Karl Felix Kohler,220,237,PER,Q60815976
+hidden_test_de_11_sent28,Reinhold Geyer,275,289,PER,NIL
+hidden_test_de_11_sent28,Pittener Papierfabriks=Actien=Gesellschaft,298,340,ORG,NIL
+hidden_test_de_12_sent0,akademischen Medailleurs und Wappengraveurs Josef Klei¬nert,53,112,PER,Q60815661
+hidden_test_de_12_sent0,Redakteurs kaiserlichen Rates Karl ErasmusKleinert,125,175,PER,Q55674268
+hidden_test_de_12_sent0,akademischen Malers Josef Edgar Kleinert,184,224,PER,Q60815661
+hidden_test_de_12_sent0,Kirche St. Othmar,270,287,ORG,Q1437098
+hidden_test_de_12_sent0,Chefredakteurstellvertreter der „WienerZeitung“ kaiserlicher Rat Dr. Sträßle,307,383,PER,Q55681592
+hidden_test_de_12_sent0,Zentralfriedhof,468,483,LOC,Q240744
+hidden_test_de_12_sent0,"SamiSeidl, Seniorchef der Firma Seidl & Back",516,560,PER,NIL
+hidden_test_de_12_sent1,"Moritz Koralek, Fabrikant in Topko¬witz an der Elbe",7,58,PER,NIL
+hidden_test_de_12_sent3,Olmütz,6,12,LOC,Q81137
+hidden_test_de_12_sent3,Ackerbauministers Baron Widmann,51,82,PER,Q10379692
+hidden_test_de_12_sent3,StatthaltersBaron Heinold,88,113,PER,Q12028681
+hidden_test_de_12_sent3,Landeshauptmannes Grafen S###e¬renyi,119,155,PER,NIL
+hidden_test_de_12_sent3,Grafen Jaroslaw Thun,161,181,PER,Q15735108
+hidden_test_de_12_sent3,Freiherrn v. Baratta,205,225,PER,NIL
+hidden_test_de_12_sent6,Grillparzerstraße,10,27,LOC,Q1145991
+hidden_test_de_12_sent6,Ringstraße,38,48,LOC,Q46232
+hidden_test_de_12_sent9,Klosterneuburg,60,74,LOC,Q487522
+hidden_test_de_12_sent9,Hermannskogel,131,144,LOC,Q873943
+hidden_test_de_12_sent9,Bisamberg,155,164,LOC,Q866020
+hidden_test_de_12_sent10,Baronin Bettina N.,0,18,PER,NIL
+hidden_test_de_12_sent10,Agenten Dedejan],69,85,PER,NIL
+hidden_test_de_12_sent10,WienerLandesgericht,90,109,ORG,NIL
+hidden_test_de_12_sent10,Landsmann Igra Eremian,177,199,PER,NIL
+hidden_test_de_12_sent10,Agenten Jakob Dedejan,212,233,PER,NIL
+hidden_test_de_12_sent10,"Wien, 20. Bezirk,Greiseneckergasse 11",237,274,LOC,NIL
+hidden_test_de_12_sent10,Landesgerichtsrat Thauner,326,351,PER,NIL
+hidden_test_de_12_sent10,Masseverwalter Dr. Isak Allerhand,370,403,PER,NIL
+hidden_test_de_12_sent12,Abbazia,94,101,LOC,Q223353
+hidden_test_de_12_sent13,Aussee,5,11,LOC,Q251065
+hidden_test_de_12_sent13,Baden,17,22,LOC,Q486450
+hidden_test_de_12_sent14,Bad Hall,5,13,LOC,Q259086
+hidden_test_de_12_sent14,Balaton,20,27,LOC,Q6383
+hidden_test_de_12_sent14,Constantinbad,37,50,LOC,Q186207
+hidden_test_de_12_sent14,Eichwald bei Teplitz,56,76,LOC,Q186207
+hidden_test_de_12_sent14,Faakersee,82,91,LOC,Q595522
+hidden_test_de_12_sent14,Franzensbad,95,106,LOC,Q756581
+hidden_test_de_12_sent14,Gaiufahrn,113,122,LOC,NIL
+hidden_test_de_12_sent14,Gießhübl=Sauerbrunn,129,148,LOC,Q1019975
+hidden_test_de_12_sent14,Gleichenberg,152,164,LOC,Q693550
+hidden_test_de_12_sent14,Gmunden,171,178,LOC,Q430449
+hidden_test_de_12_sent14,Goisern,184,191,LOC,Q252674
+hidden_test_de_12_sent14,Gräfenberg=Frei¬waldau,197,219,LOC,Q954611
+hidden_test_de_12_sent14,Hofgastein,226,236,LOC,Q671445
+hidden_test_de_12_sent14,Karlsbad,243,251,LOC,Q384544
+hidden_test_de_12_sent15,Königswart,5,15,LOC,Q1000097
+hidden_test_de_12_sent15,Krapina=Töplitz,20,35,LOC,Q943679
+hidden_test_de_12_sent15,Luhatschowitz,42,55,LOC,Q933480
+hidden_test_de_12_sent15,Marienbad,62,71,LOC,Q523469
+hidden_test_de_12_sent16,Pistyan,4,11,LOC,Q321074
+hidden_test_de_12_sent16,"Reichenau (Edlach, Prein)",18,43,LOC,Q665243
+hidden_test_de_12_sent16,Reichenhall,50,61,LOC,Q487971
+hidden_test_de_12_sent16,Römerbad,67,75,ORG,NIL
+hidden_test_de_12_sent16,Rohitsch = Sauerbrunn,81,102,LOC,Q3502521
+hidden_test_de_12_sent16,Semmering,108,117,LOC,Q659891
+hidden_test_de_12_sent16,Spindelmühle,123,135,LOC,Q392285
+hidden_test_de_12_sent16,Teplitz=Schönau,141,156,LOC,Q146342
+hidden_test_de_12_sent16,Trencsin=Teplicz,163,179,LOC,Q532555
+hidden_test_de_12_sent16,Veldes,185,191,LOC,Q202852
+hidden_test_de_12_sent16,Vöslau,198,204,LOC,Q798800
+hidden_test_de_12_sent16,Zuckmantel,211,221,LOC,Q207222
+hidden_test_de_12_sent16,Bad Elster,227,237,LOC,Q46856
+hidden_test_de_12_sent16,BadNauheim,244,254,LOC,Q16105
+hidden_test_de_12_sent17,Helgoland,5,14,LOC,Q3038
+hidden_test_de_12_sent18,[Der Erste Wiener Ferienkolonien=Spar=und Unterstützungsverein für Kinder,0,73,ORG,NIL
+hidden_test_de_12_sent18,"4. Bezirk,Karlsgasse 3",75,97,LOC,NIL
+hidden_test_de_12_sent18,Erzherzogin MariaRainer,127,150,PER,NIL
+hidden_test_de_12_sent19,Liechtensteinschen SchlosseThernberg,39,75,LOC,NIL
+hidden_test_de_12_sent19,Fürsten Johann von und zu Liechtenstein,153,192,PER,Q317016
+hidden_test_de_12_sent19,Steiermark,309,319,LOC,Q41358
+hidden_test_de_12_sent19,Mitterdorf,320,330,LOC,Q696044
+hidden_test_de_12_sent19,Kindberg,335,343,LOC,Q695227
+hidden_test_de_12_sent19,Schloß Wolfpassing,408,426,LOC,NIL
+hidden_test_de_12_sent19,Langenwang,434,444,LOC,Q695639
+hidden_test_de_12_sent19,Lu###schaun in Steiermark,448,473,LOC,NIL
+hidden_test_de_12_sent19,Erzherzogs Rainer,550,567,LOC,Q111971
+hidden_test_de_12_sent19,"4. Bezirk, Karlsgasse 3",920,943,LOC,NIL
+hidden_test_de_12_sent20,Schreibmaschin=und Stenographieschule Glogowski & Co.,27,80,ORG,Q79671294
+hidden_test_de_12_sent20,"1. Bezirk, Franz Josefskai 15",82,111,LOC,NIL
+hidden_test_de_12_sent21,Professors Herzfeld,17,36,PER,NIL
+hidden_test_de_12_sent21,Marienbader Aerzteverein,39,63,ORG,NIL
+hidden_test_de_12_sent21,Wiener Gynäkologe Professor Herzfeld,102,138,PER,NIL
+hidden_test_de_12_sent21,Marien¬bader Aerzteverein,142,167,ORG,NIL
+hidden_test_de_12_sent22,Marienbad,110,119,LOC,Q523469
+hidden_test_de_12_sent24,Votivkirche,7,18,ORG,Q254476
+hidden_test_de_12_sent24,Vinzenz Goller,90,104,PER,Q2527262
+hidden_test_de_12_sent24,J. Singenberger,132,147,PER,Q6215625
+hidden_test_de_12_sent24,Johann Diebold,180,194,PER,NIL
+hidden_test_de_12_sent25,altkatholischen St. Salvatorkirche,7,41,ORG,Q784184
+hidden_test_de_12_sent29,Berlin,1,7,LOC,Q64
+hidden_test_de_12_sent29,Berlin,82,88,LOC,Q64
+hidden_test_de_12_sent29,"amerikanischen Forscher, Professor Carrel",105,146,PER,Q185777
+hidden_test_de_12_sent29,Rockefeller=Institut,151,171,ORG,Q270272
+hidden_test_de_12_sent29,Newyork,175,182,LOC,Q60
+hidden_test_de_12_sent30,Rockefeller=Institut,37,57,ORG,Q270272
+hidden_test_de_12_sent30,Newyork,60,67,LOC,Q60
+hidden_test_de_12_sent30,Ehrlich,144,151,PER,Q57089
+hidden_test_de_12_sent30,Frankfurt amMain,155,171,LOC,Q1794
+hidden_test_de_12_sent30,Speyer=Institutes,183,200,ORG,Q30281743
+hidden_test_de_12_sent30,38jährige ChirurgAlexis Carrel,428,458,PER,Q185777
+hidden_test_de_12_sent30,Lyon,463,467,LOC,Q456
+hidden_test_de_12_sent30,Unger,739,744,PER,Q1360417
+hidden_test_de_12_sent30,Berlin,748,754,LOC,Q64
+hidden_test_de_12_sent31,Carrel,28,34,PER,Q185777
+hidden_test_de_12_sent33,Carrel,0,6,PER,Q185777
+hidden_test_de_12_sent34,Robert Koch,4,15,PER,Q37193
+hidden_test_de_13_sent0,Deutschland,225,236,LOC,Q7318
+hidden_test_de_13_sent0,Hugenberg,475,484,PER,Q65121
+hidden_test_de_13_sent0,Berlin,541,547,LOC,Q64
+hidden_test_de_13_sent0,Otto ErichHartleben,676,695,PER,Q76279
+hidden_test_de_13_sent0,Hugenberg,770,779,PER,Q65121
+hidden_test_de_13_sent0,Reichstag,783,792,ORG,Q637829
+hidden_test_de_13_sent0,v. Heydenbrandt,928,943,PER,Q124506
+hidden_test_de_13_sent0,Hugenberg,1280,1289,PER,Q65121
+hidden_test_de_13_sent1,Hugenberg-Konzern,4,21,ORG,Q1287475
+hidden_test_de_13_sent2,deutschnationalen Partei,16,40,ORG,Q158227
+hidden_test_de_13_sent2,Hugenberg,45,54,PER,Q65121
+hidden_test_de_13_sent2,Hugenberg,135,144,PER,Q65121
+hidden_test_de_13_sent2,preußischen Finanz¬ministerium,149,179,ORG,NIL
+hidden_test_de_13_sent2,Krupp,183,188,ORG,Q679201
+hidden_test_de_13_sent2,Westfalen,318,327,LOC,Q8614
+hidden_test_de_13_sent2,Rheinland,332,341,LOC,Q152243
+hidden_test_de_13_sent2,Hugenberg,569,578,PER,Q65121
+hidden_test_de_13_sent3,Hugenberg,19,28,PER,Q65121
+hidden_test_de_13_sent3,Scherl=Konzern,33,47,ORG,Q91318
+hidden_test_de_13_sent3,Lokalanzeiger,50,63,PROD,Q821625
+hidden_test_de_13_sent3,Nachtausgabe,67,79,PROD,NIL
+hidden_test_de_13_sent3,Woche,83,88,PROD,Q1217599
+hidden_test_de_13_sent4,Hugenberg=Konzern,68,85,ORG,Q1287475
+hidden_test_de_13_sent4,Hugenberg,97,106,PER,Q65121
+hidden_test_de_13_sent4,Hugenberg=Konzern,167,184,ORG,Q1287475
+hidden_test_de_13_sent4,Ufa,254,257,ORG,Q41468
+hidden_test_de_13_sent6,deutschnationalen Partei,60,84,ORG,Q158227
+hidden_test_de_13_sent6,deutsch¬nationalen Partei,317,342,ORG,Q158227
+hidden_test_de_13_sent6,Hugenberg,431,440,PER,Q65121
+hidden_test_de_13_sent7,Treviranus,69,79,PER,Q74221
+hidden_test_de_13_sent7,Lindeiner=Wildau,81,97,PER,Q1576937
+hidden_test_de_13_sent7,Klönne,99,105,PER,Q1947969
+hidden_test_de_13_sent7,Hötzsch,109,116,PER,Q95352
+hidden_test_de_13_sent7,altpreußische GrafWestarp,149,174,PER,Q65782
+hidden_test_de_13_sent7,republikanisch=konservativePartei,239,272,ORG,Q548022
+hidden_test_de_13_sent7,Weimar,296,302,LOC,Q3955
+hidden_test_de_13_sent7,deutschnationalen Partei,406,430,ORG,Q158227
+hidden_test_de_13_sent7,Hugenberg,444,453,PER,Q65121
+hidden_test_de_13_sent7,Hugenberg,521,530,PER,Q65121
+hidden_test_de_13_sent7,volkskonservative“ Partei,618,643,ORG,Q548022
+hidden_test_de_13_sent8,Hugenberg,19,28,PER,Q65121
+hidden_test_de_13_sent8,deutschnationale Partei,108,131,ORG,Q158227
+hidden_test_de_13_sent8,Zentrum,211,218,ORG,Q157537
+hidden_test_de_13_sent12,Ernst Heinrich Schrenzel,4,28,PER,NIL
+hidden_test_de_13_sent13,Afrika,127,133,LOC,Q15
+hidden_test_de_13_sent19,Wien,1,5,LOC,Q1741
+hidden_test_de_13_sent19,Zentrum,60,67,ORG,Q157537
+hidden_test_de_13_sent19,konservativenStaatsmannes Brüning,95,128,PER,Q155398
+hidden_test_de_13_sent19,Hugenberg,354,363,PER,Q65121
+hidden_test_de_13_sent20,Kabinett Brüning,10,26,ORG,Q449726
+hidden_test_de_13_sent20,Hugen¬berg,355,365,PER,Q65121
+hidden_test_de_13_sent22,Hugenberg,88,97,PER,Q65121
+hidden_test_de_13_sent22,deutschnationalenPartei,480,503,ORG,Q158227
+hidden_test_de_13_sent22,Hugenberg,995,1004,PER,Q65121
+hidden_test_de_13_sent22,deutschnationale Front,1161,1183,ORG,Q158227
+hidden_test_de_13_sent24,Kabinett Hitler,71,86,ORG,Q159196
+hidden_test_de_13_sent24,Weltwirtschaftskonferenz,663,687,ORG,Q949820
+hidden_test_de_13_sent24,Deutschland,773,784,LOC,Q7318
+hidden_test_de_13_sent24,England,837,844,LOC,Q21
+hidden_test_de_13_sent24,Rußland,849,856,LOC,Q15180
+hidden_test_de_13_sent24,Deutschland,864,875,LOC,Q7318
+hidden_test_de_13_sent25,deutschnationale Partei,113,136,ORG,Q158227
+hidden_test_de_13_sent25,Zentrum,157,164,ORG,Q157537
+hidden_test_de_13_sent25,Zentrum,308,315,ORG,Q157537
+hidden_test_de_13_sent25,Bayern,319,325,LOC,Q980
+hidden_test_de_13_sent25,P. G.,662,667,PER,NIL
+hidden_test_de_13_sent28,Budapest,0,8,LOC,Q1781
+hidden_test_de_13_sent29,Reichstag,102,111,ORG,NIL
+hidden_test_de_13_sent30,Jugoslawien,29,40,LOC,Q191077
+hidden_test_de_13_sent33,Belgrad,0,7,LOC,Q3711
+hidden_test_de_13_sent34,Jugoslawien,27,38,LOC,Q191077
+hidden_test_de_13_sent34,jugosla¬wischeradikal=bäuerliche Demokratie,428,471,ORG,NIL
+hidden_test_de_13_sent36,Jugoslawien,322,333,LOC,Q191077
+hidden_test_de_13_sent36,JugoslawischeAktion,735,754,ORG,NIL
+hidden_test_de_13_sent36,jugoslawische Volkspartei,820,845,ORG,NIL
+hidden_test_de_13_sent40,Jugoslawien,209,220,LOC,Q191077
+hidden_test_de_13_sent40,radikal¬sozialistischen Partei,513,543,ORG,NIL
+hidden_test_de_13_sent40,sozialdemokratischen Partei,578,605,ORG,NIL
+hidden_test_de_13_sent41,Jugoslawien,60,71,LOC,Q191077
+hidden_test_de_13_sent41,Europa,631,637,LOC,Q46
+hidden_test_de_13_sent41,Afrika,810,816,LOC,Q15
+hidden_test_de_13_sent43,Kongo,561,566,LOC,NIL
+hidden_test_de_13_sent45,ostafrika,375,384,LOC,Q27407
+hidden_test_de_13_sent46,Oesterreichischen Hauptverband für Körpersport,8,54,ORG,Q306692
+hidden_test_de_13_sent47,Oesterreichische Hauptverband für Körpersport,4,49,ORG,Q306692
+hidden_test_de_13_sent47,Dr. Alexander Hartwich,143,165,PER,NIL
+hidden_test_de_13_sent47,Fritz=Lichtschein,422,439,PER,Q31092103
+hidden_test_de_13_sent47,Hakoah=Platz,482,494,LOC,NIL
+hidden_test_de_13_sent47,V. f. B.,504,512,ORG,Q4512
+hidden_test_de_13_sent47,Allround,517,525,ORG,Q610547
+hidden_test_de_13_sent48,Hakoah,4,10,ORG,Q255270
+hidden_test_de_13_sent48,Brünn,38,43,LOC,Q14960
+hidden_test_de_13_sent48,Bar Kochba,95,105,ORG,NIL
+hidden_test_de_13_sent49,W. A. C.,27,35,ORG,Q581990
+hidden_test_de_13_sent49,österreich,68,78,LOC,Q518101
+hidden_test_de_13_sent49,Krems,128,133,LOC,Q667328
+hidden_test_de_13_sent49,Urfahr,148,154,LOC,Q1322586
+hidden_test_de_13_sent51,Alpenverein Donauland,0,21,ORG,Q2267251
+hidden_test_de_13_sent51,VIII. Langegasse 76:,23,43,LOC,NIL
+hidden_test_de_13_sent51,SüdlicherWienerwald,96,115,LOC,Q251246
+hidden_test_de_13_sent51,Meidling,159,167,LOC,Q1917668
+hidden_test_de_13_sent52,Paulmauer=TürnitzerHöger,29,53,LOC,Q2465101
+hidden_test_de_13_sent52,Hütteldorf,63,73,LOC,Q1423660
+hidden_test_de_13_sent53,St. Aegyd a. N.,13,28,LOC,Q676688
+hidden_test_de_13_sent53,Dr. Weiler,37,47,PER,NIL
+hidden_test_de_13_sent53,Hohe Wand,52,61,LOC,Q21859871
+hidden_test_de_13_sent53,Aspangbahnhof,98,111,LOC,Q2568785
+hidden_test_de_13_sent54,Winzendorf,13,23,LOC,Q672292
+hidden_test_de_13_sent54,Eitelberger,34,45,PER,NIL
+hidden_test_de_13_sent54,Gerstenfeld,49,60,PER,NIL
+hidden_test_de_13_sent54,Gesäuse,65,72,LOC,Q1519873
+hidden_test_de_13_sent54,Planspitze,74,84,LOC,Q455208
+hidden_test_de_13_sent54,Nordostkante,86,98,LOC,NIL
+hidden_test_de_13_sent54,Westbahnhof,145,156,LOC,Q698145
+hidden_test_de_13_sent55,Reif,38,42,PER,NIL
+hidden_test_de_13_sent55,Jellinek,47,55,PER,NIL
+hidden_test_de_13_sent56,Gesäuse,10,17,LOC,Q1519873
+hidden_test_de_13_sent56,Reif,113,117,PER,NIL
+hidden_test_de_13_sent57,Kritzendorfer Sportklub,0,23,ORG,NIL
+hidden_test_de_13_sent57,Rudolfsheimer Sportklub,114,137,ORG,NIL
+hidden_test_de_13_sent58,Oesterreichischen Automobilklub,50,81,ORG,Q306059
+hidden_test_de_13_sent58,Donau,173,178,LOC,Q1653
+hidden_test_de_13_sent58,I. Kärntnerring 10,227,245,LOC,NIL
+hidden_test_de_13_sent59,Wien,1,5,LOC,Q1741
+hidden_test_de_13_sent63,Paris,0,5,LOC,Q90
+hidden_test_de_13_sent63,Finanzminister Bonnet,16,37,PER,Q1262453
+hidden_test_de_13_sent63,London,60,66,LOC,Q84
+hidden_test_de_13_sent63,französische Parlament,123,145,ORG,Q632552
+hidden_test_de_13_sent68,Berlin,0,6,LOC,Q64
+hidden_test_de_13_sent68,Reichsregierung,22,37,ORG,Q2139657
+hidden_test_de_13_sent73,Ungarn,22,28,LOC,Q171150
+hidden_test_de_13_sent74,Ungarn,40,46,LOC,Q171150
+hidden_test_de_13_sent74,Ungarn,300,306,LOC,Q171150
+hidden_test_de_13_sent75,Austro-Ungarische Handelskammer,0,31,ORG,NIL
+hidden_test_de_13_sent76,Austro=Ungarischen Handelskammer,50,82,ORG,NIL
+hidden_test_de_13_sent76,Präsidenten Oberregierungsrates Alfred Gergely,114,160,PER,NIL
+hidden_test_de_13_sent76,öster¬reich,287,298,LOC,Q518101
+hidden_test_de_13_sent76,Direktors Desider Vitez,378,401,PER,NIL
+hidden_test_de_13_sent76,"Präsi¬denten, der Reichraminger Holzindustrie=A.=G., Eugen v. Stir¬ling",533,604,PER,NIL
+hidden_test_de_13_sent76,Paul v. Zsolnay,616,631,PER,Q1805034
+hidden_test_de_13_sent78,Ramus,44,49,PER,Q89911
+hidden_test_de_13_sent80,Graz,0,4,LOC,Q13298
+hidden_test_de_13_sent80,Dr. Tausk,31,40,PER,NIL
+hidden_test_de_13_sent80,Ramus,48,53,PER,Q89911
+hidden_test_de_13_sent80,Hofrat Dr. Mutsch¬lechner,143,168,PER,NIL
+hidden_test_de_13_sent80,SachverständigenAssistenten Dr. Spath,207,244,PER,NIL
+hidden_test_de_13_sent80,Dr. Spath,272,281,PER,NIL
+hidden_test_de_13_sent80,Dr. Spath,378,387,PER,NIL
+hidden_test_de_13_sent80,Grazer Klinik,647,660,ORG,Q1798169
+hidden_test_de_13_sent80,Graz,669,673,LOC,Q13298
+hidden_test_de_13_sent81,Staatsanwalt DoktorNeupauer,35,62,PER,NIL
+hidden_test_de_13_sent82,Graf Hardegg,30,42,PER,NIL
+hidden_test_de_13_sent83,Oberlandesgericht,21,38,ORG,Q15837274
+hidden_test_de_13_sent85,Korneuburg,0,10,LOC,Q659841
+hidden_test_de_13_sent85,Kreisgerichtes Korneuburg,65,90,ORG,Q66149329
+hidden_test_de_13_sent85,Graf Hardegg,204,216,PER,NIL
+hidden_test_de_13_sent85,FranzJuder,218,228,PER,NIL
+hidden_test_de_13_sent85,Korneuburg,342,352,LOC,Q659841
+hidden_test_de_13_sent85,Oberlandesgericht Wien,424,446,ORG,Q15837274
+hidden_test_de_13_sent85,Oberlandesgericht,469,486,ORG,Q15837274
+hidden_test_de_13_sent85,Kor¬neuburg,515,526,LOC,Q659841
+hidden_test_de_13_sent85,Graf Hardegg,634,646,PER,NIL
+hidden_test_de_13_sent87,Grazer Landesgerichtes,57,79,ORG,Q42341692
+hidden_test_de_13_sent88,OberstenGerichtshof,48,67,ORG,Q876935
+hidden_test_de_13_sent88,Landesgericht Graz,233,251,ORG,Q42341692
+hidden_test_de_13_sent89,GrazerLandesgericht,52,71,ORG,Q42341692
+hidden_test_de_13_sent89,LandesgerichtesGraz,102,121,ORG,Q42341692
+hidden_test_de_13_sent89,Bundesministeriums für Justiz,253,282,ORG,Q872203
+hidden_test_de_13_sent89,Ver¬fassungsgerichtshof,358,381,ORG,Q873868
+hidden_test_de_13_sent89,Verfassungsgerichtshof,512,534,ORG,Q873868
+hidden_test_de_13_sent91,Graz,74,78,LOC,Q13298
+hidden_test_de_13_sent91,Obersten Gerichtshof,168,188,ORG,NIL
+hidden_test_de_13_sent91,Senatspräsidenten Dr. Hoffer,206,234,PER,NIL
+hidden_test_de_13_sent91,Generalstaatsanwalt Dr. Pietsch,279,310,PER,NIL
+hidden_test_de_13_sent91,Oberste Gerichtshof,683,702,ORG,NIL
+hidden_test_de_13_sent91,Oberste Gerichtshof,849,868,ORG,NIL
+hidden_test_de_13_sent91,Verfassungsgerichtshof,1022,1044,ORG,Q873868
+hidden_test_de_13_sent92,Landesgericht Graz,151,169,ORG,Q42341692
+hidden_test_de_13_sent92,Verfassungsgerichtshof,500,522,ORG,Q873868
+hidden_test_de_13_sent93,Oberste Gerichtshof,4,23,ORG,NIL
+hidden_test_de_13_sent95,Stephansdom,0,11,LOC,Q5943
+hidden_test_de_13_sent95,Domkapellmeister Professor FerdinandHabel,13,54,PER,NIL
+hidden_test_de_13_sent95,Maria,112,117,PER,Q345
+hidden_test_de_13_sent95,August Weirich,171,185,PER,Q28112720
+hidden_test_de_13_sent95,I. Mitterer:,210,222,PER,Q1657490
+hidden_test_de_13_sent95,Franz Witt:,247,258,PER,Q95918
+hidden_test_de_13_sent95,A. Weirich.Augustinerkirche,286,313,LOC,Q693869
+hidden_test_de_13_sent95,Christian Eder,334,348,PER,Q55682907
+hidden_test_de_13_sent95,Gounod,387,393,PER,Q180278
+hidden_test_de_13_sent95,Weingartner,395,406,PER,Q316920
+hidden_test_de_13_sent95,Stoiber,407,414,PER,Q61268699
+hidden_test_de_13_sent95,Herrmann,419,427,PER,Q1580203
+hidden_test_de_13_sent95,Steffi Habig,447,459,PER,NIL
+hidden_test_de_13_sent95,RoslRosenthal,461,474,PER,NIL
+hidden_test_de_13_sent95,Ria Benesch,476,487,PER,NIL
+hidden_test_de_13_sent95,Professor Eder,510,524,PER,Q55682907
+hidden_test_de_13_sent96,Altkatholische St. = Salvator = Kirche,0,38,LOC,Q784184
+hidden_test_de_13_sent96,DirigentProfessor Josef Ferdinand Skalicky,40,82,PER,NIL
+hidden_test_de_13_sent96,Konzertsängerin Frau Dr. Anna Beran,123,158,PER,NIL
+hidden_test_de_13_sent96,Skalicky,174,182,PER,NIL
+hidden_test_de_13_sent96,Ing. Reinhold Schultz,212,233,PER,NIL
+hidden_test_de_13_sent98,Budapester Börse,0,16,ORG,Q851259
+hidden_test_de_13_sent107,London,0,6,LOC,Q84
+hidden_test_de_13_sent109,Canadian Pacific,0,16,ORG,Q46974
+hidden_test_de_13_sent109,United Steel,22,34,ORG,Q72539
+hidden_test_de_13_sent109,Central Mining,39,53,ORG,NIL
+hidden_test_de_13_sent109,Rio Tinto,57,66,ORG,Q821293
+hidden_test_de_13_sent109,Premier Oil,71,82,ORG,NIL
+hidden_test_de_13_sent110,Newyork,0,7,LOC,Q60
+hidden_test_de_13_sent113,Graz,16,20,LOC,Q13298
+hidden_test_de_13_sent115,oberösterreich,16,30,LOC,Q41967
+hidden_test_de_13_sent116,oberösterreich,18,32,LOC,Q41967
+hidden_test_de_13_sent118,Newag,17,22,ORG,Q766622
+hidden_test_de_13_sent120,Tiwag,15,20,ORG,Q1271744
+hidden_test_de_13_sent120,Tiwag,58,63,ORG,Q1271744
+hidden_test_de_13_sent122,Newag,17,22,ORG,Q766622
+hidden_test_de_13_sent125,niederösterreich,16,32,LOC,Q42497
+hidden_test_de_13_sent127,Alpine=Montan,17,30,ORG,Q298821
+hidden_test_de_13_sent127,oberösterreich,67,81,LOC,Q41967
+hidden_test_de_13_sent130,Wien,0,4,LOC,Q1741
+hidden_test_de_13_sent131,österreich,20,30,LOC,Q518101
+hidden_test_de_13_sent132,österreich,47,57,LOC,Q518101
+hidden_test_de_13_sent150,Bremen,0,6,LOC,Q24879
+hidden_test_de_13_sent151,Liverpool,0,9,LOC,Q24826
+hidden_test_de_13_sent152,Newyork,0,7,LOC,Q60
+hidden_test_de_13_sent152,Großbritannien,149,163,LOC,Q23666
+hidden_test_de_13_sent152,Frankreich,183,193,LOC,Q70802
+hidden_test_de_13_sent152,Japan,239,244,LOC,Q188712
+hidden_test_de_13_sent152,China,248,253,LOC,Q13426199
+hidden_test_de_13_sent153,Neworleans,0,10,LOC,Q34404
+hidden_test_de_13_sent154,Alexandria,0,10,LOC,Q87
+hidden_test_de_13_sent154,Chicago,296,303,LOC,Q1297
+hidden_test_de_13_sent157,Newyork,0,7,LOC,Q60
+hidden_test_de_13_sent157,Manitoba,27,35,LOC,Q1948
+hidden_test_de_13_sent157,Newyork,153,160,LOC,Q60
+hidden_test_de_13_sent158,Engalnd,16,23,LOC,Q21
+hidden_test_de_13_sent159,Winnipeg,34,42,LOC,Q2135
+hidden_test_de_13_sent161,Staatsoper,18,28,LOC,Q209937
+hidden_test_de_13_sent162,Johann=Strauß,2,15,PER,Q83309
+hidden_test_de_13_sent162,Deutsches Volkstheater:,32,55,LOC,Q688555
+hidden_test_de_13_sent162,Theater in der Josefstadt:,93,119,LOC,Q167619
+hidden_test_de_13_sent162,Theater ander Wien:,156,175,LOC,Q374336
+hidden_test_de_13_sent163,Margaretner Orpheum:,0,20,LOC,Q1270177
+hidden_test_de_13_sent163,Revuebühne Moulin Rouge:,43,67,LOC,Q1750632
+hidden_test_de_13_sent163,Wien,69,73,LOC,Q1741
+hidden_test_de_13_sent164,Wiener Urania:,0,14,LOC,Q33393971
+hidden_test_de_13_sent164,Oesterreich,76,87,LOC,Q518101
+hidden_test_de_13_sent165,Hofkirchen,0,10,LOC,Q693743
+hidden_test_de_13_sent165,Donau,12,17,LOC,Q1653
+hidden_test_de_13_sent165,Schärding,52,61,LOC,Q255012
+hidden_test_de_13_sent165,Inn,63,66,LOC,Q14369
+hidden_test_de_13_sent165,Engelhartszell,78,92,LOC,Q660958
+hidden_test_de_13_sent165,Donau,94,99,LOC,Q1653
+hidden_test_de_13_sent165,Linz,111,115,LOC,Q41329
+hidden_test_de_13_sent165,Donau,117,122,LOC,Q1653
+hidden_test_de_13_sent165,Wels,135,139,LOC,Q178582
+hidden_test_de_13_sent165,Traun,141,146,LOC,Q664341
+hidden_test_de_13_sent165,Mauthausen,160,170,LOC,Q658855
+hidden_test_de_13_sent165,Donau,172,177,LOC,Q1653
+hidden_test_de_13_sent165,Steyr,191,196,LOC,Q260320
+hidden_test_de_13_sent165,Enns,198,202,LOC,Q217524
+hidden_test_de_13_sent165,Stein,214,219,LOC,Q18631130
+hidden_test_de_13_sent165,Donau,220,225,LOC,Q1653
+hidden_test_de_13_sent165,"Wien, Reichsbrücke",239,257,LOC,Q684821
+hidden_test_de_13_sent165,"Wien,Schwedenbrücke",269,288,LOC,Q2254658
+hidden_test_de_13_sent165,Hohenau,299,306,LOC,Q660761
+hidden_test_de_13_sent165,March,308,313,LOC,Q179251
+hidden_test_de_13_sent165,Angern,324,330,LOC,Q538297
+hidden_test_de_13_sent165,March,331,336,LOC,Q179251
+hidden_test_de_13_sent165,Wien. Reichsbrücke,366,384,LOC,Q684821
+hidden_test_de_13_sent166,Dr. Ernst Benedikt,13,31,PER,Q1348810
+hidden_test_de_13_sent166,"Wien, I. Fichtegasse 11",81,104,LOC,NIL
+hidden_test_de_13_sent166,"Dr. Julian Sternberg Wien, III. Lagergasse 1",132,176,LOC,NIL
+hidden_test_de_13_sent167,Wien,20,24,LOC,Q1741
+hidden_test_de_13_sent167,Semmering,40,49,LOC,Q659891
+hidden_test_de_13_sent167,Innsbruck,59,68,LOC,Q1735
+hidden_test_de_13_sent167,Zell a. See,87,98,LOC,Q187572
+hidden_test_de_13_sent167,Klagenfurt,112,122,LOC,Q41753
+hidden_test_de_13_sent167,Salzburg,137,145,LOC,Q34713
+hidden_test_de_13_sent167,Lienz,152,157,LOC,Q336250
+hidden_test_de_13_sent167,Ischl,169,174,LOC,Q250984
+hidden_test_de_13_sent167,Gargellen,184,193,LOC,Q1494233
+hidden_test_de_13_sent167,Mariazell,194,203,LOC,Q264201
+hidden_test_de_13_sent167,Graz,214,218,LOC,Q264201
+hidden_test_de_13_sent169,Edith Latzner,4,17,PER,NIL
+hidden_test_de_13_sent170,Gaston,74,80,PER,NIL
+hidden_test_de_13_sent170,Annette,126,133,PER,NIL
+hidden_test_de_13_sent170,Konsulvan Straten,160,177,PER,NIL
+hidden_test_de_13_sent170,Gaston,355,361,PER,NIL
+hidden_test_de_13_sent170,Annette,381,388,PER,NIL
+hidden_test_de_13_sent171,Gaston,256,262,PER,NIL
+hidden_test_de_13_sent172,Gaston,28,34,PER,NIL
+hidden_test_de_13_sent172,Annette,39,46,PER,NIL
+hidden_test_de_13_sent172,Annette,133,140,PER,NIL
+hidden_test_de_13_sent172,Annette,225,232,PER,NIL
+hidden_test_de_13_sent173,Gaston,0,6,PER,NIL
+hidden_test_de_13_sent173,Annette,135,142,PER,NIL
+hidden_test_de_13_sent173,vanStraten,160,170,PER,NIL
+hidden_test_de_13_sent173,Gaston,303,309,PER,NIL
+hidden_test_de_13_sent174,Gaston,208,214,PER,NIL
+hidden_test_de_13_sent175,Gaston,39,45,PER,NIL
+hidden_test_de_13_sent175,Gaston,684,690,PER,NIL
+hidden_test_de_13_sent176,Swanson,43,50,PER,NIL
+hidden_test_de_13_sent176,Annette,111,118,PER,NIL
+hidden_test_de_13_sent176,Annette,269,276,PER,NIL
+hidden_test_de_13_sent177,Gaston,81,87,PER,NIL
+hidden_test_de_13_sent178,Annette,113,120,PER,NIL
+hidden_test_de_13_sent178,Annette,289,296,PER,NIL
+hidden_test_de_13_sent179,Gaston,93,99,PER,NIL
+hidden_test_de_13_sent180,Gaston,25,31,PER,NIL
+hidden_test_de_13_sent180,Annette,117,124,PER,NIL
+hidden_test_de_13_sent181,Gaston,161,167,PER,NIL
+hidden_test_de_13_sent182,Annette,303,310,PER,NIL
+hidden_test_de_13_sent182,Gaston,449,455,PER,NIL
+hidden_test_de_13_sent184,Annette,90,97,PER,NIL
+hidden_test_de_13_sent186,Pablo Casals,0,12,PER,Q208537
+hidden_test_de_13_sent187,PabloCasals,102,113,PER,Q208537
+hidden_test_de_13_sent188,Albert von Belgien,48,66,PER,Q55008046
+hidden_test_de_13_sent188,Casals,102,108,PER,Q208537
+hidden_test_de_13_sent188,Ysaye,339,344,PER,Q312857
+hidden_test_de_13_sent188,Wien,379,383,LOC,Q1741
+hidden_test_de_13_sent188,Casals,515,521,PER,Q208537
+hidden_test_de_13_sent188,Christine von Spanien,546,567,PER,Q538125
+hidden_test_de_13_sent188,Alphonso,588,596,PER,Q18363
+hidden_test_de_13_sent188,Oesterreich,602,613,LOC,Q131964
+hidden_test_de_13_sent188,Pablo Casals,717,729,PER,Q208537
+hidden_test_de_13_sent188,Beethoven,959,968,PER,Q255
+hidden_test_de_13_sent188,Bach,973,977,PER,Q1339
+hidden_test_de_13_sent188,Casals,1112,1118,PER,Q208537
+hidden_test_de_13_sent188,Barce¬lona,1142,1152,PER,Q1492
+hidden_test_de_13_sent188,Casals,1241,1247,PER,Q208537
+hidden_test_de_13_sent188,Madrid,1278,1284,LOC,Q2807
+hidden_test_de_13_sent190,Königin Viktoria von England,8,36,PER,Q9439
+hidden_test_de_13_sent190,Casals,59,65,PER,Q208537
+hidden_test_de_13_sent190,Insel Wight,164,175,LOC,Q9679
+hidden_test_de_13_sent190,Casals,191,197,PER,Q208537
+hidden_test_de_13_sent190,Casals,364,370,PER,Q208537
+hidden_test_de_13_sent190,Madrid,387,393,LOC,Q2807
+hidden_test_de_13_sent190,Christine,431,440,PER,Q538125
+hidden_test_de_13_sent190,Königin Viktoria,491,507,PER,Q9439
+hidden_test_de_13_sent190,Bach,651,655,PER,Q1339
+hidden_test_de_13_sent191,Casals,0,6,PER,Q208537
+hidden_test_de_13_sent191,König Eduard VII.,32,49,PER,NIL
+hidden_test_de_13_sent191,Johann Strauß,276,289,PER,Q83309
+hidden_test_de_13_sent191,Casals,348,354,PER,Q208537
+hidden_test_de_13_sent191,Rußland,375,382,LOC,Q34266
+hidden_test_de_13_sent191,Moskau,442,448,LOC,Q649
+hidden_test_de_13_sent191,Pskow,508,513,LOC,Q2214
+hidden_test_de_13_sent191,Casals,613,619,PER,Q208537
+hidden_test_de_13_sent191,Petersburg,714,724,LOC,Q656
+hidden_test_de_13_sent191,Casals,741,747,PER,Q208537
+hidden_test_de_13_sent191,Liszt,844,849,PER,Q41309
+hidden_test_de_13_sent191,Ziloty,866,872,PER,NIL
+hidden_test_de_13_sent191,Ziloty,926,932,PER,NIL
+hidden_test_de_13_sent192,Casals,0,6,PER,Q208537
+hidden_test_de_13_sent193,Newsky=Prospekt,141,156,LOC,Q382500
+hidden_test_de_13_sent194,Casals,49,55,PER,Q208537
+hidden_test_de_13_sent194,Südamerika,78,88,LOC,Q18
+hidden_test_de_13_sent194,Casals,279,285,PER,Q208537
+hidden_test_de_13_sent194,Casals,432,438,PER,Q208537
+hidden_test_de_13_sent195,F. F.,185,190,PER,NIL
+hidden_test_de_13_sent196,Fritz Eckhardt,4,18,PER,Q86663
+hidden_test_de_13_sent201,Ufa,77,80,ORG,Q41468
+hidden_test_de_13_sent201,Neubabelsberg,84,97,LOC,Q1979246
+hidden_test_de_13_sent202,Neubabelsberg,190,203,LOC,Q1979246
+hidden_test_de_13_sent211,Tobis,18,23,ORG,Q2438131
+hidden_test_de_13_sent211,Tri = Ergon,118,129,ORG,NIL
+hidden_test_de_13_sent211,Vogt,138,142,PER,Q1582885
+hidden_test_de_13_sent211,Massolle,144,152,PER,Q1707591
+hidden_test_de_13_sent211,Engel,157,162,PER,Q19286649
+hidden_test_de_13_sent211,Tobis,482,487,ORG,Q2438131
+hidden_test_de_13_sent213,Tobis,8,13,ORG,Q2438131
+hidden_test_de_13_sent214,Fritz v. Bothmer,52,68,PER,NIL
+hidden_test_de_13_sent216,Anne Austin,10,21,PER,Q19606547
+hidden_test_de_13_sent218,Ruth Lester,1,12,PER,NIL
+hidden_test_de_13_sent218,HenryP. Bordens,47,62,PER,NIL
+hidden_test_de_13_sent218,Jack Carrington Hayward,117,140,PER,NIL
+hidden_test_de_13_sent218,Ruth,186,190,PER,NIL
+hidden_test_de_13_sent218,Jack,268,272,PER,NIL
+hidden_test_de_13_sent218,Weeks,354,359,PER,NIL
+hidden_test_de_13_sent218,Hayward,378,385,PER,NIL
+hidden_test_de_13_sent218,Ruth,400,404,PER,NIL
+hidden_test_de_13_sent218,Weeks,413,418,PER,NIL
+hidden_test_de_13_sent218,Hayward,487,494,PER,NIL
+hidden_test_de_13_sent218,Man¬ning,523,531,PER,NIL
+hidden_test_de_13_sent218,Pendennis,700,709,LOC,NIL
+hidden_test_de_13_sent219,McMann,20,26,PER,NIL
+hidden_test_de_13_sent220,Birdwell,36,44,PER,NIL
+hidden_test_de_13_sent220,Manning,81,88,PER,NIL
+hidden_test_de_13_sent226,Harry,75,80,PER,NIL
+hidden_test_de_13_sent227,McMann,133,139,PER,NIL
+hidden_test_de_13_sent229,Harry,66,71,PER,NIL
+hidden_test_de_13_sent231,McMann,39,45,PER,NIL
+hidden_test_de_13_sent232,Manning,12,19,PER,NIL
+hidden_test_de_13_sent233,Star¬bridge Building,46,66,LOC,NIL
+hidden_test_de_13_sent233,Borden,120,126,PER,NIL
+hidden_test_de_13_sent233,Jake Bailey,148,159,PER,NIL
+hidden_test_de_13_sent237,Martha Manning,8,22,PER,NIL
+hidden_test_de_13_sent237,Ruth,43,47,PER,NIL
+hidden_test_de_13_sent237,Jack,112,116,PER,NIL
+hidden_test_de_13_sent237,Ruth,167,171,PER,NIL
+hidden_test_de_13_sent241,Jake Bailey,4,15,PER,NIL
+hidden_test_de_13_sent241,Harry Borden,77,89,PER,NIL
+hidden_test_de_13_sent242,Martha Manning,72,86,PER,NIL
+hidden_test_de_13_sent243,Jake,142,146,PER,NIL
+hidden_test_de_13_sent243,Bailey,266,272,PER,NIL
+hidden_test_de_13_sent243,Harrys Kontor,366,379,PER,NIL
+hidden_test_de_13_sent244,McMann,69,75,PER,NIL
+hidden_test_de_13_sent249,Harry,146,151,PER,NIL
+hidden_test_de_13_sent250,McMann,68,74,PER,NIL
+hidden_test_de_13_sent250,Harry,190,195,PER,NIL
+hidden_test_de_13_sent250,Borden,202,208,PER,NIL
+hidden_test_de_13_sent251,Wien,29,33,LOC,Q1741
+hidden_test_de_13_sent252,Oesterreich,0,11,LOC,Q518101
+hidden_test_de_13_sent253,Oesterreich,0,11,LOC,Q518101
+hidden_test_de_13_sent253,Vienna,99,105,ORG,Q686826
+hidden_test_de_13_sent253,Mailand,116,123,LOC,Q490
+hidden_test_de_13_sent253,Ambrosiana,130,140,ORG,Q631
+hidden_test_de_13_sent253,Austria,142,149,ORG,Q131209
+hidden_test_de_13_sent253,Wien,160,164,LOC,Q1741
+hidden_test_de_13_sent253,Slavia,187,193,ORG,Q194393
+hidden_test_de_13_sent254,Vienna,4,10,ORG,Q686826
+hidden_test_de_13_sent254,Ambrosiana,18,28,ORG,Q631
+hidden_test_de_13_sent254,Wien,44,48,LOC,Q1741
+hidden_test_de_13_sent254,Mailand,139,146,LOC,Q490
+hidden_test_de_13_sent255,Wien,52,56,LOC,Q1741
+hidden_test_de_13_sent255,Italien,62,69,LOC,Q48742118
+hidden_test_de_13_sent255,Vienna,131,137,ORG,Q686826
+hidden_test_de_13_sent255,Vienna,186,192,ORG,Q686826
+hidden_test_de_13_sent255,Horeschofsky,227,239,PER,Q81315700
+hidden_test_de_13_sent255,Rainer,241,247,PER,Q1732657
+hidden_test_de_13_sent255,Schmaus,248,255,PER,Q490374
+hidden_test_de_13_sent255,Kaller,257,263,PER,Q2039444
+hidden_test_de_13_sent255,Hoffmann,265,273,PER,Q256792
+hidden_test_de_13_sent255,Machu,275,280,PER,Q6526300
+hidden_test_de_13_sent255,Brosenbauer,282,293,PER,Q588446
+hidden_test_de_13_sent255,Adelbrecht,295,305,PER,Q323714
+hidden_test_de_13_sent255,Gschweidl,306,315,PER,Q1459395
+hidden_test_de_13_sent255,Tögel,317,322,PER,Q1556487
+hidden_test_de_13_sent255,Wortmann,324,332,PER,Q915696
+hidden_test_de_13_sent255,Erdl,337,341,PER,Q5492752
+hidden_test_de_13_sent255,Wien,364,368,LOC,Q1741
+hidden_test_de_13_sent256,Austria,74,81,ORG,Q131209
+hidden_test_de_13_sent256,Prag,94,98,LOC,Q1085
+hidden_test_de_13_sent256,Slavia,103,109,ORG,Q194393
+hidden_test_de_13_sent256,Slavia,131,137,ORG,Q194393
+hidden_test_de_13_sent256,Austria,187,194,ORG,Q131209
+hidden_test_de_13_sent256,Austria,275,282,ORG,Q131209
+hidden_test_de_13_sent256,Slavia,529,535,ORG,Q194393
+hidden_test_de_13_sent256,Planicka,576,584,PER,Q379
+hidden_test_de_13_sent256,Zenisek,586,593,PER,Q970400
+hidden_test_de_13_sent256,Fiala,595,600,PER,Q5182977
+hidden_test_de_13_sent256,Vodicka,601,608,PER,Q608814
+hidden_test_de_13_sent256,Cambal,610,616,PER,Q392388
+hidden_test_de_13_sent256,Cimpersky,618,627,PER,NIL
+hidden_test_de_13_sent256,Puc,629,632,PER,Q531382
+hidden_test_de_13_sent256,Kopetzky,634,642,PER,NIL
+hidden_test_de_13_sent256,Sobotka,644,651,PER,Q383293
+hidden_test_de_13_sent256,Swoboda,653,660,PER,Q1336868
+hidden_test_de_13_sent256,Junek,661,666,PER,Q203086
+hidden_test_de_13_sent256,Austria,672,679,ORG,Q131209
+hidden_test_de_13_sent256,Blum,701,705,PER,Q323982
+hidden_test_de_13_sent256,österreich,814,824,LOC,Q518101
+hidden_test_de_13_sent256,Hauptallee,994,1004,LOC,Q1248317
+hidden_test_de_13_sent257,Italien,23,30,LOC,Q48742118
+hidden_test_de_13_sent257,Barlassina,33,43,PER,Q1249246
+hidden_test_de_13_sent259,österreich,95,105,LOC,Q518101
+hidden_test_de_13_sent259,Wien,225,229,LOC,Q1741
+hidden_test_de_13_sent259,Schulerstraße 1 und 3,348,369,LOC,NIL
+hidden_test_de_13_sent261,Landstraßer Platz,145,162,LOC,NIL
+hidden_test_de_13_sent261,Burg¬theater,205,217,LOC,Q308720
+hidden_test_de_13_sent262,Rapid,22,27,ORG,Q131215
+hidden_test_de_13_sent262,Agram,31,36,LOC,Q1435
+hidden_test_de_13_sent262,Viktoria,54,62,ORG,NIL
+hidden_test_de_13_sent262,Gradjanski,80,90,ORG,Q172803
+hidden_test_de_13_sent262,F. C. Wien,103,113,ORG,Q683981
+hidden_test_de_13_sent262,Dänemark,126,134,LOC,Q35
+hidden_test_de_13_sent262,Kolding,153,160,ORG,Q1779108
+hidden_test_de_13_sent262,Admira,220,226,ORG,Q459929
+hidden_test_de_13_sent262,Norköping,243,252,LOC,Q25724
+hidden_test_de_13_sent262,Sleipner,259,267,ORG,Q772310
+hidden_test_de_13_sent262,B. A. C.,334,342,ORG,Q461162
+hidden_test_de_13_sent262,Saaz,390,394,LOC,Q393426
+hidden_test_de_13_sent265,österreich,4,14,LOC,Q518101
+hidden_test_de_13_sent265,Hakoah=Platz,102,114,LOC,NIL
+hidden_test_de_13_sent269,Oesterreich,16,27,LOC,Q518101
+hidden_test_de_13_sent269,Ungarn,28,34,LOC,Q600018
+hidden_test_de_13_sent270,Oesterreich,59,70,LOC,Q518101
+hidden_test_de_13_sent270,Ungarn,77,83,LOC,Q600018
+hidden_test_de_13_sent271,Hauptallee,21,31,LOC,Q1248317
+hidden_test_de_13_sent272,Niederösterreich,59,75,LOC,Q42497
+hidden_test_de_13_sent272,Prater=Hauptallee,228,245,LOC,Q1248317
+hidden_test_de_13_sent273,Hauptallee,105,115,LOC,Q1248317
+hidden_test_de_13_sent274,Kadletz,101,108,PER,NIL
+hidden_test_de_13_sent275,Wien,87,91,LOC,Q1741
+hidden_test_de_13_sent275,stadt,92,97,LOC,Q131612
+hidden_test_de_13_sent275,Niederösterreich,210,226,LOC,Q42497
+hidden_test_de_13_sent277,Wimbledon,15,24,LOC,Q736742
+hidden_test_de_13_sent278,Satoh,14,19,PER,Q3179267
+hidden_test_de_13_sent278,Japan,21,26,LOC,Q188712
+hidden_test_de_13_sent278,de Stefani,35,45,PER,Q2273996
+hidden_test_de_13_sent278,Italien,46,53,LOC,Q48742118
+hidden_test_de_13_sent278,Wills = Moody,88,101,PER,Q54543
+hidden_test_de_13_sent278,Henrotin,113,121,PER,Q3507351
+hidden_test_de_13_sent278,Frankreich,123,133,LOC,Q70802
+hidden_test_de_13_sent278,Valerio,159,166,PER,Q639768
+hidden_test_de_13_sent278,Italien,167,174,LOC,Q48742118
+hidden_test_de_13_sent278,Horn,192,196,PER,Q58048697
+hidden_test_de_13_sent278,Deutschland,198,209,LOC,Q7318
+hidden_test_de_13_sent278,Payot,239,244,PER,Q3258788
+hidden_test_de_13_sent278,Schweiz,246,253,LOC,Q39
+hidden_test_de_13_sent278,Whittingstall,267,280,PER,Q299959
+hidden_test_de_13_sent278,Groß¬britannien,282,297,LOC,Q23666
+hidden_test_de_13_sent278,Hughes,320,326,PER,Q552626
+hidden_test_de_13_sent278,Großbritannien,328,342,LOC,Q23666
+hidden_test_de_13_sent278,Sutter,350,356,PER,NIL
+hidden_test_de_13_sent278,Vereinigte Staaten,358,376,LOC,Q30
+hidden_test_de_13_sent278,Menzel,399,405,PER,Q662809
+hidden_test_de_13_sent278,Tschecho¬slowakei,407,424,LOC,Q140359
+hidden_test_de_13_sent278,Littleton Rogers,433,449,PER,Q29883
+hidden_test_de_13_sent278,Irland,451,457,LOC,Q27
+hidden_test_de_13_sent279,Stoeffen,0,8,PER,Q764024
+hidden_test_de_13_sent279,Vereinigte Staten,10,27,LOC,Q30
+hidden_test_de_13_sent279,Lee,36,39,PER,Q3127853
+hidden_test_de_13_sent279,Großbritannien,41,55,LOC,Q23666
+hidden_test_de_13_sent280,Gaisberg,4,12,LOC,Q688441
+hidden_test_de_13_sent282,Gaisberg,58,66,LOC,Q688441
+hidden_test_de_13_sent282,Salzburg,71,79,LOC,Q43325
+hidden_test_de_13_sent283,Gaisberg,344,352,LOC,Q688441
+hidden_test_de_13_sent284,Rennfahrer Hans Joachimv. Morgen,123,155,PER,Q12790812
+hidden_test_de_13_sent287,Italien,80,87,LOC,Q48742118
+hidden_test_de_13_sent287,Luigi Fagioli,90,103,PER,Q173038
+hidden_test_de_13_sent287,Maserati,120,128,ORG,Q35962
+hidden_test_de_13_sent287,Fontanini,142,151,PER,NIL
+hidden_test_de_13_sent287,ContePremolli,153,166,PER,NIL
+hidden_test_de_13_sent287,Conte Trossi,171,183,PER,Q776091
+hidden_test_de_13_sent287,Alfa=Romeo,188,198,ORG,Q26921
+hidden_test_de_13_sent287,GuidoLandi,200,210,PER,NIL
+hidden_test_de_13_sent287,Maserati,215,223,ORG,Q35962
+hidden_test_de_13_sent287,Schweizer Landesmeister HansStuber,229,263,PER,NIL
+hidden_test_de_13_sent287,Ulrich Maag,285,296,PER,NIL
+hidden_test_de_13_sent287,Bugatti,354,361,ORG,Q27401
+hidden_test_de_13_sent287,HansRuesch,367,377,PER,Q115715
+hidden_test_de_13_sent287,Alfa=Romeo,382,392,ORG,Q26921
+hidden_test_de_13_sent287,LaszloHartmann,423,437,PER,Q634769
+hidden_test_de_13_sent287,Bugatti,455,462,ORG,Q27401
+hidden_test_de_13_sent287,H. P. Widengreen,495,511,PER,NIL
+hidden_test_de_13_sent287,Alfa=Romeo,513,523,ORG,Q26921
+hidden_test_de_13_sent287,Tschechoslowakei Ing. Wilfried Proskowetz,555,596,PER,Q55859180
+hidden_test_de_13_sent287,Dr. Georg (Freiherr v.) Goldegg,600,631,PER,NIL
+hidden_test_de_13_sent287,HollandG. H. Scholten,637,658,PER,NIL
+hidden_test_de_13_sent287,Bugatti,675,682,ORG,Q27401
+hidden_test_de_13_sent287,Oesterreich Bern¬hard Kandl,688,715,PER,NIL
+hidden_test_de_13_sent287,Wien,717,721,LOC,Q1741
+hidden_test_de_13_sent287,Amilcar,723,730,ORG,Q471294
+hidden_test_de_13_sent287,Robert Fleisch¬anderl,743,764,PER,NIL
+hidden_test_de_13_sent287,Waidhofen,766,775,PER,NIL
+hidden_test_de_13_sent287,Bugatti,777,784,ORG,Q27401
+hidden_test_de_13_sent287,Hugo Roigk,787,797,PER,NIL
+hidden_test_de_13_sent287,Mercedes,799,807,ORG,Q36008
+hidden_test_de_13_sent287,Walter (v.) Wustrow,841,860,PER,NIL
+hidden_test_de_13_sent287,Bugatti,862,869,PER,Q314419
+hidden_test_de_13_sent287,Italien,882,889,LOC,Q48742118
+hidden_test_de_13_sent287,Vittoria Orsini,897,912,PER,NIL
+hidden_test_de_13_sent287,Maserati,914,922,ORG,Q35962
+hidden_test_de_13_sent287,AnnaMaria Peduzzi,928,945,PER,Q59917796
+hidden_test_de_13_sent287,Alfa=Romeo,947,957,ORG,Q26921
+hidden_test_de_13_sent288,Gaisberg,33,41,LOC,Q688441
+hidden_test_de_13_sent288,Tom Bullus,139,149,PER,Q2439558
+hidden_test_de_13_sent288,N. S. U.,154,162,ORG,Q39898
+hidden_test_de_13_sent288,Oesterreich,192,203,LOC,Q518101
+hidden_test_de_13_sent288,Runtsch,250,257,PER,NIL
+hidden_test_de_13_sent288,Czerny,259,265,PER,NIL
+hidden_test_de_13_sent288,Walla,267,272,PER,Q19287105
+hidden_test_de_13_sent288,Gayer,274,279,PER,NIL
+hidden_test_de_13_sent288,Bohmann,280,287,PER,Q1730522
+hidden_test_de_13_sent288,Schneeweiß,289,299,PER,Q1904974
+hidden_test_de_13_sent288,Wien,304,308,LOC,Q1741
+hidden_test_de_13_sent288,Reheis,310,316,PER,NIL
+hidden_test_de_13_sent288,Salz¬burg,321,330,LOC,Q34713
+hidden_test_de_13_sent288,Gyula Patho,397,408,PER,NIL
+hidden_test_de_13_sent289,Salzburger Automobil¬klub,20,45,ORG,Q2215935
+hidden_test_de_13_sent289,österreich,72,82,LOC,Q518101
+hidden_test_de_13_sent290,Gnigl,24,29,LOC,Q1533227
+hidden_test_de_13_sent290,Gaisberg,43,51,LOC,Q688441
+hidden_test_de_13_sent292,Kronfeld,11,19,PER,Q86279
+hidden_test_de_13_sent292,Paris,24,29,LOC,Q90
+hidden_test_de_13_sent293,österreich,4,14,LOC,Q518101
+hidden_test_de_13_sent293,Robert Kronfeld,33,48,PER,Q86279
+hidden_test_de_13_sent293,Orly bei Paris,92,106,LOC,Q223416
+hidden_test_de_13_sent293,Saint=Quentin,288,301,LOC,Q182744
+hidden_test_de_13_sent294,Kronfeld,19,27,PER,Q86279
+hidden_test_de_13_sent295,Robert Kronfeld,20,35,PER,Q86279
+hidden_test_de_13_sent295,Wien,39,43,LOC,Q1741
+hidden_test_de_13_sent295,österreich,203,213,LOC,Q518101
+hidden_test_de_13_sent295,Kronfeld,247,255,PER,Q86279
+hidden_test_de_13_sent296,Oesterreich,167,178,LOC,Q518101
+hidden_test_de_13_sent300,Wien,22,26,LOC,Q1741
+hidden_test_de_13_sent300,Verband der Jagd= und Wurftaubenschützen,112,152,ORG,NIL
+hidden_test_de_13_sent300,öster¬reich,161,172,LOC,Q518101
+hidden_test_de_13_sent300,BundespräsidentMiklas,220,241,PER,Q84263
+hidden_test_de_13_sent300,Bundeskanzler Dr. Dollfuß,262,287,PER,Q11734
+hidden_test_de_13_sent300,Vizekanzler Ing. Winkler,357,381,PER,Q1449511
+hidden_test_de_13_sent300,BundesministerDr. Buresch,387,412,PER,Q84511
+hidden_test_de_13_sent300,Dr. Schuschnigg,417,432,PER,Q738635
+hidden_test_de_13_sent300,Staatssekretär fürFremdenverkehr Neustädter = Stürmer,434,487,PER,Q2014639
+hidden_test_de_13_sent300,LandeshauptmannReither,489,511,PER,Q1705539
+hidden_test_de_13_sent300,Landeshauptmann und Bürgermeister Seitz,516,555,PER,Q84254
+hidden_test_de_13_sent300,Belgien,574,581,LOC,Q31
+hidden_test_de_13_sent300,Dänemark,583,591,LOC,Q35
+hidden_test_de_13_sent300,Frankreich,593,603,LOC,Q70802
+hidden_test_de_13_sent300,Niederlande,605,616,LOC,Q55
+hidden_test_de_13_sent300,Schweden,617,625,LOC,Q34
+hidden_test_de_13_sent300,Schweiz,627,634,LOC,Q39
+hidden_test_de_13_sent300,Spanien,636,643,LOC,Q178038
+hidden_test_de_13_sent300,Ungarn,648,654,LOC,Q600018
+hidden_test_de_13_sent302,Carnera,16,23,PER,Q325449
+hidden_test_de_13_sent302,Sharkey,26,33,PER,Q427464
+hidden_test_de_13_sent303,Sharkey,0,7,PER,Q427464
+hidden_test_de_13_sent303,Carnera,12,19,PER,Q325449
+hidden_test_de_13_sent304,Carnera,18,25,PER,Q325449
+hidden_test_de_13_sent304,Sharkey,132,139,PER,Q427464
+hidden_test_de_13_sent304,Sharkey,174,181,PER,Q427464
+hidden_test_de_13_sent304,Italien,237,244,LOC,Q48742118
+hidden_test_de_13_sent305,Sharkey,22,29,PER,Q427464
+hidden_test_de_13_sent305,Carnera,80,87,PER,Q325449
+hidden_test_de_13_sent306,Newyork,27,34,LOC,Q60
+hidden_test_de_13_sent306,Carnera,40,47,PER,Q325449
+hidden_test_de_13_sent306,Carnera,90,97,PER,Q325449
+hidden_test_de_13_sent307,Carnera,36,43,PER,Q325449
+hidden_test_de_13_sent311,Donaukanal,115,125,LOC,Q701695
+hidden_test_de_13_sent311,Rotundenbrücke,134,148,LOC,Q2169109
+hidden_test_de_13_sent311,Oesterreich,160,171,LOC,Q518101
+hidden_test_de_13_sent311,Donau,201,206,LOC,Q1653
+hidden_test_de_13_sent312,Donaukanal,60,70,LOC,Q701695
+hidden_test_de_13_sent313,Wien,222,226,LOC,Q1741
+hidden_test_de_13_sent314,Willy Schmieger,124,139,PER,Q1378435
+hidden_test_de_13_sent315,Bundesministerium für Heereswesen,241,274,ORG,Q872173
+hidden_test_de_13_sent315,Bundes¬ministerium für soziale Verwaltung,276,317,ORG,Q1006368
+hidden_test_de_13_sent315,Wien Graz,336,345,LOC,Q13298
+hidden_test_de_13_sent315,Linz,349,353,LOC,Q41329
+hidden_test_de_13_sent315,Wien,364,368,LOC,Q1741
+hidden_test_de_13_sent315,Wirtschaftsverband der Bundes=Sicher¬heitswachebeamten Oesterreichs,370,437,ORG,NIL
+hidden_test_de_13_sent317,Oesterreichischen Hauptverbandesfür Körpersport,27,74,ORG,Q306692
+hidden_test_de_13_sent317,Dr. Heinrich Hüttel,115,134,PER,NIL
+hidden_test_de_13_sent317,Zentralinspektors Dr. RudolfManda,198,231,PER,NIL
+hidden_test_de_13_sent317,"Pressereferent, Herr Rogerde Riedmatten",257,296,PER,NIL
+hidden_test_de_13_sent317,JosefAlbrecht,398,411,PER,NIL

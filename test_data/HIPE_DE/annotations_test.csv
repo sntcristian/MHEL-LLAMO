@@ -1,0 +1,1119 @@
+doc_id,surface,start_pos,end_pos,type,identifier
+NZZ-1798-01-20-a-p0002_sent1,Rom,28,31,LOC,Q220
+NZZ-1798-01-20-a-p0002_sent2,Buonaparte's,2,14,PER,Q517
+NZZ-1798-01-20-a-p0002_sent2,Rom,66,69,LOC,Q220
+NZZ-1798-01-20-a-p0002_sent4,Frank reichs,39,51,LOC,Q142
+NZZ-1798-01-20-a-p0002_sent9,Gen. Duphot,80,91,PER,Q977001
+NZZ-1798-01-20-a-p0002_sent10,General¬ Lieutenant Sherlöck,29,57,PER,NIL
+NZZ-1798-01-20-a-p0002_sent13,Rom,99,102,LOC,Q220
+NZZ-1798-01-20-a-p0002_sent13,Basseville's,117,129,PER,Q3339973
+NZZ-1798-01-20-a-p0002_sent13,Gen. Duphot,163,174,PER,Q977001
+NZZ-1808-04-29-a-p0002_sent3,danischen Blatte Dagen,322,344,PROD,Q1768412
+NZZ-1808-04-29-a-p0002_sent3,Rußland,434,441,LOC,Q159
+NZZ-1808-04-29-a-p0002_sent3,Seeland,507,514,LOC,Q25535
+NZZ-1808-04-29-a-p0002_sent3,Rußland,628,635,LOC,Q159
+NZZ-1808-04-29-a-p0002_sent3,General Hutchinson,644,662,PER,Q321765
+NZZ-1808-04-29-a-p0002_sent6,General Hutchinson,28,46,PER,Q321765
+NZZ-1808-04-29-a-p0002_sent6,Kopenhagen,122,132,LOC,Q1748
+NZZ-1808-04-29-a-p0002_sent7,England,287,294,LOC,Q21
+NZZ-1808-04-29-a-p0002_sent10,Bartenstein,122,133,LOC,Q809585
+NZZ-1808-04-29-a-p0002_sent11,Dänemark,93,101,LOC,Q35
+NZZ-1808-04-29-a-p0002_sent11,Frankreich,136,146,LOC,Q142
+NZZ-1808-04-29-a-p0002_sent12,Lord Gower,41,51,PER,Q334145
+NZZ-1808-04-29-a-p0002_sent19,Rußland,204,211,LOC,Q159
+NZZ-1808-04-29-a-p0002_sent21,Dä¬ nemark,76,86,LOC,Q35
+NZZ-1808-04-29-a-p0002_sent23,Kronstadt,70,79,LOC,Q155863
+NZZ-1808-04-29-a-p0002_sent24,Kronstadt,79,88,LOC,Q155863
+NZZ-1808-04-29-a-p0002_sent26,Dänemark,94,102,LOC,Q35
+NZZ-1808-04-29-a-p0002_sent26,Hamburger-Korrespondenten,157,182,PROD,Q822923
+NZZ-1808-04-29-a-p0002_sent26,Petersburg,193,203,LOC,Q656
+NZZ-1808-04-29-a-p0002_sent26,neuesten Berlinischen Zeitung,232,261,PROD,Q675003
+NZZ-1808-04-29-a-p0002_sent26,H. von Rotzebue,283,298,PER,NIL
+NZZ-1808-04-29-a-p0002_sent26,Ehstland,302,310,LOC,Q191
+NZZ-1808-04-29-a-p0002_sent28,Peters¬ burg,50,62,LOC,Q656
+NZZ-1808-04-29-a-p0002_sent28,General Burhöyden,114,131,PER,NIL
+NZZ-1818-01-09-a-p0001_sent2,würdige De¬ kan Kaiser,72,94,PER,NIL
+NZZ-1818-01-09-a-p0001_sent2,Ansbach,98,105,LOC,Q14859
+NZZ-1818-01-09-a-p0001_sent2,Nürnberg,167,175,LOC,Q2090
+NZZ-1818-01-09-a-p0001_sent3,"M. Mles, Pfarrer zu Deyzisau",37,65,PER,NIL
+NZZ-1818-01-09-a-p0001_sent3,Königreich Wür¬ temberg,69,92,LOC,Q159631
+NZZ-1818-01-09-a-p0001_sent3,Stuttgart,142,151,LOC,Q1022
+NZZ-1818-01-09-a-p0001_sent3,Steinkopf,157,166,PROD,NIL
+NZZ-1818-01-09-a-p0001_sent4,Luther,174,180,PER,Q9554
+NZZ-1818-01-09-a-p0001_sent4,protestantischen Kirche,207,230,ORG,Q2113518
+NZZ-1818-01-09-a-p0001_sent9,Schmidthammer,41,54,PER,NIL
+NZZ-1818-01-09-a-p0001_sent9,Berlin,92,98,LOC,Q64
+NZZ-1818-01-09-a-p0001_sent9,Realschul¬ Buchhandlung,100,123,ORG,Q2516675
+NZZ-1818-01-09-a-p0001_sent10,Luther,0,6,PER,Q9554
+NZZ-1818-01-09-a-p0001_sent10,gelehrte und freymü¬ thige Oberhofprediger Dr. Ammon,112,164,PER,Q213786
+NZZ-1818-01-09-a-p0001_sent10,Dresden,168,175,LOC,Q1731
+NZZ-1818-01-09-a-p0001_sent12,"ehrwürdige Antistes der Zürcheri¬ schen Kirche, Heß,",87,139,PER,Q121947
+NZZ-1818-01-09-a-p0001_sent12,Zürich,249,255,LOC,Q72
+NZZ-1818-01-09-a-p0001_sent12,Orell,257,262,ORG,NIL
+NZZ-1818-01-09-a-p0001_sent14,Europens,180,188,LOC,Q46
+NZZ-1818-01-09-a-p0001_sent20,Euro¬ päischen Brittischen Inseln,7,40,LOC,Q38272
+NZZ-1828-05-21-a-p0001_sent0,Schweizerische Eidgenossenschaft,0,32,LOC,Q39
+NZZ-1828-05-21-a-p0001_sent1,große Rath des Standes Luzern,4,33,ORG,Q27897675
+NZZ-1828-05-21-a-p0001_sent16,Freyburg,95,103,LOC,Q12640
+NZZ-1828-05-21-a-p0001_sent16,Schaffhausen,105,117,LOC,Q12697
+NZZ-1828-05-21-a-p0001_sent16,Aargau,122,128,LOC,Q11972
+NZZ-1838-03-30-a-p0001_sent0,Schwyz,0,6,LOC,Q12433
+NZZ-1838-03-30-a-p0001_sent1,Der Waldstätterbote,0,19,PROD,NIL
+NZZ-1838-03-30-a-p0001_sent1,hohe Stand Schwyz,93,110,LOC,Q12433
+NZZ-1838-03-30-a-p0001_sent1,alte Land Schwyz,121,137,LOC,Q12433
+NZZ-1838-03-30-a-p0001_sent2,alten Landes Schwyz,185,204,LOC,Q12433
+NZZ-1838-03-30-a-p0001_sent3,Kantons Schwyz,153,167,LOC,Q12433
+NZZ-1838-03-30-a-p0001_sent3,K. Schwyz,533,542,LOC,Q12433
+NZZ-1838-03-30-a-p0001_sent4,Schwyz,54,60,LOC,Q12433
+NZZ-1838-03-30-a-p0001_sent5,hohe Stand Schwyz,40,57,LOC,Q12433
+NZZ-1838-03-30-a-p0001_sent5,hohen Standes Neuenburg,76,99,LOC,Q12738
+NZZ-1838-03-30-a-p0001_sent7,Schwyz,0,6,LOC,Q12433
+NZZ-1838-03-30-a-p0001_sent9,Neuenburg,127,136,LOC,Q12738
+NZZ-1838-03-30-a-p0001_sent9,Neuen¬ burg,187,198,LOC,Q12738
+NZZ-1838-03-30-a-p0001_sent9,Schwyz,219,225,LOC,Q12433
+NZZ-1838-03-30-a-p0001_sent10,Schwyz,16,22,LOC,Q12433
+NZZ-1838-03-30-a-p0001_sent11,Schwyz,27,33,LOC,Q12433
+NZZ-1838-03-30-a-p0001_sent11,Neuenburg,121,130,LOC,Q12738
+NZZ-1838-03-30-a-p0001_sent13,Bezirk Schwyz,83,96,LOC,Q74818
+NZZ-1838-03-30-a-p0001_sent15,Kantons Schwyz,149,163,LOC,Q12433
+NZZ-1838-03-30-a-p0001_sent16,Kantons Schwyz,13,27,LOC,Q12433
+NZZ-1838-03-30-a-p0001_sent19,Eidgenossenschaft,139,156,LOC,Q39
+NZZ-1848-01-21-a-p0005_sent0,Schweizerische National-Vorsichts-Kassa,2,41,ORG,NIL
+NZZ-1848-01-21-a-p0005_sent0,Bern,45,49,LOC,Q70
+NZZ-1848-01-21-a-p0005_sent1,Schweiz.,32,40,ORG,NIL
+NZZ-1848-01-21-a-p0005_sent2,Na¬ sional-Vorsichtskassa,0,25,ORG,NIL
+NZZ-1848-01-21-a-p0005_sent2,derrn Oberst Brunner,207,227,PER,NIL
+NZZ-1848-01-21-a-p0005_sent2,Herrn Locher,236,248,PER,NIL
+NZZ-1848-01-21-a-p0005_sent3,Herr Oberst Brunner,0,19,PER,NIL
+NZZ-1848-01-21-a-p0005_sent3,Kanton Zürich,51,64,LOC,Q11943
+NZZ-1848-01-21-a-p0005_sent4,Herr Locher,0,11,PER,NIL
+NZZ-1848-01-21-a-p0005_sent4,Kanton Zürich,51,64,LOC,Q11943
+NZZ-1848-01-21-a-p0005_sent4,östliche Schweiz,90,106,LOC,Q31003
+NZZ-1848-01-21-a-p0005_sent4,Hrn.,252,256,PER,NIL
+NZZ-1848-01-21-a-p0005_sent5,Oberst Brunner,0,14,PER,NIL
+NZZ-1848-01-21-a-p0005_sent7,Herrn Oberst Brunner,41,61,PER,NIL
+NZZ-1848-01-21-a-p0005_sent8,Herrn Oberst Brunner,4,24,PER,NIL
+NZZ-1848-01-21-a-p0005_sent8,Kantonen Zürich,59,74,LOC,Q11943
+NZZ-1848-01-21-a-p0005_sent8,Schwyz,76,82,LOC,Q12433
+NZZ-1848-01-21-a-p0005_sent8,Appenzell,87,96,LOC,Q688257
+NZZ-1848-01-21-a-p0005_sent11,Bern,0,4,LOC,Q70
+NZZ-1848-01-21-a-p0005_sent12,Direktor der Schweiz.,4,25,PER,NIL
+NZZ-1848-01-21-a-p0005_sent13,National-Vorsichts-Kassa: Cünier,0,32,PER,NIL
+NZZ-1858-04-20-a-p0003_sent0,Schweiz,0,7,LOC,Q39
+NZZ-1858-04-20-a-p0003_sent3,Vereinigten Staaten Amerikas,13,41,LOC,Q30
+NZZ-1858-04-20-a-p0003_sent3,Gemeinde Horgen,118,133,LOC,Q68286
+NZZ-1858-04-20-a-p0003_sent4,Polytechnikum,37,50,ORG,Q11942
+NZZ-1858-04-20-a-p0003_sent6,Simplon,54,61,LOC,Q471166
+NZZ-1858-04-20-a-p0003_sent6,Sitten,100,106,LOC,Q68136
+NZZ-1858-04-20-a-p0003_sent8,Zürich,0,6,LOC,Q11943
+NZZ-1858-04-20-a-p0003_sent9,Wetzikon,59,67,LOC,Q68305
+NZZ-1858-04-20-a-p0003_sent9,Rüti,68,72,LOC,Q69752
+NZZ-1858-04-20-a-p0003_sent10,Zürich,52,58,LOC,Q11943
+NZZ-1858-04-20-a-p0003_sent10,minder¬ jährigen Zürchers Spöri,94,125,PER,NIL
+NZZ-1858-04-20-a-p0003_sent10,Kanton Bern,133,144,LOC,Q11911
+NZZ-1858-04-20-a-p0003_sent10,Kantons Zürich,235,249,LOC,Q11943
+NZZ-1858-04-20-a-p0003_sent12,St. Gallen,0,10,LOC,Q12746
+NZZ-1858-04-20-a-p0003_sent13,Deutsch-schweizerische Kre¬ ditbank,0,35,ORG,NIL
+NZZ-1858-04-20-a-p0003_sent14,Herren Georg Dörten¬ bach,23,48,PER,Q1693802
+NZZ-1858-04-20-a-p0003_sent14,Stuttgart,53,62,LOC,Q1022
+NZZ-1858-04-20-a-p0003_sent14,Karl v. Schätzler,64,81,PER,Q1874644
+NZZ-1858-04-20-a-p0003_sent14,Augsburg,86,94,LOC,Q2749
+NZZ-1858-04-20-a-p0003_sent14,Adolph Pestalozzi,99,116,PER,NIL
+NZZ-1858-04-20-a-p0003_sent14,Zürich,121,127,LOC,Q72
+NZZ-1858-04-20-a-p0003_sent14,Herren Albert Erzberger,221,244,PER,NIL
+NZZ-1858-04-20-a-p0003_sent14,Augsburg,249,257,LOC,Q2749
+NZZ-1858-04-20-a-p0003_sent14,Max v. Haber,259,271,PER,NIL
+NZZ-1858-04-20-a-p0003_sent14,Karlsruhe,276,285,LOC,Q1040
+NZZ-1858-04-20-a-p0003_sent14,Escher-Bodmer,290,303,PER,NIL
+NZZ-1858-04-20-a-p0003_sent14,Zürich,308,314,LOC,Q72
+NZZ-1858-04-20-a-p0003_sent15,HH.,105,108,PER,Q16832423
+NZZ-1858-04-20-a-p0003_sent16,Prä¬ sident Wirth-Sand,0,22,PER,Q16832423
+NZZ-1858-04-20-a-p0003_sent16,Rechtskonsulent Jordan,24,46,PER,NIL
+NZZ-1858-04-20-a-p0003_sent16,Stutt¬ gart,51,62,LOC,Q1022
+NZZ-1858-04-20-a-p0003_sent16,Escher-Bodmer,64,77,PER,NIL
+NZZ-1858-04-20-a-p0003_sent16,v. Schultheß-Rechberg,79,100,PER,Q55193349
+NZZ-1858-04-20-a-p0003_sent16,Zürich,105,111,LOC,Q72
+NZZ-1858-04-20-a-p0003_sent16,Präsident Bärlocher,113,132,PER,Q55683827
+NZZ-1858-04-20-a-p0003_sent16,St. Gallen Fürsprech Hoffmann,137,166,PER,NIL
+NZZ-1858-04-20-a-p0003_sent16,St. Gallen,171,181,LOC,Q25607
+NZZ-1858-04-20-a-p0003_sent16,Gsell-Lutz,183,193,PER,NIL
+NZZ-1858-04-20-a-p0003_sent16,St. Gallen,197,207,LOC,Q25607
+NZZ-1858-04-20-a-p0003_sent17,Bünden,0,6,LOC,Q11925
+NZZ-1858-04-20-a-p0003_sent18,Churer Tagblatt,9,24,PROD,NIL
+NZZ-1858-04-20-a-p0003_sent18,Vereinigten Schweizerbahnen,78,105,ORG,Q678188
+NZZ-1858-04-20-a-p0003_sent18,Chur,171,175,LOC,Q69007
+NZZ-1858-04-20-a-p0003_sent19,Appenzell A. Rh.,0,16,LOC,Q12079
+NZZ-1858-04-20-a-p0003_sent20,Waldstatt,28,37,LOC,Q69658
+NZZ-1858-04-20-a-p0003_sent21,Genf,0,4,LOC,Q11917
+NZZ-1858-04-20-a-p0003_sent22,Nord,15,19,PROD,NIL
+NZZ-1858-04-20-a-p0003_sent22,Hr.,29,32,PER,Q116287
+NZZ-1858-04-20-a-p0003_sent23,James Fazy,0,10,PER,Q116287
+NZZ-1858-04-20-a-p0003_sent23,Paris,44,49,LOC,Q90
+NZZ-1858-04-20-a-p0003_sent24,Neuenburg,0,9,LOC,Q12738
+NZZ-1858-04-20-a-p0003_sent25,Paris,55,60,LOC,Q90
+NZZ-1858-04-20-a-p0003_sent25,Ferrukh-Khan,65,77,PER,Q1249837
+NZZ-1858-04-20-a-p0003_sent25,Persien,157,164,LOC,Q83311
+NZZ-1868-02-17-a-p0001_sent2,Nordamerika,16,27,LOC,Q49
+NZZ-1868-02-17-a-p0001_sent2,England,100,107,LOC,Q21
+NZZ-1868-02-17-a-p0001_sent4,England,15,22,LOC,Q21
+NZZ-1868-02-17-a-p0001_sent5,Wa¬ shington,4,16,LOC,Q61
+NZZ-1868-02-17-a-p0001_sent5,England,91,98,LOC,Q21
+NZZ-1868-02-17-a-p0001_sent6,Vereinigten Staaten,11,30,LOC,Q30
+NZZ-1868-02-17-a-p0001_sent6,Washington,269,279,LOC,Q61
+NZZ-1868-02-17-a-p0001_sent7,Europa,99,105,LOC,Q46
+NZZ-1868-02-17-a-p0001_sent8,Vereinigten Staaten von Nord¬ amerika,20,57,LOC,Q30
+NZZ-1868-02-17-a-p0001_sent10,Wafhington,3,13,LOC,Q61
+NZZ-1868-02-17-a-p0001_sent10,Insel St. Thomas,72,88,LOC,Q463937
+NZZ-1868-02-17-a-p0001_sent10,Kopenhagen,92,102,LOC,Q1748
+NZZ-1868-02-17-a-p0001_sent11,Königreichs Siam,38,54,LOC,Q1155700
+NZZ-1868-02-17-a-p0001_sent11,Paris,63,68,LOC,Q90
+NZZ-1868-02-17-a-p0001_sent13,England,82,89,LOC,Q21
+NZZ-1868-02-17-a-p0001_sent14,Disraeli,30,38,PER,Q82006
+NZZ-1868-02-17-a-p0001_sent16,ungarischen Comitat Zips,3,27,LOC,Q767378
+NZZ-1868-02-17-a-p0001_sent16,Galizien,36,44,LOC,Q180086
+NZZ-1868-02-17-a-p0001_sent18,Leutschau,31,40,LOC,Q242478
+NZZ-1868-02-17-a-p0001_sent20,Oesterreich,3,14,LOC,Q533534
+NZZ-1868-02-17-a-p0001_sent22,N. Z. Ztg.,61,71,PROD,Q658945
+NZZ-1868-02-17-a-p0001_sent23,Lieutenant,67,77,PER,Q28737714
+NZZ-1868-02-17-a-p0001_sent24,v. Tschirschnitz,0,16,PER,Q28737714
+NZZ-1868-02-17-a-p0001_sent24,Schweiz,78,85,LOC,Q39
+NZZ-1868-02-17-a-p0001_sent25,Deputirten Mellana,15,33,PER,NIL
+NZZ-1868-02-17-a-p0001_sent26,Pungolo,5,12,PROD,NIL
+NZZ-1868-02-17-a-p0001_sent26,Mailand,18,25,LOC,Q490
+NZZ-1868-02-17-a-p0001_sent27,Amerika,45,52,LOC,Q828
+NZZ-1868-02-17-a-p0001_sent27,Varese,58,64,LOC,Q6285
+NZZ-1868-02-17-a-p0001_sent31,Hennegau,89,97,LOC,Q1129
+NZZ-1868-02-17-a-p0001_sent33,Frankreich,47,57,LOC,Q142
+NZZ-1868-02-17-a-p0001_sent34,Senator Montlaville,27,46,PER,NIL
+NZZ-1868-02-17-a-p0001_sent34,Marquis Boissy,97,111,PER,Q3135539
+NZZ-1868-02-17-a-p0001_sent35,Bordeaux,44,52,LOC,Q1479
+NZZ-1868-02-17-a-p0001_sent35,London,114,120,LOC,Q84
+NZZ-1868-02-17-a-p0001_sent36,Abbe Migne's,0,12,PER,Q326431
+NZZ-1868-02-17-a-p0001_sent36,Paris,43,48,LOC,Q90
+NZZ-1868-02-17-a-p0001_sent39,Jupiters,82,90,LOC,Q319
+NZZ-1868-02-17-a-p0001_sent39,Planeten Merkur,212,227,LOC,Q308
+NZZ-1868-02-17-a-p0001_sent39,Sonne,241,246,LOC,Q525
+NZZ-1868-02-17-a-p0001_sent39,Erde,273,277,LOC,Q2
+NZZ-1868-02-17-a-p0001_sent40,Merkur,36,42,LOC,Q308
+NZZ-1868-02-17-a-p0001_sent40,Mond,120,124,LOC,Q405
+NZZ-1868-02-17-a-p0001_sent40,Jupiter,172,179,LOC,Q319
+NZZ-1868-02-17-a-p0001_sent40,Merkur,244,250,LOC,Q308
+NZZ-1868-02-17-a-p0001_sent40,Sonne,307,312,LOC,Q525
+NZZ-1868-02-17-a-p0001_sent41,Astronom Gassendi,20,37,PER,Q192315
+NZZ-1868-02-17-a-p0001_sent41,Merkur,131,137,LOC,Q308
+NZZ-1878-01-07-b-p0002_sent2,Cornet Burenie,49,63,PER,NIL
+NZZ-1878-01-07-b-p0002_sent2,Uralsk,68,74,LOC,Q487439
+NZZ-1878-01-07-b-p0002_sent2,Donauarmee,79,89,ORG,NIL
+NZZ-1878-01-07-b-p0002_sent4,russische Jeanne d'Arc,6,28,PER,Q7226
+NZZ-1878-01-07-b-p0002_sent4,Tatjana Shukalin,57,73,PER,NIL
+NZZ-1878-01-07-b-p0002_sent7,Fräulein Shukalin,22,39,PER,NIL
+NZZ-1878-01-07-b-p0002_sent7,Bulgarien,120,129,LOC,Q219
+NZZ-1878-01-07-b-p0002_sent8,"Stabschef der aktiven Armee, dem General-Adjutanten Ne¬ pokoitschizkij",42,112,PER,NIL
+NZZ-1878-01-07-b-p0002_sent8,Fräuleins Shukalin,211,229,PER,NIL
+NZZ-1878-01-07-b-p0002_sent10,Uralsk,127,133,LOC,NIL
+NZZ-1878-01-07-b-p0002_sent13,Sai¬ zew,68,76,PER,NIL
+NZZ-1878-01-07-b-p0002_sent14,Saizew,8,14,PER,NIL
+NZZ-1878-01-07-b-p0002_sent15,Insel Sylt,61,71,LOC,Q3107
+NZZ-1878-01-07-b-p0002_sent15,Kirchdorfe Eidum,116,132,LOC,Q20772
+NZZ-1878-01-07-b-p0002_sent15,Westerland,156,166,LOC,Q27998
+NZZ-1878-01-07-b-p0002_sent18,Morsum-Kliff,22,34,LOC,Q1948646
+NZZ-1878-01-07-b-p0002_sent20,Insel Sylt,4,14,LOC,Q3107
+NZZ-1878-01-07-b-p0002_sent20,Dr. Hantelmann,131,145,PER,NIL
+NZZ-1878-01-07-b-p0002_sent21,Arbeitgeber,37,48,PROD,NIL
+NZZ-1878-01-07-b-p0002_sent21,Brauereibesitzerin Elise Hassold,60,92,PER,NIL
+NZZ-1878-01-07-b-p0002_sent21,Schwalbach,96,106,LOC,Q686818
+NZZ-1878-01-07-b-p0002_sent21,Ulm,184,187,LOC,Q3012
+NZZ-1878-01-07-b-p0002_sent22,Rumänien,91,99,LOC,Q218
+NZZ-1878-01-07-b-p0002_sent22,Kronst.,130,137,PROD,NIL
+NZZ-1878-01-07-b-p0002_sent23,Ztg.,0,4,PROD,NIL
+NZZ-1878-01-07-b-p0002_sent24,Plojeschti,27,37,LOC,Q179585
+NZZ-1878-01-07-b-p0002_sent24,Bukarest,42,50,LOC,Q19660
+NZZ-1878-01-07-b-p0002_sent24,Kronstadt,131,140,LOC,Q82174
+NZZ-1878-01-07-b-p0002_sent24,Bukarest,146,154,LOC,Q19660
+NZZ-1878-01-07-b-p0002_sent29,Amerika,234,241,LOC,Q30
+NZZ-1878-01-07-b-p0002_sent31,Theobald Ziegler,52,68,PER,Q91527
+NZZ-1878-01-07-b-p0002_sent33,Gartenlaube,4,15,PROD,Q655617
+NZZ-1878-01-07-b-p0002_sent33,Gartenlaube,57,68,PROD,Q655617
+NZZ-1878-01-07-b-p0002_sent33,Voss.,82,87,PROD,Q675003
+NZZ-1878-01-07-b-p0002_sent34,Ztg.,0,4,PROD,Q675003
+NZZ-1878-01-07-b-p0002_sent36,Preußen,51,58,LOC,Q38872
+NZZ-1878-01-07-b-p0002_sent38,Leipzig,22,29,LOC,Q2079
+NZZ-1878-01-07-b-p0002_sent38,General v. Mülbe,35,51,PER,Q52106011
+NZZ-1878-01-07-b-p0002_sent40,Königgrätz,27,37,LOC,Q180139
+NZZ-1878-01-07-b-p0002_sent40,Bismarck's,59,69,PER,Q8442
+NZZ-1878-01-07-b-p0002_sent40,Preußen,84,91,LOC,Q38872
+NZZ-1878-01-07-b-p0002_sent40,Bismarck's,184,194,PER,Q8442
+NZZ-1878-01-07-b-p0002_sent41,Gartenlaube,32,43,PROD,Q655617
+NZZ-1888-03-08-b-p0002_sent1,Deutschland,0,11,LOC,Q1206012
+NZZ-1888-03-08-b-p0002_sent2,"Führer der preußi¬ schen Hochkonservativen, Moritz von Blanken¬ burg,",10,79,PER,Q111102
+NZZ-1888-03-08-b-p0002_sent3,Pommern,15,22,LOC,Q104520
+NZZ-1888-03-08-b-p0002_sent3,Erziehungs¬ anstalt zum Grauen Kloster,59,97,ORG,Q328971
+NZZ-1888-03-08-b-p0002_sent3,Berlin,101,107,LOC,Q64
+NZZ-1888-03-08-b-p0002_sent3,gleichaltrigen Otto v. Bismarck,116,147,PER,Q8442
+NZZ-1888-03-08-b-p0002_sent3,Reichs¬ tag,294,305,ORG,Q160208
+NZZ-1888-03-08-b-p0002_sent4,Gerlach,6,13,PER,Q65780
+NZZ-1888-03-08-b-p0002_sent6,Bismarck,85,93,PER,Q8442
+NZZ-1888-03-08-b-p0002_sent8,demokratische Frankfurter Zeitung,4,37,PROD,Q561972
+NZZ-1888-03-08-b-p0002_sent11,Blankenburg,26,37,PER,Q111102
+NZZ-1888-03-08-b-p0002_sent12,Frankreich,2,12,LOC,Q70802
+NZZ-1888-03-08-b-p0002_sent13,Paris,0,5,LOC,Q90
+NZZ-1888-03-08-b-p0002_sent14,Louise Michel,35,48,PER,Q216092
+NZZ-1888-03-08-b-p0002_sent14,Faubourg du Temple,69,87,LOC,Q1037624
+NZZ-1888-03-08-b-p0002_sent15,Numea,81,86,LOC,Q9733
+NZZ-1888-03-08-b-p0002_sent15,Dynamithelden Cyvoct,113,133,PER,Q17350092
+NZZ-1888-03-08-b-p0002_sent15,Gallo,138,143,PER,Q16929990
+NZZ-1888-03-08-b-p0002_sent16,Paris,106,111,LOC,Q90
+NZZ-1888-03-08-b-p0002_sent17,arme Joffrin,56,68,PER,Q3188690
+NZZ-1888-03-08-b-p0002_sent17,Belleville,94,104,LOC,Q815949
+NZZ-1888-03-08-b-p0002_sent17,Joffrin,292,299,PER,Q3188690
+NZZ-1888-03-08-b-p0002_sent19,Louise Michel,26,39,PER,Q216092
+NZZ-1888-03-08-b-p0002_sent19,Havre,62,67,LOC,Q42810
+NZZ-1888-03-08-b-p0002_sent20,Lucas,88,93,PER,NIL
+NZZ-1888-03-08-b-p0002_sent22,Paris,161,166,LOC,Q90
+NZZ-1888-03-08-b-p0002_sent23,Oesterreich-Ungarn,0,18,LOC,Q28513
+NZZ-1888-03-08-b-p0002_sent24,Wien,0,4,LOC,Q1741
+NZZ-1888-03-08-b-p0002_sent26,serbische Skupschtina,28,49,ORG,Q920222
+NZZ-1888-03-08-b-p0002_sent27,gestürzten Ristitsch,17,37,PER,Q391573
+NZZ-1888-03-08-b-p0002_sent28,Oesterreich,34,45,LOC,Q40
+NZZ-1888-03-08-b-p0002_sent28,Orient,68,74,LOC,Q205653
+NZZ-1888-03-08-b-p0002_sent28,Serbien,95,102,LOC,Q403
+NZZ-1888-03-08-b-p0002_sent28,Serbien,190,197,LOC,Q403
+NZZ-1888-03-08-b-p0002_sent28,Herrn Ristitsch,278,293,PER,Q391573
+NZZ-1888-03-08-b-p0002_sent28,rus¬ sischen Panslavismus,344,369,PROD,Q182267
+NZZ-1888-03-08-b-p0002_sent30,Serbien,56,63,LOC,Q403
+NZZ-1888-03-08-b-p0002_sent30,Oesterreichs,96,108,LOC,Q40
+NZZ-1888-03-08-b-p0002_sent31,Bosnien,66,73,LOC,Q225
+NZZ-1888-03-08-b-p0002_sent32,König Milan,5,16,PER,Q313829
+NZZ-1888-03-08-b-p0002_sent34,Belgrad,121,128,LOC,Q3711
+NZZ-1888-03-08-b-p0002_sent35,Ristitsch,12,21,PER,Q391573
+NZZ-1888-03-08-b-p0002_sent35,Oesterreich,136,147,LOC,Q40
+NZZ-1888-03-08-b-p0002_sent37,Serbien,82,89,LOC,Q403
+NZZ-1888-03-08-b-p0002_sent37,Belgrad,160,167,LOC,Q3711
+NZZ-1898-12-05-b-p0005_sent0,China,22,27,LOC,Q148
+NZZ-1898-12-05-b-p0005_sent2,Europa,3,9,LOC,Q46
+NZZ-1898-12-05-b-p0005_sent2,Peking,81,87,LOC,Q956
+NZZ-1898-12-05-b-p0005_sent3,Partei der Jung¬ chinesen,125,150,ORG,NIL
+NZZ-1898-12-05-b-p0005_sent5,Reform¬ partei,159,173,ORG,Q1203735
+NZZ-1898-12-05-b-p0005_sent7,Chinas,0,6,LOC,Q148
+NZZ-1898-12-05-b-p0005_sent7,Japan,51,56,LOC,Q17
+NZZ-1898-12-05-b-p0005_sent8,Ew.,6,9,PER,Q174971
+NZZ-1898-12-05-b-p0005_sent9,Majestät den Marquis Ito,0,24,PER,Q174971
+NZZ-1898-12-05-b-p0005_sent9,Chinas,200,206,LOC,Q148
+NZZ-1898-12-05-b-p0005_sent9,Japan,210,215,LOC,Q17
+NZZ-1898-12-05-b-p0005_sent10,Graf Ito,15,23,PER,Q174971
+NZZ-1898-12-05-b-p0005_sent11,China,168,173,LOC,Q148
+NZZ-1898-12-05-b-p0005_sent12,Chinas,116,122,LOC,Q148
+NZZ-1898-12-05-b-p0005_sent15,Europas,12,19,LOC,Q46
+NZZ-1898-12-05-b-p0005_sent15,Amerikas,24,32,LOC,Q828
+NZZ-1898-12-05-b-p0005_sent17,Japan,23,28,LOC,Q17
+NZZ-1898-12-05-b-p0005_sent18,Japan,17,22,LOC,Q17
+NZZ-1898-12-05-b-p0005_sent18,England,27,34,LOC,Q21
+NZZ-1898-12-05-b-p0005_sent18,Rußland,68,75,LOC,Q34266
+NZZ-1898-12-05-b-p0005_sent18,Ostasien,79,87,LOC,Q27231
+NZZ-1898-12-05-b-p0005_sent20,Eng¬ land,0,9,LOC,Q21
+NZZ-1898-12-05-b-p0005_sent20,Japan,22,27,LOC,Q17
+NZZ-1898-12-05-b-p0005_sent20,Rußlands,38,46,LOC,Q34266
+NZZ-1898-12-05-b-p0005_sent21,Japan,15,20,LOC,Q17
+NZZ-1898-12-05-b-p0005_sent21,Rußland,58,65,LOC,Q34266
+NZZ-1898-12-05-b-p0005_sent22,Japan,12,17,LOC,Q17
+NZZ-1898-12-05-b-p0005_sent23,Japan,19,24,LOC,Q17
+NZZ-1898-12-05-b-p0005_sent23,China,53,58,LOC,Q148
+NZZ-1898-12-05-b-p0005_sent24,China,81,86,LOC,Q148
+NZZ-1898-12-05-b-p0005_sent24,Japan,136,141,LOC,Q17
+NZZ-1898-12-05-b-p0005_sent24,Rußland,343,350,LOC,Q34266
+NZZ-1898-12-05-b-p0005_sent26,Japan,25,30,LOC,Q17
+NZZ-1898-12-05-b-p0005_sent26,Rußlands,93,101,LOC,Q34266
+NZZ-1898-12-05-b-p0005_sent26,China,148,153,LOC,Q148
+NZZ-1898-12-05-b-p0005_sent26,Japans,195,201,LOC,Q17
+NZZ-1898-12-05-b-p0005_sent27,England,4,11,LOC,Q21
+NZZ-1898-12-05-b-p0005_sent27,Rußlands,150,158,LOC,Q34266
+NZZ-1898-12-05-b-p0005_sent29,Rußland,68,75,LOC,Q34266
+NZZ-1898-12-05-b-p0005_sent30,China,22,27,LOC,Q148
+NZZ-1898-12-05-b-p0005_sent30,Japan,32,37,LOC,Q17
+NZZ-1898-12-05-b-p0005_sent32,Ho-Wen-Bao,67,77,PROD,NIL
+NZZ-1908-01-19-a-p0001_sent0,Zürcher Handelskammer,4,25,ORG,Q20012503
+NZZ-1908-01-19-a-p0001_sent0,Bundesrates,46,57,ORG,Q30917
+NZZ-1908-01-19-a-p0001_sent2,Kantons Zürich,147,161,LOC,Q11943
+NZZ-1908-01-19-a-p0001_sent3,Schmidstube,8,19,LOC,NIL
+NZZ-1908-01-19-a-p0001_sent4,"Oberst Richard, Sekretär der Zürcher Handelskammer,",0,51,PER,NIL
+NZZ-1908-01-19-a-p0001_sent4,Zürcher Handelskammer,109,130,ORG,Q20012503
+NZZ-1908-01-19-a-p0001_sent5,Zürcher Handelskammer,4,25,ORG,Q20012503
+NZZ-1908-01-19-a-p0001_sent6,HH.,35,38,PER,NIL
+NZZ-1908-01-19-a-p0001_sent7,Dr. Stoll,0,9,PER,NIL
+NZZ-1908-01-19-a-p0001_sent7,Ulrico Vollenweider,11,30,PER,NIL
+NZZ-1908-01-19-a-p0001_sent7,Schindler-Huber,32,47,PER,Q1224007
+NZZ-1908-01-19-a-p0001_sent7,Müller-Jelmoli,49,63,PER,NIL
+NZZ-1908-01-19-a-p0001_sent7,"Ri¬ chard, Dr. Schärtlin",65,89,PER,NIL
+NZZ-1908-01-19-a-p0001_sent7,Dr. Häberlin,91,103,PER,Q118222
+NZZ-1908-01-19-a-p0001_sent7,Dr. G. Bär,105,115,PER,NIL
+NZZ-1908-01-19-a-p0001_sent8,Zürcher Handelskammer,15,36,ORG,Q20012503
+NZZ-1908-01-19-a-p0001_sent9,Oberst Richard,0,14,PER,NIL
+NZZ-1908-01-19-a-p0001_sent13,Zürcher Handels¬ kammer,4,27,ORG,Q20012503
+NZZ-1908-01-19-a-p0001_sent14,Bundesrat,4,13,ORG,Q30917
+NZZ-1908-01-19-a-p0001_sent19,Zürcher Handelskammer,4,25,ORG,Q20012503
+NZZ-1908-01-19-a-p0001_sent28,Schweizerische Ge¬ meinnützige Gesellschaft,4,47,ORG,Q2256455
+NZZ-1908-01-19-a-p0001_sent29,Bundes,62,68,ORG,Q675794
+NZZ-1908-01-19-a-p0001_sent32,Bundesrates,22,33,ORG,Q30917
+NZZ-1908-01-19-a-p0001_sent32,Zürcher Handelskammer,72,93,ORG,Q20012503
+NZZ-1908-01-19-a-p0001_sent38,Deutschland,5,16,LOC,Q1206012
+NZZ-1908-01-19-a-p0001_sent39,Niederösterreich,16,32,LOC,Q42497
+NZZ-1908-01-19-a-p0001_sent39,Wien,36,40,LOC,Q1741
+NZZ-1908-01-19-a-p0001_sent40,Böhmen,16,22,LOC,Q39193
+NZZ-1908-01-19-a-p0001_sent41,Oesterreichs,22,34,LOC,Q40
+NZZ-1908-01-19-a-p0001_sent42,Luxemburg,30,39,LOC,Q32
+NZZ-1908-01-19-a-p0001_sent42,Holland,44,51,LOC,Q55
+NZZ-1908-01-19-a-p0001_sent43,Schweiz,4,11,LOC,Q39
+NZZ-1908-01-19-a-p0001_sent46,Schweiz,75,82,LOC,Q39
+NZZ-1908-01-19-a-p0001_sent48,Zürcher Handelskammer,4,25,ORG,Q20012503
+NZZ-1908-01-19-a-p0001_sent54,Bundesrat,4,13,ORG,Q30917
+NZZ-1908-01-19-a-p0001_sent63,Deutschland,0,11,LOC,Q1206012
+NZZ-1908-01-19-a-p0001_sent68,Frankreich,0,10,LOC,Q70802
+NZZ-1908-01-19-a-p0001_sent86,Zürcher Handelskammer,4,25,ORG,Q20012503
+NZZ-1908-01-19-a-p0001_sent86,Bundes,84,90,ORG,Q675794
+NZZ-1908-01-19-a-p0001_sent87,Bundesrat,14,23,ORG,Q30917
+NZZ-1908-01-19-a-p0001_sent88,Bund,53,57,ORG,Q675794
+NZZ-1908-01-19-a-p0001_sent94,Bund,38,42,ORG,Q675794
+NZZ-1908-01-19-a-p0001_sent96,Zür¬ cher Handelskammer,4,27,ORG,Q20012503
+NZZ-1908-01-19-a-p0001_sent100,Stadtrat Dr. Klöti,0,18,PER,Q1336378
+NZZ-1908-01-19-a-p0001_sent100,Oesterreich,85,96,LOC,Q40
+NZZ-1908-01-19-a-p0001_sent102,Schweiz,58,65,LOC,Q39
+NZZ-1908-01-19-a-p0001_sent105,Arbeitersekretär Greulich,0,25,PER,Q91174
+NZZ-1908-01-19-a-p0001_sent109,Nationalrat A. Frey,0,19,PER,NIL
+NZZ-1908-01-19-a-p0001_sent110,Nationalrates,19,32,ORG,Q676078
+NZZ-1908-01-19-a-p0001_sent110,Greulich,180,188,PER,Q91174
+NZZ-1908-01-19-a-p0001_sent112,Zürcher Handelskammer,60,81,ORG,Q20012503
+NZZ-1908-01-19-a-p0001_sent114,Arbeiterbund,54,66,ORG,Q1084142
+NZZ-1908-01-19-a-p0001_sent114,Gewerbeverein,68,81,ORG,Q693891
+NZZ-1908-01-19-a-p0001_sent114,Bauern¬ verband,83,98,ORG,Q2256617
+NZZ-1908-01-19-a-p0001_sent114,Zürcher Handelskammer,197,218,ORG,Q20012503
+NZZ-1908-01-19-a-p0001_sent115,Prof. Zürchers,13,27,PER,NIL
+NZZ-1908-01-19-a-p0001_sent115,Frey,101,105,PER,NIL
+NZZ-1908-01-19-a-p0001_sent116,"ld, Verwalter der Baugewerbekasse, Zürich,",0,42,PER,NIL
+NZZ-1908-01-19-a-p0001_sent118,Bundesrat,88,97,ORG,Q30917
+NZZ-1908-01-19-a-p0001_sent119,Berchtold,21,30,PER,NIL
+NZZ-1908-01-19-a-p0001_sent120,Oberrichter Lang,0,16,PER,NIL
+NZZ-1908-01-19-a-p0001_sent120,Berchtold,27,36,PER,NIL
+NZZ-1908-01-19-a-p0001_sent121,Referent Hrn.,35,48,PER,Q91174
+NZZ-1908-01-19-a-p0001_sent122,Greulich,0,8,PER,Q91174
+NZZ-1908-01-19-a-p0001_sent123,Oesterreich,32,43,LOC,Q40
+NZZ-1908-01-19-a-p0001_sent124,Oesterreich,0,11,LOC,Q40
+NZZ-1908-01-19-a-p0001_sent125,Greulich,0,8,PER,Q91174
+NZZ-1908-01-19-a-p0001_sent126,Boos-Jegher,15,26,PER,Q31271042
+NZZ-1908-01-19-a-p0001_sent127,Greulich,31,39,PER,Q91174
+NZZ-1908-01-19-a-p0001_sent127,Boos-Jegher,44,55,PER,Q31271042
+NZZ-1918-09-09-c-p0002_sent1,Berlin,39,45,LOC,Q64
+NZZ-1918-09-09-c-p0002_sent3,Wolff,1,6,ORG,Q552226
+NZZ-1918-09-09-c-p0002_sent5,Ploegsteertwalde,30,46,LOC,Q3016976
+NZZ-1918-09-09-c-p0002_sent5,La Basséekanal,54,68,LOC,Q1032668
+NZZ-1918-09-09-c-p0002_sent6,Armentières,13,24,LOC,Q193925
+NZZ-1918-09-09-c-p0002_sent8,Gleux,22,27,LOC,NIL
+NZZ-1918-09-09-c-p0002_sent8,Ha¬ princourt,28,41,LOC,Q375743
+NZZ-1918-09-09-c-p0002_sent9,Straße Péronne¬ Cambrai,12,35,LOC,NIL
+NZZ-1918-09-09-c-p0002_sent9,Goureau¬ court,113,127,LOC,Q1117354
+NZZ-1918-09-09-c-p0002_sent9,Epehy,128,133,LOC,Q81992
+NZZ-1918-09-09-c-p0002_sent9,Templeux,147,155,LOC,Q795863
+NZZ-1918-09-09-c-p0002_sent11,St. Simon,76,85,LOC,Q325532
+NZZ-1918-09-09-c-p0002_sent11,Crozatkanal,94,105,LOC,Q1032591
+NZZ-1918-09-09-c-p0002_sent12,Oise,30,34,LOC,Q200231
+NZZ-1918-09-09-c-p0002_sent12,Ailette,39,46,LOC,Q405073
+NZZ-1918-09-09-c-p0002_sent13,Ailette,9,16,LOC,Q405073
+NZZ-1918-09-09-c-p0002_sent13,Aisne,21,26,LOC,Q41962
+NZZ-1918-09-09-c-p0002_sent15,Aisne,9,14,LOC,Q41962
+NZZ-1918-09-09-c-p0002_sent15,Vesle,19,24,LOC,Q729611
+NZZ-1918-09-09-c-p0002_sent16,Champagne,7,16,LOC,Q2428809
+NZZ-1918-09-09-c-p0002_sent17,Mannheim,53,61,LOC,Q2119
+NZZ-1918-09-09-c-p0002_sent22,Paris,0,5,LOC,Q90
+NZZ-1918-09-09-c-p0002_sent24,Havas,1,6,ORG,Q516033
+NZZ-1918-09-09-c-p0002_sent25,Somme,13,18,LOC,Q37646
+NZZ-1918-09-09-c-p0002_sent25,Avaisnes,65,73,LOC,Q45688
+NZZ-1918-09-09-c-p0002_sent25,Clastres,94,102,LOC,Q322014
+NZZ-1918-09-09-c-p0002_sent25,Lamottegehöft,134,147,LOC,NIL
+NZZ-1918-09-09-c-p0002_sent26,Crozatkanal,35,46,LOC,Q1032591
+NZZ-1918-09-09-c-p0002_sent26,Liez,61,65,LOC,Q629901
+NZZ-1918-09-09-c-p0002_sent27,Oise,9,13,LOC,Q200231
+NZZ-1918-09-09-c-p0002_sent27,Aisne,18,23,LOC,Q41962
+NZZ-1918-09-09-c-p0002_sent28,Laffaux,48,55,LOC,Q842559
+NZZ-1918-09-09-c-p0002_sent29,Cham¬ pagne,7,18,LOC,Q2428809
+NZZ-1918-09-09-c-p0002_sent29,Mont-sans-Nom,59,72,LOC,NIL
+NZZ-1918-09-09-c-p0002_sent30,Auberive,38,46,LOC,Q533993
+NZZ-1918-09-09-c-p0002_sent31,Paris,0,5,LOC,Q90
+NZZ-1918-09-09-c-p0002_sent33,Havas,1,6,ORG,Q516033
+NZZ-1918-09-09-c-p0002_sent36,Aisne,75,80,LOC,Q41962
+NZZ-1918-09-09-c-p0002_sent38,Wien,0,4,LOC,Q1741
+NZZ-1918-09-09-c-p0002_sent41,Monte Pertica,35,48,LOC,NIL
+NZZ-1918-09-09-c-p0002_sent43,Balkankriegsschauplatz,0,22,LOC,Q23522
+NZZ-1918-09-09-c-p0002_sent44,Paris,0,5,LOC,Q90
+NZZ-1918-09-09-c-p0002_sent46,Havas,1,6,ORG,Q516033
+NZZ-1918-09-09-c-p0002_sent47,Orientarmee,22,33,ORG,Q18148776
+NZZ-1918-09-09-c-p0002_sent48,Wardar,72,78,LOC,Q189596
+NZZ-1918-09-09-c-p0002_sent48,Czernabogen,86,97,LOC,Q1140644
+NZZ-1918-09-09-c-p0002_sent49,Doiransee,13,22,LOC,Q158077
+NZZ-1918-09-09-c-p0002_sent50,Prespa¬ sees,18,30,LOC,Q204392
+NZZ-1918-09-09-c-p0002_sent51,Monastir,90,98,LOC,Q157246
+NZZ-1918-09-09-c-p0002_sent51,Struma,107,113,LOC,Q204127
+NZZ-1918-09-09-c-p0002_sent53,Jernsalem,39,48,LOC,Q1218
+NZZ-1918-09-09-c-p0002_sent54,Jerusalems,29,39,LOC,Q1218
+NZZ-1918-09-09-c-p0002_sent54,British Eapedltlonary Force,69,96,ORG,Q919272
+NZZ-1918-09-09-c-p0002_sent55,Palestine News,53,67,PROD,NIL
+NZZ-1918-09-09-c-p0002_sent55,Israel,147,153,LOC,Q801
+NZZ-1918-09-09-c-p0002_sent66,Gott,3,7,PER,Q190
+NZZ-1918-09-09-c-p0002_sent70,Jeru¬ salem,43,54,LOC,Q1218
+NZZ-1918-09-09-c-p0002_sent71,Anglo¬ Jewish Preßagentur,1,26,ORG,NIL
+NZZ-1918-09-09-c-p0002_sent73,Wien,0,4,LOC,Q1741
+NZZ-1918-09-09-c-p0002_sent77,Gailtal,68,75,LOC,Q178226
+NZZ-1918-09-09-c-p0002_sent77,Villach,85,92,LOC,Q483522
+NZZ-1918-09-09-c-p0002_sent80,London,0,6,LOC,Q84
+NZZ-1918-09-09-c-p0002_sent82,Havas,1,6,ORG,Q516033
+NZZ-1918-09-09-c-p0002_sent90,Berlin,0,6,LOC,Q64
+NZZ-1918-09-09-c-p0002_sent92,Wolff,1,6,ORG,Q552226
+NZZ-1918-09-09-c-p0002_sent96,N.,29,31,PROD,Q658945
+NZZ-1918-09-09-c-p0002_sent97,Z. Z.,0,5,PROD,Q658945
+NZZ-1918-09-09-c-p0002_sent99,Reuterbureau,34,46,ORG,Q130879
+NZZ-1918-09-09-c-p0002_sent100,Wolffbureau,4,15,ORG,Q552226
+NZZ-1918-09-09-c-p0002_sent100,Berlin,96,102,LOC,Q64
+NZZ-1918-09-09-c-p0002_sent102,Wolff,1,6,ORG,Q552226
+NZZ-1918-09-09-c-p0002_sent108,England,33,40,LOC,Q21
+NZZ-1918-09-09-c-p0002_sent108,Englands,228,236,LOC,Q21
+NZZ-1928-06-05-a-p0002_sent1,St. Jakobskirche,15,31,LOC,NIL
+NZZ-1928-06-05-a-p0002_sent3,Frohsinn Zürich,26,41,ORG,NIL
+NZZ-1928-06-05-a-p0002_sent3,Liederkranz Außersihl¬ Zürich,48,77,ORG,NIL
+NZZ-1928-06-05-a-p0002_sent3,bewährten Dirigenten Jacques Wydler,252,287,PER,NIL
+NZZ-1928-06-05-a-p0002_sent3,Lau¬ sanne,401,411,LOC,Q807
+NZZ-1928-06-05-a-p0002_sent3,U. Wehrlis,425,435,PER,Q2562857
+NZZ-1928-06-05-a-p0002_sent3,J. Boßhards,575,586,PER,NIL
+NZZ-1928-06-05-a-p0002_sent3,Hegars,858,864,PER,Q670852
+NZZ-1928-06-05-a-p0002_sent3,Rudolf von Werdenberg,874,895,PER,Q23639608
+NZZ-1928-06-05-a-p0002_sent3,Schuberts,1229,1238,PER,Q7312
+NZZ-1928-06-05-a-p0002_sent3,Männerchor Außersihl,1309,1329,ORG,NIL
+NZZ-1928-06-05-a-p0002_sent3,Nicodés,1723,1730,PER,Q878610
+NZZ-1928-06-05-a-p0002_sent3,Lausanne,1858,1866,LOC,Q807
+NZZ-1928-06-05-a-p0002_sent3,H. Berlioz,1953,1963,PER,Q1151
+NZZ-1928-06-05-a-p0002_sent3,H. Suters,2090,2099,PER,Q671472
+NZZ-1928-06-05-a-p0002_sent3,Venezianers Gabrieli,2347,2367,PER,Q34624
+NZZ-1928-06-05-a-p0002_sent5,Attenhofers,26,37,PER,Q4072280
+NZZ-1928-06-05-a-p0002_sent5,J. Bulls,152,160,PER,Q511463
+NZZ-1928-06-05-a-p0002_sent6,Musikdirektor A. Bie¬ dermann,0,29,PER,NIL
+NZZ-1928-06-05-a-p0002_sent6,Suters,66,72,PER,Q671472
+NZZ-1938-09-13-b-p0001_sent0,Zürcher Kantonsrat,0,18,ORG,Q2110002
+NZZ-1938-09-13-b-p0001_sent1,"Präsident Dr. J. Eugster (freis., Zürich)",50,91,PER,Q1392141
+NZZ-1938-09-13-b-p0001_sent2,Joh.,82,86,PER,NIL
+NZZ-1938-09-13-b-p0001_sent3,Leu,0,3,PER,NIL
+NZZ-1938-09-13-b-p0001_sent5,"Züsli (komm., Zürich)",0,21,PER,NIL
+NZZ-1938-09-13-b-p0001_sent5,Bundesrat,105,114,ORG,Q30917
+NZZ-1938-09-13-b-p0001_sent7,verstorbenen Fritz Horand,13,38,PER,NIL
+NZZ-1938-09-13-b-p0001_sent7,Notar Heinrich Diem (dem. Zürich),45,78,PER,NIL
+NZZ-1938-09-13-b-p0001_sent9,Ritterhaufes Bubikon,15,35,LOC,Q638821
+NZZ-1938-09-13-b-p0001_sent9,"B. Kaufmann (soz., Zürich)",91,117,PER,NIL
+NZZ-1938-09-13-b-p0001_sent9,Ritterhauses Bubikon,192,212,LOC,Q638821
+NZZ-1938-09-13-b-p0001_sent10,Rit¬ terhausgesellschaft Bubikon,4,36,ORG,Q2155177
+NZZ-1938-09-13-b-p0001_sent10,Ritterhauses Bubikon,109,129,LOC,Q638821
+NZZ-1938-09-13-b-p0001_sent12,Ritterhausgesellschaft,60,82,ORG,Q2155177
+NZZ-1938-09-13-b-p0001_sent15,Ritterhausgesellschaft Bubikon,41,71,ORG,Q2155177
+NZZ-1938-09-13-b-p0001_sent16,Ritterhausgesellschaft Bubikon,158,188,ORG,Q2155177
+NZZ-1938-09-13-b-p0001_sent17,"Hotz (freis., Bubikon)",0,22,PER,NIL
+NZZ-1938-09-13-b-p0001_sent17,Ritterhauses Bubikon,61,81,LOC,Q638821
+NZZ-1938-09-13-b-p0001_sent18,Chronisten Johan¬ nes Stumpf,49,77,PER,Q688678
+NZZ-1938-09-13-b-p0001_sent18,Bubikon,86,93,LOC,Q67068
+NZZ-1938-09-13-b-p0001_sent19,Graf Diethelm von Toggenburg,0,28,PER,NIL
+NZZ-1938-09-13-b-p0001_sent19,Johanniterorden,68,83,ORG,Q4498889
+NZZ-1938-09-13-b-p0001_sent22,Gemeinde Bubi¬ kon,7,25,LOC,Q67068
+NZZ-1938-09-13-b-p0001_sent23,Ritterhaus von Bubikon,38,60,LOC,Q638821
+NZZ-1938-09-13-b-p0001_sent23,Zürcher Oberlandes,85,103,LOC,Q248499
+NZZ-1938-09-13-b-p0001_sent23,Johanniter¬ ordens,170,188,ORG,Q4498889
+NZZ-1938-09-13-b-p0001_sent26,"Kommissionsreferent Kaufmann (soz., Zürich)",46,89,PER,NIL
+NZZ-1938-09-13-b-p0001_sent26,Mühlebaches,201,212,LOC,NIL
+NZZ-1938-09-13-b-p0001_sent26,Sternenweiher,240,253,LOC,Q492672
+NZZ-1938-09-13-b-p0001_sent26,Gemeinden Richterswil,255,276,LOC,Q68227
+NZZ-1938-09-13-b-p0001_sent26,Wollerau,281,289,LOC,Q69647
+NZZ-1938-09-13-b-p0001_sent26,Schwyz,291,297,LOC,Q12433
+NZZ-1938-09-13-b-p0001_sent27,Mühlebaches,17,28,LOC,NIL
+NZZ-1938-09-13-b-p0001_sent27,Station Fischenthal,75,94,LOC,Q15086148
+NZZ-1938-09-13-b-p0001_sent28,Lendenbaches,17,29,LOC,NIL
+NZZ-1938-09-13-b-p0001_sent28,Eggstraße,77,86,LOC,NIL
+NZZ-1938-09-13-b-p0001_sent28,Spitalstraße,104,116,LOC,NIL
+NZZ-1938-09-13-b-p0001_sent28,Gemeinde Wetzikon,124,141,LOC,Q68305
+NZZ-1938-09-13-b-p0001_sent30,"E. R. Z. Graf (dem., Uster)",34,61,PER,NIL
+NZZ-1938-09-13-b-p0001_sent30,Elektrizitäts¬ werke des Kantons Zürich,170,209,ORG,Q1326642
+NZZ-1938-09-13-b-p0001_sent33,E. K. Z.,91,99,ORG,Q1326642
+NZZ-1938-09-13-b-p0001_sent35,"Bantli (Bp., Dübendorf)",28,51,PER,NIL
+NZZ-1938-09-13-b-p0001_sent35,"Hofmann (Bp., Kempten)",66,88,PER,NIL
+NZZ-1938-09-13-b-p0001_sent36,"Bantli (Bp., Dübendorf)",92,115,PER,NIL
+NZZ-1938-09-13-b-p0001_sent39,Burghölzli,16,26,ORG,Q577131
+NZZ-1938-09-13-b-p0001_sent41,"Dr. Duttweiler (fr., Zürich)",42,70,PER,NIL
+NZZ-1938-09-13-b-p0001_sent42,"Marti (soz., Zürich)",42,62,PER,NIL
+NZZ-1938-09-13-b-p0001_sent43,"Dr. P. Gygax (fr., Zürich)",0,26,PER,NIL
+NZZ-1938-09-13-b-p0001_sent45,"Oldani (soz., Winterthur)",0,25,PER,Q55683084
+NZZ-1938-09-13-b-p0001_sent48,"Kägi (soz., Erlenbach)",0,22,PER,Q4668150
+NZZ-1938-09-13-b-p0001_sent49,"Heeb (soz., Zürich)",0,19,PER,Q15452401
+NZZ-1938-09-13-b-p0001_sent51,"Kopp (soz., Zürich)",0,19,PER,NIL
+NZZ-1938-09-13-b-p0001_sent51,Kanton Zürich,68,81,LOC,Q11943
+NZZ-1938-09-13-b-p0001_sent57,Volkswirtschaftsdirektor E. Nobs,0,32,PER,NIL
+NZZ-1938-09-13-b-p0001_sent66,Kaegi,13,18,PER,Q4668150
+NZZ-1938-09-13-b-p0001_sent70,Kaegi,20,25,PER,Q4668150
+NZZ-1938-09-13-b-p0001_sent70,Dr. Roth,30,38,PER,NIL
+NZZ-1938-09-13-b-p0001_sent71,"Hackhofer (chr., Zürich)",0,24,PER,NIL
+NZZ-1938-09-13-b-p0001_sent71,Kopp,109,113,PER,NIL
+NZZ-1938-09-13-b-p0001_sent71,"Schneider (soz., Winterthur)",296,324,PER,NIL
+NZZ-1938-09-13-b-p0001_sent74,Bäuteli (Bp. Buch a. J.),26,50,PER,NIL
+NZZ-1938-09-13-b-p0001_sent75,Regie¬ rungsrat Pfister,0,23,PER,Q2209051
+NZZ-1938-09-13-b-p0001_sent75,Städte Zürich,114,127,LOC,Q72
+NZZ-1938-09-13-b-p0001_sent75,Winterthur,132,142,LOC,Q9125
+NZZ-1938-09-13-b-p0001_sent77,"Kägi (soz., Erlenbach)",0,22,PER,Q4668150
+NZZ-1938-09-13-b-p0001_sent79,Armendirektor Pfister,0,21,PER,NIL
+NZZ-1938-09-13-b-p0001_sent84,"Oldani (soz., Winterthur)",4,29,PER,Q55683084
+NZZ-1948-05-12-b-p0002_sent0,Ruhrgebiet,27,37,LOC,Q151993
+NZZ-1948-05-12-b-p0002_sent4,Douglas,32,39,PER,Q444885
+NZZ-1948-05-12-b-p0002_sent4,Mlassieli,41,50,PER,Q2893138
+NZZ-1948-05-12-b-p0002_sent4,Strang,55,61,PER,Q2580669
+NZZ-1948-05-12-b-p0002_sent4,Deutschland,131,142,LOC,Q183
+NZZ-1948-05-12-b-p0002_sent4,Ruhrgebiet,228,238,LOC,Q151993
+NZZ-1948-05-12-b-p0002_sent6,Ruhrgebiet,136,146,LOC,Q151993
+NZZ-1948-05-12-b-p0002_sent7,Franke¬ furt,126,138,LOC,Q1794
+NZZ-1948-05-12-b-p0002_sent7,Rulrkonsortium,225,239,LOC,Q1664
+NZZ-1948-05-12-b-p0002_sent9,Massigli,0,8,PER,Q2893138
+NZZ-1948-05-12-b-p0002_sent9,Paxis,34,39,LOC,Q90
+NZZ-1948-05-12-b-p0002_sent9,Prinzessin Elizabeth,74,94,PER,Q9682
+NZZ-1948-05-12-b-p0002_sent9,Edinburgh,116,125,LOC,Q23436
+NZZ-1948-05-12-b-p0002_sent9,Paxis,129,134,LOC,Q90
+NZZ-1948-05-12-b-p0002_sent10,London,75,81,LOC,Q84
+NZZ-1948-05-12-b-p0002_sent10,Sonderbotschafter Hlarriman,95,122,PER,Q345531
+NZZ-1948-05-12-b-p0002_sent10,Bidault,183,190,PER,Q312026
+NZZ-1948-05-12-b-p0002_sent10,Deutschlandfrage,279,295,LOC,Q183
+NZZ-1948-05-12-b-p0002_sent11,Whitchall,50,59,LOC,Q391620
+NZZ-1948-05-12-b-p0002_sent11,Ruhrgebiets,97,108,LOC,Q151993
+NZZ-1948-05-12-b-p0002_sent12,Washington,43,53,LOC,Q61
+NZZ-1948-05-12-b-p0002_sent12,Mo-kau,58,64,LOC,Q649
+NZZ-1948-05-12-b-p0002_sent13,London,3,9,LOC,Q84
+NZZ-1948-05-12-b-p0002_sent13,Deutschland,76,87,LOC,Q183
+NZZ-1948-05-12-b-p0002_sent13,Lon don,101,108,LOC,Q84
+NZZ-1948-05-12-b-p0002_sent13,Marshalls,128,137,PER,Q151414
+NZZ-1948-05-12-b-p0002_sent13,Moskau,141,147,LOC,Q649
+NZZ-1948-05-12-b-p0002_sent14,Ruhn¬ gebiet,30,42,LOC,Q151993
+NZZ-1948-05-12-b-p0002_sent14,Prankreich,64,74,LOC,Q142
+NZZ-1948-05-12-b-p0002_sent14,Amerika,79,86,LOC,Q30
+NZZ-1948-05-12-b-p0002_sent14,Benelux,141,148,LOC,Q13116
+NZZ-1948-05-12-b-p0002_sent15,England,0,7,LOC,Q21
+NZZ-1948-05-12-b-p0002_sent15,Times,67,72,PROD,Q50008
+NZZ-1948-05-12-b-p0002_sent15,Groz¬ brikannien,109,125,LOC,Q145
+NZZ-1948-05-12-b-p0002_sent15,Ruhr¬ gebiets,240,253,LOC,Q151993
+NZZ-1948-05-12-b-p0002_sent15,Nord¬ rhein-Westfalen,281,302,LOC,Q1198
+NZZ-1948-05-12-b-p0002_sent17,Ruhrstaat,32,41,LOC,Q1664
+NZZ-1948-05-12-b-p0002_sent17,Frankreich,129,139,LOC,Q142
+NZZ-1948-05-12-b-p0002_sent17,Ruhrprodubte,210,222,LOC,Q1664
+NZZ-1948-05-12-b-p0002_sent18,Ruhrgebiet,57,67,LOC,Q151993
+NZZ-1948-05-12-b-p0002_sent19,Luropa,248,254,LOC,Q46
+NZZ-1948-05-12-b-p0002_sent20,Deutschland,63,74,LOC,Q183
+NZZ-1948-05-12-b-p0002_sent22,Frank¬ reich,19,31,LOC,Q142
+NZZ-1948-05-12-b-p0002_sent23,Amerika,23,30,LOC,Q30
+NZZ-1948-05-12-b-p0002_sent24,Frankreich,0,10,LOC,Q142
+NZZ-1948-05-12-b-p0002_sent24,Benelux,19,26,LOC,Q13116
+NZZ-1948-05-12-b-p0002_sent24,Eusland,73,80,LOC,Q21
+NZZ-1948-05-12-b-p0002_sent24,Deutschlands,148,160,LOC,Q183
+NZZ-1948-05-12-b-p0002_sent25,Westeuropa,140,150,LOC,Q27496
+NZZ-1948-05-12-b-p0002_sent26,Mashington,27,37,LOC,Q61
+NZZ-1948-05-12-b-p0002_sent26,Mesteuropa,120,130,LOC,Q27496
+NZZ-1948-05-12-b-p0002_sent27,Nordsee,92,99,LOC,Q1693
+NZZ-1948-05-12-b-p0002_sent27,Alpen,108,113,LOC,Q1286
+NZZ-1948-05-12-b-p0002_sent27,Mesteuropa,144,154,LOC,Q27496
+NZZ-1948-05-12-b-p0002_sent28,Amerika,0,7,LOC,Q30
+NZZ-1948-05-12-b-p0002_sent28,Puropa,106,112,LOC,Q46
+NZZ-1948-05-12-b-p0002_sent31,Deutschland,153,164,LOC,Q183
+luxwort-1848-04-23-a-i0003_sent1,Lurem biurg,0,11,LOC,Q32
+luxwort-1848-04-23-a-i0003_sent2,Lurcmburg,37,46,LOC,Q32
+luxwort-1848-04-23-a-i0003_sent4,Luremburgcr Wort,4,20,PROD,Q1751317
+luxwort-1848-08-27-a-i0001_sent2,Rom,48,51,LOC,Q220
+luxwort-1848-08-27-a-i0001_sent7,Gottes,93,99,PER,Q190
+luxwort-1848-08-27-a-i0001_sent9,Commission aus Luxemburg,11,35,ORG,Q657529
+luxwort-1848-08-27-a-i0001_sent20,Suremburg,37,46,LOC,Q1842
+luxwort-1848-08-27-a-i0001_sent22,Suremburg,53,62,LOC,Q1842
+luxwort-1848-08-27-a-i0001_sent23,Lurcmburg,119,128,LOC,Q1842
+luxwort-1848-08-27-a-i0001_sent25,Rom,21,24,LOC,Q220
+luxwort-1848-09-29-a-i0001_sent0,Luremburg,0,9,LOC,Q32
+luxwort-1848-09-29-a-i0001_sent1,Gcurricr,20,28,PROD,Q13102226
+luxwort-1848-09-29-a-i0001_sent2,Theodor PeScatore,19,36,PER,Q7799867
+luxwort-1848-09-29-a-i0001_sent2,Ch.,38,41,PER,Q5080926
+luxwort-1848-09-29-a-i0001_sent3,Metz,0,4,PER,Q5080926
+luxwort-1848-09-29-a-i0001_sent3,Stifft,6,12,PER,NIL
+luxwort-1848-09-29-a-i0001_sent3,Fischer,14,21,PER,NIL
+luxwort-1848-09-29-a-i0001_sent3,Hertert,23,30,PER,NIL
+luxwort-1848-09-29-a-i0001_sent3,Heldenstein,32,43,PER,Q13103205
+luxwort-1848-09-29-a-i0001_sent3,Schlinck,45,53,PER,NIL
+luxwort-1848-09-29-a-i0001_sent3,Lampach,55,62,PER,NIL
+luxwort-1848-09-29-a-i0001_sent3,Dassclboru,67,77,PER,NIL
+luxwort-1848-09-29-a-i0001_sent4,Luremburger Worte,38,55,PROD,Q1751317
+luxwort-1848-09-29-a-i0001_sent5,Theodor Pcscalore,0,17,PER,Q7799867
+luxwort-1848-10-01-a-i0001_sent4,Surcmbnrger Worte,25,42,PROD,Q1751317
+luxwort-1848-10-01-a-i0001_sent5,Lurcmburgcr Wort,52,68,PROD,Q1751317
+luxwort-1848-10-01-a-i0001_sent11,Luremburgcr Ccutralwahlcomite,57,86,ORG,NIL
+luxwort-1848-10-01-a-i0001_sent12,Echternach Gigrang,85,103,PER,NIL
+luxwort-1848-10-01-a-i0001_sent12,Dieschburg,108,118,PER,NIL
+luxwort-1848-10-01-a-i0001_sent12,Wiltz Neumann,123,136,PER,NIL
+luxwort-1848-10-01-a-i0001_sent12,Grevenmachern Kuborn,141,161,PER,NIL
+luxwort-1848-10-01-a-i0001_sent13,Ledure,118,124,PER,Q16439666
+luxwort-1848-10-01-a-i0001_sent13,Macher,126,132,PER,NIL
+luxwort-1848-10-01-a-i0001_sent13,Wellenstein,134,145,LOC,Q3247082
+luxwort-1848-10-01-a-i0001_sent13,Lafontaine,147,157,PER,Q725755
+luxwort-1848-10-01-a-i0001_sent13,Brasseur,159,167,PER,NIL
+luxwort-1848-10-01-a-i0001_sent14,Nemich,3,9,LOC,Q734284
+luxwort-1848-10-01-a-i0001_sent15,Esch,3,7,LOC,Q16010
+luxwort-1848-10-01-a-i0001_sent15,Motte,58,63,PER,Q16439867
+luxwort-1848-10-01-a-i0001_sent15,Herren Lafontaine,86,103,PER,Q725755
+luxwort-1848-10-01-a-i0001_sent15,Würth-Paquct,108,120,PER,Q1956419
+luxwort-1848-10-01-a-i0001_sent16,Priester und Professor Müller,47,76,PER,NIL
+luxwort-1848-10-01-a-i0001_sent16,Direktor Müller,107,122,PER,NIL
+luxwort-1848-10-01-a-i0001_sent16,Athenäum,126,134,LOC,Q545334
+luxwort-1848-10-01-a-i0001_sent18,Lmemburg,3,11,LOC,Q1842
+luxwort-1848-10-01-a-i0001_sent18,Simonis,68,75,PER,Q3247358
+luxwort-1848-10-01-a-i0001_sent19,Metz,56,60,PER,Q3343509
+luxwort-1848-10-01-a-i0001_sent20,Luxemburg,89,98,LOC,Q32
+luxwort-1848-10-01-a-i0001_sent24,Bürgermeister S. von St.,4,28,PER,NIL
+luxwort-1848-10-01-a-i0001_sent24,Athenäums,68,77,LOC,Q545334
+luxwort-1848-10-01-a-i0001_sent24,Metz,138,142,PER,Q5080926
+luxwort-1848-10-01-a-i0001_sent25,Bartringen,42,52,LOC,Q809603
+luxwort-1848-10-01-a-i0001_sent25,Eh.,159,162,PER,Q5080926
+luxwort-1848-10-01-a-i0001_sent26,Metz,0,4,PER,Q5080926
+luxwort-1848-10-01-a-i0001_sent29,Cantons Luremburg,26,43,LOC,Q1146429
+luxwort-1848-10-01-a-i0001_sent32,Fischer,50,57,PER,NIL
+luxwort-1848-10-01-a-i0001_sent32,Ch.,69,72,PER,Q5080926
+luxwort-1848-10-01-a-i0001_sent33,Metz,0,4,PER,Q5080926
+luxwort-1848-10-01-a-i0001_sent33,Stifft,19,25,PER,NIL
+luxwort-1848-10-01-a-i0001_sent35,Scklinck,13,21,PER,NIL
+luxwort-1848-10-01-a-i0001_sent35,Lampach,29,36,PER,NIL
+luxwort-1848-10-01-a-i0001_sent35,Heldenstein,44,55,PER,Q13103205
+luxwort-1848-10-01-a-i0001_sent35,Dasstlborn,63,73,PER,Q67588061
+luxwort-1848-10-01-a-i0001_sent35,Herlert,81,88,PER,NIL
+luxwort-1848-10-01-a-i0001_sent35,Jonas,96,101,PER,Q16439477
+luxwort-1848-10-01-a-i0001_sent35,Fendius,109,116,PER,NIL
+luxwort-1848-10-01-a-i0001_sent35,Würth PH.,124,133,PER,NIL
+luxwort-1848-10-01-a-i0001_sent35,Adam,141,145,PER,NIL
+luxwort-1848-10-01-a-i0001_sent37,Canton Suremburg,22,38,LOC,Q1146429
+luxwort-1848-10-01-a-i0001_sent45,Athenäum,89,97,ORG,Q545334
+luxwort-1848-12-15-a-i0001_sent0,Cantons Diekirch,22,38,LOC,Q691842
+luxwort-1848-12-15-a-i0001_sent0,Sa« pellen,43,53,LOC,Q397678
+luxwort-1848-12-15-a-i0001_sent0,Ulrich,202,208,PER,NIL
+luxwort-1848-12-15-a-i0001_sent0,N. Metz,213,220,PER,Q3343509
+luxwort-1848-12-15-a-i0001_sent0,"General-Administrator des Innern, Ulrich",236,276,PER,NIL
+luxwort-1848-12-15-a-i0001_sent2,Herrn Willmai,91,104,PER,Q738855
+luxwort-1848-12-15-a-i0001_sent2,Hrn.,133,137,PER,NIL
+luxwort-1848-12-15-a-i0001_sent3,Ulrich,0,6,PER,NIL
+luxwort-1848-12-15-a-i0001_sent3,Hrn.,41,45,PER,Q6171617
+luxwort-1848-12-15-a-i0001_sent4,Ulveling,0,8,PER,Q6171617
+luxwort-1848-12-15-a-i0001_sent4,Hrn.,31,35,PER,Q3343509
+luxwort-1848-12-15-a-i0001_sent5,Norbert Metz,0,12,PER,Q3343509
+luxwort-1848-12-15-a-i0001_sent8,"einstweilige Gcneral»Administrator, Präsident des Conseils, Willmar",4,71,PER,Q738855
+luxwort-1848-12-15-a-i0001_sent9,Luxemburg,156,165,LOC,Q32
+luxwort-1858-02-07-a-i0009_sent0,Belgien,0,7,LOC,Q31
+luxwort-1858-02-07-a-i0009_sent1,Brüssel,0,7,LOC,Q239
+luxwort-1858-02-07-a-i0009_sent2,Dra» pcau,22,31,PROD,Q3222443
+luxwort-1858-02-07-a-i0009_sent2,"frühere Rédacteur des Blattes, Louis Labarre",86,130,PER,Q4251818
+luxwort-1858-02-07-a-i0009_sent3,"jetzige nominelle Herausgeber, Brismee",4,42,PER,NIL
+luxwort-1858-02-07-a-i0009_sent4,Proletarier,121,132,PROD,NIL
+luxwort-1858-02-07-a-i0009_sent5,London,65,71,LOC,Q84
+luxwort-1858-02-07-a-i0009_sent5,"rabiaten Schneider, Namens Coulon",105,138,PER,NIL
+luxwort-1858-02-07-a-i0009_sent6,Orsini,94,100,PER,Q708837
+luxwort-1858-02-07-a-i0009_sent6,Pierri,105,111,PER,Q3106996
+luxwort-1858-02-07-a-i0009_sent7,"Mr. Coulon, der kühne Schneider",0,31,PER,NIL
+luxwort-1858-02-07-a-i0009_sent8,Drapeau,7,14,PROD,Q3222443
+luxwort-1858-02-07-a-i0009_sent8,Crocodile,21,30,PROD,NIL
+luxwort-1858-02-07-a-i0009_sent9,sM.,0,3,PER,NIL
+luxwort-1858-02-07-a-i0009_sent10,I.,0,2,PER,NIL
+luxwort-1858-03-14-a-i0006_sent0,ïuiemburg,0,9,LOC,Q1842
+luxwort-1858-03-14-a-i0006_sent2,Trier,25,30,LOC,Q3138
+luxwort-1858-03-14-a-i0006_sent3,heil.,42,47,PER,Q128267
+luxwort-1858-03-14-a-i0006_sent4,Joseph,0,6,PER,Q128267
+luxwort-1858-03-14-a-i0006_sent6,guten altkatholischen Stadt Trier,18,51,LOC,Q3138
+luxwort-1858-03-14-a-i0006_sent7,P. Zobel,198,206,PER,NIL
+luxwort-1858-03-14-a-i0006_sent9,Gesellschaft Jesu,78,95,ORG,Q36380
+luxwort-1858-03-14-a-i0006_sent9,"General-Direktor des Innern, Würth- Paquet",105,147,PER,Q1956419
+luxwort-1858-03-14-a-i0006_sent11,heil.,22,27,PER,Q44281
+luxwort-1858-03-14-a-i0006_sent12,Ignatius,0,8,PER,Q44281
+luxwort-1858-03-14-a-i0006_sent13,Wolfgang Men» je!,18,35,PER,Q64640
+luxwort-1858-08-29-a-i0005_sent0,England,0,7,LOC,Q21
+luxwort-1858-08-29-a-i0005_sent1,l'ont» on,0,9,LOC,Q84
+luxwort-1858-08-29-a-i0005_sent6,m. I,1,5,PER,NIL
+luxwort-1858-10-07-a-i0008_sent0,Italien,0,7,LOC,Q38
+luxwort-1858-10-07-a-i0008_sent1,R o m,0,5,LOC,Q220
+luxwort-1858-10-07-a-i0008_sent4,Jerusalem,27,36,LOC,Q1218
+luxwort-1858-10-07-a-i0008_sent6,katholischen Großmacht Frank» reich,65,100,ORG,Q142
+luxwort-1858-10-07-a-i0008_sent6,Orient,104,110,LOC,Q205653
+luxwort-1858-10-07-a-i0008_sent6,Rom,305,308,LOC,Q220
+luxwort-1858-10-07-a-i0008_sent6,Pius IX,346,353,PER,Q43720
+luxwort-1858-10-07-a-i0008_sent9,Schuldners Marchese Campana,162,189,PER,Q442379
+luxwort-1858-10-07-a-i0008_sent10,Neapels,11,18,LOC,Q2634
+luxwort-1858-10-07-a-i0008_sent10,Weftmächten,121,132,ORG,NIL
+luxwort-1858-10-07-a-i0008_sent11,Comman» deurs Caraffa,35,56,PER,NIL
+luxwort-1858-10-07-a-i0008_sent11,Neapel,239,245,LOC,Q2634
+luxwort-1858-10-07-a-i0008_sent11,Westmächten,328,339,ORG,NIL
+luxwort-1858-10-07-a-i0008_sent14,Frankreich,67,77,LOC,Q142
+luxwort-1858-10-07-a-i0008_sent14,England,82,89,LOC,Q21
+luxwort-1858-10-07-a-i0008_sent15,Europas,200,207,LOC,Q46
+luxwort-1858-10-07-a-i0008_sent16,Paris,32,37,LOC,Q90
+luxwort-1858-10-07-a-i0008_sent16,London,42,48,LOC,Q84
+luxwort-1858-10-07-a-i0008_sent23,Preußen,228,235,LOC,Q27306
+luxwort-1858-10-07-a-i0008_sent23,Bayern,240,246,LOC,Q154195
+luxwort-1858-10-07-a-i0008_sent28,K.J.,1,5,PROD,Q1795887
+luxwort-1858-12-25-a-i0001_sent0,Lurembur» ger Wort,33,51,PROD,Q1751317
+luxwort-1858-12-25-a-i0001_sent2,Luremburger Wort,5,21,PROD,Q1751317
+luxwort-1858-12-25-a-i0001_sent6,Köln,73,77,LOC,Q365
+luxwort-1868-07-21-a-i0003_sent0,Wäschfra,12,20,PROD,NIL
+luxwort-1868-07-21-a-i0003_sent1,SujemDurg,0,9,LOC,Q32
+luxwort-1868-07-21-a-i0003_sent5,Grund,50,55,LOC,Q1016205
+luxwort-1868-07-21-a-i0003_sent5,Pfasseuthal,60,71,LOC,Q1016214
+luxwort-1868-07-21-a-i0003_sent5,3Sd)cb.fra,158,168,PROD,NIL
+luxwort-1868-07-21-a-i0003_sent5,Hrn.,205,209,PER,NIL
+luxwort-1868-07-21-a-i0003_sent6,Musikdirektor Rinnen,0,20,PER,NIL
+luxwort-1868-07-21-a-i0003_sent7,Wäschfra,92,100,PROD,NIL
+luxwort-1868-07-21-a-i0003_sent10,Gemeinde Eich,13,26,LOC,Q2451733
+luxwort-1868-07-21-a-i0003_sent11,Hrn.,0,4,PER,NIL
+luxwort-1868-07-21-a-i0003_sent12,Direktor Zinnen,0,15,PER,NIL
+luxwort-1868-07-21-a-i0003_sent14,Wäschfra,18,26,PROD,NIL
+luxwort-1868-09-23-a-i0011_sent0,igatnburg,73,82,LOC,Q1055
+luxwort-1868-09-23-a-i0011_sent0,Nürnberg,84,92,LOC,Q2090
+luxwort-1868-09-23-a-i0011_sent0,Brüssel,94,101,LOC,Q239
+luxwort-1868-09-23-a-i0011_sent0,Genua,106,111,LOC,Q1449
+luxwort-1868-09-23-a-i0011_sent1,Italie,48,54,PROD,NIL
+luxwort-1868-09-23-a-i0011_sent1,Italiens,188,196,LOC,Q38
+luxwort-1868-09-23-a-i0011_sent1,MaMÜ,231,235,PER,Q187336
+luxwort-1868-09-23-a-i0011_sent2,"K. Ztg,",3,10,PROD,NIL
+luxwort-1868-09-23-a-i0011_sent2,Ram,12,15,LOC,Q220
+luxwort-1868-09-23-a-i0011_sent2,Garibaldi,123,132,PER,Q539
+luxwort-1868-09-23-a-i0011_sent2,Mazzini,134,141,PER,Q187336
+luxwort-1868-09-23-a-i0011_sent2,Associazionc Neunblicana,147,171,ORG,NIL
+luxwort-1868-09-23-a-i0011_sent2,Affiliazione Democratica,177,201,ORG,NIL
+luxwort-1868-09-23-a-i0011_sent2,Comité der Stadt Rom,207,227,ORG,NIL
+luxwort-1868-09-23-a-i0011_sent2,Florenz,233,240,LOC,Q2044
+luxwort-1868-09-23-a-i0011_sent5,©enua,58,63,LOC,Q1449
+luxwort-1868-09-23-a-i0011_sent5,Lignrien,128,136,LOC,Q1256
+luxwort-1868-09-23-a-i0011_sent6,Rom,36,39,LOC,Q220
+luxwort-1868-09-23-a-i0011_sent7,Nom,33,36,LOC,Q220
+luxwort-1868-09-23-a-i0011_sent8,Mazzini's,69,78,PER,Q187336
+luxwort-1868-09-23-a-i0011_sent8,französischen Botschafter Grafen Don ©artiges,96,141,PER,NIL
+luxwort-1868-09-23-a-i0011_sent8,Lardinal Antonelli,299,317,PER,Q712085
+luxwort-1868-09-23-a-i0011_sent8,Der heilige Stuhl,355,372,ORG,Q159583
+luxwort-1868-09-23-a-i0011_sent9,Frankreich,8,18,LOC,Q142
+luxwort-1868-09-23-a-i0011_sent10,dem helligen Stuhle,242,261,ORG,Q159583
+luxwort-1868-09-23-a-i0011_sent12,Vatican,21,28,LOC,Q237
+luxwort-1868-09-23-a-i0011_sent12,Cabinet der Tuilerieen,37,59,ORG,Q1450662
+luxwort-1868-09-23-a-i0011_sent13,Herr Menabrea,89,102,PER,Q548672
+luxwort-1868-09-23-a-i0011_sent13,Italien,140,147,LOC,Q38
+luxwort-1868-09-23-a-i0011_sent13,Nom,152,155,LOC,Q220
+luxwort-1868-09-23-a-i0011_sent13,Paris,159,164,LOC,Q90
+luxwort-1868-09-23-a-i0011_sent14,Englands,66,74,LOC,Q21
+luxwort-1868-09-23-a-i0011_sent14,Paris,90,95,LOC,Q90
+luxwort-1868-09-23-a-i0011_sent15,Lord Lyons,0,10,PER,Q5537443
+luxwort-1868-09-23-a-i0011_sent15,Herrn de Moustier,28,45,PER,Q3271672
+luxwort-1868-09-23-a-i0011_sent15,Lord Stanley,190,202,PER,Q222458
+luxwort-1868-09-23-a-i0011_sent15,Florenz,335,342,LOC,Q2044
+luxwort-1868-09-23-a-i0011_sent15,Nom,347,350,LOC,Q220
+luxwort-1868-09-23-a-i0011_sent16,Florenz,204,211,LOC,Q2044
+luxwort-1868-09-23-a-i0011_sent18,Sicilien,107,115,LOC,Q1460
+luxwort-1868-09-23-a-i0011_sent19,Italien,123,130,LOC,Q38
+luxwort-1868-09-23-a-i0011_sent20,Franz II.,76,85,PER,Q206223
+luxwort-1868-09-23-a-i0011_sent21,Paläste Farnese,66,81,LOC,Q848386
+luxwort-1868-09-23-a-i0011_sent22,Königs Franz 11.,71,87,PER,Q206223
+luxwort-1868-09-23-a-i0011_sent23,"K. Bl,",1,7,PROD,NIL
+luxwort-1868-09-23-a-i0011_sent24,Italien,0,7,LOC,Q38
+luxwort-1868-12-18-a-i0004_sent0,Stadt Luxemburg,17,32,LOC,Q1842
+luxwort-1868-12-18-a-i0004_sent14,Luxemburg,31,40,LOC,Q1842
+luxwort-1868-12-18-a-i0004_sent14,Paris,63,68,LOC,Q90
+luxwort-1878-01-09-a-i0002_sent1,Sujeutburger Wort,41,58,PROD,Q1751317
+luxwort-1878-04-30-a-i0006_sent26,Haag,0,4,LOC,Q36600
+luxwort-1878-04-30-a-i0006_sent28,"Vtatthalter im Großherzogthnm, Heinrich, Prinz der Niederlande",22,84,PER,Q705129
+luxwort-1878-04-30-a-i0006_sent28,"General »Direktor des Innern, N. Talent iny",90,133,PER,Q13104357
+luxwort-1878-05-14-a-i0001_sent1,",Lux. Woll.‘",14,26,PROD,Q1751317
+luxwort-1878-05-14-a-i0001_sent4,Canaba,40,46,LOC,Q16
+luxwort-1878-05-14-a-i0001_sent4,Neu-©üb>WaleS,48,61,LOC,Q3224
+luxwort-1878-05-14-a-i0001_sent4,Victoria,63,71,LOC,Q36687
+luxwort-1878-05-14-a-i0001_sent4,QueenSlanb,73,83,LOC,Q36074
+luxwort-1878-05-14-a-i0001_sent6,©nglanb,0,7,LOC,Q21
+luxwort-1878-05-14-a-i0001_sent7,Canaba,4,10,LOC,Q16
+luxwort-1878-05-14-a-i0001_sent10,Neu-Süb-Wales,0,13,LOC,Q3224
+luxwort-1878-05-14-a-i0001_sent10,Vicloria,211,219,LOC,Q36687
+luxwort-1878-05-14-a-i0001_sent10,N.-S.°WaleS,243,254,LOC,Q3224
+luxwort-1878-05-14-a-i0001_sent11,QueenSlanb,15,25,LOC,Q36074
+luxwort-1878-05-14-a-i0001_sent16,Stanforb,41,49,ORG,NIL
+luxwort-1878-05-14-a-i0001_sent17,IameS Swift,0,11,ORG,NIL
+luxwort-1878-05-14-a-i0001_sent17,Darton,13,19,ORG,NIL
+luxwort-1878-05-14-a-i0001_sent17,Vollonb,21,28,ORG,NIL
+luxwort-1878-05-14-a-i0001_sent21,Englanb,10,17,LOC,Q21
+luxwort-1878-05-14-a-i0001_sent25,Musgrabe,12,20,ORG,Q3328441
+luxwort-1878-05-14-a-i0001_sent25,Belfast,24,31,LOC,Q10686
+luxwort-1878-05-14-a-i0001_sent28,Wilkinson Heywoob,41,58,ORG,NIL
+luxwort-1878-05-14-a-i0001_sent29,Jones unb Willis,35,51,ORG,NIL
+luxwort-1878-05-14-a-i0001_sent29,Lonbon,55,61,LOC,Q84
+luxwort-1878-05-14-a-i0001_sent30,Chubb,93,98,ORG,NIL
+luxwort-1878-05-14-a-i0001_sent30,Sondon,102,108,LOC,Q84
+luxwort-1878-05-14-a-i0001_sent32,Prinzessin bon Wales,56,76,PER,Q152260
+luxwort-1878-05-14-a-i0001_sent33,Paris,231,236,LOC,Q90
+luxwort-1878-05-14-a-i0001_sent34,E n g l a n b,0,13,LOC,Q21
+luxwort-1878-05-14-a-i0001_sent36,Englanb,16,23,LOC,Q21
+luxwort-1878-05-14-a-i0001_sent39,Hammer,324,330,ORG,NIL
+luxwort-1878-05-14-a-i0001_sent39,Sonbon,334,340,LOC,Q84
+luxwort-1878-05-14-a-i0001_sent39,"?li<e I^it,Lr>tur« 'oei^y",526,551,ORG,NIL
+luxwort-1878-05-14-a-i0001_sent39,Englanb,896,903,LOC,Q21
+luxwort-1878-05-14-a-i0001_sent39,Harry Newi,1752,1762,ORG,NIL
+luxwort-1878-05-14-a-i0001_sent39,Exeter,1766,1772,LOC,Q134672
+luxwort-1878-05-14-a-i0001_sent39,Cathebrale bon Salisbury,2035,2059,LOC,Q390150
+luxwort-1878-05-14-a-i0001_sent39,Chubb unb Son,2238,2251,ORG,NIL
+luxwort-1878-05-14-a-i0001_sent39,Hart ©on Pearb,2338,2352,ORG,Q16983391
+luxwort-1878-05-14-a-i0001_sent40,Templeton,46,55,ORG,Q16849442
+luxwort-1878-05-14-a-i0001_sent40,Glasgow,59,66,LOC,Q4093
+luxwort-1878-05-14-a-i0001_sent43,Zuccato,106,113,ORG,NIL
+luxwort-1878-05-14-a-i0001_sent43,Sondon,117,123,LOC,Q84
+luxwort-1878-09-17-a-i0009_sent1,Westf.,97,103,PROD,Q1263342
+luxwort-1878-09-17-a-i0009_sent2,Merk,0,4,PROD,Q1263342
+luxwort-1878-09-17-a-i0009_sent2,Norberney,10,19,LOC,Q23968
+luxwort-1878-09-17-a-i0009_sent2,Provinz Hannober,216,232,LOC,Q819125
+luxwort-1878-09-17-a-i0009_sent3,Ihre kaiserliche Hoheit bie Frau Erzherzogin Clothilbe bon Oefterreich,68,138,PER,Q242170
+luxwort-1878-09-17-a-i0009_sent4,Hannober,293,301,LOC,Q819125
+luxwort-1878-09-17-a-i0009_sent7,Aurich,141,147,LOC,Q1801981
+luxwort-1878-09-17-a-i0009_sent7,Berlin,191,197,LOC,Q64
+luxwort-1878-09-17-a-i0009_sent13,Herrn v. Vinke,70,84,PER,Q1646857
+luxwort-1878-09-17-a-i0009_sent13,Norberney,177,186,LOC,Q23968
+luxwort-1878-09-17-a-i0009_sent14,Oesterreich,82,93,LOC,Q131964
+luxwort-1878-09-17-a-i0009_sent15,Oesterreich,66,77,LOC,Q131964
+luxwort-1938-01-29-a-i0025_sent0,Frankreichs,0,11,LOC,Q142
+luxwort-1938-01-29-a-i0025_sent1,Paris,0,5,LOC,Q90
+luxwort-1938-01-29-a-i0025_sent5,Rene Pupin,76,86,PER,NIL
+luxwort-1938-04-11-a-i0066_sent0,Schifflingen,219,231,LOC,Q669155
+luxwort-1938-04-11-a-i0066_sent10,"86jähriger Prieftergreis, Hr.",27,56,PER,NIL
+luxwort-1938-04-11-a-i0066_sent11,Linsen Jos.,0,11,PER,NIL
+luxwort-1938-04-11-a-i0066_sent12,aus Bartringen gebürtig,0,23,PER,NIL
+luxwort-1938-04-11-a-i0066_sent12,Tschechoslowakei,33,49,LOC,Q33946
+luxwort-1938-06-29-a-i0018_sent1,Schanghai,0,9,LOC,Q8686
+luxwort-1938-06-29-a-i0018_sent2,Havas,1,6,ORG,Q516033
+luxwort-1938-06-29-a-i0018_sent3,Hankau,4,10,LOC,Q11746
+luxwort-1938-06-29-a-i0018_sent4,Marschall Tschiang Kai-shek,15,42,PER,Q16574
+luxwort-1938-06-29-a-i0018_sent5,Hankau,13,19,LOC,Q11746
+luxwort-1938-06-29-a-i0018_sent6,Hankau,108,114,LOC,Q11746
+luxwort-1938-09-03-a-i0024_sent1,Wien,0,4,LOC,Q1741
+luxwort-1938-09-03-a-i0024_sent3,"„Völkischen Beobachters""",26,50,PROD,Q152564
+luxwort-1938-09-03-a-i0024_sent4,Schotten-Gymnasium,18,36,ORG,Q2249183
+luxwort-1938-09-03-a-i0024_sent4,Seyß-Inauarts,66,79,PER,Q650219
+luxwort-1938-09-03-a-i0024_sent5,"„Völkische Beobachter""",4,26,PROD,Q152564
+luxwort-1948-03-27-a-i0009_sent0,Katholischen Schweizer Buchgemeinde,23,58,ORG,NIL
+luxwort-1948-03-27-a-i0009_sent0,Schweiz,73,80,LOC,Q39
+luxwort-1948-03-27-a-i0009_sent1,Schweizer katholischen Volksbuchgemeinde,102,142,ORG,NIL
+luxwort-1948-06-04-a-i0050_sent0,südafrikanischen Union Pretoria,23,54,LOC,Q3926
+luxwort-1948-06-04-a-i0050_sent1,AP,1,3,ORG,Q40469
+luxwort-1948-06-04-a-i0050_sent2,"südafrikanische Ministerpräsident, Dr. D. F. Malan",4,54,PER,Q317449
+luxwort-1948-06-04-a-i0050_sent2,Nationalisten-Partei,151,171,ORG,Q740718
+luxwort-1948-06-04-a-i0050_sent3,Finanzminister Havenga,8,30,PER,Q3141749
+luxwort-1948-06-04-a-i0050_sent3,Afrikaner-Partei,48,64,ORG,Q3366175
+luxwort-1948-06-04-a-i0050_sent4,Dr. Malan,26,35,PER,Q317449
+luxwort-1948-06-04-a-i0050_sent5,N. C. Havenga,32,45,PER,Q3141749
+luxwort-1948-06-04-a-i0050_sent5,General Hertzog,92,107,PER,Q356395
+luxwort-1948-06-04-a-i0050_sent6,Dr. E. G. Jansen,53,69,PER,Q1170739
+luxwort-1948-06-04-a-i0050_sent7,Jansen,0,6,PER,Q1170739
+luxwort-1948-06-04-a-i0050_sent9,Reuter,4,10,ORG,Q130879
+luxwort-1948-06-04-a-i0050_sent9,Nationalisten,97,110,ORG,Q740718
+luxwort-1948-06-04-a-i0050_sent9,Einheitspartei,121,135,ORG,Q1812146
+luxwort-1948-06-04-a-i0050_sent9,Afrikaner-Partei,140,156,ORG,Q3366175
+luxwort-1948-06-04-a-i0050_sent9,Labour-Partei,160,173,ORG,Q3136263
+luxwort-1948-06-04-a-i0050_sent10,Feldmarschall Smuts,0,19,PER,Q214321
+luxwort-1948-06-04-a-i0050_sent10,Athen Athen,23,34,LOC,Q1524
+luxwort-1948-06-04-a-i0050_sent11,Feldmarschall Jan Christian Smuts,0,33,PER,Q214321
+luxwort-1948-06-04-a-i0050_sent11,Athen,69,74,LOC,Q1524
+luxwort-1948-06-04-a-i0050_sent11,dem Haag,106,114,LOC,Q36600
+luxwort-1948-06-04-a-i0050_sent12,Königin Frederika,13,30,PER,Q61351
+luxwort-1948-06-04-a-i0050_sent12,stellvertretenden Ministerpräsidenten Tsaldaris,39,86,PER,Q728875
+luxwort-1948-07-09-a-i0038_sent0,Paris,29,34,LOC,Q90
+luxwort-1948-07-09-a-i0038_sent1,"Gewerkschaft „Force ouvrière""",60,89,ORG,Q1125623
+luxwort-1948-07-09-a-i0038_sent2,Flughafen von Le Bourget,225,249,LOC,Q738719
+luxwort-1948-07-09-a-i0038_sent3,C. G. T.,19,27,ORG,Q1125638
+luxwort-1948-07-09-a-i0038_sent3,Confédération Française des Travailleurs Chrétiens,95,145,ORG,Q1125610
+luxwort-1948-07-09-a-i0038_sent6,C. G. T.,4,12,ORG,Q1125638
+luxwort-1948-07-09-a-i0038_sent7,"„Force ouvrière""",0,16,ORG,Q1125623
+luxwort-1948-11-11-a-i0044_sent2,Stadt Berlin,111,123,LOC,Q64
+luxwort-1948-11-11-a-i0044_sent3,englische Zone,26,40,LOC,Q55306
+luxwort-1948-11-11-a-i0044_sent3,französische Zone,71,88,LOC,Q55309
+luxwort-1948-11-11-a-i0044_sent5,französische besetzte Zone,8,34,LOC,Q55309
+tageblatt-1918-04-23-a-i0010_sent3,Züricher Post,38,51,PROD,NIL
+tageblatt-1918-04-23-a-i0010_sent3,Paris,368,373,LOC,Q90
+tageblatt-1918-04-23-a-i0010_sent3,Oisetäl,515,522,LOC,NIL
+tageblatt-1918-04-23-a-i0010_sent3,General Foch,845,857,PER,Q192615
+tageblatt-1918-04-23-a-i0010_sent3,Frankreich,936,946,LOC,Q142
+tageblatt-1918-04-23-a-i0010_sent3,Foch,1239,1243,PER,Q192615
+tageblatt-1918-04-23-a-i0010_sent3,Deutfchland,1324,1335,LOC,Q1206012
+tageblatt-1918-04-23-a-i0010_sent3,Deutschland,1357,1368,LOC,Q1206012
+tageblatt-1918-04-23-a-i0010_sent3,Amerika,1446,1453,LOC,Q30
+tageblatt-1918-04-23-a-i0010_sent3,Mper»,1542,1547,LOC,Q102728
+tageblatt-1918-04-23-a-i0010_sent4,London,4,10,LOC,Q84
+tageblatt-1918-04-23-a-i0010_sent4,New Statesman,27,40,PROD,Q1566255
+tageblatt-1918-04-23-a-i0010_sent4,Ipern,117,122,LOC,Q102728
+tageblatt-1918-04-23-a-i0010_sent4,Flanderns,161,170,LOC,Q234
+tageblatt-1918-04-23-a-i0010_sent4,Ipernschlacht,209,222,LOC,Q102728
+tageblatt-1918-04-23-a-i0010_sent5,Hazebrouck,47,57,LOC,Q11131
+tageblatt-1918-04-23-a-i0010_sent5,'Kemmel,76,83,LOC,NIL
+tageblatt-1918-04-23-a-i0010_sent5,Enssel,88,94,LOC,Q2771634
+tageblatt-1918-04-23-a-i0010_sent5,General Foch Ipern,150,168,LOC,Q102728
+tageblatt-1918-04-23-a-i0010_sent5,Calais,489,495,LOC,Q6454
+tageblatt-1918-04-23-a-i0010_sent5,Boubogne,500,508,LOC,Q302720
+tageblatt-1918-04-23-a-i0010_sent5,Somme,565,570,LOC,Q37646
+tageblatt-1918-04-23-a-i0010_sent5,Reuter,582,588,ORG,Q130879
+tageblatt-1918-04-23-a-i0010_sent5,Albert,676,682,LOC,Q30940
+tageblatt-1918-04-23-a-i0010_sent5,Somme,772,777,LOC,Q37646
+tageblatt-1918-04-23-a-i0010_sent5,Just,907,911,LOC,Q389077
+tageblatt-1918-04-23-a-i0010_sent5,Amiens,912,918,LOC,Q41604
+tageblatt-1918-04-23-a-i0010_sent7,Bernancourt,7,18,LOC,NIL
+tageblatt-1918-04-23-a-i0010_sent8,Somme,12,17,LOC,Q37646
+tageblatt-1918-04-23-a-i0010_sent9,Alliierten,23,33,ORG,Q215669
+tageblatt-1918-04-23-a-i0010_sent10,Paris,10,15,LOC,Q90
+tageblatt-1918-04-23-a-i0010_sent11,Alliierten,53,63,ORG,Q215669
+tageblatt-1918-04-23-a-i0010_sent12,England,4,11,LOC,Q21
+tageblatt-1918-04-23-a-i0010_sent12,Balfour,19,26,PER,Q19008
+tageblatt-1918-04-23-a-i0010_sent12,Lord Derby,31,41,PER,Q338427
+tageblatt-1918-04-23-a-i0010_sent12,Amerika,47,54,LOC,Q30
+tageblatt-1918-04-23-a-i0010_sent12,Generale Perfhing,59,76,PER,Q272383
+tageblatt-1918-04-23-a-i0010_sent12,Bliß,81,85,PER,Q2121097
+tageblatt-1918-04-23-a-i0010_sent13,Enßlmrds,45,53,LOC,Q21
+tageblatt-1918-04-23-a-i0010_sent15,Verdun,29,35,LOC,Q154748
+tageblatt-1918-04-23-a-i0010_sent16,Amiens,0,6,LOC,Q41604
+tageblatt-1918-04-23-a-i0010_sent16,Lille,80,85,LOC,Q648
+tageblatt-1918-04-23-a-i0010_sent18,Oberbefehlshaber Foch,2,23,PER,Q192615
+tageblatt-1918-04-23-a-i0010_sent19,Oberbefohlshllder Foch,6,28,PER,Q192615
+tageblatt-1918-04-23-a-i0010_sent19,"Barzini, dem Kriegsberichterstatter des Cmriere della Sera",48,106,PER,Q3839317
+tageblatt-1918-04-23-a-i0010_sent26,Nieuwe Notterdamsche Courant,11,39,PROD,Q1989439
+tageblatt-1918-04-23-a-i0010_sent26,Daily Chronicle,82,97,PROD,Q74707
+tageblatt-1918-04-23-a-i0010_sent27,Generalmajor Sir Robert WhighllIi,0,33,PER,Q3938466
+tageblatt-1918-04-23-a-i0010_sent27,Frankreich,110,120,LOC,Q142
+tageblatt-1918-04-23-a-i0010_sent28,Generall Mauris,0,15,PER,Q1452944
+tageblatt-1918-04-23-a-i0010_sent30,Radcliffe,20,29,PER,Q3375218
+tageblatt-1918-04-23-a-i0010_sent32,Haoasmeldung,21,33,ORG,Q516033
+tageblatt-1918-04-23-a-i0010_sent32,Excelsior,86,95,PROD,NIL
+tageblatt-1918-04-23-a-i0010_sent34,VWrotko,15,22,LOC,Q1028
+tageblatt-1918-04-23-a-i0010_sent35,Telegraphen-Union,2,19,ORG,NIL
+tageblatt-1918-04-23-a-i0010_sent36,Marokko,70,77,LOC,Q1028
+tageblatt-1918-04-23-a-i0010_sent36,General Lyautey,88,103,PER,Q265104
+tageblatt-1918-04-23-a-i0010_sent36,Präsidenten Poincars,108,128,PER,Q191974
+tageblatt-1918-04-23-a-i0010_sent36,Fochs,190,195,PER,Q192615
+tageblatt-1918-06-14-a-i0004_sent1,Noyon,17,22,LOC,Q49831
+tageblatt-1918-06-14-a-i0004_sent2,Neutertorrespondent,4,23,ORG,Q130879
+tageblatt-1918-06-14-a-i0004_sent3,Nenauls,0,7,LOC,NIL
+tageblatt-1918-06-14-a-i0004_sent4,Eauigny,30,37,LOC,Q937539
+tageblatt-1918-06-14-a-i0004_sent4,Thiocourt,42,51,LOC,Q497719
+tageblatt-1918-06-14-a-i0004_sent9,Daily Telegraph,25,40,PROD,Q192621
+tageblatt-1918-06-14-a-i0004_sent10,Montdidier,328,338,LOC,Q74308
+tageblatt-1918-06-14-a-i0004_sent10,Noyons,340,346,LOC,Q49831
+tageblatt-1918-06-14-a-i0004_sent10,Montdidier Noyon,512,528,LOC,Q49831
+tageblatt-1918-06-14-a-i0004_sent10,Agence. Hanns,587,600,ORG,Q516033
+tageblatt-1918-06-14-a-i0004_sent11,Journal,36,43,PROD,Q3223697
+tageblatt-1918-06-14-a-i0004_sent13,Journal des Tebats,5,23,PROD,Q2565164
+tageblatt-1918-06-14-a-i0004_sent14,Montdidier,29,39,LOC,Q74308
+tageblatt-1918-06-14-a-i0004_sent15,Temps,5,10,PROD,Q639137
+tageblatt-1918-06-14-a-i0004_sent16,Gustav Herve,297,309,PER,Q764182
+tageblatt-1918-06-14-a-i0004_sent16,Marnetal,427,435,LOC,Q3554035
+tageblatt-1918-06-14-a-i0004_sent16,Calais,594,600,LOC,Q6454
+tageblatt-1918-06-14-a-i0004_sent16,Ämiens,605,611,LOC,Q41604
+tageblatt-1918-06-14-a-i0004_sent16,Ealgis,905,911,LOC,Q6454
+tageblatt-1918-06-14-a-i0004_sent16,Paris,935,940,LOC,Q90
+tageblatt-1918-06-14-a-i0004_sent16,Söissons,1165,1173,LOC,Q167152
+tageblatt-1918-06-14-a-i0004_sent16,Reims,1178,1183,LOC,Q41876
+tageblatt-1918-06-14-a-i0004_sent17,Herne,0,5,PER,Q764182
+tageblatt-1918-06-14-a-i0004_sent17,Paris,94,99,LOC,Q90
+tageblatt-1918-06-14-a-i0004_sent18,Paris,0,5,LOC,Q90
+tageblatt-1918-06-14-a-i0004_sent20,Paris,13,18,LOC,Q90
+tageblatt-1918-06-14-a-i0004_sent20,Europa,107,113,LOC,Q46
+tageblatt-1918-06-14-a-i0004_sent20,Frankreichs,174,185,LOC,Q142
+tageblatt-1918-06-14-a-i0004_sent20,Herbe,187,192,PER,Q764182
+tageblatt-1918-06-14-a-i0004_sent20,Ealais,264,270,LOC,Q6454
+tageblatt-1918-06-14-a-i0004_sent20,Paris,375,380,LOC,Q90
+tageblatt-1918-06-14-a-i0004_sent22,Reuter,0,6,PROD,Q130879
+tageblatt-1918-06-14-a-i0004_sent22,Washington,18,28,LOC,Q61
+tageblatt-1918-06-14-a-i0004_sent22,Kriegsminister Baker,30,50,PER,Q926206
+tageblatt-1918-06-14-a-i0004_sent22,Frankreich,161,171,LOC,Q142
+tageblatt-1928-02-15-a-i0018_sent0,Paris,0,5,LOC,Q90
+tageblatt-1928-02-15-a-i0018_sent2,Reichstagswahlen,110,126,ORG,Q878525
+tageblatt-1928-02-15-a-i0018_sent5,Paris,0,5,LOC,Q90
+tageblatt-1928-02-15-a-i0018_sent6,CasManca,8,16,LOC,Q7903
+tageblatt-1928-02-15-a-i0018_sent6,Beue Mellal,248,259,LOC,Q817279
+tageblatt-1928-02-15-a-i0018_sent6,Generalgouverneurs Steeg,304,328,PER,Q717905
+tageblatt-1928-02-15-a-i0018_sent8,Paris,6,11,LOC,Q90
+tageblatt-1928-02-15-a-i0018_sent8,Blumenstein,68,79,PER,NIL
+tageblatt-1928-02-15-a-i0018_sent8,Laeasze,81,88,PER,NIL
+tageblatt-1928-02-15-a-i0018_sent8,Simon Tovbini,93,106,PER,NIL
+tageblatt-1928-02-15-a-i0018_sent8,Berlin,155,161,LOC,Q64
+tageblatt-1928-02-15-a-i0018_sent10,Berliner Tageblatt,1,19,PROD,Q455014
+tageblatt-1928-02-15-a-i0018_sent10,Wiesbaden,32,41,LOC,Q1721
+tageblatt-1928-02-15-a-i0018_sent10,Frankfurt am Main,76,93,LOC,Q1794
+tageblatt-1928-02-15-a-i0018_sent10,Rheinlandlommission,106,125,LOC,Q1200
+tageblatt-1928-02-15-a-i0018_sent11,Saarbrücken,0,11,LOC,Q1724
+tageblatt-1928-02-15-a-i0018_sent13,Velsen,15,21,LOC,Q9970
+tageblatt-1928-02-15-a-i0018_sent14,Hoftenbach,15,25,LOC,Q562627
+tageblatt-1928-02-15-a-i0018_sent14,Butarest,161,169,LOC,Q19660
+tageblatt-1928-02-15-a-i0018_sent15,Nationale Bauernpartei,5,27,ORG,Q259887
+tageblatt-1928-02-15-a-i0018_sent15,Sozialistischen Partei,40,62,ORG,Q752435
+tageblatt-1928-02-15-a-i0018_sent16,London,0,6,LOC,Q84
+tageblatt-1928-02-15-a-i0018_sent17,NewYork,19,26,LOC,Q60
+tageblatt-1928-02-15-a-i0018_sent17,amerikanische Admiral Plunkeii,37,67,PER,Q5081605
+tageblatt-1928-02-15-a-i0018_sent19,Plunlett,0,8,PER,Q5081605
+tageblatt-1928-05-09-a-i0020_sent0,Luxemburger Tageblatt,0,21,PROD,Q461344
+tageblatt-1928-05-09-a-i0020_sent1,Le Ieune,65,73,PER,Q2550037
+tageblatt-1928-05-09-a-i0020_sent2,Belgien,28,35,LOC,Q31
+tageblatt-1928-05-09-a-i0020_sent3,Belgien,38,45,LOC,Q31
+tageblatt-1928-05-09-a-i0020_sent9,Jules Le Ieune,350,364,PER,Q2550037
+tageblatt-1928-05-09-a-i0020_sent9,Generaladvokat Edm. Dmssens,467,494,PER,NIL
+tageblatt-1928-05-09-a-i0020_sent9,Me Picard,998,1007,PER,NIL
+tageblatt-1928-05-09-a-i0020_sent9,Le Ieunes,1058,1067,PER,Q2550037
+tageblatt-1928-05-09-a-i0020_sent9,Le Ieune,1094,1102,PER,Q2550037
+tageblatt-1928-05-09-a-i0020_sent9,Massilong,1405,1414,PER,Q1381729
+tageblatt-1928-05-09-a-i0020_sent9,Vossuets,1420,1428,PER,Q294100
+tageblatt-1928-05-09-a-i0020_sent9,Le Ieune,1430,1438,PER,Q2550037
+tageblatt-1928-05-09-a-i0020_sent9,Epaminondas,1484,1495,PER,Q190436
+tageblatt-1928-05-09-a-i0020_sent9,Montima,1505,1512,PER,NIL
+tageblatt-1928-05-09-a-i0020_sent9,LeuKtra,1585,1592,PER,NIL
+tageblatt-1928-05-09-a-i0020_sent9,Montima,1597,1604,PER,NIL
+tageblatt-1928-05-09-a-i0020_sent9,Le Ieune,1612,1620,PER,Q2550037
+tageblatt-1928-05-09-a-i0020_sent10,Marc Nurel,29,39,PER,Q1430
+tageblatt-1928-05-09-a-i0020_sent11,Le Ieune,61,69,PER,Q2550037
+tageblatt-1928-05-09-a-i0020_sent12,Luxemburgs,27,37,LOC,Q32
+tageblatt-1938-08-05-a-i0057_sent0,Die Neue Welt,1,14,PROD,Q5274415
+tageblatt-1938-08-05-a-i0057_sent3,Litwinows,34,43,PER,Q310100
+tageblatt-1938-08-05-a-i0057_sent3,Sowjetunion,172,183,LOC,Q15180
+tageblatt-1938-08-05-a-i0057_sent6,Stalin,108,114,PER,Q855
+tageblatt-1938-11-08-a-i0056_sent0,Tschechoslowakei,21,37,LOC,Q33946
+tageblatt-1938-11-08-a-i0056_sent1,Prag,0,4,LOC,Q1085
+tageblatt-1938-11-08-a-i0056_sent2,Budapest,158,166,LOC,Q1781
+tageblatt-1938-11-08-a-i0056_sent3,Vicomte Rothermere,0,18,PER,Q336483
+tageblatt-1938-11-08-a-i0056_sent3,Budapest,22,30,LOC,Q1781
+tageblatt-1938-11-08-a-i0056_sent4,London,0,6,LOC,Q84
+tageblatt-1938-11-08-a-i0056_sent5,Daily SS,62,70,ORG,Q210534
+tageblatt-1938-11-08-a-i0056_sent5,Budapest,86,94,LOC,Q1781
+tageblatt-1938-11-08-a-i0056_sent6,Tschechoslowakei,119,135,LOC,Q33946
+tageblatt-1938-11-08-a-i0056_sent7,Warschau,45,53,LOC,Q270
+tageblatt-1938-11-08-a-i0056_sent8,"Pra""",26,30,LOC,Q1085
+tageblatt-1938-11-08-a-i0056_sent8,Warschau,56,64,LOC,Q270
+tageblatt-1938-11-08-a-i0056_sent8,Polen,135,140,LOC,Q36
+tageblatt-1938-11-08-a-i0056_sent8,Tschecho.,149,158,LOC,Q33946
+tageblatt-1938-11-08-a-i0056_sent9,slowakei,0,8,LOC,Q33946
+tageblatt-1938-11-08-a-i0056_sent10,Tschechoslowakei,7,23,LOC,Q33946
+tageblatt-1938-11-08-a-i0056_sent11,Fraq,0,4,LOC,Q1085
+tageblatt-1938-11-08-a-i0056_sent12,Sudetendeutschen Partei,35,58,ORG,Q678584
+tageblatt-1938-11-08-a-i0056_sent12,Abgeordnete Kundt,198,215,PER,Q216084
+tageblatt-1938-11-08-a-i0056_sent13,sudetendeutschen Partei,17,40,ORG,Q678584
+tageblatt-1938-11-08-a-i0056_sent17,Abgeordneten Peters,4,23,PER,Q12018548
+tageblatt-1938-11-08-a-i0056_sent17,Neuwirth,28,36,PER,Q12019026
+tageblatt-1938-11-08-a-i0056_sent17,Senator Kröazot,45,60,PER,NIL
+tageblatt-1938-11-08-a-i0056_sent17,Sudetengebiet,137,150,LOC,Q194242
+tageblatt-1948-07-29-a-i0034_sent0,Belgrad,42,49,LOC,Q3711
+tageblatt-1948-07-29-a-i0034_sent1,Marschall Tito,0,14,PER,Q9161
+tageblatt-1948-07-29-a-i0034_sent1,Minister Djilas,16,31,PER,Q153909
+tageblatt-1948-07-29-a-i0034_sent4,russischen kommunistischen Partei,85,118,ORG,Q79854
+tageblatt-1948-07-29-a-i0034_sent4,jugoslawischen kommunist.,149,174,ORG,Q641691
+tageblatt-1948-07-29-a-i0034_sent5,Partei,0,6,ORG,Q641691
+tageblatt-1948-07-29-a-i0034_sent5,Marxismus,33,42,PROD,Q7264
+tageblatt-1948-07-29-a-i0034_sent5,Leninismus,47,57,PROD,Q155059
+tageblatt-1948-07-29-a-i0034_sent5,jugoslawische kommunistische Par- tei,282,319,ORG,Q641691
+tageblatt-1948-07-29-a-i0034_sent5,bolschewistischen Partei,406,430,ORG,Q83372
+tageblatt-1948-07-29-a-i0034_sent5,Bulgarien,569,578,LOC,Q219
+tageblatt-1948-07-29-a-i0034_sent5,Albanien,583,591,LOC,Q222
+tageblatt-1948-07-29-a-i0034_sent5,Bulgariens,688,698,LOC,Q219
+tageblatt-1948-07-29-a-i0034_sent5,Albaniens,703,712,LOC,Q222
+tageblatt-1948-07-29-a-i0034_sent5,Marxismus,875,884,PROD,Q7264
+tageblatt-1948-07-29-a-i0034_sent5,Leninismus,893,903,PROD,Q155059
+tageblatt-1948-12-17-a-i0051_sent0,Washington,0,10,LOC,Q61
+tageblatt-1948-12-17-a-i0051_sent0,Washington,65,75,LOC,Q61
+tageblatt-1948-12-17-a-i0051_sent0,Washingtons,129,140,LOC,Q61
+tageblatt-1948-12-17-a-i0051_sent1,Vereinigten Staaten,115,134,LOC,Q30
+tageblatt-1948-12-17-a-i0051_sent1,Atlantik,221,229,LOC,Q97
+tageblatt-1948-12-17-a-i0051_sent4,Europa,31,37,LOC,Q46

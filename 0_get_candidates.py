@@ -45,11 +45,12 @@ def load_dataset(dataset_path):
         ex_lengths = [int(anno["end_pos"]) - int(anno["start_pos"]) for anno in doc_anno]
         ex_gt_ids = [anno["identifier"] for anno in doc_anno]
 
-        texts.append(text)
-        doc_ids.append(doc_id)
-        offsets.append(ex_offsets)
-        lengths.append(ex_lengths)
-        gt_ids.append(ex_gt_ids)
+        if len(ex_offsets)>0 and len(text) <= 1250:
+            texts.append(text)
+            doc_ids.append(doc_id)
+            offsets.append(ex_offsets)
+            lengths.append(ex_lengths)
+            gt_ids.append(ex_gt_ids)
 
     return texts, offsets, lengths, doc_ids, gt_ids
 

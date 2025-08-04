@@ -1,0 +1,178 @@
+doc_id,surface,start_pos,end_pos,type,identifier
+Wecklein1894_0008_sent0,Achilleus,11,20,PER,Q41746
+Wecklein1894_0008_sent0,Odyſſeus,67,75,PER,Q47231
+Wecklein1894_0008_sent2,Aias,17,21,PER,Q172725
+Wecklein1894_0008_sent2,Odyſſeus,80,88,PER,Q47231
+Wecklein1894_0008_sent4,Sophokles,31,40,PER,Q11950683
+Wecklein1894_0008_sent4,Äſchylos,45,53,PER,Q40939
+Wecklein1894_0008_sent4,Θροῇσσαι,78,86,WORK,NIL
+Wecklein1894_0008_sent4,"Stüc>""OnJw» κοίσις",125,143,WORK,NIL
+Wecklein1894_0008_sent4,Σαλαμίνιαι,166,176,WORK,NIL
+Wecklein1894_0008_sent5,Ὅπλων κρίσις,13,25,WORK,NIL
+Wecklein1894_0008_sent6,Θοῇσσαι,8,15,WORK,NIL
+Wecklein1894_0008_sent6,Aias,115,119,PER,Q172725
+Wecklein1894_0008_sent6,Sophokles,134,143,PER,Q11950683
+Wecklein1894_0008_sent7,Odyſſeus,42,50,PER,Q47231
+Wecklein1894_0008_sent7,Sophokles,86,95,PER,Q11950683
+Wecklein1894_0008_sent7,Odyſſeus,118,126,PER,Q47231
+Wecklein1894_0008_sent7,Aias,131,135,PER,Q172725
+Wecklein1894_0008_sent8,Aias,80,84,PER,Q172725
+Wecklein1894_0008_sent9,Aias,73,77,PER,Q172725
+Wecklein1894_0008_sent10,Odyſſeus,10,18,PER,Q47231
+Wecklein1894_0008_sent10,Aias,97,101,PER,Q172725
+Wecklein1894_0008_sent11,Sophokles,22,31,PER,Q11950683
+Wecklein1894_0008_sent11,Aias,64,68,PER,Q172725
+Wecklein1894_0022_sent1,Ant.,21,25,WORK,Q241077
+Wecklein1894_0022_sent2,Phil.,84,89,WORK,Q1415903
+Wecklein1894_0022_sent7,Benob.,144,150,PER,Q189699
+Wecklein1894_0022_sent9,Ant.,61,65,WORK,Q241077
+Wecklein1894_0022_sent10,Od.,147,150,WORK,Q35160
+Wecklein1894_0022_sent11,Eur. Med.,239,248,WORK,Q286381
+Wecklein1894_0023_sent2,Eur. Hek.,87,96,WORK,Q1115611
+Wecklein1894_0023_sent3,Eurip.,96,102,PER,Q48305
+Wecklein1894_0023_sent5,Ant.,146,150,WORK,Q241077
+Wecklein1894_0023_sent6,Odyſſeus,25,33,PER,Q47231
+Wecklein1894_0023_sent6,Aias,107,111,PER,Q172725
+Wecklein1894_0023_sent6,Odyſſeus,118,126,PER,Q47231
+Wecklein1894_0023_sent9,Pind. Pyth.,57,68,WORK,Q3411444
+Wecklein1894_0023_sent10,Athena,21,27,PER,Q37122
+Wecklein1894_0023_sent10,Aias,47,51,PER,Q172725
+Wecklein1894_0023_sent12,Eur.,10,14,PER,Q48305
+Wecklein1894_0031_sent4,Hom.,7,11,PER,Q6691
+Wecklein1894_0031_sent7,Herm.,31,36,PER,Q77616
+Wecklein1894_0031_sent8,Od.,25,28,WORK,Q35160
+Wecklein1894_0039_sent0,Phil.,53,58,WORK,Q1415903
+Wecklein1894_0039_sent2,Äſch. Cho.,209,219,WORK,Q11688406
+Wecklein1894_0039_sent5,Tekmeſſa,0,8,PER,Q10796858
+Wecklein1894_0039_sent5,Aias,48,52,PER,Q172725
+Wecklein1894_0039_sent7,Teukros,18,25,PER,Q878184
+Wecklein1894_0039_sent7,Aias,51,55,PER,Q172725
+Wecklein1894_0039_sent7,Teukros,105,112,PER,Q878184
+Wecklein1894_0039_sent14,Poll.,196,201,PER,Q548104
+Wecklein1894_0047_sent2,Odyſſeus,59,67,PER,Q47231
+Wecklein1894_0047_sent2,Trach.,137,143,WORK,Q945342
+Wecklein1894_0047_sent8,Hom.,110,114,PER,Q6691
+Wecklein1894_0047_sent12,Eur. Med.,88,97,WORK,Q286381
+Wecklein1894_0047_sent12,Hom.,133,137,PER,Q6691
+sophokle1v3soph_0049_sent1,11.,54,57,WORK,Q8275
+sophokle1v3soph_0049_sent1,Aias,114,118,PER,Q242319
+sophokle1v3soph_0049_sent1,Oileus,120,126,PER,Q975447
+sophokle1v3soph_0049_sent3,Od.,85,88,PER,Q47231
+sophokle1v3soph_0049_sent4,11.,4,7,WORK,Q8275
+sophokle1v3soph_0049_sent6,Ant.,66,70,WORK,Q241077
+sophokle1v3soph_0049_sent9,Soph.,16,21,PER,Q11950683
+sophokle1v3soph_0049_sent10,O. R.,20,25,WORK,Q148643
+sophokle1v3soph_0049_sent13,Ant.,26,30,WORK,Q241077
+sophokle1v3soph_0049_sent16,Odysseus,0,8,PER,Q47231
+sophokle1v3soph_0049_sent16,Aias,38,42,PER,Q172725
+sophokle1v3soph_0049_sent16,Athene,167,173,PER,Q37122
+sophokle1v3soph_0049_sent18,Od.,26,29,PER,Q47231
+sophokle1v3soph_0051_sent1,El.,0,3,WORK,Q733444
+sophokle1v3soph_0051_sent5,Od.,63,66,PER,Q47231
+sophokle1v3soph_0051_sent6,Aias,79,83,PER,Q172725
+sophokle1v3soph_0051_sent12,Ant.,49,53,WORK,Q241077
+Wecklein1894_0055_sent1,Odyſſeus,12,20,PER,Q47231
+Wecklein1894_0055_sent3,Ant.,140,144,WORK,Q241077
+Wecklein1894_0055_sent5,Hom.,15,19,PER,Q6691
+Wecklein1894_0055_sent8,Aias,4,8,PER,Q172725
+Wecklein1894_0055_sent8,Tekmeſſa,35,43,PER,Q10796858
+Wecklein1894_0055_sent12,Hom.,66,70,PER,Q6691
+Wecklein1894_0055_sent13,Aias,21,25,PER,Q172725
+Wecklein1894_0055_sent16,Ant.,49,53,WORK,Q241077
+Wecklein1894_0055_sent17,Aias,13,17,PER,Q172725
+Wecklein1894_0063_sent0,Zaleukos,4,12,PER,Q145090
+Wecklein1894_0063_sent0,Diod.,14,19,PER,Q171241
+Wecklein1894_0063_sent0,Cic. de amic.,34,47,WORK,Q675210
+Wecklein1894_0063_sent1,Eur. Hel.,31,40,WORK,Q1248812
+Wecklein1894_0063_sent4,Öd. T.,75,81,WORK,Q148643
+Wecklein1894_0063_sent9,Aias,2,6,PER,Q172725
+Wecklein1894_0063_sent10,El.,28,31,WORK,Q733444
+Wecklein1894_0063_sent12,Aias,3,7,PER,Q172725
+Wecklein1894_0063_sent12,Tekmeſſa,25,33,PER,Q10796858
+Wecklein1894_0063_sent14,Aias,24,28,PER,Q172725
+Wecklein1894_0063_sent14,Pan,114,117,PER,Q132582
+Wecklein1894_0063_sent14,Apollon,122,129,PER,Q37340
+Wecklein1894_0063_sent14,Aias,243,247,PER,Q172725
+sophokle1v3soph_0067_sent0,Phil.,47,52,WORK,Q1415903
+sophokle1v3soph_0067_sent0,Ant.,59,63,WORK,Q241077
+sophokle1v3soph_0067_sent1,Tekmessa,22,30,PER,Q10796858
+sophokle1v3soph_0067_sent1,Aias,39,43,PER,Q172725
+sophokle1v3soph_0067_sent1,Phil.,161,166,WORK,Q1415903
+sophokle1v3soph_0067_sent4,Ant.,153,157,WORK,Q241077
+sophokle1v3soph_0067_sent4,Aesch. Ag.,162,172,WORK,Q3320792
+sophokle1v3soph_0067_sent4,1.,204,206,WORK,Q8275
+sophokle1v3soph_0067_sent5,Aias,11,15,PER,Q172725
+sophokle1v3soph_0067_sent6,Ibykos,45,51,PER,Q332802
+sophokle1v3soph_0067_sent9,Aias,53,57,PER,Q172725
+sophokle1v3soph_0067_sent9,Aias,176,180,PER,Q172725
+sophokle1v3soph_0067_sent10,Trach.,18,24,WORK,Q945342
+sophokle1v3soph_0067_sent10,El.,30,33,WORK,Q733444
+sophokle1v3soph_0067_sent11,Tekmessa,56,64,PER,Q10796858
+sophokle1v3soph_0067_sent11,Aias,144,148,PER,Q172725
+sophokle1v3soph_0067_sent12,Tekmessa,0,8,PER,Q10796858
+sophokle1v3soph_0067_sent13,Soph. Laocoont.,5,20,WORK,NIL
+sophokle1v3soph_0075_sent2,Homer,34,39,PER,Q6691
+sophokle1v3soph_0075_sent3,Trach.,106,112,WORK,Q945342
+sophokle1v3soph_0075_sent3,O. R.,139,144,WORK,Q148643
+sophokle1v3soph_0075_sent5,0. (.,167,172,WORK,Q294001
+sophokle1v3soph_0075_sent6,Od.,76,79,PER,Q47231
+sophokle1v3soph_0075_sent6,Phil.,112,117,WORK,Q1415903
+sophokle1v3soph_0075_sent7,Aias,47,51,PER,Q172725
+sophokle1v3soph_0075_sent7,Odysseus,93,101,PER,Q35160
+sophokle1v3soph_0075_sent8,Hermann,1,8,PER,Q77616
+sophokle1v3soph_0075_sent8,Od.,70,73,WORK,Q35160
+sophokle1v3soph_0075_sent8,Ant.,104,108,WORK,Q241077
+sophokle1v3soph_0075_sent9,0. C.,77,82,WORK,Q294001
+sophokle1v3soph_0075_sent10,Odysseus,11,19,PER,Q35160
+sophokle1v3soph_0075_sent10,Aias,81,85,PER,Q172725
+sophokle1v3soph_0075_sent10,O. R.,202,207,WORK,Q148643
+sophokle1v3soph_0075_sent10,Od.,369,372,PER,Q47231
+sophokle1v3soph_0075_sent11,Tekmessa,17,25,PER,Q10796858
+sophokle1v3soph_0075_sent12,Aias,119,123,PER,Q172725
+sophokle1v3soph_0075_sent12,Tekmessa,190,198,PER,Q10796858
+sophokle1v3soph_0083_sent3,Atas,48,52,PER,Q172725
+sophokle1v3soph_0083_sent3,Teukros,65,72,PER,Q878184
+sophokle1v3soph_0083_sent4,O. ἢ.,21,26,WORK,Q148643
+sophokle1v3soph_0083_sent5,BDindorf,28,36,PER,Q67533
+sophokle1v3soph_0083_sent5,Trach.,106,112,WORK,Q945342
+sophokle1v3soph_0083_sent7,Phil.,48,53,WORK,Q1415903
+sophokle1v3soph_0083_sent10,Il.,5,8,WORK,Q8275
+sophokle1v3soph_0083_sent11,Aesch. Sieben,24,37,WORK,Q506546
+sophokle1v3soph_0083_sent12,0. €.,18,23,WORK,Q294001
+sophokle1v3soph_0083_sent14,Tekm.,5,10,PER,Q10796858
+sophokle1v3soph_0083_sent14,Aias,40,44,PER,Q172725
+sophokle1v3soph_0083_sent14,Aias,62,66,PER,Q172725
+sophokle1v3soph_0083_sent14,Teukros,101,108,PER,Q878184
+sophokle1v3soph_0083_sent16,Ant.,30,34,WORK,Q241077
+sophokle1v3soph_0083_sent16,El.,43,46,WORK,Q733444
+sophokle1v3soph_0092_sent0,Aias,70,74,PER,Q172725
+sophokle1v3soph_0092_sent1,11.,10,13,WORK,Q8275
+sophokle1v3soph_0092_sent2,Aias,77,81,PER,Q172725
+sophokle1v3soph_0092_sent6,0. C.,27,32,WORK,Q294001
+sophokle1v3soph_0092_sent7,500. C.,0,7,WORK,Q294001
+sophokle1v3soph_0092_sent7,Eur. Ion,79,87,WORK,Q614607
+sophokle1v3soph_0092_sent9,Eur. Herc. Fur.,114,129,WORK,Q1233835
+sophokle1v3soph_0092_sent10,El.,81,84,WORK,Q733444
+sophokle1v3soph_0092_sent10,El.,226,229,WORK,Q733444
+sophokle1v3soph_0092_sent11,Ant.,179,183,WORK,Q241077
+sophokle1v3soph_0092_sent12,Sophokles,24,33,PER,NIL
+sophokle1v3soph_0092_sent12,O. C.,85,90,WORK,Q294001
+sophokle1v3soph_0092_sent12,Phil.,105,110,WORK,Q1415903
+sophokle1v3soph_0092_sent12,O0. R.,116,122,WORK,Q148643
+sophokle1v3soph_0092_sent12,Ant.,128,132,WORK,Q241077
+sophokle1v3soph_0108_sent0,Ant.,16,20,WORK,Q241077
+sophokle1v3soph_0108_sent1,Alhen,19,24,LOC,Q1524
+sophokle1v3soph_0108_sent1,Pindars,42,49,PER,Q134929
+sophokle1v3soph_0108_sent7,Hermann,251,258,PER,Q77616
+sophokle1v3soph_0108_sent8,A.,19,21,PER,Q172725
+sophokle1v3soph_0108_sent9,Aesch. Pers.,111,123,WORK,Q788458
+sophokle1v3soph_0108_sent9,Ennius,192,198,PER,Q47130
+sophokle1v3soph_0108_sent10,Aias,77,81,PER,Q172725
+sophokle1v3soph_0116_sent0,Mysien,38,44,LOC,Q622319
+sophokle1v3soph_0116_sent1,Teukros,18,25,PER,Q878184
+sophokle1v3soph_0116_sent1,Aias,40,44,PER,Q172725
+sophokle1v3soph_0116_sent2,Lobeck,42,48,PER,Q84734
+sophokle1v3soph_0116_sent2,Hermanns,80,88,PER,Q77616
+sophokle1v3soph_0116_sent4,Homer,81,86,PER,Q6691
+sophokle1v3soph_0116_sent5,Ant.,76,80,WORK,Q241077
+sophokle1v3soph_0116_sent6,Eurysakes,115,124,PER,Q1378566

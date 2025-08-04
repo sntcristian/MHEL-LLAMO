@@ -1,0 +1,655 @@
+doc_id,surface,start_pos,end_pos,type,identifier
+hidden_test_fi_1_sent0,valta-kunnanduuman,102,120,ORG,Q844793
+hidden_test_fi_1_sent3,Roosevelt,104,113,PER,Q33866
+hidden_test_fi_1_sent4,Venäjällä,11,20,LOC,Q34266
+hidden_test_fi_1_sent5,duu- man jäsenen Vostrotinin,61,89,PER,NIL
+hidden_test_fi_1_sent5,Poincaré,99,107,PER,Q191974
+hidden_test_fi_1_sent6,Toulousesta,0,11,LOC,Q7880
+hidden_test_fi_1_sent7,Poincaré,36,44,PER,Q191974
+hidden_test_fi_1_sent7,Ranskan,190,197,LOC,Q70802
+hidden_test_fi_1_sent7,Rans-kan,352,360,LOC,Q70802
+hidden_test_fi_1_sent8,Pietarissa,0,10,LOC,Q656
+hidden_test_fi_1_sent8,Moskovan yliopiston yksityisdo-sentti P. M. Golovatshev,40,95,PER,NIL
+hidden_test_fi_1_sent9,Newyorkista,0,11,LOC,Q60
+hidden_test_fi_1_sent10,Rooseveltin,0,11,PER,Q33866
+hidden_test_fi_1_sent10,Rooseveltia,58,69,PER,Q33866
+hidden_test_fi_1_sent10,Englannissa,93,104,LOC,Q21
+hidden_test_fi_1_sent10,Saksassa,105,113,LOC,Q43287
+hidden_test_fi_1_sent10,Venäjällä,117,126,LOC,Q34266
+hidden_test_fi_1_sent10,San Franciscon,136,150,LOC,NIL
+hidden_test_fi_1_sent11,Roosevelt,0,9,PER,Q33866
+hidden_test_fi_1_sent12,Yhdysvaltain „Kupari-alueen“,0,28,LOC,Q387163
+hidden_test_fi_1_sent13,Kuparisaaren,0,12,LOC,Q5168740
+hidden_test_fi_1_sent13,We-stern Federation of Miners,161,190,ORG,Q7987830
+hidden_test_fi_1_sent13,Kuparialueella,210,224,LOC,Q387163
+hidden_test_fi_1_sent14,Calumet & Heclan,81,97,ORG,Q5024102
+hidden_test_fi_1_sent15,Saksi-Weimarin,0,14,LOC,Q315667
+hidden_test_fi_1_sent16,Heidelbergissä,0,14,LOC,Q2966
+hidden_test_fi_1_sent16,Saksi-Weimarinprinsessa Sofia,51,80,PER,Q7244832
+hidden_test_fi_1_sent16,berliniläisen Bleichröder-nimisen finanssimiehen,330,378,PER,Q55848545
+hidden_test_fi_1_sent16,Weimarin,480,488,LOC,Q3955
+hidden_test_fi_1_sent16,Bleichröderin,581,594,PER,Q55848545
+hidden_test_fi_1_sent17,Berlinistä,0,10,LOC,Q64
+hidden_test_fi_1_sent17,Na-tionalzeitung,26,42,PROD,NIL
+hidden_test_fi_1_sent17,Saksi-Weimarin prinsessa Sofia,57,87,PER,Q7244832
+hidden_test_fi_1_sent17,Berliner Tageblatt,330,348,PROD,Q455014
+hidden_test_fi_1_sent17,Heidelbergissä,403,417,LOC,Q2966
+hidden_test_fi_1_sent18,Wei-mariin,31,41,LOC,Q3955
+hidden_test_fi_1_sent19,miljonääri Hans vonBleichröderin,185,217,PER,Q55848545
+hidden_test_fi_1_sent20,Paul Sabatier,16,29,PER,Q104575
+hidden_test_fi_1_sent21,Toulousen,4,13,LOC,Q7880
+hidden_test_fi_1_sent21,"yliopiston professorin,Nobelin viimevuotisen kemianpalkin-non saajan Paul Sabatier’n",86,170,PER,Q104575
+hidden_test_fi_1_sent21,Presidentti Poincaré,183,203,PER,Q191974
+hidden_test_fi_1_sent21,Toulousea,232,241,LOC,Q7880
+hidden_test_fi_1_sent21,prof. Saba-tier’lle,350,369,PER,Q104575
+hidden_test_fi_1_sent21,Poincaré,383,391,PER,Q191974
+hidden_test_fi_2_sent1,Helsingin pörssi,0,16,ORG,Q581755
+hidden_test_fi_2_sent2,Arvopaperipörssi,0,16,ORG,Q581755
+hidden_test_fi_2_sent4,Pörssikomitean,0,14,ORG,NIL
+hidden_test_fi_2_sent4,arvopaperipörssi,49,65,ORG,Q581755
+hidden_test_fi_2_sent4,arvo-paperipörssiä,100,118,ORG,NIL
+hidden_test_fi_2_sent5,MerivakuutusosakeyhtiöTriton,0,28,ORG,NIL
+hidden_test_fi_2_sent6,merivakuutus-osakeyhtiöTriton,44,73,ORG,NIL
+hidden_test_fi_2_sent6,Triton,241,247,ORG,NIL
+hidden_test_fi_2_sent6,Tritonin,338,346,ORG,NIL
+hidden_test_fi_2_sent9,Triton,17,23,ORG,NIL
+hidden_test_fi_2_sent14,Triton,39,45,ORG,NIL
+hidden_test_fi_2_sent17,kauppaneuvosVictor Forselius,56,84,PER,Q17380259
+hidden_test_fi_2_sent17,merikapt.G. E. Mattsson,97,120,PER,Q17382504
+hidden_test_fi_2_sent17,kauppaneuvos C. F.Junnelius,124,151,PER,NIL
+hidden_test_fi_2_sent17,Kauppaneuvos Forseliuksen,153,178,PER,Q17380259
+hidden_test_fi_2_sent17,kapt. G. E.Mattsson,204,223,PER,Q17382504
+hidden_test_fi_2_sent17,konsuli Alfr.Jacobsson,345,367,PER,Q5404771
+hidden_test_fi_2_sent17,kaupp. C. M.Sjöblom,380,399,PER,NIL
+hidden_test_fi_2_sent17,vakuutusjoht. Lennart Törn-udd,403,433,PER,NIL
+hidden_test_fi_2_sent17,merikapt. JohnTengström,453,476,PER,NIL
+hidden_test_fi_2_sent17,varat. Herman Henriksson,478,502,PER,NIL
+hidden_test_fi_2_sent17,tehtailija Edv. Åström,505,527,PER,Q6256041
+hidden_test_fi_2_sent18,hra Alex.Törnudd,93,109,PER,NIL
+hidden_test_fi_2_sent18,hra Harry Wege-lius,156,175,PER,Q11861659
+hidden_test_fi_2_sent19,Suomen Meijeriyhdistyksen,14,39,ORG,NIL
+hidden_test_fi_2_sent19,Suurbritanniassa,52,68,LOC,Q145
+hidden_test_fi_2_sent19,Manchesterissa,69,83,LOC,Q18125
+hidden_test_fi_2_sent20,Manchesterissa,385,399,LOC,Q18125
+hidden_test_fi_2_sent24,Manchesterin tukkukauppiasyhdistyk-sen,0,38,ORG,NIL
+hidden_test_fi_2_sent25,Englannissa,75,86,LOC,Q21
+hidden_test_fi_2_sent25,Saksassa,92,100,LOC,Q43287
+hidden_test_fi_2_sent31,Tanskassa,0,9,LOC,Q35
+hidden_test_fi_2_sent32,Irlannissa,0,10,LOC,Q22890
+hidden_test_fi_2_sent35,Alex von Becker,14,29,PER,NIL
+hidden_test_fi_2_sent36,Viipurinläänissä,22,38,ORG,Q1144791
+hidden_test_fi_2_sent38,Viipurinläänin,2,16,ORG,Q1144791
+hidden_test_fi_2_sent38,Viipurin läänissä,195,212,ORG,Q1144791
+hidden_test_fi_2_sent38,Suomessa,224,232,LOC,Q62633
+hidden_test_fi_2_sent39,Viipurin,21,29,LOC,Q14657
+hidden_test_fi_2_sent41,Venäjällä,0,9,LOC,Q34266
+hidden_test_fi_2_sent42,Viipurin,20,28,LOC,Q14657
+hidden_test_fi_3_sent3,senaatinkanslisti Brynolf Jalasmaa,128,162,PER,NIL
+hidden_test_fi_3_sent3,va-ratuomarit Rob. Näkki,168,192,PER,NIL
+hidden_test_fi_3_sent3,Harry Nik-lander,194,210,PER,NIL
+hidden_test_fi_3_sent3,K. K. Järvinen,212,226,PER,NIL
+hidden_test_fi_3_sent3,Bror Carl-son,230,243,PER,NIL
+hidden_test_fi_3_sent5,Tuomarniemenmetsänvartijakoulun johtaja ArvidBorg,332,381,PER,Q24287904
+hidden_test_fi_3_sent5,metsänarvoste-lija S. U. Linko,434,464,PER,NIL
+hidden_test_fi_3_sent8,Suomen,0,6,LOC,Q33
+hidden_test_fi_3_sent8,Venäjän,42,49,LOC,Q159
+hidden_test_fi_3_sent8,eversti Ivan Timirjaseff,73,97,PER,NIL
+hidden_test_fi_3_sent8,liikemies Alek-sander Maximoff,99,129,PER,NIL
+hidden_test_fi_3_sent8,kahvilanomistaja Mikail Kreso,148,177,PER,NIL
+hidden_test_fi_3_sent8,leskirou-va Jekaterina Vtorova,179,209,PER,NIL
+hidden_test_fi_3_sent8,renki Vasili Ak-sionoff,211,234,PER,NIL
+hidden_test_fi_3_sent8,kauppa-apulainen Vasili Veden-skoff,236,271,PER,NIL
+hidden_test_fi_3_sent8,hotellihovimes-tari Konstantin Lis,291,325,PER,NIL
+hidden_test_fi_3_sent8,ulkotyöntekijä JulianLis,327,351,PER,NIL
+hidden_test_fi_3_sent8,palvelijatar Alina Jürgenson,353,381,PER,NIL
+hidden_test_fi_3_sent8,proku-risti Georg Heinrichsen,383,412,PER,NIL
+hidden_test_fi_3_sent8,insinöörinleskiHilda Shapiro,414,442,PER,NIL
+hidden_test_fi_3_sent8,räätäli Edvard Behrsin,444,466,PER,NIL
+hidden_test_fi_3_sent8,sekatyöntekijä Feodor Semenoff,467,497,PER,NIL
+hidden_test_fi_3_sent8,räätäliNikolai Knjaseff,499,522,PER,NIL
+hidden_test_fi_3_sent8,lakintekijä AleksanderKrjukoff,524,554,PER,NIL
+hidden_test_fi_3_sent8,kauppa-apulainen Dimitri Sho-lin,556,588,PER,NIL
+hidden_test_fi_3_sent8,kirjansitoja Johannes Arokas,590,618,PER,NIL
+hidden_test_fi_3_sent8,kaup-pa-apulainen August Karl Cederbaum,620,659,PER,NIL
+hidden_test_fi_3_sent8,vasuntekijä Dimitri Podshivaloff,660,692,PER,NIL
+hidden_test_fi_3_sent8,kaup-pias Aleksander Osokin,694,721,PER,NIL
+hidden_test_fi_3_sent8,maalari RichardAleksander Espo,723,753,PER,NIL
+hidden_test_fi_3_sent8,kauppa-apulainenAnastasia Rudska,755,787,PER,NIL
+hidden_test_fi_3_sent8,"kansakoulunopettaja-tar, leskirouva Hilja Maria Maleva (Am-sinoff)",789,855,PER,NIL
+hidden_test_fi_3_sent8,filos. kand. Jüri Tilki,857,880,PER,NIL
+hidden_test_fi_3_sent8,neiti MariaPolosuhin,882,902,PER,NIL
+hidden_test_fi_3_sent8,kaupanhoitaja Sergei Saha-roffsky,904,937,PER,NIL
+hidden_test_fi_3_sent8,keittiömestari Pavel Semenoff,939,968,PER,NIL
+hidden_test_fi_3_sent8,leskihovineuvoksetar Aleksandra Vasil-jeff,969,1011,PER,NIL
+hidden_test_fi_3_sent8,porsliinikaavailija Alexej Fogolki,1013,1047,PER,NIL
+hidden_test_fi_3_sent8,savenvalaja Petter Sokoloff,1048,1075,PER,NIL
+hidden_test_fi_3_sent8,pika-ajuriPetter Jegoroff,1077,1102,PER,NIL
+hidden_test_fi_3_sent8,työnjohtaja Adolf EdvardNandell,1104,1135,PER,NIL
+hidden_test_fi_3_sent8,kirjurinleski Maria Nesteroff,1137,1166,PER,NIL
+hidden_test_fi_3_sent8,kirkkoherra Mikael Mihailov,1167,1194,PER,NIL
+hidden_test_fi_3_sent8,kauppa-apulainen Olga Majkoff,1196,1225,PER,NIL
+hidden_test_fi_3_sent8,kauppa-apulai-nen Aleksandra Majkoff,1227,1263,PER,NIL
+hidden_test_fi_3_sent8,maanviljelijäIgnati Rytshkoff,1265,1294,PER,NIL
+hidden_test_fi_3_sent8,työmies Vasili Hohrja-koff,1296,1322,PER,NIL
+hidden_test_fi_3_sent8,agronoomi Nicolai Fabricius,1324,1351,PER,NIL
+hidden_test_fi_3_sent8,kaup-pias Carl Aleksander August Frantz,1353,1392,PER,NIL
+hidden_test_fi_3_sent8,les-kirouva Augusta Aurora Sergejeff,1394,1430,PER,NIL
+hidden_test_fi_3_sent8,kone-noulojatar Vera Antonoff,1432,1461,PER,NIL
+hidden_test_fi_3_sent8,"hierojatar, les-kirouva Maria Lovisa Tsheepanoff",1463,1511,PER,NIL
+hidden_test_fi_3_sent8,työn-johtaja Juho Merivaara (Prokoffjeff),1513,1554,PER,NIL
+hidden_test_fi_3_sent8,neitiElisabet Vilhelmina Waling,1556,1587,PER,NIL
+hidden_test_fi_3_sent8,lihakaup-pias Vilhelm Bielevsky,1589,1620,PER,NIL
+hidden_test_fi_3_sent8,lakit. yliopp. Eu-gen Gaideborov,1622,1654,PER,NIL
+hidden_test_fi_3_sent8,liikemies Constantin Va-gello,1656,1685,PER,NIL
+hidden_test_fi_3_sent8,maalari Emeljan Morshoff,1687,1711,PER,NIL
+hidden_test_fi_3_sent8,sorvariValentin Perkovsky,1713,1738,PER,NIL
+hidden_test_fi_3_sent8,konttoristi MikaelGustaf Winter,1740,1771,PER,NIL
+hidden_test_fi_3_sent8,entinen midshipsmanniVladimir Koreneff,1773,1811,PER,NIL
+hidden_test_fi_3_sent8,vääpelinleski MariaSpiridonoff,1813,1843,PER,NIL
+hidden_test_fi_3_sent8,kauppias Nikolai Tusikoff,1845,1870,PER,NIL
+hidden_test_fi_3_sent8,entinen aliupseeri Feodor Sofronoff,1871,1906,PER,NIL
+hidden_test_fi_3_sent8,opet-taja Josef Jaakkimainen,1908,1936,PER,NIL
+hidden_test_fi_3_sent8,ylioppilas Hlel-mi Sofia Jaakkimainen,1938,1975,PER,NIL
+hidden_test_fi_3_sent8,viilaaja PeterDomazinko,1977,2000,PER,NIL
+hidden_test_fi_3_sent8,kauppias Peter Vetushenki,2002,2027,PER,NIL
+hidden_test_fi_3_sent8,maalkauppias Dimitri Suhoff,2028,2055,PER,NIL
+hidden_test_fi_3_sent8,tilanomis-taja Mark Gorbovitsy,2057,2087,PER,NIL
+hidden_test_fi_3_sent8,ompelijatar Maria Jakovleff,2108,2135,PER,NIL
+hidden_test_fi_3_sent8,kauppiasPaavali Kosonen,2137,2160,PER,NIL
+hidden_test_fi_3_sent8,tarjoilija Karl JohanWessert,2162,2190,PER,NIL
+hidden_test_fi_3_sent8,metallityöntokijä Dimitri Po-rinskin,2192,2228,PER,NIL
+hidden_test_fi_3_sent8,palvelijatar Maria Heidemann,2230,2258,PER,NIL
+hidden_test_fi_3_sent8,taloudenhoitajatar Ljubov Balashoff,2259,2294,PER,NIL
+hidden_test_fi_3_sent8,maalarintyöntekijä Vasili Maltsoff,2295,2329,PER,NIL
+hidden_test_fi_3_sent8,talon-mies Vasili Basoff,2331,2355,PER,NIL
+hidden_test_fi_3_sent8,koneenkäyttäjä Se-men Alexangdroff,2357,2391,PER,NIL
+hidden_test_fi_3_sent8,etsivä Nikolai Zvetae-vi,2393,2417,PER,NIL
+hidden_test_fi_3_sent8,etsivä Georg Zvetaevi,2419,2440,PER,NIL
+hidden_test_fi_3_sent8,entinen säh-köttäjä Maria Marguloff,2442,2477,PER,NIL
+hidden_test_fi_3_sent8,palvelijatar Ma-ria Charlotte Berg,2479,2513,PER,NIL
+hidden_test_fi_3_sent8,kauppa-apulainenAleksei Povalihin,2515,2548,PER,NIL
+hidden_test_fi_3_sent8,kauppa-apulainen Eli-sabeth Povalihin,2550,2587,PER,NIL
+hidden_test_fi_3_sent8,lämmittää FransKrohn (Krimensky),2589,2621,PER,NIL
+hidden_test_fi_3_sent8,kirjakauppias Jo-kiforov,2623,2647,PER,NIL
+hidden_test_fi_3_sent8,kauppias Feodor Grigorjev,2649,2674,PER,NIL
+hidden_test_fi_3_sent8,Venäjän,2684,2691,LOC,Q159
+hidden_test_fi_3_sent9,Herman Pettay,7,20,PER,NIL
+hidden_test_fi_3_sent9,räätäh EvaldLukavitsh,22,43,PER,NIL
+hidden_test_fi_3_sent9,kollegineuvos Konstantin Ni-,45,73,PER,NIL
+hidden_test_fi_3_sent9,Suomen,95,101,LOC,Q33
+hidden_test_fi_3_sent9,Simo Kondratjeff,106,122,PER,NIL
+hidden_test_fi_3_sent9,Vasili Mitrofanoff,173,191,PER,NIL
+hidden_test_fi_3_sent9,kauppiaanleski Hulda,193,213,PER,NIL
+hidden_test_fi_3_sent10,Lehtovaara,0,10,PER,NIL
+hidden_test_fi_3_sent10,karamellttyöläinen AndrejPosiadlo,12,45,PER,NIL
+hidden_test_fi_3_sent10,työnjohtaja Ivan Jefimoff,47,72,PER,NIL
+hidden_test_fi_3_sent10,Aleksandra Komaroff,114,133,PER,NIL
+hidden_test_fi_3_sent10,taloudenhoitajatarMari Feodoroff,135,167,PER,NIL
+hidden_test_fi_3_sent10,kirjaltaja Alexei Ivanoff,169,194,PER,NIL
+hidden_test_fi_3_sent10,hierojatar Eleonora Berg,195,219,PER,NIL
+hidden_test_fi_3_sent10,leskirouva Je-katerina Marusin,221,251,PER,NIL
+hidden_test_fi_3_sent10,myyjätär Tatjana Si-kov,253,276,PER,NIL
+hidden_test_fi_3_sent10,herra Peter Sikov,278,295,PER,NIL
+hidden_test_fi_3_sent10,herra NikolaiSikov,297,315,PER,NIL
+hidden_test_fi_3_sent10,herra Boris Sikov,317,334,PER,NIL
+hidden_test_fi_3_sent10,rääläli AdolfRastenberger,336,361,PER,NIL
+hidden_test_fi_3_sent10,kauppa-apulainen DimitriRastenberger,363,399,PER,NIL
+hidden_test_fi_3_sent10,"talonomistaja, leskirouvaEva Sofie Rubzoff",401,443,PER,NIL
+hidden_test_fi_3_sent10,palvelijatar Ale-xandra Rubzoff,445,476,PER,NIL
+hidden_test_fi_3_sent10,insinööri Peter Iva-noff,478,502,PER,NIL
+hidden_test_fi_3_sent10,kauppias Nikolai Smirnoff,504,529,PER,NIL
+hidden_test_fi_3_sent10,modistiMaria Finogenoff,531,554,PER,NIL
+hidden_test_fi_3_sent10,talonomistaja AdamMalm,556,578,PER,NIL
+hidden_test_fi_3_sent10,kulkukauppias Aleksej Bogdanov,580,610,PER,NIL
+hidden_test_fi_3_sent11,liikkeenjohtaja Feodor Gavriloff,0,32,PER,NIL
+hidden_test_fi_3_sent11,kauppa-apulainen Dimitri Fedosejeff,34,69,PER,NIL
+hidden_test_fi_3_sent11,leskirouvaMaria Bjelusoff,71,96,PER,NIL
+hidden_test_fi_3_sent11,kauppa-apulainen VasiliMaligin,98,128,PER,NIL
+hidden_test_fi_3_sent11,neiti Natalia Maligin,130,151,PER,NIL
+hidden_test_fi_3_sent11,lihakaup-pias Artemi Hodareff,153,182,PER,NIL
+hidden_test_fi_3_sent11,suutari Vasili Adu-shkevitsh,184,212,PER,NIL
+hidden_test_fi_3_sent11,liikeapulainen Anastasia Adu-shkevitsh,214,252,PER,NIL
+hidden_test_fi_3_sent11,hatuntekijä Antonina Adu-shkevitsh,254,288,PER,NIL
+hidden_test_fi_3_sent12,Venäjän,0,7,LOC,Q159
+hidden_test_fi_3_sent12,liikemies Mordhai Gorell,43,67,PER,NIL
+hidden_test_fi_3_sent12,kauppa-maikustaja Mosos Rosenthal,69,102,PER,NIL
+hidden_test_fi_3_sent12,neifi Es-ter Rosenthal,104,126,PER,NIL
+hidden_test_fi_3_sent12,lakintekijä Isak MeijerVogel,128,156,PER,NIL
+hidden_test_fi_3_sent12,kauppias Ha-jim Leib Berman,176,203,PER,NIL
+hidden_test_fi_3_sent12,liikemies BenjaminKamtsan,205,230,PER,NIL
+hidden_test_fi_3_sent12,tehtailija Haim Idsik Sverdloff,232,263,PER,NIL
+hidden_test_fi_3_sent12,liikemies Salomon Rakovitsh,264,291,PER,NIL
+hidden_test_fi_3_sent13,Ruotsin,0,7,LOC,Q34
+hidden_test_fi_3_sent13,työmies Karl Jo-han Jysky,19,44,PER,NIL
+hidden_test_fi_3_sent13,kasööri Johan Röing:,48,68,PER,NIL
+hidden_test_fi_3_sent13,Saksan,71,77,LOC,Q43287
+hidden_test_fi_3_sent13,kaivertaja KarlStein,89,109,PER,NIL
+hidden_test_fi_3_sent14,sahatyömies Otto VilhelmHyvärinen,48,81,PER,NIL
+hidden_test_fi_3_sent15,Pehjois-Suomessa,24,40,LOC,Q3745730
+hidden_test_fi_3_sent15,metsänhoitaja V.Roschier,52,76,PER,NIL
+hidden_test_fi_3_sent15,Kuolajär-ven,96,108,LOC,Q936067
+hidden_test_fi_3_sent15,Kuusamon,112,120,LOC,Q207999
+hidden_test_fi_3_sent18,E. Köhle-rille,95,109,PER,NIL
+hidden_test_fi_3_sent18,G. Örnille,111,121,PER,NIL
+hidden_test_fi_3_sent18,A. Veledejeffille,123,140,PER,NIL
+hidden_test_fi_3_sent18,A.Anderssonille,142,157,PER,NIL
+hidden_test_fi_3_sent18,A. Palmenille,161,174,PER,NIL
+hidden_test_fi_3_sent18,J. A. Vuoriselle,194,210,PER,NIL
+hidden_test_fi_3_sent18,T.Mäelle,214,222,PER,NIL
+hidden_test_fi_3_sent18,P. Ryy-näselle,244,258,PER,NIL
+hidden_test_fi_3_sent18,J. Markkaselle,266,280,PER,NIL
+hidden_test_fi_3_sent19,C. Vikman̄ille,2,16,PER,NIL
+hidden_test_fi_3_sent19,T. V.Dammertille,28,44,PER,NIL
+hidden_test_fi_3_sent20,Muolan,0,6,LOC,Q18681709
+hidden_test_fi_3_sent21,lääket. kand. P. J. Karppinen̄,57,87,PER,NIL
+hidden_test_fi_3_sent21,Karttulan̄ kunnan,90,107,LOC,Q1734675
+hidden_test_fi_3_sent21,eläinlääkäri T. P. Harald,132,157,PER,NIL
+hidden_test_fi_3_sent25,Suomen,92,98,LOC,Q33
+hidden_test_fi_3_sent25,Venäjän,102,109,LOC,Q159
+hidden_test_fi_3_sent25,liikennetarkastaja J. V. Nyholm,326,357,PER,NIL
+hidden_test_fi_3_sent25,v.t. liikennetarkastajaF. Enkvist,374,407,PER,NIL
+hidden_test_fi_3_sent25,ensimäinen kirjuri A. E.Anttonen,409,441,PER,NIL
+hidden_test_fi_3_sent25,insin̄ööri M. Fran̄zell,445,468,PER,NIL
+hidden_test_fi_3_sent26,Venäjälle,248,257,LOC,Q159
+hidden_test_fi_3_sent27,Suomesta,19,27,LOC,Q33
+hidden_test_fi_3_sent27,Pietariin,36,45,LOC,Q656
+hidden_test_fi_3_sent28,VenäjältäSuomeen,30,46,LOC,Q33
+hidden_test_fi_3_sent28,Ber-nin,81,88,LOC,Q70
+hidden_test_fi_3_sent29,Helsingin luotsipiirissä,33,57,ORG,NIL
+hidden_test_fi_3_sent30,Vaasan lääninvankilan,44,65,ORG,Q18662700
+hidden_test_fi_3_sent30,Helsingin kuritushuo-neen v.t. johtaja J. K. Tuominen,130,183,PER,NIL
+hidden_test_fi_3_sent30,Hämeenlinnan kuritushuoneen ja työvan-kilan kirjanpitäjä E. A. Pesonen,185,255,PER,NIL
+hidden_test_fi_3_sent30,kruu-nunnimismies Br. Rosenbröijer,259,293,PER,NIL
+hidden_test_fi_3_sent30,Uudenmaanläänin,320,335,LOC,Q1372937
+hidden_test_fi_3_sent30,Porvoonmakkaiskunnan kunnanlääkärin A. Guli-nin Porvoon maalaiskunnan,360,429,LOC,Q3432834
+hidden_test_fi_3_sent30,Porvoon työväenyh-distyksen,463,490,ORG,NIL
+hidden_test_fi_3_sent31,Nurmijärven kunnanvaltuuston,69,97,ORG,NIL
+hidden_test_fi_3_sent31,Nurmijärven kun-nassa,128,149,LOC,Q597156
+hidden_test_fi_3_sent32,Metsän̄omistajain KeskinäisenMetsäpaloapuyhdistyksen,2,54,ORG,NIL
+hidden_test_fi_3_sent32,nuorempi maanmittariL. A. Tenho,112,143,PER,NIL
+hidden_test_fi_4_sent0,J. Gripenbergin,57,72,PER,NIL
+hidden_test_fi_4_sent0,maanviljelysneuvok-setar Helena Hergbomiltal,99,143,PER,NIL
+hidden_test_fi_4_sent0,F. M. Franzenilta,212,229,PER,Q333297
+hidden_test_fi_4_sent0,Charlotta Franzenilta,234,255,PER,NIL
+hidden_test_fi_4_sent0,J. F. Valle-niukselta,264,285,PER,NIL
+hidden_test_fi_4_sent0,F. M. Franzenilta,289,306,PER,Q333297
+hidden_test_fi_4_sent0,vuorineuvoksetar Emilia Julinin,324,355,PER,NIL
+hidden_test_fi_4_sent0,Oulun läänin,405,417,LOC,Q202112
+hidden_test_fi_4_sent0,Oulun lääniin,471,484,LOC,Q202112
+hidden_test_fi_4_sent0,Franzenin suvusta,508,525,PER,NIL
+hidden_test_fi_4_sent0,Frosterukaen suvusta,555,575,PER,NIL
+hidden_test_fi_4_sent0,Kemin,608,613,LOC,Q203619
+hidden_test_fi_4_sent0,Rovaniemen,615,625,LOC,Q103717
+hidden_test_fi_4_sent0,Kemijärven pitäjissä,628,648,LOC,Q744704
+hidden_test_fi_4_sent1,K. H. Tuiskunen,59,74,PER,NIL
+hidden_test_fi_4_sent1,O. R. Sjöberg,77,90,PER,NIL
+hidden_test_fi_4_sent1,Tuiskusen,102,111,PER,NIL
+hidden_test_fi_4_sent1,Hollolan pi-täjän Miekkilän maalta,189,223,LOC,NIL
+hidden_test_fi_4_sent1,Asikkalan pi-täjän Yrjälän metsästä,227,262,LOC,NIL
+hidden_test_fi_4_sent1,JalkarannanJaakkolan metsästä,266,295,LOC,NIL
+hidden_test_fi_4_sent1,Nakkolan Alastalonmetsästä,299,325,LOC,NIL
+hidden_test_fi_4_sent1,Nakkolan Hannulan met-sästä,331,358,LOC,NIL
+hidden_test_fi_4_sent1,Sjöberg,360,367,PER,NIL
+hidden_test_fi_4_sent1,Raippaluodolta Halm-backenilta Wallgrundin ylikylästä,372,425,LOC,NIL
+hidden_test_fi_4_sent2,Yhdistyksen stipendiaateilta S. Paula-harjulta,0,46,PER,Q6037597
+hidden_test_fi_4_sent2,M. Tuokolta,50,61,PER,NIL
+hidden_test_fi_4_sent2,Aunnuksen,115,124,LOC,Q49583
+hidden_test_fi_4_sent2,Onta-reen kylään,148,164,LOC,NIL
+hidden_test_fi_4_sent2,Maanse-länkylään,185,201,LOC,NIL
+hidden_test_fi_4_sent4,Jaalan kirkkoherran F. V. Holmingilta,0,37,PER,NIL
+hidden_test_fi_4_sent4,Jaalan,50,56,LOC,Q1011082
+hidden_test_fi_4_sent5,SchweizerischenLandesmuseum,62,89,ORG,Q691896
+hidden_test_fi_4_sent8,tohtori Ilmari Krohn,45,65,PER,Q1253064
+hidden_test_fi_4_sent8,maisteritArthur Leinberg,67,91,PER,NIL
+hidden_test_fi_4_sent8,Yrjö Jansson,93,105,PER,NIL
+hidden_test_fi_4_sent8,Uno Si-relius,107,120,PER,NIL
+hidden_test_fi_4_sent8,Invald Sourander,122,138,PER,NIL
+hidden_test_fi_4_sent8,Arvid Göös,142,152,PER,NIL
+hidden_test_fi_4_sent9,Professori J. J. Tikkanen,0,25,PER,Q6210955
+hidden_test_fi_4_sent13,Ruotsalaisella kirjalli-suusseuralla,2,38,ORG,NIL
+hidden_test_fi_4_sent15,Prof. C. v. Bonsdorff,117,138,PER,Q5581962
+hidden_test_fi_4_sent15,taitellija Th. Vaenerberg,163,188,PER,NIL
+hidden_test_fi_4_sent15,Ru-neberg,193,202,PER,Q215339
+hidden_test_fi_4_sent15,Holland,217,224,LOC,Q55
+hidden_test_fi_4_sent15,C. Honigh,226,235,PER,NIL
+hidden_test_fi_4_sent15,valtionarkkivario R. Hausen,237,264,PER,NIL
+hidden_test_fi_4_sent15,auditör Ekmans,281,295,PER,NIL
+hidden_test_fi_4_sent15,rehtori M. Brenner,304,322,PER,Q4096302
+hidden_test_fi_4_sent15,Fin-land,374,382,LOC,Q62633
+hidden_test_fi_4_sent15,Finland,404,411,LOC,Q62633
+hidden_test_fi_4_sent15,vapahra Magnus Stackelberg,413,439,PER,NIL
+hidden_test_fi_4_sent15,Ra-pattilagärd,476,490,LOC,NIL
+hidden_test_fi_4_sent15,Viborgs socken,493,507,LOC,Q3433707
+hidden_test_fi_4_sent16,Runeberg,7,15,PER,Q215339
+hidden_test_fi_4_sent16,rva M.Kiseleffin,30,46,PER,NIL
+hidden_test_fi_4_sent16,Rune-bergin,71,82,PER,Q215339
+hidden_test_fi_4_sent16,taiteilija Th. Vaenerberg,132,157,PER,NIL
+hidden_test_fi_4_sent16,hollantilaisessa aikakauskirjassa DeGids,163,203,PROD,Q1816042
+hidden_test_fi_4_sent16,C. Honighin,246,257,PER,NIL
+hidden_test_fi_4_sent16,J. L. Ru-nebergistä,270,289,PER,Q215339
+hidden_test_fi_4_sent16,lehtori F. V. Inberg,291,311,PER,NIL
+hidden_test_fi_4_sent16,Runebergin,338,348,PER,Q215339
+hidden_test_fi_4_sent16,Ottovon Nordenskjöldin,359,381,PER,NIL
+hidden_test_fi_4_sent16,Runebergin,409,419,PER,Q215339
+hidden_test_fi_4_sent16,toh-torinna Juslin rva Fredrika Runebergin,437,479,PER,Q465687
+hidden_test_fi_4_sent17,Valtionarkkivario Hausen,0,24,PER,NIL
+hidden_test_fi_4_sent17,Tukholman kusinkaallisessa kirjastossa,33,71,ORG,Q953058
+hidden_test_fi_4_sent17,kapt. E. G. Henschenin,80,102,PER,NIL
+hidden_test_fi_4_sent17,Fin-lande,146,155,LOC,Q33
+hidden_test_fi_4_sent18,Pariisin,21,29,LOC,Q90
+hidden_test_fi_4_sent18,professori A. Donnerin,43,65,PER,NIL
+hidden_test_fi_4_sent18,Pa-riisin kansalliskirjastoon,151,180,ORG,Q193563
+hidden_test_fi_4_sent20,Helsingissä,29,40,LOC,Q1757
+hidden_test_fi_4_sent20,Turussa,42,49,LOC,Q38511
+hidden_test_fi_4_sent20,Tampereella,51,62,LOC,Q40840
+hidden_test_fi_4_sent20,Viipurissa,65,75,LOC,Q14657
+hidden_test_fi_5_sent1,Herra Kanniston,0,15,PER,Q1101841
+hidden_test_fi_5_sent3,Englannin,0,9,LOC,Q21
+hidden_test_fi_5_sent4,Englannis-sa,80,92,LOC,Q21
+hidden_test_fi_5_sent4,Vlakfonteinin,120,133,LOC,Q7939001
+hidden_test_fi_5_sent4,Englannin,231,240,LOC,Q21
+hidden_test_fi_5_sent4,Jobin,350,355,PER,Q179962
+hidden_test_fi_5_sent4,Buueriken-raalien Kempin,402,426,PER,Q3161690
+hidden_test_fi_5_sent4,Kruitzingerin,430,443,PER,Q7192784
+hidden_test_fi_5_sent4,Kap-maassa,469,479,LOC,Q370736
+hidden_test_fi_5_sent4,kenraali French,536,551,PER,Q335059
+hidden_test_fi_5_sent4,Kapmaas-sa,595,605,LOC,Q370736
+hidden_test_fi_5_sent4,Johannesburgin,663,677,LOC,Q34647
+hidden_test_fi_5_sent4,Englannin,709,718,LOC,Q21
+hidden_test_fi_6_sent1,kapteeni Ruthin,37,52,PER,Q6084483
+hidden_test_fi_6_sent1,kapteeni Ruthin,262,277,PER,Q6084483
+hidden_test_fi_6_sent1,Suomen,311,317,LOC,Q62633
+hidden_test_fi_6_sent2,kapteeni Ruth,30,43,PER,Q6084483
+hidden_test_fi_6_sent2,kapteeniRuth,88,100,PER,Q6084483
+hidden_test_fi_6_sent3,kapteeni Ruthin,67,82,PER,Q6084483
+hidden_test_fi_6_sent4,Wilhelm Wendelin,0,16,PER,NIL
+hidden_test_fi_6_sent5,Juho Lehtinen,0,13,PER,NIL
+hidden_test_fi_6_sent6,Asiamies Castrén,0,16,PER,Q5604855
+hidden_test_fi_6_sent7,Asiamies Karsten,0,16,PER,NIL
+hidden_test_fi_6_sent7,Hufvud-stadsbladetissa,129,151,PROD,Q613979
+hidden_test_fi_6_sent7,kap-teeni Ruthin,451,467,PER,Q6084483
+hidden_test_fi_6_sent8,Kapt. Ruthin,183,195,PER,Q6084483
+hidden_test_fi_6_sent9,Rouwa Aino Ackté=Renwal=lin Tosca,0,33,PER,Q64005751
+hidden_test_fi_6_sent9,Scarpian,206,214,PER,Q64005719
+hidden_test_fi_6_sent9,rwa Acktén,287,297,PER,Q259161
+hidden_test_fi_6_sent9,Ca=waradossin,386,399,PER,Q64005951
+hidden_test_fi_6_sent9,rouwa Acktélla,552,566,PER,Q259161
+hidden_test_fi_6_sent9,rouwa Acktén,662,674,PER,Q259161
+hidden_test_fi_6_sent10,Nti Signe Liljeqwistin,0,22,PER,Q4962176
+hidden_test_fi_6_sent10,neitiL.,134,141,PER,Q4962176
+hidden_test_fi_6_sent12,Puccinin,0,8,PER,Q7311
+hidden_test_fi_6_sent13,O. M.,0,5,PER,NIL
+hidden_test_fi_6_sent13,Kansallisteatterissa,7,27,LOC,Q1200969
+hidden_test_fi_7_sent2,Kol=pinjoen,36,47,LOC,NIL
+hidden_test_fi_7_sent2,her=rojen Sposabin=Koltinin tehdas,75,109,ORG,NIL
+hidden_test_fi_7_sent2,Eräs talonpojista Uhlow,332,355,PER,NIL
+hidden_test_fi_7_sent2,Uhlow,544,549,PER,NIL
+hidden_test_fi_7_sent2,Sposobinta,703,713,PER,NIL
+hidden_test_fi_7_sent2,Koltinia,717,725,PER,NIL
+hidden_test_fi_7_sent4,Uhlow,21,26,PER,NIL
+hidden_test_fi_7_sent5,Uhlow,94,99,PER,NIL
+hidden_test_fi_7_sent6,Tschernikowin,20,33,LOC,NIL
+hidden_test_fi_7_sent9,Soljkow,13,20,PER,NIL
+hidden_test_fi_7_sent12,Ongista,0,7,LOC,NIL
+hidden_test_fi_7_sent14,Ottawista,0,9,LOC,Q1930
+hidden_test_fi_7_sent14,Ka=nadan hallitus,26,43,ORG,NIL
+hidden_test_fi_7_sent14,Lontooseen,70,80,LOC,Q84
+hidden_test_fi_7_sent14,Sahalinille,239,250,LOC,Q7792
+hidden_test_fi_7_sent15,Witte,0,5,PER,NIL
+hidden_test_fi_7_sent16,Parisista,0,9,LOC,Q90
+hidden_test_fi_7_sent16,Witte,27,32,PER,NIL
+hidden_test_fi_7_sent16,Parisiin,46,54,LOC,Q90
+hidden_test_fi_7_sent17,Nebogatow,0,9,PER,Q967806
+hidden_test_fi_7_sent18,Tokiosta,0,8,LOC,Q1490
+hidden_test_fi_7_sent19,Amiraali Nebogatow,0,18,PER,Q967806
+hidden_test_fi_7_sent19,kapteenitSmirnow,24,40,PER,NIL
+hidden_test_fi_7_sent19,Grigoriew,42,51,PER,NIL
+hidden_test_fi_7_sent19,Lishin,53,59,PER,NIL
+hidden_test_fi_7_sent21,Roshestwenskin,0,14,PER,Q453702
+hidden_test_fi_7_sent22,Tokiosta,0,8,LOC,Q1490
+hidden_test_fi_7_sent23,Amiraali Roshestwenski,0,22,PER,Q453702
+hidden_test_fi_7_sent23,Fushimassa,78,88,LOC,NIL
+hidden_test_fi_7_sent25,Tokiosta,0,8,LOC,Q1490
+hidden_test_fi_7_sent26,komentaja Boisman,13,30,PER,NIL
+hidden_test_fi_7_sent26,Matsujamassa,41,53,LOC,Q200022
+hidden_test_fi_7_sent29,Saksan,2,8,LOC,Q43287
+hidden_test_fi_7_sent29,Saksan,42,48,LOC,Q43287
+hidden_test_fi_7_sent29,Jenassa,85,92,LOC,Q32063050
+hidden_test_fi_7_sent30,Ellen=bogen,64,75,PER,NIL
+hidden_test_fi_7_sent30,Itäwalta,77,85,LOC,Q28513
+hidden_test_fi_7_sent30,Askew,88,93,PER,NIL
+hidden_test_fi_7_sent30,Englanti,95,103,LOC,Q21
+hidden_test_fi_7_sent30,Mendel,105,111,PER,NIL
+hidden_test_fi_7_sent30,Hollanti,113,121,LOC,Q55
+hidden_test_fi_7_sent30,Johann,126,132,PER,NIL
+hidden_test_fi_7_sent30,We=näjä,134,141,LOC,Q34266
+hidden_test_fi_7_sent31,Wollmar,0,7,PER,NIL
+hidden_test_fi_7_sent31,Vaijerin,121,129,LOC,Q154195
+hidden_test_fi_7_sent31,Württem=bergin,133,147,LOC,NIL
+hidden_test_fi_7_sent31,Wollmar,235,242,PER,NIL
+hidden_test_fi_7_sent32,Molkenbuhr,0,10,PER,NIL
+hidden_test_fi_7_sent32,Junkkeripuo=lue,128,143,ORG,NIL
+hidden_test_fi_7_sent33,Gerisch,0,7,PER,NIL
+hidden_test_fi_7_sent33,Saksan,53,59,LOC,Q43287
+hidden_test_fi_7_sent34,Englannin,2,11,LOC,Q21
+hidden_test_fi_7_sent36,Pohjois=Belfastin,0,17,LOC,NIL
+hidden_test_fi_7_sent37,Marokon,2,9,LOC,Q1028
+hidden_test_fi_7_sent37,Saksan,57,63,LOC,Q43287
+hidden_test_fi_7_sent37,Ranskan,66,73,LOC,Q70802
+hidden_test_fi_7_sent37,Rosen,88,93,PER,NIL
+hidden_test_fi_7_sent37,Rewoil,96,102,PER,NIL
+hidden_test_fi_7_sent37,Marokon,138,145,LOC,Q1028
+hidden_test_fi_7_sent37,TohtoriRosen,194,206,PER,NIL
+hidden_test_fi_7_sent38,Ranskassa,130,139,LOC,Q70802
+hidden_test_fi_7_sent38,Saksan,172,178,LOC,Q43287
+hidden_test_fi_7_sent39,Marokon,55,62,LOC,Q1028
+hidden_test_fi_7_sent39,Harry Maclean,112,125,PER,NIL
+hidden_test_fi_7_sent40,Marokon,33,40,LOC,Q1028
+hidden_test_fi_7_sent42,Saksan Etelä-Afrika,2,21,LOC,Q153665
+hidden_test_fi_7_sent42,Saksa,23,28,LOC,Q43287
+hidden_test_fi_7_sent42,kuwernööri Lindeqwistin,143,166,PER,Q106081
+hidden_test_fi_7_sent42,Morengan,215,223,PER,Q315748
+hidden_test_fi_7_sent42,Wit=boista,244,254,PER,Q705564
+hidden_test_fi_7_sent42,ent. kuwernööri Leutwein,403,427,PER,Q68882
+hidden_test_fi_7_sent43,Saksalla,127,135,LOC,Q43287
+hidden_test_fi_7_sent43,Majuri Meister,244,258,PER,NIL
+hidden_test_fi_8_sent0,T. S.,312,317,PROD,Q2616090
+hidden_test_fi_8_sent1,Ilmajoella,0,10,LOC,Q5985
+hidden_test_fi_8_sent1,Aamul.,404,410,PROD,Q301000
+hidden_test_fi_8_sent1,Lappeenrannassa,433,448,LOC,Q181854
+hidden_test_fi_8_sent2,Halkosaareen,154,166,LOC,NIL
+hidden_test_fi_8_sent4,Raittiusseura Yritys 2:n,0,24,ORG,NIL
+hidden_test_fi_8_sent4,Tyysterniemellä,37,52,LOC,NIL
+hidden_test_fi_8_sent4,T. W. Y:n,162,171,ORG,NIL
+hidden_test_fi_8_sent7,monttööri G. Lindström,4,26,PER,NIL
+hidden_test_fi_8_sent7,Siiwolahden,73,84,LOC,NIL
+hidden_test_fi_8_sent7,kaupp. I. Wolkof=fin,136,156,PER,NIL
+hidden_test_fi_8_sent7,Hra L:n,251,258,PER,NIL
+hidden_test_fi_8_sent7,hra L:n,386,393,PER,NIL
+hidden_test_fi_8_sent7,hra L.,457,463,PER,NIL
+hidden_test_fi_8_sent8,Pu=dasjärwen Jongun kylässä,23,50,LOC,Q11866880
+hidden_test_fi_8_sent8,Louhen,409,415,PROD,Q11876276
+hidden_test_fi_8_sent9,Suomessa,31,39,LOC,Q62633
+hidden_test_fi_8_sent9,Hai=luoto,51,60,LOC,Q1569280
+hidden_test_fi_8_sent9,Oulun,311,316,LOC,Q47048
+hidden_test_fi_8_sent9,Louhi,330,335,PROD,Q11876276
+hidden_test_fi_8_sent10,Ruotsissa,31,40,LOC,Q34
+hidden_test_fi_8_sent10,Ruotsin,42,49,LOC,Q34
+hidden_test_fi_8_sent11,Olawin kylpylaitoksessa,26,49,ORG,NIL
+hidden_test_fi_8_sent11,"Felser, ihmelapsi soittimensa kä=sittelyssä",155,198,PER,NIL
+hidden_test_fi_8_sent11,laulajatar ElliWeckman,217,239,PER,NIL
+hidden_test_fi_8_sent11,neiti Aström,243,255,PER,NIL
+hidden_test_fi_8_sent11,August Blanchen,287,302,PER,Q764239
+hidden_test_fi_8_sent12,MrSampbell,31,41,PER,NIL
+hidden_test_fi_9_sent0,Ruhtinas Bülowin,0,16,PER,NIL
+hidden_test_fi_9_sent0,Bü=lowille,451,461,PER,NIL
+hidden_test_fi_9_sent0,Bülowia,808,815,PER,NIL
+hidden_test_fi_9_sent1,Bülowilla,18,27,PER,NIL
+hidden_test_fi_9_sent1,Potsda=mista Berliniin,204,226,LOC,Q64
+hidden_test_fi_9_sent1,Berlinin ku=ninkaallisessa linnassa,344,379,LOC,NIL
+hidden_test_fi_9_sent1,keisariWilhelm,419,433,PER,Q2677
+hidden_test_fi_9_sent1,Saksan,466,472,LOC,Q43287
+hidden_test_fi_9_sent3,Saksan,61,67,LOC,Q43287
+hidden_test_fi_10_sent0,edustajaL. Ingmanin,51,70,PER,Q440166
+hidden_test_fi_10_sent0,edustaja S. Alkion,98,116,PER,Q2319774
+hidden_test_fi_10_sent3,Suomessa,19,27,LOC,Q33
+hidden_test_fi_10_sent13,Wenäjällä,15,24,LOC,Q159
+hidden_test_fi_10_sent15,Suomen,287,293,LOC,Q33
+hidden_test_fi_11_sent1,Jumalan,82,89,PER,Q825
+hidden_test_fi_12_sent0,Mer=kurius,409,419,LOC,Q308
+hidden_test_fi_12_sent0,Venus,421,426,LOC,Q313
+hidden_test_fi_12_sent0,Maa,428,431,LOC,Q2
+hidden_test_fi_12_sent0,Mars,435,439,LOC,Q111
+hidden_test_fi_12_sent0,Jupiter,495,502,LOC,Q319
+hidden_test_fi_12_sent0,Saturnus,504,512,LOC,Q193
+hidden_test_fi_12_sent0,Uranus,514,520,LOC,Q324
+hidden_test_fi_12_sent0,Neptunus,523,531,LOC,Q332
+hidden_test_fi_12_sent0,Marsin,567,573,LOC,Q111
+hidden_test_fi_12_sent0,Jupiterin,577,586,LOC,Q319
+hidden_test_fi_12_sent0,Merku=rius,624,634,LOC,Q308
+hidden_test_fi_12_sent0,Neptunus,718,726,LOC,Q332
+hidden_test_fi_12_sent1,Lewerrier,104,113,PER,Q104154
+hidden_test_fi_13_sent0,Bergen kaupungissa Norjassa,525,552,LOC,Q20
+hidden_test_fi_13_sent0,Suomen,606,612,LOC,Q62633
+hidden_test_fi_13_sent1,Ruotsin,2,9,LOC,Q34
+hidden_test_fi_13_sent1,Malmössä,48,56,LOC,Q2211
+hidden_test_fi_14_sent0,Säkylästä,0,9,LOC,Q780914
+hidden_test_fi_14_sent1,I. F. S.Taiwassalosta,0,21,LOC,Q807904
+hidden_test_fi_14_sent1,Koi-wiston kylän,759,775,LOC,NIL
+hidden_test_fi_17_sent0,Jumalan,70,77,PER,Q825
+hidden_test_fi_17_sent0,Jumalan Pyhältä Hengeltä,122,146,PER,Q825
+hidden_test_fi_17_sent0,Jumala,228,234,PER,Q825
+hidden_test_fi_18_sent0,Jumalan,50,57,PER,Q825
+hidden_test_fi_19_sent0,Jumala kaikkiwaltias,11,31,PER,Q825
+hidden_test_fi_19_sent4,C. M. W—dén,0,11,PER,NIL
+hidden_test_fi_19_sent6,Wiipurin läänissä,1123,1140,LOC,Q1144791
+hidden_test_fi_19_sent6,Mikke=lin lääniä,1158,1174,LOC,Q1200972
+hidden_test_fi_19_sent6,Wiipurin entiseenkuwernementtiin,1200,1232,LOC,Q440068
+hidden_test_fi_19_sent7,Lappeen,218,225,LOC,Q3434042
+hidden_test_fi_19_sent7,Joutsenon pitäjissä,229,248,LOC,Q829851
+hidden_test_fi_19_sent7,Ruo=kolahden naapuripitäjässä,296,325,LOC,Q1009622
+hidden_test_fi_19_sent8,Wiipurissa,13,23,LOC,Q14657
+hidden_test_fi_19_sent8,WiipuristaHelsinkiin,138,158,LOC,Q1757
+hidden_test_fi_20_sent0,Yläjärwestä Pyhäjärwen pitäjässä,2,34,LOC,Q4514438
+hidden_test_fi_20_sent0,Lapuan joen,130,141,LOC,Q1351274
+hidden_test_fi_20_sent0,Waasan lääniä,369,382,LOC,Q1337549
+hidden_test_fi_20_sent0,Oulunkin,558,566,LOC,Q47048
+hidden_test_fi_20_sent1,O. W. S.,1,9,PROD,Q18661135
+hidden_test_fi_20_sent1,Saarijärweltä,12,25,LOC,Q984858
+hidden_test_fi_20_sent1,Lähettäjä J.W:nen,41,58,PER,NIL
+hidden_test_fi_20_sent4,Kikeeltä,3,11,LOC,Q491603
+hidden_test_fi_20_sent6,Suometarta,264,274,PROD,Q21483135
+hidden_test_fi_20_sent6,S:ren,354,359,PROD,Q21483135
+hidden_test_fi_21_sent0,Alastaron pitäjässä,5,24,LOC,Q206601
+hidden_test_fi_21_sent0,talolliset Kalle Jussilan,37,62,PER,NIL
+hidden_test_fi_21_sent0,Kalle Tätilän,66,79,PER,NIL
+hidden_test_fi_21_sent0,Jus-silan talossa Tammiaisten kylässä,698,735,LOC,NIL
+hidden_test_fi_21_sent3,Alastaron pi-täjän,25,43,LOC,Q206601
+hidden_test_fi_21_sent3,Suomenkin,243,252,LOC,Q62633
+hidden_test_fi_21_sent3,Dawidin,373,380,PER,Q41370
+hidden_test_fi_21_sent3,Ju-malamme,427,437,PER,Q825
+hidden_test_fi_21_sent3,Jumala,489,495,PER,Q825
+hidden_test_fi_21_sent3,Alastarolta,595,606,LOC,Q206601
+hidden_test_fi_21_sent3,"I. Brusila,entinen waltiopäiwämies",640,674,PER,NIL
+hidden_test_fi_21_sent4,Ruskealanpappilaan,22,40,LOC,NIL
+hidden_test_fi_21_sent6,Käkisal-meen,71,83,LOC,Q7977
+hidden_test_fi_21_sent6,Suomen,215,221,LOC,Q62633
+hidden_test_fi_21_sent7,Saima dosentti,0,14,PER,NIL
+hidden_test_fi_21_sent7,Kurkijoelle,187,198,LOC,Q15839066
+hidden_test_fi_21_sent7,Beth-lehemiksi,354,368,LOC,Q29376012
+hidden_test_fi_21_sent7,Suomen,376,382,LOC,Q62633
+hidden_test_fi_21_sent7,Kurkijoelta,455,466,LOC,Q15839066
+hidden_test_fi_21_sent7,Itä-Karjalan pulskaan pääkaupunkiinSortawalaan,480,526,LOC,Q196397
+hidden_test_fi_21_sent7,Laatokka nimisen lehden,644,667,PROD,Q18680151
+hidden_test_fi_21_sent7,Suomessa,843,851,LOC,Q62633
+hidden_test_fi_21_sent7,Suomettarella,958,971,PROD,NIL
+hidden_test_fi_21_sent7,Auralla,975,982,PROD,NIL
+hidden_test_fi_21_sent7,Laatokka lehden,1136,1151,PROD,Q18680151
+hidden_test_fi_21_sent7,Sortawalan se-minarin,1183,1204,ORG,Q56400432
+hidden_test_fi_22_sent0,Weh=maan kihlakunnassa,67,89,LOC,Q10713929
+hidden_test_fi_22_sent0,Kustaawin pit.,138,152,LOC,Q807900
+hidden_test_fi_22_sent0,Welku=an,154,162,LOC,NIL
+hidden_test_fi_22_sent0,Iniön kapp,166,176,ORG,NIL
+hidden_test_fi_22_sent0,Tai=wassalon pit.,198,215,LOC,Q807904
+hidden_test_fi_22_sent1,Wehmaan pit.,0,12,LOC,Q807905
+hidden_test_fi_22_sent1,Lokalahden kapp.,28,44,ORG,NIL
+hidden_test_fi_22_sent1,Uudenkaupungin maaseurak.,47,72,ORG,NIL
+hidden_test_fi_22_sent1,Uudenkirkon pit.,95,111,LOC,Q3366114
+hidden_test_fi_22_sent2,Pyhämaan pit.,0,13,LOC,NIL
+hidden_test_fi_22_sent3,Laitilan pit.,0,13,LOC,Q807901
+hidden_test_fi_22_sent3,RäätäliKaarle Henrik Lundahn,39,67,PER,NIL
+hidden_test_fi_22_sent3,K. H. Lundahn,114,127,ORG,NIL
+hidden_test_fi_22_sent4,Maarianhaminasta,88,104,LOC,Q48329
+hidden_test_fi_22_sent4,Tu=rusta,162,170,LOC,Q38511
+hidden_test_fi_22_sent4,Ahwenanmeressä,236,250,LOC,Q271043
+hidden_test_fi_22_sent7,Wätin,57,62,LOC,Q3926509
+hidden_test_fi_22_sent7,Anningaistentullissa leipoja F. H. Henrikssonin,72,119,PER,NIL
+hidden_test_fi_22_sent9,Huittis=ten torwisoittokunnalle,66,97,ORG,NIL
+hidden_test_fi_22_sent9,Huittisten pitä=jässä,149,170,LOC,Q165285
+hidden_test_fi_22_sent10,Turun kaupunkilähe=tyksen,0,25,ORG,NIL
+hidden_test_fi_22_sent12,Linnankentällä,101,115,LOC,NIL
+hidden_test_fi_22_sent12,Rau=nistulassa,135,149,LOC,Q3926797
+hidden_test_fi_23_sent0,Wjetsh. Wr.,7,18,PROD,NIL
+hidden_test_fi_23_sent0,National Tiden=delle,20,40,PROD,Q10594813
+hidden_test_fi_23_sent0,kenraali Hindenburg,88,107,PER,Q2667
+hidden_test_fi_23_sent5,Hampurin kaupunki,0,17,LOC,Q1055
+hidden_test_fi_23_sent5,Ruotsille,32,41,LOC,Q34
+hidden_test_fi_23_sent6,Köpenhaminasta,0,14,LOC,Q1748
+hidden_test_fi_23_sent7,Wjetsh. Wr.,7,18,PROD,NIL
+hidden_test_fi_23_sent7,Hampurin kau=punki,20,38,LOC,Q1055
+hidden_test_fi_23_sent7,Ruotsille,55,64,LOC,Q34
+hidden_test_fi_23_sent7,Saksan,74,80,LOC,Q183
+hidden_test_fi_23_sent7,Ruotsin,215,222,LOC,Q34
+hidden_test_fi_23_sent7,Ruot=sin hallitusta,322,341,ORG,Q930729
+hidden_test_fi_23_sent10,Times,62,67,PROD,Q50008
+hidden_test_fi_23_sent11,Lontoosta,0,9,LOC,Q84
+hidden_test_fi_23_sent11,Rjetsch,26,33,PROD,Q1419486
+hidden_test_fi_23_sent11,Timesin,34,41,PROD,Q50008
+hidden_test_fi_23_sent11,Unkarissa,85,94,LOC,Q171150
+hidden_test_fi_24_sent0,Lontoon poliisi,4,19,ORG,Q3907557
+hidden_test_fi_24_sent2,Lontoon,0,7,LOC,Q84
+hidden_test_fi_24_sent2,London Bridgellä,86,102,LOC,Q56739652
+hidden_test_fi_24_sent3,Saksan,0,6,LOC,Q43287
+hidden_test_fi_24_sent3,Lontoon ikiwan=hassa Cityssä,23,51,LOC,Q23311
+hidden_test_fi_24_sent3,Lontoon järjestyspoliisin,77,102,ORG,NIL
+hidden_test_fi_24_sent4,Amsterdamissa,57,70,LOC,Q727
+hidden_test_fi_24_sent6,Pariisin,2,10,LOC,Q90
+hidden_test_fi_24_sent7,Kanada,2,8,LOC,Q16
+hidden_test_fi_24_sent7,Montrea=lista,23,36,LOC,Q340
+hidden_test_fi_24_sent7,pääministeri Mer=cier,94,115,PER,Q513514
+hidden_test_fi_24_sent7,Kanadan,163,170,LOC,Q16
+hidden_test_fi_24_sent7,Englannin,248,257,LOC,Q21
+hidden_test_fi_24_sent7,Kanodan,281,288,LOC,Q16
+hidden_test_fi_24_sent8,Loordi Salisburyn,2,19,PER,Q243705
+hidden_test_fi_24_sent8,Ynited Club,69,80,ORG,NIL
+hidden_test_fi_24_sent8,Lontoossa,87,96,LOC,Q84
+hidden_test_fi_24_sent8,loordi Salisbury,102,118,PER,Q243705
+hidden_test_fi_24_sent8,loordi Salisbury,577,593,PER,Q243705
+hidden_test_fi_24_sent8,Irlannin,790,798,LOC,Q57695350
+hidden_test_fi_24_sent8,Irlannin,814,822,LOC,Q57695350
+hidden_test_fi_24_sent8,Englannin,858,867,LOC,Q21
+hidden_test_fi_24_sent8,Irlannissa,993,1003,LOC,Q57695350
+hidden_test_fi_24_sent9,Itaalian,13,21,LOC,Q172579
+hidden_test_fi_24_sent9,Amerii=kan,25,35,LOC,Q30
+hidden_test_fi_24_sent9,Or=leansissa,66,78,LOC,Q34404
+hidden_test_fi_24_sent9,Itaaliaa,118,126,LOC,Q172579
+hidden_test_fi_24_sent9,Itaalian,185,193,LOC,Q172579
+hidden_test_fi_24_sent9,Yhdyswaltain,196,208,LOC,Q30
+hidden_test_fi_24_sent9,RoomastaNewyork Heraldille,218,244,PROD,Q924673
+hidden_test_fi_24_sent9,Yhdyswaltain,283,295,LOC,Q30
+hidden_test_fi_24_sent9,Cataniassa,305,315,LOC,Q1903
+hidden_test_fi_24_sent9,Washingtoniin,404,417,LOC,Q61
+hidden_test_fi_24_sent9,Roomaan,459,466,LOC,Q220
+hidden_test_fi_24_sent9,Saksan,539,545,LOC,Q43287
+hidden_test_fi_24_sent11,Madriidista,0,11,LOC,Q2807
+hidden_test_fi_24_sent11,Espanjan uuden parlamentin,39,65,ORG,Q219692
+hidden_test_fi_24_sent11,Kuuballe,635,643,LOC,Q241
+hidden_test_fi_24_sent11,Porto Ricolle,648,661,LOC,Q1183
+hidden_test_fi_24_sent13,Oulun,19,24,LOC,Q47048
+hidden_test_fi_24_sent14,Oulu,0,4,LOC,Q47048
+hidden_test_fi_24_sent16,Saksan,0,6,LOC,Q43287
+hidden_test_fi_24_sent17,Keisari Wilhelm,0,15,PER,Q2677
+hidden_test_fi_24_sent17,Tromsaan,41,49,LOC,Q26087
+hidden_test_fi_24_sent17,Nord=kapilta,66,78,LOC,Q62641
+hidden_test_fi_24_sent17,Nordkapille,131,142,LOC,Q62641
+hidden_test_fi_24_sent18,Leo Tolstoi:,380,392,PER,Q7243

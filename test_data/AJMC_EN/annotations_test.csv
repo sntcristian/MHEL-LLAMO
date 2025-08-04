@@ -1,0 +1,157 @@
+doc_id,surface,start_pos,end_pos,type,identifier
+cu31924087948174_0022_sent0,Jahnl,75,80,PER,Q66001
+cu31924087948174_0059_sent0,1].,54,57,WORK,Q8275
+cu31924087948174_0059_sent0,Od.,67,70,WORK,Q35160
+cu31924087948174_0059_sent0,Hes. Theog.,80,91,WORK,Q156498
+cu31924087948174_0059_sent1,1].,58,61,WORK,Q8275
+cu31924087948174_0059_sent3,Ajax,0,4,PER,Q172725
+cu31924087948174_0059_sent6,Plat. Soph.,36,47,WORK,Q471715
+cu31924087948174_0059_sent9,Ant.,4,8,WORK,Q241077
+cu31924087948174_0059_sent11,Aesch. Pers.,42,54,WORK,Q788458
+cu31924087948174_0059_sent11,Ag.,105,108,WORK,Q3320792
+cu31924087948174_0059_sent12,Ajax,97,101,PER,Q172725
+cu31924087948174_0059_sent14,Ajax,67,71,PER,Q172725
+cu31924087948174_0059_sent15,Zeus,33,37,PER,Q34201
+cu31924087948174_0059_sent16,Zeus,0,4,PER,Q34201
+cu31924087948174_0059_sent16,Phoebus,9,16,PER,Q3382132
+cu31924087948174_0059_sent21,Odysseus,30,38,PER,Q47231
+cu31924087948174_0059_sent21,Sisyphus,63,71,PER,Q102561
+cu31924087948174_0059_sent21,Sophocles,108,117,PER,Q11950683
+cu31924087948174_0059_sent22,Phil.,16,21,WORK,Q1415903
+cu31924087948174_0059_sent22,Ant.,170,174,WORK,Q241077
+cu31924087948174_0059_sent22,Cleopatra,206,215,PER,NIL
+cu31924087948174_0059_sent22,Erechtheus,237,247,PER,Q301219
+cu31924087948174_0060_sent0,Hermann,88,95,PER,Q77616
+cu31924087948174_0060_sent1,Ajax,28,32,PER,Q172725
+cu31924087948174_0060_sent1,Odysseus,49,57,PER,Q47231
+cu31924087948174_0060_sent1,Ajax,152,156,PER,Q172725
+cu31924087948174_0060_sent2,Ajax,18,22,PER,Q172725
+cu31924087948174_0060_sent3,Shak. Ant. and Cleo.,172,192,WORK,Q606830
+cu31924087948174_0060_sent6,Eur. Phoen.,4,15,WORK,Q1233660
+cu31924087948174_0060_sent19,11.,4,7,WORK,Q8275
+cu31924087948174_0061_sent1,Ajax,48,52,PER,Q172725
+cu31924087948174_0061_sent1,Oed. Tyr.,82,91,WORK,Q148643
+cu31924087948174_0061_sent2,Tecmessa,0,8,PER,Q10796858
+cu31924087948174_0061_sent2,Ajax,30,34,PER,Q172725
+cu31924087948174_0061_sent10,O.T.,4,8,WORK,Q148643
+cu31924087948174_0061_sent12,Salamis,0,7,LOC,Q202422
+cu31924087948174_0061_sent12,"Tecmessa,",53,62,PER,Q10796858
+cu31924087948174_0061_sent14,Ajax,73,77,PER,Q172725
+cu31924087948174_0061_sent16,Ajax,78,82,PER,Q172725
+cu31924087948174_0061_sent16,Il.,86,89,WORK,NIL
+cu31924087948174_0061_sent18,Ajax,21,25,PER,Q172725
+cu31924087948174_0061_sent19,Ant.,4,8,WORK,Q241077
+cu31924087948174_0061_sent19,Aesch. Prom.,121,133,WORK,Q846870
+cu31924087948174_0061_sent21,Plat. Rep.,4,14,WORK,Q123397
+cu31924087948174_0061_sent24,Triclinius,8,18,PER,Q2987520
+cu31924087948174_0062_sent1,Lobeck,0,6,PER,Q84734
+cu31924087948174_0062_sent2,Ajax,0,4,PER,Q172725
+cu31924087948174_0062_sent7,Tecmessa,20,28,PER,Q10796858
+cu31924087948174_0062_sent8,"Eur, Hec.",46,55,WORK,Q1115611
+cu31924087948174_0062_sent8,"Alc,",96,100,WORK,Q1246408
+cu31924087948174_0062_sent9,Pind. P.,40,48,WORK,Q3411444
+cu31924087948174_0075_sent1,Od.,74,77,WORK,Q35160
+cu31924087948174_0075_sent7,Odysseus,28,36,PER,Q47231
+cu31924087948174_0075_sent8,Phil.,31,36,WORK,Q1415903
+cu31924087948174_0075_sent11,Musgrave,0,8,PER,Q7412249
+cu31924087948174_0075_sent11,Od.,97,100,WORK,Q35160
+cu31924087948174_0075_sent13,Aesch. Ag.,31,41,WORK,Q3320792
+cu31924087948174_0075_sent14,Ajax,19,23,PER,Q172725
+cu31924087948174_0075_sent14,Achilles,75,83,PER,Q41746
+cu31924087948174_0075_sent16,Sophocles,63,72,PER,Q11950683
+cu31924087948174_0075_sent16,Schndw.,118,125,PER,Q70043
+cu31924087948174_0075_sent18,Odysseus,163,171,PER,Q47231
+cu31924087948174_0075_sent18,Ajax,186,190,PER,Q172725
+cu31924087948174_0075_sent19,Trach.,4,10,WORK,Q945342
+cu31924087948174_0075_sent22,Ajax,0,4,PER,Q172725
+cu31924087948174_0075_sent23,Trach.,18,24,WORK,Q945342
+cu31924087948174_0085_sent0,Ajax,23,27,PER,Q172725
+cu31924087948174_0088_sent7,Phil.,32,37,WORK,Q1415903
+cu31924087948174_0088_sent11,Dio Chrys. Orat.,0,16,WORK,NIL
+cu31924087948174_0088_sent11,Lobeck,35,41,PER,Q84734
+cu31924087948174_0088_sent11,Trach.,135,141,WORK,Q945342
+cu31924087948174_0088_sent14,Teucer,90,96,PER,Q878184
+cu31924087948174_0088_sent14,Ajax,117,121,PER,Q172725
+cu31924087948174_0088_sent17,Pind. N.,59,67,WORK,Q27214182
+sophoclesplaysa05campgoog_0099_sent1,O. T.,52,57,WORK,Q148643
+sophoclesplaysa05campgoog_0099_sent3,Aesch.,63,69,PER,Q40939
+sophoclesplaysa05campgoog_0099_sent3,Ag.,71,74,WORK,Q3320792
+sophoclesplaysa05campgoog_0099_sent3,Eur.,85,89,PER,Q48305
+sophoclesplaysa05campgoog_0099_sent3,El.,91,94,WORK,Q540161
+sophoclesplaysa05campgoog_0099_sent4,Dionys. Halic.,78,92,PER,Q26204
+sophoclesplaysa05campgoog_0099_sent5,De Comp. Verborum,0,17,WORK,Q42188444
+sophoclesplaysa05campgoog_0099_sent5,Her.,191,195,PER,Q26825
+sophoclesplaysa05campgoog_0099_sent5,Plat. Hipp. Ma.,209,224,WORK,Q634846
+sophoclesplaysa05campgoog_0099_sent6,Herodotus,42,51,PER,Q26825
+sophoclesplaysa05campgoog_0099_sent6,Thucydides,53,63,PER,Q41683
+sophoclesplaysa05campgoog_0099_sent6,"Xenophon,",65,74,PER,Q129772
+sophoclesplaysa05campgoog_0099_sent6,Od.,112,115,WORK,Q35160
+sophoclesplaysa05campgoog_0099_sent7,Porphyrius,45,55,PER,Q203445
+sophoclesplaysa05campgoog_0099_sent7,Lobeck,74,80,PER,Q84734
+sophoclesplaysa05campgoog_0099_sent7,Phrym.,82,88,WORK,NIL
+sophoclesplaysa05campgoog_0099_sent7,Hierocles,96,105,PER,Q1355265
+sophoclesplaysa05campgoog_0099_sent7,Slob. For.,125,135,WORK,Q107029507
+sophoclesplaysa05campgoog_0099_sent8,Plato,39,44,PER,Q859
+sophoclesplaysa05campgoog_0099_sent8,Crat.,46,51,WORK,Q1347394
+sophoclesplaysa05campgoog_0099_sent8,Apoll. Rhod.,104,116,PER,Q192638
+sophoclesplaysa05campgoog_0099_sent9,O. T.,126,131,WORK,Q148643
+sophoclesplaysa05campgoog_0099_sent9,Ph.,138,141,WORK,Q1415903
+sophoclesplaysa05campgoog_0099_sent11,P .,177,180,WORK,Q1415903
+sophoclesplaysa05campgoog_0099_sent12,Aesch. P. P.,0,12,WORK,Q846870
+sophoclesplaysa05campgoog_0099_sent13,O. C.,100,105,WORK,Q294001
+sophoclesplaysa05campgoog_0099_sent13,Tr.,112,115,WORK,Q945342
+sophoclesplaysa05campgoog_0099_sent14,Anmi.,56,61,WORK,Q241077
+sophoclesplaysa05campgoog_0099_sent15,Ten. H.,41,48,WORK,Q674638
+sophoclesplaysa05campgoog_0099_sent17,Iliad,24,29,WORK,Q8275
+sophoclesplaysa05campgoog_0099_sent17,Eur. Ion,141,149,WORK,Q614607
+sophoclesplaysa05campgoog_0099_sent17,Aesch. Prs.,261,272,WORK,Q788458
+sophoclesplaysa05campgoog_0099_sent17,Eur. Helen.,301,312,WORK,Q614607
+sophoclesplaysa05campgoog_0099_sent18,Eur. fr.,4,12,WORK,NIL
+sophoclesplaysa05campgoog_0099_sent19,Ajax,33,37,PER,Q172725
+sophoclesplaysa05campgoog_0099_sent20,Odysseus,29,37,PER,Q47231
+sophoclesplaysa05campgoog_0099_sent20,Ajax,63,67,PER,Q172725
+sophoclesplaysa05campgoog_0099_sent21,Galea,11,16,PER,Q8778
+sophoclesplaysa05campgoog_0099_sent21,Κuhn,25,29,PER,Q97582
+sophoclesplaysa05campgoog_0099_sent22,Ant.,39,43,WORK,Q241077
+sophoclesplaysa05campgoog_0099_sent23,Ph.,37,40,WORK,Q1415903
+sophoclesplaysa05campgoog_0099_sent23,Of.,66,69,WORK,Q35160
+sophoclesplaysa05campgoog_0102_sent0,Ajax,67,71,PER,Q172725
+sophoclesplaysa05campgoog_0102_sent0,Ph.,100,103,WORK,Q1415903
+sophoclesplaysa05campgoog_0102_sent2,Ph.,4,7,WORK,Q1415903
+sophoclesplaysa05campgoog_0102_sent3,Ph.,80,83,WORK,Q1415903
+sophoclesplaysa05campgoog_0102_sent3,El.,94,97,WORK,Q540161
+sophoclesplaysa05campgoog_0102_sent3,Her.,137,141,PER,Q26825
+sophoclesplaysa05campgoog_0102_sent3,Q. T.,182,187,WORK,Q148643
+sophoclesplaysa05campgoog_0102_sent7,Ph.,38,41,WORK,Q1415903
+sophoclesplaysa05campgoog_0102_sent9,Tr.,47,50,WORK,Q945342
+sophoclesplaysa05campgoog_0102_sent9,El.,96,99,WORK,Q733444
+sophoclesplaysa05campgoog_0102_sent9,O.C.,140,144,WORK,Q294001
+sophoclesplaysa05campgoog_0102_sent9,Agamemnon,215,224,PER,Q128176
+sophoclesplaysa05campgoog_0102_sent9,Menelais,229,237,PER,Q171839
+sophoclesplaysa05campgoog_0102_sent10,Pans.,5,10,PER,Q192931
+sophoclesplaysa05campgoog_0102_sent17,O.C.,60,64,WORK,Q294001
+sophoclesplaysa05campgoog_0102_sent19,Il.,30,33,WORK,Q8275
+sophoclesplaysa05campgoog_0102_sent19,Lycophron,84,93,PER,Q432737
+sophoclesplaysa05campgoog_0102_sent20,Athen.,91,97,PER,NIL
+sophoclesplaysa05campgoog_0102_sent20,frag. adesp.,113,125,WORK,NIL
+sophoclesplaysa05campgoog_0102_sent22,O. T.,23,28,WORK,Q148643
+sophoclesplaysa05campgoog_0102_sent22,Thebes,63,69,LOC,Q11225429
+sophoclesplaysa05campgoog_0102_sent22,El.,71,74,WORK,Q733444
+sophoclesplaysa05campgoog_0107_sent1,Aπt.,67,71,WORK,Q241077
+sophoclesplaysa05campgoog_0107_sent1,Eur. F. T.,117,127,WORK,Q523227
+sophoclesplaysa05campgoog_0107_sent2,O. C.,33,38,WORK,Q294001
+sophoclesplaysa05campgoog_0107_sent2,Pind. P.,63,71,WORK,Q3411444
+sophoclesplaysa05campgoog_0107_sent6,O. T,133,137,WORK,Q148643
+sophoclesplaysa05campgoog_0107_sent7,Eur. Suppl.,41,52,WORK,Q672319
+sophoclesplaysa05campgoog_0107_sent9,Odysseus,14,22,PER,Q47231
+sophoclesplaysa05campgoog_0107_sent9,Ajax,51,55,PER,Q172725
+sophoclesplaysa05campgoog_0107_sent12,Odysseus,117,125,PER,Q47231
+sophoclesplaysa05campgoog_0107_sent14,O. 7T,50,55,WORK,Q148643
+sophoclesplaysa05campgoog_0107_sent15,Dem. or.,39,47,WORK,NIL
+sophoclesplaysa05campgoog_0107_sent15,or.,120,123,WORK,NIL
+sophoclesplaysa05campgoog_0107_sent15,Plat. Phleo.,133,145,WORK,Q220972
+cu31924087948174_0138_sent10,"Pind, Pyth.",44,55,WORK,Q3411444
+cu31924087948174_0138_sent10,Ο. Τ',201,206,WORK,Q148643
+cu31924087948174_0138_sent11,Aesch. Ag.,13,23,WORK,Q3320792
+cu31924087948174_0138_sent12,Troad,63,68,LOC,Q2454671
+cu31924087948174_0138_sent16,O. T.,37,42,WORK,Q148643

@@ -1,0 +1,14 @@
+numpy
+torch
+torch_geometric
+peft
+pandas
+ogb
+transformers
+wandb
+sentencepiece
+datasets
+pcst_fast
+gensim
+accelerate
+bitsandbytes
