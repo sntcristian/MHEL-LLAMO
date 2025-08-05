@@ -1,9 +1,14 @@
 import os
 import csv
+import argparse
+
+
+# Example commands:
+# path_data = "../test_data/HIPE_EN"
+# path_results = "../results/hipe_en"
+
 
 def eval_ed(data, predictions):
-    print(len(data))
-    print(len(predictions))
     tp = []
     fp = []
     fn = []
@@ -22,48 +27,50 @@ def eval_ed(data, predictions):
     accuracy = (len(tp) / (len(tp) + len(fp)))*100
     return tp, fp, fn, accuracy
 
-path_data = "../test_data/HIPE_EN"
 
-path_results = "../results/hipe_en"
+def main():
+    parser = argparse.ArgumentParser(description="Script for computing micro averaged accuracy in Entity Disambiguation")
+    parser.add_argument("--path_results", type=str, required=True, help="Path to JSON list of candidates")
+    parser.add_argument("--path_data", type=str, required=True, help="Path to dataset directory")
+    args = parser.parse_args()
+
+    with open(os.path.join(args.path_results, "output.csv"), "r", encoding="utf-8") as f1:
+        predictions = list(csv.DictReader(f1, delimiter=","))
+
+    with open(os.path.join(args.path_data, "annotations_test.csv"), "r", encoding="utf-8") as f2:
+        data = list(csv.DictReader(f2, delimiter=","))
+
+    tp, fp, fn, accuracy = eval_ed(data, predictions)
+
+    with open(os.path.join(args.path_results, "result.txt"), "w") as output:
+        output.write("True Positives: " + str(len(tp)) + "\n\n")
+        output.write("False Positives: " + str(len(fp)) + "\n\n")
+        output.write("False Negatives: " + str(len(fn)) + "\n\n")
+        output.write("Accuracy: " + str(accuracy) + "\n\n")
+
+    p_keys = tp[0].keys()
+    fp_keys = fp[0].keys()
+    n_keys = fn[0].keys()
+
+    tp_file = open(os.path.join(args.path_results, "tp_ed.csv"), "w", encoding="utf-8")
+    dict_writer = csv.DictWriter(tp_file, p_keys)
+    dict_writer.writeheader()
+    dict_writer.writerows(tp)
+    tp_file.close()
+
+    fp_file = open(os.path.join(args.path_results, "fp_ed.csv"), "w", encoding="utf-8")
+    dict_writer = csv.DictWriter(fp_file, fp_keys)
+    dict_writer.writeheader()
+    dict_writer.writerows(fp)
+    fp_file.close()
+
+    fn_file = open(os.path.join(args.path_results, "fn_ed.csv"), "w", encoding="utf-8")
+    dict_writer = csv.DictWriter(fn_file, n_keys)
+    dict_writer.writeheader()
+    dict_writer.writerows(fn)
+    fn_file.close()
 
 
 
-with open(os.path.join(path_data, "annotations_test.csv"), "r", encoding="utf-8") as f1:
-        data = list(csv.DictReader(f1, delimiter=","))
-with open(os.path.join(path_results,"output.csv"), "r", encoding="utf-8") as f2:
-        predictions = list(csv.DictReader(f2, delimiter=","))
-
-
-tp, fp, fn, accuracy = eval_ed(data, predictions)
-
-with open(os.path.join(path_results, "result.txt"), "w") as output:
-    output.write("True Positives: " + str(len(tp)) + "\n\n")
-    output.write("False Positives: " + str(len(fp)) + "\n\n")
-    output.write("False Negatives: " + str(len(fn)) + "\n\n")
-    output.write("Accuracy: " + str(accuracy) + "\n\n")
-
-
-
-p_keys = tp[0].keys()
-fp_keys = fp[0].keys()
-n_keys = fn[0].keys()
-
-tp_file = open(os.path.join(path_results, "tp_ed.csv"), "w", encoding="utf-8")
-dict_writer = csv.DictWriter(tp_file, p_keys)
-dict_writer.writeheader()
-dict_writer.writerows(tp)
-tp_file.close()
-
-fp_file = open(os.path.join(path_results, "fp_ed.csv"), "w", encoding="utf-8")
-dict_writer = csv.DictWriter(fp_file, fp_keys)
-dict_writer.writeheader()
-dict_writer.writerows(fp)
-fp_file.close()
-
-fn_file = open(os.path.join(path_results, "fn_ed.csv"), "w", encoding="utf-8")
-dict_writer = csv.DictWriter(fn_file, n_keys)
-dict_writer.writeheader()
-dict_writer.writerows(fn)
-fn_file.close()
-
-
+if __name__ == "__main__":
+    main()
