@@ -7,11 +7,6 @@ from tqdm import tqdm
 import os
 import argparse
 
-# Example commands:
-# output_dir = "./results/ajmc_en"
-# json_f = "./results/ajmc_en/candidates_top50.json"
-# dataset_path = "./test_data/AJMC_EN"
-# model_id = "meta-llama/Llama-3.1-8B-Instruct"
 
 def process_candidates(candidates):
     output = []
@@ -55,7 +50,8 @@ def main():
     system_prompt = """
     You are an effective multilingual information extraction system specialized in disambiguating entities within noisy 
     historical texts.
-    Your task is to analyse the text provided by the user and disambiguate the reference marked by [ENT] tags by selecting a Wikidata entity from a given list of candidates.
+    Your task is to analyse the text provided by the user and disambiguate the reference marked by [ENT] tags by 
+    selecting a Wikidata entity from a given list of candidates only when highly confident.
     Always respond by returning a JSON-formatted answer; do not generate Python code.
     """
 
@@ -73,15 +69,14 @@ def main():
         user_prompt = """
         Read the input text published in """ + date + """ and written in """ + lang + """ .
         Disambiguate the entity mentioned between the [ENT] tags by selecting the most appropriate Wikidata entity from the list of candidates.    
-        Return the corresponding Wikipedia page title and Wikidata ID of the selected entity in a JSON object formatted as 
-        follows:
+        Return the corresponding Wikipedia page title and Wikidata ID of the selected entity in a JSON object formatted as follows:
     
         ```json
         "wikipedia_page":"", "wikidata_id":""
         ```
     
-        Make sure to select both the Wikidata ID from the provided list of candidates.
-        If none of the candidates match the entity tagged with [ENT], return an empty JSON object.
+        Make sure to select both the Wikidata ID and the Wikipedia page title from the provided list of candidates.
+        Pay attention that the list of candidates may not include the entity mentioned. If none of the candidates match with high confidence the entity tagged with [ENT], return an empty JSON object.
         ---------------------
         Input Text:
         """ + processed_text + """

@@ -10,7 +10,7 @@ def load_disambiguator(
         checkpoint_path: str = "./models/model_wiki.ckpt",
         faiss_index_path: str = "./models/faiss.index",
         wikidata_index_path: str = "./models/index.txt",
-        db_path: str = "./models/knowledge_base.sqlite",
+        db_path: str = "./models/knowledge_base_final.sqlite",
         device: str = "cuda:0",
         embedding_dim: int = 300
 ):
