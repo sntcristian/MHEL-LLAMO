@@ -8,12 +8,12 @@ import concurrent.futures
 import multiprocessing as mp
 
 # File paths
-index_path = '../models/index.txt'
-db_path = '../models/knowledge_base.sqlite'
-type2class_path = "../rdfs/type2classes.json"
-rdf1_path = "../rdfs/types_and_dates.rdf"
-rdf2_path = "../rdfs/sitelinks.rdf"
-rdf3_path = "../rdfs/descriptions.rdf"
+index_path = './models/index.txt'
+db_path = './models/knowledge_base.sqlite'
+type2class_path = "./models/type2classes.json"
+rdf1_path = "./models/types_and_dates.rdf"
+rdf2_path = "./models/labels.rdf"
+rdf3_path = "./models/descriptions.rdf"
 
 
 # Load mappings once
@@ -69,26 +69,28 @@ def preprocess_types_and_dates(rdf_path, required_qids):
 
 
 
-def preprocess_sitelinks(rdf_path, required_qids):
+def preprocess_labels(rdf_path, required_qids):
     """
     Pre-process RDF file to extract only relevant information for required QIDs.
     Returns dictionaries mapping QID to types and dates.
     """
-    qid_to_sitelinks = defaultdict(dict)
+    qid_to_labels = defaultdict(dict)
 
     # Compile regex patterns once for better performance
-    sitelink_pattern = re.compile(r'<https://([a-z]+)\.wikipedia\.org/wiki/([^>]+)>\s+schema:about\s+wd:(Q\d+)\s*\.')
+    labels_pattern = re.compile(r'wd:(Q\d+)\s+schema:name\s+"(.*?)"@([a-z]+)\s*\.')
 
     print("Preprocessing RDF file...")
     with open(rdf_path, "r", encoding="utf-8") as f:
         for line in tqdm(f, desc="Processing RDF lines"):
-            match = re.match(sitelink_pattern, line)
-            if match:
-                language, wikipedia_url, wikidata_entity = match.groups()
-                if wikidata_entity in required_qids:
-                    qid_to_sitelinks[wikidata_entity][language] = wikipedia_url
 
-    return qid_to_sitelinks
+            match = re.match(labels_pattern, line)
+
+            if match:
+                wikidata_entity, label, language = match.groups()
+                if wikidata_entity in required_qids:
+                    qid_to_labels[wikidata_entity][language] = label
+
+    return qid_to_labels
 
 
 def preprocess_descriptions(rdf_path, required_qids):
@@ -188,7 +190,7 @@ def find_minimum_date(date_list):
 
 def process_entity_batch(batch_data):
     """Process a batch of entities - can be used for multiprocessing."""
-    entities, qid_to_types, qid_to_dates, qid_to_sitelinks, qid_to_descriptions = batch_data
+    entities, qid_to_types, qid_to_dates, qid_to_labels, qid_to_descriptions = batch_data
 
     results = {
         "entities":[],
@@ -216,37 +218,37 @@ def process_entity_batch(batch_data):
                 (idx, wikidata_qid, _type, min_date)
             )
 
-            enwiki = qid_to_sitelinks.get(wikidata_qid, dict()).get("en", "")
+            enwiki = qid_to_labels.get(wikidata_qid, dict()).get("en", "")
             endescr = qid_to_descriptions.get(wikidata_qid, dict()).get("en", "")
             if not (len(enwiki) == 0 and len(endescr) == 0):
                 results["enwiki"].append((idx, enwiki, endescr))
 
-            dewiki = qid_to_sitelinks.get(wikidata_qid, dict()).get("de", "")
+            dewiki = qid_to_labels.get(wikidata_qid, dict()).get("de", "")
             dedescr = qid_to_descriptions.get(wikidata_qid, dict()).get("de", "")
             if not (len(dewiki) == 0 and len(dedescr) == 0):
                 results["dewiki"].append((idx, dewiki, dedescr))
 
-            frwiki = qid_to_sitelinks.get(wikidata_qid, dict()).get("fr", "")
+            frwiki = qid_to_labels.get(wikidata_qid, dict()).get("fr", "")
             frdescr = qid_to_descriptions.get(wikidata_qid, dict()).get("fr", "")
             if not (len(frwiki) == 0 and len(frdescr) == 0):
                 results["frwiki"].append((idx, frwiki, frdescr))
 
-            itwiki = qid_to_sitelinks.get(wikidata_qid, dict()).get("it", "")
+            itwiki = qid_to_labels.get(wikidata_qid, dict()).get("it", "")
             itdescr = qid_to_descriptions.get(wikidata_qid, dict()).get("it", "")
             if not (len(itwiki) == 0 and len(itdescr) == 0):
                 results["itwiki"].append((idx, itwiki, itdescr))
 
-            nlwiki = qid_to_sitelinks.get(wikidata_qid, dict()).get("nl", "")
+            nlwiki = qid_to_labels.get(wikidata_qid, dict()).get("nl", "")
             nldescr = qid_to_descriptions.get(wikidata_qid, dict()).get("nl", "")
             if not (len(nlwiki) == 0 and len(nldescr) == 0):
                 results["nlwiki"].append((idx, nlwiki, nldescr))
 
-            svwiki = qid_to_sitelinks.get(wikidata_qid, dict()).get("sv", "")
+            svwiki = qid_to_labels.get(wikidata_qid, dict()).get("sv", "")
             svdescr = qid_to_descriptions.get(wikidata_qid, dict()).get("sv", "")
             if not (len(svwiki) == 0 and len(svdescr) == 0):
                 results["svwiki"].append((idx, svwiki, svdescr))
 
-            fiwiki = qid_to_sitelinks.get(wikidata_qid, dict()).get("fi", "")
+            fiwiki = qid_to_labels.get(wikidata_qid, dict()).get("fi", "")
             fidescr = qid_to_descriptions.get(wikidata_qid, dict()).get("fi", "")
             if not (len(fiwiki) == 0 and len(fidescr) == 0):
                 results["fiwiki"].append((idx, fiwiki, fidescr))
@@ -270,7 +272,7 @@ def main():
 
     # Step 3: Preprocess RDF file
     qid_to_types, qid_to_dates = preprocess_types_and_dates(rdf1_path, required_qids)
-    qid_to_sitelinks = preprocess_sitelinks(rdf2_path, required_qids)
+    qid_to_labels = preprocess_labels(rdf2_path, required_qids)
     qid_to_descriptions = preprocess_descriptions(rdf3_path, required_qids)
 
     # Step 4: Set up database
@@ -288,7 +290,7 @@ def main():
     cursor.execute('''
         CREATE TABLE IF NOT EXISTS enwiki (
             id INTEGER PRIMARY KEY,
-            sitelink TEXT,
+            label TEXT,
             descr TEXT,
             FOREIGN KEY (id) REFERENCES entities(id)
         )''')
@@ -296,7 +298,7 @@ def main():
     cursor.execute('''
         CREATE TABLE IF NOT EXISTS dewiki (
             id INTEGER PRIMARY KEY,
-            sitelink TEXT,
+            label TEXT,
             descr TEXT,
             FOREIGN KEY (id) REFERENCES entities(id)
         )''')
@@ -304,7 +306,7 @@ def main():
     cursor.execute('''
         CREATE TABLE IF NOT EXISTS frwiki (
             id INTEGER PRIMARY KEY,
-            sitelink TEXT,
+            label TEXT,
             descr TEXT,
             FOREIGN KEY (id) REFERENCES entities(id)
         )''')
@@ -312,7 +314,7 @@ def main():
     cursor.execute('''
         CREATE TABLE IF NOT EXISTS itwiki (
             id INTEGER PRIMARY KEY,
-            sitelink TEXT,
+            label TEXT,
             descr TEXT,
             FOREIGN KEY (id) REFERENCES entities(id)
         )''')
@@ -320,7 +322,7 @@ def main():
     cursor.execute('''
         CREATE TABLE IF NOT EXISTS nlwiki (
             id INTEGER PRIMARY KEY,
-            sitelink TEXT,
+            label TEXT,
             descr TEXT,
             FOREIGN KEY (id) REFERENCES entities(id)
         )''')
@@ -328,7 +330,7 @@ def main():
     cursor.execute('''
         CREATE TABLE IF NOT EXISTS svwiki (
             id INTEGER PRIMARY KEY,
-            sitelink TEXT,
+            label TEXT,
             descr TEXT,
             FOREIGN KEY (id) REFERENCES entities(id)
         )''')
@@ -336,7 +338,7 @@ def main():
     cursor.execute('''
         CREATE TABLE IF NOT EXISTS fiwiki (
             id INTEGER PRIMARY KEY,
-            sitelink TEXT,
+            label TEXT,
             descr TEXT,
             FOREIGN KEY (id) REFERENCES entities(id)
         )''')
@@ -353,7 +355,7 @@ def main():
 
         for i in range(0, len(entities), chunk_size):
             chunk = entities[i:i + chunk_size]
-            chunks.append((chunk, qid_to_types, qid_to_dates, qid_to_sitelinks, qid_to_descriptions))
+            chunks.append((chunk, qid_to_types, qid_to_dates, qid_to_labels, qid_to_descriptions))
 
         all_results = {"entities":[],
                        "enwiki":[],
@@ -378,7 +380,7 @@ def main():
                 all_results["fiwiki"] += future.result()["fiwiki"]
     else:
         print("Processing entities sequentially...")
-        all_results = process_entity_batch((entities, qid_to_types, qid_to_dates, qid_to_sitelinks, qid_to_descriptions))
+        all_results = process_entity_batch((entities, qid_to_types, qid_to_dates, qid_to_labels, qid_to_descriptions))
 
     # Step 6: Insert into database in batches
     print("Inserting into database...")
@@ -395,7 +397,7 @@ def main():
     for i in tqdm(range(0, len(all_results["enwiki"]), batch_size), desc="Inserting enwiki batches"):
         batch = all_results["enwiki"][i:i + batch_size]
         cursor.executemany('''
-        INSERT INTO enwiki (id, sitelink, descr)
+        INSERT INTO enwiki (id, label, descr)
         VALUES (?, ?, ?)
         ''', batch)
         conn.commit()
@@ -403,7 +405,7 @@ def main():
     for i in tqdm(range(0, len(all_results["dewiki"]), batch_size), desc="Inserting dewiki batches"):
         batch = all_results["dewiki"][i:i + batch_size]
         cursor.executemany('''
-        INSERT INTO dewiki (id, sitelink, descr)
+        INSERT INTO dewiki (id, label, descr)
         VALUES (?, ?, ?)
         ''', batch)
         conn.commit()
@@ -411,7 +413,7 @@ def main():
     for i in tqdm(range(0, len(all_results["frwiki"]), batch_size), desc="Inserting frwiki batches"):
         batch = all_results["frwiki"][i:i + batch_size]
         cursor.executemany('''
-        INSERT INTO frwiki (id, sitelink, descr)
+        INSERT INTO frwiki (id, label, descr)
         VALUES (?, ?, ?)
         ''', batch)
         conn.commit()
@@ -419,7 +421,7 @@ def main():
     for i in tqdm(range(0, len(all_results["itwiki"]), batch_size), desc="Inserting itwiki batches"):
         batch = all_results["itwiki"][i:i + batch_size]
         cursor.executemany('''
-        INSERT INTO itwiki (id, sitelink, descr)
+        INSERT INTO itwiki (id, label, descr)
         VALUES (?, ?, ?)
         ''', batch)
         conn.commit()
@@ -427,7 +429,7 @@ def main():
     for i in tqdm(range(0, len(all_results["nlwiki"]), batch_size), desc="Inserting nlwiki batches"):
         batch = all_results["nlwiki"][i:i + batch_size]
         cursor.executemany('''
-        INSERT INTO nlwiki (id, sitelink, descr)
+        INSERT INTO nlwiki (id, label, descr)
         VALUES (?, ?, ?)
         ''', batch)
         conn.commit()
@@ -435,7 +437,7 @@ def main():
     for i in tqdm(range(0, len(all_results["svwiki"]), batch_size), desc="Inserting svwiki batches"):
         batch = all_results["svwiki"][i:i + batch_size]
         cursor.executemany('''
-        INSERT INTO svwiki (id, sitelink, descr)
+        INSERT INTO svwiki (id, label, descr)
         VALUES (?, ?, ?)
         ''', batch)
         conn.commit()
@@ -443,7 +445,7 @@ def main():
     for i in tqdm(range(0, len(all_results["fiwiki"]), batch_size), desc="Inserting fiwiki batches"):
         batch = all_results["fiwiki"][i:i + batch_size]
         cursor.executemany('''
-        INSERT INTO fiwiki (id, sitelink, descr)
+        INSERT INTO fiwiki (id, label, descr)
         VALUES (?, ?, ?)
         ''', batch)
         conn.commit()  # Commit each batch

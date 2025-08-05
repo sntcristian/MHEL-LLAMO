@@ -164,7 +164,7 @@ class EntityDisambiguator:
             t1.wikidata_qid,
             t1.type_,
             t1.min_date,
-            t2.sitelink,
+            t2.label,
             t2.descr
         FROM entities t1
         LEFT JOIN {} t2 ON t1.id = t2.id
@@ -223,7 +223,7 @@ class EntityDisambiguator:
                                 "wb_id": candidate_info[1],
                                 "type": candidate_info[2] if candidate_info[2] else "",
                                 "min_date": candidate_info[3] if candidate_info[3] else "",
-                                "sitelink":candidate_info[4].replace("_", " ") if candidate_info[4] else "",
+                                "label":candidate_info[4].replace("_", " ") if candidate_info[4] else "",
                                 "descr":candidate_info[5] if candidate_info[5] else "",
                                 "score": score
                             })

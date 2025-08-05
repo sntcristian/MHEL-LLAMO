@@ -18,7 +18,7 @@ def process_candidates(candidates):
     output = []
     for item in candidates:
         output.append({
-            "wikipedia_page": item["sitelink"],
+            "wikipedia_page": item["label"],
             "wikidata_id": item["wb_id"],
             "type": item["type"],
             "descr":item["descr"],
@@ -122,7 +122,7 @@ def main():
                 "surface":item["surface"],
                 "identifier":wikidata_id,
                 "gt_id":item["identifier"],
-                "title":selected_entity[0]["sitelink"],
+                "title":selected_entity[0]["label"],
                 "answer":re.sub(r'\s+', " ", response),
                 "score":selected_entity[0]["score"]
             })
