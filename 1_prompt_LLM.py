@@ -11,7 +11,6 @@ import argparse
 # output_dir = "./results/ajmc_en"
 # json_f = "./results/ajmc_en/candidates_top50.json"
 # dataset_path = "./test_data/AJMC_EN"
-# n_candidates = 20
 # model_id = "meta-llama/Llama-3.1-8B-Instruct"
 
 def process_candidates(candidates):
@@ -32,7 +31,6 @@ def main():
     parser.add_argument("--json_f", type=str, required=True, help="Path to JSON list of candidates")
     parser.add_argument("--dataset_path", type=str, required=True, help="Path to dataset directory")
     parser.add_argument("--output_dir", type=str, required=True, help="Output directory for results")
-    parser.add_argument("--n_candidates", type=int, default=20, help="Number of top candidates to add in prompt")
     parser.add_argument("--model_id", type=str, default="meta-llama/Llama-3.1-8B-Instruct", help="Huggingface repo of LLM")
     parser.add_argument("--hf_token", type=str, default="", help="Huggingface token to access restricted repo.")
 
