@@ -208,9 +208,8 @@ class EntityDisambiguator:
             # Format predictions
             predictions = []
             example_idx = 0
-            for text, offsets, lengths in zip(texts, mention_offsets, mention_lengths):
+            for text, lengths in zip(texts, mention_lengths):
                 candidates = []
-                offset = offsets[0]
                 length = lengths[0]
                 if length > 0:  # Valid mention
                     ex_indices = indices[example_idx]
@@ -226,6 +225,7 @@ class EntityDisambiguator:
                             "score": score
                         })
                 predictions.append(candidates)
+                example_idx+=1
 
 
             return predictions
