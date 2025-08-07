@@ -208,33 +208,25 @@ class EntityDisambiguator:
             # Format predictions
             predictions = []
             example_idx = 0
-
             for text, offsets, lengths in zip(texts, mention_offsets, mention_lengths):
-                text_predictions = []
+                candidates = []
+                offset = offsets[0]
+                length = lengths[0]
+                if length > 0:  # Valid mention
+                    ex_indices = indices[example_idx]
+                    ex_scores = scores[example_idx]
+                    for index, score in zip(ex_indices, ex_scores):
+                        candidate_info = self.get_entity_info(lang, index)
+                        candidates.append({
+                            "wb_id": candidate_info[1],
+                            "type": candidate_info[2] if candidate_info[2] else "",
+                            "min_date": candidate_info[3] if candidate_info[3] else "",
+                            "label":candidate_info[4].replace("_", " ") if candidate_info[4] else "",
+                            "descr":candidate_info[5] if candidate_info[5] else "",
+                            "score": score
+                        })
+                predictions.append(candidates)
 
-                for offset, length in zip(offsets, lengths):
-                    candidates = []
-                    if length > 0:  # Valid mention
-                        ex_indices = indices[example_idx]
-                        ex_scores = scores[example_idx]
-                        for index, score in zip(ex_indices, ex_scores):
-                            candidate_info = self.get_entity_info(lang, index)
-                            candidates.append({
-                                "wb_id": candidate_info[1],
-                                "type": candidate_info[2] if candidate_info[2] else "",
-                                "min_date": candidate_info[3] if candidate_info[3] else "",
-                                "label":candidate_info[4].replace("_", " ") if candidate_info[4] else "",
-                                "descr":candidate_info[5] if candidate_info[5] else "",
-                                "score": score
-                            })
-                    text_predictions.append(
-                        {"start_pos": offset,
-                         "end_pos": offset + length,
-                         "surface":text[offset:offset+length],
-                         "candidates":candidates}
-                    )
-                    example_idx += 1
-                predictions.append(text_predictions)
 
             return predictions
 

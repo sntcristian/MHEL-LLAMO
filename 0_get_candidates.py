@@ -34,25 +34,57 @@ def load_dataset(dataset_path):
     with open(annotations_path, "r", encoding="utf-8") as anno_f:
         annotations = list(csv.DictReader(anno_f))
 
-    texts, offsets, lengths, doc_ids, gt_ids = [], [], [], [], []
+    all_annotations = []
+    all_texts = []
+    all_offsets = []
+    all_lengths = []
 
     for doc in paragraphs:
         text = doc["text"]
         doc_id = doc["doc_id"]
         doc_anno = [row for row in annotations if row["doc_id"] == doc_id]
 
-        ex_offsets = [int(anno["start_pos"]) for anno in doc_anno]
-        ex_lengths = [int(anno["end_pos"]) - int(anno["start_pos"]) for anno in doc_anno]
-        ex_gt_ids = [anno["identifier"] for anno in doc_anno]
+        for anno in doc_anno:
+            start_pos = int(anno["start_pos"])
+            end_pos = int(anno["end_pos"])
 
-        if len(ex_offsets)>0 and len(text) <= 1250:
-            texts.append(text)
-            doc_ids.append(doc_id)
-            offsets.append(ex_offsets)
-            lengths.append(ex_lengths)
-            gt_ids.append(ex_gt_ids)
+            words = text.split()
 
-    return texts, offsets, lengths, doc_ids, gt_ids
+            word_positions = []
+            current_pos = 0
+            for word in words:
+                word_start = text.find(word, current_pos)
+                word_end = word_start + len(word)
+                word_positions.append((word_start, word_end))
+                current_pos = word_end
+
+            entity_word_idx = None
+            for i, (w_start, w_end) in enumerate(word_positions):
+                if w_start <= start_pos < w_end:
+                    entity_word_idx = i
+                    break
+
+            if entity_word_idx is None:
+                continue
+
+            chunk_start_word = max(0, entity_word_idx - 100)
+            chunk_end_word = min(len(words), entity_word_idx + 100)
+
+            chunk_words = words[chunk_start_word:chunk_end_word]
+            chunk_text = " ".join(chunk_words)
+
+            chunk_start_char = word_positions[chunk_start_word][0] if chunk_start_word < len(word_positions) else 0
+
+            new_start_pos = start_pos - chunk_start_char
+            new_length = end_pos - start_pos
+
+            if new_start_pos >= 0 and new_start_pos + new_length <= len(chunk_text):
+                all_annotations.append(anno)
+                all_texts.append([chunk_text])
+                all_offsets.append([new_start_pos])
+                all_lengths.append([new_length])
+
+    return all_annotations, all_texts, all_offsets, all_lengths
 
 
 def main():
@@ -66,38 +98,33 @@ def main():
     args = parser.parse_args()
 
     disambiguator = load_disambiguator()
-    texts, offsets, lengths, doc_ids, gt_ids = load_dataset(args.dataset_path)
+    all_annotations, all_texts, all_offsets, all_lengths = load_dataset(args.dataset_path)
 
     batch_size = args.batch_size
     all_results = []
-
-    for i in tqdm(range(0, len(texts), batch_size)):
-        batch_texts = texts[i:i + batch_size]
-        batch_offsets = offsets[i:i + batch_size]
-        batch_lengths = lengths[i:i + batch_size]
-        batch_doc_ids = doc_ids[i:i + batch_size]
-        batch_gt_ids = gt_ids[i:i + batch_size]
-
+    for i in tqdm(range(0, len(all_texts), batch_size)):
+        batch_texts = [text[0] for text in all_texts[i:i + batch_size]]
+        batch_offsets = [offset for offset in all_offsets[i:i + batch_size]]
+        batch_lengths = [length for length in all_lengths[i:i + batch_size]]
+        batch_annotations = all_annotations[i:i + batch_size]
         batch_predictions = disambiguator.get_candidates_batch(
             batch_texts, batch_offsets, batch_lengths, k=args.top_k, lang=args.lang
         )
-
-        for doc_id, predictions, ex_gt_ids in zip(batch_doc_ids, batch_predictions, batch_gt_ids):
-            for pred, gt_id in zip(predictions, ex_gt_ids):
-                all_results.append({
-                    "doc_id": doc_id,
-                    "start_pos": pred["start_pos"],
-                    "end_pos": pred["end_pos"],
-                    "surface": pred["surface"],
-                    "identifier": gt_id,
-                    "candidates": pred["candidates"]
-                })
-
+        for anno, pred in zip(batch_annotations, batch_predictions):
+            all_results.append(
+                {
+                    "doc_id":anno["doc_id"],
+                    "start_pos":anno["start_pos"],
+                    "end_pos":anno["end_pos"],
+                    "surface":anno["surface"],
+                    "identifier":anno["identifier"],
+                    "type":anno["type"],
+                    "candidates":pred
+                }
+            )
     os.makedirs(args.output_dir, exist_ok=True)
-
     with open(os.path.join(args.output_dir, f"candidates_top{args.top_k}.json"), "w", encoding="utf-8") as out_f:
         json.dump(all_results, out_f, indent=4, ensure_ascii=False)
-
 
 if __name__ == "__main__":
     main()
