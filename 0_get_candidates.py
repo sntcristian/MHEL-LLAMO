@@ -6,23 +6,6 @@ from tqdm import tqdm
 from src.retriever import EntityDisambiguator
 
 
-def load_disambiguator(
-        checkpoint_path: str = "./models/model_wiki.ckpt",
-        faiss_index_path: str = "./models/faiss.index",
-        wikidata_index_path: str = "./models/index.txt",
-        db_path: str = "./models/knowledge_base_final.sqlite",
-        device: str = "cuda:0",
-        embedding_dim: int = 300
-):
-    return EntityDisambiguator(
-        checkpoint_path=checkpoint_path,
-        faiss_index_path=faiss_index_path,
-        wikidata_index_path=wikidata_index_path,
-        db_path=db_path,
-        device=device,
-        embedding_dim=embedding_dim
-    )
-
 
 def load_dataset(dataset_path):
     paragraphs_path = os.path.join(dataset_path, "paragraphs_test.csv")
@@ -97,7 +80,7 @@ def main():
 
     args = parser.parse_args()
 
-    disambiguator = load_disambiguator()
+    disambiguator = EntityDisambiguator(hf_model_name="sntcristian/WikiBELA")
     all_annotations, all_texts, all_offsets, all_lengths = load_dataset(args.dataset_path)
 
     batch_size = args.batch_size

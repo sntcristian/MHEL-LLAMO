@@ -2,12 +2,11 @@ import torch
 import faiss
 import hydra
 from hydra.experimental import compose, initialize_config_module
-from typing import List, Dict, Any, Tuple
+from typing import List, Dict, Any, Tuple, Optional
 import logging
 import sqlite3
 import re
-
-
+from huggingface_hub import hf_hub_download
 
 logger = logging.getLogger(__name__)
 
@@ -17,13 +16,16 @@ class EntityDisambiguator:
 
     def __init__(
             self,
-            checkpoint_path: str = "./models/model_wiki.ckpt",
-            faiss_index_path: str = "./models/faiss.index",
-            wikidata_index_path: str = "./models/index.txt",
-            db_path: str = "./models/entities.sqlite",
-            embedding_dim : int = 300,
+            checkpoint_path: Optional[str] = None,
+            faiss_index_path: Optional[str] = None,
+            wikidata_index_path: Optional[str] = None,
+            db_path: Optional[str] = None,
+            embedding_dim: int = 300,
             config_name: str = "joint_el_mel",
-            device: str = "cuda:0"
+            device: str = "cuda:0",
+            # Hugging Face parameters
+            hf_model_name: Optional[str] = None,
+            cache_dir: Optional[str] = None
     ):
         """
         Initialize the entity disambiguation model.
@@ -32,17 +34,26 @@ class EntityDisambiguator:
             checkpoint_path: Path to the trained model checkpoint
             faiss_index_path: Path to the precomputed FAISS index
             wikidata_index_path: Path to the Wikidata QID index file
-            db_path : Path to the SQLITE database containing entity information
+            db_path: Path to the SQLITE database containing entity information
+            embedding_dim: Embedding dimension
             config_name: Hydra config name for the model
             device: Device to run the model on
+            hf_model_name: Hugging Face model name (e.g., "sntcristian/WikiBELA")
+            cache_dir: Cache directory for downloaded files
         """
 
         self.device = torch.device(device)
-        self.checkpoint_path = checkpoint_path
-        self.faiss_index_path = faiss_index_path
-        self.wikidata_index_path = wikidata_index_path
-        self.db_path = db_path
         self.embedding_dim = embedding_dim
+
+        # Load from Hugging Face if model name provided
+        if hf_model_name:
+            self._load_from_hf(hf_model_name, cache_dir)
+        else:
+            # Use provided paths or defaults
+            self.checkpoint_path = checkpoint_path or "./models/model_wiki.ckpt"
+            self.faiss_index_path = faiss_index_path or "./models/faiss.index"
+            self.wikidata_index_path = wikidata_index_path or "./models/index.txt"
+            self.db_path = db_path or "./models/knowledge_base.sqlite"
 
         # Load model and components
         self._load_model(config_name)
@@ -50,6 +61,22 @@ class EntityDisambiguator:
         self._load_entity_db()
 
         logger.info(f"EntityDisambiguator initialized")
+
+    def _load_from_hf(self, model_name: str, cache_dir: Optional[str]) -> None:
+        """Load model files from Hugging Face Hub."""
+        files = {
+            'checkpoint_path': 'model_wiki.ckpt',
+            'faiss_index_path': 'faiss.index',
+            'wikidata_index_path': 'index.txt',
+            'db_path': 'knowledge_base.sqlite'
+        }
+        
+        for attr, filename in files.items():
+            setattr(self, attr, hf_hub_download(
+                repo_id=model_name,
+                filename=filename,
+                cache_dir=cache_dir
+            ))
 
     def _load_model(self, config_name: str) -> None:
         """Load the BELA model from checkpoint."""
@@ -64,7 +91,6 @@ class EntityDisambiguator:
             cfg.datamodule.val_path = None
             cfg.datamodule.test_path = None
 
-
         # Initialize components
         self.transform = hydra.utils.instantiate(cfg.task.transform)
         datamodule = hydra.utils.instantiate(cfg.datamodule, transform=self.transform)
@@ -74,7 +100,6 @@ class EntityDisambiguator:
         self.task.setup("train")
         self.task.eval()
         self.task.to(self.device)
-
 
     def _load_faiss_index(self) -> None:
         """Load the precomputed FAISS index."""
@@ -86,13 +111,10 @@ class EntityDisambiguator:
             res = faiss.StandardGpuResources()
             self.faiss_index = faiss.index_cpu_to_gpu(res, self.device.index, self.faiss_index)
 
-
     def _load_entity_db(self):
         logger.info(f"Loading entity database from {self.db_path}")
         self.conn = sqlite3.connect(self.db_path)
         logger.info("Database loaded")
-
-
 
     def _encode_text(self, texts: List[str], mention_offsets: List[List[int]],
                      mention_lengths: List[List[int]]) -> torch.Tensor:
@@ -150,7 +172,6 @@ class EntityDisambiguator:
         scores, indices = self.faiss_index.search(mention_representations.detach().cpu().numpy(), k=k)
         return torch.from_numpy(scores).to(self.device), torch.from_numpy(indices).to(self.device)
 
-
     def get_entity_info(self, lang, entity_id):
         supported_lang = ["en", "fr", "sv", "it", "de", "nl", "fi"]
         if lang not in supported_lang:
@@ -172,9 +193,6 @@ class EntityDisambiguator:
         '''.format(table_name), (entity_id,))
         result = cursor.fetchall()[0]
         return result
-
-
-
 
     def get_candidates_batch(self,
                 texts: List[str],
@@ -227,12 +245,23 @@ class EntityDisambiguator:
                 predictions.append(candidates)
                 example_idx+=1
 
-
             return predictions
 
 
-
-
-
-
-
+# Convenience function for the original interface
+def load_disambiguator(
+        checkpoint_path: str = "./models/model_wiki.ckpt",
+        faiss_index_path: str = "./models/faiss.index",
+        wikidata_index_path: str = "./models/index.txt",
+        db_path: str = "./models/knowledge_base.sqlite",
+        device: str = "cuda:0",
+        embedding_dim: int = 300
+):
+    return EntityDisambiguator(
+        checkpoint_path=checkpoint_path,
+        faiss_index_path=faiss_index_path,
+        wikidata_index_path=wikidata_index_path,
+        db_path=db_path,
+        device=device,
+        embedding_dim=embedding_dim
+    )
