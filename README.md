@@ -8,13 +8,14 @@ This project aims to provide a benchmark for open-source LLMs in Historical Enti
 
 Due to dependency issues, the bi-encoder requires a different huggingface version than LLMs. For this reason, we suggest to create two different conda environments.
 
-### Create BELA (bi-encoder) environment.
+### Create BELA (bi-encoder) environment
 
 ```
 conda create -n bela39 -y python=3.9 && conda activate bela39
 pip install -r requirements_bela.txt
 ```
 
+### Create LLM environment
 ```
 conda create -n mhel-llamo -y python=3.9 && conda activate mhel-llamo
 pip install -r requirements_llms.txt
