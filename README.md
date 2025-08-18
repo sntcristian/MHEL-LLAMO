@@ -1,45 +1,39 @@
-# MultiEL
-Multilingual Entity Linking model by BELA model
+# MHEL-LLAMO
+Multilingual Historical Entity Linking with Large Language Models (LLMs)
 
-This project want to create easy-to-use Multilingual Entity Linking model by BELA model for entity linking in 98 languages.
-
-**Origin Project**
-
-- Bi-encoder Entity Linking Architecture (BELA): [https://github.com/facebookresearch/BELA](https://github.com/facebookresearch/BELA)
-- Multilingual End to End Entity Linking: [https://arxiv.org/abs/2306.08896](https://arxiv.org/abs/2306.08896)
+This project aims to provide a benchmark for open-source LLMs in Historical Entity Linking by using a simple approach: using prompt engineering to filter candidates returned by a smaller bi-encoder model, i.e. BELA.
 
 
-## Install
+## Install Requirements
 
-### 1. Create conda environment and install requirements
+Due to dependency issues, the bi-encoder requires a different huggingface version than LLMs. For this reason, we suggest to create two different conda environments.
 
-(optional) It might be a good idea to use a separate conda environment. Python 3.9 is recommended. It can be created by running:
+### Create BELA (bi-encoder) environment.
+
 ```
 conda create -n bela39 -y python=3.9 && conda activate bela39
-pip install -r requirements.txt
+pip install -r requirements_bela.txt
 ```
 
-### 2. Download the BELA models
-
-The BELA pretrained models can be downloaded using the following script:
-```console
-chmod +x download_models.sh
-./download_models.sh
+```
+conda create -n mhel-llamo -y python=3.9 && conda activate mhel-llamo
+pip install -r requirements_llms.txt
 ```
 
-To run this implementation it is necessary to build the [FAISS](https://github.com/facebookresearch/faiss) indexer, which enables efficient exact/approximate retrieval for biencoder model.
+## Perform Candidate Retrieval with BELA
 
+```
+conda activate bela39
 
-To build and save FAISS index yourself, run
-`python build_faiss.py`
+python 0_get_candidates.py --dataset_path ./test_data/DZ_IT --output_dir ./results/DZ_IT --top_k 20 --lang it
+```
 
+## Perform Candidate Selection with LLM and Compute Metrics
+```
+conda activate mhel-llamo
 
-## Test
+python 1_prompt_llm.py --json_f results/DZ_IT/candidates_top20.json --dataset_path ./test_data/DZ_IT \
+--output_dir ./results/DZ_IT/ --model_id meta-llama/Llama-3.1-8B-Instruct --hf_token your_secret_token
 
-`python entity_disambiguator.py`
-
-
-
-## License
-
-MIT license and the model is MIT license. ([BELA is MIT licensed](https://github.com/facebookresearch/BELA/blob/main/LICENSE))
+python 2_eval.py --path_data ./test_data/DZ_IT --path_results ./results/DZ_IT/
+```
