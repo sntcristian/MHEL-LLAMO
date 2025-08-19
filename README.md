@@ -1,7 +1,7 @@
 # MHEL-LLAMO
 Multilingual Historical Entity Linking with Large Language Models (LLMs)
 
-This project aims to provide a benchmark for open-source LLMs in Historical Entity Linking by using a simple approach: using prompt engineering to filter candidates returned by a smaller bi-encoder model, i.e. BELA.
+This project aims to provide a benchmark for open-source LLMs in Historical Entity Linking by using an ensemble approach which combines a multilingual bi-encoder model, i.e. BELA, for candidate retrieval with prompt engineering for candidate selection.
 
 
 ## Install Requirements
