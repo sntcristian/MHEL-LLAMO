@@ -1,0 +1,384 @@
+doc_id,start_pos,end_pos,surface,gt_id,type,identifier,title,answer,score
+https://digitalzibaldone.net/node/p1012_2,243,249,Andrès,Q2758559,PER,Q2758559,Juan Andrés,,22.15467643737793
+https://digitalzibaldone.net/node/p1012_2,416,422,Milano,Q490,LOC,Q490,Milan,,22.407251358032227
+https://digitalzibaldone.net/node/p1012_2,529,537,Cicerone,Q1541,PER,Q1541,Cicero,,35.611541748046875
+https://digitalzibaldone.net/node/p1012_2,540,546,Andrès,Q2758559,PER,Q2758559,Juan Andrés,,21.780914306640625
+https://digitalzibaldone.net/node/p1023_2,189,195,italia,Q38,LOC,Q38,Italy,,22.04735565185547
+https://digitalzibaldone.net/node/p1023_2,251,255,Cic.,Q1541,PER,Q1541,Cicero,,17.966753005981445
+https://digitalzibaldone.net/node/p1023_2,262,270,Virgilio,Q1398,PER,Q1398,Virgil,,26.2930965423584
+https://digitalzibaldone.net/node/p1023_2,289,296,Augusto,Q1405,PER,Q1405,Augustus,,20.57701873779297
+https://digitalzibaldone.net/node/p1023_2,425,431,Andrès,Q2758559,PER,Q2758559,Juan Andrés,,21.973777770996094
+https://digitalzibaldone.net/node/p1034_2,62,68,Italia,Q38,LOC,Q38,Italy,,25.856895446777344
+https://digitalzibaldone.net/node/p1037_1,64,73,Demostene,Q117253,PER,Q117253,Demosthenes,,30.810087203979492
+https://digitalzibaldone.net/node/p1040_1,421,427,italia,Q38,LOC,Q38,Italy,,21.108057022094727
+https://digitalzibaldone.net/node/p1040_1,436,442,Gallie,Q38060,LOC,Q38060,Gaul,,22.942054748535156
+https://digitalzibaldone.net/node/p1040_1,642,648,Gallie,Q38060,LOC,Q38060,Gaul,,24.36079978942871
+https://digitalzibaldone.net/node/p1040_1,681,687,italia,Q38,LOC,Q38,Italy,,21.250505447387695
+https://digitalzibaldone.net/node/p1040_1,721,728,Sicilia,Q1460,LOC,Q1460,Sicily,,22.419166564941406
+https://digitalzibaldone.net/node/p1040_1,740,746,Gallie,Q38060,LOC,Q38060,Gaul,,23.296890258789062
+https://digitalzibaldone.net/node/p1040_1,1300,1306,italia,Q38,LOC,Q38,Italy,,21.51629638671875
+https://digitalzibaldone.net/node/p1040_1,1312,1319,Francia,Q142,LOC,Q142,France,,19.820219039916992
+https://digitalzibaldone.net/node/p1040_1,1610,1616,italia,Q38,LOC,Q38,Italy,,19.991329193115234
+https://digitalzibaldone.net/node/p1040_1,1622,1629,Francia,Q142,LOC,Q142,France,,19.415056228637695
+https://digitalzibaldone.net/node/p1042_2,208,214,italia,Q38,LOC,Q38,Italy,,20.89659309387207
+https://digitalzibaldone.net/node/p1042_2,333,339,Gallie,Q38060,LOC,Q38060,Gaul,,26.136186599731445
+https://digitalzibaldone.net/node/p1042_2,442,448,italia,Q38,LOC,Q38,Italy,,19.73175048828125
+https://digitalzibaldone.net/node/p1042_2,632,638,italia,Q38,LOC,Q38,Italy,,17.470008850097656
+https://digitalzibaldone.net/node/p1042_2,965,971,Gallie,Q38060,LOC,Q38060,Gaul,,24.324108123779297
+https://digitalzibaldone.net/node/p1042_2,1112,1118,italia,Q38,LOC,Q38,Italy,,23.294809341430664
+https://digitalzibaldone.net/node/p1042_2,1171,1178,Francia,Q142,LOC,Q142,France,,17.340627670288086
+https://digitalzibaldone.net/node/p1045_2,3,10,Francia,Q142,LOC,Q142,France,,24.357498168945312
+https://digitalzibaldone.net/node/p1045_2,595,606,inghilterra,Q21,LOC,Q21,England,,21.219778060913086
+https://digitalzibaldone.net/node/p1045_2,741,747,europa,Q46,LOC,Q46,Europe,,20.556798934936523
+https://digitalzibaldone.net/node/p1045_2,804,810,Andrès,Q2758559,PER,Q2758559,Juan Andrés,"{ ""wikipedia_page"": ""Juan Andrés"", ""wikidata_id"": ""Q2758559"" }",16.245576858520508
+https://digitalzibaldone.net/node/p1045_2,888,894,europa,Q46,LOC,Q46,Europe,,21.843036651611328
+https://digitalzibaldone.net/node/p1045_2,997,1008,Shakespeare,Q692,PER,Q692,William Shakespeare,,21.946941375732422
+https://digitalzibaldone.net/node/p1045_2,1074,1081,Francia,Q142,LOC,Q142,France,"{ ""wikipedia_page"": ""France"", ""wikidata_id"": ""Q142"" }",16.205251693725586
+https://digitalzibaldone.net/node/p1048_2,902,913,Castelvetro,Q936665,PER,Q936665,Lodovico Castelvetro,"{ ""wikipedia_page"": ""Lodovico Castelvetro"", ""wikidata_id"": ""Q936665"" }",14.402349472045898
+https://digitalzibaldone.net/node/p1049_1,300,306,Orazio,Q6197,PER,Q6197,Horace,,27.913286209106445
+https://digitalzibaldone.net/node/p1052_3,59,63,Cic.,Q1541,PER,Q1541,Cicero,,18.926748275756836
+https://digitalzibaldone.net/node/p1054_2,347,387,Saggio sugli Errori popol. degli antichi,NIL,WORK,NIL,Saggio sugli Errori popol. degli antichi,"{ ""wikipedia_page"": ""Saggio sugli Errori popol. degli antichi"", ""wikidata_id"": ""NIL"" }",0
+https://digitalzibaldone.net/node/p1055_2,183,188,Locke,Q9353,PER,Q9353,John Locke,,22.444808959960938
+https://digitalzibaldone.net/node/p1055_2,190,197,Venezia,Q641,LOC,Q641,Venice,,19.818775177001953
+https://digitalzibaldone.net/node/p1056_3,425,433,Cicerone,Q1541,PER,Q1541,Cicero,,19.649995803833008
+https://digitalzibaldone.net/node/p1056_3,441,447,Plauto,Q47160,PER,Q47160,Plautus,,21.661453247070312
+https://digitalzibaldone.net/node/p1056_3,453,461,Terenzio,Q172048,PER,Q172048,Terence,,19.91864585876465
+https://digitalzibaldone.net/node/p1065_3,577,583,Milano,Q490,LOC,Q490,Milan,,19.23797035217285
+https://digitalzibaldone.net/node/p1104_1,502,513,Franciosini,Q1767444,PER,Q1767444,Lorenzo Franciosini,,18.38897132873535
+https://digitalzibaldone.net/node/p1104_1,637,642,Dante,Q1067,PER,Q1067,Dante Alighieri,,24.891138076782227
+https://digitalzibaldone.net/node/p1105_3,250,258,Virgilio,Q1398,PER,Q1398,Virgil,,35.255794525146484
+https://digitalzibaldone.net/node/p1105_3,260,264,Aen.,Q60220,WORK,Q60220,Aeneid,,19.703144073486328
+https://digitalzibaldone.net/node/p1139_1,688,693,Plin.,Q82778,PER,Q82778,Pliny the Elder,,17.978515625
+https://digitalzibaldone.net/node/p1139_1,758,765,Servius,Q355350,PER,Q355350,Servius,,26.345779418945312
+https://digitalzibaldone.net/node/p1139_1,1278,1284,Milano,Q490,LOC,Q490,Milan,,24.803625106811523
+https://digitalzibaldone.net/node/p1148_1,28,38,Forcellini,Q550353,PER,Q550353,Egidio Forcellini,,21.688936233520508
+https://digitalzibaldone.net/node/p1213_1,42,48,europa,Q46,LOC,Q46,Europe,,26.2432918548584
+https://digitalzibaldone.net/node/p1213_1,352,358,europa,Q46,LOC,Q46,Europe,,24.72357749938965
+https://digitalzibaldone.net/node/p1213_1,1018,1024,europa,Q46,LOC,Q46,Europe,,25.664560317993164
+https://digitalzibaldone.net/node/p1213_1,1515,1521,europa,Q46,LOC,Q46,Europe,,23.001976013183594
+https://digitalzibaldone.net/node/p1213_1,1696,1702,europa,Q46,LOC,Q46,Europe,,24.546096801757812
+https://digitalzibaldone.net/node/p1213_1,1716,1722,italia,Q38,LOC,Q38,Italy,,22.08782196044922
+https://digitalzibaldone.net/node/p1213_1,1779,1785,italia,Q38,LOC,Q38,Italy,,19.950786590576172
+https://digitalzibaldone.net/node/p1213_1,2090,2096,europa,Q46,LOC,Q46,Europe,,25.403606414794922
+https://digitalzibaldone.net/node/p1213_1,2370,2376,europa,Q46,LOC,Q46,Europe,,25.828502655029297
+https://digitalzibaldone.net/node/p1230_1,23,33,Forcellini,Q550353,PER,Q550353,Egidio Forcellini,,23.864910125732422
+https://digitalzibaldone.net/node/p1230_1,186,191,Dante,Q1067,PER,Q1067,Dante Alighieri,,22.62254524230957
+https://digitalzibaldone.net/node/p1230_1,549,556,Firenze,Q2044,LOC,Q2044,Florence,,24.477609634399414
+https://digitalzibaldone.net/node/p1230_1,894,900,Milano,Q490,LOC,Q490,Milan,,27.403690338134766
+https://digitalzibaldone.net/node/p1233_1,92,98,europa,Q46,LOC,Q46,Europe,,24.588146209716797
+https://digitalzibaldone.net/node/p1256_2,106,111,Omero,Q6691,PER,Q6691,Homer,,28.646461486816406
+https://digitalzibaldone.net/node/p1256_2,164,173,Raffaello,Q5597,PER,Q5597,Raphael,,24.88936424255371
+https://digitalzibaldone.net/node/p1256_2,1083,1088,Omero,Q6691,PER,Q6691,Homer,,24.171253204345703
+https://digitalzibaldone.net/node/p1260_2,160,167,Alfieri,Q296244,PER,Q296244,Vittorio Alfieri,,26.5148983001709
+https://digitalzibaldone.net/node/p1270_2,815,827,Sir W. Jones,Q273969,PER,Q273969,William Jones,,20.638721466064453
+https://digitalzibaldone.net/node/p1290_1,731,737,Morery,Q1871889,PER,Q1871889,Louis Moréri,,21.154531478881836
+https://digitalzibaldone.net/node/p1290_1,807,815,Prideaux,Q5941597,PER,Q5941597,Humphrey Prideaux,,18.21786880493164
+https://digitalzibaldone.net/node/p1290_1,1184,1190,Bibbia,Q1845,WORK,Q1845,Bible,,22.751161575317383
+https://digitalzibaldone.net/node/p1292_1,108,113,Monti,Q723643,PER,Q723643,Vincenzo Monti,"{ ""wikipedia_page"": ""Vincenzo Monti"", ""wikidata_id"": ""Q723643"" }",11.27286148071289
+https://digitalzibaldone.net/node/p1313_1,135,151,Daniello Bartoli,Q2283604,PER,Q2283604,Daniello Bartoli,,35.76999282836914
+https://digitalzibaldone.net/node/p1313_1,232,237,Monti,Q723643,PER,Q723643,Vincenzo Monti,,18.434432983398438
+https://digitalzibaldone.net/node/p1313_1,605,612,Bartoli,Q2283604,PER,Q2283604,Daniello Bartoli,,31.053340911865234
+https://digitalzibaldone.net/node/p1313_1,1070,1075,Dante,Q1067,PER,Q1067,Dante Alighieri,,28.308513641357422
+https://digitalzibaldone.net/node/p1327_1,101,110,Marmontel,Q379923,PER,Q379923,Jean-François Marmontel,,19.43274688720703
+https://digitalzibaldone.net/node/p1329_1,48,54,italia,Q38,LOC,Q38,Italy,"{ ""wikipedia_page"": ""Italy"", ""wikidata_id"": ""Q38"" }",16.044931411743164
+https://digitalzibaldone.net/node/p1329_1,306,312,italia,Q38,LOC,Q38,Italy,,17.469680786132812
+https://digitalzibaldone.net/node/p1329_1,368,373,Monti,Q723643,PER,Q723643,Vincenzo Monti,"{ ""wikipedia_page"": ""Vincenzo Monti"", ""wikidata_id"": ""Q723643"" }",14.008238792419434
+https://digitalzibaldone.net/node/p1336_2,412,417,Monti,Q723643,PER,Q723643,Vincenzo Monti,,20.254806518554688
+https://digitalzibaldone.net/node/p1350_1,202,208,Milano,Q490,LOC,Q490,Milan,,20.808361053466797
+https://digitalzibaldone.net/node/p1366_1,14,19,Dante,Q1067,PER,Q1067,Dante Alighieri,,25.591182708740234
+https://digitalzibaldone.net/node/p1366_1,293,298,Omero,Q6691,PER,Q6691,Homer,,28.214967727661133
+https://digitalzibaldone.net/node/p1366_1,511,516,Omero,Q6691,PER,Q6691,Homer,,26.391218185424805
+https://digitalzibaldone.net/node/p1366_1,547,552,Monti,Q723643,PER,Q723643,Vincenzo Monti,,17.505765914916992
+https://digitalzibaldone.net/node/p1366_1,684,689,Omero,Q6691,PER,Q6691,Homer,,29.81702995300293
+https://digitalzibaldone.net/node/p1366_1,723,728,Dante,Q1067,PER,Q1067,Dante Alighieri,,27.777050018310547
+https://digitalzibaldone.net/node/p1366_1,737,742,Dante,Q1067,PER,Q1067,Dante Alighieri,,28.583402633666992
+https://digitalzibaldone.net/node/p1366_1,781,786,Omero,Q6691,PER,Q6691,Homer,,28.349937438964844
+https://digitalzibaldone.net/node/p1445_1,210,217,Meursio,Q547901,PER,Q547901,Johannes Meursius,"{ ""wikipedia_page"": ""Johannes Meursius"", ""wikidata_id"": ""Q547901"" }",14.986488342285156
+https://digitalzibaldone.net/node/p1447_3,398,406,Porfirio,Q203445,PER,Q203445,Porphyry,,21.112234115600586
+https://digitalzibaldone.net/node/p1447_3,408,421,"Vit. Plotini,",Q19239197,WORK,Q19239197,Life of Plotinus,,17.481483459472656
+https://digitalzibaldone.net/node/p1450_1,1027,1032,Tasso,Q168962,PER,Q168962,Torquato Tasso,,24.916339874267578
+https://digitalzibaldone.net/node/p1450_1,1058,1068,Metastasio,Q29473,PER,Q29473,Pietro Metastasio,,21.290361404418945
+https://digitalzibaldone.net/node/p1450_1,1076,1083,Alfieri,Q296244,PER,Q296244,Vittorio Alfieri,,23.791603088378906
+https://digitalzibaldone.net/node/p1454_1,529,536,Alfieri,Q296244,PER,Q296244,Vittorio Alfieri,,22.640695571899414
+https://digitalzibaldone.net/node/p1468_1,92,100,Cartesio,Q9191,PER,Q9191,René Descartes,,25.330717086791992
+https://digitalzibaldone.net/node/p1468_1,822,828,europa,Q46,LOC,Q46,Europe,,19.39065933227539
+https://digitalzibaldone.net/node/p1501_1,373,379,spagne,Q29,LOC,Q29,Spain,,21.889554977416992
+https://digitalzibaldone.net/node/p1501_1,399,405,italia,Q38,LOC,Q38,Italy,,18.53868865966797
+https://digitalzibaldone.net/node/p1515_1,208,214,italia,Q38,LOC,Q38,Italy,"{ ""wikipedia_page"": ""Italy"", ""wikidata_id"": ""Q38"" }",15.107104301452637
+https://digitalzibaldone.net/node/p1515_1,220,226,spagna,Q29,LOC,Q29,Spain,,17.842763900756836
+https://digitalzibaldone.net/node/p1557_1,104,109,Omero,Q6691,PER,Q6691,Homer,"{ ""wikipedia_page"": ""Homer"", ""wikidata_id"": ""Q6691"" }",14.55008316040039
+https://digitalzibaldone.net/node/p1589_2,829,836,Bologna,Q1891,LOC,Q1891,Bologna,,26.802959442138672
+https://digitalzibaldone.net/node/p1601_1,602,607,Celso,Q312420,PER,Q312420,Aulus Cornelius Celsus,"{ ""wikipedia_page"": ""Aulus Cornelius Celsus"", ""wikidata_id"": ""Q312420"" }",14.432985305786133
+https://digitalzibaldone.net/node/p1601_1,653,664,Montesquieu,Q15975,PER,Q15975,Montesquieu,,24.993432998657227
+https://digitalzibaldone.net/node/p1650_1,363,368,Omero,Q6691,PER,Q6691,Homer,,29.591312408447266
+https://digitalzibaldone.net/node/p1659_1,514,521,Wieland,Q154010,PER,Q154010,Christoph Martin Wieland,"{ ""wikipedia_page"": ""Christoph Martin Wieland"", ""wikidata_id"": ""Q154010"" }",12.400473594665527
+https://digitalzibaldone.net/node/p1659_1,1041,1046,Dante,Q1067,PER,Q1067,Dante Alighieri,,23.119047164916992
+https://digitalzibaldone.net/node/p1659_1,1048,1056,Petrarca,Q1401,PER,Q1401,Petrarch,,26.06182098388672
+https://digitalzibaldone.net/node/p1671_1,421,429,Germania,Q183,LOC,Q183,Germany,,17.006567001342773
+https://digitalzibaldone.net/node/p1671_1,1046,1052,europa,Q46,LOC,Q46,Europe,,19.048572540283203
+https://digitalzibaldone.net/node/p1671_1,1084,1092,Sismondi,Q124073,PER,Q124073,Jean Charles Léonard de Sismondi,,20.41278076171875
+https://digitalzibaldone.net/node/p1671_1,1099,1106,Lusiade,Q781898,WORK,Q781898,Os Lusíadas,,19.51171875
+https://digitalzibaldone.net/node/p1671_1,1137,1148,Gerusalemme,Q1053313,WORK,Q1053313,Jerusalem Delivered,"{ ""wikipedia_page"": ""Jerusalem Delivered"", ""wikidata_id"": ""Q1053313"" }",10.271393775939941
+https://digitalzibaldone.net/node/p1671_1,1240,1245,Omero,Q6691,PER,Q6691,Homer,,27.03339958190918
+https://digitalzibaldone.net/node/p1671_1,1251,1259,Virgilio,Q1398,PER,Q1398,Virgil,,29.594562530517578
+https://digitalzibaldone.net/node/p1671_1,1321,1331,il Furioso,Q48922,WORK,Q48922,Orlando Furioso,,17.355344772338867
+https://digitalzibaldone.net/node/p1671_1,1993,1999,iliade,Q8275,WORK,Q8275,Iliad,,26.04472541809082
+https://digitalzibaldone.net/node/p1671_1,2004,2011,odissea,Q35160,WORK,Q35160,Odyssey,,24.783166885375977
+https://digitalzibaldone.net/node/p1671_1,2036,2042,Eneide,Q60220,WORK,Q60220,Aeneid,,26.179445266723633
+https://digitalzibaldone.net/node/p1671_1,2151,2157,iliade,Q8275,WORK,Q8275,Iliad,,22.67618179321289
+https://digitalzibaldone.net/node/p1671_1,2175,2181,Eneide,Q60220,WORK,Q60220,Aeneid,,25.578548431396484
+https://digitalzibaldone.net/node/p1678_1,358,364,italia,Q38,LOC,Q38,Italy,,21.431407928466797
+https://digitalzibaldone.net/node/p1699_2,1338,1345,Vegezio,Q4298,PER,Q4298,Vegetius,,26.749374389648438
+https://digitalzibaldone.net/node/p1699_2,1391,1396,Cioni,Q76648171,PER,Q76648171,Gaetano Cioni,,19.864013671875
+https://digitalzibaldone.net/node/p1699_2,1408,1418,G. Capponi,Q719985,PER,Q719985,Gino Capponi,,28.104633331298828
+https://digitalzibaldone.net/node/p1699_2,1425,1434,Pelagonio,Q788340,PER,Q788340,Pelagonius,,23.0047550201416
+https://digitalzibaldone.net/node/p1717_1,61,70,Periandro,Q328793,PER,Q328793,Periander,"{ ""wikipedia_page"": ""Periander"", ""wikidata_id"": ""Q328793"" }",8.914912223815918
+https://digitalzibaldone.net/node/p1720_1,200,208,Cartesio,Q9191,PER,Q9191,René Descartes,,19.352127075195312
+https://digitalzibaldone.net/node/p1773_1,447,452,Adamo,Q70899,PER,Q70899,Adam,,21.091217041015625
+https://digitalzibaldone.net/node/p1794_1,193,202,Senofonte,Q129772,PER,Q129772,Xenophon,,22.75580406188965
+https://digitalzibaldone.net/node/p1794_1,274,283,Senofonte,Q129772,PER,Q129772,Xenophon,,26.73467254638672
+https://digitalzibaldone.net/node/p1794_1,335,354,῾Eλληνικῶν ἱστοριῶν,Q674638,WORK,Q674638,Hellenica,,28.98621940612793
+https://digitalzibaldone.net/node/p1831_1,296,316,mezzogiorno d'Europa,Q27449,LOC,Q27449,Southern Europe,"{ ""wikipedia_page"": ""Southern Europe"", ""wikidata_id"": ""Q27449"" }",13.658214569091797
+https://digitalzibaldone.net/node/p1858_1,20,29,Copernico,Q619,PER,Q619,Nicolaus Copernicus,,26.115337371826172
+https://digitalzibaldone.net/node/p1858_1,279,288,Pittagora,Q10261,PER,Q10261,Pythagoras,,21.798187255859375
+https://digitalzibaldone.net/node/p1858_1,292,309,Aristarco di Samo,Q140188,PER,Q140188,Aristarchus of Samos,,22.596956253051758
+https://digitalzibaldone.net/node/p1867_1,1881,1893,Guicciardini,Q44601,PER,Q44601,Francesco Guicciardini,,26.981504440307617
+https://digitalzibaldone.net/node/p1867_1,1980,1992,Guicciardini,Q44601,PER,Q44601,Francesco Guicciardini,,28.820283889770508
+https://digitalzibaldone.net/node/p1950_1,220,225,Staël,Q123041,PER,Q123041,Germaine de Staël,"{ ""wikipedia_page"": ""Germaine de Staël"", ""wikidata_id"": ""Q123041"" }",12.01601505279541
+https://digitalzibaldone.net/node/p1987_1,282,287,Omero,Q6691,PER,Q6691,Homer,,31.97930908203125
+https://digitalzibaldone.net/node/p1999_2,1609,1616,Francia,Q142,LOC,Q142,France,,22.05722427368164
+https://digitalzibaldone.net/node/p2001_1,27,34,Francia,Q142,LOC,Q142,France,"{ ""wikipedia_page"": ""France"", ""wikidata_id"": ""Q142"" }",12.990171432495117
+https://digitalzibaldone.net/node/p2708_1,0,8,Cartesio,Q9191,PER,Q9191,René Descartes,,24.096208572387695
+https://digitalzibaldone.net/node/p2708_1,171,179,Cartesio,Q9191,PER,Q9191,René Descartes,,21.56806182861328
+https://digitalzibaldone.net/node/p2708_1,426,432,Newton,Q935,PER,Q935,Isaac Newton,,25.535518646240234
+https://digitalzibaldone.net/node/p2708_1,591,598,Platone,Q859,PER,Q859,Plato,,30.601581573486328
+https://digitalzibaldone.net/node/p2711_1,1276,1286,California,Q99,LOC,Q99,California,"{ ""wikipedia_page"": ""California"", ""wikidata_id"": ""Q99"" }",15.652207374572754
+https://digitalzibaldone.net/node/p2735_1,374,378,Cic.,Q1541,PER,Q1541,Cicero,,26.895063400268555
+https://digitalzibaldone.net/node/p2735_1,380,402,Orat. pro Archia poeta,Q3922215,WORK,Q3922215,Pro Archia Poeta,,22.792749404907227
+https://digitalzibaldone.net/node/p2735_1,880,893,impero latino,Q2277,LOC,Q2277,Roman Empire,"{ ""wikipedia_page"": ""Roman Empire"", ""wikidata_id"": ""Q2277"" }",14.251232147216797
+https://digitalzibaldone.net/node/p2735_1,944,952,Cicerone,Q1541,PER,Q1541,Cicero,,23.188575744628906
+https://digitalzibaldone.net/node/p2778_1,1742,1747,Plat.,Q859,PER,Q859,Plato,,23.438671112060547
+https://digitalzibaldone.net/node/p2778_1,1753,1760,Demost.,Q117253,PER,Q117253,Demosthenes,,19.24107551574707
+https://digitalzibaldone.net/node/p2825_2,388,396,Eustazio,Q453465,PER,Q453465,Eustathius of Thessalonica,,22.216638565063477
+https://digitalzibaldone.net/node/p2825_2,535,543,Epifanio,Q313922,PER,Q313922,Epiphanius of Salamis,,21.758562088012695
+https://digitalzibaldone.net/node/p2840_1,919,924,Ennio,Q47130,PER,Q47130,Ennius,,27.087074279785156
+https://digitalzibaldone.net/node/p2840_1,972,980,Lucrezio,Q47154,PER,Q47154,Lucretius,,28.31455421447754
+https://digitalzibaldone.net/node/p2840_1,1005,1011,Catone,Q180081,PER,Q180081,Cato the Elder,,24.002357482910156
+https://digitalzibaldone.net/node/p2875_1,711,722,inghilterra,Q21,LOC,Q21,England,,20.220195770263672
+https://digitalzibaldone.net/node/p2875_1,728,736,Germania,Q183,LOC,Q183,Germany,,17.98362922668457
+https://digitalzibaldone.net/node/p2882_1,288,295,Ammiano,Q172198,PER,Q172198,Ammianus Marcellinus,,24.35764503479004
+https://digitalzibaldone.net/node/p2882_1,980,991,S. Agostino,Q8018,PER,Q8018,Augustine of Hippo,,25.48159408569336
+https://digitalzibaldone.net/node/p2882_1,1250,1257,Ispagna,Q29,LOC,Q29,Spain,,22.26005744934082
+https://digitalzibaldone.net/node/p2923_3,404,412,Cicerone,Q1541,PER,Q1541,Cicero,,31.28925323486328
+https://digitalzibaldone.net/node/p2923_3,414,420,Attica,Q122443,LOC,Q122443,Attica,,17.222728729248047
+https://digitalzibaldone.net/node/p2932_1,715,722,Varrone,Q206119,PER,Q206119,Marcus Terentius Varro,,30.00873565673828
+https://digitalzibaldone.net/node/p2932_1,725,731,Plinio,Q82778,PER,Q82778,Pliny the Elder,,28.0491886138916
+https://digitalzibaldone.net/node/p2932_1,869,875,Persio,Q332785,PER,Q332785,Persius,,21.865978240966797
+https://digitalzibaldone.net/node/p2932_1,1165,1173,Vitruvio,Q47163,PER,Q47163,Vitruvius,,29.5338191986084
+https://digitalzibaldone.net/node/p2932_1,1398,1405,Varrone,Q206119,PER,Q206119,Marcus Terentius Varro,,28.749771118164062
+https://digitalzibaldone.net/node/p2932_1,1856,1863,Varrone,Q206119,PER,Q206119,Marcus Terentius Varro,,22.543590545654297
+https://digitalzibaldone.net/node/p2965_1,966,973,Alfieri,Q296244,PER,Q296244,Vittorio Alfieri,,26.101030349731445
+https://digitalzibaldone.net/node/p2965_1,984,988,Vita,Q4014914,WORK,Q4014914,,,21.120512008666992
+https://digitalzibaldone.net/node/p3006_1,98,104,Gloss.,Q1240983,WORK,Q1240983,Glossarium ad scriptores mediae et infimae latinitatis,"{ ""wikipedia_page"": ""Glossarium ad scriptores mediae et infimae latinitatis"", ""wikidata_id"": ""Q1240983"" }",11.483678817749023
+https://digitalzibaldone.net/node/p3037_3,504,514,S. Giacomo,Q43999,PER,Q43999,"St. James the Elder, Apostle",,19.75638198852539
+https://digitalzibaldone.net/node/p3055_1,762,770,Cicerone,Q1541,PER,Q1541,Cicero,,30.946807861328125
+https://digitalzibaldone.net/node/p3055_1,905,915,Desbillons,Q3083432,PER,Q3083432,François-Joseph Terrasse Desbillons,"{ ""wikipedia_page"": ""François-Joseph Terrasse Desbillons"", ""wikidata_id"": ""Q3083432"" }",13.628430366516113
+https://digitalzibaldone.net/node/p3055_1,927,934,Manheim,Q2119,LOC,Q2119,Mannheim,,21.762418746948242
+https://digitalzibaldone.net/node/p3057_1,169,209,Sermone Quod nemo laedatur nisi a seipso,NIL,WORK,NIL,Sermone Quod nemo laedatur nisi a seipso,"{ ""wikipedia_page"": ""Sermo Quod nemo laedatur nisi a seipso"", ""wikidata_id"": ""NIL"" }",0
+https://digitalzibaldone.net/node/p3057_1,330,339,Chrysost.,Q43706,PER,Q43706,John Chrysostom,,18.618154525756836
+https://digitalzibaldone.net/node/p3057_1,344,354,Montfaucon,Q705306,PER,Q705306,Bernard de Montfaucon,,18.31640625
+https://digitalzibaldone.net/node/p3071_1,132,139,de Rep.,Q656161,WORK,Q656161,De re publica,"{ ""wikipedia_page"": ""De re publica"", ""wikidata_id"": ""Q656161"" }",13.272287368774414
+https://digitalzibaldone.net/node/p3071_1,143,147,Cic.,Q1541,PER,Q1541,Cicero,,17.390853881835938
+https://digitalzibaldone.net/node/p3071_1,249,257,Richelet,Q1236889,PER,Q1236889,César-Pierre Richelet,,26.451074600219727
+https://digitalzibaldone.net/node/p3072_3,149,160,Lucio Silla,Q483783,PER,Q483783,Sulla,,19.934072494506836
+https://digitalzibaldone.net/node/p3072_3,217,225,G. Mario,Q177975,PER,Q177975,Gaius Marius,"{ ""wikipedia_page"": ""Gaius Marius"", ""wikidata_id"": ""Q177975"" }",12.697507858276367
+https://digitalzibaldone.net/node/p3072_3,297,304,Augusto,Q1405,PER,Q1405,Augustus,"{ ""wikipedia_page"": ""Augustus"", ""wikidata_id"": ""Q1405"" }",13.887556076049805
+https://digitalzibaldone.net/node/p3072_3,391,406,Bern. Davanzati,Q2737973,PER,Q2737973,Bernardo Davanzati,"{ ""wikipedia_page"": ""Bernardo Davanzati"", ""wikidata_id"": ""Q2737973"" }",9.708919525146484
+https://digitalzibaldone.net/node/p3077_1,677,686,Perticari,Q3769747,PER,Q3769747,Giulio Perticari,,19.598045349121094
+https://digitalzibaldone.net/node/p3094_1,244,251,Cellini,Q190116,PER,Q190116,Benvenuto Cellini,,18.17527961730957
+https://digitalzibaldone.net/node/p3094_1,328,333,Bembo,Q334188,PER,Q334188,Pietro Bembo,"{ ""wikipedia_page"": ""Pietro Bembo"", ""wikidata_id"": ""Q334188"" }",13.063874244689941
+https://digitalzibaldone.net/node/p3094_1,468,475,Cellini,Q190116,PER,Q190116,Benvenuto Cellini,,17.525829315185547
+https://digitalzibaldone.net/node/p3103_1,50,55,Omero,Q6691,PER,Q6691,Homer,,30.26156234741211
+https://digitalzibaldone.net/node/p3103_1,207,212,Omero,Q6691,PER,Q6691,Homer,,27.38136863708496
+https://digitalzibaldone.net/node/p3103_1,630,637,Lusiade,Q781898,WORK,Q781898,Os Lusíadas,,22.314041137695312
+https://digitalzibaldone.net/node/p3103_1,659,665,Eneide,Q60220,WORK,Q60220,Aeneid,,28.232271194458008
+https://digitalzibaldone.net/node/p3103_1,675,683,Isocrate,Q221182,PER,Q221182,Isocrates,,34.218841552734375
+https://digitalzibaldone.net/node/p3103_1,724,729,Omero,Q6691,PER,Q6691,Homer,,30.65313720703125
+https://digitalzibaldone.net/node/p3103_1,924,934,Panegirico,Q3893205,WORK,Q3893205,Panegyricus,,22.014738082885742
+https://digitalzibaldone.net/node/p3103_1,984,994,Cantabrig.,Q350,LOC,Q350,Cambridge,"{ ""wikipedia_page"": ""Cambridge"", ""wikidata_id"": ""Q350"" }",14.770292282104492
+https://digitalzibaldone.net/node/p3103_1,1027,1032,Omero,Q6691,PER,Q6691,Homer,,29.6923828125
+https://digitalzibaldone.net/node/p3103_1,1338,1343,Omero,Q6691,PER,Q6691,Homer,,30.114887237548828
+https://digitalzibaldone.net/node/p3103_1,1535,1540,Omero,Q6691,PER,Q6691,Homer,,30.056514739990234
+https://digitalzibaldone.net/node/p3103_1,1584,1590,Mileto,Q169460,LOC,Q169460,Miletus,,22.721609115600586
+https://digitalzibaldone.net/node/p3103_1,1600,1605,Dario,Q44387,PER,Q44387,Darius I of Persia,,21.659563064575195
+https://digitalzibaldone.net/node/p3103_1,1707,1714,Longino,Q436634,PER,Q436634,Cassius Longinus,,23.892854690551758
+https://digitalzibaldone.net/node/p3103_1,1834,1840,Strabo,Q45936,PER,Q45936,Strabo,,24.402584075927734
+https://digitalzibaldone.net/node/p3103_1,1857,1866,Aristoph.,Q43353,PER,Q43353,Aristophanes,,20.451576232910156
+https://digitalzibaldone.net/node/p3103_1,1994,2002,Herodot.,Q26825,PER,Q26825,Herodotus,,24.437376022338867
+https://digitalzibaldone.net/node/p3103_1,2106,2112,Tzetz.,Q530515,PER,Q530515,John Tzetzes,,22.82584571838379
+https://digitalzibaldone.net/node/p3103_1,2167,2173,Eliano,Q313782,PER,Q313782,Aelian,,32.67969512939453
+https://digitalzibaldone.net/node/p3103_1,2335,2341,Meurs.,Q547901,PER,Q547901,Johannes Meursius,"{ ""wikipedia_page"": ""Johannes Meursius"", ""wikidata_id"": ""Q547901"" }",13.484588623046875
+https://digitalzibaldone.net/node/p3103_1,2353,2360,Bentley,Q712899,PER,Q712899,Richard Bentley,,18.9408016204834
+https://digitalzibaldone.net/node/p3103_1,2361,2381,Diss. ad Ep. Phalar.,NIL,WORK,NIL,Diss. ad Ep. Phalar.,"{ ""wikipedia_page"": ""Diss. ad Ep. Phalar."", ""wikidata_id"": ""NIL"" }",0
+https://digitalzibaldone.net/node/p3137_2,98,103,Omero,Q6691,PER,Q6691,Homer,,33.4058837890625
+https://digitalzibaldone.net/node/p3137_2,109,115,iliade,Q8275,WORK,Q8275,Iliad,,26.28313446044922
+https://digitalzibaldone.net/node/p3137_2,252,257,Omero,Q6691,PER,Q6691,Homer,,28.54920768737793
+https://digitalzibaldone.net/node/p3137_2,587,593,iliade,Q8275,WORK,Q8275,Iliad,,26.51543426513672
+https://digitalzibaldone.net/node/p3137_2,1133,1138,Omero,Q6691,PER,Q6691,Homer,,33.909217834472656
+https://digitalzibaldone.net/node/p3137_2,2022,2028,iliade,Q8275,WORK,Q8275,Iliad,,24.11327362060547
+https://digitalzibaldone.net/node/p3137_2,2104,2110,Ettore,Q159666,PER,Q159666,Hector,,23.088668823242188
+https://digitalzibaldone.net/node/p3137_2,2224,2232,Patroclo,Q186271,PER,Q186271,Patroclus,,22.680442810058594
+https://digitalzibaldone.net/node/p3137_2,2278,2287,Andromaca,Q19376,PER,Q19376,Andromache,,22.52591896057129
+https://digitalzibaldone.net/node/p3137_2,2502,2507,Omero,Q6691,PER,Q6691,Homer,,31.063552856445312
+https://digitalzibaldone.net/node/p3137_2,3209,3214,Omero,Q6691,PER,Q6691,Homer,,23.25135040283203
+https://digitalzibaldone.net/node/p3137_2,3228,3234,iliade,Q8275,WORK,Q8275,Iliad,,20.78278160095215
+https://digitalzibaldone.net/node/p3137_2,3235,3241,Ettore,Q159666,PER,Q159666,Hector,,22.381040573120117
+https://digitalzibaldone.net/node/p3137_2,3301,3308,Achille,Q41746,PER,Q41746,Achilles,,30.82770538330078
+https://digitalzibaldone.net/node/p3141_1,0,5,Turno,Q633549,PER,Q633549,Turnus,,21.54469871520996
+https://digitalzibaldone.net/node/p3141_1,46,52,Eneide,Q60220,WORK,Q60220,Aeneid,,21.319005966186523
+https://digitalzibaldone.net/node/p3141_1,187,198,Gerusalemme,Q1218,LOC,Q1218,Jerusalem,,18.210357666015625
+https://digitalzibaldone.net/node/p3141_1,270,278,Clorinda,Q17625742,PER,Q17625742,Clorinda,,19.767385482788086
+https://digitalzibaldone.net/node/p3141_1,409,415,Gerus.,Q1053313,WORK,Q1053313,Jerusalem Delivered,"{ ""wikipedia_page"": ""Jerusalem Delivered"", ""wikidata_id"": ""Q1053313"" }",10.906949043273926
+https://digitalzibaldone.net/node/p3141_1,612,617,Tasso,Q168962,PER,Q168962,Torquato Tasso,,22.62639617919922
+https://digitalzibaldone.net/node/p3141_1,964,975,Gerusalemme,Q1218,LOC,Q1218,Jerusalem,,23.88590431213379
+https://digitalzibaldone.net/node/p3143_1,108,113,Omero,Q6691,PER,Q6691,Homer,"{ ""wikipedia_page"": ""Homer"", ""wikidata_id"": ""Q6691"" }",16.46943473815918
+https://digitalzibaldone.net/node/p3202_1,834,838,Vita,Q4014914,WORK,Q4014914,,,20.52878189086914
+https://digitalzibaldone.net/node/p3202_1,867,873,Esiodo,Q44233,PER,Q44233,Hesiod,,24.430675506591797
+https://digitalzibaldone.net/node/p3235_2,0,7,Platone,Q859,PER,Q859,Plato,,26.48820686340332
+https://digitalzibaldone.net/node/p3235_2,64,69,Plat.,Q859,PER,Q859,Plato,,25.22174072265625
+https://digitalzibaldone.net/node/p3235_2,70,75,Lips.,Q2079,LOC,Q2079,Leipzig,,17.717453002929688
+https://digitalzibaldone.net/node/p3235_2,811,818,Platone,Q859,PER,Q859,Plato,,24.486499786376953
+https://digitalzibaldone.net/node/p3235_2,1155,1162,Platone,Q859,PER,Q859,Plato,,29.753150939941406
+https://digitalzibaldone.net/node/p3235_2,1617,1624,Platone,Q859,PER,Q859,Plato,,22.47863006591797
+https://digitalzibaldone.net/node/p3235_2,1920,1927,Platone,Q859,PER,Q859,Plato,,28.389907836914062
+https://digitalzibaldone.net/node/p3235_2,2203,2210,Platone,Q859,PER,Q859,Plato,,25.82159996032715
+https://digitalzibaldone.net/node/p3282_1,1107,1120,Giulio Cesare,Q1048,PER,Q1048,Julius Caesar,,34.5073127746582
+https://digitalzibaldone.net/node/p3282_1,1137,1145,Svetonio,Q10133,PER,Q10133,Suetonius,,19.65190887451172
+https://digitalzibaldone.net/node/p3332_1,484,490,italia,Q38,LOC,Q38,Italy,,24.92270278930664
+https://digitalzibaldone.net/node/p3332_1,1412,1418,italia,Q38,LOC,Q38,Italy,,22.238510131835938
+https://digitalzibaldone.net/node/p3332_1,1849,1853,Cic.,Q1541,PER,Q1541,Cicero,"{ ""wikipedia_page"": ""Cicero"", ""wikidata_id"": ""Q1541"" }",13.27450180053711
+https://digitalzibaldone.net/node/p3332_1,2478,2484,italia,Q38,LOC,Q38,Italy,,23.56977081298828
+https://digitalzibaldone.net/node/p3332_1,3387,3393,italia,Q38,LOC,Q38,Italy,,23.681304931640625
+https://digitalzibaldone.net/node/p3332_1,3679,3685,italia,Q38,LOC,Q38,Italy,,22.954082489013672
+https://digitalzibaldone.net/node/p3349_2,570,578,Voltaire,Q9068,PER,Q9068,Voltaire,,25.983049392700195
+https://digitalzibaldone.net/node/p3365_1,30,39,Louisiane,Q658054,LOC,Q658054,Louisiana,,16.772371292114258
+https://digitalzibaldone.net/node/p3365_1,55,61,France,Q142,LOC,Q142,France,,21.604984283447266
+https://digitalzibaldone.net/node/p3365_1,451,459,Voltaire,Q9068,PER,Q9068,Voltaire,,26.140804290771484
+https://digitalzibaldone.net/node/p3365_1,509,520,Frédéric II,Q33550,PER,Q33550,Frederick II of Prussia,,29.73929214477539
+https://digitalzibaldone.net/node/p3365_1,535,543,Voltaire,Q9068,PER,Q9068,Voltaire,,23.582109451293945
+https://digitalzibaldone.net/node/p3365_1,574,579,Cirey,Q817024,LOC,Q817024,Cirey,,19.557483673095703
+https://digitalzibaldone.net/node/p3365_1,620,631,Frédéric II,Q33550,PER,Q33550,Frederick II of Prussia,,33.426170349121094
+https://digitalzibaldone.net/node/p3365_1,696,707,Frédéric II,Q33550,PER,Q33550,Frederick II of Prussia,,32.97798538208008
+https://digitalzibaldone.net/node/p3403_1,1229,1234,Floro,Q316483,PER,Q316483,Lucius Annaeus Florus,,18.03116798400879
+https://digitalzibaldone.net/node/p3411_1,365,375,Aristotele,Q868,PER,Q868,Aristotle,,29.79169273376465
+https://digitalzibaldone.net/node/p3465_1,488,494,italia,Q38,LOC,Q38,Italy,,21.75279426574707
+https://digitalzibaldone.net/node/p3465_1,848,854,europa,Q46,LOC,Q46,Europe,,24.243947982788086
+https://digitalzibaldone.net/node/p3491_3,494,502,Rousseau,Q6527,PER,Q6527,Jean-Jacques Rousseau,,24.17214584350586
+https://digitalzibaldone.net/node/p3541_2,107,115,Aristot.,Q868,PER,Q868,Aristotle,,20.66329574584961
+https://digitalzibaldone.net/node/p3541_2,116,122,Polit.,Q69539,WORK,Q69539,Politics,,19.944231033325195
+https://digitalzibaldone.net/node/p3544_1,57,61,Ven.,Q641,LOC,Q641,Venice,"{ ""wikipedia_page"": ""Venice"", ""wikidata_id"": ""Q641"" }",14.131875991821289
+https://digitalzibaldone.net/node/p3544_1,99,109,Corn. Nep.,Q109594,PER,Q109594,Cornelius Nepos,"{ ""wikipedia_page"": ""Cornelius Nepos"", ""wikidata_id"": ""Q109594"" }",9.75037956237793
+https://digitalzibaldone.net/node/p3544_1,135,142,Catullo,Q163079,PER,Q163079,Catullus,,20.527198791503906
+https://digitalzibaldone.net/node/p3546_1,572,578,italia,Q38,LOC,Q38,Italy,,23.741456985473633
+https://digitalzibaldone.net/node/p3568_2,175,183,Aristot.,Q868,PER,Q868,Aristotle,,18.564449310302734
+https://digitalzibaldone.net/node/p3568_2,184,190,Polit.,Q69539,WORK,Q69539,Politics,"{ ""wikipedia_page"": ""Politics"", ""wikidata_id"": ""Q69539"" }",13.598798751831055
+https://digitalzibaldone.net/node/p3568_2,201,206,Flor.,Q316483,PER,Q316483,Lucius Annaeus Florus,"{ ""wikipedia_page"": ""Lucius Annaeus Florus"", ""wikidata_id"": ""Q316483"" }",10.202832221984863
+https://digitalzibaldone.net/node/p3569_2,1355,1362,Erodoto,Q26825,PER,Q26825,Herodotus,,26.73180389404297
+https://digitalzibaldone.net/node/p3579_1,71,77,europa,Q46,LOC,Q46,Europe,,20.038286209106445
+https://digitalzibaldone.net/node/p3579_1,82,88,Spagna,Q29,LOC,Q29,Spain,,21.689865112304688
+https://digitalzibaldone.net/node/p3579_1,204,210,italia,Q38,LOC,Q38,Italy,,22.902633666992188
+https://digitalzibaldone.net/node/p3579_1,339,345,Spagna,Q29,LOC,Q29,Spain,,23.63705825805664
+https://digitalzibaldone.net/node/p3579_1,727,734,ispagna,Q29,LOC,Q29,Spain,,23.732927322387695
+https://digitalzibaldone.net/node/p3579_1,944,952,Maometto,Q9458,PER,Q9458,Muhammad,,24.011978149414062
+https://digitalzibaldone.net/node/p3579_1,1733,1739,spagna,Q29,LOC,Q29,Spain,,22.184402465820312
+https://digitalzibaldone.net/node/p3579_1,1793,1799,spagna,Q29,LOC,Q29,Spain,,20.298234939575195
+https://digitalzibaldone.net/node/p3579_1,2106,2113,ispagna,Q29,LOC,Q29,Spain,,24.219449996948242
+https://digitalzibaldone.net/node/p3579_1,2233,2240,Averroe,Q39837,PER,Q39837,Averroes,,20.688535690307617
+https://digitalzibaldone.net/node/p3579_1,2281,2287,europa,Q46,LOC,Q46,Europe,,25.50389862060547
+https://digitalzibaldone.net/node/p3579_1,2398,2404,europa,Q46,LOC,Q46,Europe,,23.67682456970215
+https://digitalzibaldone.net/node/p3579_1,2579,2585,spagna,Q29,LOC,Q29,Spain,,21.213668823242188
+https://digitalzibaldone.net/node/p3593_1,14,19,Tasso,Q168962,PER,Q168962,Torquato Tasso,,27.06012725830078
+https://digitalzibaldone.net/node/p3593_1,403,408,Tasso,Q168962,PER,Q168962,Torquato Tasso,,29.285661697387695
+https://digitalzibaldone.net/node/p3593_1,722,727,Tasso,Q168962,PER,Q168962,Torquato Tasso,,19.854450225830078
+https://digitalzibaldone.net/node/p3593_1,1490,1495,Tasso,Q168962,PER,Q168962,Torquato Tasso,"{ ""wikipedia_page"": ""Torquato Tasso"", ""wikidata_id"": ""Q168962"" }",15.235030174255371
+https://digitalzibaldone.net/node/p3604_1,1608,1613,Omero,Q6691,PER,Q6691,Homer,,28.180503845214844
+https://digitalzibaldone.net/node/p3604_1,1619,1625,iliade,Q8275,WORK,Q8275,Iliad,,19.846052169799805
+https://digitalzibaldone.net/node/p3604_1,2474,2479,Omero,Q6691,PER,Q6691,Homer,,33.07635498046875
+https://digitalzibaldone.net/node/p3604_1,2485,2491,iliade,Q8275,WORK,Q8275,Iliad,,24.535690307617188
+https://digitalzibaldone.net/node/p3604_1,2505,2511,Ettore,Q159666,PER,Q159666,Hector,,23.010454177856445
+https://digitalzibaldone.net/node/p3604_1,2661,2668,Achille,Q41746,PER,Q41746,Achilles,,27.927749633789062
+https://digitalzibaldone.net/node/p3604_1,2757,2762,Omero,Q6691,PER,Q6691,Homer,,28.04163932800293
+https://digitalzibaldone.net/node/p3604_1,3231,3236,Omero,Q6691,PER,Q6691,Homer,,29.74972915649414
+https://digitalzibaldone.net/node/p3604_1,3274,3281,Achille,Q41746,PER,Q41746,Achilles,,33.055763244628906
+https://digitalzibaldone.net/node/p3604_1,3454,3462,Patroclo,Q186271,PER,Q186271,Patroclus,,24.775291442871094
+https://digitalzibaldone.net/node/p3604_1,3577,3584,Achille,Q41746,PER,Q41746,Achilles,,31.478275299072266
+https://digitalzibaldone.net/node/p3604_1,3902,3909,Achille,Q41746,PER,Q41746,Achilles,,29.993507385253906
+https://digitalzibaldone.net/node/p3613_1,474,479,Omero,Q6691,PER,Q6691,Homer,,27.110939025878906
+https://digitalzibaldone.net/node/p3613_1,1188,1194,iliade,Q8275,WORK,Q8275,Iliad,,19.564434051513672
+https://digitalzibaldone.net/node/p3613_1,1988,1992,Enea,Q82732,PER,Q82732,Aeneas,,24.09636878967285
+https://digitalzibaldone.net/node/p3613_1,2231,2236,Omero,Q6691,PER,Q6691,Homer,,28.16316795349121
+https://digitalzibaldone.net/node/p3613_1,2578,2584,iliade,Q8275,WORK,Q8275,Iliad,,21.85923194885254
+https://digitalzibaldone.net/node/p3613_1,3432,3438,iliade,Q8275,WORK,Q8275,Iliad,"{ ""wikipedia_page"": ""Iliad"", ""wikidata_id"": ""Q8275"" }",14.1678466796875
+https://digitalzibaldone.net/node/p3613_1,3596,3601,Omero,Q6691,PER,Q6691,Homer,,26.326770782470703
+https://digitalzibaldone.net/node/p3613_1,3817,3823,iliade,Q8275,WORK,Q8275,Iliad,"{ ""wikipedia_page"": ""Iliad"", ""wikidata_id"": ""Q8275"" }",14.736106872558594
+https://digitalzibaldone.net/node/p3636_1,1210,1219,Prudenzio,Q347250,PER,Q347250,Prudentius,,17.171945571899414
+https://digitalzibaldone.net/node/p3687_1,405,410,Dante,Q1067,PER,Q1067,Dante Alighieri,,25.007986068725586
+https://digitalzibaldone.net/node/p3715_1,1221,1229,Cicerone,Q1541,PER,Q1541,Cicero,,35.76070785522461
+https://digitalzibaldone.net/node/p3749_2,321,326,Omero,Q6691,PER,Q6691,Homer,,27.45440673828125
+https://digitalzibaldone.net/node/p3749_2,867,873,italia,Q38,LOC,Q38,Italy,,23.693309783935547
+https://digitalzibaldone.net/node/p3749_2,1023,1029,italia,Q38,LOC,Q38,Italy,,22.76678466796875
+https://digitalzibaldone.net/node/p3749_2,1594,1600,italia,Q38,LOC,Q38,Italy,,20.876853942871094
+https://digitalzibaldone.net/node/p3758_1,796,801,Forc.,Q550353,PER,Q550353,Egidio Forcellini,"{ ""wikipedia_page"": ""Forcellini"", ""wikidata_id"": ""Q550353"" }",13.9398193359375
+https://digitalzibaldone.net/node/p3811_4,1327,1333,Milano,Q490,LOC,Q490,Milan,,22.534481048583984
+https://digitalzibaldone.net/node/p3830_1,731,737,italia,Q38,LOC,Q38,Italy,,23.604381561279297
+https://digitalzibaldone.net/node/p3842_1,295,302,Creuzer,Q69685,PER,Q69685,Georg Friedrich Creuzer,,22.207256317138672
+https://digitalzibaldone.net/node/p3845_2,93,100,Catullo,Q163079,PER,Q163079,Catullus,,29.646581649780273
+https://digitalzibaldone.net/node/p3845_2,113,126,Paolo Diacono,Q160424,PER,Q160424,Paul the Deacon,,30.23137092590332
+https://digitalzibaldone.net/node/p3858_1,205,211,italia,Q38,LOC,Q38,Italy,,19.94052505493164
+https://digitalzibaldone.net/node/p3858_1,217,223,spagna,Q29,LOC,Q29,Spain,,22.88174819946289
+https://digitalzibaldone.net/node/p3858_1,311,317,italia,Q38,LOC,Q38,Italy,,21.121706008911133
+https://digitalzibaldone.net/node/p3858_1,323,329,spagna,Q29,LOC,Q29,Spain,,23.69731903076172
+https://digitalzibaldone.net/node/p3858_1,791,797,europa,Q46,LOC,Q46,Europe,,25.18248176574707
+https://digitalzibaldone.net/node/p3858_1,868,874,europa,Q46,LOC,Q46,Europe,,21.755006790161133
+https://digitalzibaldone.net/node/p3858_1,1125,1131,spagna,Q29,LOC,Q29,Spain,,23.258028030395508
+https://digitalzibaldone.net/node/p3858_1,1293,1299,italia,Q38,LOC,Q38,Italy,,23.07107162475586
+https://digitalzibaldone.net/node/p3858_1,1308,1314,spagna,Q29,LOC,Q29,Spain,,23.2876033782959
+https://digitalzibaldone.net/node/p3858_1,2089,2095,italia,Q38,LOC,Q38,Italy,,20.453567504882812
+https://digitalzibaldone.net/node/p3858_1,2101,2107,Spagna,Q29,LOC,Q29,Spain,,20.876930236816406
+https://digitalzibaldone.net/node/p3887_1,23,29,italia,Q38,LOC,Q38,Italy,,18.096885681152344
+https://digitalzibaldone.net/node/p3887_1,86,95,Trivulzio,Q742997,PER,Q742997,Gian Giacomo Trivulzio,"{ ""wikipedia_page"": ""Gian Giacomo Trivulzio"", ""wikidata_id"": ""Q742997"" }",15.98402214050293
+https://digitalzibaldone.net/node/p3887_1,100,112,Montecuccoli,Q454789,PER,Q454789,Raimondo Montecuccoli,"{ ""wikipedia_page"": ""Raimondo Montecuccoli"", ""wikidata_id"": ""Q454789"" }",15.089208602905273
+https://digitalzibaldone.net/node/p3887_1,238,262,la Repubblica di Venezia,Q4948,LOC,Q4948,Republic of Venice,,27.1179256439209
+https://digitalzibaldone.net/node/p3887_1,601,615,Bernardo Tasso,Q823060,PER,Q823060,Bernardo Tasso,,27.472259521484375
+https://digitalzibaldone.net/node/p3887_1,1033,1041,Mazarino,Q166056,PER,Q166056,Cardinal Mazarin,,24.91606903076172
+https://digitalzibaldone.net/node/p3887_1,1045,1053,Alberoni,Q539927,PER,Q539927,Giulio Alberoni,,21.929243087768555
+https://digitalzibaldone.net/node/p3887_1,1355,1359,Roma,Q220,LOC,Q220,Rome,,18.664438247680664
+https://digitalzibaldone.net/node/p3887_1,1447,1453,italia,Q38,LOC,Q38,Italy,,21.82292938232422
+https://digitalzibaldone.net/node/p3887_1,1674,1680,europa,Q46,LOC,Q46,Europe,,22.73556900024414
+https://digitalzibaldone.net/node/p3887_1,2108,2114,Trento,Q3376,LOC,Q3376,Trento,,22.704814910888672
+https://digitalzibaldone.net/node/p3887_1,2676,2682,italia,Q38,LOC,Q38,Italy,,21.01866912841797
+https://digitalzibaldone.net/node/p3887_1,2884,2890,italia,Q38,LOC,Q38,Italy,,21.090808868408203
+https://digitalzibaldone.net/node/p3887_1,3061,3065,Roma,Q220,LOC,Q220,Rome,,20.415197372436523
+https://digitalzibaldone.net/node/p3887_1,3128,3137,S. Pietro,Q33923,PER,Q33923,Saint Peter,,23.132305145263672
+https://digitalzibaldone.net/node/p3887_1,3212,3218,Leon X,Q49237,PER,Q49237,Leo X,,23.089929580688477
+https://digitalzibaldone.net/node/p3887_1,3315,3319,Roma,Q220,LOC,Q220,Rome,,19.15262222290039
+https://digitalzibaldone.net/node/p3895_2,366,373,Niebuhr,Q60586,PER,Q60586,Barthold Georg Niebuhr,,29.952098846435547
+https://digitalzibaldone.net/node/p3907_2,88,96,2. lett.,NIL,WORK,NIL,2. lett.,"{ ""wikipedia_page"": ""coutelet"", ""wikidata_id"": ""NIL"" }",0
+https://digitalzibaldone.net/node/p3931_3,66,77,Frédéric II,Q33550,PER,Q33550,Frederick II of Prussia,,25.002880096435547
+https://digitalzibaldone.net/node/p3955_2,1610,1615,Maria,Q345,PER,Q345,Mary,,21.059284210205078
+https://digitalzibaldone.net/node/p3963_1,689,694,Forc.,Q550353,PER,Q550353,Egidio Forcellini,"{ ""wikipedia_page"": ""Egidio Forcellini"", ""wikidata_id"": ""Q550353"" }",11.78269100189209
+https://digitalzibaldone.net/node/p3963_1,745,750,Forc.,Q550353,PER,Q550353,Egidio Forcellini,"{ ""wikipedia_page"": ""Egidio Forcellini"", ""wikidata_id"": ""Q550353"" }",11.708168029785156
+https://digitalzibaldone.net/node/p3963_1,1329,1334,Forc.,Q550353,PER,Q550353,Egidio Forcellini,"{ ""wikipedia_page"": ""Egidio Forcellini"", ""wikidata_id"": ""Q550353"" }",12.49637222290039
+https://digitalzibaldone.net/node/p3980_1,254,264,D. Quijote,Q480,WORK,Q480,Don Quixote,,28.13928985595703
+https://digitalzibaldone.net/node/p3980_1,441,447,Sancho,Q630823,PER,Q630823,Sancho Panza,,20.74153709411621
+https://digitalzibaldone.net/node/p3980_1,658,668,D. Quijote,Q480,WORK,Q480,Don Quixote,,24.94249153137207
+https://digitalzibaldone.net/node/p3980_1,706,713,Amberes,Q12892,LOC,Q12892,Antwerp,"{ ""wikipedia_page"": ""Amberes"", ""wikidata_id"": ""Q12892"" }",16.373762130737305
+https://digitalzibaldone.net/node/p3986_3,273,281,Forcell.,Q550353,PER,Q550353,Egidio Forcellini,"{ ""wikipedia_page"": ""Egidio Forcellini"", ""wikidata_id"": ""Q550353"" }",11.310317039489746
+https://digitalzibaldone.net/node/p3986_3,328,338,Caio Tizio,Q857119,PER,Q857119,Gaius Titius,,23.763671875
+https://digitalzibaldone.net/node/p3988_1,246,252,Anacr.,Q213484,PER,Q213484,Anacreon,"{ ""wikipedia_page"": ""Anacreon"", ""wikidata_id"": ""Q213484"" }",10.493824005126953
+https://digitalzibaldone.net/node/p3988_1,499,508,Ippocrate,Q5264,PER,Q5264,Hippocrates,,26.551382064819336
+https://digitalzibaldone.net/node/p3992_5,254,264,D. Quijote,Q480,WORK,Q480,Don Quixote,,16.756908416748047
+https://digitalzibaldone.net/node/p3992_5,483,493,D. Quijote,Q480,WORK,Q480,Don Quixote,"{ ""wikipedia_page"": ""Don Quixote"", ""wikidata_id"": ""Q480"" }",15.19784927368164
+https://digitalzibaldone.net/node/p3995_3,64,74,Anacreonte,Q213484,PER,Q213484,Anacreon,"{ ""wikipedia_page"": ""Anacreon"", ""wikidata_id"": ""Q213484"" }",14.40075969696045
+https://digitalzibaldone.net/node/p4000_1,456,464,Petrarca,Q1401,PER,Q1401,Petrarch,,32.393707275390625
+https://digitalzibaldone.net/node/p4000_1,465,470,Canz.,Q777574,WORK,Q777574,Il Canzoniere,,20.526344299316406

@@ -26,15 +26,18 @@ pip install -r requirements_llms.txt
 ```
 conda activate bela39
 
-python 0_get_candidates.py --dataset_path ./test_data/DZ_IT --output_dir ./results/DZ_IT --top_k 20 --lang it
+python get_candidates.py --dataset_path ./test_data/DZ_IT --output_dir ./results/DZ_IT --top_k 20 --lang it
 ```
 
 ## Perform Candidate Selection with LLM and Compute Metrics
 ```
 conda activate mhel-llamo
 
-python 1_prompt_llm.py --json_f results/DZ_IT/candidates_top20.json --dataset_path ./test_data/DZ_IT \
---output_dir ./results/DZ_IT/ --model_id meta-llama/Llama-3.1-8B-Instruct --hf_token your_secret_token
+python prompt_llm.py --json_f results/DZ_IT/candidates_top20.json --dataset_path ./test_data/DZ_IT \
+--output_dir ./result_1 --model_id meta-llama/Llama-3.1-8B-Instruct --hf_token your_secret_token
 
-python 2_eval.py --path_data ./test_data/DZ_IT --path_results ./results/DZ_IT/
+python ensemble_prompt_llm.py --json_f results/DZ_IT/candidates_top20.json --dataset_path ./test_data/DZ_IT \
+--output_dir ./result_2 --threshold 16.67 --model_id meta-llama/Llama-3.1-8B-Instruct --hf_token your_secret_token
+
+python eval.py --path_data ./test_data/DZ_IT --path_results ./result_1/
 ```
