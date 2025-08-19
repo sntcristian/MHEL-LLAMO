@@ -7,6 +7,7 @@ import logging
 import sqlite3
 import re
 from huggingface_hub import hf_hub_download
+import os
 
 logger = logging.getLogger(__name__)
 
@@ -64,6 +65,7 @@ class EntityDisambiguator:
 
     def _load_from_hf(self, model_name: str, cache_dir: Optional[str]) -> None:
         """Load model files from Hugging Face Hub."""
+        
         files = {
             'checkpoint_path': 'model_wiki.ckpt',
             'faiss_index_path': 'faiss.index',
@@ -250,13 +252,15 @@ class EntityDisambiguator:
 
 # Convenience function for the original interface
 def load_disambiguator(
-        checkpoint_path: str = "./models/model_wiki.ckpt",
-        faiss_index_path: str = "./models/faiss.index",
-        wikidata_index_path: str = "./models/index.txt",
-        db_path: str = "./models/knowledge_base.sqlite",
+        models_path: str = "./models",
         device: str = "cuda:0",
         embedding_dim: int = 300
 ):
+    checkpoint_path = os.path.join(models_path, "model_wiki.ckpt")
+    faiss_index_path = os.path.join(models_path, "faiss.index")
+    wikidata_index_path = os.path.join(models_path, "index.txt")
+    db_path = os.path.join(models_path, "knowledge_base.sqlite")
+
     return EntityDisambiguator(
         checkpoint_path=checkpoint_path,
         faiss_index_path=faiss_index_path,

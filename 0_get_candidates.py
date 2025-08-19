@@ -3,8 +3,17 @@ import os
 import csv
 import json
 from tqdm import tqdm
-from src.retriever import EntityDisambiguator
+from src.retriever import EntityDisambiguator, load_disambiguator
 
+
+def str_to_bool(value):
+    if isinstance(value, bool):
+        return value
+    if value.lower() in {'false', 'f', '0', 'no', 'n'}:
+        return False
+    elif value.lower() in {'true', 't', '1', 'yes', 'y'}:
+        return True
+    raise ValueError(f'{value} is not a valid boolean value')
 
 
 def load_dataset(dataset_path):
@@ -77,10 +86,17 @@ def main():
     parser.add_argument("--output_dir", type=str, required=True, help="Output directory for results")
     parser.add_argument("--top_k", type=int, default=10, help="Number of top candidates to retrieve")
     parser.add_argument("--batch_size", type=int, default=4, help="Number of documents in a batch")
+    parser.add_argument('--use_hf_model', type=str_to_bool, default=1)
+    parser.add_argument('--models_path', type=str, default="./models")
+    parser.add_argument('--device', type=str, default="cuda:0")
 
     args = parser.parse_args()
+    
+    if args.use_hf_model:
+        disambiguator = EntityDisambiguator(hf_model_name="sntcristian/WikiBELA", device=args.device)
+    else:
+        disambiguator = load_disambiguator(models_path=args.models_path, device=args.device)
 
-    disambiguator = EntityDisambiguator(hf_model_name="sntcristian/WikiBELA")
     all_annotations, all_texts, all_offsets, all_lengths = load_dataset(args.dataset_path)
 
     batch_size = args.batch_size
