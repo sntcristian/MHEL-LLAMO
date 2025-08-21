@@ -16,9 +16,9 @@ def str_to_bool(value):
     raise ValueError(f'{value} is not a valid boolean value')
 
 
-def load_dataset(dataset_path):
-    paragraphs_path = os.path.join(dataset_path, "paragraphs_test.csv")
-    annotations_path = os.path.join(dataset_path, "annotations_test.csv")
+def load_dataset(dataset_path, split):
+    paragraphs_path = os.path.join(dataset_path, f"paragraphs_{split}.csv")
+    annotations_path = os.path.join(dataset_path, f"annotations_{split}.csv")
 
     with open(paragraphs_path, "r", encoding="utf-8") as doc_f:
         paragraphs = list(csv.DictReader(doc_f))
@@ -88,6 +88,7 @@ def main():
     parser.add_argument("--batch_size", type=int, default=4, help="Number of documents in a batch")
     parser.add_argument('--use_hf_model', type=str_to_bool, default=1)
     parser.add_argument('--models_path', type=str, default="./models")
+    parser.add_argument('--split', type=str, default="test")
     parser.add_argument('--device', type=str, default="cuda:0")
 
     args = parser.parse_args()
@@ -97,7 +98,7 @@ def main():
     else:
         disambiguator = load_disambiguator(models_path=args.models_path, device=args.device)
 
-    all_annotations, all_texts, all_offsets, all_lengths = load_dataset(args.dataset_path)
+    all_annotations, all_texts, all_offsets, all_lengths = load_dataset(args.dataset_path, args.split)
 
     batch_size = args.batch_size
     all_results = []
@@ -122,7 +123,7 @@ def main():
                 }
             )
     os.makedirs(args.output_dir, exist_ok=True)
-    with open(os.path.join(args.output_dir, f"candidates_top{args.top_k}.json"), "w", encoding="utf-8") as out_f:
+    with open(os.path.join(args.output_dir, f"candidates_{args.split}_top{args.top_k}_{args.lang}.json"), "w", encoding="utf-8") as out_f:
         json.dump(all_results, out_f, indent=4, ensure_ascii=False)
 
 if __name__ == "__main__":
