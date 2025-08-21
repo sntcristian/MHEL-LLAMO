@@ -26,6 +26,7 @@ def main():
     parser.add_argument("--json_f", type=str, required=True, help="Path to JSON list of candidates")
     parser.add_argument("--dataset_path", type=str, required=True, help="Path to dataset directory")
     parser.add_argument("--output_dir", type=str, required=True, help="Output directory for results")
+    parser.add_argument("--threshold", type=float, default=0, help="Threshold to be used to filter hard negatives.")
     parser.add_argument("--model_id", type=str, default="meta-llama/Llama-3.1-8B-Instruct", help="Huggingface repo of LLM")
     parser.add_argument("--hf_token", type=str, default="", help="Huggingface token to access restricted repo.")
     parser.add_argument("--n_candidates", type=int, default=50, help="Number of candidates to put in prompt.")
@@ -62,6 +63,21 @@ def main():
         doc_id = item["doc_id"]
         start_pos = int(item["start_pos"])
         end_pos = int(item["end_pos"])
+        if args.threshold > 0:
+            if item["candidates"][0]["score"] >= args.threshold:
+                output.append({
+                    "doc_id":doc_id,
+                    "start_pos":start_pos,
+                    "end_pos":end_pos,
+                    "surface":item["surface"],
+                    "gt_id": item["identifier"],
+                    "type":item["type"],
+                    "identifier":item["candidates"][0]["wb_id"],
+                    "title":item["candidates"][0]["label"],
+                    "answer":"",
+                    "score":item["candidates"][0]["score"]
+                })
+                continue
         date = [p for p in paragraphs if p["doc_id"]==doc_id][0]["publication_date"]
         lang = iso_to_lang[[p for p in paragraphs if p["doc_id"]==doc_id][0]["lang"]]
         genre = [p for p in paragraphs if p["doc_id"]==doc_id][0]["genre"]
@@ -101,12 +117,9 @@ def main():
 
         if match:
             wikidata_id = match.group(1)
-            print(f"Found Wikidata ID: {wikidata_id} for entity {item['surface']}")
-
         else:
-            print(f"No Wikidata ID found for entity {item['surface']}.")
             wikidata_id = "NIL"
-            print(response)
+
 
         selected_entity = [x for x in item["candidates"] if x["wb_id"] == wikidata_id]
         if len(selected_entity)>0:
@@ -135,6 +148,7 @@ def main():
                 "answer": re.sub(r'\s+', " ", response),
                 "score": 0
             })
+                
     os.makedirs(args.output_dir, exist_ok=True)
     with open(os.path.join(args.output_dir, "output.csv"), "w", encoding="utf-8") as out_f:
         dict_writer = csv.DictWriter(out_f, output[0].keys())
