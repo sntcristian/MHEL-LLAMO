@@ -158,7 +158,7 @@ def analyze_dataset_statistics(data: List[Dict]) -> Dict:
 # Example usage
 if __name__ == "__main__":
     
-    data_path = "../results/MHERCL_IT/candidates_top50.json"
+    data_path = "results/DZ_IT/candidates_dev_top10.json"
     with open(data_path, "r", encoding="utf-8") as f:
         sample_data = json.load(f)
 

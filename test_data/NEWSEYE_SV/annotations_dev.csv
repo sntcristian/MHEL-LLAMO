@@ -1,0 +1,260 @@
+doc_id,surface,start_pos,end_pos,type,identifier
+dev_sv_1,"Kuddnäs, Topelius' födelseort",30,59,LOC,NIL
+dev_sv_1,Munsterhjelm,81,93,PER,Q4307542
+dev_sv_1,dekorationsmålaren Vuorio,105,130,PER,NIL
+dev_sv_1,Z. Topelius,145,156,PER,Q139549
+dev_sv_1,Wilhelmsbad,182,193,LOC,Q18662881
+dev_sv_1,Ingå socken ordföranden ikommunalnämden därstädes sjökapte-nen Viktor Hanritz Qvarn-ström,340,429,PER,NIL
+dev_sv_1,Kapten Q.,1043,1052,PER,NIL
+dev_sv_1,"ålderstigenmaka, född Lemström",1139,1169,PER,NIL
+dev_sv_1,Viborg,1289,1295,LOC,Q14657
+dev_sv_1,fru MatildaSuominen,1327,1346,PER,NIL
+dev_sv_1,Lydecken,1373,1381,PER,NIL
+dev_sv_1,firman Hackman & C:o,1404,1424,ORG,Q5400319
+dev_sv_1,hand-landen W. Harling,1466,1488,PER,NIL
+dev_sv_1,firma Lydecken & Harling,1505,1529,ORG,NIL
+dev_sv_1,Alliångslupsbolag,1750,1767,ORG,NIL
+dev_sv_1,Viborgs ångslupsaktiebo-lag,1800,1827,ORG,NIL
+dev_sv_2,Hr Tötterman,0,12,PER,NIL
+dev_sv_2,hr Killinens,295,307,PER,Q5403873
+dev_sv_2,Hr J. A. Pelkonen,316,333,PER,NIL
+dev_sv_2,hr Schwindt,362,373,PER,NIL
+dev_sv_2,hr Idmans,393,402,PER,Q23698908
+dev_sv_2,Hr C. E. Holmberg,411,428,PER,NIL
+dev_sv_2,hr Kilinens,762,773,PER,Q5403873
+dev_sv_2,hr Åkesson,1074,1084,PER,NIL
+dev_sv_2,hr AxelLille,1296,1308,PER,Q1974329
+dev_sv_3,10:de linjenpå Wasili-ostroff,242,271,LOC,NIL
+dev_sv_3,"inten-denten för byggnaden, hr Prichadko",575,615,PER,NIL
+dev_sv_3,Maria-palatsets,1115,1130,LOC,NIL
+dev_sv_3,Herold,1140,1146,PROD,Q1755774
+dev_sv_3,Petersburg,1172,1182,LOC,Q656
+dev_sv_3,Kijeff,1312,1318,LOC,Q1899
+dev_sv_3,Podol,1381,1386,LOC,Q13222773
+dev_sv_3,Rostoff vid Don,1474,1489,LOC,Q908
+dev_sv_3,Rostoff vid Don,1674,1689,LOC,Q908
+dev_sv_3,Petersburg,1886,1896,LOC,Q656
+dev_sv_3,New-York,2352,2360,LOC,Q60
+dev_sv_3,Paris,2361,2366,LOC,Q90
+dev_sv_3,Moskva,2367,2373,LOC,Q649
+dev_sv_3,New-York,2456,2464,LOC,Q60
+dev_sv_3,Paris,2465,2470,LOC,Q90
+dev_sv_3,Turkiet,2592,2599,LOC,Q43
+dev_sv_3,WIEN,2600,2604,LOC,Q1741
+dev_sv_3,Korr. Bu-reau,2619,2632,ORG,NIL
+dev_sv_3,Konstantino-pel,2647,2662,LOC,Q406
+dev_sv_3,Turkiet,2798,2805,LOC,Q43
+dev_sv_3,vilajetet Kossovo,2893,2910,LOC,Q168501
+dev_sv_3,Uskyb,2952,2957,LOC,NIL
+dev_sv_4,hr V.Lvoff,206,216,PER,NIL
+dev_sv_4,depp. V. Lvoff,526,540,PER,NIL
+dev_sv_4,Savenko,545,552,PER,NIL
+dev_sv_4,Tarnoffskaja,738,750,PER,NIL
+dev_sv_4,Finland,769,776,LOC,Q62633
+dev_sv_4,Retsch,785,791,PROD,Q1419486
+dev_sv_4,Halila sanatorium,798,815,ORG,Q14956906
+dev_sv_4,från Tarnoffskajaproces-sen kände Naumoff,837,878,PER,NIL
+dev_sv_4,grefve Koma-roffski,916,935,PER,NIL
+dev_sv_4,Budbäraren,953,963,PROD,NIL
+dev_sv_4,"Tjänstemannen vid inrikesministeriet,furst Urutoff",965,1015,PER,NIL
+dev_sv_4,”Regeringsbudbära-ren,1055,1076,PROD,NIL
+dev_sv_4,Rom,1124,1127,LOC,Q220
+dev_sv_4,Berl.Tageblatt,1142,1156,PROD,Q455014
+dev_sv_4,vatikanen,1220,1229,LOC,Q237
+dev_sv_4,Rampol-la,1769,1778,PER,Q508860
+dev_sv_4,Tyskland,1949,1957,LOC,Q43287
+dev_sv_4,Italien,1959,1966,LOC,Q172579
+dev_sv_4,Österrike,1970,1979,LOC,Q40
+dev_sv_4,Frankrike,2047,2056,LOC,Q70802
+dev_sv_4,vatikanen,2184,2193,LOC,Q237
+dev_sv_4,Ram-polla,2220,2229,PER,Q508860
+dev_sv_4,ROM,2299,2302,LOC,Q220
+dev_sv_4,Notisbyrån,2475,2485,ORG,Q8095218
+dev_sv_4,"verk-ställande direktören i bolaget Ota, vi",2553,2596,PER,NIL
+dev_sv_5,Paris,303,308,LOC,Q90
+dev_sv_5,Paris,568,573,LOC,Q90
+dev_sv_5,LeJournal International,664,687,PROD,NIL
+dev_sv_5,London,790,796,LOC,Q84
+dev_sv_5,Indien,850,856,LOC,Q668
+dev_sv_5,Indien,1542,1548,LOC,Q668
+dev_sv_5,Indien,1866,1872,LOC,Q668
+dev_sv_5,Köln,2145,2149,LOC,Q365
+dev_sv_5,kapten Alexis Kuvlenstierna,2378,2405,PER,Q5927211
+dev_sv_5,D. N.,2422,2427,PROD,Q1126918
+dev_sv_5,Europas,2448,2455,LOC,Q46
+dev_sv_5,Marocko,2527,2534,LOC,Q1028
+dev_sv_5,Europas,2566,2573,LOC,Q46
+dev_sv_5,Tripolis,2862,2870,LOC,Q3579
+dev_sv_5,Italien,2925,2932,LOC,Q172579
+dev_sv_5,Tripolis,3093,3101,LOC,Q3579
+dev_sv_5,Italien,3229,3236,LOC,Q172579
+dev_sv_5,Tripolis,3255,3263,LOC,Q3579
+dev_sv_5,Europa,3274,3280,LOC,Q46
+dev_sv_5,Jungtsedalen,3385,3397,LOC,NIL
+dev_sv_5,Kina,3411,3415,LOC,Q29520
+dev_sv_5,Europa,3558,3564,LOC,Q46
+dev_sv_5,odugliga Pekinghovets,3747,3768,ORG,NIL
+dev_sv_6,Adriatiska ha-vet,63,80,LOC,Q13924
+dev_sv_6,Adriatiska havet,324,340,LOC,Q13924
+dev_sv_6,F. N. B.,378,386,ORG,Q8095218
+dev_sv_6,New York Times,464,478,PROD,Q9684
+dev_sv_6,Nordsjön,595,603,LOC,Q1693
+dev_sv_6,England,695,702,LOC,Q21
+dev_sv_6,Nordsjöns,830,839,LOC,Q1693
+dev_sv_6,FörentaStaterna,887,902,LOC,Q30
+dev_sv_7,Kirstilä skog,367,380,LOC,NIL
+dev_sv_7,Nå-dendal,509,518,LOC,Q503862
+dev_sv_7,"Förresoldaten Mikaël Kosloffski, polack tillbörden",684,734,PER,NIL
+dev_sv_7,Prästöi Sund,756,768,LOC,Q21974079
+dev_sv_7,Kosloffski,795,805,PER,NIL
+dev_sv_7,Bo-marsunds fästning,937,957,LOC,Q834336
+dev_sv_7,Kosloffski,978,988,PER,NIL
+dev_sv_7,Åland,1000,1005,LOC,Q5689
+dev_sv_7,Haga kungsgård,1008,1022,ORG,NIL
+dev_sv_7,Hagakungsgård på Åland,1064,1086,ORG,NIL
+dev_sv_7,Puotila lå-genhet i Vehmo,1237,1262,LOC,NIL
+dev_sv_7,Lokalahtikyrka,1274,1288,LOC,Q19706237
+dev_sv_7,Tötsala,1311,1318,LOC,Q807904
+dev_sv_7,Ny-kyrko sockens,1350,1366,LOC,Q3366114
+dev_sv_7,Åland,1488,1493,LOC,Q5689
+dev_sv_8,Argonnerna,2,12,LOC,Q649125
+dev_sv_8,Fille morte,70,81,LOC,NIL
+dev_sv_8,Verdun,101,107,LOC,Q154748
+dev_sv_8,Maasfloden,201,211,LOC,Q41986
+dev_sv_8,Fro-mezey,222,231,LOC,Q59403
+dev_sv_8,Malan-court,289,300,LOC,Q386865
+dev_sv_8,Maas,305,309,LOC,Q41986
+dev_sv_8,Maas,388,392,LOC,Q41986
+dev_sv_8,Orne,409,413,LOC,Q1047027
+dev_sv_8,Samenier,657,665,LOC,NIL
+dev_sv_8,Orne,681,685,LOC,Q1047027
+dev_sv_8,Lothringen,738,748,LOC,Q1137
+dev_sv_8,S:tMartin,874,883,LOC,NIL
+dev_sv_8,LE HAVRE,885,893,LOC,Q42810
+dev_sv_8,Å. U.,1032,1037,PROD,Q3141380
+dev_sv_8,Verdun,1052,1058,LOC,Q154748
+dev_sv_8,Retsch,1096,1102,PROD,Q1419486
+dev_sv_8,Verdun,1436,1442,LOC,Q154748
+dev_sv_8,Retsch,1477,1483,PROD,Q1419486
+dev_sv_8,Verdun,1584,1590,LOC,Q154748
+dev_sv_8,floden Maas,1627,1638,LOC,Q41986
+dev_sv_9,Maison de L'Em-pereur,155,176,ORG,NIL
+dev_sv_9,Compiègne,371,380,LOC,Q180871
+dev_sv_9,Compiègne,668,677,LOC,Q180871
+dev_sv_10,gården n:o 2 wid Bangatan,1642,1667,LOC,NIL
+dev_sv_10,Föreningsbanken i Finland,1685,1710,ORG,Q3070464
+dev_sv_10,gården n:o 21 wid Kaserngatan,1816,1845,LOC,NIL
+dev_sv_10,gården n:o 1 wid Glogatan,1894,1919,LOC,NIL
+dev_sv_10,Nya theatern,1984,1996,LOC,Q926046
+dev_sv_10,Tawastehus,2077,2087,LOC,Q202158
+dev_sv_11,Chatham,0,7,PER,Q208663
+dev_sv_11,dåwarandepremierminiftern Newcasile,137,172,PER,Q273809
+dev_sv_11,Newcastle,271,280,PER,Q273809
+dev_sv_11,fir RobertWalpole,680,697,PER,Q104190
+dev_sv_11,Pul-tency,721,730,PER,Q795187
+dev_sv_11,Horatius,749,757,PER,Q6197
+dev_sv_11,Pulteney,848,856,PER,Q795187
+dev_sv_11,fir Robert,932,942,PER,Q104190
+dev_sv_11,Pulieney,987,995,PER,Q795187
+dev_sv_11,Englands,1259,1267,LOC,Q21
+dev_sv_11,Disraelis,1381,1390,PER,Q82006
+dev_sv_11,hansmotståndare Cobden,1404,1426,PER,Q333072
+dev_sv_11,Gladstones,1447,1457,PER,Q160852
+dev_sv_11,lady Beaconsfields,1485,1503,PER,Q6778938
+dev_sv_11,Disraeli,1509,1517,PER,Q82006
+dev_sv_11,Gladstone,1549,1558,PER,Q160852
+dev_sv_11,Gladstone,1697,1706,PER,Q160852
+dev_sv_11,"nu-warande ministern, lord Derby",1714,1746,PER,Q237829
+dev_sv_11,lord Stanley,1760,1772,PER,Q237829
+dev_sv_11,Gladstone,1854,1863,PER,Q160852
+dev_sv_11,Eng-land,1897,1905,LOC,Q21
+dev_sv_11,England,1977,1984,LOC,Q21
+dev_sv_11,Frankrike,1989,1998,LOC,Q70802
+dev_sv_11,Guizot,2072,2078,PER,Q157324
+dev_sv_11,Duvergier de Hauranne,2103,2124,PER,Q1042506
+dev_sv_11,Duvergier de Hauranne,2236,2257,PER,Q1042506
+dev_sv_11,Guizot,2491,2497,PER,Q157324
+dev_sv_11,Rouher,2716,2722,PER,Q3060162
+dev_sv_12,S:t Michel,2,12,LOC,Q190583
+dev_sv_12,herr Lands=kamreren P. G. Swinhufwud,282,318,PER,NIL
+dev_sv_12,hr lands=kamreraren Swinhufwud,729,759,PER,NIL
+dev_sv_12,Paris,1078,1083,LOC,Q90
+dev_sv_12,E.Girardin,1510,1520,PER,Q286644
+dev_sv_12,LaPresse,1572,1580,PROD,NIL
+dev_sv_12,E. Gi=rardin,1631,1643,PER,Q286644
+dev_sv_12,Stockholm,1819,1828,LOC,Q1754
+dev_sv_12,Köpenhamn,1839,1848,LOC,Q1748
+dev_sv_12,Berlin,1854,1860,LOC,Q64
+dev_sv_12,Hamburg,1867,1874,LOC,Q1055
+dev_sv_12,Danmark,1928,1935,LOC,Q35
+dev_sv_12,Danskan flottan,1937,1952,ORG,Q2006452
+dev_sv_12,Eckernförde=wiken,2150,2167,LOC,Q524958
+dev_sv_13,Wiborgs län,204,215,LOC,Q1144791
+dev_sv_13,Torneå,276,282,LOC,Q214021
+dev_sv_13,Kerholms,436,444,LOC,Q7977
+dev_sv_15,kommerserådet Lindroos,102,124,PER,NIL
+dev_sv_15,Hanaholmen,134,144,LOC,Q2739584
+dev_sv_15,Kommerserådet L.,166,182,PER,NIL
+dev_sv_15,Maaninga kapell norr om Kuopio,253,283,LOC,NIL
+dev_sv_16,K. F. Hushållnings=sällskapet,93,122,ORG,Q10495593
+dev_sv_16,Wiksbergs,184,193,PER,NIL
+dev_sv_17,Markis Torre-Arsa,0,17,PER,Q4013258
+dev_sv_17,Neapels,157,164,LOC,Q2634
+dev_sv_17,Sicilien,191,199,LOC,Q4951156
+dev_sv_17,Bourbonernas,525,537,PER,Q58389
+dev_sv_17,Sicilien,604,612,LOC,Q4951156
+dev_sv_17,Italien,698,705,LOC,Q172579
+dev_sv_17,Garibaldis,795,805,PER,Q539
+dev_sv_17,Palermos,819,827,LOC,Q2656
+dev_sv_17,Messinas,832,840,LOC,Q13666
+dev_sv_17,Si-cilien,897,906,LOC,Q4951156
+dev_sv_17,Italiens,969,977,LOC,Q172579
+dev_sv_17,Torre-Arsa,998,1008,PER,Q4013258
+dev_sv_18,Ransakningskomitén i Versailles,0,31,ORG,NIL
+dev_sv_18,Paris,514,519,LOC,Q90
+dev_sv_18,”Kölnische Zeitung”:,555,575,PROD,Q1795887
+dev_sv_18,Paris,1147,1152,LOC,Q90
+dev_sv_18,Paris,1981,1986,LOC,Q90
+dev_sv_18,Gambetta,2049,2057,PER,Q295090
+dev_sv_18,Versailles,2122,2132,LOC,Q2946
+dev_sv_18,Thiers,2410,2416,PER,Q5738
+dev_sv_18,General Faidherbe,2459,2476,PER,Q545751
+dev_sv_18,Thiers,2516,2522,PER,Q5738
+dev_sv_18,Gambetta,2593,2601,PER,Q295090
+dev_sv_18,Thiers,2644,2650,PER,Q5738
+dev_sv_18,Bor-deaux,2912,2921,LOC,Q1479
+dev_sv_18,Versailles,2926,2936,LOC,Q2946
+dev_sv_18,Gam-bettas,2955,2965,PER,Q295090
+dev_sv_19,H D.,24,28,PROD,Q11862109
+dev_sv_19,Äl-dre lotsen wid Jussarö lotsplats i Ekenäs skär-gård A. I. Lundberg,36,105,PER,NIL
+dev_sv_19,lotsen C. H. Nyström,185,205,PER,NIL
+dev_sv_19,lotslärlin-garna H. W. Lundberg,211,242,PER,NIL
+dev_sv_19,K. E. Lundberg,247,261,PER,NIL
+dev_sv_19,Jussarö känningsbäk,309,328,LOC,NIL
+dev_sv_19,Stawanger,587,596,LOC,Q26772333
+dev_sv_19,kapt. K. Westlij,658,674,PER,NIL
+dev_sv_19,rederiet G. & A.Berg,687,707,ORG,NIL
+dev_sv_19,Reval,797,802,LOC,Q1770
+dev_sv_19,Ekenäs,843,849,LOC,Q1004838
+dev_sv_19,Jussarö holme,950,963,LOC,Q4348854
+dev_sv_19,Pojoskärgård,966,978,LOC,NIL
+dev_sv_20,S:t Petersburg,54,68,LOC,Q656
+dev_sv_20,Kronstadt,73,82,LOC,Q155863
+dev_sv_20,Kronstadt,187,196,LOC,Q155863
+dev_sv_20,Oranienbaum,244,255,LOC,Q157688
+dev_sv_20,Oranienbaums,311,323,LOC,Q157688
+dev_sv_20,S:t Petersburg,377,391,LOC,Q656
+dev_sv_20,Kronstadt,457,466,LOC,Q155863
+dev_sv_20,Kronstadt,592,601,LOC,Q155863
+dev_sv_20,Oranien-baum,815,827,LOC,Q157688
+dev_sv_20,Oranien-baum,848,860,LOC,Q157688
+dev_sv_20,S:t Peters-burg,1142,1157,LOC,Q656
+dev_sv_20,Kronstadt,1382,1391,LOC,Q155863
+dev_sv_21,Sofia,0,5,LOC,Q472
+dev_sv_21,Battenberg,80,90,PER,Q159591
+dev_sv_21,Bulgarien,109,118,LOC,Q219
+dev_sv_21,fröken Aalbergs,330,345,PER,Q1083878
+dev_sv_21,Wien,372,376,LOC,Q1741
+dev_sv_21,Battenbergs,411,422,PER,Q159591
+dev_sv_21,Köln,472,476,LOC,Q365
+dev_sv_21,Konstantinopel,503,517,LOC,Q406

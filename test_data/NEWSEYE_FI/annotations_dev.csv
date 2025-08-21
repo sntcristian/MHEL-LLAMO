@@ -1,0 +1,209 @@
+doc_id,surface,start_pos,end_pos,type,identifier
+dev_fi_2,Helsingin kaupungin,0,19,ORG,NIL
+dev_fi_2,Helsinki,951,959,LOC,NIL
+dev_fi_2,T. L.,971,976,PER,NIL
+dev_fi_2,Suomen v.- ja u.-liiton,1024,1047,ORG,Q18681085
+dev_fi_2,Mikkelissä T. Y:n talolla,1098,1123,LOC,Q11882682
+dev_fi_2,Suomen v.- jau.-liiton,1260,1282,ORG,Q18681085
+dev_fi_2,A. Hiekkanen,1433,1445,PER,NIL
+dev_fi_2,Mik-keli,1447,1455,LOC,NIL
+dev_fi_4,si-sarukset G—m,58,73,PER,NIL
+dev_fi_4,Turusta,75,82,LOC,Q38511
+dev_fi_4,Suomenmaan,212,222,LOC,Q62633
+dev_fi_4,Seu-rahuoneella,436,451,ORG,Q10672946
+dev_fi_4,Kaisaniemen puistossa,856,877,LOC,Q3062877
+dev_fi_4,Forsbyn tilan,1991,2004,ORG,NIL
+dev_fi_4,Kaivopuis-ton,2072,2085,LOC,Q1721817
+dev_fi_4,Forsbyn tilalle,2317,2332,ORG,NIL
+dev_fi_4,Suomenmaalaisen soti-laspiirin piiri-insinöörihallitus,2419,2473,ORG,NIL
+dev_fi_4,Ratames-tari G. Ström,2673,2694,PER,NIL
+dev_fi_4,Malmin huvila-alueella n:o43,2732,2760,LOC,NIL
+dev_fi_4,Ratamestari J. E. Valli,2774,2797,PER,NIL
+dev_fi_4,Kallion 4:llälinjalla,2838,2859,LOC,Q54820482
+dev_fi_4,Viipurista,2956,2966,LOC,Q14657
+dev_fi_4,Viipurin luotsauspiirissä,3020,3045,ORG,NIL
+dev_fi_4,Viipurinluotsauspiirin,3082,3104,ORG,NIL
+dev_fi_4,Verk-komatalan,3203,3217,LOC,NIL
+dev_fi_4,Kuo-piosta,3280,3290,LOC,Q162279
+dev_fi_4,Pietarista,3313,3323,LOC,Q656
+dev_fi_4,Koiviston salmeen,3383,3400,LOC,NIL
+dev_fi_4,Viipuriin,3431,3440,LOC,Q14657
+dev_fi_4,Katajanokalla,3526,3539,LOC,Q976443
+dev_fi_4,Hietalahden satamaan,3579,3599,LOC,NIL
+dev_fi_4,Pietariin,3850,3859,LOC,Q656
+dev_fi_4,Viipuriin,3909,3918,LOC,Q14657
+dev_fi_4,Per-najanlahdesta,4013,4030,LOC,Q18661263
+dev_fi_4,Lyypekkiin,4070,4080,LOC,Q2843
+dev_fi_4,Pietarista,4294,4304,LOC,Q656
+dev_fi_4,Hankoon,4433,4440,LOC,Q216790
+dev_fi_4,Turkuun,4444,4451,LOC,Q38511
+dev_fi_4,Suomen muinalsmuisto-yhdistyksen,4454,4486,ORG,Q10495586
+dev_fi_5,hra K.,430,436,PER,Q1101841
+dev_fi_6,Signor Frosinin Cavaradossi,0,27,PER,Q64005951
+dev_fi_6,Signor Par=wis,130,144,PER,Q3981566
+dev_fi_6,Sig=nor Gianoli=Galletti,209,233,PER,NIL
+dev_fi_6,Hra Rautawaaraa,356,371,PER,Q11857182
+dev_fi_6,"tuosta pakolaisesta,Angelottista",439,471,PER,Q64005738
+dev_fi_6,hra Rauta=herra,593,608,PER,Q11857182
+dev_fi_7,Plehwen,256,263,PER,Q351927
+dev_fi_7,Plehwe,299,305,PER,Q351927
+dev_fi_7,Plehwen,1057,1064,PER,Q351927
+dev_fi_7,W. K. Plehwe,1259,1271,PER,Q351927
+dev_fi_7,Harkowin semstwo,1676,1692,ORG,NIL
+dev_fi_7,Plehwe=wainajan,2018,2033,PER,Q351927
+dev_fi_7,Pietarin piirisiken=dessa,2094,2119,LOC,NIL
+dev_fi_7,Pietarista,2121,2131,LOC,Q656
+dev_fi_7,Itämerenmaa=kuntien,2533,2552,LOC,NIL
+dev_fi_7,Kijewistä,2778,2787,LOC,Q1899
+dev_fi_7,juokse=wan tilin osaston hoitaja Berenitski,2855,2898,PER,NIL
+dev_fi_7,neiti Sagalin,2920,2933,PER,NIL
+dev_fi_7,Berenitski,2984,2994,PER,NIL
+dev_fi_7,neiti Sagalin,3025,3038,PER,NIL
+dev_fi_7,Odessk. Nowosti,3078,3093,PROD,NIL
+dev_fi_7,Pultawan,3141,3149,LOC,Q169501
+dev_fi_7,Peskowin,3588,3596,LOC,NIL
+dev_fi_7,Pulta=wan,3708,3717,LOC,Q169501
+dev_fi_7,Jumalan,3811,3818,PER,Q825
+dev_fi_7,Pultawan,3993,4001,LOC,Q169501
+dev_fi_7,Sewastopolin kymnasion,4039,4061,ORG,Q7525
+dev_fi_7,Odessan,4458,4465,LOC,Q1874
+dev_fi_7,Pultawan,4492,4500,LOC,Q169501
+dev_fi_7,Syn Otetshestwo,4709,4724,PROD,Q26260392
+dev_fi_7,eräs kunnianarwoisaomansa omistaja Saljkow,4839,4881,PER,NIL
+dev_fi_7,Borsnassa Tsher=nigowin kuwernementissa,4883,4922,LOC,NIL
+dev_fi_7,H. Saljkow,5256,5266,PER,NIL
+dev_fi_8,hra Alienus,5,16,PER,Q5785360
+dev_fi_8,hra WentzelHagelstam,57,77,PER,Q5785360
+dev_fi_8,Hufwud=stadsdladetissa,235,257,PROD,Q613979
+dev_fi_8,Ranskaan,324,332,LOC,Q70802
+dev_fi_8,Suomen,366,372,LOC,Q62633
+dev_fi_8,Louis Dumur,456,467,PER,Q3261798
+dev_fi_8,Le Courrier Europeenin,469,491,PROD,NIL
+dev_fi_8,Agraarikomitean,532,547,ORG,NIL
+dev_fi_8,Kalewa,580,586,PROD,Q3192167
+dev_fi_8,Suomessa,647,655,LOC,Q62633
+dev_fi_8,Wenäjän,2116,2123,LOC,Q34266
+dev_fi_8,Maakomitealla,2415,2428,ORG,NIL
+dev_fi_8,Berli=nissä,2607,2618,LOC,Q64
+dev_fi_8,Saksan,2768,2774,LOC,Q43287
+dev_fi_8,Kenraalikuwernööri Ger=hardin,2872,2901,PER,Q1990943
+dev_fi_8,Pietariin,2915,2924,LOC,Q656
+dev_fi_8,Nowoje Wremja,2944,2957,PROD,Q2598596
+dev_fi_8,Lääk.lis. Hannes Heikinheimo,2982,3010,PER,NIL
+dev_fi_8,lähetyssaarnaajan yli=opp. Sakari Collanin,3036,3078,PER,Q20913128
+dev_fi_8,Suo=men Lähetysseuran,3086,3107,ORG,Q5450797
+dev_fi_8,Kii=naan Hunan maakunnan Chingshi-nimi=seen kaupunkiin,3124,3178,LOC,NIL
+dev_fi_8,Herra Heikinheimo,3180,3197,PER,NIL
+dev_fi_8,Suomessa,3390,3398,LOC,Q62633
+dev_fi_8,Työwäenyhdistyksen talollaYrjönk. 27,3722,3758,LOC,NIL
+dev_fi_8,Töölöössä,3814,3823,LOC,Q520367
+dev_fi_8,HirwensalonHaarlan,3989,4007,LOC,Q3926480
+dev_fi_9,Amiraali De Liwron,0,18,PER,NIL
+dev_fi_9,Aleksejew,32,41,PER,NIL
+dev_fi_9,Ent.meriasiamies Parisissa Jepant=shin,235,273,PER,NIL
+dev_fi_9,Hotchkiss=toiminimelle,295,317,ORG,NIL
+dev_fi_9,Aleksejew,364,373,PER,NIL
+dev_fi_9,Ranskassa,435,444,LOC,Q142
+dev_fi_9,Wenäjän hallituksen,458,477,ORG,NIL
+dev_fi_9,Jepantshin,579,589,PER,NIL
+dev_fi_9,Hotchkiss-toimini=men,597,618,ORG,NIL
+dev_fi_9,Rudnitskin,658,668,PER,NIL
+dev_fi_9,Pietarista,2008,2018,LOC,Q656
+dev_fi_9,Ruhtinas Obolenski,2036,2054,PER,Q22695736
+dev_fi_9,ruhtinas Kotshubei,2108,2126,PER,NIL
+dev_fi_9,Pietarin läänissä,2176,2193,LOC,NIL
+dev_fi_9,Pietarista,2203,2213,LOC,Q656
+dev_fi_9,Pietarin kaupungissa,2231,2251,LOC,Q656
+dev_fi_9,Pietarin polytek=nillisen opiston,2356,2389,ORG,NIL
+dev_fi_9,prof. Postnikow,2431,2446,PER,NIL
+dev_fi_9,Gutshkow Moskowan,2449,2466,LOC,Q649
+dev_fi_9,Moskowasta,2490,2500,LOC,Q649
+dev_fi_9,Moskowan,2518,2526,LOC,Q649
+dev_fi_9,Gutshkow,2553,2561,PER,NIL
+dev_fi_9,Tiflisistä,2581,2591,LOC,Q994
+dev_fi_9,Kiljasin,2608,2616,LOC,NIL
+dev_fi_9,Jashmanasemien,2620,2634,LOC,NIL
+dev_fi_9,Wladitawkasin,2643,2656,LOC,Q5239
+dev_fi_9,Pietarista,2878,2888,LOC,Q656
+dev_fi_9,Saksan,2994,3000,LOC,Q43287
+dev_fi_9,Jauresin lehti „L'Humani=té“,3153,3181,PROD,Q1137404
+dev_fi_9,Asewin,3215,3221,PER,NIL
+dev_fi_9,Plehwen,3241,3248,PER,Q351927
+dev_fi_9,Plehwe,3257,3263,PER,Q351927
+dev_fi_9,spiritisti Philippen,3268,3288,PER,NIL
+dev_fi_9,Pietarin salapoliisin päällikköRatshkowski,3299,3341,PER,NIL
+dev_fi_9,Philippeä,3362,3371,PER,NIL
+dev_fi_9,Philippe,3459,3467,PER,NIL
+dev_fi_9,Pleh=welle,3503,3513,PER,Q351927
+dev_fi_9,Pleh=we Ratshkowskin,3538,3558,PER,NIL
+dev_fi_9,Plehwelle,3635,3644,PER,Q351927
+dev_fi_9,Asewin,3654,3660,PER,NIL
+dev_fi_9,Saso=now,3781,3789,PER,NIL
+dev_fi_9,Plehwe,3799,3805,PER,NIL
+dev_fi_10,Englannin,1037,1046,LOC,Q21
+dev_fi_10,Ruotsissa,1836,1845,LOC,Q34
+dev_fi_10,Asutushallitus,3559,3573,ORG,Q11853236
+dev_fi_10,maanwiljelysinsin. I.A. Schroeder=Hallakorwen,3689,3734,PER,Q11864458
+dev_fi_10,agronoomi Eino Kalmarin,3780,3803,PER,NIL
+dev_fi_10,lakit. kand. Urho I. Castrénin,3816,3846,PER,Q1371055
+dev_fi_10,waratuom. H. I. Lindemanin,3861,3887,PER,NIL
+dev_fi_10,arkkiteh-ti Urho Åbergin,3917,3941,PER,NIL
+dev_fi_10,"apulaisasutustar-kastajan, metsäkonduktööri JohannesWallenin",3978,4038,PER,NIL
+dev_fi_10,Eduskunnan,4039,4049,ORG,Q643412
+dev_fi_11,Jumalan,21,28,PER,Q825
+dev_fi_11,Jesus Kristus,67,80,PER,Q825
+dev_fi_11,Jumalan,376,383,PER,Q825
+dev_fi_12,"Sinä, Wisuri ystäwäni",0,21,PER,NIL
+dev_fi_13,Tu=russa,103,111,LOC,Q38511
+dev_fi_13,Helsingissä,115,126,LOC,Q1757
+dev_fi_13,Ittelliswaimon KarolinaSundgrenin,204,237,PER,NIL
+dev_fi_13,warwari Pauli=nin,255,272,PER,NIL
+dev_fi_13,Turussa,286,293,LOC,Q38511
+dev_fi_13,Turun ho=wioikeus,298,315,ORG,Q3739555
+dev_fi_13,Turun Säästöpankin,498,516,ORG,Q18662480
+dev_fi_14,Salon,660,665,LOC,Q210987
+dev_fi_16,Suomettaren,747,758,PROD,Q21483135
+dev_fi_18,Suomessa,56,64,LOC,Q62633
+dev_fi_18,Jumalan,1904,1911,PER,Q825
+dev_fi_19,Suomen,12,18,LOC,Q62633
+dev_fi_20,O. W. S.,189,197,PROD,Q18661135
+dev_fi_20,Oulun kaupungin seurakunnassa,200,229,ORG,NIL
+dev_fi_20,Kirjolan tykönä likelläWiipuria,865,896,LOC,NIL
+dev_fi_21,Iniön kirkon,304,316,LOC,Q18659352
+dev_fi_21,Askaisissa,339,349,LOC,Q730954
+dev_fi_21,lähetyssaarnaaja Hra Tolo-nen,530,559,PER,Q17384297
+dev_fi_21,Lemu,775,779,LOC,Q1641588
+dev_fi_21,Alastaron seurakunnan,874,895,ORG,NIL
+dev_fi_22,Seinäjoen,306,315,LOC,Q6157
+dev_fi_22,sikäläiselle w. t. kappalai=selle Eewertti Kustaa Forsmanille,350,411,PER,NIL
+dev_fi_22,Lumparlannin,478,490,LOC,Q176191
+dev_fi_22,w. t. kappalainenSaltwikissa E. E. Engström,654,697,PER,NIL
+dev_fi_22,Urjalan,714,721,LOC,Q636459
+dev_fi_22,Suoniemen,779,788,LOC,Q3432479
+dev_fi_22,Geetan,828,834,LOC,Q134675
+dev_fi_22,Inkoon,836,842,LOC,Q986331
+dev_fi_22,Suomusjärwen,846,858,LOC,Q1641656
+dev_fi_22,Uudenkau=pungin oluttehdas,1002,1028,ORG,NIL
+dev_fi_22,Pyhänkorwanoluttehdas Kokemäen pitäjässä,1043,1083,LOC,Q986409
+dev_fi_22,Salon oluttehdas,1097,1113,ORG,NIL
+dev_fi_22,Aittamäenoluttehdas,1130,1149,ORG,NIL
+dev_fi_22,Lindbergin oluttehdasTyrwään pitäjässä,1163,1201,LOC,Q3434037
+dev_fi_22,Fröjdmaninoluttehdas Raumalla,1217,1246,LOC,Q37013
+dev_fi_23,Rjetsh.,1,8,PROD,Q1419486
+dev_fi_23,Kiinan,10,16,LOC,Q13426199
+dev_fi_23,Kichtan,27,34,LOC,NIL
+dev_fi_23,Mongolian,87,96,LOC,Q711
+dev_fi_23,Kiinalle,137,145,LOC,Q13426199
+dev_fi_23,Wenäjän,194,201,LOC,Q34266
+dev_fi_23,Kiinan ministerineuwostoJuanshikain,227,262,PER,NIL
+dev_fi_23,Rumania,413,420,LOC,Q218
+dev_fi_23,Amerikasta,448,458,LOC,Q30
+dev_fi_23,Tukholmasta,459,470,LOC,Q1754
+dev_fi_23,Djen,489,493,PROD,NIL
+dev_fi_23,Berliner Tageblattin,495,515,PROD,Q455014
+dev_fi_23,Rumanian hallitus,534,551,ORG,Q2528718
+dev_fi_23,Kenraali Hindenburg,651,670,PER,Q2667
+dev_fi_23,Köpenhaminasta,692,706,LOC,Q1748
+dev_fi_23,Havasin toimiston,715,732,ORG,Q516033
+dev_fi_24,Lontoon,289,296,LOC,Q84
+dev_fi_24,Lontoon,346,353,LOC,Q84

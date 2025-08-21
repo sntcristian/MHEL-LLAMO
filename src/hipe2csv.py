@@ -2,7 +2,7 @@ import csv
 import re
 import os
 
-filepath = "../../archive/HIPE-2022-data/data/v2.1/hipe2020/fr/HIPE-2022-v2.1-hipe2020-test-fr.tsv"
+filepath = "../archive/HIPE-2022-data/data/v2.1/newseye/fi/HIPE-2022-v2.1-newseye-test-fi.tsv"
 
 with open(filepath, "r", encoding="utf-8") as f:
     tsv_data = f.readlines()
@@ -13,22 +13,49 @@ curr_pos = 0
 named_entity = False
 publication_date = ""
 doc_id = ""
-sent_idx = 0
 title = ""
+genre = "press articles"
+lang = ""
 
 paragraphs = []
 annotations = []
 
 
-nerc_tag2type = {"B-pers":"PER","B-loc":"LOC", "B-prod":"PROD", "I-pers":"PER", "I-loc":"LOC", "I-prod":"PROD",
-                 "B-org":"ORG", "I-org":"ORG"}
+nerc_tag2type = {"B-PER":"PER","B-LOC":"LOC", "B-HumanProd":"PROD", "I-PER":"PER", "I-LOC":"LOC", "I-HumanProd":"PROD",
+                 "B-ORG":"ORG", "I-ORG":"ORG"}
 
 for line in tsv_data[1:]:
     if line.startswith("# hipe2022:date = "):
         publication_date = line.split("# hipe2022:date = ")[-1].strip()
     elif line.startswith("# hipe2022:document_id ="):
+        if len(text) > 0:
+            paragraph = {
+                "doc_id": doc_id,
+                "title": title,
+                "text": text.strip(),
+                "publication_date": publication_date, 
+                "lang":lang,
+                "genre":genre
+            }
+            paragraphs.append(paragraph)
+
+        if named_entity == True:
+            if q_id.startswith("Q") or q_id.startswith("NIL"):
+                annotation = {
+                    "doc_id": doc_id,
+                    "surface": text[start_pos:end_pos],
+                    "start_pos": start_pos,
+                    "end_pos": end_pos,
+                    "type": ner_type,
+                    "identifier": q_id
+                }
+                annotations.append(annotation)
+            named_entity = False
         doc_id = line.split("# hipe2022:document_id =")[-1].strip()
-        sent_idx = 0
+        text = ""
+        curr_pos = 0
+
+    
     elif line.startswith("# hipe2022:language ="):
         lang = line.split("# hipe2022:language =")[-1].strip()
 
@@ -53,7 +80,7 @@ for line in tsv_data[1:]:
                 if named_entity == True:
                     if q_id.startswith("Q") or q_id.startswith("NIL"):
                         annotation = {
-                            "doc_id":doc_id+"_sent"+str(sent_idx),
+                            "doc_id":doc_id,
                             "surface":text[start_pos:end_pos],
                             "start_pos":start_pos,
                             "end_pos":end_pos,
@@ -69,29 +96,6 @@ for line in tsv_data[1:]:
                 text += " "
                 curr_pos = len(text)
 
-            if "EndOfSentence" in line_info:
-                paragraph = {
-                    "doc_id":doc_id+"_sent"+str(sent_idx),
-                    "text":text.strip(),
-                    "lang":lang,
-                    "publication_date":publication_date
-                }
-                paragraphs.append(paragraph)
-                curr_pos = 0
-                if named_entity == True:
-                    if q_id.startswith("Q") or q_id.startswith("NIL"):
-                        annotation = {
-                            "doc_id": doc_id + "_sent" + str(sent_idx),
-                            "surface": text[start_pos:end_pos],
-                            "start_pos": start_pos,
-                            "end_pos": end_pos,
-                            "type": ner_type,
-                            "identifier": q_id
-                        }
-                        annotations.append(annotation)
-                    named_entity = False
-                text = ""
-                sent_idx += 1
 
 
 sent_idx = set([item["doc_id"] for item in annotations])
@@ -102,12 +106,12 @@ for item in paragraphs:
 
 p_keys = filtered_paragraphs[0].keys()
 a_keys = annotations[0].keys()
-with open("../test_data/HIPE_FR/paragraphs_test.csv", "w", encoding="utf-8") as f:
+with open("./test_data/NEWSEYE_FI/paragraphs_test.csv", "w", encoding="utf-8") as f:
     dict_writer = csv.DictWriter(f, p_keys)
     dict_writer.writeheader()
     dict_writer.writerows(filtered_paragraphs)
 
-with open("../test_data/HIPE_FR/annotations_test.csv", "w", encoding="utf-8") as f:
+with open("./test_data/NEWSEYE_FI/annotations_test.csv", "w", encoding="utf-8") as f:
     dict_writer = csv.DictWriter(f, a_keys)
     dict_writer.writeheader()
     dict_writer.writerows(annotations)
