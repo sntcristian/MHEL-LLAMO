@@ -17,7 +17,7 @@ pip install -r requirements_bela.txt
 
 ### Create LLM environment
 ```
-conda create -n mhel-llamo -y python=3.9 && conda activate mhel-llamo
+conda create -n llm -y python=3.9 && conda activate llm
 pip install -r requirements_llms.txt
 ```
 
@@ -26,18 +26,19 @@ pip install -r requirements_llms.txt
 ```
 conda activate bela39
 
-python get_candidates.py --dataset_path ./test_data/DZ_IT --output_dir ./results/DZ_IT --top_k 20 --lang it
+python get_candidates.py --dataset_path ./test_data/DZ_IT --output_dir ./results/DZ_IT --top_k 50 --lang it
 ```
 
 ## Perform Candidate Selection with LLM and Compute Metrics
 ```
-conda activate mhel-llamo
+conda activate llm
 
 python filter_and_prompt.py \
---json_f results/DZ_IT/candidates_test_top20_en.json \
+--json_f results/DZ_IT/candidates_test_top50_it.json \
 --dataset_path ./test_data/DZ_IT \
 --output_dir ./results/DZ_IT \ 
 --threshold 20.7 \ # optional
+--n_candidates 20 \ # optional
 --model_id meta-llama/Llama-3.1-8B-Instruct \
 --hf_token your_secret_token # only with gated models
 

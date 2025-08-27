@@ -26,8 +26,7 @@ def main():
     parser.add_argument("--json_f", type=str, required=True, help="Path to JSON list of candidates")
     parser.add_argument("--dataset_path", type=str, required=True, help="Path to dataset directory")
     parser.add_argument("--output_dir", type=str, required=True, help="Output directory for results")
-    parser.add_argument("--max_threshold", type=float, default=0, help="Threshold to be used to filter hard negatives.")
-    parser.add_argument("--min_threshold", type=float, default=0, help="Threshold to be used to predict NIL.")
+    parser.add_argument("--threshold", type=float, default=0, help="Threshold to be used to filter hard negatives.")
     parser.add_argument("--model_id", type=str, default="meta-llama/Llama-3.1-8B-Instruct", help="Huggingface repo of LLM")
     parser.add_argument("--hf_token", type=str, default="", help="Huggingface token to access restricted repo.")
     parser.add_argument("--n_candidates", type=int, default=50, help="Number of candidates to put in prompt.")
@@ -64,7 +63,7 @@ def main():
         doc_id = item["doc_id"]
         start_pos = int(item["start_pos"])
         end_pos = int(item["end_pos"])
-        if args.max_threshold > 0:
+        if args.threshold > 0:
             if item["candidates"][0]["score"] >= args.threshold:
                 output.append({
                     "doc_id":doc_id,
@@ -123,7 +122,7 @@ def main():
 
 
         selected_entity = [x for x in item["candidates"] if x["wb_id"] == wikidata_id]
-        if len(selected_entity) > 0 and selected_entity[0]["score"] > args.min_threshold:
+        if len(selected_entity) > 0:
             output.append({
                 "doc_id":doc_id,
                 "start_pos":start_pos,

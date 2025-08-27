@@ -15,7 +15,7 @@ echo "Job started at: $(date)"
 JSON_FILE="./results/DZ_IT/candidates_test_top50_en.json"
 DATASET_PATH="./test_data/DZ_IT"
 OUTPUT_DIR="./results/DZ_IT/"
-MODEL_ID="meta-llama/Llama-3.1-70B-Instruct"
+MODEL_ID="mistralai/Mixtral-8x7B-v0.1"
 N_CANDIDATES=20
 HF_TOKEN=""  
 
