@@ -1,0 +1,514 @@
+doc_id,start_pos,end_pos,surface,gt_id,type,identifier,title,answer,score
+NZZ-1798-01-20-a-p0002,318,330,Frank reichs,Q142,LOC,Q43482,Franken,"{ ""wikipedia_page"": ""Franken"", ""wikidata_id"": ""Q43482"" }",16.65113067626953
+NZZ-1798-01-20-a-p0002,925,936,Gen. Duphot,Q977001,PER,Q19043775,Henri Duphot,"{ ""wikipedia_page"": ""Henri Duphot"", ""wikidata_id"": ""Q19043775"" }",16.725053787231445
+NZZ-1798-01-20-a-p0002,1815,1826,Gen. Duphot,Q977001,PER,Q19043775,Henri Duphot,"{ ""wikipedia_page"": ""Henri Duphot"", ""wikidata_id"": ""Q19043775"" }",7.360331058502197
+NZZ-1808-04-29-a-p0002,468,490,danischen Blatte Dagen,Q1768412,PROD,Q35,Dänemark,"{ ""wikipedia_page"": ""Dänemark"", ""wikidata_id"": ""Q35"" }",12.746357917785645
+NZZ-1808-04-29-a-p0002,774,781,Rußland,Q159,LOC,Q34266,Russisches Kaiserreich,"{ ""wikipedia_page"": ""Russisches Kaiserreich"", ""wikidata_id"": ""Q34266"" }",19.418861389160156
+NZZ-1808-04-29-a-p0002,790,808,General Hutchinson,Q321765,PER,Q1892842,Thomas Hutchinson,"{ ""wikipedia_page"": ""Thomas Hutchinson"", ""wikidata_id"": ""Q1892842"" }",16.24713706970215
+NZZ-1808-04-29-a-p0002,883,901,General Hutchinson,Q321765,PER,Q1892842,Thomas Hutchinson,"{ ""wikipedia_page"": ""Thomas Hutchinson"", ""wikidata_id"": ""Q1892842"" }",15.210113525390625
+NZZ-1808-04-29-a-p0002,1440,1451,Bartenstein,Q809585,LOC,Q1010904,Burg Bartenstein,"{ ""wikipedia_page"": ""Burg Bartenstein"", ""wikidata_id"": ""Q1010904"" }",10.023670196533203
+NZZ-1808-04-29-a-p0002,1562,1570,Dänemark,Q35,LOC,NIL,Dänemark,"{ ""wikipedia_page"": ""Kronprinz"", ""wikidata_id"": ""NIL"" }",19.427690505981445
+NZZ-1808-04-29-a-p0002,1942,1952,Lord Gower,Q334145,PER,Q1242682,Lord Ronald Gower,"{ ""wikipedia_page"": ""Lord Gower"", ""wikidata_id"": ""Q1242682"" }",16.18114471435547
+NZZ-1808-04-29-a-p0002,2847,2854,Rußland,Q159,LOC,Q34266,Russisches Kaiserreich,"{ ""wikipedia_page"": ""Russisches Kaiserreich"", ""wikidata_id"": ""Q34266"" }",19.86345672607422
+NZZ-1808-04-29-a-p0002,3875,3904,neuesten Berlinischen Zeitung,Q675003,PROD,Q2309057,Berlinische Nachrichten von Staats- und gelehrten Sachen,"{ ""wikipedia_page"": ""Berlinische Nachrichten von Staats- und gelehrten Sachen"", ""wikidata_id"": ""Q2309057"" }",15.134936332702637
+NZZ-1808-04-29-a-p0002,3926,3941,H. von Rotzebue,NIL,PER,Q57242,August von Kotzebue,"{ ""wikipedia_page"": ""August von Kotzebue"", ""wikidata_id"": ""Q57242"" }",20.341327667236328
+NZZ-1808-04-29-a-p0002,4244,4256,Peters¬ burg,Q656,LOC,Q511964,Petersburg,"{ ""wikipedia_page"": ""Petersburg"", ""wikidata_id"": ""Q511964"" }",11.542120933532715
+NZZ-1808-04-29-a-p0002,4308,4325,General Burhöyden,NIL,PER,Q2958035,,"{ ""wikipedia_page"": ""General Burhöyden"", ""wikidata_id"": ""Q2958035"" }",15.56641960144043
+NZZ-1818-01-09-a-p0001,404,426,würdige De¬ kan Kaiser,NIL,PER,Q76736,Karl VII.,"{ ""wikipedia_page"": ""Karl VII."", ""wikidata_id"": ""Q76736"" }",6.916666507720947
+NZZ-1818-01-09-a-p0001,430,437,Ansbach,Q14859,LOC,Q42199,Fürstentum Ansbach,"{ ""wikipedia_page"": ""Fürstentum Ansbach"", ""wikidata_id"": ""Q42199"" }",18.790943145751953
+NZZ-1818-01-09-a-p0001,574,602,"M. Mles, Pfarrer zu Deyzisau",NIL,PER,Q6851589,Miles de Marseille,"{ ""wikipedia_page"": ""Miles de Marseille"", ""wikidata_id"": ""Q6851589"" }",15.986749649047852
+NZZ-1818-01-09-a-p0001,694,703,Steinkopf,NIL,PROD,Q65588474,Johann Friedrich Steinkopf,"{ ""wikipedia_page"": ""Johann Friedrich Steinkopf"", ""wikidata_id"": ""Q65588474"" }",15.111607551574707
+NZZ-1818-01-09-a-p0001,934,957,protestantischen Kirche,Q2113518,ORG,Q23540,Protestantismus,"{ ""wikipedia_page"": ""Protestantismus"", ""wikidata_id"": ""Q23540"" }",18.50625991821289
+NZZ-1818-01-09-a-p0001,1327,1333,Berlin,Q64,LOC,NIL,Berlin,"{ ""wikipedia_page"": ""Realschul¬ Buchhandlung"", ""wikidata_id"": ""NIL"" }",21.80677032470703
+NZZ-1818-01-09-a-p0001,1335,1358,Realschul¬ Buchhandlung,Q2516675,ORG,NIL,Realschul¬ Buchhandlung,"{ ""wikipedia_page"": ""Realschul¬ Buchhandlung"", ""wikidata_id"": ""NIL"" }",20.121131896972656
+NZZ-1818-01-09-a-p0001,1501,1553,gelehrte und freymü¬ thige Oberhofprediger Dr. Ammon,Q213786,PER,Q98863,Friedrich von Ammon,"{ ""wikipedia_page"": ""Friedrich von Ammon"", ""wikidata_id"": ""Q98863"" }",13.941807746887207
+NZZ-1818-01-09-a-p0001,2054,2106,"ehrwürdige Antistes der Zürcheri¬ schen Kirche, Heß,",Q121947,PER,Q1511765,Gerhard Hess,"{ ""wikipedia_page"": ""Gerhard Hess"", ""wikidata_id"": ""Q1511765"" }",15.261944770812988
+NZZ-1818-01-09-a-p0001,2224,2229,Orell,NIL,ORG,Q1511140,Orell Füssli,"{ ""wikipedia_page"": ""Orell Füssli"", ""wikidata_id"": ""Q1511140"" }",18.607831954956055
+NZZ-1818-01-09-a-p0001,2905,2913,Europens,Q46,LOC,Q394067,Europäer,"{ ""wikipedia_page"": ""Europäer"", ""wikidata_id"": ""Q394067"" }",15.800836563110352
+NZZ-1828-05-21-a-p0001,0,32,Schweizerische Eidgenossenschaft,Q39,LOC,Q435583,Alte Eidgenossenschaft,"{ ""wikipedia_page"": ""Schweizerische Eidgenossenschaft"", ""wikidata_id"": ""Q435583"" }",26.881654739379883
+NZZ-1828-05-21-a-p0001,38,67,große Rath des Standes Luzern,Q27897675,ORG,Q2732017,Kantonsrat Luzern,"{ ""wikipedia_page"": ""Grosser Rat des Standes Luzern"", ""wikidata_id"": ""Q2732017"" }",20.95697784423828
+NZZ-1828-05-21-a-p0001,4472,4484,Schaffhausen,Q12697,LOC,Q9009,Schaffhausen,"{ ""wikipedia_page"": ""Schaffhausen"", ""wikidata_id"": ""Q9009"" }",23.485055923461914
+NZZ-1838-03-30-a-p0001,0,6,Schwyz,Q12433,LOC,Q68155,Schwyz,"{ ""wikipedia_page"": ""Schwyz"", ""wikidata_id"": ""Q68155"" }",14.468600273132324
+NZZ-1838-03-30-a-p0001,101,118,hohe Stand Schwyz,Q12433,LOC,Q68155,Schwyz,"{ ""wikipedia_page"": ""Schwyz"", ""wikidata_id"": ""Q68155"" }",10.453838348388672
+NZZ-1838-03-30-a-p0001,1524,1547,hohen Standes Neuenburg,Q12738,LOC,Q541548,Universität Neuenburg,"{ ""wikipedia_page"": ""Universität Neuenburg"", ""wikidata_id"": ""Q541548"" }",15.186097145080566
+NZZ-1838-03-30-a-p0001,2284,2295,Neuen¬ burg,Q12738,LOC,Q69345,Neuenburg,"{ ""wikipedia_page"": ""Neuenburg"", ""wikidata_id"": ""Q69345"" }",18.494173049926758
+NZZ-1838-03-30-a-p0001,2316,2322,Schwyz,Q12433,LOC,Q68155,Schwyz,"{ ""wikipedia_page"": ""Schwyz"", ""wikidata_id"": ""Q68155"" }",19.34009552001953
+NZZ-1838-03-30-a-p0001,2392,2398,Schwyz,Q12433,LOC,Q68155,Schwyz,"{ ""wikipedia_page"": ""Schwyz"", ""wikidata_id"": ""Q68155"" }",19.151845932006836
+NZZ-1838-03-30-a-p0001,4659,4676,Eidgenossenschaft,Q39,LOC,Q1302467,Eidgenossenschaft,"{ ""wikipedia_page"": ""Eidgenossenschaft"", ""wikidata_id"": ""Q1302467"" }",16.769779205322266
+NZZ-1848-01-21-a-p0005,299,319,derrn Oberst Brunner,NIL,PER,Q15449738,Karl Brunner,"{ ""wikipedia_page"": ""Karl Brunner"", ""wikidata_id"": ""Q15449738"" }",14.47734260559082
+NZZ-1848-01-21-a-p0005,384,403,Herr Oberst Brunner,NIL,PER,Q1360798,Ernst Ritter von Brunner,"{ ""wikipedia_page"": ""Ernst Ritter von Brunner"", ""wikidata_id"": ""Q1360798"" }",14.949597358703613
+NZZ-1848-01-21-a-p0005,595,611,östliche Schweiz,Q31003,LOC,Q689055,Deutschschweiz,"{ ""wikipedia_page"": ""Deutschschweiz"", ""wikidata_id"": ""Q689055"" }",14.498261451721191
+NZZ-1848-01-21-a-p0005,757,776,Hrn. Oberst Brunner,NIL,PER,Q1360798,Ernst Ritter von Brunner,"{ ""wikipedia_page"": ""Ernst Ritter von Brunner"", ""wikidata_id"": ""Q1360798"" }",15.011220932006836
+NZZ-1848-01-21-a-p0005,1091,1111,Herrn Oberst Brunner,NIL,PER,Q94701,Heinrich Brunner,"{ ""wikipedia_page"": ""Heinrich Brunner"", ""wikidata_id"": ""Q94701"" }",14.728601455688477
+NZZ-1848-01-21-a-p0005,1367,1387,Herrn Oberst Brunner,NIL,PER,Q15549957,Philipp Brunner,"{ ""wikipedia_page"": ""Philipp Brunner"", ""wikidata_id"": ""Q15549957"" }",13.98043155670166
+NZZ-1848-01-21-a-p0005,1439,1445,Schwyz,Q12433,LOC,Q68155,Schwyz,"{ ""wikipedia_page"": ""Schwyz"", ""wikidata_id"": ""Q68155"" }",21.433860778808594
+NZZ-1848-01-21-a-p0005,1920,1974,Direktor der Schweiz. National-Vorsichts-Kassa: Cünier,NIL,PER,Q106887411,Direktor,"{ ""wikipedia_page"": ""Direktor"", ""wikidata_id"": ""Q106887411"" }",12.137301445007324
+NZZ-1858-04-20-a-p0003,384,391,Simplon,Q471166,LOC,Q69194,Simplon,"{ ""wikipedia_page"": ""Simplon"", ""wikidata_id"": ""Q69194"" }",13.144256591796875
+NZZ-1858-04-20-a-p0003,651,657,Zürich,Q11943,LOC,Q72,Zürich,"{ ""wikipedia_page"": ""Zürich"", ""wikidata_id"": ""Q72"" }",20.262786865234375
+NZZ-1858-04-20-a-p0003,718,726,Wetzikon,Q68305,LOC,Q2032616,Bahnhof Wetzikon,"{ ""wikipedia_page"": ""Bahnhof Wetzikon"", ""wikidata_id"": ""Q2032616"" }",16.815479278564453
+NZZ-1858-04-20-a-p0003,897,928,minder¬ jährigen Zürchers Spöri,NIL,PER,Q1345783,Entziehen von Minderjährigen,"{ ""wikipedia_page"": ""Entziehen von Minderjährigen"", ""wikidata_id"": ""Q1345783"" }",11.453019142150879
+NZZ-1858-04-20-a-p0003,1176,1211,Deutsch-schweizerische Kre¬ ditbank,NIL,ORG,Q1203255,Deutsche Kreditbank,"{ ""wikipedia_page"": ""Deutsche Kreditbank"", ""wikidata_id"": ""Q1203255"" }",21.074886322021484
+NZZ-1858-04-20-a-p0003,1236,1261,Herren Georg Dörten¬ bach,Q1693802,PER,Q1505320,Georg Martin Doertenbach,"{ ""wikipedia_page"": ""Georg Dörtenbach"", ""wikidata_id"": ""Q1505320"" }",16.886314392089844
+NZZ-1858-04-20-a-p0003,1266,1275,Stuttgart,Q1022,LOC,Q79844,Stuttgart,"{ ""wikipedia_page"": ""Stuttgart"", ""wikidata_id"": ""Q79844"" }",15.672574043273926
+NZZ-1858-04-20-a-p0003,1277,1294,Karl v. Schätzler,Q1874644,PER,Q119995,Konstantin von Schaezler,"{ ""wikipedia_page"": ""Karl v. Schätzler"", ""wikidata_id"": ""Q119995"" }",32.64712142944336
+NZZ-1858-04-20-a-p0003,1299,1307,Augsburg,Q2749,LOC,NIL,Augsburg,"{ ""wikipedia_page"": ""Karl von Schätzler"", ""wikidata_id"": ""NIL"" }",23.537818908691406
+NZZ-1858-04-20-a-p0003,1312,1329,Adolph Pestalozzi,NIL,PER,Q105428,Johann Heinrich Pestalozzi,"{ ""wikipedia_page"": ""Johann Heinrich Pestalozzi"", ""wikidata_id"": ""Q105428"" }",27.678186416625977
+NZZ-1858-04-20-a-p0003,1334,1340,Zürich,Q72,LOC,Q15821827,Joseph Schweizer,"{ ""wikipedia_page"": ""Adolph Pestalozzi"", ""wikidata_id"": ""Q15821827"" }",16.75536346435547
+NZZ-1858-04-20-a-p0003,1434,1457,Herren Albert Erzberger,NIL,PER,Q30141298,Dietrich Erzberger,"{ ""wikipedia_page"": ""Albert Erzberger"", ""wikidata_id"": ""Q30141298"" }",18.39878273010254
+NZZ-1858-04-20-a-p0003,1462,1470,Augsburg,Q2749,LOC,NIL,Augsburg,"{ ""wikipedia_page"": ""Erzberger"", ""wikidata_id"": ""Q129960"" }",24.0029239654541
+NZZ-1858-04-20-a-p0003,1472,1484,Max v. Haber,NIL,PER,Q51954976,Moritz von Haber,"{ ""wikipedia_page"": ""Moritz von Haber"", ""wikidata_id"": ""Q51954976"" }",28.24515724182129
+NZZ-1858-04-20-a-p0003,1489,1498,Karlsruhe,Q1040,LOC,NIL,Karlsruhe,"{ ""wikipedia_page"": ""Max von Haber"", ""wikidata_id"": ""NIL"" }",21.11246681213379
+NZZ-1858-04-20-a-p0003,1503,1516,Escher-Bodmer,NIL,PER,Q115569,Alfred Escher,"{ ""wikipedia_page"": ""Alfred Escher"", ""wikidata_id"": ""Q115569"" }",24.06827163696289
+NZZ-1858-04-20-a-p0003,1521,1527,Zürich,Q72,LOC,Q248476,Zürcher Kantonalbank,"{ ""wikipedia_page"": ""Escher-Bodmer"", ""wikidata_id"": ""Q248476"" }",17.029823303222656
+NZZ-1858-04-20-a-p0003,1634,1660,HH. Prä¬ sident Wirth-Sand,Q16832423,PER,NIL,HH. Prä¬ sident Wirth-Sand,"{ ""wikipedia_page"": ""Ludwig von Reuss zu Eberstein"", ""wikidata_id"": ""NIL"" }",11.918959617614746
+NZZ-1858-04-20-a-p0003,1662,1684,Rechtskonsulent Jordan,NIL,PER,Q214620,Sylvester Jordan,"{ ""wikipedia_page"": ""Sylvester Jordan"", ""wikidata_id"": ""Q214620"" }",15.566145896911621
+NZZ-1858-04-20-a-p0003,1689,1700,Stutt¬ gart,Q1022,LOC,Q25607,St. Gallen,"{ ""wikipedia_page"": ""St. Gallen"", ""wikidata_id"": ""Q25607"" }",18.940034866333008
+NZZ-1858-04-20-a-p0003,1702,1715,Escher-Bodmer,NIL,PER,Q115569,Alfred Escher,"{ ""wikipedia_page"": ""Alfred Escher"", ""wikidata_id"": ""Q115569"" }",22.995418548583984
+NZZ-1858-04-20-a-p0003,1717,1738,v. Schultheß-Rechberg,Q55193349,PER,Q21447363,Anton von Schulthess Rechberg,"{ ""wikipedia_page"": ""Anton von Schulthess Rechberg"", ""wikidata_id"": ""Q21447363"" }",21.688947677612305
+NZZ-1858-04-20-a-p0003,1743,1749,Zürich,Q72,LOC,Q11943,Kanton Zürich,"{ ""wikipedia_page"": ""Kanton Zürich"", ""wikidata_id"": ""Q11943"" }",21.74469566345215
+NZZ-1858-04-20-a-p0003,1809,1819,St. Gallen,Q25607,LOC,NIL,St. Gallen,"{ ""wikipedia_page"": ""Hoffmann"", ""wikidata_id"": ""NIL"" }",23.9631404876709
+NZZ-1858-04-20-a-p0003,1864,1879,Churer Tagblatt,NIL,PROD,Q1089917,Churer Zeitung (1800–1856),"{ ""wikipedia_page"": ""Churer Tagblatt"", ""wikidata_id"": ""Q1089917"" }",22.958999633789062
+NZZ-1858-04-20-a-p0003,2048,2064,Appenzell A. Rh.,Q12079,LOC,Q209270,Appenzell,"{ ""wikipedia_page"": ""Appenzell"", ""wikidata_id"": ""Q209270"" }",19.51178550720215
+NZZ-1858-04-20-a-p0003,2132,2136,Genf,Q11917,LOC,Q71,Genf,"{ ""wikipedia_page"": ""Genf"", ""wikidata_id"": ""Q71"" }",24.513288497924805
+NZZ-1858-04-20-a-p0003,2153,2157,Nord,NIL,PROD,Q541879,Compagnie des chemins de fer du Nord,"{ ""wikipedia_page"": ""Compagnie des chemins de fer du Nord"", ""wikidata_id"": ""Q541879"" }",8.613446235656738
+NZZ-1858-04-20-a-p0003,2231,2240,Neuenburg,Q12738,LOC,Q69345,Neuenburg,"{ ""wikipedia_page"": ""Neuenburg"", ""wikidata_id"": ""Q69345"" }",17.76697540283203
+NZZ-1858-04-20-a-p0003,2399,2406,Persien,Q83311,LOC,Q3746183,Persis,"{ ""wikipedia_page"": ""Persien"", ""wikidata_id"": ""Q3746183"" }",18.44243621826172
+NZZ-1868-02-17-a-p0001,207,214,England,Q21,LOC,Q79282,England,"{ ""wikipedia_page"": ""England"", ""wikidata_id"": ""Q79282"" }",14.163262367248535
+NZZ-1868-02-17-a-p0001,376,383,England,Q21,LOC,Q79282,England,"{ ""wikipedia_page"": ""England"", ""wikidata_id"": ""Q79282"" }",11.126873016357422
+NZZ-1868-02-17-a-p0001,1719,1735,Königreichs Siam,Q1155700,LOC,Q1081620,Siam,"{ ""wikipedia_page"": ""Siam"", ""wikidata_id"": ""Q1081620"" }",19.733797073364258
+NZZ-1868-02-17-a-p0001,2436,2444,Galizien,Q180086,LOC,Q2396442,Königreich Galizien und Lodomerien,"{ ""wikipedia_page"": ""Königreich Galizien und Lodomerien"", ""wikidata_id"": ""Q2396442"" }",21.34144401550293
+NZZ-1868-02-17-a-p0001,2614,2623,Leutschau,Q242478,LOC,Q18628524,Leutschach an der Weinstraße,"{ ""wikipedia_page"": ""Leutschach an der Weinstraße"", ""wikidata_id"": ""Q18628524"" }",15.885019302368164
+NZZ-1868-02-17-a-p0001,2731,2742,Oesterreich,Q533534,LOC,Q40,Österreich,"{ ""wikipedia_page"": ""Österreich"", ""wikidata_id"": ""Q40"" }",24.275636672973633
+NZZ-1868-02-17-a-p0001,3092,3102,N. Z. Ztg.,Q658945,PROD,Q25625529,National-Zeitung,"{ ""wikipedia_page"": ""National-Zeitung"", ""wikidata_id"": ""Q25625529"" }",13.555041313171387
+NZZ-1868-02-17-a-p0001,3170,3197,Lieutenant v. Tschirschnitz,Q28737714,PER,Q28739734,Wilhelm von Tschirschnitz,"{ ""wikipedia_page"": ""Lieutenant v. Tschirschnitz"", ""wikidata_id"": ""Q28739734"" }",18.481124877929688
+NZZ-1868-02-17-a-p0001,3359,3377,Deputirten Mellana,NIL,PER,Q63807323,Filippo Mellana,"{ ""wikipedia_page"": ""Filippo Mellana"", ""wikidata_id"": ""Q63807323"" }",12.317131042480469
+NZZ-1868-02-17-a-p0001,3461,3468,Pungolo,NIL,PROD,Q7227804,Pongello,"{ ""wikipedia_page"": ""Pongello"", ""wikidata_id"": ""Q7227804"" }",12.174896240234375
+NZZ-1868-02-17-a-p0001,4739,4758,Senator Montlaville,NIL,PER,Q15969487,Antoine de Chapuys de Montlaville,"{ ""wikipedia_page"": ""Antoine de Chapuys de Montlaville"", ""wikidata_id"": ""Q15969487"" }",13.695961952209473
+NZZ-1868-02-17-a-p0001,4809,4823,Marquis Boissy,Q3135539,PER,Q364931,Louis de Boissy,"{ ""wikipedia_page"": ""Louis de Boissy"", ""wikidata_id"": ""Q364931"" }",20.410472869873047
+NZZ-1868-02-17-a-p0001,4997,5002,Paris,Q90,LOC,NIL,Paris,"{ ""wikipedia_page"": ""Abbe Migne's Druckerei der Kirchenväter in Paris ist abgebrannt"", ""wikidata_id"": ""NIL"" }",22.345449447631836
+NZZ-1868-02-17-a-p0001,5706,5723,Astronom Gassendi,Q192315,PER,Q11063,Astronom,"{ ""wikipedia_page"": ""Gassendi"", ""wikidata_id"": ""Q11063"" }",18.39691734313965
+NZZ-1878-01-07-b-p0002,90,104,Cornet Burenie,NIL,PER,Q1377228,Kurin,"{ ""wikipedia_page"": ""Kurin"", ""wikidata_id"": ""Q1377228"" }",13.387554168701172
+NZZ-1878-01-07-b-p0002,109,115,Uralsk,Q487439,LOC,Q4476704,Uralsk,"{ ""wikipedia_page"": ""Uralsk"", ""wikidata_id"": ""Q4476704"" }",16.201602935791016
+NZZ-1878-01-07-b-p0002,259,281,russische Jeanne d'Arc,Q7226,PER,Q108419149,,"{ ""wikipedia_page"": ""Tatjana Shukalin"", ""wikidata_id"": ""Q108419149"" }",14.531133651733398
+NZZ-1878-01-07-b-p0002,555,572,Fräulein Shukalin,NIL,PER,Q2872001,,"{ ""wikipedia_page"": ""Tatjana Shukalin"", ""wikidata_id"": ""Q2872001"" }",15.302480697631836
+NZZ-1878-01-07-b-p0002,1004,1074,"Stabschef der aktiven Armee, dem General-Adjutanten Ne¬ pokoitschizkij",NIL,PER,Q112119463,Stabschef,"{ ""wikipedia_page"": ""Stabschef"", ""wikidata_id"": ""Q112119463"" }",14.50475025177002
+NZZ-1878-01-07-b-p0002,1740,1746,Uralsk,NIL,LOC,Q4476704,Uralsk,"{ ""wikipedia_page"": ""Uralsk"", ""wikidata_id"": ""Q4476704"" }",21.405466079711914
+NZZ-1878-01-07-b-p0002,2016,2024,Sai¬ zew,NIL,PER,Q12806435,Saizew/Sajzew,"{ ""wikipedia_page"": ""Saizew/Sajzew"", ""wikidata_id"": ""Q12806435"" }",14.993629455566406
+NZZ-1878-01-07-b-p0002,2034,2040,Saizew,NIL,PER,Q183381,Wassili Grigorjewitsch Saizew,"{ ""wikipedia_page"": ""Wassili Grigorjewitsch Saizew"", ""wikidata_id"": ""Q183381"" }",14.364980697631836
+NZZ-1878-01-07-b-p0002,3319,3330,Arbeitgeber,NIL,PROD,Q3053337,Arbeitgeber,"{ ""wikipedia_page"": ""Arbeitgeber"", ""wikidata_id"": ""Q3053337"" }",12.9141206741333
+NZZ-1878-01-07-b-p0002,3342,3374,Brauereibesitzerin Elise Hassold,NIL,PER,Q131734,Brauerei,"{ ""wikipedia_page"": ""Brauerei"", ""wikidata_id"": ""Q131734"" }",19.03426170349121
+NZZ-1878-01-07-b-p0002,3378,3388,Schwalbach,Q686818,LOC,Q632432,Schwalbach am Taunus,"{ ""wikipedia_page"": ""Schwalbach am Taunus"", ""wikidata_id"": ""Q632432"" }",23.747543334960938
+NZZ-1878-01-07-b-p0002,3708,3720,Kronst. Ztg.,NIL,PROD,Q155863,Kronschtadt,"{ ""wikipedia_page"": ""Kronschtadt"", ""wikidata_id"": ""Q155863"" }",9.883426666259766
+NZZ-1878-01-07-b-p0002,3866,3874,Bukarest,Q19660,LOC,Q82174,Kronstadt,"{ ""wikipedia_page"": ""Kronstadt"", ""wikidata_id"": ""Q82174"" }",14.276195526123047
+NZZ-1878-01-07-b-p0002,4801,4808,Amerika,Q30,LOC,Q828,Amerika,"{ ""wikipedia_page"": ""Amerika"", ""wikidata_id"": ""Q828"" }",18.59481430053711
+NZZ-1878-01-07-b-p0002,5735,5742,Preußen,Q38872,LOC,Q27306,Königreich Preußen,"{ ""wikipedia_page"": ""Königreich Preußen"", ""wikidata_id"": ""Q27306"" }",22.187435150146484
+NZZ-1878-01-07-b-p0002,5997,6007,Königgrätz,Q180139,LOC,Q154942,Schlacht bei Königgrätz,"{ ""wikipedia_page"": ""Schlacht bei Königgrätz"", ""wikidata_id"": ""Q154942"" }",24.26757049560547
+NZZ-1878-01-07-b-p0002,6054,6061,Preußen,Q38872,LOC,Q27306,Königreich Preußen,"{ ""wikipedia_page"": ""Königreich Preußen"", ""wikidata_id"": ""Q27306"" }",19.42142677307129
+NZZ-1888-03-08-b-p0002,9,20,Deutschland,Q1206012,LOC,Q183,Deutschland,"{ ""wikipedia_page"": ""Deutschland"", ""wikidata_id"": ""Q183"" }",20.510587692260742
+NZZ-1888-03-08-b-p0002,132,139,Pommern,Q104520,LOC,Q836689,Provinz Pommern,"{ ""wikipedia_page"": ""Provinz Pommern"", ""wikidata_id"": ""Q836689"" }",21.52717399597168
+NZZ-1888-03-08-b-p0002,218,224,Berlin,Q64,LOC,NIL,Berlin,"{ ""wikipedia_page"": ""Grauen Kloster"", ""wikidata_id"": ""NIL"" }",23.776111602783203
+NZZ-1888-03-08-b-p0002,430,437,Gerlach,Q65780,PER,NIL,Gerlach,"{ ""wikipedia_page"": ""Moritz von Blanckenburg"", ""wikidata_id"": ""NIL"" }",30.520679473876953
+NZZ-1888-03-08-b-p0002,1479,1490,Blankenburg,Q111102,PER,Q7377396,Rudolph Blankenburg,"{ ""wikipedia_page"": ""Rudolph Blankenburg"", ""wikidata_id"": ""Q7377396"" }",22.553295135498047
+NZZ-1888-03-08-b-p0002,1740,1750,Frankreich,Q70802,LOC,Q142,Frankreich,"{ ""wikipedia_page"": ""Frankreich"", ""wikidata_id"": ""Q142"" }",20.049396514892578
+NZZ-1888-03-08-b-p0002,1837,1855,Faubourg du Temple,Q1037624,LOC,Q1067494,Temple,"{ ""wikipedia_page"": ""Faubourg du Temple"", ""wikidata_id"": ""Q1067494"" }",23.351158142089844
+NZZ-1888-03-08-b-p0002,2160,2180,Dynamithelden Cyvoct,Q17350092,PER,Q67180088,Dynamite the Dog,"{ ""wikipedia_page"": ""Dynamite the Dog"", ""wikidata_id"": ""Q67180088"" }",10.968915939331055
+NZZ-1888-03-08-b-p0002,2185,2190,Gallo,Q16929990,PER,Q110764661,,"{ ""wikipedia_page"": ""Cyvoct"", ""wikidata_id"": ""Q110764661"" }",13.379640579223633
+NZZ-1888-03-08-b-p0002,2732,2739,Joffrin,Q3188690,PER,Q3219299,Laurent Joffrin,"{ ""wikipedia_page"": ""Laurent Joffrin"", ""wikidata_id"": ""Q3219299"" }",16.204126358032227
+NZZ-1888-03-08-b-p0002,3101,3106,Lucas,NIL,PER,Q2959704,Charles Lucas,"{ ""wikipedia_page"": ""Charles Lucas"", ""wikidata_id"": ""Q2959704"" }",12.241342544555664
+NZZ-1888-03-08-b-p0002,3610,3615,Paris,Q90,LOC,Q133132,Pariser Kommune,"{ ""wikipedia_page"": ""Pariser Kommune"", ""wikidata_id"": ""Q133132"" }",12.117298126220703
+NZZ-1888-03-08-b-p0002,3938,3959,serbische Skupschtina,Q920222,ORG,Q25392289,Skupština,"{ ""wikipedia_page"": ""Skupština"", ""wikidata_id"": ""Q25392289"" }",17.034854888916016
+NZZ-1888-03-08-b-p0002,4149,4160,Oesterreich,Q40,LOC,Q28513,Österreich-Ungarn,"{ ""wikipedia_page"": ""Österreich-Ungarn"", ""wikidata_id"": ""Q28513"" }",21.37773895263672
+NZZ-1888-03-08-b-p0002,4459,4484,rus¬ sischen Panslavismus,Q182267,PROD,Q2049787,Panrussismus,"{ ""wikipedia_page"": ""Panrussismus"", ""wikidata_id"": ""Q2049787"" }",17.01658821105957
+NZZ-1888-03-08-b-p0002,4684,4691,Serbien,Q403,LOC,Q241748,Königreich Serbien,"{ ""wikipedia_page"": ""Königreich Serbien"", ""wikidata_id"": ""Q241748"" }",17.042085647583008
+NZZ-1888-03-08-b-p0002,4812,4819,Bosnien,Q225,LOC,Q188736,Bosnien,"{ ""wikipedia_page"": ""Bosnien"", ""wikidata_id"": ""Q188736"" }",22.187074661254883
+NZZ-1898-12-05-b-p0005,22,27,China,Q148,LOC,Q29520,China,"{ ""wikipedia_page"": ""China"", ""wikidata_id"": ""Q29520"" }",16.563947677612305
+NZZ-1898-12-05-b-p0005,329,354,Partei der Jung¬ chinesen,NIL,ORG,Q31113,Kuomintang,"{ ""wikipedia_page"": ""Kuomintang"", ""wikidata_id"": ""Q31113"" }",18.54974365234375
+NZZ-1898-12-05-b-p0005,696,710,Reform¬ partei,Q1203735,ORG,NIL,Reform¬ partei,"{ ""wikipedia_page"": ""Kuomintang"", ""wikidata_id"": ""Q15543"" }",13.727381706237793
+NZZ-1898-12-05-b-p0005,1085,1091,Chinas,Q148,LOC,Q29520,China,"{ ""wikipedia_page"": ""China"", ""wikidata_id"": ""Q29520"" }",16.851778030395508
+NZZ-1898-12-05-b-p0005,1247,1275,Ew. Majestät den Marquis Ito,Q174971,PER,Q271536,Itoku,"{ ""wikipedia_page"": ""Marquis Ito"", ""wikidata_id"": ""Q271536"" }",11.509626388549805
+NZZ-1898-12-05-b-p0005,1451,1457,Chinas,Q148,LOC,Q12060881,Kaiserreich China,"{ ""wikipedia_page"": ""Kaiserreich China"", ""wikidata_id"": ""Q12060881"" }",19.687789916992188
+NZZ-1898-12-05-b-p0005,1935,1940,China,Q148,LOC,Q29520,China,"{ ""wikipedia_page"": ""China"", ""wikidata_id"": ""Q29520"" }",19.580764770507812
+NZZ-1898-12-05-b-p0005,2087,2093,Chinas,Q148,LOC,Q29520,China,"{ ""wikipedia_page"": ""China"", ""wikidata_id"": ""Q29520"" }",18.90009880065918
+NZZ-1898-12-05-b-p0005,2554,2561,Europas,Q46,LOC,Q3143,Europa,"{ ""wikipedia_page"": ""Europa"", ""wikidata_id"": ""Q3143"" }",13.114017486572266
+NZZ-1898-12-05-b-p0005,2993,3000,England,Q21,LOC,Q145,Vereinigtes Königreich,"{ ""wikipedia_page"": ""Vereinigtes Königreich"", ""wikidata_id"": ""Q145"" }",17.961355209350586
+NZZ-1898-12-05-b-p0005,3034,3041,Rußland,Q34266,LOC,Q159,Russland,"{ ""wikipedia_page"": ""Russland"", ""wikidata_id"": ""Q159"" }",23.76637077331543
+NZZ-1898-12-05-b-p0005,3277,3285,Rußlands,Q34266,LOC,Q159,Russland,"{ ""wikipedia_page"": ""Russland"", ""wikidata_id"": ""Q159"" }",23.249719619750977
+NZZ-1898-12-05-b-p0005,3402,3409,Rußland,Q34266,LOC,Q159,Russland,"{ ""wikipedia_page"": ""Russland"", ""wikidata_id"": ""Q159"" }",23.94947624206543
+NZZ-1898-12-05-b-p0005,3524,3529,China,Q148,LOC,Q12060881,Kaiserreich China,"{ ""wikipedia_page"": ""Kaiserreich China"", ""wikidata_id"": ""Q12060881"" }",18.141067504882812
+NZZ-1898-12-05-b-p0005,3612,3617,China,Q148,LOC,Q12060881,Kaiserreich China,"{ ""wikipedia_page"": ""Kaiserreich China"", ""wikidata_id"": ""Q12060881"" }",16.288114547729492
+NZZ-1898-12-05-b-p0005,4214,4219,China,Q148,LOC,Q12060881,Kaiserreich China,"{ ""wikipedia_page"": ""Kaiserreich China"", ""wikidata_id"": ""Q12060881"" }",17.45479393005371
+NZZ-1898-12-05-b-p0005,4625,4632,Rußland,Q34266,LOC,Q159,Russland,"{ ""wikipedia_page"": ""Russland"", ""wikidata_id"": ""Q159"" }",21.110271453857422
+NZZ-1898-12-05-b-p0005,4827,4832,China,Q148,LOC,Q12060881,Kaiserreich China,"{ ""wikipedia_page"": ""Kaiserreich China"", ""wikidata_id"": ""Q12060881"" }",16.125377655029297
+NZZ-1898-12-05-b-p0005,4837,4842,Japan,Q17,LOC,Q174933,Japan,"{ ""wikipedia_page"": ""Japan"", ""wikidata_id"": ""Q174933"" }",15.927128791809082
+NZZ-1898-12-05-b-p0005,5068,5078,Ho-Wen-Bao,NIL,PROD,Q10889560,,"{ ""wikipedia_page"": ""Ho Zhaoyan"", ""wikidata_id"": ""Q10889560"" }",15.613783836364746
+NZZ-1908-01-19-a-p0001,282,293,Schmidstube,NIL,LOC,Q7658912,,"{ ""wikipedia_page"": ""Schmidstube"", ""wikidata_id"": ""Q7658912"" }",16.940044403076172
+NZZ-1908-01-19-a-p0001,562,575,HH. Dr. Stoll,NIL,PER,Q1612843,Hermann Stoll,"{ ""wikipedia_page"": ""Hermann Stoll"", ""wikidata_id"": ""Q1612843"" }",11.57313060760498
+NZZ-1908-01-19-a-p0001,577,596,Ulrico Vollenweider,NIL,PER,Q16919163,Vollenweider,"{ ""wikipedia_page"": ""Ulrico Vollenweider"", ""wikidata_id"": ""Q16919163"" }",24.434946060180664
+NZZ-1908-01-19-a-p0001,598,613,Schindler-Huber,Q1224007,PER,Q1456228,Fridolin Huber,"{ ""wikipedia_page"": ""Fridolin Huber"", ""wikidata_id"": ""Q1456228"" }",21.116985321044922
+NZZ-1908-01-19-a-p0001,615,629,Müller-Jelmoli,NIL,PER,Q1666459,Josef Müller,"{ ""wikipedia_page"": ""Josef Müller"", ""wikidata_id"": ""Q1666459"" }",19.881906509399414
+NZZ-1908-01-19-a-p0001,631,655,"Ri¬ chard, Dr. Schärtlin",NIL,PER,Q2150541,Richard Schneider,"{ ""wikipedia_page"": ""Richard Schneider"", ""wikidata_id"": ""Q2150541"" }",13.998891830444336
+NZZ-1908-01-19-a-p0001,671,681,Dr. G. Bär,NIL,PER,Q1539130,Gottfried Bär,"{ ""wikipedia_page"": ""Gottfried Bär"", ""wikidata_id"": ""Q1539130"" }",20.664592742919922
+NZZ-1908-01-19-a-p0001,1079,1093,Oberst Richard,NIL,PER,Q18630189,Richard Richard,"{ ""wikipedia_page"": ""Richard"", ""wikidata_id"": ""Q18630189"" }",13.224498748779297
+NZZ-1908-01-19-a-p0001,3752,3758,Bundes,Q675794,ORG,Q670909,Der Bund,"{ ""wikipedia_page"": ""Der Bund"", ""wikidata_id"": ""Q670909"" }",12.903239250183105
+NZZ-1908-01-19-a-p0001,3984,3995,Bundesrates,Q30917,ORG,Q146138,Bundesrat,"{ ""wikipedia_page"": ""Bundesrat"", ""wikidata_id"": ""Q146138"" }",22.238718032836914
+NZZ-1908-01-19-a-p0001,4740,4751,Deutschland,Q1206012,LOC,Q183,Deutschland,"{ ""wikipedia_page"": ""Deutschland"", ""wikidata_id"": ""Q183"" }",19.005130767822266
+NZZ-1908-01-19-a-p0001,5102,5108,Böhmen,Q39193,LOC,Q42585,Königreich Böhmen,"{ ""wikipedia_page"": ""Königreich Böhmen"", ""wikidata_id"": ""Q42585"" }",21.615304946899414
+NZZ-1908-01-19-a-p0001,5212,5224,Oesterreichs,Q40,LOC,Q28513,Österreich-Ungarn,"{ ""wikipedia_page"": ""Österreich-Ungarn"", ""wikidata_id"": ""Q28513"" }",23.408565521240234
+NZZ-1908-01-19-a-p0001,5389,5396,Holland,Q55,LOC,Q102911,Holland,"{ ""wikipedia_page"": ""Holland"", ""wikidata_id"": ""Q102911"" }",17.34752655029297
+NZZ-1908-01-19-a-p0001,7989,8000,Deutschland,Q1206012,LOC,Q183,Deutschland,"{ ""wikipedia_page"": ""Deutschland"", ""wikidata_id"": ""Q183"" }",19.506000518798828
+NZZ-1908-01-19-a-p0001,8512,8522,Frankreich,Q70802,LOC,Q142,Frankreich,"{ ""wikipedia_page"": ""Frankreich"", ""wikidata_id"": ""Q142"" }",20.39494514465332
+NZZ-1908-01-19-a-p0001,10640,10646,Bundes,Q675794,ORG,Q39,Schweiz,"{ ""wikipedia_page"": ""Schweiz"", ""wikidata_id"": ""Q39"" }",16.359880447387695
+NZZ-1908-01-19-a-p0001,10772,10776,Bund,Q675794,ORG,Q39,Schweiz,"{ ""wikipedia_page"": ""Schweizerische Eidgenossenschaft"", ""wikidata_id"": ""Q39"" }",16.78277015686035
+NZZ-1908-01-19-a-p0001,11869,11873,Bund,Q675794,ORG,Q151624,Deutscher Bund,"{ ""wikipedia_page"": ""Bund"", ""wikidata_id"": ""Q151624"" }",12.14795970916748
+NZZ-1908-01-19-a-p0001,12701,12719,Stadtrat Dr. Klöti,Q1336378,PER,Q2476183,Ulrich Klöti,"{ ""wikipedia_page"": ""Ulrich Klöti"", ""wikidata_id"": ""Q2476183"" }",14.355175018310547
+NZZ-1908-01-19-a-p0001,13554,13573,Nationalrat A. Frey,NIL,PER,Q1525988,Alexander Moritz Frey,"{ ""wikipedia_page"": ""Alexander Frey"", ""wikidata_id"": ""Q1525988"" }",19.51717758178711
+NZZ-1908-01-19-a-p0001,13652,13665,Nationalrates,Q676078,ORG,Q1251719,Hauptausschuss des Nationalrates,"{ ""wikipedia_page"": ""Hauptausschuss des Nationalrates"", ""wikidata_id"": ""Q1251719"" }",16.713510513305664
+NZZ-1908-01-19-a-p0001,13813,13821,Greulich,Q91174,PER,NIL,Greulich,"{ ""wikipedia_page"": ""Greulich"", ""wikidata_id"": ""NIL"" }",16.35107421875
+NZZ-1908-01-19-a-p0001,14310,14322,Arbeiterbund,Q1084142,ORG,Q811233,Bauern- und Arbeiterbund,"{ ""wikipedia_page"": ""Bauernverband"", ""wikidata_id"": ""Q811233"" }",20.829784393310547
+NZZ-1908-01-19-a-p0001,14324,14337,Gewerbeverein,Q693891,ORG,Q1520478,Gewerbeverein,"{ ""wikipedia_page"": ""Gewerbeverein"", ""wikidata_id"": ""Q1520478"" }",24.33365249633789
+NZZ-1908-01-19-a-p0001,14339,14354,Bauern¬ verband,Q2256617,ORG,NIL,Bauern¬ verband,"{ ""wikipedia_page"": ""Bauernverband"", ""wikidata_id"": ""NIL"" }",19.998233795166016
+NZZ-1908-01-19-a-p0001,14624,14638,Prof. Zürchers,NIL,PER,Q78076245,Fritz Zürcher,"{ ""wikipedia_page"": ""Fritz Zürcher"", ""wikidata_id"": ""Q78076245"" }",20.987445831298828
+NZZ-1908-01-19-a-p0001,14712,14716,Frey,NIL,PER,Q1336730,Emil Remigius Frey,"{ ""wikipedia_page"": ""Emil Remigius Frey"", ""wikidata_id"": ""Q1336730"" }",20.631410598754883
+NZZ-1908-01-19-a-p0001,14825,14867,"ld, Verwalter der Baugewerbekasse, Zürich,",NIL,PER,Q20012503,Zürcher Handelskammer,"{ ""wikipedia_page"": ""Zürcher Handelskammer"", ""wikidata_id"": ""Q20012503"" }",11.149803161621094
+NZZ-1908-01-19-a-p0001,15193,15202,Bundesrat,Q30917,ORG,Q557150,Bundesrat,"{ ""wikipedia_page"": ""Bundesrat"", ""wikidata_id"": ""Q557150"" }",21.892335891723633
+NZZ-1908-01-19-a-p0001,15239,15248,Berchtold,NIL,PER,Q93371,Leopold Berchtold,"{ ""wikipedia_page"": ""Leopold Berchtold"", ""wikidata_id"": ""Q93371"" }",14.860068321228027
+NZZ-1908-01-19-a-p0001,15323,15339,Oberrichter Lang,NIL,PER,Q115050,Josef Lang,"{ ""wikipedia_page"": ""Josef Lang"", ""wikidata_id"": ""Q115050"" }",16.154573440551758
+NZZ-1908-01-19-a-p0001,15350,15359,Berchtold,NIL,PER,Q56755585,Friedrich Berchtold,"{ ""wikipedia_page"": ""Friedrich Berchtold"", ""wikidata_id"": ""Q56755585"" }",18.06986427307129
+NZZ-1908-01-19-a-p0001,15927,15938,Boos-Jegher,Q31271042,PER,Q2164527,Roman Boos,"{ ""wikipedia_page"": ""Roman Boos"", ""wikidata_id"": ""Q2164527"" }",20.252662658691406
+NZZ-1908-01-19-a-p0001,16101,16112,Boos-Jegher,Q31271042,PER,NIL,Boos-Jegher,"{ ""wikipedia_page"": ""Boos-Jegher"", ""wikidata_id"": ""NIL"" }",23.78099822998047
+NZZ-1918-09-09-c-p0002,72,77,Wolff,Q552226,ORG,Q71110,Wilhelm Wolff,"{ ""wikipedia_page"": ""Wilhelm Wolff"", ""wikidata_id"": ""Q71110"" }",12.756604194641113
+NZZ-1918-09-09-c-p0002,141,157,Ploegsteertwalde,Q3016976,LOC,Q2351222,Ploegsteert,"{ ""wikipedia_page"": ""Ploegsteert"", ""wikidata_id"": ""Q2351222"" }",10.573760986328125
+NZZ-1918-09-09-c-p0002,165,179,La Basséekanal,Q1032668,LOC,Q375776,La Bassée,"{ ""wikipedia_page"": ""La Bassée"", ""wikidata_id"": ""Q375776"" }",19.8437557220459
+NZZ-1918-09-09-c-p0002,299,304,Gleux,NIL,LOC,Q1099914,Glux-en-Glenne,"{ ""wikipedia_page"": ""Glux-en-Glenne"", ""wikidata_id"": ""Q1099914"" }",18.525169372558594
+NZZ-1918-09-09-c-p0002,305,318,Ha¬ princourt,Q375743,LOC,Q1098812,Haucourt-en-Cambrésis,"{ ""wikipedia_page"": ""Haucourt-en-Cambrésis"", ""wikidata_id"": ""Q1098812"" }",14.568432807922363
+NZZ-1918-09-09-c-p0002,512,520,Templeux,Q795863,LOC,Q795366,Templeux-la-Fosse,"{ ""wikipedia_page"": ""Templeux-la-Fosse"", ""wikidata_id"": ""Q795366"" }",25.065807342529297
+NZZ-1918-09-09-c-p0002,680,691,Crozatkanal,Q1032591,LOC,Q174032,Crozant,"{ ""wikipedia_page"": ""Crozant"", ""wikidata_id"": ""Q174032"" }",17.613544464111328
+NZZ-1918-09-09-c-p0002,1020,1029,Champagne,Q2428809,LOC,Q273827,Champagne,"{ ""wikipedia_page"": ""Champagne"", ""wikidata_id"": ""Q273827"" }",20.699674606323242
+NZZ-1918-09-09-c-p0002,1537,1542,Havas,Q516033,ORG,Q706577,Charles-Louis Havas,"{ ""wikipedia_page"": ""Charles-Louis Havas"", ""wikidata_id"": ""Q706577"" }",10.468300819396973
+NZZ-1918-09-09-c-p0002,1638,1646,Avaisnes,Q45688,LOC,Q1223917,Avesnes-en-Saosnois,"{ ""wikipedia_page"": ""Avesnes-en-Saosnois"", ""wikidata_id"": ""Q1223917"" }",26.117530822753906
+NZZ-1918-09-09-c-p0002,1707,1720,Lamottegehöft,NIL,LOC,Q1246606,Lamotte-Warfusée,"{ ""wikipedia_page"": ""Lamotte-Warfusée"", ""wikidata_id"": ""Q1246606"" }",16.00554656982422
+NZZ-1918-09-09-c-p0002,1757,1768,Crozatkanal,Q1032591,LOC,Q174032,Crozant,"{ ""wikipedia_page"": ""Crozant"", ""wikidata_id"": ""Q174032"" }",17.752187728881836
+NZZ-1918-09-09-c-p0002,1783,1787,Liez,Q629901,LOC,Q1420417,Liez,"{ ""wikipedia_page"": ""Liez"", ""wikidata_id"": ""Q1420417"" }",23.638830184936523
+NZZ-1918-09-09-c-p0002,1798,1802,Oise,Q200231,LOC,Q12675,Département Oise,"{ ""wikipedia_page"": ""Département Oise"", ""wikidata_id"": ""Q12675"" }",21.69963264465332
+NZZ-1918-09-09-c-p0002,2084,2095,Cham¬ pagne,Q2428809,LOC,Q273827,Champagne,"{ ""wikipedia_page"": ""Champagne"", ""wikidata_id"": ""Q273827"" }",17.736774444580078
+NZZ-1918-09-09-c-p0002,2271,2276,Havas,Q516033,ORG,Q706577,Charles-Louis Havas,"{ ""wikipedia_page"": ""Charles-Louis Havas"", ""wikidata_id"": ""Q706577"" }",12.498032569885254
+NZZ-1918-09-09-c-p0002,2591,2604,Monte Pertica,NIL,LOC,Q3862313,Montepertico,"{ ""wikipedia_page"": ""Monte Pertica"", ""wikidata_id"": ""Q3862313"" }",13.907546043395996
+NZZ-1918-09-09-c-p0002,2739,2761,Balkankriegsschauplatz,Q23522,LOC,Q165725,Balkankriege,"{ ""wikipedia_page"": ""Balkankriege"", ""wikidata_id"": ""Q165725"" }",15.906042098999023
+NZZ-1918-09-09-c-p0002,2780,2785,Havas,Q516033,ORG,Q706577,Charles-Louis Havas,"{ ""wikipedia_page"": ""Charles-Louis Havas"", ""wikidata_id"": ""Q706577"" }",11.391812324523926
+NZZ-1918-09-09-c-p0002,2810,2821,Orientarmee,Q18148776,ORG,Q17985602,Armée d'Orient,"{ ""wikipedia_page"": ""Armée d'Orient"", ""wikidata_id"": ""Q17985602"" }",12.910724639892578
+NZZ-1918-09-09-c-p0002,2925,2936,Czernabogen,Q1140644,LOC,Q870751,,"{ ""wikipedia_page"": ""Czernabogen"", ""wikidata_id"": ""Q870751"" }",13.54162883758545
+NZZ-1918-09-09-c-p0002,3068,3080,Prespa¬ sees,Q204392,LOC,Q73414,Prespa,"{ ""wikipedia_page"": ""Prespa"", ""wikidata_id"": ""Q73414"" }",11.975418090820312
+NZZ-1918-09-09-c-p0002,3243,3251,Monastir,Q157246,LOC,Q208715,Monastir,"{ ""wikipedia_page"": ""Monastir"", ""wikidata_id"": ""Q208715"" }",16.971635818481445
+NZZ-1918-09-09-c-p0002,3260,3266,Struma,Q204127,LOC,Q690414,Struma,"{ ""wikipedia_page"": ""Struma"", ""wikidata_id"": ""Q690414"" }",14.384664535522461
+NZZ-1918-09-09-c-p0002,5357,5362,Havas,Q516033,ORG,Q2958099,Charles-Guillaume Havas,"{ ""wikipedia_page"": ""Charles-Guillaume Havas"", ""wikidata_id"": ""Q2958099"" }",10.264070510864258
+NZZ-1918-09-09-c-p0002,5842,5848,Berlin,Q64,LOC,Q821244,Berlin,"{ ""wikipedia_page"": ""Berlin (Spandau)"", ""wikidata_id"": ""Q821244"" }",12.31686782836914
+NZZ-1918-09-09-c-p0002,5860,5865,Wolff,Q552226,ORG,Q71110,Wilhelm Wolff,"{ ""wikipedia_page"": ""Wilhelm Wolff"", ""wikidata_id"": ""Q71110"" }",10.317939758300781
+NZZ-1918-09-09-c-p0002,6217,6229,Reuterbureau,Q130879,ORG,Q552226,Wolffs Telegraphisches Bureau,"{ ""wikipedia_page"": ""Wolffs Telegraphisches Bureau"", ""wikidata_id"": ""Q552226"" }",19.115840911865234
+NZZ-1918-09-09-c-p0002,6432,6437,Wolff,Q552226,ORG,Q120947,Theodor Wolff,"{ ""wikipedia_page"": ""Theodor Wolff"", ""wikidata_id"": ""Q120947"" }",13.445045471191406
+NZZ-1928-06-05-a-p0002,30,46,St. Jakobskirche,NIL,LOC,Q1337473,St.-Jakobs-Kirche,"{ ""wikipedia_page"": ""St.-Jakobs-Kirche"", ""wikidata_id"": ""Q1337473"" }",32.826812744140625
+NZZ-1928-06-05-a-p0002,104,133,Liederkranz Außersihl¬ Zürich,NIL,ORG,Q1957331,Männerchor Liederkranz Dornach,"{ ""wikipedia_page"": ""Männerchor Liederkranz Dornach"", ""wikidata_id"": ""Q1957331"" }",18.996671676635742
+NZZ-1928-06-05-a-p0002,308,343,bewährten Dirigenten Jacques Wydler,NIL,PER,Q1210748,Die 3 Z’widern,"{ ""wikipedia_page"": ""Liederkranz Außersihl Zürich"", ""wikidata_id"": ""Q1210748"" }",17.492176055908203
+NZZ-1928-06-05-a-p0002,481,491,U. Wehrlis,Q2562857,PER,Q1124757,Wehrli,"{ ""wikipedia_page"": ""U. Wehrlis"", ""wikidata_id"": ""Q1124757"" }",26.496652603149414
+NZZ-1928-06-05-a-p0002,914,920,Hegars,Q670852,PER,Q71315,Alfred Hegar,"{ ""wikipedia_page"": ""Alfred Hegar"", ""wikidata_id"": ""Q71315"" }",24.949628829956055
+NZZ-1928-06-05-a-p0002,2783,2791,J. Bulls,Q511463,PER,Q742971,John Bull,"{ ""wikipedia_page"": ""John Bull"", ""wikidata_id"": ""Q742971"" }",22.919939041137695
+NZZ-1928-06-05-a-p0002,2962,2991,Musikdirektor A. Bie¬ dermann,NIL,PER,Q1198887,Musikdirektor,"{ ""wikipedia_page"": ""Musikdirektor"", ""wikidata_id"": ""Q1198887"" }",23.330503463745117
+NZZ-1938-09-13-b-p0001,74,115,"Präsident Dr. J. Eugster (freis., Zürich)",Q1392141,PER,Q1234156,Liste der Präsidenten des Regierungsrates des Kantons Zürich,"{ ""wikipedia_page"": ""Liste der Präsidenten des Regierungsrates des Kantons Zürich"", ""wikidata_id"": ""Q1234156"" }",21.234024047851562
+NZZ-1938-09-13-b-p0001,211,219,Joh. Leu,NIL,PER,Q125071,Johann Jacob Leu,"{ ""wikipedia_page"": ""Johann Jacob Leu"", ""wikidata_id"": ""Q125071"" }",21.024913787841797
+NZZ-1938-09-13-b-p0001,262,283,"Züsli (komm., Zürich)",NIL,PER,Q28129870,Beat Züsli,"{ ""wikipedia_page"": ""Beat Züsli"", ""wikidata_id"": ""Q28129870"" }",14.343536376953125
+NZZ-1938-09-13-b-p0001,547,580,Notar Heinrich Diem (dem. Zürich),NIL,PER,Q105840341,Liste der Stadträte von Zürich,"{ ""wikipedia_page"": ""Heinrich Diem"", ""wikidata_id"": ""Q105840341"" }",16.611215591430664
+NZZ-1938-09-13-b-p0001,644,664,Ritterhaufes Bubikon,Q638821,LOC,Q2155177,Ritterhausgesellschaft Bubikon,"{ ""wikipedia_page"": ""Ritterhaus Bubikon"", ""wikidata_id"": ""Q2155177"" }",28.221372604370117
+NZZ-1938-09-13-b-p0001,821,841,Ritterhauses Bubikon,Q638821,LOC,NIL,Ritterhauses Bubikon,"{ ""wikipedia_page"": ""Ritterhaus Bubikon"", ""wikidata_id"": ""NIL"" }",29.27295684814453
+NZZ-1938-09-13-b-p0001,956,976,Ritterhauses Bubikon,Q638821,LOC,Q2155180,Ritterhäuser Ürikon,"{ ""wikipedia_page"": ""Ritterhäuser Ürikon"", ""wikidata_id"": ""Q2155180"" }",24.55838394165039
+NZZ-1938-09-13-b-p0001,1935,1957,"Hotz (freis., Bubikon)",NIL,PER,Q2544823,Walter Hotz,"{ ""wikipedia_page"": ""Walter Hotz"", ""wikidata_id"": ""Q2544823"" }",16.03788948059082
+NZZ-1938-09-13-b-p0001,1996,2016,Ritterhauses Bubikon,Q638821,LOC,NIL,Ritterhauses Bubikon,"{ ""wikipedia_page"": ""Ritterhaus Bubikon"", ""wikidata_id"": ""NIL"" }",28.4482364654541
+NZZ-1938-09-13-b-p0001,2246,2274,Graf Diethelm von Toggenburg,NIL,PER,Q66115724,"Diethelm V/VI (I), Graf von Toggenburg","{ ""wikipedia_page"": ""Diethelm V/VI (I), Graf von Toggenburg"", ""wikidata_id"": ""Q66115724"" }",24.516996383666992
+NZZ-1938-09-13-b-p0001,3164,3207,"Kommissionsreferent Kaufmann (soz., Zürich)",NIL,PER,Q104666184,,"{ ""wikipedia_page"": ""Kaufmann (Zürich)"", ""wikidata_id"": ""Q104666184"" }",16.561538696289062
+NZZ-1938-09-13-b-p0001,3319,3330,Mühlebaches,NIL,LOC,Q693397,Mühlebach,"{ ""wikipedia_page"": ""Mühlebach"", ""wikidata_id"": ""Q693397"" }",26.173370361328125
+NZZ-1938-09-13-b-p0001,3409,3415,Schwyz,Q12433,LOC,Q68155,Schwyz,"{ ""wikipedia_page"": ""Schwyz"", ""wikidata_id"": ""Q68155"" }",22.42246437072754
+NZZ-1938-09-13-b-p0001,3470,3481,Mühlebaches,NIL,LOC,Q1604055,Mühlauer Bach,"{ ""wikipedia_page"": ""Mühlauer Bach"", ""wikidata_id"": ""Q1604055"" }",20.831302642822266
+NZZ-1938-09-13-b-p0001,3623,3635,Lendenbaches,NIL,LOC,Q1473656,Lendkanal,"{ ""wikipedia_page"": ""Lendbach"", ""wikidata_id"": ""Q1473656"" }",18.139135360717773
+NZZ-1938-09-13-b-p0001,3710,3722,Spitalstraße,NIL,LOC,Q6623697,,"{ ""wikipedia_page"": ""Spitalstraße"", ""wikidata_id"": ""Q6623697"" }",15.877822875976562
+NZZ-1938-09-13-b-p0001,4418,4426,E. K. Z.,Q1326642,ORG,Q1326584,Eidgenössische Elektrizitätskommission,"{ ""wikipedia_page"": ""Eidgenössische Elektrizitätskommission"", ""wikidata_id"": ""Q1326584"" }",16.737510681152344
+NZZ-1938-09-13-b-p0001,4499,4522,"Bantli (Bp., Dübendorf)",NIL,PER,Q15847277,Septimus Gottlob Bantlin,"{ ""wikipedia_page"": ""Septimus Gottlob Bantlin"", ""wikidata_id"": ""Q15847277"" }",16.085294723510742
+NZZ-1938-09-13-b-p0001,4537,4559,"Hofmann (Bp., Kempten)",NIL,PER,Q68800,Johann Christian Konrad von Hofmann,"{ ""wikipedia_page"": ""Johann Christian Konrad von Hofmann"", ""wikidata_id"": ""Q68800"" }",15.938010215759277
+NZZ-1938-09-13-b-p0001,4831,4854,"Bantli (Bp., Dübendorf)",NIL,PER,Q1303380,Ruedi Bantle,"{ ""wikipedia_page"": ""Ruedi Bantle"", ""wikidata_id"": ""Q1303380"" }",17.099973678588867
+NZZ-1938-09-13-b-p0001,5572,5600,"Dr. Duttweiler (fr., Zürich)",NIL,PER,Q116111,Gottlieb Duttweiler,"{ ""wikipedia_page"": ""Gottlieb Duttweiler"", ""wikidata_id"": ""Q116111"" }",18.891803741455078
+NZZ-1938-09-13-b-p0001,5826,5846,"Marti (soz., Zürich)",NIL,PER,Q3018490,Eduard Marti,"{ ""wikipedia_page"": ""Eduard Marti"", ""wikidata_id"": ""Q3018490"" }",15.546547889709473
+NZZ-1938-09-13-b-p0001,6053,6079,"Dr. P. Gygax (fr., Zürich)",NIL,PER,Q2637952,Albert Friedrich Gygax,"{ ""wikipedia_page"": ""Albert Friedrich Gygax"", ""wikidata_id"": ""Q2637952"" }",17.523334503173828
+NZZ-1938-09-13-b-p0001,6433,6458,"Oldani (soz., Winterthur)",Q55683084,PER,NIL,"Oldani (soz., Winterthur)","{ ""wikipedia_page"": ""Oldani"", ""wikidata_id"": ""NIL"" }",15.550785064697266
+NZZ-1938-09-13-b-p0001,6912,6934,"Kägi (soz., Erlenbach)",Q4668150,PER,Q2561860,Werner Kägi,"{ ""wikipedia_page"": ""Werner Kägi"", ""wikidata_id"": ""Q2561860"" }",13.615096092224121
+NZZ-1938-09-13-b-p0001,7323,7342,"Heeb (soz., Zürich)",Q15452401,PER,Q1484838,Heinrich Abegg,"{ ""wikipedia_page"": ""Heinrich Abegg"", ""wikidata_id"": ""Q1484838"" }",20.02560806274414
+NZZ-1938-09-13-b-p0001,7661,7680,"Kopp (soz., Zürich)",NIL,PER,Q18683277,Alois Kopp,"{ ""wikipedia_page"": ""Alois Kopp"", ""wikidata_id"": ""Q18683277"" }",19.8427734375
+NZZ-1938-09-13-b-p0001,9770,9775,Kaegi,Q4668150,PER,Q7965312,Walter Kaegi,"{ ""wikipedia_page"": ""Walter Kaegi"", ""wikidata_id"": ""Q7965312"" }",13.092546463012695
+NZZ-1938-09-13-b-p0001,10424,10429,Kaegi,Q4668150,PER,Q117789,Werner Kaegi,"{ ""wikipedia_page"": ""Werner Kaegi"", ""wikidata_id"": ""Q117789"" }",14.576284408569336
+NZZ-1938-09-13-b-p0001,10559,10583,"Hackhofer (chr., Zürich)",NIL,PER,Q114599,Josef Hackhofer,"{ ""wikipedia_page"": ""Josef Hackhofer"", ""wikidata_id"": ""Q114599"" }",17.7796630859375
+NZZ-1938-09-13-b-p0001,10855,10883,"Schneider (soz., Winterthur)",NIL,PER,Q121362,Friedrich Schneider,"{ ""wikipedia_page"": ""Friedrich Schneider"", ""wikidata_id"": ""Q121362"" }",15.444279670715332
+NZZ-1938-09-13-b-p0001,11288,11311,Regie¬ rungsrat Pfister,Q2209051,PER,Q106627861,Rudolf Pfister,"{ ""wikipedia_page"": ""Rudolf Pfister"", ""wikidata_id"": ""Q106627861"" }",17.862180709838867
+NZZ-1938-09-13-b-p0001,11673,11695,"Kägi (soz., Erlenbach)",Q4668150,PER,Q2561860,Werner Kägi,"{ ""wikipedia_page"": ""Werner Kägi"", ""wikidata_id"": ""Q2561860"" }",16.427093505859375
+NZZ-1938-09-13-b-p0001,12388,12413,"Oldani (soz., Winterthur)",Q55683084,PER,Q3608485,Alberto Oldani,"{ ""wikipedia_page"": ""Alberto Oldani"", ""wikidata_id"": ""Q3608485"" }",11.665977478027344
+NZZ-1948-05-12-b-p0002,173,182,Mlassieli,Q2893138,PER,Q6483468,Lance Mallalieu,"{ ""wikipedia_page"": ""Lance Mallalieu"", ""wikidata_id"": ""Q6483468"" }",13.060482025146484
+NZZ-1948-05-12-b-p0002,772,784,Franke¬ furt,Q1794,LOC,Q704300,Freie Stadt Frankfurt,"{ ""wikipedia_page"": ""Freie Stadt Frankfurt"", ""wikidata_id"": ""Q704300"" }",10.299023628234863
+NZZ-1948-05-12-b-p0002,871,885,Rulrkonsortium,Q1664,LOC,Q202722,Konsens,"{ ""wikipedia_page"": ""Konsens"", ""wikidata_id"": ""Q202722"" }",10.613044738769531
+NZZ-1948-05-12-b-p0002,1075,1080,Paxis,Q90,LOC,Q1241308,Passy,"{ ""wikipedia_page"": ""Passy"", ""wikidata_id"": ""Q1241308"" }",10.979508399963379
+NZZ-1948-05-12-b-p0002,1157,1166,Edinburgh,Q23436,LOC,Q80976,"Philip, Duke of Edinburgh","{ ""wikipedia_page"": ""Philip, Duke of Edinburgh"", ""wikidata_id"": ""Q80976"" }",14.739027976989746
+NZZ-1948-05-12-b-p0002,1331,1337,London,Q84,LOC,Q5369960,Botschaft der Vereinigten Staaten von Amerika in London,"{ ""wikipedia_page"": ""Botschaft der Vereinigten Staaten von Amerika in London"", ""wikidata_id"": ""Q5369960"" }",14.041845321655273
+NZZ-1948-05-12-b-p0002,1351,1378,Sonderbotschafter Hlarriman,Q345531,PER,NIL,Sonderbotschafter Hlarriman,"{ ""wikipedia_page"": ""George Kennan"", ""wikidata_id"": ""NIL"" }",13.387792587280273
+NZZ-1948-05-12-b-p0002,1535,1551,Deutschlandfrage,Q183,LOC,Q13522713,Deutsche Frage,"{ ""wikipedia_page"": ""Deutsche Frage"", ""wikidata_id"": ""Q13522713"" }",19.850202560424805
+NZZ-1948-05-12-b-p0002,1620,1629,Whitchall,Q391620,LOC,Q214820,Whitehall,"{ ""wikipedia_page"": ""Whitehall"", ""wikidata_id"": ""Q214820"" }",12.143646240234375
+NZZ-1948-05-12-b-p0002,1782,1788,Mo-kau,Q649,LOC,Q14773,Macau,"{ ""wikipedia_page"": ""Macau"", ""wikidata_id"": ""Q14773"" }",13.63686466217041
+NZZ-1948-05-12-b-p0002,2061,2067,Moskau,Q649,LOC,Q1753858,Konferenz von Moskau,"{ ""wikipedia_page"": ""Konferenz von Moskau"", ""wikidata_id"": ""Q1753858"" }",11.969810485839844
+NZZ-1948-05-12-b-p0002,2156,2163,Amerika,Q30,LOC,Q828,Amerika,"{ ""wikipedia_page"": ""Amerika"", ""wikidata_id"": ""Q828"" }",14.491616249084473
+NZZ-1948-05-12-b-p0002,2358,2374,Groz¬ brikannien,Q145,LOC,Q23666,Großbritannien,"{ ""wikipedia_page"": ""Großbritannien"", ""wikidata_id"": ""Q23666"" }",15.151455879211426
+NZZ-1948-05-12-b-p0002,2716,2725,Ruhrstaat,Q1664,LOC,Q151993,Ruhrgebiet,"{ ""wikipedia_page"": ""Ruhrgebiet"", ""wikidata_id"": ""Q151993"" }",17.68990135192871
+NZZ-1948-05-12-b-p0002,2894,2906,Ruhrprodubte,Q1664,LOC,Q151993,Ruhrgebiet,"{ ""wikipedia_page"": ""Ruhrgebiet"", ""wikidata_id"": ""Q151993"" }",17.252254486083984
+NZZ-1948-05-12-b-p0002,3806,3813,Amerika,Q30,LOC,Q828,Amerika,"{ ""wikipedia_page"": ""Amerika"", ""wikidata_id"": ""Q828"" }",14.253222465515137
+NZZ-1948-05-12-b-p0002,3944,3951,Eusland,Q21,LOC,Q46,Europa,"{ ""wikipedia_page"": ""Europa"", ""wikidata_id"": ""Q46"" }",15.90962028503418
+NZZ-1948-05-12-b-p0002,4274,4284,Mashington,Q61,LOC,Q1223,Washington,"{ ""wikipedia_page"": ""Washington"", ""wikidata_id"": ""Q1223"" }",11.291011810302734
+NZZ-1948-05-12-b-p0002,4367,4377,Mesteuropa,Q27496,LOC,Q900636,Mittel- und Osteuropa,"{ ""wikipedia_page"": ""Mittel- und Osteuropa"", ""wikidata_id"": ""Q900636"" }",14.349776268005371
+NZZ-1948-05-12-b-p0002,4785,4791,Puropa,Q46,LOC,Q3143,Europa,"{ ""wikipedia_page"": ""Europa"", ""wikidata_id"": ""Q3143"" }",10.328676223754883
+luxwort-1848-04-23-a-i0003,40,51,Lurem biurg,Q32,LOC,Q10570964,Lurberg,"{ ""wikipedia_page"": ""Lurmburg"", ""wikidata_id"": ""Q10570964"" }",8.941614151000977
+luxwort-1848-04-23-a-i0003,101,110,Lurcmburg,Q32,LOC,Q572166,Lurnfeld,"{ ""wikipedia_page"": ""Lurnfeld"", ""wikidata_id"": ""Q572166"" }",12.839582443237305
+luxwort-1848-08-27-a-i0001,1418,1442,Commission aus Luxemburg,Q657529,ORG,Q15803729,Commission de Triage,"{ ""wikipedia_page"": ""Commission de Triage"", ""wikidata_id"": ""Q15803729"" }",10.453532218933105
+luxwort-1848-08-27-a-i0001,2721,2730,Suremburg,Q1842,LOC,Q1700986,Surenburg,"{ ""wikipedia_page"": ""Surenburg"", ""wikidata_id"": ""Q1700986"" }",10.638784408569336
+luxwort-1848-08-27-a-i0001,3049,3058,Suremburg,Q1842,LOC,Q251557,Surberg,"{ ""wikipedia_page"": ""Surberg"", ""wikidata_id"": ""Q251557"" }",11.505389213562012
+luxwort-1848-08-27-a-i0001,3270,3279,Lurcmburg,Q1842,LOC,Q694783,Bistum Limburg,"{ ""wikipedia_page"": ""Bistum Limburg"", ""wikidata_id"": ""Q694783"" }",10.5914888381958
+luxwort-1848-09-29-a-i0001,0,9,Luremburg,Q32,LOC,Q3920,Lüneburg,"{ ""wikipedia_page"": ""Lüneburg"", ""wikidata_id"": ""Q3920"" }",21.129241943359375
+luxwort-1848-09-29-a-i0001,41,49,Gcurricr,Q13102226,PROD,Q72861,Georg Curtius,"{ ""wikipedia_page"": ""Georg Curtius"", ""wikidata_id"": ""Q72861"" }",12.411100387573242
+luxwort-1848-09-29-a-i0001,192,200,Ch. Metz,Q5080926,PER,Q13102136,Chrétien Mersch,"{ ""wikipedia_page"": ""Chrétien Mersch"", ""wikidata_id"": ""Q13102136"" }",15.229320526123047
+luxwort-1848-09-29-a-i0001,202,208,Stifft,NIL,PER,Q15782329,Alfons Stiff,"{ ""wikipedia_page"": ""Alfons Stiff"", ""wikidata_id"": ""Q15782329"" }",15.786005020141602
+luxwort-1848-09-29-a-i0001,210,217,Fischer,NIL,PER,Q1597228,Heinrich Fischer,"{ ""wikipedia_page"": ""Heinrich Fischer"", ""wikidata_id"": ""Q1597228"" }",10.151601791381836
+luxwort-1848-09-29-a-i0001,219,226,Hertert,NIL,PER,Q1875315,Ludwig von Herterich,"{ ""wikipedia_page"": ""Ludwig von Herterich"", ""wikidata_id"": ""Q1875315"" }",14.44079303741455
+luxwort-1848-09-29-a-i0001,228,239,Heldenstein,Q13103205,PER,Q337229,François Heldenstein,"{ ""wikipedia_page"": ""François Heldenstein"", ""wikidata_id"": ""Q337229"" }",16.374862670898438
+luxwort-1848-09-29-a-i0001,241,249,Schlinck,NIL,PER,Q16215799,Johann Heinrich Schlink,"{ ""wikipedia_page"": ""Johann Heinrich Schlink"", ""wikidata_id"": ""Q16215799"" }",17.334667205810547
+luxwort-1848-09-29-a-i0001,251,258,Lampach,NIL,PER,Q22919,Lambach,"{ ""wikipedia_page"": ""Lambach"", ""wikidata_id"": ""Q22919"" }",14.670562744140625
+luxwort-1848-10-01-a-i0001,1876,1905,Luremburgcr Ccutralwahlcomite,NIL,ORG,Q935741,Wahlkommission,"{ ""wikipedia_page"": ""Wahlkommission"", ""wikidata_id"": ""Q935741"" }",15.142019271850586
+luxwort-1848-10-01-a-i0001,2112,2130,Echternach Gigrang,NIL,PER,Q204317,Echternach,"{ ""wikipedia_page"": ""Echternach"", ""wikidata_id"": ""Q204317"" }",18.972261428833008
+luxwort-1848-10-01-a-i0001,2135,2145,Dieschburg,NIL,PER,Q1221353,Diesburg,"{ ""wikipedia_page"": ""Diesburg"", ""wikidata_id"": ""Q1221353"" }",16.454849243164062
+luxwort-1848-10-01-a-i0001,2150,2163,Wiltz Neumann,NIL,PER,Q14789864,Wenzel Neumann,"{ ""wikipedia_page"": ""Wenzel Neumann"", ""wikidata_id"": ""Q14789864"" }",11.426393508911133
+luxwort-1848-10-01-a-i0001,2168,2188,Grevenmachern Kuborn,NIL,PER,Q215826,Grevenmacher,"{ ""wikipedia_page"": ""Grevenmacher"", ""wikidata_id"": ""Q215826"" }",12.529273986816406
+luxwort-1848-10-01-a-i0001,2382,2388,Ledure,Q16439666,PER,Q2826869,Agis-Léon Ledru,"{ ""wikipedia_page"": ""Agis-Léon Ledru"", ""wikidata_id"": ""Q2826869"" }",16.292314529418945
+luxwort-1848-10-01-a-i0001,2390,2396,Macher,NIL,PER,Q15853537,Walter Macher,"{ ""wikipedia_page"": ""Walter Macher"", ""wikidata_id"": ""Q15853537"" }",15.218660354614258
+luxwort-1848-10-01-a-i0001,2398,2409,Wellenstein,Q3247082,LOC,Q153545,Albrecht von Wallenstein,"{ ""wikipedia_page"": ""Albrecht von Wallenstein"", ""wikidata_id"": ""Q153545"" }",17.74019432067871
+luxwort-1848-10-01-a-i0001,2411,2421,Lafontaine,Q725755,PER,Q70060,August Lafontaine,"{ ""wikipedia_page"": ""August Lafontaine"", ""wikidata_id"": ""Q70060"" }",19.808820724487305
+luxwort-1848-10-01-a-i0001,2423,2431,Brasseur,NIL,PER,Q4721416,Alexis Brasseur,"{ ""wikipedia_page"": ""Alexis Brasseur"", ""wikidata_id"": ""Q4721416"" }",19.828672409057617
+luxwort-1848-10-01-a-i0001,2528,2534,Nemich,Q734284,LOC,Q7184658,Philipp Andreas Nemnich,"{ ""wikipedia_page"": ""Philipp Andreas Nemnich"", ""wikidata_id"": ""Q7184658"" }",12.038117408752441
+luxwort-1848-10-01-a-i0001,2689,2694,Motte,Q16439867,PER,Q4820859,August de la Motte,"{ ""wikipedia_page"": ""August de la Motte"", ""wikidata_id"": ""Q4820859"" }",15.364212989807129
+luxwort-1848-10-01-a-i0001,2717,2734,Herren Lafontaine,Q725755,PER,Q70060,August Lafontaine,"{ ""wikipedia_page"": ""August Lafontaine"", ""wikidata_id"": ""Q70060"" }",15.193134307861328
+luxwort-1848-10-01-a-i0001,2824,2853,Priester und Professor Müller,NIL,PER,Q1698073,Johannes Müller,"{ ""wikipedia_page"": ""Johannes Müller"", ""wikidata_id"": ""Q1698073"" }",13.194969177246094
+luxwort-1848-10-01-a-i0001,2884,2899,Direktor Müller,NIL,PER,Q70376,Karl Müller,"{ ""wikipedia_page"": ""Karl Müller"", ""wikidata_id"": ""Q70376"" }",12.278966903686523
+luxwort-1848-10-01-a-i0001,2903,2911,Athenäum,Q545334,LOC,Q755460,Athenäum,"{ ""wikipedia_page"": ""Athenäum"", ""wikidata_id"": ""Q755460"" }",11.406108856201172
+luxwort-1848-10-01-a-i0001,3261,3265,Metz,Q3343509,PER,Q22690,Metz,"{ ""wikipedia_page"": ""Metz"", ""wikidata_id"": ""Q22690"" }",18.56374168395996
+luxwort-1848-10-01-a-i0001,3784,3808,Bürgermeister S. von St.,NIL,PER,Q29639349,Bürgermeister in Luxemburg,"{ ""wikipedia_page"": ""Bürgermeister in Luxemburg"", ""wikidata_id"": ""Q29639349"" }",13.681740760803223
+luxwort-1848-10-01-a-i0001,3848,3857,Athenäums,Q545334,LOC,Q162711,Alte Akademie,"{ ""wikipedia_page"": ""Alte Akademie"", ""wikidata_id"": ""Q162711"" }",10.8812894821167
+luxwort-1848-10-01-a-i0001,3918,3922,Metz,Q5080926,PER,Q22690,Metz,"{ ""wikipedia_page"": ""Metz"", ""wikidata_id"": ""Q22690"" }",21.435813903808594
+luxwort-1848-10-01-a-i0001,4083,4091,Eh. Metz,Q5080926,PER,Q16439822,Édouard Metz,"{ ""wikipedia_page"": ""Édouard Metz"", ""wikidata_id"": ""Q16439822"" }",12.892828941345215
+luxwort-1848-10-01-a-i0001,4294,4311,Cantons Luremburg,Q1146429,LOC,Q550066,Kanton Lauterbourg,"{ ""wikipedia_page"": ""Kanton Lauterbourg"", ""wikidata_id"": ""Q550066"" }",22.28192138671875
+luxwort-1848-10-01-a-i0001,4585,4592,Fischer,NIL,PER,Q1597228,Heinrich Fischer,"{ ""wikipedia_page"": ""Heinrich Fischer"", ""wikidata_id"": ""Q1597228"" }",11.299442291259766
+luxwort-1848-10-01-a-i0001,4627,4633,Stifft,NIL,PER,Q498594,Andreas Joseph von Stifft,"{ ""wikipedia_page"": ""Andreas Joseph von Stifft"", ""wikidata_id"": ""Q498594"" }",17.65169334411621
+luxwort-1848-10-01-a-i0001,4781,4789,Scklinck,NIL,PER,Q23000717,Heinrich Schilking,"{ ""wikipedia_page"": ""Heinrich Schilking"", ""wikidata_id"": ""Q23000717"" }",19.525753021240234
+luxwort-1848-10-01-a-i0001,4797,4804,Lampach,NIL,PER,Q71135163,Lappach,"{ ""wikipedia_page"": ""Lampach"", ""wikidata_id"": ""Q71135163"" }",19.753005981445312
+luxwort-1848-10-01-a-i0001,4812,4823,Heldenstein,Q13103205,PER,Q13102651,François Heldenstein,"{ ""wikipedia_page"": ""François Heldenstein"", ""wikidata_id"": ""Q13102651"" }",21.196807861328125
+luxwort-1848-10-01-a-i0001,4831,4841,Dasstlborn,Q67588061,PER,Q632571,Dassendorf,"{ ""wikipedia_page"": ""Dassendorf"", ""wikidata_id"": ""Q632571"" }",17.93166732788086
+luxwort-1848-10-01-a-i0001,4849,4856,Herlert,NIL,PER,Q60584,Christian Fürchtegott Gellert,"{ ""wikipedia_page"": ""Christian Fürchtegott Gellert"", ""wikidata_id"": ""Q60584"" }",14.036301612854004
+luxwort-1848-10-01-a-i0001,4864,4869,Jonas,Q16439477,PER,Q97896,Fritz Jonas,"{ ""wikipedia_page"": ""Fritz Jonas"", ""wikidata_id"": ""Q97896"" }",7.491301536560059
+luxwort-1848-10-01-a-i0001,4877,4884,Fendius,NIL,PER,Q1919124,Melchior Fendt,"{ ""wikipedia_page"": ""Melchior Fendt"", ""wikidata_id"": ""Q1919124"" }",13.788163185119629
+luxwort-1848-10-01-a-i0001,4892,4901,Würth PH.,NIL,PER,Q41428570,Joseph von Würth,"{ ""wikipedia_page"": ""Joseph von Würth"", ""wikidata_id"": ""Q41428570"" }",13.195839881896973
+luxwort-1848-10-01-a-i0001,4909,4913,Adam,NIL,PER,Q1678876,Jakob Adam,"{ ""wikipedia_page"": ""Jakob Adam"", ""wikidata_id"": ""Q1678876"" }",9.661063194274902
+luxwort-1848-10-01-a-i0001,5280,5296,Canton Suremburg,Q1146429,LOC,NIL,Canton Suremburg,"{ ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" }",20.114208221435547
+luxwort-1848-10-01-a-i0001,6394,6402,Athenäum,Q545334,ORG,Q755454,Athenäum,"{ ""wikipedia_page"": ""Athenäum"", ""wikidata_id"": ""Q755454"" }",11.788004875183105
+luxwort-1848-12-15-a-i0001,43,53,Sa« pellen,Q397678,LOC,Q1201,Saarland,"{ ""wikipedia_page"": ""Saarland"", ""wikidata_id"": ""Q1201"" }",9.994060516357422
+luxwort-1848-12-15-a-i0001,202,208,Ulrich,NIL,PER,Q14400024,Ulrich von Württemberg,"{ ""wikipedia_page"": ""Ulrich von Württemberg"", ""wikidata_id"": ""Q14400024"" }",9.919866561889648
+luxwort-1848-12-15-a-i0001,236,276,"General-Administrator des Innern, Ulrich",NIL,PER,Q6866008,Ministerium für innere Angelegenheiten,"{ ""wikipedia_page"": ""General-Administrator des Innern"", ""wikidata_id"": ""Q6866008"" }",10.17642593383789
+luxwort-1848-12-15-a-i0001,707,720,Herrn Willmai,Q738855,PER,Q90822,Hans Wilhelmi,"{ ""wikipedia_page"": ""Hans Wilhelmi"", ""wikidata_id"": ""Q90822"" }",14.165599822998047
+luxwort-1848-12-15-a-i0001,749,760,Hrn. Ulrich,NIL,PER,Q61671,Ulrich,"{ ""wikipedia_page"": ""Ulrich"", ""wikidata_id"": ""Q61671"" }",11.443432807922363
+luxwort-1858-02-07-a-i0009,48,57,Dra» pcau,Q3222443,PROD,Q3222441,Le Drapeau,"{ ""wikipedia_page"": ""Le Drapeau"", ""wikidata_id"": ""Q3222441"" }",12.613394737243652
+luxwort-1858-02-07-a-i0009,171,209,"jetzige nominelle Herausgeber, Brismee",NIL,PER,Q16438984,Rodolphe Brimmeyr,"{ ""wikipedia_page"": ""Rodolphe Brimmeyr"", ""wikidata_id"": ""Q16438984"" }",8.228626251220703
+luxwort-1858-02-07-a-i0009,489,500,Proletarier,NIL,PROD,Q17513843,Der Proletarier,"{ ""wikipedia_page"": ""Der Proletarier"", ""wikidata_id"": ""Q17513843"" }",11.951789855957031
+luxwort-1858-02-07-a-i0009,633,666,"rabiaten Schneider, Namens Coulon",NIL,PER,Q1566971,Rowdy,"{ ""wikipedia_page"": ""Rowdy"", ""wikidata_id"": ""Q1566971"" }",8.753532409667969
+luxwort-1858-02-07-a-i0009,783,789,Pierri,Q3106996,PER,Q3903330,Piero Pieri,"{ ""wikipedia_page"": ""Piero Pieri"", ""wikidata_id"": ""Q3903330"" }",12.848345756530762
+luxwort-1858-02-07-a-i0009,876,907,"Mr. Coulon, der kühne Schneider",NIL,PER,Q1092777,Monsieur,"{ ""wikipedia_page"": ""Monsieur"", ""wikidata_id"": ""Q1092777"" }",9.80100154876709
+luxwort-1858-02-07-a-i0009,939,946,Drapeau,Q3222443,PROD,Q3222441,Le Drapeau,"{ ""wikipedia_page"": ""Le Drapeau"", ""wikidata_id"": ""Q3222441"" }",16.059431076049805
+luxwort-1858-02-07-a-i0009,953,962,Crocodile,NIL,PROD,Q1586030,Krokodil,"{ ""wikipedia_page"": ""Krokodil"", ""wikidata_id"": ""Q1586030"" }",14.500633239746094
+luxwort-1858-02-07-a-i0009,1016,1022,sM. I.,NIL,PER,Q113821,Simon von Sina,"{ ""wikipedia_page"": ""Heinrich Heine"", ""wikidata_id"": ""Q113821"" }",5.890088081359863
+luxwort-1858-03-14-a-i0006,0,9,ïuiemburg,Q1842,LOC,Q840713,Limburg,"{ ""wikipedia_page"": ""Limburg"", ""wikidata_id"": ""Q840713"" }",13.551068305969238
+luxwort-1858-03-14-a-i0006,934,942,P. Zobel,NIL,PER,Q2063292,Paul Zobel,"{ ""wikipedia_page"": ""Paul Zobel"", ""wikidata_id"": ""Q2063292"" }",17.888450622558594
+luxwort-1858-03-14-a-i0006,1319,1336,Gesellschaft Jesu,Q36380,ORG,Q261086,Congregatio Jesu,"{ ""wikipedia_page"": ""Congregatio Jesu"", ""wikidata_id"": ""Q261086"" }",18.81620979309082
+luxwort-1858-03-14-a-i0006,1346,1388,"General-Direktor des Innern, Würth- Paquet",Q1956419,PER,NIL,"General-Direktor des Innern, Würth- Paquet","{ ""wikipedia_page"": ""Würth-Paquet"", ""wikidata_id"": ""NIL"" }",9.845972061157227
+luxwort-1858-08-29-a-i0005,0,7,England,Q21,LOC,Q179876,Königreich England,"{ ""wikipedia_page"": ""Königreich England"", ""wikidata_id"": ""Q179876"" }",13.124481201171875
+luxwort-1858-08-29-a-i0005,9,18,l'ont» on,Q84,LOC,Q21,England,"{ ""wikipedia_page"": ""England"", ""wikidata_id"": ""Q21"" }",5.584628105163574
+luxwort-1858-08-29-a-i0005,851,855,m. I,NIL,PER,Q253276,Meile,"{ ""wikipedia_page"": ""Meile"", ""wikidata_id"": ""Q253276"" }",5.321022033691406
+luxwort-1858-10-07-a-i0008,585,620,katholischen Großmacht Frank» reich,Q142,ORG,Q9592,römisch-katholische Kirche,"{ ""wikipedia_page"": ""Römisch-katholische Kirche"", ""wikidata_id"": ""Q9592"" }",13.775272369384766
+luxwort-1858-10-07-a-i0008,624,630,Orient,Q205653,LOC,Q48214,Naher Osten,"{ ""wikipedia_page"": ""Naher Osten"", ""wikidata_id"": ""Q48214"" }",15.270626068115234
+luxwort-1858-10-07-a-i0008,866,873,Pius IX,Q43720,PER,Q2120620,Pío IX,"{ ""wikipedia_page"": ""Pío IX"", ""wikidata_id"": ""Q2120620"" }",18.866422653198242
+luxwort-1858-10-07-a-i0008,1234,1261,Schuldners Marchese Campana,Q442379,PER,Q157470,Schuldner,"{ ""wikipedia_page"": ""Schuldner"", ""wikidata_id"": ""Q157470"" }",11.880767822265625
+luxwort-1858-10-07-a-i0008,1295,1302,Neapels,Q2634,LOC,Q173065,Königreich Neapel,"{ ""wikipedia_page"": ""Königreich Neapel"", ""wikidata_id"": ""Q173065"" }",18.64344024658203
+luxwort-1858-10-07-a-i0008,1405,1416,Weftmächten,NIL,ORG,Q177859,Triple Entente,"{ ""wikipedia_page"": ""Triple Entente"", ""wikidata_id"": ""Q177859"" }",8.976831436157227
+luxwort-1858-10-07-a-i0008,1467,1488,Comman» deurs Caraffa,NIL,PER,Q1527024,Girolamo Caraffa,"{ ""wikipedia_page"": ""Girolamo Caraffa"", ""wikidata_id"": ""Q1527024"" }",16.48385238647461
+luxwort-1858-10-07-a-i0008,1671,1677,Neapel,Q2634,LOC,Q173065,Königreich Neapel,"{ ""wikipedia_page"": ""Königreich Neapel"", ""wikidata_id"": ""Q173065"" }",18.018463134765625
+luxwort-1858-10-07-a-i0008,1760,1771,Westmächten,NIL,ORG,Q1507074,Westmächte,"{ ""wikipedia_page"": ""Westmächte"", ""wikidata_id"": ""Q1507074"" }",12.266139030456543
+luxwort-1858-10-07-a-i0008,2782,2787,Paris,Q90,LOC,NIL,Paris,"{ ""wikipedia_page"": ""London"", ""wikidata_id"": ""Q95"" }",14.701082229614258
+luxwort-1858-10-07-a-i0008,4084,4091,Preußen,Q27306,LOC,Q38872,Preußen,"{ ""wikipedia_page"": ""Preußen"", ""wikidata_id"": ""Q38872"" }",20.00319480895996
+luxwort-1858-10-07-a-i0008,4676,4680,K.J.,Q1795887,PROD,Q1201200,Kristján Jónsson,"{ ""wikipedia_page"": ""Kristján Jónsson"", ""wikidata_id"": ""Q1201200"" }",6.732530117034912
+luxwort-1868-07-21-a-i0003,12,20,Wäschfra,NIL,PROD,Q16624872,Wäscherin,"{ ""wikipedia_page"": ""Wäscherin"", ""wikidata_id"": ""Q16624872"" }",10.433366775512695
+luxwort-1868-07-21-a-i0003,209,218,SujemDurg,Q32,LOC,NIL,SujemDurg,"{ ""wikipedia_page"": """", ""wikidata_id"": ""NIL"" }",7.219085216522217
+luxwort-1868-07-21-a-i0003,360,365,Grund,Q1016205,LOC,Q537885,Bad Grund,"{ ""wikipedia_page"": ""Bad Grund"", ""wikidata_id"": ""Q537885"" }",16.1806583404541
+luxwort-1868-07-21-a-i0003,370,381,Pfasseuthal,Q1016214,LOC,Q148497,Pfastatt,"{ ""wikipedia_page"": ""Pfastatt"", ""wikidata_id"": ""Q148497"" }",15.039199829101562
+luxwort-1868-07-21-a-i0003,468,478,3Sd)cb.fra,NIL,PROD,Q1305789,Schlaraffia,"{ ""wikipedia_page"": ""Schlaraffia"", ""wikidata_id"": ""Q1305789"" }",8.628249168395996
+luxwort-1868-07-21-a-i0003,515,540,Hrn. Musikdirektor Rinnen,NIL,PER,Q564953,Heinrich Dorn,"{ ""wikipedia_page"": ""Heinrich Dorn"", ""wikidata_id"": ""Q564953"" }",8.285796165466309
+luxwort-1868-07-21-a-i0003,767,775,Wäschfra,NIL,PROD,Q16624872,Wäscherin,"{ ""wikipedia_page"": ""Wäscherin"", ""wikidata_id"": ""Q16624872"" }",11.261982917785645
+luxwort-1868-07-21-a-i0003,1041,1054,Gemeinde Eich,Q2451733,LOC,Q251357,Verbandsgemeinde Eich,"{ ""wikipedia_page"": ""Verbandsgemeinde Eich"", ""wikidata_id"": ""Q251357"" }",9.89953899383545
+luxwort-1868-07-21-a-i0003,1117,1137,Hrn. Direktor Zinnen,NIL,PER,Q94892582,Johann Heinrich Suicer,"{ ""wikipedia_page"": ""Johann Heinrich Suicer"", ""wikidata_id"": ""Q94892582"" }",4.568883419036865
+luxwort-1868-07-21-a-i0003,1521,1529,Wäschfra,NIL,PROD,Q16624872,Wäscherin,"{ ""wikipedia_page"": ""Wäscherin"", ""wikidata_id"": ""Q16624872"" }",5.722058296203613
+luxwort-1868-09-23-a-i0011,73,82,igatnburg,Q1055,LOC,Q1449,Genua,"{ ""wikipedia_page"": ""Genua"", ""wikidata_id"": ""Q1449"" }",12.7465238571167
+luxwort-1868-09-23-a-i0011,161,167,Italie,NIL,PROD,Q38,Italien,"{ ""wikipedia_page"": ""Italien"", ""wikidata_id"": ""Q38"" }",18.068771362304688
+luxwort-1868-09-23-a-i0011,344,348,MaMÜ,Q187336,PER,Q3550035,,"{ ""wikipedia_page"": ""MaMÜ"", ""wikidata_id"": ""Q3550035"" }",6.266465187072754
+luxwort-1868-09-23-a-i0011,598,605,"K. Ztg,",NIL,PROD,Q1795887,Kölnische Zeitung,"{ ""wikipedia_page"": ""Kölnische Zeitung"", ""wikidata_id"": ""Q1795887"" }",6.826936721801758
+luxwort-1868-09-23-a-i0011,607,610,Ram,Q220,LOC,Q160213,Rama,"{ ""wikipedia_page"": ""Rama"", ""wikidata_id"": ""Q160213"" }",7.455552577972412
+luxwort-1868-09-23-a-i0011,742,766,Associazionc Neunblicana,NIL,ORG,Q1427066,Associazione Nazionalista Italiana,"{ ""wikipedia_page"": ""Associazione Nazionalista Italiana"", ""wikidata_id"": ""Q1427066"" }",12.049522399902344
+luxwort-1868-09-23-a-i0011,772,796,Affiliazione Democratica,NIL,ORG,Q1141788,Democrazia è Libertà – La Margherita,"{ ""wikipedia_page"": ""Democrazia è Libertà – La Margherita"", ""wikidata_id"": ""Q1141788"" }",13.820419311523438
+luxwort-1868-09-23-a-i0011,802,822,Comité der Stadt Rom,NIL,ORG,Q2985236,Comitati d’Azione per l’Universalità di Roma,"{ ""wikipedia_page"": ""Comitati d’Azione per l’Universalità di Roma"", ""wikidata_id"": ""Q2985236"" }",10.312479019165039
+luxwort-1868-09-23-a-i0011,1160,1168,Lignrien,Q1256,LOC,Q670245,Lignières,"{ ""wikipedia_page"": ""Lignières"", ""wikidata_id"": ""Q670245"" }",12.255812644958496
+luxwort-1868-09-23-a-i0011,1206,1209,Rom,Q220,LOC,Q6580,Rome,"{ ""wikipedia_page"": ""Rome"", ""wikidata_id"": ""Q6580"" }",11.358166694641113
+luxwort-1868-09-23-a-i0011,1244,1247,Nom,Q220,LOC,Q1324366,Nomos,"{ ""wikipedia_page"": ""Nom"", ""wikidata_id"": ""Q1324366"" }",8.47969913482666
+luxwort-1868-09-23-a-i0011,1357,1402,französischen Botschafter Grafen Don ©artiges,NIL,PER,Q70802,Dritte Französische Republik,"{ ""wikipedia_page"": ""Dritte Französische Republik"", ""wikidata_id"": ""Q70802"" }",9.728025436401367
+luxwort-1868-09-23-a-i0011,2208,2230,Cabinet der Tuilerieen,Q1450662,ORG,Q640506,Kabinett,"{ ""wikipedia_page"": ""Kabinett des Tuilerien"", ""wikidata_id"": ""Q640506"" }",10.27064323425293
+luxwort-1868-09-23-a-i0011,2347,2360,Herr Menabrea,Q548672,PER,NIL,Herr Menabrea,"{ ""wikipedia_page"": ""Camille de Saint-Georges, vicomte de Menabrea"", ""wikidata_id"": ""NIL"" }",20.681621551513672
+luxwort-1868-09-23-a-i0011,2398,2405,Italien,Q38,LOC,Q172579,Königreich Italien,"{ ""wikipedia_page"": ""Königreich Italien"", ""wikidata_id"": ""Q172579"" }",15.633588790893555
+luxwort-1868-09-23-a-i0011,2410,2413,Nom,Q220,LOC,Q467708,Nominoë,"{ ""wikipedia_page"": ""Nominoë"", ""wikidata_id"": ""Q467708"" }",7.517621994018555
+luxwort-1868-09-23-a-i0011,2574,2584,Lord Lyons,Q5537443,PER,Q335522,"Edmund Lyons, 1. Baron Lyons","{ ""wikipedia_page"": ""Edmund Lyons, 1. Baron Lyons"", ""wikidata_id"": ""Q335522"" }",18.284238815307617
+luxwort-1868-09-23-a-i0011,2602,2619,Herrn de Moustier,Q3271672,PER,NIL,Herrn de Moustier,"{ ""wikipedia_page"": ""Lord Lyons"", ""wikidata_id"": """" }",18.272356033325195
+luxwort-1868-09-23-a-i0011,2764,2776,Lord Stanley,Q222458,PER,Q332789,"Edward Stanley, 15. Earl of Derby","{ ""wikipedia_page"": ""Edward Stanley, 15. Earl of Derby"", ""wikidata_id"": ""Q332789"" }",12.479649543762207
+luxwort-1868-09-23-a-i0011,2921,2924,Nom,Q220,LOC,Q106493136,Nom (Fluss),"{ ""wikipedia_page"": ""Nom (Fluss)"", ""wikidata_id"": ""Q106493136"" }",10.035014152526855
+luxwort-1868-09-23-a-i0011,3157,3164,Florenz,Q2044,LOC,Q148540,Republik Florenz,"{ ""wikipedia_page"": ""Republik Florenz"", ""wikidata_id"": ""Q148540"" }",17.487760543823242
+luxwort-1868-09-23-a-i0011,3338,3346,Sicilien,Q1460,LOC,Q180393,Königreich beider Sizilien,"{ ""wikipedia_page"": ""Königreich beider Sizilien"", ""wikidata_id"": ""Q180393"" }",17.021211624145508
+luxwort-1868-09-23-a-i0011,3994,4010,Königs Franz 11.,Q206223,PER,Q130834,Franz II.,"{ ""wikipedia_page"": ""König Franz II."", ""wikidata_id"": ""Q130834"" }",13.833870887756348
+luxwort-1868-12-18-a-i0004,3503,3512,Luxemburg,Q1842,LOC,Q32,Luxemburg,"{ ""wikipedia_page"": ""Luxemburg"", ""wikidata_id"": ""Q32"" }",23.42682456970215
+luxwort-1878-01-09-a-i0002,79,96,Sujeutburger Wort,Q1751317,PROD,Q201585,Sudetendeutsches Wörterbuch,"{ ""wikipedia_page"": ""Sudetendeutsches Wörterbuch"", ""wikidata_id"": ""Q201585"" }",12.262656211853027
+luxwort-1878-04-30-a-i0006,3211,3273,"Vtatthalter im Großherzogthnm, Heinrich, Prinz der Niederlande",Q705129,PER,Q503991,Heinrich zu Mecklenburg,"{ ""wikipedia_page"": ""Heinrich, Prinz der Niederlande"", ""wikidata_id"": ""Q503991"" }",10.85804557800293
+luxwort-1878-04-30-a-i0006,3279,3322,"General »Direktor des Innern, N. Talent iny",Q13104357,PER,Q21996303,General,"{ ""wikipedia_page"": ""General"", ""wikidata_id"": ""Q21996303"" }",6.731387615203857
+luxwort-1878-05-14-a-i0001,44,56,",Lux. Woll.‘",Q1751317,PROD,Q1872202,Louise Wolf,"{ ""wikipedia_page"": ""Louise Wolf"", ""wikidata_id"": ""Q1872202"" }",14.066659927368164
+luxwort-1878-05-14-a-i0001,505,511,Canaba,Q16,LOC,Q738847,Canabae,"{ ""wikipedia_page"": ""Canabae"", ""wikidata_id"": ""Q738847"" }",12.407416343688965
+luxwort-1878-05-14-a-i0001,528,536,Victoria,Q36687,LOC,Q9439,Victoria,"{ ""wikipedia_page"": ""Queen Victoria"", ""wikidata_id"": ""Q9439"" }",15.784568786621094
+luxwort-1878-05-14-a-i0001,538,548,QueenSlanb,Q36074,LOC,Q9682,Elisabeth II.,"{ ""wikipedia_page"": ""Queen Elizabeth II"", ""wikidata_id"": ""Q9682"" }",12.468027114868164
+luxwort-1878-05-14-a-i0001,581,587,Canaba,Q16,LOC,Q738847,Canabae,"{ ""wikipedia_page"": ""Canabae"", ""wikidata_id"": ""Q738847"" }",12.304609298706055
+luxwort-1878-05-14-a-i0001,1171,1179,Vicloria,Q36687,LOC,Q182688,Viktorianisches Zeitalter,"{ ""wikipedia_page"": ""Viktorianisches Zeitalter"", ""wikidata_id"": ""Q182688"" }",12.608266830444336
+luxwort-1878-05-14-a-i0001,2003,2013,QueenSlanb,Q36074,LOC,NIL,QueenSlanb,"{ ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" }",11.556486129760742
+luxwort-1878-05-14-a-i0001,2535,2543,Stanforb,NIL,ORG,Q173813,Stanford,"{ ""wikipedia_page"": ""Stanford"", ""wikidata_id"": ""Q173813"" }",11.571290016174316
+luxwort-1878-05-14-a-i0001,2646,2657,IameS Swift,NIL,ORG,Q314284,Lewis A. Swift,"{ ""wikipedia_page"": ""Lewis A. Swift"", ""wikidata_id"": ""Q314284"" }",12.843549728393555
+luxwort-1878-05-14-a-i0001,2659,2665,Darton,NIL,ORG,Q16918909,William Darton,"{ ""wikipedia_page"": ""William Darton"", ""wikidata_id"": ""Q16918909"" }",16.479141235351562
+luxwort-1878-05-14-a-i0001,3316,3324,Musgrabe,Q3328441,ORG,Q162875,Mausoleum,"{ ""wikipedia_page"": ""Mausoleum"", ""wikidata_id"": ""Q162875"" }",10.875981330871582
+luxwort-1878-05-14-a-i0001,3461,3478,Wilkinson Heywoob,NIL,ORG,Q3161190,James John Garth Wilkinson,"{ ""wikipedia_page"": ""James John Garth Wilkinson"", ""wikidata_id"": ""Q3161190"" }",16.94078254699707
+luxwort-1878-05-14-a-i0001,3515,3531,Jones unb Willis,NIL,ORG,Q16859352,John Jones,"{ ""wikipedia_page"": ""John Jones"", ""wikidata_id"": ""Q16859352"" }",16.03858184814453
+luxwort-1878-05-14-a-i0001,3811,3816,Chubb,NIL,ORG,Q5076255,Charles Chubb,"{ ""wikipedia_page"": ""Charles Chubb"", ""wikidata_id"": ""Q5076255"" }",13.813228607177734
+luxwort-1878-05-14-a-i0001,3820,3826,Sondon,Q84,LOC,NIL,Sondon,"{ ""wikipedia_page"": ""Chubb"", ""wikidata_id"": ""Q230186"" }",17.19072151184082
+luxwort-1878-05-14-a-i0001,4070,4090,Prinzessin bon Wales,Q152260,PER,Q2000835,Prinzessin von Wales,"{ ""wikipedia_page"": ""Prinzessin von Wales"", ""wikidata_id"": ""Q2000835"" }",15.085897445678711
+luxwort-1878-05-14-a-i0001,7254,7260,Hammer,NIL,ORG,Q25294,Hammer,"{ ""wikipedia_page"": ""Hammer"", ""wikidata_id"": ""Q25294"" }",8.808856964111328
+luxwort-1878-05-14-a-i0001,7264,7270,Sonbon,Q84,LOC,Q2301766,Sonnborn,"{ ""wikipedia_page"": ""Sonnborn"", ""wikidata_id"": ""Q2301766"" }",5.572066307067871
+luxwort-1878-05-14-a-i0001,8682,8692,Harry Newi,NIL,ORG,Q5481274,Francis Henry Newbery,"{ ""wikipedia_page"": ""Francis Henry Newbery"", ""wikidata_id"": ""Q5481274"" }",20.20928382873535
+luxwort-1878-05-14-a-i0001,9168,9181,Chubb unb Son,NIL,ORG,Q2178203,Cecil Chubb,"{ ""wikipedia_page"": ""Cecil Chubb"", ""wikidata_id"": ""Q2178203"" }",6.999040126800537
+luxwort-1878-05-14-a-i0001,9268,9282,Hart ©on Pearb,Q16983391,ORG,Q689675,Hart bei Graz,"{ ""wikipedia_page"": ""St. Peter am Hart"", ""wikidata_id"": ""Q689675"" }",11.602251052856445
+luxwort-1878-05-14-a-i0001,9921,9930,Templeton,Q16849442,ORG,Q3436389,Robert Templeton,"{ ""wikipedia_page"": ""Robert Templeton"", ""wikidata_id"": ""Q3436389"" }",15.20302677154541
+luxwort-1878-05-14-a-i0001,10658,10665,Zuccato,NIL,ORG,Q16561114,Giuseppe Zuccotti,"{ ""wikipedia_page"": ""Giuseppe Zuccotti"", ""wikidata_id"": ""Q16561114"" }",8.905875205993652
+luxwort-1878-05-14-a-i0001,10669,10675,Sondon,Q84,LOC,Q6529979,,"{ ""wikipedia_page"": ""Zuccato"", ""wikidata_id"": ""Q6529979"" }",11.576420783996582
+luxwort-1878-09-17-a-i0009,482,552,Ihre kaiserliche Hoheit bie Frau Erzherzogin Clothilbe bon Oefterreich,Q242170,PER,Q150782,Elisabeth von Österreich-Ungarn,"{ ""wikipedia_page"": ""Kaiserin Elisabeth von Österreich-Ungarn"", ""wikidata_id"": ""Q150782"" }",11.170174598693848
+luxwort-1878-09-17-a-i0009,899,907,Hannober,Q819125,LOC,Q1715,Hannover,"{ ""wikipedia_page"": ""Hannover"", ""wikidata_id"": ""Q1715"" }",16.481563568115234
+luxwort-1878-09-17-a-i0009,1355,1361,Aurich,Q1801981,LOC,Q14839,Aurich,"{ ""wikipedia_page"": ""Aurich"", ""wikidata_id"": ""Q14839"" }",17.249614715576172
+luxwort-1878-09-17-a-i0009,2280,2294,Herrn v. Vinke,Q1646857,PER,NIL,Herrn v. Vinke,"{ ""wikipedia_page"": ""Herrn v. Vinke"", ""wikidata_id"": ""NIL"" }",12.825151443481445
+luxwort-1878-09-17-a-i0009,2535,2546,Oesterreich,Q131964,LOC,Q40,Österreich,"{ ""wikipedia_page"": ""Österreich"", ""wikidata_id"": ""Q40"" }",22.869882583618164
+luxwort-1878-09-17-a-i0009,2695,2706,Oesterreich,Q131964,LOC,Q40,Österreich,"{ ""wikipedia_page"": ""Österreich"", ""wikidata_id"": ""Q40"" }",23.86821937561035
+luxwort-1938-01-29-a-i0025,435,445,Rene Pupin,NIL,PER,Q23906098,René Poupon,"{ ""wikipedia_page"": ""René Pupin"", ""wikidata_id"": ""Q23906098"" }",29.204092025756836
+luxwort-1938-04-11-a-i0066,1249,1314,"86jähriger Prieftergreis, Hr. Linsen Jos. aus Bartringen gebürtig",NIL,PER,Q1833437,Liste der Baudenkmäler in St. Ulrich in Gröden,"{ ""wikipedia_page"": ""Liste der Baudenkmäler in St. Ulrich in Gröden"", ""wikidata_id"": ""Q1833437"" }",8.533552169799805
+luxwort-1938-06-29-a-i0018,59,64,Havas,Q516033,ORG,NIL,Havas,"{ ""wikipedia_page"": ""Havas"", ""wikidata_id"": ""Q161"" }",10.242267608642578
+luxwort-1938-06-29-a-i0018,71,77,Hankau,Q11746,LOC,Q11133163,Britische Konzession von Hankou,"{ ""wikipedia_page"": ""Hankou"", ""wikidata_id"": ""Q11133163"" }",20.39173126220703
+luxwort-1938-06-29-a-i0018,338,344,Hankau,Q11746,LOC,Q1205133,Hanyang,"{ ""wikipedia_page"": ""Hankau"", ""wikidata_id"": ""Q1205133"" }",20.70185089111328
+luxwort-1948-03-27-a-i0009,362,402,Schweizer katholischen Volksbuchgemeinde,NIL,ORG,Q2800149,Schweizerischer katholischer Volksverein,"{ ""wikipedia_page"": ""Schweizer katholischer Volksverein"", ""wikidata_id"": ""Q2800149"" }",30.587356567382812
+luxwort-1948-06-04-a-i0050,23,54,südafrikanischen Union Pretoria,Q3926,LOC,Q193619,Südafrikanische Union,"{ ""wikipedia_page"": ""Südafrikanische Union"", ""wikidata_id"": ""Q193619"" }",21.45901870727539
+luxwort-1948-06-04-a-i0050,221,241,Nationalisten-Partei,Q740718,ORG,Q1690831,National Party,"{ ""wikipedia_page"": ""National Party"", ""wikidata_id"": ""Q1690831"" }",21.798864364624023
+luxwort-1948-06-04-a-i0050,301,317,Afrikaner-Partei,Q3366175,ORG,NIL,Afrikaner-Partei,"{ ""wikipedia_page"": ""Afrikaner-Partei"", ""wikidata_id"": ""NIL"" }",25.564970016479492
+luxwort-1948-06-04-a-i0050,552,568,Dr. E. G. Jansen,Q1170739,PER,NIL,Dr. E. G. Jansen,"{ ""wikipedia_page"": ""Hendrik Johannes van Mierlo, later known as Hendrik Johannes Jansen, later known as Hendrik Johannes van Mierlo, later known as Hendrik Johannes Jansen, later known as Hendrik Johannes van Mierlo, later known as Hendrik Johannes Jansen, later known as Hendrik Johannes van Mierlo, later known as Hendrik Johannes Jansen, later known as Hendrik Johannes van Mierlo, later known as Hendrik Johannes Jansen, later known as Hendrik Johannes van Mierlo, later known as Hendrik Johannes Jansen, later known as Hendrik Johannes van Mierlo, later known as Hendrik Johannes Jansen, later known as Hendrik Johannes van Mierlo, later known as Hendrik Johannes Jansen, later known as Hendrik Johannes van Mierlo, later known as Hendrik Johannes Jansen, later known as Hendrik Johannes van Mierlo, later known as Hendrik Johannes Jansen, later known as Hendrik Johannes van Mierlo, later known as Hendrik Johannes Jansen, later known as Hendrik Johannes van Mierlo, later known as Hendrik Johannes Jansen, later known as Hendrik Johannes van Mierlo, later known as Hendrik Johannes Jansen, later known as Hendrik Johannes van Mierlo, later known as Hendrik Johannes Jansen, later known as Hendrik Johannes van Mierlo, later known as Hendrik Johannes Jansen, later known as Hendrik Johannes van Mierlo, later known as Hendrik Johannes Jansen, later known as Hendrik Johannes van Mierlo, later known as Hendrik Johannes Jansen, later known as Hendrik Johannes van Mierlo, later known as Hendrik Johannes Jansen, later known as Hendrik Johannes van Mierlo, later known as Hendrik Johannes Jansen, later known as Hendrik Johannes van Mierlo, later known as Hendrik Johannes Jansen, later known as Hendrik Johannes van Mierlo, later known as Hendrik Johannes Jansen, later known as Hendrik Johannes van Mierlo, later known as Hendrik Johannes Jansen, later known as Hendrik Johannes van Mierlo, later known as Hendrik Johannes Jansen, later known as Hendrik Johannes van Mierlo, later known as Hendrik Johannes Jansen, later known as Hendrik Johannes van Mierlo, later known as Hendrik Johannes Jansen, later known as Hendrik Johannes",30.63547134399414
+luxwort-1948-06-04-a-i0050,792,798,Reuter,Q130879,ORG,Q71014,Paul Julius Reuter,"{ ""wikipedia_page"": ""Paul Julius Reuter"", ""wikidata_id"": ""Q71014"" }",19.82684326171875
+luxwort-1948-06-04-a-i0050,885,898,Nationalisten,Q740718,ORG,Q1968382,Nationalist Party,"{ ""wikipedia_page"": ""Nationalist Party"", ""wikidata_id"": ""Q1968382"" }",13.764814376831055
+luxwort-1948-06-04-a-i0050,948,961,Labour-Partei,Q3136263,ORG,Q779783,Labour Party (Südafrika),"{ ""wikipedia_page"": ""Labour Party (Südafrika)"", ""wikidata_id"": ""Q779783"" }",19.11825942993164
+luxwort-1948-07-09-a-i0038,479,487,C. G. T.,Q1125638,ORG,NIL,C. G. T.,"{ ""wikipedia_page"": ""Communist Party of France"", ""wikidata_id"": ""Q2985542"" }",29.708059310913086
+luxwort-1948-07-09-a-i0038,920,936,"„Force ouvrière""",Q1125623,ORG,Q870667,Lutte Ouvrière,"{ ""wikipedia_page"": ""Force ouvrière"", ""wikidata_id"": ""Q870667"" }",10.473151206970215
+luxwort-1948-11-11-a-i0044,271,285,englische Zone,Q55306,LOC,Q55304,Amerikanische Besatzungszone,"{ ""wikipedia_page"": ""Amerikanische Besatzungszone"", ""wikidata_id"": ""Q55304"" }",16.46844482421875
+tageblatt-1918-04-23-a-i0010,90,103,Züricher Post,NIL,PROD,Q110492514,Züricher Post,"{ ""wikipedia_page"": ""Züricher Post"", ""wikidata_id"": ""Q110492514"" }",21.936540603637695
+tageblatt-1918-04-23-a-i0010,567,574,Oisetäl,NIL,LOC,Q201341,Isère,"{ ""wikipedia_page"": ""Isère"", ""wikidata_id"": ""Q201341"" }",13.831334114074707
+tageblatt-1918-04-23-a-i0010,1409,1420,Deutschland,Q1206012,LOC,Q43287,Deutsches Kaiserreich,"{ ""wikipedia_page"": ""Deutsches Kaiserreich"", ""wikidata_id"": ""Q43287"" }",13.396089553833008
+tageblatt-1918-04-23-a-i0010,1498,1505,Amerika,Q30,LOC,Q828,Amerika,"{ ""wikipedia_page"": ""Amerika"", ""wikidata_id"": ""Q828"" }",13.24045467376709
+tageblatt-1918-04-23-a-i0010,1810,1823,Ipernschlacht,Q102728,LOC,Q233219,Zweite Flandernschlacht,"{ ""wikipedia_page"": ""Zweite Flandernschlacht"", ""wikidata_id"": ""Q233219"" }",21.443864822387695
+tageblatt-1918-04-23-a-i0010,1984,1991,'Kemmel,NIL,LOC,Q209541,Kemmelberg,"{ ""wikipedia_page"": ""Kemmelberg"", ""wikidata_id"": ""Q209541"" }",12.934473991394043
+tageblatt-1918-04-23-a-i0010,1996,2002,Enssel,Q2771634,LOC,Q2491613,,"{ ""wikipedia_page"": ""Kemmel"", ""wikidata_id"": ""Q2491613"" }",18.059904098510742
+tageblatt-1918-04-23-a-i0010,2058,2076,General Foch Ipern,Q102728,LOC,NIL,General Foch Ipern,"{ ""wikipedia_page"": ""Ferdinand Foch"", ""wikidata_id"": ""Q38024"" }",13.302570343017578
+tageblatt-1918-04-23-a-i0010,2408,2416,Boubogne,Q302720,LOC,Q895103,Boulogne,"{ ""wikipedia_page"": ""Boulogne"", ""wikidata_id"": ""Q895103"" }",15.238073348999023
+tageblatt-1918-04-23-a-i0010,2490,2496,Reuter,Q130879,ORG,Q213561,Ernst Reuter,"{ ""wikipedia_page"": ""Ernst Reuter"", ""wikidata_id"": ""Q213561"" }",10.495266914367676
+tageblatt-1918-04-23-a-i0010,2584,2590,Albert,Q30940,LOC,Q97171307,Albert,"{ ""wikipedia_page"": ""Albert (Somme)"", ""wikidata_id"": ""Q97171307"" }",10.513434410095215
+tageblatt-1918-04-23-a-i0010,2815,2819,Just,Q389077,LOC,Q968418,Justian,"{ ""wikipedia_page"": ""Justian"", ""wikidata_id"": ""Q968418"" }",9.695531845092773
+tageblatt-1918-04-23-a-i0010,3025,3036,Bernancourt,NIL,LOC,Q69021,Dernancourt,"{ ""wikipedia_page"": ""Dernancourt"", ""wikidata_id"": ""Q69021"" }",18.76222038269043
+tageblatt-1918-04-23-a-i0010,3132,3142,Alliierten,Q215669,ORG,Q3612401,Alliierte,"{ ""wikipedia_page"": ""Alliierte"", ""wikidata_id"": ""Q3612401"" }",19.61398696899414
+tageblatt-1918-04-23-a-i0010,3334,3344,Lord Derby,Q338427,PER,Q222458,"Frederick Stanley, 16. Earl of Derby","{ ""wikipedia_page"": ""Frederick Stanley, 16. Earl of Derby"", ""wikidata_id"": ""Q222458"" }",18.388490676879883
+tageblatt-1918-04-23-a-i0010,3350,3357,Amerika,Q30,LOC,Q828,Amerika,"{ ""wikipedia_page"": ""Amerika"", ""wikidata_id"": ""Q828"" }",13.909992218017578
+tageblatt-1918-04-23-a-i0010,3446,3454,Enßlmrds,Q21,LOC,Q1143181,Schlacht bei Enzheim,"{ ""wikipedia_page"": ""Schlacht bei Enzheim"", ""wikidata_id"": ""Q1143181"" }",11.684176445007324
+tageblatt-1918-04-23-a-i0010,3679,3685,Verdun,Q154748,LOC,Q130847,Schlacht um Verdun,"{ ""wikipedia_page"": ""Schlacht um Verdun"", ""wikidata_id"": ""Q130847"" }",17.841554641723633
+tageblatt-1918-04-23-a-i0010,3721,3727,Amiens,Q41604,LOC,Q700410,Arrondissement Amiens,"{ ""wikipedia_page"": ""Arrondissement Amiens"", ""wikidata_id"": ""Q700410"" }",15.778716087341309
+tageblatt-1918-04-23-a-i0010,4470,4485,Daily Chronicle,Q74707,PROD,NIL,Daily Chronicle,"{ ""wikipedia_page"": ""The Daily Chronicle"", ""wikidata_id"": ""Q188702"" }",21.719501495361328
+tageblatt-1918-04-23-a-i0010,4560,4593,Generalmajor Sir Robert WhighllIi,Q3938466,PER,NIL,Generalmajor Sir Robert WhighllIi,"{ ""wikipedia_page"": ""Generalmajor Sir Robert WhighllIi"", ""wikidata_id"": ""NIL"" }",18.24108123779297
+tageblatt-1918-04-23-a-i0010,4860,4869,Radcliffe,Q3375218,PER,Q472691,Cyril Radcliffe,"{ ""wikipedia_page"": ""Cyril Radcliffe"", ""wikidata_id"": ""Q472691"" }",17.69542694091797
+tageblatt-1918-04-23-a-i0010,4938,4950,Haoasmeldung,Q516033,ORG,Q192283,Nachrichtenagentur,"{ ""wikipedia_page"": ""Nachrichtenagentur"", ""wikidata_id"": ""Q192283"" }",9.341024398803711
+tageblatt-1918-04-23-a-i0010,5003,5012,Excelsior,NIL,PROD,Q1383470,Excelsior (Diamant),"{ ""wikipedia_page"": ""Excelsior (Diamant)"", ""wikidata_id"": ""Q1383470"" }",9.379914283752441
+tageblatt-1918-04-23-a-i0010,5269,5286,Telegraphen-Union,NIL,ORG,Q3517301,Telegraphen-Union,"{ ""wikipedia_page"": ""Telegraphen-Union"", ""wikidata_id"": ""Q3517301"" }",9.60838794708252
+tageblatt-1918-04-23-a-i0010,5396,5416,Präsidenten Poincars,Q191974,PER,NIL,Präsidenten Poincars,"{ ""wikipedia_page"": ""Lyautey"", ""wikidata_id"": ""Q315414"" }",14.428022384643555
+tageblatt-1918-06-14-a-i0004,61,80,Neutertorrespondent,Q130879,ORG,Q1699165,Obertor,"{ ""wikipedia_page"": ""Neutertor"", ""wikidata_id"": ""Q1699165"" }",12.419843673706055
+tageblatt-1918-06-14-a-i0004,225,232,Nenauls,NIL,LOC,Q209810,Nyons,"{ ""wikipedia_page"": ""Noyon"", ""wikidata_id"": ""Q209810"" }",15.387568473815918
+tageblatt-1918-06-14-a-i0004,396,403,Eauigny,Q937539,LOC,Q21806,Augny,"{ ""wikipedia_page"": ""Augny"", ""wikidata_id"": ""Q21806"" }",20.419328689575195
+tageblatt-1918-06-14-a-i0004,408,417,Thiocourt,Q497719,LOC,Q900841,Thiéfosse,"{ ""wikipedia_page"": ""Thiéfosse"", ""wikidata_id"": ""Q900841"" }",20.078901290893555
+tageblatt-1918-06-14-a-i0004,1311,1317,Noyons,Q49831,LOC,NIL,Noyons,"{ ""wikipedia_page"": ""Montdidier"", ""wikidata_id"": ""Q2086"" }",17.158370971679688
+tageblatt-1918-06-14-a-i0004,1483,1499,Montdidier Noyon,Q49831,LOC,NIL,Montdidier Noyon,"{ ""wikipedia_page"": ""Montdidier"", ""wikidata_id"": ""Q49832"" }",16.099838256835938
+tageblatt-1918-06-14-a-i0004,1558,1571,Agence. Hanns,Q516033,ORG,Q40464,Agence France-Presse,"{ ""wikipedia_page"": ""Agence France-Presse"", ""wikidata_id"": ""Q40464"" }",14.911336898803711
+tageblatt-1918-06-14-a-i0004,1683,1690,Journal,Q3223697,PROD,Q49850,Journal,"{ ""wikipedia_page"": ""Journal"", ""wikidata_id"": ""Q49850"" }",11.637640953063965
+tageblatt-1918-06-14-a-i0004,2079,2097,Journal des Tebats,Q2565164,PROD,Q673324,Le Temps,"{ ""wikipedia_page"": ""Le Temps"", ""wikidata_id"": ""Q673324"" }",15.463746070861816
+tageblatt-1918-06-14-a-i0004,2996,3004,Marnetal,Q3554035,LOC,Q190712,Schlacht an der Marne,"{ ""wikipedia_page"": ""Schlacht an der Marne"", ""wikidata_id"": ""Q190712"" }",12.82209587097168
+tageblatt-1918-06-14-a-i0004,3474,3480,Ealgis,Q6454,LOC,Q190662,Aigis,"{ ""wikipedia_page"": ""Aigis"", ""wikidata_id"": ""Q190662"" }",7.7040181159973145
+tageblatt-1918-06-14-a-i0004,3863,3868,Herne,Q764182,PER,Q2904,Herne,"{ ""wikipedia_page"": ""Herne"", ""wikidata_id"": ""Q2904"" }",4.166670799255371
+tageblatt-1918-06-14-a-i0004,4284,4289,Herbe,Q764182,PER,Q52985,Hergé,"```json { ""wikipedia_page"": ""Hergé"", ""wikidata_id"": ""Q52985"" } ``` I have chosen the Wikidata entity corresponding to the name ""Herbe"" with high confidence as it is the only candidate that matches the context of the text.",13.894152641296387
+tageblatt-1918-06-14-a-i0004,4601,4621,Kriegsminister Baker,Q926206,PER,Q223151,"James A. Baker, III","{ ""wikipedia_page"": ""James A. Baker, III"", ""wikidata_id"": ""Q223151"" }",20.707111358642578
+tageblatt-1928-02-15-a-i0018,127,143,Reichstagswahlen,Q878525,ORG,Q462740,Reichstagswahl 1912,"```json { ""wikipedia_page"": ""Reichstagswahl 1912"", ""wikidata_id"": ""Q462740"" } ``` This response is based on the fact that the input text mentions the ""deutschen Reichstagswahlen"", which is a German phrase that translates to ""German Reichstag elections"". Given the list of candidates, the most appropriate match is ""Reichstagswahl 1912"", which is a Wikidata entity that corresponds to a German Reichstag election.",16.32748031616211
+tageblatt-1928-02-15-a-i0018,422,430,CasManca,Q7903,LOC,Q839607,Casamance,"{ ""wikipedia_page"": ""Casamance"", ""wikidata_id"": ""Q839607"" }",13.854342460632324
+tageblatt-1928-02-15-a-i0018,956,967,Blumenstein,NIL,PER,Q1257389,Ernst von Blumenstein,"{ ""wikipedia_page"": ""Ernst von Blumenstein"", ""wikidata_id"": ""Q1257389"" }",13.277366638183594
+tageblatt-1928-02-15-a-i0018,969,976,Laeasze,NIL,PER,Q3271348,Léon Thiessé,"{ ""wikipedia_page"": ""Léon Thiessé"", ""wikidata_id"": ""Q3271348"" }",15.202925682067871
+tageblatt-1928-02-15-a-i0018,981,994,Simon Tovbini,NIL,PER,Q107345625,Simon Leibowitsch,"{ ""wikipedia_page"": ""Simon Tovbini"", ""wikidata_id"": ""Q107345625"" }",18.63816261291504
+tageblatt-1928-02-15-a-i0018,1098,1107,Wiesbaden,Q1721,LOC,Q1147022,Wiesbadener Tagblatt,"{ ""wikipedia_page"": ""Wiesbadener Tagblatt"", ""wikidata_id"": ""Q1147022"" }",18.890920639038086
+tageblatt-1928-02-15-a-i0018,1172,1191,Rheinlandlommission,Q1200,LOC,NIL,Rheinlandlommission,"{ ""wikipedia_page"": ""Rheinlandkommission"", ""wikidata_id"": ""NIL"" }",20.025157928466797
+tageblatt-1928-02-15-a-i0018,1378,1384,Velsen,Q9970,LOC,Q1332293,Grube Velsen,"{ ""wikipedia_page"": ""Grube Velsen"", ""wikidata_id"": ""Q1332293"" }",17.052501678466797
+tageblatt-1928-02-15-a-i0018,1475,1485,Hoftenbach,Q562627,LOC,Q504472,Hollenbach,"{ ""wikipedia_page"": ""Hollenbach"", ""wikidata_id"": ""Q504472"" }",12.451306343078613
+tageblatt-1928-02-15-a-i0018,1646,1668,Nationale Bauernpartei,Q259887,ORG,Q104758777,Parti agraire national,"{ ""wikipedia_page"": ""Parti agraire national"", ""wikidata_id"": ""Q104758777"" }",13.584754943847656
+tageblatt-1928-02-15-a-i0018,1681,1703,Sozialistischen Partei,Q752435,ORG,Q1182201,Sozialistische Partei,"{ ""wikipedia_page"": ""Sozialistische Partei"", ""wikidata_id"": ""Q1182201"" }",14.135028839111328
+tageblatt-1928-02-15-a-i0018,1818,1825,NewYork,Q60,LOC,Q1384,New York,"{ ""wikipedia_page"": ""New York"", ""wikidata_id"": ""Q1384"" }",20.73247718811035
+tageblatt-1928-02-15-a-i0018,1836,1866,amerikanische Admiral Plunkeii,Q5081605,PER,NIL,amerikanische Admiral Plunkeii,"{ ""wikipedia_page"": ""Plunckett"", ""wikidata_id"": ""NIL"" }",11.376385688781738
+tageblatt-1928-05-09-a-i0020,141,149,Le Ieune,Q2550037,PER,Q3173155,Jean Lejeune,"{ ""wikipedia_page"": ""Jean Lejeune"", ""wikidata_id"": ""Q3173155"" }",19.64916229248047
+tageblatt-1928-05-09-a-i0020,1554,1581,Generaladvokat Edm. Dmssens,NIL,PER,Q3047859,Edmond Hanssens,"{ ""wikipedia_page"": ""Edmond Hanssens"", ""wikidata_id"": ""Q3047859"" }",17.3604679107666
+tageblatt-1928-05-09-a-i0020,2085,2094,Me Picard,NIL,PER,Q286375,Émile Picard,"{ ""wikipedia_page"": ""Émile Picard"", ""wikidata_id"": ""Q286375"" }",24.17593765258789
+tageblatt-1928-05-09-a-i0020,2145,2154,Le Ieunes,Q2550037,PER,NIL,Le Ieunes,"{ ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" }",17.917478561401367
+tageblatt-1928-05-09-a-i0020,2181,2189,Le Ieune,Q2550037,PER,Q27894099,Joseph Le Jeune,"{ ""wikipedia_page"": ""Joseph Le Jeune"", ""wikidata_id"": ""Q27894099"" }",16.124948501586914
+tageblatt-1928-05-09-a-i0020,2492,2501,Massilong,Q1381729,PER,NIL,Massilong,"{ ""wikipedia_page"": ""Le Ieune"", ""wikidata_id"": ""NIL"" }",12.812439918518066
+tageblatt-1928-05-09-a-i0020,2507,2515,Vossuets,Q294100,PER,NIL,Vossuets,"{ ""wikipedia_page"": ""Massilong"", ""wikidata_id"": ""NIL"" }",17.558284759521484
+tageblatt-1928-05-09-a-i0020,2517,2525,Le Ieune,Q2550037,PER,Q27894099,Joseph Le Jeune,"{ ""wikipedia_page"": ""Joseph Le Jeune"", ""wikidata_id"": ""Q27894099"" }",13.286564826965332
+tageblatt-1928-05-09-a-i0020,2592,2599,Montima,NIL,PER,Q1014208,Montamy,"{ ""wikipedia_page"": ""Montima"", ""wikidata_id"": ""Q1014208"" }",10.848612785339355
+tageblatt-1928-05-09-a-i0020,2672,2679,LeuKtra,NIL,PER,Q461599,Schlacht bei Leuktra,"{ ""wikipedia_page"": ""Schlacht bei Leuktra"", ""wikidata_id"": ""Q461599"" }",14.105334281921387
+tageblatt-1928-05-09-a-i0020,2684,2691,Montima,NIL,PER,Q6900291,Monime,"{ ""wikipedia_page"": ""Leuctra"", ""wikidata_id"": ""Q6900291"" }",13.334623336791992
+tageblatt-1928-05-09-a-i0020,2699,2707,Le Ieune,Q2550037,PER,Q27894099,Joseph Le Jeune,"{ ""wikipedia_page"": ""Joseph Le Jeune"", ""wikidata_id"": ""Q27894099"" }",17.432571411132812
+tageblatt-1928-05-09-a-i0020,2852,2862,Marc Nurel,Q1430,PER,Q41795559,,"{ ""wikipedia_page"": ""Marc Nurel"", ""wikidata_id"": ""Q41795559"" }",15.636402130126953
+tageblatt-1928-05-09-a-i0020,2968,2976,Le Ieune,Q2550037,PER,Q27894099,Joseph Le Jeune,"{ ""wikipedia_page"": ""Joseph Le Jeune"", ""wikidata_id"": ""Q27894099"" }",17.018081665039062
+tageblatt-1938-08-05-a-i0057,1,14,Die Neue Welt,Q5274415,PROD,Q1215132,Die Neue Welt,"{ ""wikipedia_page"": ""Die Neue Welt"", ""wikidata_id"": ""Q1215132"" }",24.007850646972656
+tageblatt-1938-08-05-a-i0057,232,241,Litwinows,Q310100,PER,NIL,Litwinows,"{ ""wikipedia_page"": ""Władysław Konstanty Witold Litwiński"", ""wikidata_id"": ""Q168982"" }",25.406219482421875
+tageblatt-1938-11-08-a-i0056,304,312,Budapest,Q1781,LOC,NIL,Budapest,"{ ""wikipedia_page"": ""Vicomte Rothermere"", ""wikidata_id"": ""NIL"" }",23.895618438720703
+tageblatt-1938-11-08-a-i0056,786,791,Polen,Q36,LOC,Q207272,Zweite Polnische Republik,"{ ""wikipedia_page"": ""Zweite Polnische Republik"", ""wikidata_id"": ""Q207272"" }",16.51226234436035
+tageblatt-1938-11-08-a-i0056,858,862,Fraq,Q1085,LOC,NIL,Fraq,"{ ""wikipedia_page"": ""Fraq"", ""wikidata_id"": ""NIL"" }",8.336862564086914
+tageblatt-1938-11-08-a-i0056,1580,1599,Abgeordneten Peters,Q12018548,PER,Q1581744,Hans Peters,"{ ""wikipedia_page"": ""Hans Peters"", ""wikidata_id"": ""Q1581744"" }",16.84827423095703
+tageblatt-1938-11-08-a-i0056,1604,1612,Neuwirth,Q12019026,PER,Q153421,Konstantin von Neurath,"{ ""wikipedia_page"": ""Konstantin von Neurath"", ""wikidata_id"": ""Q153421"" }",22.15731430053711
+tageblatt-1938-11-08-a-i0056,1621,1636,Senator Kröazot,NIL,PER,Q447452,Josef Zieleniec,"{ ""wikipedia_page"": ""Josef Kröszel"", ""wikidata_id"": ""Q447452"" }",16.336959838867188
+tageblatt-1948-07-29-a-i0034,591,623,jugoslawischen kommunist. Partei,Q641691,ORG,Q79854,Kommunistische Partei der Sowjetunion,"{ ""wikipedia_page"": ""Kommunistische Partei der Sowjetunion"", ""wikidata_id"": ""Q79854"" }",20.171142578125
+tageblatt-1948-07-29-a-i0034,650,659,Marxismus,Q7264,PROD,Q211930,Marxismus-Leninismus,"{ ""wikipedia_page"": ""Marxismus-Leninismus"", ""wikidata_id"": ""Q211930"" }",22.189823150634766
+tageblatt-1948-07-29-a-i0034,1305,1315,Bulgariens,Q219,LOC,Q155000,Bulgarische Kommunistische Partei,"{ ""wikipedia_page"": ""Bulgarische Kommunistische Partei"", ""wikidata_id"": ""Q155000"" }",13.236824035644531
+tageblatt-1948-07-29-a-i0034,1492,1501,Marxismus,Q7264,PROD,Q211930,Marxismus-Leninismus,"{ ""wikipedia_page"": ""Marxismus-Leninismus"", ""wikidata_id"": ""Q211930"" }",22.49744987487793
+tageblatt-1948-07-29-a-i0034,1510,1520,Leninismus,Q155059,PROD,Q211930,Marxismus-Leninismus,"{ ""wikipedia_page"": ""Marxismus-Leninismus"", ""wikidata_id"": ""Q211930"" }",24.66927719116211

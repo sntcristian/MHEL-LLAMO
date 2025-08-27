@@ -1,5 +1,6 @@
 results/old
 test_data/old
+extra/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
