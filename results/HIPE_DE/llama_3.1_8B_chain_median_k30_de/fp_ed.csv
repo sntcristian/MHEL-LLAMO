@@ -1,0 +1,449 @@
+doc_id,start_pos,end_pos,surface,gt_id,type,identifier,title,answer,score
+NZZ-1798-01-20-a-p0002,318,330,Frank reichs,Q142,LOC,Q43482,Franken,yes,16.65113067626953
+NZZ-1798-01-20-a-p0002,925,936,Gen. Duphot,Q977001,PER,NIL,Gen. Duphot,no,0
+NZZ-1798-01-20-a-p0002,1751,1754,Rom,Q220,LOC,NIL,Rom,no,0
+NZZ-1798-01-20-a-p0002,1815,1826,Gen. Duphot,Q977001,PER,NIL,Gen. Duphot,no,0
+NZZ-1808-04-29-a-p0002,468,490,danischen Blatte Dagen,Q1768412,PROD,Q35,Dänemark,yes,12.746357917785645
+NZZ-1808-04-29-a-p0002,580,587,Rußland,Q159,LOC,NIL,Rußland,no,0
+NZZ-1808-04-29-a-p0002,883,901,General Hutchinson,Q321765,PER,NIL,General Hutchinson,no,0
+NZZ-1808-04-29-a-p0002,1440,1451,Bartenstein,Q809585,LOC,Q1010904,Burg Bartenstein,yes,10.023670196533203
+NZZ-1808-04-29-a-p0002,1562,1570,Dänemark,Q35,LOC,NIL,Dänemark,no,0
+NZZ-1808-04-29-a-p0002,1605,1615,Frankreich,Q142,LOC,NIL,Frankreich,no,0
+NZZ-1808-04-29-a-p0002,1942,1952,Lord Gower,Q334145,PER,NIL,Lord Gower,no,0
+NZZ-1808-04-29-a-p0002,3875,3904,neuesten Berlinischen Zeitung,Q675003,PROD,NIL,neuesten Berlinischen Zeitung,no,0
+NZZ-1808-04-29-a-p0002,3926,3941,H. von Rotzebue,NIL,PER,Q23710528,Christian Ludwig Kotzebue,,0
+NZZ-1808-04-29-a-p0002,4244,4256,Peters¬ burg,Q656,LOC,NIL,Peters¬ burg,no,0
+NZZ-1818-01-09-a-p0001,694,703,Steinkopf,NIL,PROD,Q1517367,Verlag J. F. Steinkopf,yes,15.027261734008789
+NZZ-1818-01-09-a-p0001,934,957,protestantischen Kirche,Q2113518,ORG,Q23540,Protestantismus,yes,18.50625991821289
+NZZ-1818-01-09-a-p0001,1276,1289,Schmidthammer,NIL,PER,Q6168547,Nathaniel Schmidt,,0
+NZZ-1818-01-09-a-p0001,1501,1553,gelehrte und freymü¬ thige Oberhofprediger Dr. Ammon,Q213786,PER,Q98863,Friedrich von Ammon,yes,13.941807746887207
+NZZ-1818-01-09-a-p0001,2054,2106,"ehrwürdige Antistes der Zürcheri¬ schen Kirche, Heß,",Q121947,PER,Q1511765,Gerhard Hess,yes,15.261944770812988
+NZZ-1818-01-09-a-p0001,2224,2229,Orell,NIL,ORG,Q1511140,Orell Füssli,yes,18.607831954956055
+NZZ-1828-05-21-a-p0001,0,32,Schweizerische Eidgenossenschaft,Q39,LOC,Q435583,Alte Eidgenossenschaft,,0
+NZZ-1828-05-21-a-p0001,38,67,große Rath des Standes Luzern,Q27897675,ORG,Q2732017,Kantonsrat Luzern,yes,20.95697784423828
+NZZ-1838-03-30-a-p0001,0,6,Schwyz,Q12433,LOC,Q68155,Schwyz,yes,14.468600273132324
+NZZ-1838-03-30-a-p0001,101,118,hohe Stand Schwyz,Q12433,LOC,Q68155,Schwyz,yes,10.453838348388672
+NZZ-1838-03-30-a-p0001,129,145,alte Land Schwyz,Q12433,LOC,Q1517417,Geschichte des Kantons Schwyz,yes,20.381502151489258
+NZZ-1838-03-30-a-p0001,1524,1547,hohen Standes Neuenburg,Q12738,LOC,Q69345,Neuenburg,yes,17.092344284057617
+NZZ-1838-03-30-a-p0001,2284,2295,Neuen¬ burg,Q12738,LOC,Q69345,Neuenburg,yes,18.494173049926758
+NZZ-1838-03-30-a-p0001,3229,3242,Bezirk Schwyz,Q74818,LOC,Q12433,Kanton Schwyz,,0
+NZZ-1838-03-30-a-p0001,4659,4676,Eidgenossenschaft,Q39,LOC,Q435583,Alte Eidgenossenschaft,yes,17.000669479370117
+NZZ-1848-01-21-a-p0005,1091,1111,Herrn Oberst Brunner,NIL,PER,Q15549957,Philipp Brunner,yes,15.62653923034668
+NZZ-1848-01-21-a-p0005,1367,1387,Herrn Oberst Brunner,NIL,PER,Q15549957,Philipp Brunner,yes,13.98043155670166
+NZZ-1858-04-20-a-p0003,213,226,Polytechnikum,Q11942,ORG,NIL,Polytechnikum,no,0
+NZZ-1858-04-20-a-p0003,651,657,Zürich,Q11943,LOC,Q72,Zürich,yes,20.262786865234375
+NZZ-1858-04-20-a-p0003,855,861,Zürich,Q11943,LOC,Q72,Zürich,,0
+NZZ-1858-04-20-a-p0003,1164,1174,St. Gallen,Q12746,LOC,Q25607,St. Gallen,,0
+NZZ-1858-04-20-a-p0003,1176,1211,Deutsch-schweizerische Kre¬ ditbank,NIL,ORG,Q248476,Zürcher Kantonalbank,,0
+NZZ-1858-04-20-a-p0003,1236,1261,Herren Georg Dörten¬ bach,Q1693802,PER,NIL,Herren Georg Dörten¬ bach,no,0
+NZZ-1858-04-20-a-p0003,1277,1294,Karl v. Schätzler,Q1874644,PER,Q119995,Konstantin von Schaezler,,0
+NZZ-1858-04-20-a-p0003,1312,1329,Adolph Pestalozzi,NIL,PER,Q21491859,Pestalozzi,,0
+NZZ-1858-04-20-a-p0003,1334,1340,Zürich,Q72,LOC,Q11943,Kanton Zürich,,0
+NZZ-1858-04-20-a-p0003,1472,1484,Max v. Haber,NIL,PER,Q1449627,Franz Xaver Hackher zu Hart,,0
+NZZ-1858-04-20-a-p0003,1503,1516,Escher-Bodmer,NIL,PER,Q111442425,Luise Escher-Bodmer,,0
+NZZ-1858-04-20-a-p0003,1634,1660,HH. Prä¬ sident Wirth-Sand,Q16832423,PER,NIL,HH. Prä¬ sident Wirth-Sand,no,0
+NZZ-1858-04-20-a-p0003,1702,1715,Escher-Bodmer,NIL,PER,Q111442425,Luise Escher-Bodmer,,0
+NZZ-1858-04-20-a-p0003,1717,1738,v. Schultheß-Rechberg,Q55193349,PER,Q21447363,Anton von Schulthess Rechberg,,0
+NZZ-1858-04-20-a-p0003,1775,1804,St. Gallen Fürsprech Hoffmann,NIL,PER,Q25607,St. Gallen,yes,17.653181076049805
+NZZ-1858-04-20-a-p0003,1821,1831,Gsell-Lutz,NIL,PER,Q3265593,Lucien Laurent-Gsell,yes,13.781594276428223
+NZZ-1858-04-20-a-p0003,1864,1879,Churer Tagblatt,NIL,PROD,Q480426,Amtsblatt Stadt Chur,,0
+NZZ-1858-04-20-a-p0003,2048,2064,Appenzell A. Rh.,Q12079,LOC,Q209270,Appenzell,yes,19.51178550720215
+NZZ-1858-04-20-a-p0003,2132,2136,Genf,Q11917,LOC,Q71,Genf,,0
+NZZ-1858-04-20-a-p0003,2231,2240,Neuenburg,Q12738,LOC,Q69345,Neuenburg,yes,17.76697540283203
+NZZ-1858-04-20-a-p0003,2297,2302,Paris,Q90,LOC,NIL,Paris,no,0
+NZZ-1858-04-20-a-p0003,2307,2319,Ferrukh-Khan,Q1249837,PER,NIL,Ferrukh-Khan,no,0
+NZZ-1858-04-20-a-p0003,2399,2406,Persien,Q83311,LOC,Q794,Iran,,0
+NZZ-1868-02-17-a-p0001,531,543,Wa¬ shington,Q61,LOC,NIL,Wa¬ shington,no,0
+NZZ-1868-02-17-a-p0001,1558,1568,Wafhington,Q61,LOC,NIL,Wafhington,no,0
+NZZ-1868-02-17-a-p0001,1719,1735,Königreichs Siam,Q1155700,LOC,Q1081620,Siam,yes,19.733797073364258
+NZZ-1868-02-17-a-p0001,2731,2742,Oesterreich,Q533534,LOC,Q40,Österreich,,0
+NZZ-1868-02-17-a-p0001,3170,3197,Lieutenant v. Tschirschnitz,Q28737714,PER,Q28739734,Wilhelm von Tschirschnitz,yes,18.481124877929688
+NZZ-1868-02-17-a-p0001,3259,3266,Schweiz,Q39,LOC,NIL,Schweiz,no,0
+NZZ-1868-02-17-a-p0001,3359,3377,Deputirten Mellana,NIL,PER,Q63807323,Filippo Mellana,yes,12.317131042480469
+NZZ-1868-02-17-a-p0001,4609,4619,Frankreich,Q142,LOC,NIL,Frankreich,no,0
+NZZ-1868-02-17-a-p0001,4739,4758,Senator Montlaville,NIL,PER,Q15969487,Antoine de Chapuys de Montlaville,yes,13.695961952209473
+NZZ-1868-02-17-a-p0001,4809,4823,Marquis Boissy,Q3135539,PER,NIL,Marquis Boissy,no,0
+NZZ-1868-02-17-a-p0001,4939,4945,London,Q84,LOC,NIL,London,no,0
+NZZ-1868-02-17-a-p0001,4954,4966,Abbe Migne's,Q326431,PER,NIL,Abbe Migne's,no,0
+NZZ-1868-02-17-a-p0001,5706,5723,Astronom Gassendi,Q192315,PER,NIL,Astronom Gassendi,no,0
+NZZ-1878-01-07-b-p0002,109,115,Uralsk,Q487439,LOC,NIL,Uralsk,no,0
+NZZ-1878-01-07-b-p0002,259,281,russische Jeanne d'Arc,Q7226,PER,NIL,russische Jeanne d'Arc,no,0
+NZZ-1878-01-07-b-p0002,310,326,Tatjana Shukalin,NIL,PER,Q158148,Tatjana Nikolajewna Romanowa,,0
+NZZ-1878-01-07-b-p0002,653,662,Bulgarien,Q219,LOC,NIL,Bulgarien,no,0
+NZZ-1878-01-07-b-p0002,1740,1746,Uralsk,NIL,LOC,Q487439,Oral,,0
+NZZ-1878-01-07-b-p0002,2034,2040,Saizew,NIL,PER,Q12806435,Saizew/Sajzew,yes,17.858051300048828
+NZZ-1878-01-07-b-p0002,3209,3223,Dr. Hantelmann,NIL,PER,Q2038547,William Henry Christian Santelmann,,0
+NZZ-1878-01-07-b-p0002,3319,3330,Arbeitgeber,NIL,PROD,Q3053337,Arbeitgeber,yes,12.9141206741333
+NZZ-1878-01-07-b-p0002,3378,3388,Schwalbach,Q686818,LOC,Q522541,Bad Schwalbach,,0
+NZZ-1878-01-07-b-p0002,3708,3720,Kronst. Ztg.,NIL,PROD,Q107742706,Kronstädter Zeitung,yes,10.641090393066406
+NZZ-1878-01-07-b-p0002,4801,4808,Amerika,Q30,LOC,NIL,Amerika,no,0
+NZZ-1878-01-07-b-p0002,5635,5645,Voss. Ztg.,Q675003,PROD,NIL,Voss. Ztg.,no,0
+NZZ-1878-01-07-b-p0002,5997,6007,Königgrätz,Q180139,LOC,Q154942,Schlacht bei Königgrätz,,0
+NZZ-1878-01-07-b-p0002,6054,6061,Preußen,Q38872,LOC,Q27306,Königreich Preußen,yes,19.42142677307129
+NZZ-1888-03-08-b-p0002,9,20,Deutschland,Q1206012,LOC,NIL,Deutschland,no,0
+NZZ-1888-03-08-b-p0002,176,214,Erziehungs¬ anstalt zum Grauen Kloster,Q328971,ORG,NIL,Erziehungs¬ anstalt zum Grauen Kloster,no,0
+NZZ-1888-03-08-b-p0002,233,264,gleichaltrigen Otto v. Bismarck,Q8442,PER,NIL,gleichaltrigen Otto v. Bismarck,no,0
+NZZ-1888-03-08-b-p0002,1479,1490,Blankenburg,Q111102,PER,Q122675,Werner Blankenburg,,0
+NZZ-1888-03-08-b-p0002,1740,1750,Frankreich,Q70802,LOC,Q142,Frankreich,yes,20.049396514892578
+NZZ-1888-03-08-b-p0002,1837,1855,Faubourg du Temple,Q1037624,LOC,Q1067494,Temple,,0
+NZZ-1888-03-08-b-p0002,2128,2133,Numea,Q9733,LOC,NIL,Numea,no,0
+NZZ-1888-03-08-b-p0002,2160,2180,Dynamithelden Cyvoct,Q17350092,PER,NIL,Dynamithelden Cyvoct,no,0
+NZZ-1888-03-08-b-p0002,2185,2190,Gallo,Q16929990,PER,NIL,Gallo,no,0
+NZZ-1888-03-08-b-p0002,2534,2544,Belleville,Q815949,LOC,Q1440685,Belleville,,0
+NZZ-1888-03-08-b-p0002,2732,2739,Joffrin,Q3188690,PER,NIL,Joffrin,no,0
+NZZ-1888-03-08-b-p0002,3610,3615,Paris,Q90,LOC,Q133132,Pariser Kommune,yes,12.117298126220703
+NZZ-1888-03-08-b-p0002,3938,3959,serbische Skupschtina,Q920222,ORG,Q25392289,Skupština,yes,17.034854888916016
+NZZ-1888-03-08-b-p0002,4459,4484,rus¬ sischen Panslavismus,Q182267,PROD,NIL,rus¬ sischen Panslavismus,no,0
+NZZ-1888-03-08-b-p0002,4684,4691,Serbien,Q403,LOC,Q241748,Königreich Serbien,yes,17.042085647583008
+NZZ-1888-03-08-b-p0002,4724,4736,Oesterreichs,Q40,LOC,NIL,Oesterreichs,no,0
+NZZ-1888-03-08-b-p0002,4812,4819,Bosnien,Q225,LOC,Q188736,Bosnien,,0
+NZZ-1888-03-08-b-p0002,5847,5854,Serbien,Q403,LOC,NIL,Serbien,no,0
+NZZ-1898-12-05-b-p0005,22,27,China,Q148,LOC,Q29520,China,yes,16.563947677612305
+NZZ-1898-12-05-b-p0005,329,354,Partei der Jung¬ chinesen,NIL,ORG,Q5100694,Jungchina-Partei,,0
+NZZ-1898-12-05-b-p0005,696,710,Reform¬ partei,Q1203735,ORG,NIL,Reform¬ partei,no,0
+NZZ-1898-12-05-b-p0005,1085,1091,Chinas,Q148,LOC,Q29520,China,yes,16.851778030395508
+NZZ-1898-12-05-b-p0005,1247,1275,Ew. Majestät den Marquis Ito,Q174971,PER,NIL,Ew. Majestät den Marquis Ito,no,0
+NZZ-1898-12-05-b-p0005,1451,1457,Chinas,Q148,LOC,NIL,Chinas,no,0
+NZZ-1898-12-05-b-p0005,1935,1940,China,Q148,LOC,Q29520,China,yes,19.580764770507812
+NZZ-1898-12-05-b-p0005,2087,2093,Chinas,Q148,LOC,Q29520,China,yes,18.90009880065918
+NZZ-1898-12-05-b-p0005,2554,2561,Europas,Q46,LOC,NIL,Europas,no,0
+NZZ-1898-12-05-b-p0005,2566,2574,Amerikas,Q828,LOC,NIL,Amerikas,no,0
+NZZ-1898-12-05-b-p0005,3034,3041,Rußland,Q34266,LOC,Q159,Russland,,0
+NZZ-1898-12-05-b-p0005,3277,3285,Rußlands,Q34266,LOC,Q159,Russland,,0
+NZZ-1898-12-05-b-p0005,3402,3409,Rußland,Q34266,LOC,Q159,Russland,,0
+NZZ-1898-12-05-b-p0005,3434,3439,Japan,Q17,LOC,NIL,Japan,no,0
+NZZ-1898-12-05-b-p0005,3524,3529,China,Q148,LOC,Q29520,China,yes,20.444129943847656
+NZZ-1898-12-05-b-p0005,3612,3617,China,Q148,LOC,Q29520,China,yes,18.211200714111328
+NZZ-1898-12-05-b-p0005,3874,3881,Rußland,Q34266,LOC,Q159,Russland,,0
+NZZ-1898-12-05-b-p0005,4159,4167,Rußlands,Q34266,LOC,Q159,Russland,,0
+NZZ-1898-12-05-b-p0005,4214,4219,China,Q148,LOC,NIL,China,no,0
+NZZ-1898-12-05-b-p0005,4459,4467,Rußlands,Q34266,LOC,Q159,Russland,,0
+NZZ-1898-12-05-b-p0005,4625,4632,Rußland,Q34266,LOC,Q159,Russland,yes,21.110271453857422
+NZZ-1898-12-05-b-p0005,4827,4832,China,Q148,LOC,Q29520,China,yes,18.385425567626953
+NZZ-1908-01-19-a-p0001,301,352,"Oberst Richard, Sekretär der Zürcher Handelskammer,",NIL,PER,Q1391766,Joseph Richard,yes,19.173683166503906
+NZZ-1908-01-19-a-p0001,562,575,HH. Dr. Stoll,NIL,PER,Q1598982,Heinrich Stoll,yes,13.540741920471191
+NZZ-1908-01-19-a-p0001,577,596,Ulrico Vollenweider,NIL,PER,Q4356834,Oskari Wilho Louhivuori,,0
+NZZ-1908-01-19-a-p0001,615,629,Müller-Jelmoli,NIL,PER,Q680208,Jelmoli,,0
+NZZ-1908-01-19-a-p0001,4740,4751,Deutschland,Q1206012,LOC,Q183,Deutschland,yes,19.005130767822266
+NZZ-1908-01-19-a-p0001,5375,5384,Luxemburg,Q32,LOC,NIL,Luxemburg,no,0
+NZZ-1908-01-19-a-p0001,5389,5396,Holland,Q55,LOC,Q102911,Holland,yes,17.34752655029297
+NZZ-1908-01-19-a-p0001,7989,8000,Deutschland,Q1206012,LOC,Q183,Deutschland,yes,19.506000518798828
+NZZ-1908-01-19-a-p0001,8512,8522,Frankreich,Q70802,LOC,Q142,Frankreich,yes,20.39494514465332
+NZZ-1908-01-19-a-p0001,10640,10646,Bundes,Q675794,ORG,NIL,Bundes,no,0
+NZZ-1908-01-19-a-p0001,10772,10776,Bund,Q675794,ORG,Q39,Schweiz,yes,16.78277015686035
+NZZ-1908-01-19-a-p0001,11869,11873,Bund,Q675794,ORG,NIL,Bund,no,0
+NZZ-1908-01-19-a-p0001,12701,12719,Stadtrat Dr. Klöti,Q1336378,PER,NIL,Stadtrat Dr. Klöti,no,0
+NZZ-1908-01-19-a-p0001,12786,12797,Oesterreich,Q40,LOC,NIL,Oesterreich,no,0
+NZZ-1908-01-19-a-p0001,13652,13665,Nationalrates,Q676078,ORG,Q1251719,Hauptausschuss des Nationalrates,yes,16.713510513305664
+NZZ-1908-01-19-a-p0001,14310,14322,Arbeiterbund,Q1084142,ORG,Q668944,Schweizerischer Gewerkschaftsbund,,0
+NZZ-1908-01-19-a-p0001,14324,14337,Gewerbeverein,Q693891,ORG,Q1520478,Gewerbeverein,,0
+NZZ-1908-01-19-a-p0001,14339,14354,Bauern¬ verband,Q2256617,ORG,NIL,Bauern¬ verband,no,0
+NZZ-1908-01-19-a-p0001,14624,14638,Prof. Zürchers,NIL,PER,Q2327923,Adolf Friedrich Zürcher,yes,20.589685440063477
+NZZ-1908-01-19-a-p0001,14712,14716,Frey,NIL,PER,Q1336730,Emil Remigius Frey,yes,20.631410598754883
+NZZ-1908-01-19-a-p0001,15239,15248,Berchtold,NIL,PER,Q93371,Leopold Berchtold,yes,14.860068321228027
+NZZ-1908-01-19-a-p0001,15323,15339,Oberrichter Lang,NIL,PER,Q2010049,Oberlandesgerichtsrat,yes,15.694560050964355
+NZZ-1908-01-19-a-p0001,15350,15359,Berchtold,NIL,PER,Q93371,Leopold Berchtold,yes,18.390241622924805
+NZZ-1908-01-19-a-p0001,16101,16112,Boos-Jegher,Q31271042,PER,Q86983037,Joachim Georg Boeckh,,0
+NZZ-1918-09-09-c-p0002,72,77,Wolff,Q552226,ORG,Q71110,Wilhelm Wolff,yes,12.756604194641113
+NZZ-1918-09-09-c-p0002,141,157,Ploegsteertwalde,Q3016976,LOC,Q2351222,Ploegsteert,yes,10.573760986328125
+NZZ-1918-09-09-c-p0002,165,179,La Basséekanal,Q1032668,LOC,Q375776,La Bassée,yes,19.8437557220459
+NZZ-1918-09-09-c-p0002,305,318,Ha¬ princourt,Q375743,LOC,Q910806,Haplincourt,yes,17.117769241333008
+NZZ-1918-09-09-c-p0002,377,400,Straße Péronne¬ Cambrai,NIL,LOC,Q654374,Schlacht von Cambrai,yes,13.516484260559082
+NZZ-1918-09-09-c-p0002,680,691,Crozatkanal,Q1032591,LOC,Q174032,Crozant,yes,17.613544464111328
+NZZ-1918-09-09-c-p0002,732,739,Ailette,Q405073,LOC,Q1527262,,,0
+NZZ-1918-09-09-c-p0002,1020,1029,Champagne,Q2428809,LOC,Q273827,Champagne,yes,20.699674606323242
+NZZ-1918-09-09-c-p0002,1520,1525,Paris,Q90,LOC,NIL,Paris,no,0
+NZZ-1918-09-09-c-p0002,1537,1542,Havas,Q516033,ORG,NIL,Havas,no,0
+NZZ-1918-09-09-c-p0002,1638,1646,Avaisnes,Q45688,LOC,Q854480,Avesnes,,0
+NZZ-1918-09-09-c-p0002,1707,1720,Lamottegehöft,NIL,LOC,Q1246606,Lamotte-Warfusée,yes,16.00554656982422
+NZZ-1918-09-09-c-p0002,1757,1768,Crozatkanal,Q1032591,LOC,Q174032,Crozant,yes,17.752187728881836
+NZZ-1918-09-09-c-p0002,1798,1802,Oise,Q200231,LOC,Q12675,Département Oise,,0
+NZZ-1918-09-09-c-p0002,1807,1812,Aisne,Q41962,LOC,Q3093,Département Aisne,,0
+NZZ-1918-09-09-c-p0002,2084,2095,Cham¬ pagne,Q2428809,LOC,Q273827,Champagne,yes,17.736774444580078
+NZZ-1918-09-09-c-p0002,2136,2149,Mont-sans-Nom,NIL,LOC,Q677216,Mont-Notre-Dame,yes,21.08584976196289
+NZZ-1918-09-09-c-p0002,2271,2276,Havas,Q516033,ORG,Q706577,Charles-Louis Havas,yes,12.498032569885254
+NZZ-1918-09-09-c-p0002,2591,2604,Monte Pertica,NIL,LOC,Q3862313,Montepertico,yes,13.907546043395996
+NZZ-1918-09-09-c-p0002,2739,2761,Balkankriegsschauplatz,Q23522,LOC,Q165725,Balkankriege,yes,15.906042098999023
+NZZ-1918-09-09-c-p0002,2780,2785,Havas,Q516033,ORG,NIL,Havas,no,0
+NZZ-1918-09-09-c-p0002,2810,2821,Orientarmee,Q18148776,ORG,Q17985602,Armée d'Orient,yes,12.910724639892578
+NZZ-1918-09-09-c-p0002,2925,2936,Czernabogen,Q1140644,LOC,NIL,Czernabogen,no,0
+NZZ-1918-09-09-c-p0002,3068,3080,Prespa¬ sees,Q204392,LOC,Q73414,Prespa,yes,11.975418090820312
+NZZ-1918-09-09-c-p0002,3243,3251,Monastir,Q157246,LOC,NIL,Monastir,no,0
+NZZ-1918-09-09-c-p0002,3260,3266,Struma,Q204127,LOC,NIL,Struma,no,0
+NZZ-1918-09-09-c-p0002,3566,3580,Palestine News,NIL,PROD,Q20502345,,,0
+NZZ-1918-09-09-c-p0002,4832,4857,Anglo¬ Jewish Preßagentur,NIL,ORG,Q41189,Jewish Agency for Israel,,0
+NZZ-1918-09-09-c-p0002,5357,5362,Havas,Q516033,ORG,NIL,Havas,no,0
+NZZ-1918-09-09-c-p0002,5860,5865,Wolff,Q552226,ORG,Q71110,Wilhelm Wolff,yes,10.317939758300781
+NZZ-1918-09-09-c-p0002,6026,6034,N. Z. Z.,Q658945,PROD,Q25625529,National-Zeitung,,0
+NZZ-1918-09-09-c-p0002,6217,6229,Reuterbureau,Q130879,ORG,Q552226,Wolffs Telegraphisches Bureau,yes,19.115840911865234
+NZZ-1918-09-09-c-p0002,6432,6437,Wolff,Q552226,ORG,Q120947,Theodor Wolff,yes,13.445045471191406
+NZZ-1928-06-05-a-p0002,30,46,St. Jakobskirche,NIL,LOC,Q1337473,St.-Jakobs-Kirche,,0
+NZZ-1928-06-05-a-p0002,82,97,Frohsinn Zürich,NIL,ORG,Q677133,Kreis 4,,0
+NZZ-1928-06-05-a-p0002,104,133,Liederkranz Außersihl¬ Zürich,NIL,ORG,Q677133,Kreis 4,,0
+NZZ-1928-06-05-a-p0002,308,343,bewährten Dirigenten Jacques Wydler,NIL,PER,Q21450236,Wydler,yes,16.21595001220703
+NZZ-1928-06-05-a-p0002,481,491,U. Wehrlis,Q2562857,PER,Q96412376,Johann Ulrich Wehrli,,0
+NZZ-1928-06-05-a-p0002,631,642,J. Boßhards,NIL,PER,Q23000544,Johann Caspar Bosshardt,,0
+NZZ-1928-06-05-a-p0002,1365,1385,Männerchor Außersihl,NIL,ORG,Q677133,Kreis 4,,0
+NZZ-1928-06-05-a-p0002,1779,1786,Nicodés,Q878610,PER,Q3340257,Nicolas Dezède,,0
+NZZ-1928-06-05-a-p0002,2962,2991,Musikdirektor A. Bie¬ dermann,NIL,PER,Q1294133,Kirchenmusikdirektor,,0
+NZZ-1938-09-13-b-p0001,74,115,"Präsident Dr. J. Eugster (freis., Zürich)",Q1392141,PER,Q1852929,Liste der Ständeräte des Kantons Zürich,,0
+NZZ-1938-09-13-b-p0001,211,219,Joh. Leu,NIL,PER,Q125071,Johann Jacob Leu,yes,21.024913787841797
+NZZ-1938-09-13-b-p0001,262,283,"Züsli (komm., Zürich)",NIL,PER,Q28129870,Beat Züsli,yes,14.343536376953125
+NZZ-1938-09-13-b-p0001,644,664,Ritterhaufes Bubikon,Q638821,LOC,Q2155177,Ritterhausgesellschaft Bubikon,,0
+NZZ-1938-09-13-b-p0001,821,841,Ritterhauses Bubikon,Q638821,LOC,Q2155177,Ritterhausgesellschaft Bubikon,,0
+NZZ-1938-09-13-b-p0001,956,976,Ritterhauses Bubikon,Q638821,LOC,Q2155177,Ritterhausgesellschaft Bubikon,,0
+NZZ-1938-09-13-b-p0001,1996,2016,Ritterhauses Bubikon,Q638821,LOC,Q2155177,Ritterhausgesellschaft Bubikon,,0
+NZZ-1938-09-13-b-p0001,2246,2274,Graf Diethelm von Toggenburg,NIL,PER,Q527658,Toggenburger,,0
+NZZ-1938-09-13-b-p0001,3319,3330,Mühlebaches,NIL,LOC,Q60847746,Mühlebach,,0
+NZZ-1938-09-13-b-p0001,3470,3481,Mühlebaches,NIL,LOC,Q60847746,Mühlebach,,0
+NZZ-1938-09-13-b-p0001,3683,3692,Eggstraße,NIL,LOC,Q64877,Egg,yes,18.633018493652344
+NZZ-1938-09-13-b-p0001,3913,3940,"E. R. Z. Graf (dem., Uster)",NIL,PER,Q75517438,Eduard Graf,yes,13.021858215332031
+NZZ-1938-09-13-b-p0001,4418,4426,E. K. Z.,Q1326642,ORG,NIL,E. K. Z.,no,0
+NZZ-1938-09-13-b-p0001,4499,4522,"Bantli (Bp., Dübendorf)",NIL,PER,Q15847277,Septimus Gottlob Bantlin,yes,16.085294723510742
+NZZ-1938-09-13-b-p0001,4537,4559,"Hofmann (Bp., Kempten)",NIL,PER,Q68800,Johann Christian Konrad von Hofmann,yes,15.938010215759277
+NZZ-1938-09-13-b-p0001,4831,4854,"Bantli (Bp., Dübendorf)",NIL,PER,Q1303380,Ruedi Bantle,yes,17.099973678588867
+NZZ-1938-09-13-b-p0001,5175,5185,Burghölzli,Q577131,ORG,NIL,Burghölzli,no,0
+NZZ-1938-09-13-b-p0001,5572,5600,"Dr. Duttweiler (fr., Zürich)",NIL,PER,Q116111,Gottlieb Duttweiler,yes,18.891803741455078
+NZZ-1938-09-13-b-p0001,5826,5846,"Marti (soz., Zürich)",NIL,PER,Q121558,Werner Marti,yes,14.413952827453613
+NZZ-1938-09-13-b-p0001,6053,6079,"Dr. P. Gygax (fr., Zürich)",NIL,PER,Q2637952,Albert Friedrich Gygax,yes,17.523334503173828
+NZZ-1938-09-13-b-p0001,6433,6458,"Oldani (soz., Winterthur)",Q55683084,PER,NIL,"Oldani (soz., Winterthur)",no,0
+NZZ-1938-09-13-b-p0001,7323,7342,"Heeb (soz., Zürich)",Q15452401,PER,Q15810773,Fritz Heeb,,0
+NZZ-1938-09-13-b-p0001,7661,7680,"Kopp (soz., Zürich)",NIL,PER,Q122063,Elisabeth Kopp,,0
+NZZ-1938-09-13-b-p0001,10424,10429,Kaegi,Q4668150,PER,Q117789,Werner Kaegi,yes,14.576284408569336
+NZZ-1938-09-13-b-p0001,10559,10583,"Hackhofer (chr., Zürich)",NIL,PER,Q114599,Josef Hackhofer,yes,17.7796630859375
+NZZ-1938-09-13-b-p0001,11288,11311,Regie¬ rungsrat Pfister,Q2209051,PER,NIL,Regie¬ rungsrat Pfister,no,0
+NZZ-1938-09-13-b-p0001,11402,11415,Städte Zürich,Q72,LOC,Q515,Stadt,yes,15.931838989257812
+NZZ-1938-09-13-b-p0001,11673,11695,"Kägi (soz., Erlenbach)",Q4668150,PER,Q117789,Werner Kaegi,yes,16.07077980041504
+NZZ-1938-09-13-b-p0001,12388,12413,"Oldani (soz., Winterthur)",Q55683084,PER,NIL,"Oldani (soz., Winterthur)",no,0
+NZZ-1948-05-12-b-p0002,187,193,Strang,Q2580669,PER,NIL,Strang,no,0
+NZZ-1948-05-12-b-p0002,871,885,Rulrkonsortium,Q1664,LOC,Q194166,Konsortium,yes,13.831774711608887
+NZZ-1948-05-12-b-p0002,1075,1080,Paxis,Q90,LOC,Q1241308,Passy,yes,10.979508399963379
+NZZ-1948-05-12-b-p0002,1157,1166,Edinburgh,Q23436,LOC,NIL,Edinburgh,no,0
+NZZ-1948-05-12-b-p0002,1170,1175,Paxis,Q90,LOC,Q1241308,Passy,yes,9.95491886138916
+NZZ-1948-05-12-b-p0002,1535,1551,Deutschlandfrage,Q183,LOC,Q13522713,Deutsche Frage,yes,19.850202560424805
+NZZ-1948-05-12-b-p0002,1620,1629,Whitchall,Q391620,LOC,Q214820,Whitehall,yes,12.143646240234375
+NZZ-1948-05-12-b-p0002,1767,1777,Washington,Q61,LOC,NIL,Washington,no,0
+NZZ-1948-05-12-b-p0002,1782,1788,Mo-kau,Q649,LOC,NIL,Mo-kau,no,0
+NZZ-1948-05-12-b-p0002,2021,2028,Lon don,Q84,LOC,NIL,Lon don,no,0
+NZZ-1948-05-12-b-p0002,2156,2163,Amerika,Q30,LOC,NIL,Amerika,no,0
+NZZ-1948-05-12-b-p0002,2358,2374,Groz¬ brikannien,Q145,LOC,Q23666,Großbritannien,yes,15.151455879211426
+NZZ-1948-05-12-b-p0002,2716,2725,Ruhrstaat,Q1664,LOC,Q151993,Ruhrgebiet,yes,17.68990135192871
+NZZ-1948-05-12-b-p0002,2894,2906,Ruhrprodubte,Q1664,LOC,Q151993,Ruhrgebiet,yes,17.252254486083984
+NZZ-1948-05-12-b-p0002,3806,3813,Amerika,Q30,LOC,Q828,Amerika,yes,14.253222465515137
+NZZ-1948-05-12-b-p0002,3944,3951,Eusland,Q21,LOC,Q458,Europäische Union,yes,18.26484489440918
+NZZ-1948-05-12-b-p0002,4274,4284,Mashington,Q61,LOC,NIL,Mashington,no,0
+NZZ-1948-05-12-b-p0002,4367,4377,Mesteuropa,Q27496,LOC,NIL,Mesteuropa,no,0
+NZZ-1948-05-12-b-p0002,4563,4568,Alpen,Q1286,LOC,NIL,Alpen,no,0
+NZZ-1948-05-12-b-p0002,4785,4791,Puropa,Q46,LOC,NIL,Puropa,no,0
+luxwort-1848-04-23-a-i0003,40,51,Lurem biurg,Q32,LOC,NIL,Lurem biurg,no,0
+luxwort-1848-04-23-a-i0003,101,110,Lurcmburg,Q32,LOC,NIL,Lurcmburg,no,0
+luxwort-1848-08-27-a-i0001,1215,1221,Gottes,Q190,PER,NIL,Gottes,no,0
+luxwort-1848-08-27-a-i0001,1418,1442,Commission aus Luxemburg,Q657529,ORG,Q15803729,Commission de Triage,yes,10.453532218933105
+luxwort-1848-08-27-a-i0001,2721,2730,Suremburg,Q1842,LOC,Q604584,Suderburg,yes,12.235465049743652
+luxwort-1848-08-27-a-i0001,3049,3058,Suremburg,Q1842,LOC,NIL,Suremburg,no,0
+luxwort-1848-08-27-a-i0001,3270,3279,Lurcmburg,Q1842,LOC,Q694783,Bistum Limburg,yes,10.5914888381958
+luxwort-1848-08-27-a-i0001,3408,3411,Rom,Q220,LOC,NIL,Rom,no,0
+luxwort-1848-09-29-a-i0001,0,9,Luremburg,Q32,LOC,Q149103,Rumburk,,0
+luxwort-1848-09-29-a-i0001,41,49,Gcurricr,Q13102226,PROD,NIL,Gcurricr,no,0
+luxwort-1848-09-29-a-i0001,228,239,Heldenstein,Q13103205,PER,Q337229,François Heldenstein,yes,16.374862670898438
+luxwort-1848-09-29-a-i0001,241,249,Schlinck,NIL,PER,Q15822041,Julius Schlinck,yes,17.246126174926758
+luxwort-1848-09-29-a-i0001,313,330,Luremburger Worte,Q1751317,PROD,NIL,Luremburger Worte,no,0
+luxwort-1848-10-01-a-i0001,1876,1905,Luremburgcr Ccutralwahlcomite,NIL,ORG,Q935741,Wahlkommission,yes,15.142019271850586
+luxwort-1848-10-01-a-i0001,2112,2130,Echternach Gigrang,NIL,PER,Q204317,Echternach,yes,18.972261428833008
+luxwort-1848-10-01-a-i0001,2135,2145,Dieschburg,NIL,PER,Q1221353,Diesburg,yes,16.454849243164062
+luxwort-1848-10-01-a-i0001,2150,2163,Wiltz Neumann,NIL,PER,Q14789864,Wenzel Neumann,yes,11.426393508911133
+luxwort-1848-10-01-a-i0001,2168,2188,Grevenmachern Kuborn,NIL,PER,Q215826,Grevenmacher,yes,12.529273986816406
+luxwort-1848-10-01-a-i0001,2382,2388,Ledure,Q16439666,PER,Q2826869,Agis-Léon Ledru,yes,16.292314529418945
+luxwort-1848-10-01-a-i0001,2398,2409,Wellenstein,Q3247082,LOC,NIL,Wellenstein,no,0
+luxwort-1848-10-01-a-i0001,2411,2421,Lafontaine,Q725755,PER,Q70060,August Lafontaine,yes,19.808820724487305
+luxwort-1848-10-01-a-i0001,2423,2431,Brasseur,NIL,PER,Q4957931,,,0
+luxwort-1848-10-01-a-i0001,2528,2534,Nemich,Q734284,LOC,Q7184658,Philipp Andreas Nemnich,yes,12.038117408752441
+luxwort-1848-10-01-a-i0001,2689,2694,Motte,Q16439867,PER,NIL,Motte,no,0
+luxwort-1848-10-01-a-i0001,2717,2734,Herren Lafontaine,Q725755,PER,Q70060,August Lafontaine,yes,15.193134307861328
+luxwort-1848-10-01-a-i0001,2824,2853,Priester und Professor Müller,NIL,PER,Q1698073,Johannes Müller,yes,13.194969177246094
+luxwort-1848-10-01-a-i0001,2903,2911,Athenäum,Q545334,LOC,Q755460,Athenäum,yes,11.406108856201172
+luxwort-1848-10-01-a-i0001,3261,3265,Metz,Q3343509,PER,Q5080926,Charles Metz,yes,14.344627380371094
+luxwort-1848-10-01-a-i0001,3509,3518,Luxemburg,Q32,LOC,Q1842,Luxemburg,,0
+luxwort-1848-10-01-a-i0001,3848,3857,Athenäums,Q545334,LOC,NIL,Athenäums,no,0
+luxwort-1848-10-01-a-i0001,3918,3922,Metz,Q5080926,PER,Q22690,Metz,,0
+luxwort-1848-10-01-a-i0001,4083,4091,Eh. Metz,Q5080926,PER,Q16439822,Édouard Metz,yes,12.892828941345215
+luxwort-1848-10-01-a-i0001,4294,4311,Cantons Luremburg,Q1146429,LOC,Q550066,Kanton Lauterbourg,,0
+luxwort-1848-10-01-a-i0001,4627,4633,Stifft,NIL,PER,Q498594,Andreas Joseph von Stifft,yes,17.65169334411621
+luxwort-1848-10-01-a-i0001,4781,4789,Scklinck,NIL,PER,Q23000717,Heinrich Schilking,yes,19.525753021240234
+luxwort-1848-10-01-a-i0001,4797,4804,Lampach,NIL,PER,Q686750,Lambach,yes,18.606374740600586
+luxwort-1848-10-01-a-i0001,4831,4841,Dasstlborn,Q67588061,PER,NIL,Dasstlborn,no,0
+luxwort-1848-10-01-a-i0001,4849,4856,Herlert,NIL,PER,Q16007542,Hermann Lehnert,yes,14.718238830566406
+luxwort-1848-10-01-a-i0001,4864,4869,Jonas,Q16439477,PER,Q97782,Joseph Jonas,yes,7.6034932136535645
+luxwort-1848-10-01-a-i0001,4877,4884,Fendius,NIL,PER,Q2783276,Louis Fendius,yes,16.113840103149414
+luxwort-1848-10-01-a-i0001,4892,4901,Würth PH.,NIL,PER,Q41428570,Joseph von Würth,yes,13.195839881896973
+luxwort-1848-10-01-a-i0001,6394,6402,Athenäum,Q545334,ORG,NIL,Athenäum,no,0
+luxwort-1848-12-15-a-i0001,43,53,Sa« pellen,Q397678,LOC,NIL,Sa« pellen,no,0
+luxwort-1848-12-15-a-i0001,236,276,"General-Administrator des Innern, Ulrich",NIL,PER,Q688584,Eidgenössisches Departement des Innern,yes,9.537208557128906
+luxwort-1848-12-15-a-i0001,707,720,Herrn Willmai,Q738855,PER,NIL,Herrn Willmai,no,0
+luxwort-1848-12-15-a-i0001,749,760,Hrn. Ulrich,NIL,PER,Q99431,Carl Ulrich,yes,12.207777976989746
+luxwort-1848-12-15-a-i0001,795,808,Hrn. Ulveling,Q6171617,PER,NIL,Hrn. Ulveling,no,0
+luxwort-1848-12-15-a-i0001,1340,1407,"einstweilige Gcneral»Administrator, Präsident des Conseils, Willmar",Q738855,PER,Q3166043,Jean-Georges Willmar,yes,14.501372337341309
+luxwort-1858-02-07-a-i0009,489,500,Proletarier,NIL,PROD,Q17513843,Der Proletarier,yes,11.951789855957031
+luxwort-1858-02-07-a-i0009,783,789,Pierri,Q3106996,PER,NIL,Pierri,no,0
+luxwort-1858-02-07-a-i0009,939,946,Drapeau,Q3222443,PROD,Q3222441,Le Drapeau,yes,16.059431076049805
+luxwort-1858-03-14-a-i0006,0,9,ïuiemburg,Q1842,LOC,Q840713,Limburg,yes,13.551068305969238
+luxwort-1858-03-14-a-i0006,159,171,heil. Joseph,Q128267,PER,NIL,heil. Joseph,no,0
+luxwort-1858-03-14-a-i0006,1346,1388,"General-Direktor des Innern, Würth- Paquet",Q1956419,PER,NIL,"General-Direktor des Innern, Würth- Paquet",no,0
+luxwort-1858-08-29-a-i0005,0,7,England,Q21,LOC,NIL,England,no,0
+luxwort-1858-08-29-a-i0005,9,18,l'ont» on,Q84,LOC,Q21,England,yes,5.584628105163574
+luxwort-1858-08-29-a-i0005,851,855,m. I,NIL,PER,Q253276,Meile,yes,5.321022033691406
+luxwort-1858-10-07-a-i0008,585,620,katholischen Großmacht Frank» reich,Q142,ORG,Q9592,römisch-katholische Kirche,yes,13.775272369384766
+luxwort-1858-10-07-a-i0008,825,828,Rom,Q220,LOC,Q159583,Heiliger Stuhl,yes,14.850645065307617
+luxwort-1858-10-07-a-i0008,1234,1261,Schuldners Marchese Campana,Q442379,PER,Q157470,Schuldner,yes,11.880767822265625
+luxwort-1858-10-07-a-i0008,1467,1488,Comman» deurs Caraffa,NIL,PER,Q1527024,Girolamo Caraffa,yes,16.48385238647461
+luxwort-1858-10-07-a-i0008,1760,1771,Westmächten,NIL,ORG,Q1507074,Westmächte,yes,12.266139030456543
+luxwort-1858-10-07-a-i0008,2311,2318,England,Q21,LOC,NIL,England,no,0
+luxwort-1858-10-07-a-i0008,4084,4091,Preußen,Q27306,LOC,Q38872,Preußen,yes,20.00319480895996
+luxwort-1858-10-07-a-i0008,4676,4680,K.J.,Q1795887,PROD,Q1201200,Kristján Jónsson,yes,6.732530117034912
+luxwort-1868-07-21-a-i0003,360,365,Grund,Q1016205,LOC,NIL,Grund,no,0
+luxwort-1868-07-21-a-i0003,370,381,Pfasseuthal,Q1016214,LOC,Q148497,Pfastatt,yes,15.039199829101562
+luxwort-1868-07-21-a-i0003,515,540,Hrn. Musikdirektor Rinnen,NIL,PER,Q564953,Heinrich Dorn,yes,8.285796165466309
+luxwort-1868-07-21-a-i0003,1041,1054,Gemeinde Eich,Q2451733,LOC,NIL,Gemeinde Eich,no,0
+luxwort-1868-09-23-a-i0011,73,82,igatnburg,Q1055,LOC,NIL,igatnburg,no,0
+luxwort-1868-09-23-a-i0011,161,167,Italie,NIL,PROD,Q38,Italien,yes,18.068771362304688
+luxwort-1868-09-23-a-i0011,344,348,MaMÜ,Q187336,PER,NIL,MaMÜ,no,0
+luxwort-1868-09-23-a-i0011,607,610,Ram,Q220,LOC,NIL,Ram,no,0
+luxwort-1868-09-23-a-i0011,1090,1095,©enua,Q1449,LOC,NIL,©enua,no,0
+luxwort-1868-09-23-a-i0011,1160,1168,Lignrien,Q1256,LOC,NIL,Lignrien,no,0
+luxwort-1868-09-23-a-i0011,1244,1247,Nom,Q220,LOC,NIL,Nom,no,0
+luxwort-1868-09-23-a-i0011,2192,2199,Vatican,Q237,LOC,Q159583,Heiliger Stuhl,yes,15.159634590148926
+luxwort-1868-09-23-a-i0011,2208,2230,Cabinet der Tuilerieen,Q1450662,ORG,Q640506,Kabinett,yes,10.27064323425293
+luxwort-1868-09-23-a-i0011,2398,2405,Italien,Q38,LOC,NIL,Italien,no,0
+luxwort-1868-09-23-a-i0011,2410,2413,Nom,Q220,LOC,NIL,Nom,no,0
+luxwort-1868-09-23-a-i0011,2510,2518,Englands,Q21,LOC,NIL,Englands,no,0
+luxwort-1868-09-23-a-i0011,2534,2539,Paris,Q90,LOC,NIL,Paris,no,0
+luxwort-1868-09-23-a-i0011,2574,2584,Lord Lyons,Q5537443,PER,Q335522,"Edmund Lyons, 1. Baron Lyons",yes,18.284238815307617
+luxwort-1868-09-23-a-i0011,2764,2776,Lord Stanley,Q222458,PER,NIL,Lord Stanley,no,0
+luxwort-1868-09-23-a-i0011,2921,2924,Nom,Q220,LOC,NIL,Nom,no,0
+luxwort-1868-09-23-a-i0011,3338,3346,Sicilien,Q1460,LOC,Q180393,Königreich beider Sizilien,yes,17.021211624145508
+luxwort-1868-09-23-a-i0011,3861,3876,Paläste Farnese,Q848386,LOC,NIL,Paläste Farnese,no,0
+luxwort-1868-09-23-a-i0011,3994,4010,Königs Franz 11.,Q206223,PER,Q130834,Franz II.,yes,13.833870887756348
+luxwort-1868-09-23-a-i0011,4085,4092,Italien,Q38,LOC,NIL,Italien,no,0
+luxwort-1868-12-18-a-i0004,3503,3512,Luxemburg,Q1842,LOC,Q32,Luxemburg,,0
+luxwort-1878-01-09-a-i0002,79,96,Sujeutburger Wort,Q1751317,PROD,NIL,Sujeutburger Wort,no,0
+luxwort-1878-04-30-a-i0006,3211,3273,"Vtatthalter im Großherzogthnm, Heinrich, Prinz der Niederlande",Q705129,PER,NIL,"Vtatthalter im Großherzogthnm, Heinrich, Prinz der Niederlande",no,0
+luxwort-1878-04-30-a-i0006,3279,3322,"General »Direktor des Innern, N. Talent iny",Q13104357,PER,Q21996303,General,yes,6.731387615203857
+luxwort-1878-05-14-a-i0001,44,56,",Lux. Woll.‘",Q1751317,PROD,NIL,",Lux. Woll.‘",no,0
+luxwort-1878-05-14-a-i0001,505,511,Canaba,Q16,LOC,Q738847,Canabae,yes,12.407416343688965
+luxwort-1878-05-14-a-i0001,528,536,Victoria,Q36687,LOC,NIL,Victoria,no,0
+luxwort-1878-05-14-a-i0001,538,548,QueenSlanb,Q36074,LOC,NIL,QueenSlanb,no,0
+luxwort-1878-05-14-a-i0001,581,587,Canaba,Q16,LOC,Q738847,Canabae,yes,12.304609298706055
+luxwort-1878-05-14-a-i0001,1171,1179,Vicloria,Q36687,LOC,NIL,Vicloria,no,0
+luxwort-1878-05-14-a-i0001,2003,2013,QueenSlanb,Q36074,LOC,NIL,QueenSlanb,no,0
+luxwort-1878-05-14-a-i0001,3316,3324,Musgrabe,Q3328441,ORG,NIL,Musgrabe,no,0
+luxwort-1878-05-14-a-i0001,3535,3541,Lonbon,Q84,LOC,NIL,Lonbon,no,0
+luxwort-1878-05-14-a-i0001,3820,3826,Sondon,Q84,LOC,NIL,Sondon,no,0
+luxwort-1878-05-14-a-i0001,4070,4090,Prinzessin bon Wales,Q152260,PER,NIL,Prinzessin bon Wales,no,0
+luxwort-1878-05-14-a-i0001,7254,7260,Hammer,NIL,ORG,Q25294,Hammer,yes,8.808856964111328
+luxwort-1878-05-14-a-i0001,7264,7270,Sonbon,Q84,LOC,Q2301766,Sonnborn,yes,5.572066307067871
+luxwort-1878-05-14-a-i0001,8682,8692,Harry Newi,NIL,ORG,Q947785,Heinrich Neuy,,0
+luxwort-1878-05-14-a-i0001,9268,9282,Hart ©on Pearb,Q16983391,ORG,NIL,Hart ©on Pearb,no,0
+luxwort-1878-05-14-a-i0001,9921,9930,Templeton,Q16849442,ORG,Q3436389,Robert Templeton,yes,15.20302677154541
+luxwort-1878-05-14-a-i0001,10669,10675,Sondon,Q84,LOC,NIL,Sondon,no,0
+luxwort-1878-09-17-a-i0009,482,552,Ihre kaiserliche Hoheit bie Frau Erzherzogin Clothilbe bon Oefterreich,Q242170,PER,NIL,Ihre kaiserliche Hoheit bie Frau Erzherzogin Clothilbe bon Oefterreich,no,0
+luxwort-1878-09-17-a-i0009,899,907,Hannober,Q819125,LOC,Q1715,Hannover,yes,16.481563568115234
+luxwort-1878-09-17-a-i0009,1355,1361,Aurich,Q1801981,LOC,Q14839,Aurich,yes,17.249614715576172
+luxwort-1878-09-17-a-i0009,1405,1411,Berlin,Q64,LOC,NIL,Berlin,no,0
+luxwort-1878-09-17-a-i0009,2280,2294,Herrn v. Vinke,Q1646857,PER,NIL,Herrn v. Vinke,no,0
+luxwort-1878-09-17-a-i0009,2535,2546,Oesterreich,Q131964,LOC,Q40,Österreich,,0
+luxwort-1878-09-17-a-i0009,2695,2706,Oesterreich,Q131964,LOC,Q40,Österreich,,0
+luxwort-1938-01-29-a-i0025,435,445,Rene Pupin,NIL,PER,Q23906098,René Poupon,,0
+luxwort-1938-04-11-a-i0066,19,31,Schifflingen,Q669155,LOC,Q602809,Schillingen,,0
+luxwort-1938-06-29-a-i0018,59,64,Havas,Q516033,ORG,NIL,Havas,no,0
+luxwort-1938-06-29-a-i0018,71,77,Hankau,Q11746,LOC,Q1208250,,,0
+luxwort-1938-06-29-a-i0018,338,344,Hankau,Q11746,LOC,Q1208250,,,0
+luxwort-1938-06-29-a-i0018,671,677,Hankau,Q11746,LOC,Q1208250,,,0
+luxwort-1948-03-27-a-i0009,23,58,Katholischen Schweizer Buchgemeinde,NIL,ORG,Q1862519,Liste katholischer Verlage,,0
+luxwort-1948-03-27-a-i0009,362,402,Schweizer katholischen Volksbuchgemeinde,NIL,ORG,Q96652010,Schweizerischer Ex Libris Club,,0
+luxwort-1948-06-04-a-i0050,23,54,südafrikanischen Union Pretoria,Q3926,LOC,Q258,Südafrika,,0
+luxwort-1948-06-04-a-i0050,261,283,Finanzminister Havenga,Q3141749,PER,Q2128581,,,0
+luxwort-1948-06-04-a-i0050,345,354,Dr. Malan,Q317449,PER,Q3085867,,,0
+luxwort-1948-06-04-a-i0050,792,798,Reuter,Q130879,ORG,NIL,Reuter,no,0
+luxwort-1948-06-04-a-i0050,885,898,Nationalisten,Q740718,ORG,Q1968382,Nationalist Party,yes,13.764814376831055
+luxwort-1948-06-04-a-i0050,909,923,Einheitspartei,Q1812146,ORG,Q21044719,Einheitspartei,,0
+luxwort-1948-06-04-a-i0050,948,961,Labour-Partei,Q3136263,ORG,NIL,Labour-Partei,no,0
+luxwort-1948-06-04-a-i0050,1122,1130,dem Haag,Q36600,LOC,NIL,dem Haag,no,0
+luxwort-1948-06-04-a-i0050,1158,1175,Königin Frederika,Q61351,PER,NIL,Königin Frederika,no,0
+luxwort-1948-07-09-a-i0038,105,134,"Gewerkschaft „Force ouvrière""",Q1125623,ORG,NIL,"Gewerkschaft „Force ouvrière""",no,0
+luxwort-1948-07-09-a-i0038,920,936,"„Force ouvrière""",Q1125623,ORG,NIL,"„Force ouvrière""",no,0
+luxwort-1948-11-11-a-i0044,231,243,Stadt Berlin,Q64,LOC,NIL,Stadt Berlin,no,0
+luxwort-1948-11-11-a-i0044,271,285,englische Zone,Q55306,LOC,Q55304,Amerikanische Besatzungszone,yes,16.46844482421875
+tageblatt-1918-04-23-a-i0010,90,103,Züricher Post,NIL,PROD,Q110492514,Züricher Post,,0
+tageblatt-1918-04-23-a-i0010,1409,1420,Deutschland,Q1206012,LOC,Q43287,Deutsches Kaiserreich,yes,13.396089553833008
+tageblatt-1918-04-23-a-i0010,1498,1505,Amerika,Q30,LOC,Q828,Amerika,yes,13.24045467376709
+tageblatt-1918-04-23-a-i0010,1762,1771,Flanderns,Q234,LOC,Q9337,Flämische Region,,0
+tageblatt-1918-04-23-a-i0010,1810,1823,Ipernschlacht,Q102728,LOC,Q233219,Zweite Flandernschlacht,,0
+tageblatt-1918-04-23-a-i0010,1984,1991,'Kemmel,NIL,LOC,Q209541,Kemmelberg,yes,12.934473991394043
+tageblatt-1918-04-23-a-i0010,2473,2478,Somme,Q37646,LOC,Q132568,Schlacht an der Somme,yes,20.610349655151367
+tageblatt-1918-04-23-a-i0010,2680,2685,Somme,Q37646,LOC,Q12770,Département Somme,,0
+tageblatt-1918-04-23-a-i0010,3025,3036,Bernancourt,NIL,LOC,Q69021,Dernancourt,yes,18.76222038269043
+tageblatt-1918-04-23-a-i0010,3132,3142,Alliierten,Q215669,ORG,Q3612401,Alliierte,yes,19.61398696899414
+tageblatt-1918-04-23-a-i0010,3334,3344,Lord Derby,Q338427,PER,Q237829,"Edward Smith-Stanley, 14. Earl of Derby",,0
+tageblatt-1918-04-23-a-i0010,3350,3357,Amerika,Q30,LOC,NIL,Amerika,no,0
+tageblatt-1918-04-23-a-i0010,3362,3379,Generale Perfhing,Q272383,PER,NIL,Generale Perfhing,no,0
+tageblatt-1918-04-23-a-i0010,3446,3454,Enßlmrds,Q21,LOC,NIL,Enßlmrds,no,0
+tageblatt-1918-04-23-a-i0010,3679,3685,Verdun,Q154748,LOC,Q130847,Schlacht um Verdun,yes,17.841554641723633
+tageblatt-1918-04-23-a-i0010,4560,4593,Generalmajor Sir Robert WhighllIi,Q3938466,PER,NIL,Generalmajor Sir Robert WhighllIi,no,0
+tageblatt-1918-04-23-a-i0010,4696,4711,Generall Mauris,Q1452944,PER,NIL,Generall Mauris,no,0
+tageblatt-1918-04-23-a-i0010,4860,4869,Radcliffe,Q3375218,PER,Q472691,Cyril Radcliffe,yes,17.69542694091797
+tageblatt-1918-04-23-a-i0010,4938,4950,Haoasmeldung,Q516033,ORG,NIL,Haoasmeldung,no,0
+tageblatt-1918-04-23-a-i0010,5269,5286,Telegraphen-Union,NIL,ORG,Q3517301,Telegraphen-Union,yes,9.60838794708252
+tageblatt-1918-04-23-a-i0010,5376,5391,General Lyautey,Q265104,PER,NIL,General Lyautey,no,0
+tageblatt-1918-04-23-a-i0010,5396,5416,Präsidenten Poincars,Q191974,PER,NIL,Präsidenten Poincars,no,0
+tageblatt-1918-04-23-a-i0010,5478,5483,Fochs,Q192615,PER,NIL,Fochs,no,0
+tageblatt-1918-06-14-a-i0004,61,80,Neutertorrespondent,Q130879,ORG,NIL,Neutertorrespondent,no,0
+tageblatt-1918-06-14-a-i0004,396,403,Eauigny,Q937539,LOC,Q1214939,Aougny,,0
+tageblatt-1918-06-14-a-i0004,408,417,Thiocourt,Q497719,LOC,Q21831,Thicourt,,0
+tageblatt-1918-06-14-a-i0004,1558,1571,Agence. Hanns,Q516033,ORG,Q40464,Agence France-Presse,yes,14.911336898803711
+tageblatt-1918-06-14-a-i0004,1683,1690,Journal,Q3223697,PROD,Q49850,Journal,yes,11.637640953063965
+tageblatt-1918-06-14-a-i0004,2079,2097,Journal des Tebats,Q2565164,PROD,NIL,Journal des Tebats,no,0
+tageblatt-1918-06-14-a-i0004,2996,3004,Marnetal,Q3554035,LOC,Q190712,Schlacht an der Marne,yes,12.82209587097168
+tageblatt-1918-06-14-a-i0004,3474,3480,Ealgis,Q6454,LOC,NIL,Ealgis,no,0
+tageblatt-1918-06-14-a-i0004,3734,3742,Söissons,Q167152,LOC,NIL,Söissons,no,0
+tageblatt-1918-06-14-a-i0004,3747,3752,Reims,Q41876,LOC,Q1051804,Gefecht bei Reims,yes,15.401098251342773
+tageblatt-1918-06-14-a-i0004,3863,3868,Herne,Q764182,PER,NIL,Herne,no,0
+tageblatt-1918-06-14-a-i0004,4284,4289,Herbe,Q764182,PER,NIL,Herbe,no,0
+tageblatt-1918-06-14-a-i0004,4361,4367,Ealais,Q6454,LOC,NIL,Ealais,no,0
+tageblatt-1918-06-14-a-i0004,4571,4577,Reuter,Q130879,PROD,Q71014,Paul Julius Reuter,yes,18.923858642578125
+tageblatt-1918-06-14-a-i0004,4601,4621,Kriegsminister Baker,Q926206,PER,NIL,Kriegsminister Baker,no,0
+tageblatt-1928-02-15-a-i0018,127,143,Reichstagswahlen,Q878525,ORG,NIL,Reichstagswahlen,no,0
+tageblatt-1928-02-15-a-i0018,422,430,CasManca,Q7903,LOC,Q839607,Casamance,yes,13.854342460632324
+tageblatt-1928-02-15-a-i0018,956,967,Blumenstein,NIL,PER,Q1257389,Ernst von Blumenstein,yes,13.277366638183594
+tageblatt-1928-02-15-a-i0018,981,994,Simon Tovbini,NIL,PER,Q3484837,,,0
+tageblatt-1928-02-15-a-i0018,1043,1049,Berlin,Q64,LOC,NIL,Berlin,no,0
+tageblatt-1928-02-15-a-i0018,1172,1191,Rheinlandlommission,Q1200,LOC,Q152243,Rheinland,yes,16.1552677154541
+tageblatt-1928-02-15-a-i0018,1378,1384,Velsen,Q9970,LOC,Q1332293,Grube Velsen,yes,17.052501678466797
+tageblatt-1928-02-15-a-i0018,1475,1485,Hoftenbach,Q562627,LOC,Q504472,Hollenbach,yes,12.451306343078613
+tageblatt-1928-02-15-a-i0018,1621,1629,Butarest,Q19660,LOC,NIL,Butarest,no,0
+tageblatt-1928-02-15-a-i0018,1646,1668,Nationale Bauernpartei,Q259887,ORG,NIL,Nationale Bauernpartei,no,0
+tageblatt-1928-02-15-a-i0018,1681,1703,Sozialistischen Partei,Q752435,ORG,NIL,Sozialistischen Partei,no,0
+tageblatt-1928-02-15-a-i0018,2074,2082,Plunlett,Q5081605,PER,NIL,Plunlett,no,0
+tageblatt-1928-05-09-a-i0020,0,21,Luxemburger Tageblatt,Q461344,PROD,Q3246803,,,0
+tageblatt-1928-05-09-a-i0020,141,149,Le Ieune,Q2550037,PER,Q3173155,Jean Lejeune,yes,19.64916229248047
+tageblatt-1928-05-09-a-i0020,351,358,Belgien,Q31,LOC,NIL,Belgien,no,0
+tageblatt-1928-05-09-a-i0020,1554,1581,Generaladvokat Edm. Dmssens,NIL,PER,Q3047859,Edmond Hanssens,yes,17.3604679107666
+tageblatt-1928-05-09-a-i0020,2085,2094,Me Picard,NIL,PER,Q286375,Émile Picard,,0
+tageblatt-1928-05-09-a-i0020,2145,2154,Le Ieunes,Q2550037,PER,Q3173157,Jean Lejeune,yes,17.578561782836914
+tageblatt-1928-05-09-a-i0020,2181,2189,Le Ieune,Q2550037,PER,Q27894099,Joseph Le Jeune,yes,16.124948501586914
+tageblatt-1928-05-09-a-i0020,2492,2501,Massilong,Q1381729,PER,NIL,Massilong,no,0
+tageblatt-1928-05-09-a-i0020,2507,2515,Vossuets,Q294100,PER,NIL,Vossuets,no,0
+tageblatt-1928-05-09-a-i0020,2517,2525,Le Ieune,Q2550037,PER,Q27894099,Joseph Le Jeune,yes,13.286564826965332
+tageblatt-1928-05-09-a-i0020,2672,2679,LeuKtra,NIL,PER,Q461599,Schlacht bei Leuktra,yes,14.105334281921387
+tageblatt-1928-05-09-a-i0020,2699,2707,Le Ieune,Q2550037,PER,Q27894099,Joseph Le Jeune,yes,17.432571411132812
+tageblatt-1928-05-09-a-i0020,2852,2862,Marc Nurel,Q1430,PER,NIL,Marc Nurel,no,0
+tageblatt-1928-05-09-a-i0020,2968,2976,Le Ieune,Q2550037,PER,Q27894099,Joseph Le Jeune,yes,17.018081665039062
+tageblatt-1938-08-05-a-i0057,1,14,Die Neue Welt,Q5274415,PROD,Q1215132,Die Neue Welt,,0
+tageblatt-1938-11-08-a-i0056,392,400,Daily SS,Q210534,ORG,NIL,Daily SS,no,0
+tageblatt-1938-11-08-a-i0056,677,681,"Pra""",Q1085,LOC,NIL,"Pra""",no,0
+tageblatt-1938-11-08-a-i0056,786,791,Polen,Q36,LOC,NIL,Polen,no,0
+tageblatt-1938-11-08-a-i0056,858,862,Fraq,Q1085,LOC,NIL,Fraq,no,0
+tageblatt-1938-11-08-a-i0056,1580,1599,Abgeordneten Peters,Q12018548,PER,NIL,Abgeordneten Peters,no,0
+tageblatt-1948-07-29-a-i0034,61,75,Marschall Tito,Q9161,PER,NIL,Marschall Tito,no,0
+tageblatt-1948-07-29-a-i0034,1186,1195,Bulgarien,Q219,LOC,NIL,Bulgarien,no,0
+tageblatt-1948-07-29-a-i0034,1305,1315,Bulgariens,Q219,LOC,NIL,Bulgariens,no,0
+tageblatt-1948-07-29-a-i0034,1320,1329,Albaniens,Q222,LOC,NIL,Albaniens,no,0
