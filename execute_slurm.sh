@@ -12,17 +12,16 @@ echo "Starting job on node: $(hostname)"
 echo "Job started at: $(date)"
 
 # Define variables for your job
-JSON_FILE="./results/DZ_IT/candidates_test_top50_it.json"
-DATASET_PATH="./test_data/DZ_IT"
-OUTPUT_DIR="./results/DZ_IT/"
+JSON_FILE="./results/HIPE_FR/candidates_test_top50_fr.json"
+DATASET_PATH="./test_data/HIPE_FR"
+OUTPUT_DIR="./results/HIPE_FR/llama_3.1_8B_van_k20_en"
 MODEL_ID="meta-llama/Llama-3.1-8B-Instruct"
-THRESHOLD=20.7
 N_CANDIDATES=20
 HF_TOKEN=""  
 
-cd /home/infres/XXX/MHEL-LLAMO
+cd /home/infres/xxx/MHEL-LLAMO
 
-source ~/anaconda3/etc/profile.d/conda.sh
+source /home/infres/xxx/anaconda3/etc/profile.d/conda.sh
 conda activate llm
 
 # Execute the Python script with specific arguments
@@ -32,7 +31,6 @@ srun python filter_and_prompt.py \
     --output_dir "$OUTPUT_DIR" \
     --model_id "$MODEL_ID" \
     --n_candidates $N_CANDIDATES \
-    --threshold $THRESHOLD \
     --hf_token "$HF_TOKEN"
 
 # Print job completion time
