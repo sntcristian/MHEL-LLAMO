@@ -1,6 +1,8 @@
 results/old
 test_data/old
 extra/
+bela_slurm.sh
+llm_slurm.sh
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
