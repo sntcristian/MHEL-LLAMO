@@ -1,508 +1,508 @@
 doc_id,surface,start_pos,end_pos,type,identifier
-dev_de_1,Rudolfsheim,84,95,LOC,NIL
-dev_de_1,Moll,133,137,PER,NIL
-dev_de_1,Johann Brandl,149,162,PER,NIL
-dev_de_1,Brandl,286,292,PER,NIL
-dev_de_1,Eduard Straßer,978,992,PER,NIL
-dev_de_1,Eduard Klasser,1002,1016,PER,NIL
-dev_de_1,Adolf Karpathy,1196,1210,PER,NIL
-dev_de_1,Wien,1235,1239,LOC,NIL
-dev_de_1,Adolf Karpathy,1300,1314,PER,NIL
-dev_de_1,Ingwer,1975,1981,PER,NIL
-dev_de_1,Wien,2056,2060,LOC,NIL
-dev_de_1,KrapkaWien,2151,2161,LOC,NIL
-dev_de_1,Krapka,2252,2258,PER,NIL
-dev_de_1,v. Marquet,2714,2724,PER,NIL
-dev_de_1,Krapka,2776,2782,PER,NIL
-dev_de_1,Wien,2908,2912,LOC,NIL
-dev_de_1,Krejci,2945,2951,PER,NIL
-dev_de_1,Brzeznovsky,3077,3088,PER,NIL
-dev_de_1,Emanuel Dörfler,3274,3289,PER,NIL
-dev_de_1,Eger,3317,3321,LOC,NIL
-dev_de_1,Emanuel Dörfler,3372,3387,PER,NIL
-dev_de_1,Manchester,6290,6300,LOC,NIL
-dev_de_1,England,6516,6523,LOC,NIL
-dev_de_1,Belgien,6525,6532,LOC,NIL
-dev_de_1,Frankreich,6533,6543,LOC,NIL
-dev_de_1,Holland,6545,6552,LOC,NIL
-dev_de_1,Dänemark,6554,6562,LOC,NIL
-dev_de_1,Oesterreich,6564,6575,LOC,NIL
-dev_de_1,Ver¬einigten Staaten,6584,6604,LOC,NIL
-dev_de_6,Bundespolizeibehörde,718,738,ORG,Q448974
-dev_de_6,Wien,1480,1484,LOC,Q1741
-dev_de_6,Bundesregierung,1514,1529,ORG,Q695599
-dev_de_6,Ministerrates,2019,2032,ORG,NIL
-dev_de_6,Freiwilliges Schutzkorps,2108,2132,ORG,NIL
-dev_de_7,"IX/1, Pramergasse 28",243,263,LOC,NIL
-dev_de_7,15744,270,275,LOC,NIL
-dev_de_7,I Schulerstraße 11,287,305,LOC,NIL
-dev_de_7,7927.Wien,315,324,LOC,Q1741
-dev_de_7,"Wien, IX/1, Pramergasse 28",363,389,LOC,NIL
-dev_de_7,12805.,405,411,LOC,NIL
-dev_de_7,14330.,423,429,LOC,NIL
-dev_de_7,Daube u. Co.,1375,1387,ORG,NIL
-dev_de_7,Köln a. Rh,1389,1399,LOC,Q365
-dev_de_7,"Dermato-Therapeut.-InstitutWien, I., Rotenturmstrasse 12",1550,1606,LOC,Q20164778
-dev_de_7,21148.,1784,1790,LOC,NIL
-dev_de_7,Ame¬rika,2038,2046,LOC,Q828
-dev_de_7,Oesterrei,2120,2129,LOC,Q28513
-dev_de_8,österr. Republik,53,69,ORG,Q518101
-dev_de_8,"Wien,",289,294,LOC,Q1741
-dev_de_8,Wiener Landtag,779,793,ORG,Q1796480
-dev_de_10,"Kolowrat - Ring, Fichtegasse Nr. 11",67,102,LOC,NIL
-dev_de_10,Wollzeile Nr. 20,209,225,LOC,NIL
-dev_de_10,John F. Jones& Co.,287,305,ORG,NIL
-dev_de_10,"Paris, 31 bis, Rue du Faubourg Mont¬martre",309,351,LOC,Q3452296
-dev_de_10,Agence Havas,353,365,ORG,Q516033
-dev_de_10,Brüssel,369,376,LOC,Q239
-dev_de_10,RudolfMosse,378,389,PER,Q71476
-dev_de_10,Berlin,393,399,LOC,Q64
-dev_de_10,Frankfurt a. M.,401,416,LOC,Q1794
-dev_de_10,Mün¬chen,418,426,LOC,Q1726
-dev_de_10,Leipzig,428,435,LOC,Q2079
-dev_de_10,G. L. Daube & Co.,437,454,ORG,NIL
-dev_de_10,Frank¬furt a. M.,458,474,LOC,Q1794
-dev_de_10,Berlin,476,482,LOC,Q64
-dev_de_10,Cöln,484,488,LOC,Q365
-dev_de_10,Leipzig,490,497,LOC,Q2079
-dev_de_10,Haa¬senstein,499,511,PER,Q56322697
-dev_de_10,Hamburg,524,531,LOC,Q1055
-dev_de_10,Berlin,533,539,LOC,Q64
-dev_de_10,Frankfurt. a. M.,540,556,LOC,Q1794
-dev_de_10,Basel,560,565,LOC,Q78
-dev_de_10,Invalidendank,589,602,ORG,NIL
-dev_de_10,Berlin,607,613,LOC,Q64
-dev_de_10,Invalidendank,637,650,ORG,NIL
-dev_de_10,Chemnitz,655,663,LOC,Q2795
-dev_de_10,Bernh.Arndt,666,677,PER,NIL
-dev_de_10,Berlin,692,698,LOC,Q64
-dev_de_10,Heinrich Eisler,700,715,PER,Q55678256
-dev_de_10,AdolfSteiner,717,729,PER,NIL
-dev_de_10,Károly,734,740,PER,NIL
-dev_de_10,Liebmann,743,751,PER,NIL
-dev_de_10,Hamburg,773,780,LOC,Q1055
-dev_de_10,Wilhelm Scheller,782,798,PER,NIL
-dev_de_10,Eduard Schlotte,802,817,PER,NIL
-dev_de_10,Bremen,839,845,LOC,Q24879
-dev_de_10,Orell Füssli & Co,847,864,ORG,Q1511140
-dev_de_10,Zürich,868,874,LOC,Q72
-dev_de_10,Basel,877,882,LOC,Q78
-dev_de_10,Mailand,900,907,LOC,Q490
-dev_de_10,Florenz,908,915,LOC,Q2044
-dev_de_10,Rom,919,922,LOC,Q220
-dev_de_10,Sam. Deacon & Co.,924,941,ORG,NIL
-dev_de_10,London,943,949,LOC,Q84
-dev_de_10,Wien,965,969,LOC,NIL
-dev_de_10,Wollzeile 20:,987,1000,LOC,NIL
-dev_de_10,Deutsch¬land,1391,1403,LOC,Q43287
-dev_de_10,Serbien,1408,1415,LOC,Q241748
-dev_de_10,Weltpostverein,1448,1462,ORG,Q17495
-dev_de_10,Deutschland,1498,1509,LOC,Q43287
-dev_de_10,Schweiz,1523,1530,LOC,Q39
-dev_de_10,Rumänien,1539,1547,LOC,Q203493
-dev_de_10,Serbien,1552,1559,LOC,Q241748
-dev_de_10,Bulgarien,1567,1576,LOC,Q815731
-dev_de_10,Russland,1585,1593,LOC,Q34266
-dev_de_10,Griechenland,1602,1614,LOC,Q209065
-dev_de_10,europäische Türkei,1619,1637,LOC,Q171323
-dev_de_10,asiatische Türkei,1651,1668,LOC,Q51614
-dev_de_10,Egypten,1682,1689,LOC,Q8680
-dev_de_10,Italien,1726,1733,LOC,Q172579
-dev_de_10,Mailand,1753,1760,LOC,Q490
-dev_de_10,Florenz,1762,1769,LOC,Q2044
-dev_de_10,Rom,1773,1776,LOC,Q220
-dev_de_10,Loescher & Co.,1778,1792,ORG,Q3836399
-dev_de_10,Rom,1796,1799,LOC,Q220
-dev_de_10,HenryBerger,1815,1826,PER,NIL
-dev_de_10,Mailand,1830,1837,LOC,Q490
-dev_de_10,Frank¬reich,1865,1876,LOC,Q70802
-dev_de_10,Agence Havas,1878,1890,ORG,Q516033
-dev_de_10,Paris,1894,1899,LOC,Q90
-dev_de_10,Eng¬land,1916,1924,LOC,Q21
-dev_de_10,A. Sierle,1926,1935,PER,NIL
-dev_de_10,"30 Lime-Street E. C., London",1937,1965,LOC,NIL
-dev_de_10,Nordamerika,2028,2039,LOC,Q49
-dev_de_10,E. Steiger,2041,2051,PER,Q16059368
-dev_de_10,25 Park - Place,2052,2067,LOC,NIL
-dev_de_10,Gustav E. Stechert,2069,2087,PER,NIL
-dev_de_10,766 Broadway,2089,2101,LOC,Q11260
-dev_de_10,710 Broadway in Newyork,2129,2152,LOC,NIL
-dev_de_10,Wien,2276,2280,LOC,Q1741
-dev_de_10,Kaiser,2312,2318,PER,NIL
-dev_de_10,Schlesien,2373,2382,LOC,NIL
-dev_de_10,Jägerndorf,2431,2441,LOC,NIL
-dev_de_11,"Kolowratring, Fichtegasse Nr. 11",39,71,LOC,NIL
-dev_de_11,Wollzeile 20,189,201,LOC,NIL
-dev_de_11,Witzek,251,257,PER,NIL
-dev_de_11,Prag,272,276,LOC,Q1085
-dev_de_11,Brünn,280,285,LOC,Q14960
-dev_de_11,Jos. A. Kienreich,287,304,PER,NIL
-dev_de_11,Graz,324,328,LOC,Q13298
-dev_de_11,J. Blockner,329,340,PER,NIL
-dev_de_11,J. Leopold,342,352,PER,NIL
-dev_de_11,Jos. Schwarz,354,366,PER,NIL
-dev_de_11,Budapest,380,388,LOC,Q1781
-dev_de_11,John F. Jones & Co.,403,422,ORG,NIL
-dev_de_11,"Paris, 31 bis, Rue du Faubourg Montmartre",425,466,LOC,Q3452296
-dev_de_11,Rudolf Mosse,467,479,PER,Q71476
-dev_de_11,Berlin,483,489,LOC,Q64
-dev_de_11,München,491,498,LOC,Q1726
-dev_de_11,Leipzig,500,507,LOC,Q2079
-dev_de_11,Haasenstein & Vogler,508,528,ORG,Q56322697
-dev_de_11,Hamburg,532,539,LOC,Q1055
-dev_de_11,Berlin,541,547,LOC,Q64
-dev_de_11,Frankfurt a. M.,548,563,LOC,Q1794
-dev_de_11,Basel,567,572,LOC,Q78
-dev_de_11,Heinrich Eisler,574,589,PER,NIL
-dev_de_11,Hamburg,603,610,LOC,Q1055
-dev_de_11,Orell Füssli & Co.,612,630,ORG,NIL
-dev_de_11,Zürich,633,639,LOC,Q72
-dev_de_11,Basel,643,648,LOC,Q78
-dev_de_11,Neyroud & Sons,650,664,ORG,NIL
-dev_de_11,London,668,674,LOC,Q84
-dev_de_11,Deutschland,689,700,LOC,Q43287
-dev_de_11,Frankreich,702,712,LOC,Q70802
-dev_de_11,England,714,721,LOC,Q21
-dev_de_11,Köln a. Rh.Italien,722,740,LOC,Q172579
-dev_de_11,Saarbachs News Exchange,747,770,ORG,NIL
-dev_de_11,Mainz,772,777,LOC,Q1720
-dev_de_11,Wien,795,799,LOC,Q1741
-dev_de_11,Wollzeile 20,898,910,LOC,NIL
-dev_de_11,Fichtegasse 11:,915,930,LOC,Q20170845
-dev_de_11,Deutschland,1097,1108,LOC,Q43287
-dev_de_11,Deutschland,1465,1476,LOC,Q43287
-dev_de_11,Serbien,1477,1484,LOC,Q241748
-dev_de_11,Weltpostverein,1506,1520,ORG,Q17495
-dev_de_11,Deutschland,1550,1561,LOC,Q43287
-dev_de_11,Schweiz,1571,1578,LOC,Q39
-dev_de_11,Belgien,1590,1597,LOC,Q31
-dev_de_11,Italien,1608,1615,LOC,Q172579
-dev_de_11,Rumänien,1626,1634,LOC,Q203493
-dev_de_11,SerbienGriechenland,1646,1665,LOC,Q209065
-dev_de_11,Beck & Harth,1679,1691,ORG,NIL
-dev_de_11,Bulgarien,1713,1722,LOC,Q147909
-dev_de_11,Russland,1734,1742,LOC,Q34266
-dev_de_11,Athen,1764,1769,LOC,Q1524
-dev_de_11,Triest,1796,1802,LOC,Q546
-dev_de_11,Europ. Türkei,1806,1819,LOC,Q171323
-dev_de_11,Asiat. Türkei,1830,1843,LOC,Q12560
-dev_de_11,Aegypten,1853,1861,LOC,Q8680
-dev_de_11,Dänemark,1873,1881,LOC,Q756617
-dev_de_11,Norwegen,1898,1906,LOC,Q20
-dev_de_11,Holland,1924,1931,LOC,Q29999
-dev_de_11,Italien,1960,1967,LOC,Q172579
-dev_de_11,Saarbachs NewsExch.,1969,1988,ORG,NIL
-dev_de_11,Mailand,1990,1997,LOC,Q490
-dev_de_11,Modena,2008,2014,LOC,Q279
-dev_de_11,Loescher & Co.,2016,2030,ORG,Q3836399
-dev_de_11,Rom,2032,2035,LOC,Q220
-dev_de_11,Frankreich,2046,2056,LOC,Q70802
-dev_de_11,Saarbachs News Exch.,2058,2078,ORG,NIL
-dev_de_11,Paris,2079,2084,LOC,Q90
-dev_de_11,Faubourg St. Denis,2091,2109,LOC,Q3452301
-dev_de_11,Agence Havas,2111,2123,ORG,Q516033
-dev_de_11,Paris,2125,2130,LOC,Q90
-dev_de_11,England,2141,2148,LOC,Q21
-dev_de_11,Saarbachs News Exch.,2150,2170,ORG,NIL
-dev_de_11,London,2172,2178,LOC,Q84
-dev_de_11,"16, John Street",2179,2194,LOC,Q70307709
-dev_de_11,Adelphi,2196,2203,LOC,Q4579847
-dev_de_11,"20, Lime-Street",2228,2243,LOC,Q4253168
-dev_de_11,London,2250,2256,LOC,Q84
-dev_de_11,Nordamerika,2266,2277,LOC,Q49
-dev_de_11,25 Park-PIace,2290,2303,LOC,NIL
-dev_de_11,151—155 West25th St.,2321,2341,LOC,NIL
-dev_de_11,L. A.,2343,2348,LOC,Q65
-dev_de_11,Second-Avenue,2363,2376,LOC,Q124914
-dev_de_11,Newyork,2379,2386,LOC,Q60
-dev_de_11,"Saarbachs News Exchange, G. m. b. H.",2436,2472,ORG,NIL
-dev_de_11,Mainz.,2474,2480,LOC,Q1720
-dev_de_11,Wien,2583,2587,LOC,Q1741
-dev_de_11,Wien,2614,2618,LOC,Q1741
-dev_de_11,Wien,2662,2666,LOC,Q1741
-dev_de_11,DeutschenNationalverband,2719,2743,ORG,Q18150547
-dev_de_11,Wien,3067,3071,LOC,Q1741
-dev_de_11,Deutsche Nationalverband,3119,3143,ORG,Q18150547
-dev_de_11,Wien,3450,3454,LOC,Q1741
-dev_de_11,Nationalverband,3462,3477,ORG,Q18150547
-dev_de_11,GrafenTaaffe,3666,3678,PER,Q550748
-dev_de_11,Franz Schmeykal,3741,3756,PER,Q12017799
-dev_de_11,Böhmen,3785,3791,LOC,Q42585
-dev_de_11,Wien,3813,3817,LOC,Q1741
-dev_de_11,Franz Schmeykal,3938,3953,PER,Q12017799
-dev_de_11,Wien,3965,3969,LOC,Q1741
-dev_de_11,Wien,4203,4207,LOC,Q1741
-dev_de_11,Böhmen,4291,4297,LOC,Q42585
-dev_de_11,Oesterreich,4324,4335,LOC,Q131964
-dev_de_11,Franz Schmeykal,4362,4377,PER,Q12017799
-dev_de_11,Oesterreich,4495,4506,LOC,Q28513
-dev_de_11,Wien,4536,4540,LOC,Q1741
-dev_de_11,Oesterreich,4865,4876,LOC,Q28513
-dev_de_11,Wien,4920,4924,LOC,Q1741
-dev_de_11,Oesterreich,5018,5029,LOC,Q28513
-dev_de_11,freisinnigen Deutschen,5067,5089,ORG,Q319457
-dev_de_11,Wien,5238,5242,LOC,Q1741
-dev_de_11,Deutschen Nationalverband,5413,5438,ORG,Q18150547
-dev_de_11,k. k. Regierungsrat,5556,5575,ORG,NIL
-dev_de_11,Gabriele Reuter,5774,5789,PER,Q99301
-dev_de_11,Alfred v. Berger,5811,5827,PER,Q88890
-dev_de_11,hamburg,5839,5846,LOC,Q1055
-dev_de_11,Otto Ernst,5868,5878,PER,Q123291
-dev_de_11,Louis Schneider,5879,5894,PER,Q214659
-dev_de_11,Kaiser Wilhelms I.,5909,5927,PER,Q150652
-dev_de_11,Berlin,5968,5974,LOC,Q64
-dev_de_11,Deutschland,6312,6323,LOC,Q43287
-dev_de_11,DeutschenNationalverband,6605,6629,ORG,Q18150547
-dev_de_11,Deutschen Nationalverbande,6777,6803,ORG,Q18150547
-dev_de_11,National¬verband,6982,6998,ORG,Q18150547
-dev_de_11,Deutschen Nationalverbande,7169,7195,ORG,Q18150547
-dev_de_11,Abgeordnetenhaus,7292,7308,ORG,Q320261
-dev_de_11,DeutscheNationalverband,7356,7379,ORG,Q18150547
-dev_de_11,Deutsche Nationalverband,7520,7544,ORG,Q18150547
-dev_de_11,Wien,7676,7680,LOC,Q1741
-dev_de_11,Deutschen Nationalverbandes,7826,7853,ORG,Q18150547
-dev_de_11,Wien,8102,8106,LOC,Q1741
-dev_de_11,Nationalverband,8138,8153,ORG,Q18150547
-dev_de_11,Wien,8367,8371,LOC,Q1741
-dev_de_11,Wien,8426,8430,LOC,Q1741
-dev_de_11,Wien,8579,8583,LOC,Q1741
-dev_de_11,DeutschenNationalverband,8620,8644,ORG,Q18150547
-dev_de_11,Wien,8787,8791,LOC,Q1741
-dev_de_11,Deutschen Nationalverbandes,8854,8881,ORG,Q18150547
-dev_de_11,Wien,8891,8895,LOC,Q1741
-dev_de_11,Oskar Wilde,10898,10909,PER,Q30875
-dev_de_12,Innsbruck,415,424,LOC,Q1735
-dev_de_12,Innsbruck,453,462,LOC,Q1735
-dev_de_12,Innsbrucker Nach¬richten,500,524,PROD,NIL
-dev_de_12,Oesterreich,576,587,LOC,Q518101
-dev_de_12,österreich,750,760,LOC,Q518101
-dev_de_12,Deutschland,838,849,LOC,Q7318
-dev_de_12,Hindenburg,993,1003,PER,Q2667
-dev_de_12,Hitler,1043,1049,PER,Q352
-dev_de_12,Berlin,1102,1108,LOC,Q64
-dev_de_12,Neudeck,1295,1302,LOC,Q380082
-dev_de_12,Hitler,1307,1313,PER,Q352
-dev_de_12,preußischen Staatsregierung,1634,1661,ORG,NIL
-dev_de_12,preußischen evangelischen Landeskirchen,1681,1720,ORG,Q163202
-dev_de_12,Deutschland,1882,1893,LOC,Q7318
-dev_de_12,preußischen Regierung,2375,2396,ORG,NIL
-dev_de_12,Reichsminister des Innern Dr. Frick,2571,2606,PER,Q76887
-dev_de_12,Hitler,2712,2718,PER,Q352
-dev_de_12,Hugenberg,2738,2747,PER,Q65121
-dev_de_12,Reichskanzler Hitler,2749,2769,PER,Q352
-dev_de_12,Neudeck,2786,2793,LOC,Q380082
-dev_de_12,Berlin,2803,2809,LOC,Q64
-dev_de_12,Reichsminister Dr. Schmitt,2907,2933,PER,Q62911
-dev_de_12,Dr. Darré,2938,2947,PER,Q60145
-dev_de_12,"stellvertretende Parteiführer der national¬sozialistischen Partei, Rudolf Heß",2970,3047,PER,Q75866
-dev_de_12,Neudeck,3086,3093,LOC,Q380082
-dev_de_12,Hitler,3101,3107,PER,Q352
-dev_de_12,Reichs¬wirtschafts= und Reichsernährungsministers Hugenberg,3166,3225,PER,Q65121
-dev_de_12,Reichskabinett,3304,3318,ORG,Q2139657
-dev_de_12,Kabinett,3563,3571,ORG,Q2139657
-dev_de_12,Schloß Neudeck,3680,3694,LOC,Q2242606
-dev_de_12,Nationalsozialistische Parteikorrespondenz,3708,3750,ORG,Q1748425
-dev_de_12,Reichs¬präsident Hindenburg,3757,3784,PER,Q2667
-dev_de_12,Reichskanzler AdolfHitler,3793,3818,PER,Q352
-dev_de_12,Neudeck,3838,3845,LOC,Q380082
-dev_de_12,Hindenburg,4089,4099,PER,Q2667
-dev_de_12,Hugen¬berg,4109,4119,PER,Q65121
-dev_de_12,Reichspräsident v. Hindenburg,4120,4149,PER,Q2667
-dev_de_12,DoktorHugenberg,4157,4172,PER,Q65121
-dev_de_12,Deutschland,4633,4644,LOC,Q7318
-dev_de_12,Reichsregierung,4788,4803,ORG,Q2139657
-dev_de_12,v. Hindenburg,5245,5258,PER,Q2667
-dev_de_12,Göbbels,5260,5267,PER,Q41749
-dev_de_12,Europa,5293,5299,LOC,Q46
-dev_de_12,Berlin,5354,5360,LOC,Q64
-dev_de_12,Reichspropagandaminister DoktorGöbbels,5371,5409,PER,Q41749
-dev_de_12,deutschen Hochschule für Politik,5468,5500,ORG,Q1203122
-dev_de_12,Italien,5576,5583,LOC,Q48742118
-dev_de_12,Deutschland,5600,5611,LOC,Q7318
-dev_de_12,Europa,5664,5670,LOC,Q46
-dev_de_12,Rom,6117,6120,LOC,Q220
-dev_de_12,Europa,6178,6184,LOC,Q46
-dev_de_12,Mussolini,6195,6204,PER,Q23559
-dev_de_12,Mussolini,6259,6268,PER,Q23559
-dev_de_12,italien,6342,6349,LOC,Q48742118
-dev_de_12,italie¬n,6423,6431,LOC,Q172579
-dev_de_12,Europa,6571,6577,LOC,Q46
-dev_de_12,italien,6787,6794,LOC,Q48742118
-dev_de_12,Deutsch¬land,6889,6901,LOC,Q7318
-dev_de_12,italie¬n,6976,6984,LOC,Q48742118
-dev_de_12,preußische Kultusminister Rust,8074,8104,PER,Q57698
-dev_de_12,Schleicher,8756,8766,PER,Q57133
-dev_de_12,Daily Mail,8818,8828,PROD,Q210534
-dev_de_12,Generalv. Schleicher,8835,8855,PER,Q57133
-dev_de_12,Neubabelsberg,8909,8922,LOC,Q1979246
-dev_de_12,Conti=Nachrichtenbureau,9002,9025,ORG,NIL
-dev_de_12,General v. Schlei¬cher,9035,9057,PER,Q57133
-dev_de_12,General v. Schleicher,9113,9134,PER,Q57133
-dev_de_12,Reichsminister Göbbels,9269,9291,PER,Q41749
-dev_de_12,Wien,9894,9898,LOC,Q1741
-dev_de_12,Deutschland,10202,10213,LOC,Q7318
-dev_de_12,Breslau,10267,10274,LOC,Q1799
-dev_de_12,politische Polizei in Breslau,10338,10367,ORG,Q2101520
-dev_de_12,Polizeimajor Panteleit,10382,10404,PER,NIL
-dev_de_12,Kriminal¬kommissar Dr. Keßler,10413,10442,PER,NIL
-dev_de_12,sozialdemokratischen Partei,10489,10516,ORG,Q49768
-dev_de_12,nationalsozialistischen Partei,10564,10594,ORG,Q7320
-dev_de_12,Breslauer Konzentra¬tionslager,10626,10656,LOC,Q1719359
-dev_de_12,STÄDTISCHE VERSICHERUNG,10670,10693,ORG,Q16088560
-dev_de_12,preußische Wirtschaftsministerium,10777,10810,ORG,Q460850
-dev_de_12,Berlin,10840,10846,LOC,Q64
-dev_de_12,Vereines DeutscherZeitungsverleger,10872,10906,ORG,NIL
-dev_de_12,preußische Wirtschafts¬ministerium,10919,10953,ORG,NIL
-dev_de_12,Hessen,12011,12017,LOC,Q694231
-dev_de_12,Darmstadt,12061,12070,LOC,Q2973
-dev_de_12,Ver¬waltungsdirektor am Hessischen Landes¬theater Dr. Sander,12321,12381,PER,NIL
-dev_de_12,Kustosam HessischenLandesmuseum Dr. Karl Freund,12387,12434,PER,NIL
-dev_de_12,Uni¬versität Gießen,12444,12463,ORG,Q317053
-dev_de_12,Professoren Paul Mom¬berg,12468,12493,PER,NIL
-dev_de_12,Georg Jaffé,12495,12506,PER,NIL
-dev_de_12,Julius Lewy,12508,12519,PER,Q55847835
-dev_de_12,MargareteBiber,12524,12538,PER,NIL
-dev_de_12,Professor Bärwald,12545,12562,PER,NIL
-dev_de_12,TechnischenHochschule Darmstadt,12571,12602,ORG,Q310695
-dev_de_12,Zentrums¬abgeordneten Klöckner,12627,12657,PER,Q1429764
-dev_de_12,Dortmund,12658,12666,LOC,Q1295
-dev_de_12,Zentrumsabgeordnete undGroßindustrielle Florian Klöckner,12681,12737,PER,Q1429764
-dev_de_12,Reichs¬tag,12747,12757,ORG,Q878525
-dev_de_12,bayerische Volkspartei,12782,12804,ORG,Q302884
-dev_de_12,München,12884,12891,LOC,Q1726
-dev_de_12,Bayerische Ostwacht,12907,12926,PROD,Q812256
-dev_de_12,bayerischen Kultusministers Schemm,12952,12986,PER,Q109771
-dev_de_12,Eggenfelden,12989,13000,LOC,Q255201
-dev_de_12,Schemm,13066,13072,PER,Q109771
-dev_de_12,bayerische Volkspartei,13091,13113,ORG,Q302884
-dev_de_12,Fürsten Wrede,13574,13587,PER,NIL
-dev_de_12,nationalsozialistischen Partei,14200,14230,ORG,Q7320
-dev_de_12,nationalsozialistischenPartei,14407,14436,ORG,Q7320
-dev_de_12,S.=S.,14516,14521,ORG,Q44687
-dev_de_12,Braunschweig,14553,14565,LOC,Q2773
-dev_de_12,S.=S.=Mann GerhartLandmann,14584,14610,PER,Q1241301
-dev_de_12,S.=S.=Hilfspolizei,14673,14691,ORG,Q819785
-dev_de_12,Landmann,14865,14873,PER,Q1241301
-dev_de_12,Berlin,15174,15180,LOC,Q64
-dev_de_12,Reichsbank,15194,15204,ORG,Q560183
-dev_de_12,Reichsregierung,15304,15319,ORG,Q159196
-dev_de_12,Finanzministerium,15711,15728,ORG,Q316584
-dev_de_12,Berlin,15848,15854,LOC,Q64
-dev_de_12,Reichsbank,15961,15971,ORG,Q560183
-dev_de_12,Reichsbank,16029,16039,ORG,Q560183
-dev_de_12,Reichsbank,16191,16201,ORG,Q560183
-dev_de_12,Reichsbank,16849,16859,ORG,Q560183
-dev_de_12,Berlin,18169,18175,LOC,Q64
-dev_de_12,Wolffsche Bureau,18194,18210,ORG,Q552226
-dev_de_12,Reichsluftfahrtministerium,18244,18270,ORG,Q698081
-dev_de_12,Bütow,18415,18420,LOC,Q326577
-dev_de_12,Pommern,18424,18431,LOC,Q54180
-dev_de_12,Ostsee,18440,18446,LOC,Q545
-dev_de_12,polnischen Regierung,18707,18727,ORG,NIL
-dev_de_12,deuschen Botschaft in London,18788,18816,ORG,Q835031
-dev_de_12,London,18851,18857,LOC,Q84
-dev_de_12,Deutschland,18928,18939,LOC,Q7318
-dev_de_12,deutschen Bot¬schaft,18986,19006,ORG,Q835031
-dev_de_12,Genf,19162,19166,LOC,Q71
-dev_de_12,Präsident de Michelis,19654,19675,PER,Q3770439
-dev_de_12,Sir EricDrummond,19839,19855,PER,Q335120
-dev_de_12,Avenol,19860,19866,PER,Q557043
-dev_de_12,Genf,19901,19905,LOC,Q71
-dev_de_12,Völkerbund,19940,19950,ORG,Q38130
-dev_de_12,Völker¬bund,20004,20015,ORG,Q38130
-dev_de_12,"Generalsekretär des Völkerbundes, Sir Eric Drum¬mond",20069,20121,PER,Q335120
-dev_de_12,Josef Avenol,20150,20162,PER,Q557043
-dev_de_12,Drummond,20191,20199,PER,Q335120
-dev_de_12,Völkerbund,20299,20309,ORG,Q38130
-dev_de_12,Washington,20450,20460,LOC,Q61
-dev_de_12,Vereinigten Staaten,20497,20516,LOC,Q30
-dev_de_12,Amerika,20881,20888,LOC,Q30
-dev_de_12,Washington,20918,20928,LOC,Q61
-dev_de_12,Senat,20985,20990,ORG,Q66096
-dev_de_12,PercyRockefeller,21009,21025,PER,Q2070228
-dev_de_12,Charles Mitchell,21027,21043,PER,Q5077146
-dev_de_12,Albert Wiggin,21045,21058,PER,Q4710386
-dev_de_12,James Paul Warburg,21062,21080,PER,Q3161474
-dev_de_12,"Kuhn, Loeb & Co.",21189,21205,ORG,Q1759732
-dev_de_12,Belgrad,21445,21452,LOC,Q3711
-dev_de_12,Sokol,21517,21522,ORG,Q954854
-dev_de_12,Laibach,21540,21547,LOC,Q437
-dev_de_12,Tschechoslowakei,21659,21675,LOC,Q140359
-dev_de_12,tschechoslowakische Regierung,21719,21748,ORG,Q178138
-dev_de_12,jugoslawische Regierung,21838,21861,ORG,NIL
-dev_de_12,Polen,22068,22073,LOC,Q207272
-dev_de_12,Wien,22293,22297,LOC,Q1741
-dev_de_12,Aegypten,22378,22386,LOC,Q124943
-dev_de_12,Oesterreich,22507,22518,LOC,Q518101
-dev_de_12,Dr. Kienböck,22634,22646,PER,Q114653
-dev_de_12,Bank von England,22744,22760,ORG,Q183231
-dev_de_12,Oesterreichischen Credit = Anstalt,22783,22817,ORG,Q694468
-dev_de_12,B. I. Z. in Basel,22890,22907,ORG,Q309195
-dev_de_12,Kurt Sonnenfeld: Maria Theresia,23168,23199,PER,Q131706
-dev_de_12,Bernard Szarlitt: Warschauer Theater,23216,23252,ORG,NIL
-dev_de_12,Berlin,23268,23274,LOC,Q64
-dev_de_12,M. M. D.,23783,23791,PER,NIL
-dev_de_12,London,23803,23809,LOC,Q84
-dev_de_12,London,23844,23850,LOC,Q84
-dev_de_12,Macdonald,23969,23978,PER,Q166646
-dev_de_12,Unter¬haus,24099,24109,ORG,Q11005
-dev_de_12,Macdonald,24249,24258,PER,Q166646
-dev_de_12,französische Finanzminister Bonnet,24288,24322,PER,Q1262453
-dev_de_12,holländische Ministerpräsident Colijn,24330,24367,PER,Q686476
-dev_de_12,London,24391,24397,LOC,Q84
-dev_de_12,Roosevelt,25258,25267,PER,Q8007
-dev_de_12,Roosevelt,25333,25342,PER,Q8007
-dev_de_12,Roosevelt,25471,25480,PER,Q8007
-dev_de_12,Dr. Buresch,25678,25689,PER,Q84511
-dev_de_12,Chamberlain,25694,25705,PER,Q10664
-dev_de_12,Rist,25710,25714,PER,Q2960124
-dev_de_12,London,25715,25721,LOC,Q84
-dev_de_12,Finanzminister Dr. Buresch,25732,25758,PER,Q84511
-dev_de_12,englischen Finanzminister Chamberlain,25780,25817,PER,Q10664
-dev_de_12,Chamberlain,25841,25852,PER,Q10664
-dev_de_12,Oesterreich,25923,25934,LOC,Q518101
-dev_de_12,Oesterreich,26052,26063,LOC,Q518101
-dev_de_12,Finanzminister Dr. Buresch,26096,26122,PER,Q84511
-dev_de_12,Professor Charles Rist,26139,26161,PER,Q2960124
-dev_de_12,Bizot vom französi¬schen Finanzministerium,26170,26212,ORG,Q1416512
-dev_de_12,Gesandter Franckenstein,26252,26275,PER,Q86858
-dev_de_12,MinisternDr. Buresch,26330,26350,PER,Q84511
-dev_de_12,Ingenieur Schumy Sir RobertKindersley,26355,26392,PER,Q7346352
-dev_de_12,Sir Otto Niemeyer,26394,26411,PER,Q169294
-dev_de_12,Sekretärim Departement für Ueberseehandel Colville,26417,26467,PER,Q1701622
-dev_de_12,Weley vom Schatzamt,26472,26491,PER,NIL
-dev_de_12,Bankier und Parla¬mentarier Greenfell,26497,26534,PER,NIL
-dev_de_12,Rost van Tonningen,26541,26559,PER,Q639329
-dev_de_12,M. Frère,26563,26571,PER,NIL
-dev_de_12,Sektionschef Dr. Schüller,26573,26598,PER,Q55740503
-dev_de_12,Ministerialrat Dr. Rizzi,26602,26626,PER,Q1582055
-dev_de_12,Italien,26798,26805,LOC,Q48742118
-dev_de_12,Bundesminister Ing. Schumy,26806,26832,PER,Q1632993
-dev_de_12,SektionschefDr. Schüller,26837,26861,PER,Q55740503
-dev_de_12,italien,26879,26886,LOC,Q48742118
-dev_de_12,amerikanischenMarine,27052,27072,ORG,Q11220
-dev_de_12,Washington,27107,27117,LOC,Q61
-dev_de_12,Marineminister Swanson,27128,27150,PER,Q658506
-dev_de_12,amerika,27205,27212,LOC,Q30
-dev_de_12,Marineder Vereinigten Staaten,27247,27276,ORG,Q940135
-dev_de_12,Wien,27512,27516,LOC,Q1741
-dev_de_12,Schwarze Front,27548,27562,ORG,Q3078734
-dev_de_12,Wien,27567,27571,LOC,Q1741
-dev_de_12,Deutschland,27713,27724,LOC,Q7318
-dev_de_12,Schwarzen Front,27737,27752,ORG,Q3078734
-dev_de_12,SchwarzeFront,27872,27885,ORG,Q3078734
-dev_de_12,Otto Strasser,28056,28069,PER,Q76640
-dev_de_12,Schwarze Front,28092,28106,ORG,Q3078734
-dev_de_12,Wien,28132,28136,LOC,Q1741
-dev_de_12,Schwarzer Sender,28180,28196,PROD,NIL
-dev_de_12,Karl Ecker,28226,28236,PER,NIL
-dev_de_12,Wien,28266,28270,LOC,Q1741
-dev_de_12,Otto Strassers,28283,28297,PER,Q76640
-dev_de_12,HauptmannStennes,28323,28339,PER,Q78030
-dev_de_12,Stegerwald,28344,28354,PER,Q63434
-dev_de_12,Wiener S. A.,28584,28596,ORG,Q150793
-dev_de_12,S. S.,28600,28605,ORG,Q44687
-dev_de_12,Schwarzen Front,28674,28689,ORG,Q3078734
-dev_de_12,Wien,28706,28710,LOC,NIL
-dev_de_12,Wien,29112,29116,LOC,Q1741
-dev_de_12,Unterrichts¬ministerium,29324,29347,ORG,Q606227
+dev_de_1_sent0,Rudolfsheim,84,95,LOC,NIL
+dev_de_1_sent0,Moll,133,137,PER,NIL
+dev_de_1_sent1,Johann Brandl,2,15,PER,NIL
+dev_de_1_sent1,Brandl,139,145,PER,NIL
+dev_de_1_sent4,Eduard Straßer,103,117,PER,NIL
+dev_de_1_sent4,Eduard Klasser,127,141,PER,NIL
+dev_de_1_sent6,Adolf Karpathy,14,28,PER,NIL
+dev_de_1_sent6,Wien,53,57,LOC,NIL
+dev_de_1_sent6,Adolf Karpathy,118,132,PER,NIL
+dev_de_1_sent8,Ingwer,194,200,PER,NIL
+dev_de_1_sent9,Wien,0,4,LOC,NIL
+dev_de_1_sent9,KrapkaWien,95,105,LOC,NIL
+dev_de_1_sent9,Krapka,196,202,PER,NIL
+dev_de_1_sent10,v. Marquet,415,425,PER,NIL
+dev_de_1_sent10,Krapka,477,483,PER,NIL
+dev_de_1_sent11,Wien,57,61,LOC,NIL
+dev_de_1_sent11,Krejci,94,100,PER,NIL
+dev_de_1_sent11,Brzeznovsky,226,237,PER,NIL
+dev_de_1_sent12,Emanuel Dörfler,8,23,PER,NIL
+dev_de_1_sent12,Eger,51,55,LOC,NIL
+dev_de_1_sent12,Emanuel Dörfler,106,121,PER,NIL
+dev_de_1_sent23,Manchester,221,231,LOC,NIL
+dev_de_1_sent24,England,206,213,LOC,NIL
+dev_de_1_sent24,Belgien,215,222,LOC,NIL
+dev_de_1_sent24,Frankreich,223,233,LOC,NIL
+dev_de_1_sent24,Holland,235,242,LOC,NIL
+dev_de_1_sent24,Dänemark,244,252,LOC,NIL
+dev_de_1_sent24,Oesterreich,254,265,LOC,NIL
+dev_de_1_sent24,Ver¬einigten Staaten,274,294,LOC,NIL
+dev_de_6_sent2,Bundespolizeibehörde,241,261,ORG,Q448974
+dev_de_6_sent5,Wien,4,8,LOC,Q1741
+dev_de_6_sent5,Bundesregierung,38,53,ORG,Q695599
+dev_de_6_sent6,Ministerrates,24,37,ORG,NIL
+dev_de_6_sent8,Freiwilliges Schutzkorps,0,24,ORG,NIL
+dev_de_7_sent4,"IX/1, Pramergasse 28",15,35,LOC,NIL
+dev_de_7_sent4,15744,42,47,LOC,NIL
+dev_de_7_sent4,I Schulerstraße 11,59,77,LOC,NIL
+dev_de_7_sent4,7927.Wien,87,96,LOC,Q1741
+dev_de_7_sent5,"Wien, IX/1, Pramergasse 28",11,37,LOC,NIL
+dev_de_7_sent7,12805.,11,17,LOC,NIL
+dev_de_7_sent7,14330.,29,35,LOC,NIL
+dev_de_7_sent16,Daube u. Co.,4,16,ORG,NIL
+dev_de_7_sent16,Köln a. Rh,18,28,LOC,Q365
+dev_de_7_sent20,"Dermato-Therapeut.-InstitutWien, I., Rotenturmstrasse 12",0,56,LOC,Q20164778
+dev_de_7_sent23,21148.,16,22,LOC,NIL
+dev_de_7_sent29,Ame¬rika,40,48,LOC,Q828
+dev_de_7_sent29,Oesterrei,122,131,LOC,Q28513
+dev_de_8_sent0,österr. Republik,53,69,ORG,Q518101
+dev_de_8_sent6,"Wien,",46,51,LOC,Q1741
+dev_de_8_sent20,Wiener Landtag,0,14,ORG,Q1796480
+dev_de_10_sent0,"Kolowrat - Ring, Fichtegasse Nr. 11",67,102,LOC,NIL
+dev_de_10_sent2,Wollzeile Nr. 20,27,43,LOC,NIL
+dev_de_10_sent2,John F. Jones& Co.,105,123,ORG,NIL
+dev_de_10_sent2,"Paris, 31 bis, Rue du Faubourg Mont¬martre",127,169,LOC,Q3452296
+dev_de_10_sent2,Agence Havas,171,183,ORG,Q516033
+dev_de_10_sent2,Brüssel,187,194,LOC,Q239
+dev_de_10_sent2,RudolfMosse,196,207,PER,Q71476
+dev_de_10_sent2,Berlin,211,217,LOC,Q64
+dev_de_10_sent2,Frankfurt a. M.,219,234,LOC,Q1794
+dev_de_10_sent2,Mün¬chen,236,244,LOC,Q1726
+dev_de_10_sent2,Leipzig,246,253,LOC,Q2079
+dev_de_10_sent2,G. L. Daube & Co.,255,272,ORG,NIL
+dev_de_10_sent2,Frank¬furt a. M.,276,292,LOC,Q1794
+dev_de_10_sent2,Berlin,294,300,LOC,Q64
+dev_de_10_sent2,Cöln,302,306,LOC,Q365
+dev_de_10_sent2,Leipzig,308,315,LOC,Q2079
+dev_de_10_sent2,Haa¬senstein,317,329,PER,Q56322697
+dev_de_10_sent2,Hamburg,342,349,LOC,Q1055
+dev_de_10_sent2,Berlin,351,357,LOC,Q64
+dev_de_10_sent2,Frankfurt. a. M.,358,374,LOC,Q1794
+dev_de_10_sent2,Basel,378,383,LOC,Q78
+dev_de_10_sent2,Invalidendank,407,420,ORG,NIL
+dev_de_10_sent2,Berlin,425,431,LOC,Q64
+dev_de_10_sent2,Invalidendank,455,468,ORG,NIL
+dev_de_10_sent2,Chemnitz,473,481,LOC,Q2795
+dev_de_10_sent2,Bernh.Arndt,484,495,PER,NIL
+dev_de_10_sent3,Berlin,9,15,LOC,Q64
+dev_de_10_sent3,Heinrich Eisler,17,32,PER,Q55678256
+dev_de_10_sent3,AdolfSteiner,34,46,PER,NIL
+dev_de_10_sent3,Károly,51,57,PER,NIL
+dev_de_10_sent3,Liebmann,60,68,PER,NIL
+dev_de_10_sent4,Hamburg,16,23,LOC,Q1055
+dev_de_10_sent4,Wilhelm Scheller,25,41,PER,NIL
+dev_de_10_sent4,Eduard Schlotte,45,60,PER,NIL
+dev_de_10_sent5,Bremen,17,23,LOC,Q24879
+dev_de_10_sent5,Orell Füssli & Co,25,42,ORG,Q1511140
+dev_de_10_sent6,Zürich,3,9,LOC,Q72
+dev_de_10_sent7,Basel,0,5,LOC,Q78
+dev_de_10_sent8,Mailand,14,21,LOC,Q490
+dev_de_10_sent8,Florenz,22,29,LOC,Q2044
+dev_de_10_sent8,Rom,33,36,LOC,Q220
+dev_de_10_sent8,Sam. Deacon & Co.,38,55,ORG,NIL
+dev_de_10_sent8,London,57,63,LOC,Q84
+dev_de_10_sent9,Wien,15,19,LOC,NIL
+dev_de_10_sent9,Wollzeile 20:,37,50,LOC,NIL
+dev_de_10_sent21,Deutsch¬land,73,85,LOC,Q43287
+dev_de_10_sent21,Serbien,90,97,LOC,Q241748
+dev_de_10_sent22,Weltpostverein,26,40,ORG,Q17495
+dev_de_10_sent22,Deutschland,76,87,LOC,Q43287
+dev_de_10_sent23,Schweiz,1,8,LOC,Q39
+dev_de_10_sent24,Rumänien,2,10,LOC,Q203493
+dev_de_10_sent24,Serbien,15,22,LOC,Q241748
+dev_de_10_sent25,Bulgarien,2,11,LOC,Q815731
+dev_de_10_sent26,Russland,2,10,LOC,Q34266
+dev_de_10_sent27,Griechenland,0,12,LOC,Q209065
+dev_de_10_sent27,europäische Türkei,17,35,LOC,Q171323
+dev_de_10_sent28,asiatische Türkei,2,19,LOC,Q51614
+dev_de_10_sent29,Egypten,1,8,LOC,Q8680
+dev_de_10_sent29,Italien,45,52,LOC,Q172579
+dev_de_10_sent29,Mailand,72,79,LOC,Q490
+dev_de_10_sent29,Florenz,81,88,LOC,Q2044
+dev_de_10_sent29,Rom,92,95,LOC,Q220
+dev_de_10_sent29,Loescher & Co.,97,111,ORG,Q3836399
+dev_de_10_sent29,Rom,115,118,LOC,Q220
+dev_de_10_sent30,HenryBerger,2,13,PER,NIL
+dev_de_10_sent30,Mailand,17,24,LOC,Q490
+dev_de_10_sent31,Frank¬reich,2,13,LOC,Q70802
+dev_de_10_sent31,Agence Havas,15,27,ORG,Q516033
+dev_de_10_sent31,Paris,31,36,LOC,Q90
+dev_de_10_sent32,Eng¬land,2,10,LOC,Q21
+dev_de_10_sent32,A. Sierle,12,21,PER,NIL
+dev_de_10_sent32,"30 Lime-Street E. C., London",23,51,LOC,NIL
+dev_de_10_sent32,Nordamerika,114,125,LOC,Q49
+dev_de_10_sent32,E. Steiger,127,137,PER,Q16059368
+dev_de_10_sent32,25 Park - Place,138,153,LOC,NIL
+dev_de_10_sent32,Gustav E. Stechert,155,173,PER,NIL
+dev_de_10_sent32,766 Broadway,175,187,LOC,Q11260
+dev_de_10_sent32,710 Broadway in Newyork,215,238,LOC,NIL
+dev_de_10_sent34,Wien,9,13,LOC,Q1741
+dev_de_10_sent35,Kaiser,5,11,PER,NIL
+dev_de_10_sent35,Schlesien,66,75,LOC,NIL
+dev_de_10_sent35,Jägerndorf,124,134,LOC,NIL
+dev_de_11_sent0,"Kolowratring, Fichtegasse Nr. 11",39,71,LOC,NIL
+dev_de_11_sent2,Wollzeile 20,27,39,LOC,NIL
+dev_de_11_sent2,Witzek,89,95,PER,NIL
+dev_de_11_sent3,Prag,9,13,LOC,Q1085
+dev_de_11_sent3,Brünn,17,22,LOC,Q14960
+dev_de_11_sent3,Jos. A. Kienreich,24,41,PER,NIL
+dev_de_11_sent3,Graz,61,65,LOC,Q13298
+dev_de_11_sent3,J. Blockner,66,77,PER,NIL
+dev_de_11_sent3,J. Leopold,79,89,PER,NIL
+dev_de_11_sent3,Jos. Schwarz,91,103,PER,NIL
+dev_de_11_sent4,Budapest,8,16,LOC,Q1781
+dev_de_11_sent4,John F. Jones & Co.,31,50,ORG,NIL
+dev_de_11_sent4,"Paris, 31 bis, Rue du Faubourg Montmartre",53,94,LOC,Q3452296
+dev_de_11_sent4,Rudolf Mosse,95,107,PER,Q71476
+dev_de_11_sent4,Berlin,111,117,LOC,Q64
+dev_de_11_sent4,München,119,126,LOC,Q1726
+dev_de_11_sent4,Leipzig,128,135,LOC,Q2079
+dev_de_11_sent4,Haasenstein & Vogler,136,156,ORG,Q56322697
+dev_de_11_sent4,Hamburg,160,167,LOC,Q1055
+dev_de_11_sent4,Berlin,169,175,LOC,Q64
+dev_de_11_sent4,Frankfurt a. M.,176,191,LOC,Q1794
+dev_de_11_sent4,Basel,195,200,LOC,Q78
+dev_de_11_sent4,Heinrich Eisler,202,217,PER,NIL
+dev_de_11_sent5,Hamburg,9,16,LOC,Q1055
+dev_de_11_sent5,Orell Füssli & Co.,18,36,ORG,NIL
+dev_de_11_sent5,Zürich,39,45,LOC,Q72
+dev_de_11_sent5,Basel,49,54,LOC,Q78
+dev_de_11_sent5,Neyroud & Sons,56,70,ORG,NIL
+dev_de_11_sent5,London,74,80,LOC,Q84
+dev_de_11_sent5,Deutschland,95,106,LOC,Q43287
+dev_de_11_sent5,Frankreich,108,118,LOC,Q70802
+dev_de_11_sent5,England,120,127,LOC,Q21
+dev_de_11_sent5,Köln a. Rh.Italien,128,146,LOC,Q172579
+dev_de_11_sent6,Saarbachs News Exchange,2,25,ORG,NIL
+dev_de_11_sent6,Mainz,27,32,LOC,Q1720
+dev_de_11_sent7,Wien,15,19,LOC,Q1741
+dev_de_11_sent10,Wollzeile 20,28,40,LOC,NIL
+dev_de_11_sent10,Fichtegasse 11:,45,60,LOC,Q20170845
+dev_de_11_sent17,Deutschland,4,15,LOC,Q43287
+dev_de_11_sent24,Deutschland,3,14,LOC,Q43287
+dev_de_11_sent24,Serbien,15,22,LOC,Q241748
+dev_de_11_sent24,Weltpostverein,44,58,ORG,Q17495
+dev_de_11_sent24,Deutschland,88,99,LOC,Q43287
+dev_de_11_sent25,Schweiz,4,11,LOC,Q39
+dev_de_11_sent26,Belgien,4,11,LOC,Q31
+dev_de_11_sent27,Italien,3,10,LOC,Q172579
+dev_de_11_sent28,Rumänien,4,12,LOC,Q203493
+dev_de_11_sent29,SerbienGriechenland,4,23,LOC,Q209065
+dev_de_11_sent30,Beck & Harth,10,22,ORG,NIL
+dev_de_11_sent32,Bulgarien,4,13,LOC,Q147909
+dev_de_11_sent33,Russland,4,12,LOC,Q34266
+dev_de_11_sent34,Athen,16,21,LOC,Q1524
+dev_de_11_sent35,Triest,9,15,LOC,Q546
+dev_de_11_sent36,Europ. Türkei,0,13,LOC,Q171323
+dev_de_11_sent37,Asiat. Türkei,4,17,LOC,Q12560
+dev_de_11_sent38,Aegypten,3,11,LOC,Q8680
+dev_de_11_sent39,Dänemark,4,12,LOC,Q756617
+dev_de_11_sent40,Norwegen,3,11,LOC,Q20
+dev_de_11_sent41,Holland,4,11,LOC,Q29999
+dev_de_11_sent43,Italien,21,28,LOC,Q172579
+dev_de_11_sent43,Saarbachs NewsExch.,30,49,ORG,NIL
+dev_de_11_sent43,Mailand,51,58,LOC,Q490
+dev_de_11_sent43,Modena,69,75,LOC,Q279
+dev_de_11_sent43,Loescher & Co.,77,91,ORG,Q3836399
+dev_de_11_sent43,Rom,93,96,LOC,Q220
+dev_de_11_sent44,Frankreich,4,14,LOC,Q70802
+dev_de_11_sent44,Saarbachs News Exch.,16,36,ORG,NIL
+dev_de_11_sent44,Paris,37,42,LOC,Q90
+dev_de_11_sent44,Faubourg St. Denis,49,67,LOC,Q3452301
+dev_de_11_sent44,Agence Havas,69,81,ORG,Q516033
+dev_de_11_sent44,Paris,83,88,LOC,Q90
+dev_de_11_sent45,England,4,11,LOC,Q21
+dev_de_11_sent45,Saarbachs News Exch.,13,33,ORG,NIL
+dev_de_11_sent45,London,35,41,LOC,Q84
+dev_de_11_sent45,"16, John Street",42,57,LOC,Q70307709
+dev_de_11_sent45,Adelphi,59,66,LOC,Q4579847
+dev_de_11_sent46,"20, Lime-Street",12,27,LOC,Q4253168
+dev_de_11_sent48,London,2,8,LOC,Q84
+dev_de_11_sent48,Nordamerika,18,29,LOC,Q49
+dev_de_11_sent48,25 Park-PIace,42,55,LOC,NIL
+dev_de_11_sent48,151—155 West25th St.,73,93,LOC,NIL
+dev_de_11_sent48,L. A.,95,100,LOC,Q65
+dev_de_11_sent48,Second-Avenue,115,128,LOC,Q124914
+dev_de_11_sent48,Newyork,131,138,LOC,Q60
+dev_de_11_sent49,"Saarbachs News Exchange, G. m. b. H.",40,76,ORG,NIL
+dev_de_11_sent49,Mainz.,78,84,LOC,Q1720
+dev_de_11_sent51,Wien,0,4,LOC,Q1741
+dev_de_11_sent52,Wien,0,4,LOC,Q1741
+dev_de_11_sent53,Wien,33,37,LOC,Q1741
+dev_de_11_sent53,DeutschenNationalverband,90,114,ORG,Q18150547
+dev_de_11_sent53,Wien,438,442,LOC,Q1741
+dev_de_11_sent53,Deutsche Nationalverband,490,514,ORG,Q18150547
+dev_de_11_sent53,Wien,821,825,LOC,Q1741
+dev_de_11_sent53,Nationalverband,833,848,ORG,Q18150547
+dev_de_11_sent53,GrafenTaaffe,1037,1049,PER,Q550748
+dev_de_11_sent53,Franz Schmeykal,1112,1127,PER,Q12017799
+dev_de_11_sent53,Böhmen,1156,1162,LOC,Q42585
+dev_de_11_sent53,Wien,1184,1188,LOC,Q1741
+dev_de_11_sent53,Franz Schmeykal,1309,1324,PER,Q12017799
+dev_de_11_sent53,Wien,1336,1340,LOC,Q1741
+dev_de_11_sent53,Wien,1574,1578,LOC,Q1741
+dev_de_11_sent53,Böhmen,1662,1668,LOC,Q42585
+dev_de_11_sent53,Oesterreich,1695,1706,LOC,Q131964
+dev_de_11_sent53,Franz Schmeykal,1733,1748,PER,Q12017799
+dev_de_11_sent53,Oesterreich,1866,1877,LOC,Q28513
+dev_de_11_sent53,Wien,1907,1911,LOC,Q1741
+dev_de_11_sent53,Oesterreich,2236,2247,LOC,Q28513
+dev_de_11_sent53,Wien,2291,2295,LOC,Q1741
+dev_de_11_sent53,Oesterreich,2389,2400,LOC,Q28513
+dev_de_11_sent53,freisinnigen Deutschen,2438,2460,ORG,Q319457
+dev_de_11_sent54,Wien,0,4,LOC,Q1741
+dev_de_11_sent55,Deutschen Nationalverband,129,154,ORG,Q18150547
+dev_de_11_sent56,k. k. Regierungsrat,6,25,ORG,NIL
+dev_de_11_sent59,Gabriele Reuter,61,76,PER,Q99301
+dev_de_11_sent61,Alfred v. Berger,0,16,PER,Q88890
+dev_de_11_sent61,hamburg,28,35,LOC,Q1055
+dev_de_11_sent62,Otto Ernst,4,14,PER,Q123291
+dev_de_11_sent63,Louis Schneider,0,15,PER,Q214659
+dev_de_11_sent63,Kaiser Wilhelms I.,30,48,PER,Q150652
+dev_de_11_sent63,Berlin,89,95,LOC,Q64
+dev_de_11_sent63,Deutschland,433,444,LOC,Q43287
+dev_de_11_sent63,DeutschenNationalverband,726,750,ORG,Q18150547
+dev_de_11_sent63,Deutschen Nationalverbande,898,924,ORG,Q18150547
+dev_de_11_sent64,National¬verband,154,170,ORG,Q18150547
+dev_de_11_sent64,Deutschen Nationalverbande,341,367,ORG,Q18150547
+dev_de_11_sent64,Abgeordnetenhaus,464,480,ORG,Q320261
+dev_de_11_sent64,DeutscheNationalverband,528,551,ORG,Q18150547
+dev_de_11_sent64,Deutsche Nationalverband,692,716,ORG,Q18150547
+dev_de_11_sent64,Wien,848,852,LOC,Q1741
+dev_de_11_sent64,Deutschen Nationalverbandes,998,1025,ORG,Q18150547
+dev_de_11_sent64,Wien,1274,1278,LOC,Q1741
+dev_de_11_sent64,Nationalverband,1310,1325,ORG,Q18150547
+dev_de_11_sent64,Wien,1539,1543,LOC,Q1741
+dev_de_11_sent64,Wien,1598,1602,LOC,Q1741
+dev_de_11_sent64,Wien,1751,1755,LOC,Q1741
+dev_de_11_sent64,DeutschenNationalverband,1792,1816,ORG,Q18150547
+dev_de_11_sent64,Wien,1959,1963,LOC,Q1741
+dev_de_11_sent65,Deutschen Nationalverbandes,17,44,ORG,Q18150547
+dev_de_11_sent65,Wien,54,58,LOC,Q1741
+dev_de_11_sent67,Oskar Wilde,27,38,PER,Q30875
+dev_de_12_sent1,Innsbruck,0,9,LOC,Q1735
+dev_de_12_sent1,Innsbruck,38,47,LOC,Q1735
+dev_de_12_sent1,Innsbrucker Nach¬richten,85,109,PROD,NIL
+dev_de_12_sent1,Oesterreich,161,172,LOC,Q518101
+dev_de_12_sent1,österreich,335,345,LOC,Q518101
+dev_de_12_sent1,Deutschland,423,434,LOC,Q7318
+dev_de_12_sent2,Hindenburg,11,21,PER,Q2667
+dev_de_12_sent3,Hitler,16,22,PER,Q352
+dev_de_12_sent5,Berlin,0,6,LOC,Q64
+dev_de_12_sent5,Neudeck,193,200,LOC,Q380082
+dev_de_12_sent5,Hitler,205,211,PER,Q352
+dev_de_12_sent6,preußischen Staatsregierung,209,236,ORG,NIL
+dev_de_12_sent6,preußischen evangelischen Landeskirchen,256,295,ORG,Q163202
+dev_de_12_sent6,Deutschland,457,468,LOC,Q7318
+dev_de_12_sent7,preußischen Regierung,284,305,ORG,NIL
+dev_de_12_sent8,Reichsminister des Innern Dr. Frick,67,102,PER,Q76887
+dev_de_12_sent9,Hitler,9,15,PER,Q352
+dev_de_12_sent9,Hugenberg,35,44,PER,Q65121
+dev_de_12_sent10,Reichskanzler Hitler,0,20,PER,Q352
+dev_de_12_sent10,Neudeck,37,44,LOC,Q380082
+dev_de_12_sent10,Berlin,54,60,LOC,Q64
+dev_de_12_sent10,Reichsminister Dr. Schmitt,158,184,PER,Q62911
+dev_de_12_sent10,Dr. Darré,189,198,PER,Q60145
+dev_de_12_sent10,"stellvertretende Parteiführer der national¬sozialistischen Partei, Rudolf Heß",221,298,PER,Q75866
+dev_de_12_sent10,Neudeck,337,344,LOC,Q380082
+dev_de_12_sent10,Hitler,352,358,PER,Q352
+dev_de_12_sent10,Reichs¬wirtschafts= und Reichsernährungsministers Hugenberg,417,476,PER,Q65121
+dev_de_12_sent10,Reichskabinett,555,569,ORG,Q2139657
+dev_de_12_sent11,Kabinett,191,199,ORG,Q2139657
+dev_de_12_sent12,Schloß Neudeck,60,74,LOC,Q2242606
+dev_de_12_sent12,Nationalsozialistische Parteikorrespondenz,88,130,ORG,Q1748425
+dev_de_12_sent12,Reichs¬präsident Hindenburg,137,164,PER,Q2667
+dev_de_12_sent12,Reichskanzler AdolfHitler,173,198,PER,Q352
+dev_de_12_sent12,Neudeck,218,225,LOC,Q380082
+dev_de_12_sent13,Hindenburg,0,10,PER,Q2667
+dev_de_12_sent13,Hugen¬berg,20,30,PER,Q65121
+dev_de_12_sent14,Reichspräsident v. Hindenburg,0,29,PER,Q2667
+dev_de_12_sent14,DoktorHugenberg,37,52,PER,Q65121
+dev_de_12_sent14,Deutschland,513,524,LOC,Q7318
+dev_de_12_sent14,Reichsregierung,668,683,ORG,Q2139657
+dev_de_12_sent16,v. Hindenburg,3,16,PER,Q2667
+dev_de_12_sent17,Göbbels,1,8,PER,Q41749
+dev_de_12_sent17,Europa,34,40,LOC,Q46
+dev_de_12_sent19,Berlin,0,6,LOC,Q64
+dev_de_12_sent19,Reichspropagandaminister DoktorGöbbels,17,55,PER,Q41749
+dev_de_12_sent19,deutschen Hochschule für Politik,114,146,ORG,Q1203122
+dev_de_12_sent19,Italien,222,229,LOC,Q48742118
+dev_de_12_sent19,Deutschland,246,257,LOC,Q7318
+dev_de_12_sent19,Europa,310,316,LOC,Q46
+dev_de_12_sent19,Rom,763,766,LOC,Q220
+dev_de_12_sent19,Europa,824,830,LOC,Q46
+dev_de_12_sent19,Mussolini,841,850,PER,Q23559
+dev_de_12_sent19,Mussolini,905,914,PER,Q23559
+dev_de_12_sent19,italien,988,995,LOC,Q48742118
+dev_de_12_sent19,italie¬n,1069,1077,LOC,Q172579
+dev_de_12_sent20,Europa,41,47,LOC,Q46
+dev_de_12_sent22,italien,45,52,LOC,Q48742118
+dev_de_12_sent22,Deutsch¬land,147,159,LOC,Q7318
+dev_de_12_sent22,italie¬n,234,242,LOC,Q48742118
+dev_de_12_sent24,preußische Kultusminister Rust,4,34,PER,Q57698
+dev_de_12_sent25,Schleicher,12,22,PER,Q57133
+dev_de_12_sent26,Daily Mail,25,35,PROD,Q210534
+dev_de_12_sent26,Generalv. Schleicher,42,62,PER,Q57133
+dev_de_12_sent26,Neubabelsberg,116,129,LOC,Q1979246
+dev_de_12_sent26,Conti=Nachrichtenbureau,209,232,ORG,NIL
+dev_de_12_sent26,General v. Schlei¬cher,242,264,PER,Q57133
+dev_de_12_sent26,General v. Schleicher,320,341,PER,Q57133
+dev_de_12_sent28,Reichsminister Göbbels,0,22,PER,Q41749
+dev_de_12_sent28,Wien,625,629,LOC,Q1741
+dev_de_12_sent28,Deutschland,933,944,LOC,Q7318
+dev_de_12_sent29,Breslau,0,7,LOC,Q1799
+dev_de_12_sent30,politische Polizei in Breslau,4,33,ORG,Q2101520
+dev_de_12_sent30,Polizeimajor Panteleit,48,70,PER,NIL
+dev_de_12_sent30,Kriminal¬kommissar Dr. Keßler,79,108,PER,NIL
+dev_de_12_sent30,sozialdemokratischen Partei,155,182,ORG,Q49768
+dev_de_12_sent30,nationalsozialistischen Partei,230,260,ORG,Q7320
+dev_de_12_sent30,Breslauer Konzentra¬tionslager,292,322,LOC,Q1719359
+dev_de_12_sent31,STÄDTISCHE VERSICHERUNG,0,23,ORG,Q16088560
+dev_de_12_sent32,preußische Wirtschaftsministerium,4,37,ORG,Q460850
+dev_de_12_sent33,Berlin,0,6,LOC,Q64
+dev_de_12_sent33,Vereines DeutscherZeitungsverleger,32,66,ORG,NIL
+dev_de_12_sent33,preußische Wirtschafts¬ministerium,79,113,ORG,NIL
+dev_de_12_sent34,Hessen,31,37,LOC,Q694231
+dev_de_12_sent36,Darmstadt,0,9,LOC,Q2973
+dev_de_12_sent36,Ver¬waltungsdirektor am Hessischen Landes¬theater Dr. Sander,260,320,PER,NIL
+dev_de_12_sent36,Kustosam HessischenLandesmuseum Dr. Karl Freund,326,373,PER,NIL
+dev_de_12_sent36,Uni¬versität Gießen,383,402,ORG,Q317053
+dev_de_12_sent36,Professoren Paul Mom¬berg,407,432,PER,NIL
+dev_de_12_sent36,Georg Jaffé,434,445,PER,NIL
+dev_de_12_sent36,Julius Lewy,447,458,PER,Q55847835
+dev_de_12_sent36,MargareteBiber,463,477,PER,NIL
+dev_de_12_sent36,Professor Bärwald,484,501,PER,NIL
+dev_de_12_sent36,TechnischenHochschule Darmstadt,510,541,ORG,Q310695
+dev_de_12_sent37,Zentrums¬abgeordneten Klöckner,24,54,PER,Q1429764
+dev_de_12_sent38,Dortmund,0,8,LOC,Q1295
+dev_de_12_sent38,Zentrumsabgeordnete undGroßindustrielle Florian Klöckner,23,79,PER,Q1429764
+dev_de_12_sent38,Reichs¬tag,89,99,ORG,Q878525
+dev_de_12_sent39,bayerische Volkspartei,4,26,ORG,Q302884
+dev_de_12_sent41,München,0,7,LOC,Q1726
+dev_de_12_sent41,Bayerische Ostwacht,23,42,PROD,Q812256
+dev_de_12_sent41,bayerischen Kultusministers Schemm,68,102,PER,Q109771
+dev_de_12_sent41,Eggenfelden,105,116,LOC,Q255201
+dev_de_12_sent41,Schemm,182,188,PER,Q109771
+dev_de_12_sent41,bayerische Volkspartei,207,229,ORG,Q302884
+dev_de_12_sent41,Fürsten Wrede,690,703,PER,NIL
+dev_de_12_sent43,nationalsozialistischen Partei,235,265,ORG,Q7320
+dev_de_12_sent44,nationalsozialistischenPartei,161,190,ORG,Q7320
+dev_de_12_sent45,S.=S.,5,10,ORG,Q44687
+dev_de_12_sent46,Braunschweig,0,12,LOC,Q2773
+dev_de_12_sent46,S.=S.=Mann GerhartLandmann,31,57,PER,Q1241301
+dev_de_12_sent46,S.=S.=Hilfspolizei,120,138,ORG,Q819785
+dev_de_12_sent47,Landmann,4,12,PER,Q1241301
+dev_de_12_sent50,Berlin,0,6,LOC,Q64
+dev_de_12_sent51,Reichsbank,4,14,ORG,Q560183
+dev_de_12_sent51,Reichsregierung,114,129,ORG,Q159196
+dev_de_12_sent51,Finanzministerium,521,538,ORG,Q316584
+dev_de_12_sent55,Berlin,0,6,LOC,Q64
+dev_de_12_sent55,Reichsbank,113,123,ORG,Q560183
+dev_de_12_sent55,Reichsbank,181,191,ORG,Q560183
+dev_de_12_sent55,Reichsbank,343,353,ORG,Q560183
+dev_de_12_sent56,Reichsbank,100,110,ORG,Q560183
+dev_de_12_sent61,Berlin,0,6,LOC,Q64
+dev_de_12_sent61,Wolffsche Bureau,25,41,ORG,Q552226
+dev_de_12_sent61,Reichsluftfahrtministerium,75,101,ORG,Q698081
+dev_de_12_sent61,Bütow,246,251,LOC,Q326577
+dev_de_12_sent61,Pommern,255,262,LOC,Q54180
+dev_de_12_sent61,Ostsee,271,277,LOC,Q545
+dev_de_12_sent61,polnischen Regierung,538,558,ORG,NIL
+dev_de_12_sent62,deuschen Botschaft in London,27,55,ORG,Q835031
+dev_de_12_sent64,London,0,6,LOC,Q84
+dev_de_12_sent64,Deutschland,77,88,LOC,Q7318
+dev_de_12_sent64,deutschen Bot¬schaft,135,155,ORG,Q835031
+dev_de_12_sent67,Genf,0,4,LOC,Q71
+dev_de_12_sent68,Präsident de Michelis,224,245,PER,Q3770439
+dev_de_12_sent69,Sir EricDrummond,13,29,PER,Q335120
+dev_de_12_sent69,Avenol,34,40,PER,Q557043
+dev_de_12_sent71,Genf,0,4,LOC,Q71
+dev_de_12_sent71,Völkerbund,39,49,ORG,Q38130
+dev_de_12_sent71,Völker¬bund,103,114,ORG,Q38130
+dev_de_12_sent71,"Generalsekretär des Völkerbundes, Sir Eric Drum¬mond",168,220,PER,Q335120
+dev_de_12_sent71,Josef Avenol,249,261,PER,Q557043
+dev_de_12_sent71,Drummond,290,298,PER,Q335120
+dev_de_12_sent71,Völkerbund,398,408,ORG,Q38130
+dev_de_12_sent74,Washington,0,10,LOC,Q61
+dev_de_12_sent76,Vereinigten Staaten,20,39,LOC,Q30
+dev_de_12_sent77,Amerika,27,34,LOC,Q30
+dev_de_12_sent79,Washington,0,10,LOC,Q61
+dev_de_12_sent79,Senat,67,72,ORG,Q66096
+dev_de_12_sent79,PercyRockefeller,91,107,PER,Q2070228
+dev_de_12_sent79,Charles Mitchell,109,125,PER,Q5077146
+dev_de_12_sent79,Albert Wiggin,127,140,PER,Q4710386
+dev_de_12_sent79,James Paul Warburg,144,162,PER,Q3161474
+dev_de_12_sent79,"Kuhn, Loeb & Co.",271,287,ORG,Q1759732
+dev_de_12_sent83,Belgrad,0,7,LOC,Q3711
+dev_de_12_sent83,Sokol,72,77,ORG,Q954854
+dev_de_12_sent83,Laibach,95,102,LOC,Q437
+dev_de_12_sent83,Tschechoslowakei,214,230,LOC,Q140359
+dev_de_12_sent83,tschechoslowakische Regierung,274,303,ORG,Q178138
+dev_de_12_sent83,jugoslawische Regierung,393,416,ORG,NIL
+dev_de_12_sent83,Polen,623,628,LOC,Q207272
+dev_de_12_sent84,Wien,1,5,LOC,Q1741
+dev_de_12_sent84,Aegypten,86,94,LOC,Q124943
+dev_de_12_sent85,Oesterreich,86,97,LOC,Q518101
+dev_de_12_sent85,Dr. Kienböck,213,225,PER,Q114653
+dev_de_12_sent85,Bank von England,323,339,ORG,Q183231
+dev_de_12_sent85,Oesterreichischen Credit = Anstalt,362,396,ORG,Q694468
+dev_de_12_sent85,B. I. Z. in Basel,469,486,ORG,Q309195
+dev_de_12_sent90,Kurt Sonnenfeld: Maria Theresia,0,31,PER,Q131706
+dev_de_12_sent91,Bernard Szarlitt: Warschauer Theater,0,36,ORG,NIL
+dev_de_12_sent93,Berlin,0,6,LOC,Q64
+dev_de_12_sent95,M. M. D.,396,404,PER,NIL
+dev_de_12_sent95,London,416,422,LOC,Q84
+dev_de_12_sent97,London,0,6,LOC,Q84
+dev_de_12_sent97,Macdonald,125,134,PER,Q166646
+dev_de_12_sent97,Unter¬haus,255,265,ORG,Q11005
+dev_de_12_sent97,Macdonald,405,414,PER,Q166646
+dev_de_12_sent97,französische Finanzminister Bonnet,444,478,PER,Q1262453
+dev_de_12_sent97,holländische Ministerpräsident Colijn,486,523,PER,Q686476
+dev_de_12_sent97,London,547,553,LOC,Q84
+dev_de_12_sent101,Roosevelt,1,10,PER,Q8007
+dev_de_12_sent102,Roosevelt,25,34,PER,Q8007
+dev_de_12_sent102,Roosevelt,163,172,PER,Q8007
+dev_de_12_sent103,Dr. Buresch,14,25,PER,Q84511
+dev_de_12_sent103,Chamberlain,30,41,PER,Q10664
+dev_de_12_sent103,Rist,46,50,PER,Q2960124
+dev_de_12_sent104,London,0,6,LOC,Q84
+dev_de_12_sent104,Finanzminister Dr. Buresch,17,43,PER,Q84511
+dev_de_12_sent104,englischen Finanzminister Chamberlain,65,102,PER,Q10664
+dev_de_12_sent105,Chamberlain,0,11,PER,Q10664
+dev_de_12_sent105,Oesterreich,82,93,LOC,Q518101
+dev_de_12_sent105,Oesterreich,211,222,LOC,Q518101
+dev_de_12_sent106,Finanzminister Dr. Buresch,13,39,PER,Q84511
+dev_de_12_sent106,Professor Charles Rist,56,78,PER,Q2960124
+dev_de_12_sent106,Bizot vom französi¬schen Finanzministerium,87,129,ORG,Q1416512
+dev_de_12_sent107,Gesandter Franckenstein,12,35,PER,Q86858
+dev_de_12_sent107,MinisternDr. Buresch,90,110,PER,Q84511
+dev_de_12_sent107,Ingenieur Schumy Sir RobertKindersley,115,152,PER,Q7346352
+dev_de_12_sent107,Sir Otto Niemeyer,154,171,PER,Q169294
+dev_de_12_sent107,Sekretärim Departement für Ueberseehandel Colville,177,227,PER,Q1701622
+dev_de_12_sent107,Weley vom Schatzamt,232,251,PER,NIL
+dev_de_12_sent107,Bankier und Parla¬mentarier Greenfell,257,294,PER,NIL
+dev_de_12_sent107,Rost van Tonningen,301,319,PER,Q639329
+dev_de_12_sent107,M. Frère,323,331,PER,NIL
+dev_de_12_sent107,Sektionschef Dr. Schüller,333,358,PER,Q55740503
+dev_de_12_sent107,Ministerialrat Dr. Rizzi,362,386,PER,Q1582055
+dev_de_12_sent109,Italien,19,26,LOC,Q48742118
+dev_de_12_sent110,Bundesminister Ing. Schumy,0,26,PER,Q1632993
+dev_de_12_sent110,SektionschefDr. Schüller,31,55,PER,Q55740503
+dev_de_12_sent110,italien,73,80,LOC,Q48742118
+dev_de_12_sent111,amerikanischenMarine,15,35,ORG,Q11220
+dev_de_12_sent113,Washington,0,10,LOC,Q61
+dev_de_12_sent113,Marineminister Swanson,21,43,PER,Q658506
+dev_de_12_sent113,amerika,98,105,LOC,Q30
+dev_de_12_sent113,Marineder Vereinigten Staaten,140,169,ORG,Q940135
+dev_de_12_sent114,Wien,20,24,LOC,Q1741
+dev_de_12_sent114,Schwarze Front,56,70,ORG,Q3078734
+dev_de_12_sent115,Wien,3,7,LOC,Q1741
+dev_de_12_sent115,Deutschland,149,160,LOC,Q7318
+dev_de_12_sent115,Schwarzen Front,173,188,ORG,Q3078734
+dev_de_12_sent115,SchwarzeFront,308,321,ORG,Q3078734
+dev_de_12_sent115,Otto Strasser,492,505,PER,Q76640
+dev_de_12_sent115,Schwarze Front,528,542,ORG,Q3078734
+dev_de_12_sent115,Wien,568,572,LOC,Q1741
+dev_de_12_sent115,Schwarzer Sender,616,632,PROD,NIL
+dev_de_12_sent115,Karl Ecker,662,672,PER,NIL
+dev_de_12_sent115,Wien,702,706,LOC,Q1741
+dev_de_12_sent115,Otto Strassers,719,733,PER,Q76640
+dev_de_12_sent115,HauptmannStennes,759,775,PER,Q78030
+dev_de_12_sent115,Stegerwald,780,790,PER,Q63434
+dev_de_12_sent115,Wiener S. A.,1020,1032,ORG,Q150793
+dev_de_12_sent115,S. S.,1036,1041,ORG,Q44687
+dev_de_12_sent115,Schwarzen Front,1110,1125,ORG,Q3078734
+dev_de_12_sent115,Wien,1142,1146,LOC,NIL
+dev_de_12_sent115,Wien,1548,1552,LOC,Q1741
+dev_de_12_sent116,Unterrichts¬ministerium,98,121,ORG,Q606227
