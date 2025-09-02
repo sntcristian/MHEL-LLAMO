@@ -1,0 +1,463 @@
+doc_id,start_pos,end_pos,surface,gt_id,type,identifier,title,answer,score
+hidden_test_fr_1,898,910,café Mollard,NIL,LOC,Q2924015,brasserie Mollard,yes,23.21965217590332
+hidden_test_fr_2,1881,1896,Palais-Bour¬bon,Q936633,LOC,NIL,Palais-Bour¬bon,no,0
+hidden_test_fr_2,2019,2026,Conseil,Q2993836,ORG,Q2993836,Conseil des ministres,yes,12.945405960083008
+hidden_test_fr_2,2675,2680,Œuvre,Q1880717,PROD,NIL,Œuvre,no,0
+hidden_test_fr_2,2926,2935,Hen¬nezel,Q593153,LOC,Q593153,Hennezel,Yes.,28.875625610351562
+hidden_test_fr_2,2937,2959,"Henri Menier, bûcheron",NIL,PER,NIL,"Henri Menier, bûcheron",no,0
+hidden_test_fr_3,598,642,grande-duchesse Marie¬Adélaïde de Luxembourg,Q159075,PER,Q159075,"Grande-Duchesse Marie-Adélaïde I, Grande-Duchesse de Luxembourg",yes,26.607383728027344
+hidden_test_fr_3,761,771,Luxembourg,Q32,LOC,NIL,Luxembourg,no,0
+hidden_test_fr_3,1114,1121,Antonia,Q266142,PER,Q266142,Antonia de Luxembourg,"""yes""",25.771465301513672
+hidden_test_fr_3,1130,1155,prince Ruprecht deBavière,Q44893,PER,Q44893,Rupprecht de Bavière,yes,24.341625213623047
+hidden_test_fr_3,1963,1969,France,Q142,LOC,Q142,France,Yes,19.854450225830078
+hidden_test_fr_3,2019,2055,Compagnie de l'Estdes chemins de fer,NIL,ORG,NIL,Compagnie de l'Estdes chemins de fer,No,0
+hidden_test_fr_3,4112,4130,M. Jules Siegfried,Q3188910,PER,Q3188910,Jules Siegfried,yes,22.538745880126953
+hidden_test_fr_3,4385,4403,M. Jules Siegfried,Q3188910,PER,Q3188910,Jules Siegfried,yes,20.057945251464844
+hidden_test_fr_3,4570,4585,Alsace-Lorraine,Q155144,LOC,Q155144,Alsace-Lorraine,yes,15.63055419921875
+hidden_test_fr_4,334,339,Sofia,Q472,LOC,Q472,Sofia,yes,21.01020050048828
+hidden_test_fr_4,1079,1084,Sofia,Q472,LOC,NIL,Sofia,no,0
+hidden_test_fr_4,1284,1301,M. Lucien Baumann,NIL,PER,Q3265363,Lucien Baumann,yes,32.06652069091797
+hidden_test_fr_4,1551,1649,"M. Adolphe Salles, président duConseil d'administration de la Sociétédes Grands Moulins de Corbeil",NIL,PER,NIL,"M. Adolphe Salles, président duConseil d'administration de la Sociétédes Grands Moulins de Corbeil",no,0
+hidden_test_fr_4,2005,2022,M. Lucien Baumann,NIL,PER,NIL,M. Lucien Baumann,No.,0
+hidden_test_fr_4,2370,2376,France,Q142,LOC,NIL,France,no,0
+hidden_test_fr_4,2819,2825,Alsace,Q1142,LOC,Q1142,Alsace,yes,23.53596305847168
+hidden_test_fr_5,35,44,Jan¬nings,Q77181,PER,NIL,Jan¬nings,No,0
+hidden_test_fr_5,695,719,"STUDIO 28 10, r. Tholoze",Q3500949,LOC,NIL,"STUDIO 28 10, r. Tholoze",no,0
+hidden_test_fr_5,952,978,"21, rue Auber, PARIS (IXe)",NIL,LOC,Q204622,19e arrondissement de Paris,Yes.,12.326483726501465
+hidden_test_fr_5,1668,1673,Paris,Q90,LOC,Q3278478,Ville de Paris,yes,14.00527286529541
+hidden_test_fr_5,1833,1848,"Paris, 15e arr.",Q191066,LOC,NIL,"Paris, 15e arr.",no,0
+hidden_test_fr_5,3030,3081,"société Générale de Négocianone21, rue Auber, Paris",NIL,LOC,Q270363,Société générale,Yes,16.312427520751953
+hidden_test_fr_5,3645,3697,"Société Générale de Négociatione21, rue Auber, Paris",NIL,LOC,NIL,"Société Générale de Négociatione21, rue Auber, Paris",No.,0
+hidden_test_fr_5,3714,3727,Seine-et-Oise,Q979470,LOC,NIL,Seine-et-Oise,no,0
+hidden_test_fr_5,4427,4445,20e arrondissement,Q210720,LOC,NIL,20e arrondissement,No.,0
+hidden_test_fr_5,4543,4550,Fresnes,Q5503154,LOC,NIL,Fresnes,no,0
+hidden_test_fr_5,4630,4637,Fresnes,Q5503154,LOC,Q5503154,centre pénitentiaire de Fresnes,yes,23.86872673034668
+hidden_test_fr_6,234,246,M. Tarnowski,NIL,PER,NIL,M. Tarnowski,no,0
+hidden_test_fr_6,270,277,Pologne,Q36,LOC,NIL,Pologne,no,0
+hidden_test_fr_6,479,495,M. HenriMontfort,NIL,PER,Q3132336,Henri de Montfort,yes,23.806400299072266
+hidden_test_fr_6,1775,1817,Charles Girault l'architecte du PetiPalais,Q1064558,PER,Q1064558,Charles Girault,yes,27.58045768737793
+hidden_test_fr_6,1921,1928,Bibesco,NIL,PER,NIL,Bibesco,no,0
+hidden_test_fr_6,1939,1943,Lyon,Q456,LOC,NIL,Lyon,no,0
+hidden_test_fr_6,2763,2768,Paris,Q90,LOC,NIL,Paris,no,0
+hidden_test_fr_6,4604,4612,Picardie,Q13950,LOC,Q13950,Picardie,"""yes""",19.625507354736328
+hidden_test_fr_6,4616,4625,Normandie,Q18677875,LOC,Q1086855,camembert de Normandie,yes,15.051066398620605
+hidden_test_fr_6,4760,4768,Hollande,Q102911,LOC,Q102911,Hollande,Yes.,19.16243553161621
+hidden_test_fr_6,4998,5003,Havre,Q42810,LOC,Q42810,Le Havre,Yes,21.342662811279297
+hidden_test_fr_6,5483,5516,Imp de lO'ure » rue Lous-lecranit,NIL,LOC,NIL,Imp de lO'ure » rue Lous-lecranit,no,0
+hidden_test_fr_6,5921,5927,Tevere,Q3792980,PROD,Q3792980,Il Tevere,Yes.,14.628578186035156
+hidden_test_fr_7,77,88,Coulommiers,Q251731,LOC,NIL,Coulommiers,no,0
+hidden_test_fr_7,143,149,Rebais,Q840728,LOC,NIL,Rebais,no,0
+hidden_test_fr_8,383,397,RUEL (Artisan),NIL,PER,Q28925548,Xavier Ruel,yes,14.031875610351562
+hidden_test_fr_8,992,997,Paris,Q90,LOC,Q90,Paris,yes,14.736958503723145
+hidden_test_fr_9,2288,2296,Philippe,NIL,PER,NIL,Philippe,No,0
+hidden_test_fr_9,3855,3863,Philippe,NIL,PER,Q296555,Philippe d'Orléans,yes,11.270771026611328
+hidden_test_fr_10,4811,4836,"Henriette, 3, à la Fronde",NIL,LOC,NIL,"Henriette, 3, à la Fronde",no,0
+hidden_test_fr_10,5490,5501,Mme Bonneau,NIL,PER,NIL,Mme Bonneau,no,0
+hidden_test_fr_10,5783,5801,quartierMontmartre,Q186115,LOC,Q186115,Montmartre,Yes,18.950111389160156
+hidden_test_fr_10,6093,6112,"5, ruedes Ursulines",NIL,LOC,Q3452076,rue des Ursulines,Yes.,11.483750343322754
+hidden_test_fr_10,7270,7284,"64,rue Pigalle",NIL,LOC,Q576507,Pigalle,"""yes""",12.787622451782227
+hidden_test_fr_11,1439,1444,Paris,Q90,LOC,Q90,Paris,yes,18.467105865478516
+hidden_test_fr_11,1915,1931,butte Montmartre,Q186115,LOC,NIL,butte Montmartre,no,0
+hidden_test_fr_11,1965,1981,butte Montmartre,Q186115,LOC,Q186115,Montmartre,yes,24.108558654785156
+hidden_test_fr_11,2136,2155,cascade duTrocadéro,NIL,LOC,NIL,cascade duTrocadéro,No.,0
+hidden_test_fr_11,2819,2830,rue Lamarck,Q3448737,LOC,Q3448737,rue Lamarck,yes,31.34139633178711
+hidden_test_fr_11,3307,3319,rue La¬marck,Q3448737,LOC,Q3448737,rue Lamarck,Yes,30.82302474975586
+hidden_test_fr_11,3667,3715,"M.Formigé, architecte du service des prome¬nades",Q1685409,PER,NIL,"M.Formigé, architecte du service des prome¬nades",no,0
+hidden_test_fr_11,3904,3936,ancien parc des Princes àAuteuil,Q784536,LOC,NIL,ancien parc des Princes àAuteuil,no,0
+hidden_test_fr_11,8252,8259,Auteuil,Q784536,LOC,NIL,Auteuil,no,0
+hidden_test_fr_11,8457,8471,gare dele Lyon,Q747541,LOC,Q614049,Gare de Lyon,yes,21.384384155273438
+hidden_test_fr_12,367,377,Léopoldine,NIL,PER,Q3271923,Léopoldine Hugo,yes,14.480494499206543
+hidden_test_fr_12,522,558,"Marie, déjà si belle et si charmante",NIL,PER,NIL,"Marie, déjà si belle et si charmante",no,0
+hidden_test_fr_12,815,819,Dieu,Q190,PER,Q190,Dieu,"""yes""",18.79889678955078
+hidden_test_fr_12,995,1001,France,Q142,LOC,Q70972,royaume de France,yes,15.045022010803223
+hidden_test_fr_13,135,141,Jesson,NIL,PER,NIL,Jesson,No.,0
+hidden_test_fr_13,1727,1732,Mario,NIL,PER,NIL,Mario,"""no""",0
+hidden_test_fr_13,2308,2314,Pierri,NIL,PER,Q3386134,Pierre Marie Pietri,yes,9.865519523620605
+hidden_test_fr_13,2406,2427,"M. Albert, interprète",NIL,PER,NIL,"M. Albert, interprète",No,0
+hidden_test_fr_13,3273,3279,Pierri,NIL,PER,NIL,Pierri,No.,0
+hidden_test_fr_13,4101,4107,France,Q142,LOC,NIL,France,No,0
+hidden_test_fr_13,4286,4292,France,Q142,LOC,Q142,France,"""yes""",18.985984802246094
+hidden_test_fr_13,5881,5894,Châteaubriand,Q49767,PER,Q49767,François-René de Chateaubriand,yes,17.874807357788086
+hidden_test_fr_13,6181,6187,France,Q142,LOC,Q142,France,yes,21.059484481811523
+hidden_test_fr_13,7692,7711,héroïque carrosseux,NIL,PER,NIL,héroïque carrosseux,no,0
+hidden_test_fr_13,7909,7917,Lauriane,NIL,PER,Q19967618,Lauriane,"""yes""",13.815037727355957
+hidden_test_fr_14,1437,1465,conseilsupérieur du commerce,NIL,ORG,NIL,conseilsupérieur du commerce,no,0
+hidden_test_fr_14,2120,2127,Chambre,Q58910280,ORG,NIL,Chambre,No,0
+hidden_test_fr_14,4340,4350,M. Rou¬her,Q3060162,PER,Q3060162,Eugène Rouher,yes,26.819602966308594
+hidden_test_fr_14,8387,8396,M. ROUHER,Q3060162,PER,NIL,M. ROUHER,"""no""",0
+hidden_test_fr_14,9462,9467,Sénat,Q215987,ORG,NIL,Sénat,No.,0
+hidden_test_fr_14,10857,10877,S. EXC. M. SCHNEIDER,Q368966,PER,NIL,S. EXC. M. SCHNEIDER,no,0
+hidden_test_fr_14,11222,11235,M. JulesFavre,Q923619,PER,Q923619,Jules Favre,yes,25.86389923095703
+hidden_test_fr_14,15011,15043,prince Pierre-Napoléon Bonaparte,Q764398,PER,Q764398,Pierre-Napoléon Bonaparte,"""yes""",22.625131607055664
+hidden_test_fr_14,15050,15069,citoyen Victor Noir,Q714788,PER,Q714788,Victor Noir,yes,18.167448043823242
+hidden_test_fr_14,15397,15433,Notre collaborateur Paschal Grousset,Q1118848,PER,NIL,Notre collaborateur Paschal Grousset,no,0
+hidden_test_fr_14,15491,15521,pauvre et cher ami Victor Noir,Q714788,PER,Q714788,Victor Noir,yes,15.441048622131348
+hidden_test_fr_14,17385,17407,M. LE MARQUIS DE PIRÉ:,NIL,PER,NIL,M. LE MARQUIS DE PIRÉ:,no,0
+hidden_test_fr_14,17686,17706,M. le marquisde Piré,NIL,PER,NIL,M. le marquisde Piré,no,0
+hidden_test_fr_14,17992,18013,M. LE MARQUIS DE PIRÉ,NIL,PER,NIL,M. LE MARQUIS DE PIRÉ,No.,0
+hidden_test_fr_14,18803,18810,Tréport,Q473875,LOC,Q473875,Le Tréport,Yes.,19.79783821105957
+hidden_test_fr_14,18824,18833,Beau¬vais,Q174257,LOC,Q174257,Beauvais,yes,23.934539794921875
+hidden_test_fr_14,18918,18928,Le Tréport,Q473875,LOC,Q473875,Le Tréport,yes,16.480087280273438
+hidden_test_fr_14,19250,19254,Nord,Q659,LOC,Q12661,Nord,yes,15.505910873413086
+hidden_test_fr_14,19326,19334,Beauvais,Q174257,LOC,NIL,Beauvais,no,0
+hidden_test_fr_14,19369,19377,Pontoise,Q201352,LOC,NIL,Pontoise,No.,0
+hidden_test_fr_14,21486,21505,"104, rue Ri¬chelieu",NIL,ORG,Q2915495,rue de Richelieu,Yes.,23.46451187133789
+hidden_test_fr_14,21897,21928,MONITEUR DES TIRAGES FINANCIERS,NIL,ORG,Q3320615,Money Monitor,yes,17.206560134887695
+hidden_test_fr_14,22043,22064,"Palais-Royal, 70 à 73",NIL,LOC,Q329948,Palais-Royal,yes,19.87502670288086
+hidden_test_fr_15,666,680,"1l, rue d'Oran",NIL,LOC,Q3450533,rue d'Oran,yes,7.917357444763184
+hidden_test_fr_16,33,45,M. deWerther,NIL,PER,NIL,M. deWerther,no,0
+hidden_test_fr_16,361,371,deBismarck,Q8442,PER,Q8442,Otto von Bismarck,yes,19.29231071472168
+hidden_test_fr_16,3205,3224,Ecole polytechnique,Q273626,ORG,NIL,Ecole polytechnique,No,0
+hidden_test_fr_16,3230,3245,M. Emile Littré,Q286107,PER,NIL,M. Emile Littré,no,0
+hidden_test_fr_16,3617,3629,Georges Sand,Q3816,PER,NIL,Georges Sand,no,0
+hidden_test_fr_16,6667,6674,Déjazet,Q437167,PER,Q41528279,Eugène Déjazet,yes,17.33477020263672
+hidden_test_fr_16,7469,7483,M. LouisMoland,Q18115615,PER,NIL,M. LouisMoland,no,0
+hidden_test_fr_16,8096,8117,Marie-Joseph Ché¬nier,Q736424,PER,NIL,Marie-Joseph Ché¬nier,no,0
+hidden_test_fr_16,8146,8152,Monvel,Q1089209,PER,Q1089209,Monvel,Yes,30.41386604309082
+hidden_test_fr_16,8343,8351,Ducancel,Q38620548,PER,NIL,Ducancel,no,0
+hidden_test_fr_16,8399,8413,citoyenMaillot,NIL,PER,Q4182026,Thomas Jules Richard Maillot,"""yes""",14.76916217803955
+hidden_test_fr_16,8415,8430,M. Louis Moland,Q18115615,PER,NIL,M. Louis Moland,No.,0
+hidden_test_fr_17,186,193,Chambre,Q320283,ORG,Q320289,chambre des députés,yes,15.018095970153809
+hidden_test_fr_17,2922,2937,Banque de Paris,Q69404174,ORG,NIL,Banque de Paris,No.,0
+hidden_test_fr_17,3151,3165,Nord d'Fspa¬ne,NIL,LOC,NIL,Nord d'Fspa¬ne,no,0
+hidden_test_fr_17,3446,3456,M. Olivier,NIL,PER,NIL,M. Olivier,no,0
+hidden_test_fr_17,4174,4183,Guin¬gamp,Q193808,LOC,Q193808,Guingamp,yes,24.827259063720703
+hidden_test_fr_17,5775,5783,M. Ferry,Q959708,PER,Q959708,Jules Ferry,Yes.,24.298879623413086
+hidden_test_fr_17,6992,7002,M.Gambetta,Q295090,PER,Q295090,Léon Gambetta,yes,21.7120418548584
+hidden_test_fr_17,7082,7090,Officiel,Q1815103,PROD,Q1815103,Journal officiel de la République française,yes,11.051657676696777
+hidden_test_fr_17,7296,7304,Cham¬bre,Q320283,ORG,Q320289,chambre des députés,Yes,14.231799125671387
+hidden_test_fr_17,8186,8193,Chambre,Q320283,ORG,NIL,Chambre,No,0
+hidden_test_fr_17,10901,10918,Banque Parisienne,NIL,ORG,Q3365072,Paribas,Yes.,29.285259246826172
+hidden_test_fr_17,11072,11078,Figaro,Q216047,ORG,Q216047,Le Figaro,yes,23.423744201660156
+hidden_test_fr_17,11711,11730,Union républi¬caine,Q166079,ORG,Q166079,Groupe Union républicaine,yes,25.675186157226562
+hidden_test_fr_17,11806,11823,M. de Montali¬vet,Q240902,PER,Q240902,Camille de Montalivet,"""yes""",20.67856216430664
+hidden_test_fr_17,12084,12093,M. Tolain,Q637206,PER,NIL,M. Tolain,No,0
+hidden_test_fr_17,12262,12274,M. Cernuschi,Q323707,PER,Q323707,Henri Cernuschi,yes,28.468278884887695
+hidden_test_fr_17,12423,12441,Union républicaine,Q166079,ORG,Q166079,Groupe Union républicaine,yes,23.72832489013672
+hidden_test_fr_17,12833,12874,"comteFestetics, membre du Casino national",NIL,PER,NIL,"comteFestetics, membre du Casino national",no.,0
+hidden_test_fr_17,12963,12979,Casino na¬tional,NIL,LOC,NIL,Casino na¬tional,No.,0
+hidden_test_fr_18,19,60,"M. le général Lewal, ministre de laguerre",Q318984,PER,NIL,"M. le général Lewal, ministre de laguerre",no,0
+hidden_test_fr_18,1642,1648,Pierre,NIL,PER,NIL,Pierre,no,0
+hidden_test_fr_19,594,610,Nouvelle-Orléans,Q34404,LOC,NIL,Nouvelle-Orléans,no,0
+hidden_test_fr_19,620,628,New-York,Q60,LOC,NIL,New-York,"No. The entity mentioned in the text is ""New-York"", which does not match the candidate Wikidata entity ""New York"".",0
+hidden_test_fr_19,1319,1324,Texas,Q1439,LOC,Q1439,Texas,yes,23.38067054748535
+hidden_test_fr_19,1907,1916,MARSEILLE,Q23482,LOC,Q23482,Marseille,Yes,20.550100326538086
+hidden_test_fr_19,3482,3491,Australie,Q408,LOC,Q408,Australie,yes,11.890752792358398
+hidden_test_fr_19,3627,3632,Havre,Q42810,LOC,Q42810,Le Havre,yes,16.884902954101562
+hidden_test_fr_19,6737,6742,MATIN,Q3224404,PROD,Q3224404,Le Matin,Yes,14.352729797363281
+hidden_test_fr_19,7016,7021,MATIN,Q3224404,PROD,Q3224404,Le Matin,yes,12.385586738586426
+hidden_test_fr_20,781,786,Brême,Q24879,LOC,Q24879,Brême,yes,23.502044677734375
+hidden_test_fr_20,981,988,Londres,Q84,LOC,Q84,Londres,yes,20.574424743652344
+hidden_test_fr_20,1296,1308,Mincing-Lane,Q6863364,LOC,Q6863364,Mincing Lane,yes,16.252330780029297
+hidden_test_fr_20,2423,2433,Pernambuco,Q40942,LOC,NIL,Pernambuco,no,0
+hidden_test_fr_20,2452,2458,Vienne,Q1741,LOC,NIL,Vienne,no,0
+hidden_test_fr_20,2534,2544,Buda-Pesth,Q1781,LOC,Q1781,Budapest,yes,13.812895774841309
+hidden_test_fr_20,3636,3641,Paris,Q90,LOC,NIL,Paris,no,0
+hidden_test_fr_20,3790,3798,Gentilly,Q640102,LOC,NIL,Gentilly,no,0
+hidden_test_fr_20,4004,4010,Lenoir,NIL,PER,Q2831339,Albert Lenoir,yes,16.982532501220703
+hidden_test_fr_20,4953,4966,Cyprien Fabre,Q3008877,PER,Q3008877,Cyprien Fabre,"""yes""",26.190093994140625
+hidden_test_fr_20,6673,6683,Péterbourg,Q656,LOC,NIL,Péterbourg,no,0
+hidden_test_fr_20,6840,6849,Francfort,Q1794,LOC,Q1794,Francfort-sur-le-Main,yes,22.381263732910156
+hidden_test_fr_20,7622,7627,Paris,Q90,LOC,NIL,Paris,no,0
+hidden_test_fr_20,8547,8553,Anvers,Q12892,LOC,NIL,Anvers,no,0
+hidden_test_fr_20,8794,8801,Londres,Q84,LOC,Q84,Londres,Yes.,16.657920837402344
+hidden_test_fr_21,21,37,Pacific S. N. C.,NIL,ORG,NIL,Pacific S. N. C.,No.,0
+hidden_test_fr_21,49,58,Liverpool,Q24826,LOC,Q24826,Liverpool,Yes,23.8691463470459
+hidden_test_fr_21,192,197,Cette,Q191141,LOC,NIL,Cette,no,0
+hidden_test_fr_21,248,253,Tunis,Q3572,LOC,Q3572,Tunis,yes,24.004152297973633
+hidden_test_fr_21,313,322,Rochefort,Q207587,LOC,Q207587,Rochefort,Yes.,24.512676239013672
+hidden_test_fr_21,726,736,Sébastopol,Q7525,LOC,Q55599085,place Sébastopol,yes,13.586483001708984
+hidden_test_fr_21,834,849,Sainte-Chapelle,Q193193,LOC,Q193193,Sainte-Chapelle,yes,22.534025192260742
+hidden_test_fr_21,987,997,Sacré-Cœur,Q28785,LOC,Q28785,basilique du Sacré-Cœur de Montmartre,yes,11.784975051879883
+hidden_test_fr_21,1189,1216,Sainte-Clotilde (Basilique),Q1514062,LOC,NIL,Sainte-Clotilde (Basilique),no,0
+hidden_test_fr_21,2974,2982,Panthéon,Q188856,LOC,Q188856,Panthéon,yes,21.443063735961914
+hidden_test_fr_21,3465,3484,Tour Jean Sans Peur,Q3533101,LOC,NIL,Tour Jean Sans Peur,no,0
+hidden_test_fr_21,3486,3508,"rue Etionne-Marcel, 20",NIL,LOC,NIL,"rue Etionne-Marcel, 20",no,0
+hidden_test_fr_21,4106,4122,Institut Pasteur,Q391083,LOC,NIL,Institut Pasteur,no,0
+hidden_test_fr_21,5234,5262,Museum d'histoire na¬turelle,Q838691,LOC,Q838691,Muséum national d'histoire naturelle,yes,27.693832397460938
+hidden_test_fr_21,5620,5629,Trocadéro,Q3062726,LOC,NIL,Trocadéro,No,0
+hidden_test_fr_21,5686,5695,Cernuschi,Q1667022,LOC,Q1667022,musée Cernuschi,yes,19.571495056152344
+hidden_test_fr_21,6180,6202,Bibliothèque nationale,Q193563,LOC,NIL,Bibliothèque nationale,no,0
+hidden_test_fr_21,6628,6633,Opéra,Q2717848,LOC,Q283339,Opéra de Paris,yes,20.21523666381836
+hidden_test_fr_21,6710,6733,Place Denfert-Rochereau,Q2097879,LOC,NIL,Place Denfert-Rochereau,no,0
+hidden_test_fr_21,7426,7442,Hôtel des Ventes,NIL,LOC,NIL,Hôtel des Ventes,No.,0
+hidden_test_fr_21,7771,7786,M. Oppenhei¬mer,NIL,PER,Q57391616,Joseph Oppenheim,yes,15.16557502746582
+hidden_test_fr_21,8067,8084,Journal du Peuple,Q56314226,PROD,NIL,Journal du Peuple,no,0
+hidden_test_fr_21,8437,8450,"46, rue Didot",NIL,LOC,NIL,"46, rue Didot","""no""",0
+hidden_test_fr_21,9093,9105,COCA MARIANI,NIL,ORG,NIL,COCA MARIANI,no,0
+hidden_test_fr_21,9245,9249,Lyon,Q456,LOC,NIL,Lyon,no,0
+hidden_test_fr_21,9479,9485,Horace,NIL,PER,Q6197,Horace,"""yes""",22.644319534301758
+hidden_test_fr_21,9725,9732,Liliane,NIL,PER,NIL,Liliane,no,0
+hidden_test_fr_21,10054,10061,Liliane,NIL,PER,Q3257500,Lliane,yes,11.848862648010254
+hidden_test_fr_22,32,54,GrandsMagasins Dufayel,Q1543030,LOC,Q1543030,Grands Magasins Dufayel,yes,23.8587646484375
+hidden_test_fr_22,406,417,maison Zang,NIL,ORG,Q3574548,Zadig & Voltaire,yes,14.828739166259766
+hidden_test_fr_22,478,483,MATIN,Q3224404,PROD,Q3224404,Le Matin,Yes,14.122713088989258
+hidden_test_fr_22,1063,1071,Ganneron,NIL,PER,Q3448069,rue Ganneron,Yes,18.484607696533203
+hidden_test_fr_22,2892,2896,Riri,NIL,PER,NIL,Riri,No.,0
+hidden_test_fr_22,3151,3167,Rirette la Jolie,NIL,PER,NIL,Rirette la Jolie,No,0
+hidden_test_fr_22,5051,5068,passage Ganne¬ron,Q3367901,LOC,Q3367901,passage Ganneron,yes,13.789529800415039
+hidden_test_fr_22,6141,6155,docteur Robert,NIL,PER,NIL,docteur Robert,no,0
+hidden_test_fr_22,6197,6211,docteur Robert,NIL,PER,Q2410298,Robert Proust,yes,9.943696975708008
+hidden_test_fr_22,8244,8257,madame Thomas,NIL,PER,Q110621120,Georgette Thomas,"""yes""",15.108657836914062
+hidden_test_fr_22,8481,8497,mademoiselle Ri¬,NIL,PER,NIL,mademoiselle Ri¬,no,0
+hidden_test_fr_22,9081,9088,Rirette,NIL,PER,NIL,Rirette,no,0
+hidden_test_fr_23,401,412,Don Antonio,Q2303777,PER,Q550766,Antoine d'Orléans,Yes,16.24164390563965
+hidden_test_fr_23,1697,1704,P'ascal,NIL,PER,NIL,P'ascal,no,0
+hidden_test_fr_23,1791,1808,M. Jacques Sadoul,Q3159955,PER,Q3159955,Jacques Sadoul,yes,29.77036476135254
+hidden_test_fr_23,2493,2503,M. Sa¬doul,Q3159955,PER,Q3159955,Jacques Sadoul,yes,28.186878204345703
+hidden_test_fr_23,3818,3834,capitaine Sadoul,Q3159955,PER,Q3159955,Jacques Sadoul,"""yes""",22.542621612548828
+hidden_test_fr_23,3879,3893,M. deScavenius,Q731504,PER,Q7109800,Otto Christian Scavenius,yes,15.422346115112305
+hidden_test_fr_23,4299,4315,capitaine Sadoul,Q3159955,PER,NIL,capitaine Sadoul,no,0
+hidden_test_fr_23,4370,4385,capitaineSadoul,Q3159955,PER,Q3159955,Jacques Sadoul,yes,19.87744903564453
+hidden_test_fr_23,6463,6479,lieutenantPascal,Q2267959,PER,NIL,lieutenantPascal,no,0
+hidden_test_fr_23,6675,6681,Russie,Q159,LOC,NIL,Russie,no,0
+hidden_test_fr_23,7469,7485,lieutenantPascal,Q2267959,PER,NIL,lieutenantPascal,no,0
+hidden_test_fr_23,7859,7876,lord Robert Cecil,Q12702,PER,Q12702,Robert Cecil,yes,19.213096618652344
+hidden_test_fr_23,8499,8510,lord Robert,Q12702,PER,Q12702,Robert Cecil,yes,12.71882152557373
+hidden_test_fr_23,8905,8922,Ligue des nations,Q38130,ORG,Q38130,Société des Nations,"""yes""",23.636796951293945
+hidden_test_fr_23,10349,10358,Allemagne,Q183,LOC,Q183,Allemagne,yes,16.30691146850586
+hidden_test_fr_23,11646,11656,Etats-Unis,Q30,LOC,Q11696,président des États-Unis,yes,13.386650085449219
+hidden_test_fr_23,12218,12232,M. Cle¬menceau,Q171730,PER,NIL,M. Cle¬menceau,no,0
+hidden_test_fr_23,12304,12321,M. Léon Bourgeois,Q217706,PER,NIL,M. Léon Bourgeois,no,0
+hidden_test_fr_24,49,56,Chambre,Q320283,ORG,Q320283,Chambre des députés,yes,10.052689552307129
+hidden_test_fr_24,446,454,M. Magne,Q3060009,PER,Q2959726,Charles Magne,yes,17.925813674926758
+hidden_test_fr_24,1585,1592,Maurras,Q3048,PER,Q3048,Charles Maurras,"""yes""",21.46834373474121
+hidden_test_fr_24,1652,1667,M. de Lasteyrie,Q2960618,PER,NIL,M. de Lasteyrie,no,0
+hidden_test_fr_24,3767,3784,LA MAISON DE GROS,NIL,ORG,NIL,LA MAISON DE GROS,no,0
+hidden_test_fr_24,3992,4016,"23, Boul. MAGENTA, PARIS",NIL,LOC,Q3449005,rue Magenta,"""yes""",15.321454048156738
+hidden_test_fr_24,4502,4526,15 de la rue des Changes,NIL,LOC,NIL,15 de la rue des Changes,no,0
+hidden_test_fr_24,4653,4658,SEINE,Q1471,LOC,Q1471,Seine,yes,18.916133880615234
+hidden_test_fr_24,4731,4737,FRANCE,Q142,LOC,NIL,FRANCE,no,0
+hidden_test_fr_24,5024,5063,"10, boulevard Poissonnière, Paris (IXe)",NIL,LOC,NIL,"10, boulevard Poissonnière, Paris (IXe)",no,0
+hidden_test_fr_24,6834,6839,Paris,Q90,LOC,Q90,Paris,yes,21.00414276123047
+hidden_test_fr_24,10956,10959,Rex,NIL,PER,Q1809902,Le Grand Rex,yes,11.911821365356445
+hidden_test_fr_24,13066,13077,Diane Morfi,NIL,PER,NIL,Diane Morfi,no,0
+hidden_test_fr_24,13092,13095,Rex,NIL,PER,NIL,Rex,no,0
+hidden_test_fr_24,14067,14078,Rex Mal¬tar,NIL,PER,NIL,Rex Mal¬tar,no,0
+hidden_test_fr_25,254,269,Atchison Topeka,NIL,ORG,Q753942,"Atchison, Topeka and Santa Fe Railway",Yes,13.321538925170898
+hidden_test_fr_25,306,322,Canadian Pacific,NIL,ORG,NIL,Canadian Pacific,no,0
+hidden_test_fr_25,333,358,Chesapeake et Ohio Common,NIL,ORG,Q1070560,Chesapeake and Ohio Railway,yes,19.750106811523438
+hidden_test_fr_25,428,441,Erie Railroad,Q1353770,ORG,NIL,Erie Railroad,no,0
+hidden_test_fr_25,607,614,Reading,NIL,ORG,NIL,Reading,no,0
+hidden_test_fr_25,625,641,Southern Railway,Q741266,ORG,Q663120,Southern Railway,yes,22.295156478881836
+hidden_test_fr_25,677,690,Union Pacific,Q725793,ORG,Q725793,Union Pacific Railroad,yes,21.068923950195312
+hidden_test_fr_25,741,751,UtahCopper,NIL,ORG,Q6389562,Kennecott Utah Copper,yes,17.0358829498291
+hidden_test_fr_25,892,914,Int. Mrc Marine Common,NIL,ORG,NIL,Int. Mrc Marine Common,no,0
+hidden_test_fr_25,1149,1154,PARIS,NIL,LOC,Q178513,Bourse de Paris,yes,17.10694694519043
+hidden_test_fr_25,1839,1859,Tréfileries du Havre,Q3541280,ORG,NIL,Tréfileries du Havre,"""no""",0
+hidden_test_fr_25,1900,1910,SilvaPlana,NIL,ORG,Q65254,Silvaplana,yes,14.506921768188477
+hidden_test_fr_25,8841,8848,Citroën,Q6746,ORG,NIL,Citroën,no,0
+hidden_test_fr_25,10062,10067,Maroc,Q1028,LOC,Q1028,Maroc,yes,16.154394149780273
+hidden_test_fr_25,10767,10781,Egypte unifiée,NIL,LOC,NIL,Egypte unifiée,no,0
+hidden_test_fr_25,11261,11285,Belge chemins fer réunis,NIL,ORG,NIL,Belge chemins fer réunis,No,0
+hidden_test_fr_25,11400,11424,Crédit Foncier d'Algérie,Q86675373,ORG,NIL,Crédit Foncier d'Algérie,no,0
+hidden_test_fr_25,11639,11662,Crédit Foncier Colonial,Q3006210,ORG,Q3006210,Crédit foncier colonial,"""yes""",19.52303695678711
+hidden_test_fr_25,11853,11867,Ouest Aigérien,NIL,ORG,Q2989876,Compagnie de l'Ouest algérien,yes,13.833984375
+hidden_test_fr_25,12275,12283,Ardcntne,Q414,LOC,Q151985,Ardenne,yes,5.489768981933594
+hidden_test_fr_26,578,585,Piennes,Q586443,LOC,Q586443,Piennes,yes,29.982404708862305
+hidden_test_fr_26,1159,1175,Légion d'honneur,Q163700,ORG,Q163700,ordre national de la Légion d'honneur,yes,28.456676483154297
+hidden_test_fr_26,2981,2997,"31, rue d'Alésia",NIL,LOC,NIL,"31, rue d'Alésia",no,0
+hidden_test_fr_26,3461,3473,Louis Legras,NIL,PER,NIL,Louis Legras,No,0
+hidden_test_fr_27,1117,1134,Banique de Francs,Q806950,ORG,Q806950,Banque de France,"""yes""",11.470453262329102
+hidden_test_fr_27,2896,2903,Orléans,Q6548,LOC,Q6548,Orléans,yes,15.805604934692383
+hidden_test_fr_27,3648,3663,Thomson-Houston,NIL,ORG,Q920249,British Thomson-Houston,yes,16.75035858154297
+hidden_test_fr_27,4399,4407,Belgique,Q31,LOC,NIL,Belgique,no,0
+hidden_test_fr_28,479,484,Marie,NIL,PER,Q3292684,Marie Martin,"""yes""",8.540678977966309
+hidden_test_fr_28,581,594,Maryse Martin,NIL,PER,Q3296341,Maryse Martin,yes,20.327922821044922
+hidden_test_fr_28,1302,1307,Paris,Q90,LOC,NIL,Paris,no,0
+hidden_test_fr_28,1367,1380,rue La Boétie,NIL,LOC,NIL,rue La Boétie,no,0
+hidden_test_fr_28,1524,1542,banque d’Amsterdam,Q478744,ORG,Q478744,banque d'Amsterdam,Yes,18.306486129760742
+hidden_test_fr_28,2657,2666,Vincennes,Q193819,LOC,NIL,Vincennes,"""no""",0
+hidden_test_fr_28,3030,3071,"Annik, 25 ans, originaire de Plou¬neouzet",NIL,PER,NIL,"Annik, 25 ans, originaire de Plou¬neouzet",no,0
+hidden_test_fr_28,3267,3281,rue de Ri¬voli,NIL,LOC,NIL,rue de Ri¬voli,No,0
+hidden_test_fr_28,4666,4689,capitaineLouis Bernicot,Q3261236,PER,Q3261236,Louis Bernicot,yes,19.149429321289062
+hidden_test_fr_29,142,149,Laponie,Q5700,LOC,Q62132,Laponie,yes,21.00653648376465
+hidden_test_fr_29,179,186,Laponie,Q5700,LOC,Q62132,Laponie,Yes,17.196012496948242
+hidden_test_fr_29,2963,2974,Marc Augier,Q871235,PER,Q706078,Marc Augé,yes,24.706531524658203
+hidden_test_fr_29,5053,5060,Afrique,Q15,LOC,NIL,Afrique,no,0
+hidden_test_fr_29,5111,5117,Vosges,Q3105,LOC,Q3105,Vosges,Yes,27.233558654785156
+hidden_test_fr_29,5599,5605,Jérôme,NIL,PER,NIL,Jérôme,No.,0
+hidden_test_fr_29,5740,5777,M. Françoisjéromernestetjean Tha¬raud,NIL,PER,NIL,M. Françoisjéromernestetjean Tha¬raud,"""no""",0
+hidden_test_fr_29,6292,6297,Paris,Q90,LOC,NIL,Paris,no,0
+hidden_test_fr_30,260,278,C.S. Marine-Toulon,NIL,ORG,Q1857064,Rugby club toulonnais,yes,24.758167266845703
+hidden_test_fr_30,588,596,R.S. Oly,NIL,ORG,NIL,R.S. Oly,No.,0
+hidden_test_fr_30,1117,1121,S.G.,NIL,ORG,Q3464282,Sainte-Geneviève Football Club,yes,10.48105239868164
+hidden_test_fr_30,1126,1143,Stade Clermontois,Q3495939,ORG,Q461934,Stade clermontois Basket Auvergne,"""yes""",28.956960678100586
+hidden_test_fr_30,1760,1792,commissionathlétique de New-York,NIL,ORG,Q60,New York,yes,17.91993522644043
+hidden_test_fr_30,2067,2083,François ESTRADE,NIL,PER,NIL,François ESTRADE,No,0
+hidden_test_fr_30,2205,2210,Paris,Q90,LOC,NIL,Paris,no,0
+hidden_test_fr_30,2482,2487,Gidel,NIL,PER,NIL,Gidel,no,0
+hidden_test_fr_30,2540,2553,Marcel Cerdan,Q347201,PER,Q347201,Marcel Cerdan,Yes,35.227848052978516
+hidden_test_fr_30,2649,2658,Chatillon,NIL,PER,NIL,Chatillon,no,0
+hidden_test_fr_30,3243,3248,Morin,NIL,PER,NIL,Morin,no,0
+hidden_test_fr_30,3548,3563,C.O.Billancourt,NIL,ORG,Q2980230,Club olympique de Billancourt,yes,15.549129486083984
+hidden_test_fr_30,4466,4476,Jean - Zay,NIL,PER,NIL,Jean - Zay,No.,0
+hidden_test_fr_30,4656,4663,Cerutti,NIL,PER,NIL,Cerutti,no,0
+hidden_test_fr_30,4751,4759,Hansenne,NIL,PER,NIL,Hansenne,no,0
+hidden_test_fr_30,4842,4848,Khaled,NIL,PER,Q208301,Khaled ben Abdelaziz al-Saoud,yes.,7.501114368438721
+hidden_test_fr_30,5211,5217,France,Q142,LOC,NIL,France,No.,0
+hidden_test_fr_30,5491,5501,Radio-Cité,Q3416608,LOC,Q3416608,Radio Cité,yes,25.89374542236328
+hidden_test_fr_30,5638,5652,Radio-Toulouse,Q3416877,LOC,Q3416877,Radio Toulouse,"""yes""",26.435348510742188
+hidden_test_fr_30,5785,5808,Conservatoire de Troyee,NIL,ORG,Q5489,Troyes,yes,21.016109466552734
+hidden_test_fr_30,5848,5854,d'Indy,Q313584,PER,Q313584,Vincent d’Indy,yes,15.249049186706543
+hidden_test_fr_30,5941,5952,Radio-Paris,Q1944285,LOC,Q1944285,Radio-Paris,yes,25.58622169494629
+hidden_test_fr_30,5973,5981,Grenoble,NIL,LOC,NIL,Grenoble,no,0
+hidden_test_fr_30,5993,5998,Hawaï,Q68740,LOC,NIL,Hawaï,"""no""",0
+hidden_test_fr_30,6468,6487,Toulouse-Pyré--nées,Q3532898,LOC,Q3532898,Toulouse-Pyrénées,Yes,16.466304779052734
+hidden_test_fr_30,6661,6676,Bordeaux--S.-O.,NIL,LOC,NIL,Bordeaux--S.-O.,No,0
+hidden_test_fr_30,6739,6757,Bruxelles Français,NIL,LOC,NIL,Bruxelles Français,no,0
+hidden_test_fr_30,6804,6811,Radio37,Q3416541,LOC,NIL,Radio37,no,0
+hidden_test_fr_30,6839,6854,Mlle A.Toulouse,NIL,LOC,NIL,Mlle A.Toulouse,No.,0
+hidden_test_fr_30,6980,6993,lle-de-Francé,NIL,LOC,Q13917,Île-de-France,"""yes""",7.694045066833496
+hidden_test_fr_30,6994,7026,"Alex Marodon, des Folies-Bergère",NIL,PER,Q2833861,Alexandre Masseron,"""yes""",17.180086135864258
+hidden_test_fr_30,7134,7147,Bordeaux-S.O.,NIL,LOC,Q1479,Bordeaux,"""yes""",13.602982521057129
+hidden_test_fr_30,7376,7387,Radio-Paris,Q1944285,LOC,Q1944285,Radio-Paris,yes,26.78204345703125
+hidden_test_fr_30,7579,7594,Radic«-Toulouse,NIL,LOC,Q3416877,Radio Toulouse,yes,13.365875244140625
+hidden_test_fr_30,7660,7668,Radio-37,Q3416541,LOC,Q1944285,Radio-Paris,yes,16.60733985900879
+hidden_test_fr_30,7823,7837,Poste Parisien,Q3225826,LOC,NIL,Poste Parisien,no,0
+hidden_test_fr_30,7931,7935,Agen,NIL,LOC,Q6625,Agen,yes,24.24576187133789
+hidden_test_fr_30,7949,7960,Fred Adison,Q3086775,PER,NIL,Fred Adison,no,0
+hidden_test_fr_30,8113,8127,AlfredBachelet,Q1575391,PER,NIL,AlfredBachelet,no.,0
+hidden_test_fr_30,8130,8134,Agen,NIL,LOC,Q6625,Agen,"""yes""",23.268096923828125
+hidden_test_fr_30,8373,8381,Radio 37,Q3416541,LOC,Q3416541,Radio 37,Yes,26.59583854675293
+hidden_test_fr_30,8486,8503,Loterie nationale,Q3259979,ORG,NIL,Loterie nationale,no,0
+hidden_test_fr_30,8511,8521,TourEiffel,Q3416879,LOC,NIL,TourEiffel,no,0
+hidden_test_fr_30,8626,8637,J.-J. Vital,Q3166440,PER,Q3166440,Jean-Jacques Vital,"""yes""",28.931489944458008
+hidden_test_fr_30,8779,8789,FredAdisor,Q3086775,PER,NIL,FredAdisor,no,0
+hidden_test_fr_30,8983,8993,Radio-Cité,Q3416608,LOC,Q3416608,Radio Cité,"""yes""",26.95754623413086
+hidden_test_fr_30,9031,9041,Radio-Cité,Q3416608,LOC,Q3416608,Radio Cité,yes,26.519668579101562
+hidden_test_fr_30,9084,9095,Tour Eiffel,Q3416879,LOC,Q243,tour Eiffel,yes,25.556129455566406
+hidden_test_fr_30,9172,9184,Radio--Paris,Q1944285,LOC,NIL,Radio--Paris,no,0
+hidden_test_fr_30,9269,9278,Marseille,NIL,LOC,Q23482,Marseille,yes,20.951799392700195
+hidden_test_fr_30,9352,9366,Poste Parisien,Q3225826,LOC,NIL,Poste Parisien,No,0
+hidden_test_fr_30,9452,9459,Limoges,NIL,LOC,NIL,Limoges,No,0
+hidden_test_fr_30,9523,9536,M. Etcheverry,NIL,PER,Q3090354,Michel Etcheverry,Yes,21.669727325439453
+hidden_test_fr_30,9714,9727,lle-de-Franoe,NIL,LOC,NIL,lle-de-Franoe,no,0
+hidden_test_fr_30,9844,9857,Ile-de-France,NIL,LOC,Q13917,Île-de-France,Yes,20.07661247253418
+hidden_test_fr_30,9993,10010,M. Charles Trenet,Q212549,PER,NIL,M. Charles Trenet,No.,0
+hidden_test_fr_30,10688,10709,Mlle Leila Ben Sédira,Q42529510,PER,NIL,Mlle Leila Ben Sédira,no,0
+hidden_test_fr_30,10998,11009,Tour Eiffel,Q3416879,LOC,Q243,tour Eiffel,yes,24.621437072753906
+hidden_test_fr_30,11196,11207,Tour Eiffel,Q3416879,LOC,Q243,tour Eiffel,yes,21.767986297607422
+hidden_test_fr_30,11254,11266,Paris-P.T.T.,Q3416785,LOC,NIL,Paris-P.T.T.,"""No.""",0
+hidden_test_fr_30,11396,11406,Luxembourg,NIL,LOC,Q32,Luxembourg,yes,15.420626640319824
+hidden_test_fr_30,11443,11457,Poste Parisien,Q3225826,LOC,Q3225826,Le Poste Parisien,yes,23.086727142333984
+hidden_test_fr_30,11492,11510,maître Georges Hue,Q358965,PER,Q358965,Georges Hüe,Yes.,20.703487396240234
+hidden_test_fr_30,11616,11627,MM. Sarraut,NIL,PER,Q460318,Albert Sarraut,yes,17.99162483215332
+hidden_test_fr_30,11748,11758,Radie-Cité,Q3416608,LOC,Q3416608,Radio Cité,yes,23.552459716796875
+hidden_test_fr_30,11839,11850,Radio-Paris,Q1944285,LOC,Q1944285,Radio-Paris,yes,27.718778610229492
+hidden_test_fr_30,12129,12137,Grenoble,NIL,LOC,NIL,Grenoble,no,0
+hidden_test_fr_30,12221,12238,Pierre Des--caves,Q3384720,PER,Q3384720,Pierre Descaves,yes,25.050312042236328
+hidden_test_fr_30,12250,12267,Toulouse-Pyrénées,Q3532898,LOC,NIL,Toulouse-Pyrénées,no,0
+hidden_test_fr_30,12557,12575,M. Mau--rice Yvain,Q1911484,PER,Q1911484,Maurice Yvain,yes,27.03032875061035
+hidden_test_fr_30,12684,12694,Radio-Cité,Q3416608,LOC,Q3416608,Radio Cité,Yes,25.6110782623291
+hidden_test_fr_30,12731,12745,Radio-Toulouse,Q3416877,LOC,Q3416877,Radio Toulouse,yes,27.978862762451172
+hidden_test_fr_30,12928,12940,Radio--Paris,Q1944285,LOC,Q1944285,Radio-Paris,yes,27.113271713256836
+hidden_test_fr_30,12982,12992,Strasbourg,NIL,LOC,Q6602,Strasbourg,"""yes""",25.111328125
+hidden_test_fr_30,13087,13098,Lyon-P.T.T.,NIL,LOC,Q3416785,Radio PTT,yes,13.401167869567871
+hidden_test_fr_30,13202,13208,Angers,Q38380,LOC,Q38380,Angers,yes,20.183149337768555
+hidden_test_fr_30,13367,13372,Grieg,Q80621,PER,Q80621,Edvard Grieg,yes,19.12486457824707
+hidden_test_fr_30,13521,13539,Jac--ques Bridaris,NIL,PER,Q3158401,Jacques Briard,yes,16.28414535522461
+hidden_test_fr_30,13661,13671,Radio-Cité,Q3416608,LOC,NIL,Radio-Cité,no,0
+hidden_test_fr_30,13730,13741,Tour Eiffel,Q3416879,LOC,Q243,tour Eiffel,Yes,22.461997985839844
+hidden_test_fr_30,14017,14031,jeune Courtois,NIL,PER,Q3158592,Jacques Courtois,yes,13.5154447555542
+hidden_test_fr_30,14263,14269,Gavaut,NIL,PER,Q3371293,Paul Gavault,yes,19.83707618713379
+hidden_test_fr_30,14340,14350,Réda Caire,Q922973,PER,NIL,Réda Caire,no,0
+hidden_test_fr_30,14381,14391,Radio-Cité,Q3416608,LOC,NIL,Radio-Cité,no,0
+hidden_test_fr_30,15049,15055,Moscou,Q649,LOC,Q649,Moscou,Yes,34.11073303222656
+hidden_test_fr_30,15231,15242,Ko uibychev,NIL,ORG,Q2621070,usine Kirov,yes,20.275217056274414
+hidden_test_fr_30,15299,15310,Place Rouge,Q41116,LOC,Q41116,place Rouge,yes,37.050193786621094
+hidden_test_fr_30,15571,15581,Guyancourt,Q237303,LOC,Q237303,Guyancourt,"""yes""",35.15488052368164
+hidden_test_fr_30,16095,16108,ligne Maginot,Q162746,LOC,NIL,ligne Maginot,no,0
+hidden_test_fr_30,17262,17326,"M. Bichel, instituteur depuis 28 ans, et secrétaire de la mairie",NIL,PER,NIL,"M. Bichel, instituteur depuis 28 ans, et secrétaire de la mairie",No.,0
+hidden_test_fr_30,17341,17371,"M. Caye, facteur depuis 28 ans",NIL,PER,NIL,"M. Caye, facteur depuis 28 ans",no,0
+hidden_test_fr_31,865,875,Etats-Unis,Q30,LOC,NIL,Etats-Unis,No,0
+hidden_test_fr_31,1123,1140,Neuilly-sur-Seine,Q48958,LOC,Q48958,Neuilly-sur-Seine,Yes,35.252784729003906
+hidden_test_fr_31,1299,1308,Compiègne,NIL,LOC,Q180871,Compiègne,yes,28.98358154296875
+hidden_test_fr_31,1353,1359,Nantes,Q12191,LOC,Q12191,Nantes,yes,26.84172821044922
+hidden_test_fr_31,1525,1534,PACIFIQUE,Q98,LOC,Q184425,guerre du Pacifique,"""yes""",13.401824951171875
+hidden_test_fr_31,2116,2127,Chichi-Jima,NIL,LOC,NIL,Chichi-Jima,No,0
+hidden_test_fr_31,3481,3511,"Saillant, pré¬sident du C.N.R.",Q822191,PER,NIL,"Saillant, pré¬sident du C.N.R.",no,0
+hidden_test_fr_31,3813,3830,"37, rue du Louvre",NIL,LOC,NIL,"37, rue du Louvre",no,0
+hidden_test_fr_31,4681,4688,Zwobada,Q2848825,PER,Q2848825,André Zwobada,yes,12.659250259399414
+hidden_test_fr_31,4824,4829,PARIS,Q90,LOC,Q90,Paris,yes,18.761903762817383
+hidden_test_fr_31,4907,4920,Radio-Kossuth,Q502613,ORG,NIL,Radio-Kossuth,no,0
+hidden_test_fr_31,5491,5503,Fred Astaire,Q100937,PER,NIL,Fred Astaire,No.,0
+hidden_test_fr_31,5570,5592,FranceLibre actualités,Q3230380,ORG,Q152582,France libre,yes,18.338619232177734
+hidden_test_fr_31,5597,5604,Zwobada,Q2848825,PER,Q2049361,Jacques Zwobada,Yes.,19.469100952148438
+hidden_test_fr_31,5831,5846,François Villon,Q849,PER,Q849,François Villon,"""yes""",26.809621810913086
+hidden_test_fr_31,5854,5863,Mac Orlan,Q546952,PER,NIL,Mac Orlan,no,0
+hidden_test_fr_31,6405,6410,Paris,Q90,LOC,Q90,Paris,Yes,22.912378311157227
+hidden_test_fr_31,6508,6526,Georges Clemenceau,Q171730,PER,NIL,Georges Clemenceau,no,0
+hidden_test_fr_31,7289,7296,Zwobada,Q2848825,PER,NIL,Zwobada,no,0
+hidden_test_fr_31,8205,8223,Toulouse Olympique,Q3532920,ORG,NIL,Toulouse Olympique,"""no""",0
+hidden_test_fr_31,9213,9221,Lézignan,NIL,ORG,NIL,Lézignan,no,0
+hidden_test_fr_31,9318,9324,Roanne,NIL,ORG,NIL,Roanne,no,0
+hidden_test_fr_31,10033,10048,F.F.I. hongrois,NIL,ORG,Q186595,Forces françaises de l'intérieur,Yes,16.745573043823242
+hidden_test_fr_31,10060,10069,de Gaulle,Q2042,PER,NIL,de Gaulle,no,0
+hidden_test_fr_31,10072,10082,Notre-Dame,Q3413095,LOC,NIL,Notre-Dame,no,0
+hidden_test_fr_31,10262,10270,Max Douy,Q1794886,PER,Q1794886,Max Douy,yes,35.078346252441406
+hidden_test_fr_31,10798,10805,Londres,Q84,LOC,NIL,Londres,no,0
+hidden_test_fr_31,12415,12420,Paris,Q90,LOC,Q90,Paris,yes,23.773544311523438
+hidden_test_fr_31,12577,12597,XVIIIearrondissement,Q200126,LOC,Q200126,18e arrondissement de Paris,yes,29.370189666748047
+hidden_test_fr_31,13065,13073,Deschamp,NIL,PER,NIL,Deschamp,no,0
+hidden_test_fr_31,14099,14104,Paris,Q90,LOC,NIL,Paris,no,0
+hidden_test_fr_31,14725,14733,J. L. J.,NIL,PER,NIL,J. L. J.,"""no""",0
+hidden_test_fr_31,14990,15036,"Marcel Marrec, gaillard rougissantde vingt ans",NIL,PER,Q157191,Marcel Marceau,yes,16.293020248413086
+hidden_test_fr_31,15076,15089,Marcel Marrec,NIL,PER,NIL,Marcel Marrec,no,0
+hidden_test_fr_31,15571,15582,Armée rouge,Q251395,ORG,Q251395,Armée rouge,yes,24.035951614379883
+hidden_test_fr_31,15634,15686,"Julien Bertheau, so¬ciétaire de la Comédie-Française",Q1122249,PER,Q1122249,Julien Bertheau,"""yes""",28.970762252807617
+hidden_test_fr_31,15897,15910,GRAND-GUIGNOL,Q751317,LOC,Q751317,Grand Guignol,"""yes""",18.231555938720703
+hidden_test_fr_31,16608,16623,VIEUX-COLOMBIER,Q2711343,LOC,NIL,VIEUX-COLOMBIER,no,0
+hidden_test_fr_31,17478,17506,jeune pou¬lain Emile Carrara,NIL,PER,Q274984,Émile Carrara,Yes.,16.26055145263672
+hidden_test_fr_31,17587,17603,RésistanceCIGALE,Q3207410,LOC,Q157146,résistance intérieure française,Yes,12.578252792358398
+hidden_test_fr_31,18638,18643,Bihel,NIL,PER,Q432514,René Bihel,"""yes""",18.200252532958984
+hidden_test_fr_31,18645,18650,Vaast,Q729132,PER,Q729132,Ernest Vaast,yes,17.69221305847168
+hidden_test_fr_31,18744,18748,Milo,NIL,PER,Q186264,Darius Milhaud,yes,10.718254089355469
+hidden_test_fr_31,19215,19229,Janine Charrat,Q1682763,PER,NIL,Janine Charrat,no,0
+hidden_test_fr_31,19800,19806,Girard,NIL,PER,Q21427338,Raymond Girard,yes,14.545145988464355
+hidden_test_fr_31,20098,20110,Cherche-Midi,Q2719058,LOC,Q2719058,prison du Cherche-Midi,"""yes""",10.440497398376465
+hidden_test_fr_31,20152,20167,M. Danlie Margo,NIL,PER,NIL,M. Danlie Margo,"""no""",0
+hidden_test_fr_31,20514,20518,Hatz,NIL,PER,Q3102863,Georges Hatz,yes,15.711433410644531
+hidden_test_fr_31,20941,20981,"Henri Delfosse, pistard plein dequalités",NIL,PER,Q19860684,Henri Defossé,Yes.,19.081298828125
+hidden_test_fr_31,21336,21361,France Libre. actua¬lités,Q3230380,ORG,NIL,France Libre. actua¬lités,no,0
+hidden_test_fr_31,21788,21812,"France Libre, actualités",Q3230380,ORG,NIL,"France Libre, actualités",no,0
+hidden_test_fr_31,21830,21835,Braun,NIL,PER,NIL,Braun,no,0
+hidden_test_fr_31,22245,22254,PARAMOUNT,NIL,LOC,NIL,PARAMOUNT,no,0
+hidden_test_fr_31,22284,22294,G. HIGGINS,Q5539550,PER,NIL,G. HIGGINS,no,0
+hidden_test_fr_32,840,850,413° R. I.,NIL,ORG,Q2816750,413e régiment d'infanterie,Yes.,19.63149070739746
+hidden_test_fr_32,1443,1453,PierreLoti,Q311854,PER,Q311854,Pierre Loti,yes,30.21161651611328
+hidden_test_fr_32,3407,3418,Pierre Loti,Q311854,PER,NIL,Pierre Loti,No.,0
+hidden_test_fr_32,4842,4851,Allemagne,Q183,LOC,NIL,Allemagne,no,0
+hidden_test_fr_32,5997,6007,Alle¬magne,Q183,LOC,NIL,Alle¬magne,no,0
+hidden_test_fr_32,6434,6439,Paris,Q90,LOC,Q90,Paris,yes,19.27840805053711
+hidden_test_fr_32,9664,9678,Georges Oudard,Q15407147,PER,NIL,Georges Oudard,No.,0
+hidden_test_fr_32,9797,9802,Gœthe,Q5879,PER,NIL,Gœthe,"""no""",0
+hidden_test_fr_32,10794,10802,Frédéric,Q58600,PER,NIL,Frédéric,no,0
+hidden_test_fr_32,11493,11507,Champs-Elysées,Q550,LOC,Q550,avenue des Champs-Élysées,yes,23.544870376586914
+hidden_test_fr_32,11864,11875,enfantJésus,Q302,PER,Q302,Jésus-Christ,yes,16.75715446472168
+hidden_test_fr_32,12410,12417,LIBERIA,NIL,ORG,NIL,LIBERIA,no,0
+hidden_test_fr_32,14895,14928,LIGUE D'ASSAINISSEMENT COMMERCIAL,NIL,ORG,Q19721440,Ligue des intérêts de la défense nationale,"""yes""",7.598209381103516
+hidden_test_fr_33,194,210,M. Prosper Cohen,NIL,PER,NIL,M. Prosper Cohen,"""no""",0
+hidden_test_fr_33,1639,1649,PARIS-SOIR,Q1809440,ORG,Q1809440,Paris-Soir,yes,22.170930862426758
+hidden_test_fr_33,3176,3181,Paris,Q90,LOC,Q209549,2e arrondissement de Paris,yes,13.796825408935547
+hidden_test_fr_33,4230,4234,Bach,Q1339,PER,NIL,Bach,no,0
+hidden_test_fr_33,4247,4256,Boïeldieu,Q109875,PER,Q109875,François-Adrien Boieldieu,yes,20.884769439697266
+hidden_test_fr_33,4291,4297,Chopin,Q1268,PER,Q1268,Frédéric Chopin,yes,21.405075073242188
+hidden_test_fr_33,4363,4374,Mendelssohn,Q46096,PER,Q46096,Félix Mendelssohn Bartholdy,yes,25.52667999267578
+hidden_test_fr_33,5684,5706,BIAIS Maison de BIJOUX,NIL,ORG,NIL,BIAIS Maison de BIJOUX,no,0
+hidden_test_fr_33,6113,6133,"23, Rue des Archives",NIL,ORG,NIL,"23, Rue des Archives",no,0
+hidden_test_fr_33,6269,6274,Paris,Q90,LOC,Q3278478,Ville de Paris,Yes,13.597993850708008
+hidden_test_fr_33,6338,6343,Paris,Q90,LOC,NIL,Paris,no,0
+hidden_test_fr_33,6534,6547,HENRI DESSENT,NIL,ORG,Q3130976,Henri Desseigne,yes,13.85534381866455
+hidden_test_fr_33,6781,6800,56 fg Saint-Antoine,NIL,LOC,Q16271388,cour Saint-Antoine,yes,13.804946899414062
+hidden_test_fr_34,448,454,Latzko,Q88339,PER,NIL,Latzko,No,0
+hidden_test_fr_34,700,706,Passos,NIL,PER,NIL,Passos,"""no""",0
+hidden_test_fr_34,1116,1123,Maurice,NIL,PER,NIL,Maurice,no,0
+hidden_test_fr_34,2327,2335,S.F.I.O.,Q1332068,ORG,NIL,S.F.I.O.,no,0
+hidden_test_fr_34,2994,2996,S.,NIL,PER,NIL,S.,no,0
+hidden_test_fr_34,4051,4083,"Ruth Chat¬terton, petite dactylo",Q287713,PER,NIL,"Ruth Chat¬terton, petite dactylo",no,0
+hidden_test_fr_34,4616,4636,La Courneuve (Seine),Q244725,LOC,NIL,La Courneuve (Seine),no,0
+hidden_test_fr_34,5118,5127,MissDrake,NIL,PER,NIL,MissDrake,no,0
+hidden_test_fr_34,6978,6990,Jack Lon¬don,Q45765,PER,NIL,Jack Lon¬don,no,0
+hidden_test_fr_34,7073,7084,Piat¬nitski,Q586545,PER,Q586545,Ossip Piatnitski,Yes,30.4530029296875
+hidden_test_fr_34,7155,7166,Maxim Gorki,Q12706,PER,Q12706,Maxime Gorki,yes,40.44740676879883
