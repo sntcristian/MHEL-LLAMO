@@ -1,0 +1,275 @@
+doc_id,start_pos,end_pos,surface,gt_id,type,identifier,title,answer,score
+hidden_test_sv_1,552,558,Viborg,Q14657,LOC,Q14657,Viborg,yes,22.360347747802734
+hidden_test_sv_1,570,580,Petersburg,Q656,LOC,Q656,Sankt Petersburg,yes,21.0201358795166
+hidden_test_sv_1,598,606,Sip-pola,Q999878,LOC,Q999878,Sippola,yes,14.86375904083252
+hidden_test_sv_1,973,1012,"Fru Alma Fohström, vårcelebra sångerska",Q4948406,PER,Q4948406,Alma Fohström,yes,14.017291069030762
+hidden_test_sv_1,1133,1139,fru F.,Q4948406,PER,Q4948406,Alma Fohström,yes,10.611488342285156
+hidden_test_sv_1,1172,1193,Kejs. operan i Moskva,Q138908,ORG,Q138908,Bolsjojteatern,yes,18.936779022216797
+hidden_test_sv_1,1347,1353,fru F.,Q4948406,PER,Q4948406,Alma Fohström,yes,8.657441139221191
+hidden_test_sv_1,1419,1435,Svenska teaterns,Q926046,ORG,Q926046,Svenska Teatern,yes,33.01322555541992
+hidden_test_sv_1,1519,1530,Z. Topelius,Q139549,PER,Q139549,Zacharias Topelius,yes,23.534929275512695
+hidden_test_sv_1,2008,2034,Akademiska sångför-eningen,Q4411935,PER,Q4411935,Akademiska Sångföreningen,yes,24.394378662109375
+hidden_test_sv_1,2064,2086,statsrådet Z. Topelius,Q139549,PER,Q139549,Zacharias Topelius,yes,15.451251029968262
+hidden_test_sv_1,2303,2309,Pacius,Q327024,PER,Q327024,Fredrik Pacius,yes,16.608489990234375
+hidden_test_sv_1,2325,2331,Collan,Q1730669,PER,Q1730669,Karl Collan,yes,18.495454788208008
+hidden_test_sv_1,2376,2385,Merikanto,Q455630,PER,Q455630,Oskar Merikanto,yes,17.69576072692871
+hidden_test_sv_1,2394,2398,Bach,Q1339,PER,Q1339,Johann Sebastian Bach,yes,16.60712432861328
+hidden_test_sv_1,2487,2493,Flodin,Q4355102,PER,Q4355102,Karl Flodin,yes,19.071691513061523
+hidden_test_sv_1,2521,2529,Sibelius,Q45682,PER,Q45682,Jean Sibelius,yes,24.484716415405273
+hidden_test_sv_1,2628,2646,Gerhard Hauptmanns,Q43523,PER,Q43523,Gerhart Hauptmann,yes,27.30874252319336
+hidden_test_sv_1,3062,3080,herrAdolf Lindfors,Q11849798,PER,Q11849798,Adolf Lindfors,yes,19.140005111694336
+hidden_test_sv_1,3141,3150,Helsingör,Q26881,LOC,Q26881,Helsingör,yes,26.04082679748535
+hidden_test_sv_1,3341,3344,Åbo,Q38511,LOC,Q38511,Åbo,yes,26.93710708618164
+hidden_test_sv_1,3761,3766,Å. T.,Q11903297,PROD,Q11903297,Åbo Tidning,yes,7.663325786590576
+hidden_test_sv_1,3788,3793,Hangö,Q216790,LOC,Q216790,Hangö,yes,24.574296951293945
+hidden_test_sv_1,4412,4420,Stet-tin,Q393,LOC,Q393,Stettin,yes,18.096887588500977
+hidden_test_sv_1,4589,4597,Sandhamn,Q2634733,LOC,Q2634733,Sandhamn,yes,21.129344940185547
+hidden_test_sv_1,4639,4645,Ekenäs,Q1004838,LOC,Q1004838,Ekenäs,yes,24.31632423400879
+hidden_test_sv_1,4714,4720,Ekenäs,Q1004838,LOC,Q1004838,Ekenäs,yes,24.06039810180664
+hidden_test_sv_1,5250,5255,Hangö,Q216790,LOC,Q216790,Hangö,yes,25.37591552734375
+hidden_test_sv_1,5507,5520,Viborgsbladet,Q18662795,PROD,Q18662795,Wiborgsbladet,yes,28.77001953125
+hidden_test_sv_1,5998,6008,Leppävirta,Q614088,LOC,Q614088,Leppävirta,yes,30.63861656188965
+hidden_test_sv_1,6044,6050,Viborg,Q14657,LOC,Q14657,Viborg,yes,29.88943862915039
+hidden_test_sv_1,6106,6115,Ly-decken,NIL,PER,NIL,Ly-decken,no,0
+hidden_test_sv_1,6138,6158,firmanHackman & C:os,Q5400319,ORG,Q5400319,Hackman Abp,yes,12.842594146728516
+hidden_test_sv_1,6730,6745,Robert Lydecken,NIL,PER,NIL,Robert Lydecken,no,0
+hidden_test_sv_1,6991,6997,Viborg,Q14657,LOC,Q14657,Viborg,yes,17.549184799194336
+hidden_test_sv_2,922,930,Koskelin,Q17381816,PER,Q17381816,William Koskelin,yes,22.639667510986328
+hidden_test_sv_2,1011,1021,Lm Meurman,Q3375788,PER,Q3375788,Agathon Meurman,yes,19.906789779663086
+hidden_test_sv_2,2203,2216,Lm Tensikkala,NIL,PER,NIL,Lm Tensikkala,no,0
+hidden_test_sv_2,2983,2990,Kiipula,Q11873702,PER,Q11873702,Kustaa Kiipula,yes,21.652494430541992
+hidden_test_sv_2,4512,4523,lm.Kokkonen,NIL,PER,NIL,lm.Kokkonen,no,0
+hidden_test_sv_2,5387,5407,för-eningen Pellervo,Q18690754,ORG,Q18690754,Pellervo,yes,19.16646957397461
+hidden_test_sv_2,5456,5468,Åboaktiebank,Q5491317,ORG,Q5491317,Åbo Aktiebank,yes,28.37701988220215
+hidden_test_sv_2,5628,5649,frökea Ester Sundblom,NIL,PER,NIL,frökea Ester Sundblom,no,0
+hidden_test_sv_2,5827,5832,Borgå,Q193367,LOC,Q193367,Borgå,yes,24.241090774536133
+hidden_test_sv_2,5903,5925,konsul G.L. Söderström,NIL,PER,NIL,konsul G.L. Söderström,no,0
+hidden_test_sv_2,6280,6285,Borgå,Q193367,LOC,Q193367,Borgå,yes,23.778833389282227
+hidden_test_sv_2,6292,6344,hans mångårige f. d.principal konsul C. F. Tojkander,NIL,PER,NIL,hans mångårige f. d.principal konsul C. F. Tojkander,no,0
+hidden_test_sv_2,6458,6461,Åbo,Q38511,LOC,Q38511,Åbo,yes,21.472801208496094
+hidden_test_sv_2,6629,6634,Hangö,Q216790,LOC,Q216790,Hangö,yes,22.929746627807617
+hidden_test_sv_2,6700,6705,Hangö,Q216790,LOC,Q216790,Hangö,yes,22.947673797607422
+hidden_test_sv_2,8162,8168,Lahtis,Q28911,LOC,Q28911,Lahtis,yes,20.31751251220703
+hidden_test_sv_2,8172,8179,Heinola,Q849934,LOC,Q849934,Heinola,yes,22.078725814819336
+hidden_test_sv_3,0,6,BERLIN,Q64,LOC,Q64,Berlin,yes,25.513050079345703
+hidden_test_sv_3,39,46,Marocko,Q1028,LOC,Q1028,Marocko,yes,20.86400604248047
+hidden_test_sv_3,69,79,Abdul Aziz,Q307132,PER,Q307132,Abdelaziz av Marocko,yes,14.634057998657227
+hidden_test_sv_3,153,159,Europa,Q46,LOC,Q46,Europa,yes,24.057226181030273
+hidden_test_sv_3,295,313,Vossische Zei-tung,Q675003,PROD,Q675003,Vossische Zeitung,yes,18.116191864013672
+hidden_test_sv_3,396,403,Marocko,Q1028,LOC,Q1028,Marocko,yes,23.12895393371582
+hidden_test_sv_3,508,515,Marocko,Q1028,LOC,Q1028,Marocko,yes,21.897310256958008
+hidden_test_sv_3,517,523,Europa,Q46,LOC,Q46,Europa,yes,20.721757888793945
+hidden_test_sv_3,872,880,BUDAPEST,Q1781,LOC,Q1781,Budapest,yes,25.0707950592041
+hidden_test_sv_3,1654,1660,Europa,Q46,LOC,Q46,Europa,yes,21.498390197753906
+hidden_test_sv_3,2113,2120,Turkiet,Q43,LOC,Q43,Turkiet,yes,23.641010284423828
+hidden_test_sv_3,4105,4114,Marseille,Q23482,LOC,Q23482,Marseille,yes,26.920013427734375
+hidden_test_sv_3,4335,4339,Marx,Q9061,PER,Q9061,Karl Marx,yes,24.0258846282959
+hidden_test_sv_3,4614,4629,Dasch-nakzutjun,Q318657,ORG,Q318657,Armeniska revolutionsfederationen,yes,23.78849983215332
+hidden_test_sv_3,4934,4942,Tur-kiet,Q43,LOC,Q43,Turkiet,yes,23.461551666259766
+hidden_test_sv_3,5315,5329,Daschnakzutjun,Q318657,ORG,Q318657,Armeniska revolutionsfederationen,yes,17.462488174438477
+hidden_test_sv_3,5617,5627,Ar-meniens,Q399,LOC,Q399,Armenien,yes,21.94989776611328
+hidden_test_sv_3,5915,5924,Kaukasien,Q18869,LOC,Q18869,Kaukasien,yes,22.763731002807617
+hidden_test_sv_3,6027,6037,Kaukasiens,Q18869,LOC,Q18869,Kaukasien,yes,21.94426155090332
+hidden_test_sv_3,6093,6105,Mindre Asien,Q12824780,LOC,Q12824780,Mindre Asien,yes,22.667255401611328
+hidden_test_sv_3,6739,6756,prins Sabaheddins,Q2110643,PER,Q2110643,Prins Sabahaddin,yes,17.972829818725586
+hidden_test_sv_3,6996,7008,Mindre Asien,Q12824780,LOC,Q12824780,Mindre Asien,yes,21.604148864746094
+hidden_test_sv_4,0,57,"Den år 1826 aflidne rikskanslern,grefve N. P. Rumjantseff",Q546048,PER,Q546048,Nikolaj Rumjantsev,yes,19.39663314819336
+hidden_test_sv_4,190,200,Petersburg,Q656,LOC,Q656,Sankt Petersburg,yes,26.38698959350586
+hidden_test_sv_4,415,421,Moskva,Q649,LOC,Q649,Moskva,yes,26.342517852783203
+hidden_test_sv_4,697,703,Moskva,Q649,LOC,Q649,Moskva,yes,26.012479782104492
+hidden_test_sv_4,808,813,Nancy,Q40898,LOC,Q40898,Nancy,yes,19.72687530517578
+hidden_test_sv_4,986,991,Nancy,Q40898,LOC,Q40898,Nancy,yes,20.922691345214844
+hidden_test_sv_4,1101,1106,Nancy,Q40898,LOC,Q40898,Nancy,yes,22.87773323059082
+hidden_test_sv_4,1237,1251,Petit Parisien,Q831299,PROD,Q831299,Le Petit Parisien,yes,26.95374298095703
+hidden_test_sv_4,3246,3260,”Agence Havas”,Q2826560,ORG,Q2826560,Agence Havas,yes,15.40655517578125
+hidden_test_sv_4,3340,3345,Nancy,Q40898,LOC,Q40898,Nancy,yes,23.448562622070312
+hidden_test_sv_4,4432,4436,Metz,Q22690,LOC,Q22690,Metz,yes,23.79922866821289
+hidden_test_sv_4,4858,4863,Nancy,Q40898,LOC,Q40898,Nancy,yes,15.35228443145752
+hidden_test_sv_4,4928,4937,Le Temps:,Q639137,PROD,Q639137,Le Temps,yes,17.560888290405273
+hidden_test_sv_4,5118,5129,I.u-néville,Q208794,LOC,Q208794,Lunéville,yes,11.360956192016602
+hidden_test_sv_5,172,180,Danmarks,Q35,LOC,Q35,Danmark,yes,22.888418197631836
+hidden_test_sv_5,609,626,Bonns universitet,Q152171,ORG,Q152171,Bonns universitet,yes,30.911733627319336
+hidden_test_sv_5,1533,1546,kejsarWilhelm,Q2677,PER,Q2677,Vilhelm II av Tyskland,yes,17.896690368652344
+hidden_test_sv_5,2645,2661,kapten Söderlund,NIL,PER,NIL,kapten Söderlund,no,0
+hidden_test_sv_5,2695,2704,Brahestad,Q622592,LOC,Q622592,Brahestad,yes,16.6814022064209
+hidden_test_sv_5,2779,2784,Hangö,Q216790,LOC,Q216790,Hangö,yes,24.521318435668945
+hidden_test_sv_5,2821,2824,Abo,Q38511,LOC,Q38511,Åbo,yes,14.904815673828125
+hidden_test_sv_5,2852,2857,Slite,Q1495534,LOC,Q1495534,Slite,yes,19.530858993530273
+hidden_test_sv_5,2859,2868,Köpenhamn,Q1748,LOC,Q1748,Köpenhamn,yes,18.86639404296875
+hidden_test_sv_5,2910,2922,Hel-singfors,Q1757,LOC,Q1757,Helsingfors,yes,19.883882522583008
+hidden_test_sv_5,2950,2954,Riga,Q1773,LOC,Q1773,Riga,yes,22.2467041015625
+hidden_test_sv_5,2992,3003,Helsingfors,Q1757,LOC,Q1757,Helsingfors,yes,22.68768310546875
+hidden_test_sv_5,3031,3040,Stockholm,Q1754,LOC,Q1754,Stockholm,yes,20.816810607910156
+hidden_test_sv_5,3075,3082,Bre-men,Q24879,LOC,Q24879,Bremen,yes,15.38955307006836
+hidden_test_sv_5,3087,3090,Åbo,Q38511,LOC,Q38511,Åbo,yes,26.486331939697266
+hidden_test_sv_5,3121,3132,Helsingfors,Q1757,LOC,Q1757,Helsingfors,yes,24.128097534179688
+hidden_test_sv_5,3168,3177,Stockholm,Q1754,LOC,Q1754,Stockholm,yes,21.52940559387207
+hidden_test_sv_5,3204,3215,Helsingfors,Q1757,LOC,Q1757,Helsingfors,yes,20.08917808532715
+hidden_test_sv_5,3220,3234,S:t Petersburg,Q656,LOC,Q656,Sankt Petersburg,yes,21.850187301635742
+hidden_test_sv_5,3262,3269,Hamburg,Q1055,LOC,Q1055,Hamburg,yes,23.91470718383789
+hidden_test_sv_5,3295,3301,H:fors,Q1757,LOC,Q1757,Helsingfors,yes,16.13817596435547
+hidden_test_sv_6,1330,1339,Nord-sjön,Q1693,LOC,Q1693,Nordsjön,yes,26.498605728149414
+hidden_test_sv_6,2970,2979,Östersjön,Q545,LOC,Q545,Östersjön,yes,29.029083251953125
+hidden_test_sv_6,2988,3008,tyska Nord-sjökusten,NIL,LOC,NIL,tyska Nord-sjökusten,no,0
+hidden_test_sv_6,3073,3084,Kielkanalen,Q144825,LOC,Q144825,Kielkanalen,yes,24.180288314819336
+hidden_test_sv_6,3275,3282,Sverige,Q34,LOC,Q34,Sverige,yes,24.526870727539062
+hidden_test_sv_6,3283,3292,STOCKHOLM,Q1754,LOC,Q1754,Stockholm,yes,23.437698364257812
+hidden_test_sv_6,3451,3473,F. N. B.Lord kitchener,Q216129,PER,Q216129,"Herbert Kitchener, 1:e earl Kitchener",yes,11.611100196838379
+hidden_test_sv_6,3483,3489,LONDON,Q84,LOC,Q84,London,yes,26.13109016418457
+hidden_test_sv_6,3525,3539,lord Kitchener,Q216129,PER,Q216129,"Herbert Kitchener, 1:e earl Kitchener",yes,23.911584854125977
+hidden_test_sv_6,3967,3976,Kitchener,Q216129,PER,Q216129,"Herbert Kitchener, 1:e earl Kitchener",yes,24.02196502685547
+hidden_test_sv_6,4330,4338,Grekland,Q41,LOC,Q41,Grekland,yes,19.87818717956543
+hidden_test_sv_6,4350,4356,LONDON,Q84,LOC,Q84,London,yes,25.659696578979492
+hidden_test_sv_6,4379,4392,Morning Posts,Q1750567,PROD,Q1750567,The Morning Post,yes,20.038528442382812
+hidden_test_sv_6,4586,4592,Briand,Q179888,PER,Q179888,Aristide Briand,yes,11.200004577636719
+hidden_test_sv_6,4613,4616,Rom,Q220,LOC,Q220,Rom,yes,23.981908798217773
+hidden_test_sv_6,4722,4730,Grekland,Q41,LOC,Q41,Grekland,yes,23.753320693969727
+hidden_test_sv_6,5078,5084,Peking,Q956,LOC,Q956,Peking,yes,25.330415725708008
+hidden_test_sv_6,6340,6362,Pekings förbjudna stad,Q80290,LOC,Q80290,Förbjudna staden,yes,11.62636947631836
+hidden_test_sv_7,1644,1656,Ryska Rikets,Q34266,LOC,Q34266,Kejsardömet Ryssland,yes,23.832426071166992
+hidden_test_sv_7,3325,3336,Helsingfors,Q1757,LOC,Q1757,Helsingfors,yes,30.890880584716797
+hidden_test_sv_7,3795,3806,SeveriNyman,Q11893224,PER,Q11893224,,yes,28.335214614868164
+hidden_test_sv_7,4000,4010,Tammerfors,Q40840,LOC,Q40840,Tammerfors,yes,22.540449142456055
+hidden_test_sv_7,6175,6222,"Generalguvernören, general-adjutanten Bobrikoff",Q380350,PER,Q380350,Nikolaj Bobrikov,yes,14.235458374023438
+hidden_test_sv_7,6272,6283,Peters-burg,Q656,LOC,Q656,Sankt Petersburg,yes,25.351940155029297
+hidden_test_sv_7,6448,6454,Europa,Q46,LOC,Q46,Europa,yes,20.516969680786133
+hidden_test_sv_7,6470,6484,S:t Petersburg,Q656,LOC,Q656,Sankt Petersburg,yes,25.561704635620117
+hidden_test_sv_7,6513,6521,Finlands,Q62633,LOC,Q62633,Storfurstendömet Finland,yes,18.332120895385742
+hidden_test_sv_7,7019,7024,Borgå,Q193367,LOC,Q193367,Borgå,yes,23.707965850830078
+hidden_test_sv_7,7304,7310,Fru H.,NIL,PER,NIL,Fru H.,no,0
+hidden_test_sv_7,7863,7882,S:t Ber-tils socken,Q121715,LOC,Q121715,S:t Bertils,yes,21.387630462646484
+hidden_test_sv_7,8025,8059,"pro-fessorn, friherre Nordenskiöld",Q156749,PER,Q156749,Adolf Erik Nordenskiöld,yes,12.312448501586914
+hidden_test_sv_7,8075,8086,Helsingfors,Q1757,LOC,Q1757,Helsingfors,yes,26.83297348022461
+hidden_test_sv_7,8184,8202,Svenska Riksmuseet,Q1420103,ORG,Q1420103,Naturhistoriska riksmuseet,yes,29.938745498657227
+hidden_test_sv_8,149,155,Verdun,Q154748,LOC,Q154748,Verdun,yes,17.38184356689453
+hidden_test_sv_8,507,515,Bel-gien,Q31,LOC,Q31,Belgien,yes,19.153064727783203
+hidden_test_sv_8,669,675,Verdun,Q154748,LOC,Q154748,Verdun,yes,19.756549835205078
+hidden_test_sv_8,885,898,general Einem,Q62716,PER,Q62716,Karl von Einem,yes,15.14719295501709
+hidden_test_sv_8,901,910,Champagne,Q273827,LOC,Q273827,Champagne,yes,18.117685317993164
+hidden_test_sv_8,915,934,gene-ral Falkenhayn,Q57153,PER,Q57153,Erich von Falkenhayn,yes,18.38169288635254
+hidden_test_sv_8,1420,1427,Verduns,Q154748,LOC,Q154748,Verdun,yes,19.230445861816406
+hidden_test_sv_8,1441,1449,Douamont,Q1113111,LOC,Q1113111,Douaumont,yes,16.51813316345215
+hidden_test_sv_8,1694,1700,Erbois,NIL,LOC,NIL,Erbois,no,0
+hidden_test_sv_8,2101,2106,Ypres,Q102728,LOC,Q102728,Ypern,yes,18.53217887878418
+hidden_test_sv_8,2111,2116,Arras,Q131329,LOC,Q131329,Arras,yes,18.153196334838867
+hidden_test_sv_9,1542,1547,Paris,Q90,LOC,Q90,Paris,yes,22.857419967651367
+hidden_test_sv_9,1822,1854,vice hä-radshöfdingen F. Procopé,Q56403628,PER,Q56403628,Fredrik Procopé,yes,19.10438346862793
+hidden_test_sv_9,1875,1885,Tammerfors,Q40840,LOC,Q40840,Tammerfors,yes,24.634469985961914
+hidden_test_sv_10,43,49,London,Q84,LOC,Q84,London,yes,15.179086685180664
+hidden_test_sv_10,80,85,Paris,Q90,LOC,Q90,Paris,yes,16.97270393371582
+hidden_test_sv_10,105,112,Hamberg,Q1055,LOC,Q1055,Hamburg,yes,21.040782928466797
+hidden_test_sv_10,166,175,Amsterdam,Q727,LOC,Q727,Amsterdam,yes,12.770284652709961
+hidden_test_sv_10,191,200,Stockholm,Q1754,LOC,Q1754,Stockholm,yes,14.060431480407715
+hidden_test_sv_10,223,237,S:t Petersburg,Q656,LOC,Q656,Sankt Petersburg,yes,16.038179397583008
+hidden_test_sv_10,259,265,London,Q84,LOC,Q84,London,yes,15.843179702758789
+hidden_test_sv_10,290,299,Amsterdam,Q727,LOC,Q727,Amsterdam,yes,14.25764274597168
+hidden_test_sv_10,315,322,Hamburg,Q1055,LOC,Q1055,Hamburg,yes,17.72496795654297
+hidden_test_sv_10,339,344,Paris,Q90,LOC,Q90,Paris,yes,14.54688835144043
+hidden_test_sv_10,466,482,kapten Blomström,NIL,PER,NIL,kapten Blomström,no,0
+hidden_test_sv_10,547,552,Borgå,Q193367,LOC,Q193367,Borgå,yes,17.618356704711914
+hidden_test_sv_10,579,584,Elimä,Q1000113,LOC,Q1000113,Elimä,yes,17.417747497558594
+hidden_test_sv_10,624,630,P:burg,Q656,LOC,Q656,Sankt Petersburg,yes,10.884446144104004
+hidden_test_sv_10,717,723,B:borg,Q180233,LOC,Q180233,Björneborg,yes,12.544390678405762
+hidden_test_sv_10,780,795,hotel de Po=ste,NIL,ORG,NIL,hotel de Po=ste,no,0
+hidden_test_sv_10,838,843,Elimä,Q1000113,LOC,Q1000113,Elimä,yes,14.031939506530762
+hidden_test_sv_10,888,893,Raumo,Q37013,LOC,Q37013,Raumo,yes,17.733726501464844
+hidden_test_sv_10,1001,1007,P:burg,Q656,LOC,Q656,Sankt Petersburg,yes,11.13973617553711
+hidden_test_sv_10,1073,1090,Konstantinsgtn 16,NIL,LOC,NIL,Konstantinsgtn 16,no,0
+hidden_test_sv_10,1310,1320,S:t Michel,Q190583,LOC,Q190583,S:t Michel,yes,18.849407196044922
+hidden_test_sv_10,1373,1378,Borgå,Q193367,LOC,Q193367,Borgå,yes,22.729543685913086
+hidden_test_sv_10,1457,1460,Åbo,Q38511,LOC,Q38511,Åbo,yes,26.1085205078125
+hidden_test_sv_10,1549,1555,Ekenäs,Q1004838,LOC,Q1004838,Ekenäs,yes,21.74647331237793
+hidden_test_sv_10,1799,1802,Åbo,Q38511,LOC,Q38511,Åbo,yes,26.26372718811035
+hidden_test_sv_10,1910,1913,Åbo,Q38511,LOC,Q38511,Åbo,yes,19.698694229125977
+hidden_test_sv_11,652,665,Stora Bazaren,NIL,LOC,NIL,Stora Bazaren,no,0
+hidden_test_sv_11,2370,2380,Petersburg,Q656,LOC,Q656,Sankt Petersburg,yes,24.751712799072266
+hidden_test_sv_11,3702,3719,Newski-prospektet,Q382500,LOC,Q382500,Nevskij prospekt,yes,16.49468231201172
+hidden_test_sv_12,0,7,Italien,Q38,LOC,Q38,Italien,yes,21.422271728515625
+hidden_test_sv_12,9,30,Konung Victor Emanuel,Q168691,PER,Q168691,Viktor Emanuel II,yes,17.75833511352539
+hidden_test_sv_12,159,164,Genua,Q1449,LOC,Q1449,Genua,yes,23.583446502685547
+hidden_test_sv_12,341,348,Piemont,Q1216,LOC,Q1216,Piemonte,yes,20.251462936401367
+hidden_test_sv_12,555,573,Lombardiet=Venedig,Q209857,LOC,Q209857,Kungariket Lombardiet-Venetien,yes,17.279315948486328
+hidden_test_sv_12,850,855,Pesth,Q210205,LOC,Q210205,Pest,yes,16.225059509277344
+hidden_test_sv_12,944,951,Kossuth,Q157040,PER,Q157040,Lajos Kossuth,yes,22.684268951416016
+hidden_test_sv_12,1060,1064,Arad,Q173591,LOC,Q173591,Arad,yes,20.6285400390625
+hidden_test_sv_12,1135,1149,djerfwe Görgey,Q716001,PER,Q716001,Artúr Görgey,yes,10.70361328125
+hidden_test_sv_12,1203,1213,Jellachich,Q154418,PER,Q154418,Josip Jelačić,yes,18.102418899536133
+hidden_test_sv_12,1227,1232,Pesth,Q210205,LOC,Q210205,Pest,yes,17.822021484375
+hidden_test_sv_12,1282,1290,Szegedin,Q81581,LOC,Q81581,Szeged,yes,22.199190139770508
+hidden_test_sv_12,1445,1452,Kossuth,Q157040,PER,Q157040,Lajos Kossuth,yes,19.694725036621094
+hidden_test_sv_12,1479,1485,Olmütz,Q81137,LOC,Q81137,Olomouc,yes,20.74802017211914
+hidden_test_sv_12,1494,1503,Dembinski,Q970945,PER,Q970945,Henryk Dembiński,yes,16.54591941833496
+hidden_test_sv_12,1557,1561,Prag,Q1085,LOC,Q1085,Prag,yes,19.162534713745117
+hidden_test_sv_12,1792,1799,Turkiet,Q43,LOC,Q43,Turkiet,yes,21.850841522216797
+hidden_test_sv_12,1807,1811,Wien,Q1741,LOC,Q1741,Wien,yes,21.665597915649414
+hidden_test_sv_12,1867,1873,Galacz,Q170996,LOC,Q170996,Galați,yes,19.773269653320312
+hidden_test_sv_12,2049,2068,Donaufurstendömenas,Q627527,LOC,Q627527,Donaufurstendömena,yes,14.16796588897705
+hidden_test_sv_12,2181,2188,Turkiet,Q43,LOC,Q43,Turkiet,yes,22.21786117553711
+hidden_test_sv_12,2264,2270,Patras,Q133123,LOC,Q133123,Patras,yes,11.622955322265625
+hidden_test_sv_12,2295,2306,Konstantins,Q8413,PER,Q8413,Konstantin den store,yes,18.508438110351562
+hidden_test_sv_12,2405,2415,Öst. Lloyd,NIL,PROD,NIL,Öst. Lloyd,no,0
+hidden_test_sv_12,2457,2467,Wallachiet,Q171393,LOC,Q171393,Valakiet,yes,21.206912994384766
+hidden_test_sv_12,2540,2555,Grefwe Radetzky,Q153500,PER,Q153500,Josef Wenzel Radetzky von Radetz,yes,17.81353187561035
+hidden_test_sv_12,2619,2626,Florens,Q2044,LOC,Q2044,Florens,yes,23.1319637298584
+hidden_test_sv_12,2693,2705,Karl Alberts,Q181261,PER,Q181261,Karl Albert av Sardinien,yes,17.183116912841797
+hidden_test_sv_12,2719,2724,Paris,Q90,LOC,Q90,Paris,yes,20.65034294128418
+hidden_test_sv_12,2860,2868,Bosforen,Q35958,LOC,Q35958,Bosporen,yes,18.622690200805664
+hidden_test_sv_12,2920,2933,Dardanellerna,Q6514,LOC,Q6514,Dardanellerna,yes,20.693145751953125
+hidden_test_sv_12,2934,2937,Åbo,Q38511,LOC,Q38511,Åbo,yes,16.414594650268555
+hidden_test_sv_12,2995,3066,"Rektorn wid Lägre Elementarskolan i Brahestad, Mag. CarlAugust Finelius",Q20736672,PER,Q20736672,,yes,16.462125778198242
+hidden_test_sv_13,1212,1215,Åbo,Q38511,LOC,Q38511,Åbo,yes,24.31548500061035
+hidden_test_sv_13,1270,1282,Henr. Heikel,Q3072579,PER,Q3072579,Henrik Heikel,yes,30.406232833862305
+hidden_test_sv_15,137,145,Suometar,Q21483135,PROD,Q21483135,Suometar,yes,15.083459854125977
+hidden_test_sv_15,255,263,Sawolaks,Q853706,LOC,Q853706,Savolax,yes,18.871328353881836
+hidden_test_sv_15,344,355,St. Michels,Q190583,LOC,Q190583,S:t Michel,yes,18.150121688842773
+hidden_test_sv_15,368,382,Jorois socknar,Q1641672,LOC,Q1641672,Jorois,yes,20.065969467163086
+hidden_test_sv_15,392,399,Warkaus,Q683525,LOC,Q683525,Varkaus,yes,24.148256301879883
+hidden_test_sv_15,451,460,Heinäwesi,Q1009124,LOC,Q1009124,Heinävesi,yes,25.16757583618164
+hidden_test_sv_15,479,486,Joensuu,Q186237,LOC,Q186237,Joensuu,yes,27.40728187561035
+hidden_test_sv_15,521,527,Kuopio,Q162279,LOC,Q162279,Kuopio,yes,23.06865882873535
+hidden_test_sv_15,575,612,aflidne kapellanenHenrik Schwartbergs,NIL,PER,NIL,aflidne kapellanenHenrik Schwartbergs,no,0
+hidden_test_sv_15,735,749,Karlö pastorat,NIL,ORG,NIL,Karlö pastorat,no,0
+hidden_test_sv_15,773,783,Säresniemi,Q11895753,LOC,Q11895753,Säräisniemi,yes,19.98653793334961
+hidden_test_sv_17,65,72,Sverige,Q34,LOC,Q34,Sverige,yes,21.09667205810547
+hidden_test_sv_17,220,226,Sverge,Q34,LOC,Q34,Sverige,yes,12.985350608825684
+hidden_test_sv_17,302,309,Sver-ge,Q34,LOC,Q34,Sverige,yes,14.715527534484863
+hidden_test_sv_17,507,513,Sverge,Q34,LOC,Q34,Sverige,yes,11.135896682739258
+hidden_test_sv_17,616,624,Siberien,Q5428,LOC,Q5428,Sibirien,yes,16.01439666748047
+hidden_test_sv_17,1140,1154,Illustr. Tidn.,Q10534563,PROD,Q10534563,Illustrerad Tidning,yes,25.596128463745117
+hidden_test_sv_18,0,5,Paris,Q90,LOC,Q90,Paris,yes,20.0180721282959
+hidden_test_sv_18,213,231,departementen Eure,Q3372,LOC,Q3372,Eure,yes,11.612919807434082
+hidden_test_sv_18,233,238,Somme,Q12770,LOC,Q12770,Somme,yes,22.57021141052246
+hidden_test_sv_18,387,392,Paris,Q90,LOC,Q90,Paris,yes,22.803850173950195
+hidden_test_sv_18,636,648,FILANDS BANK,Q194060,ORG,Q194060,Finlands Bank,yes,19.48705291748047
+hidden_test_sv_18,661,667,London,Q84,LOC,Q84,London,yes,21.86071014404297
+hidden_test_sv_18,683,690,Hamburg,Q1055,LOC,Q1055,Hamburg,yes,24.893646240234375
+hidden_test_sv_18,708,717,Amsterdam,Q727,LOC,Q727,Amsterdam,yes,24.664440155029297
+hidden_test_sv_18,733,742,Stockholm,Q1754,LOC,Q1754,Stockholm,yes,23.42188835144043
+hidden_test_sv_18,760,774,St. Petersburg,Q656,LOC,Q656,Sankt Petersburg,yes,20.330562591552734
+hidden_test_sv_18,817,823,London,Q84,LOC,Q84,London,yes,18.073637008666992
+hidden_test_sv_18,832,839,Hamburg,Q1055,LOC,Q1055,Hamburg,yes,21.98214340209961
+hidden_test_sv_18,844,853,Amsterdam,Q727,LOC,Q727,Amsterdam,yes,20.26740837097168
+hidden_test_sv_18,859,868,Stockholm,Q1754,LOC,Q1754,Stockholm,yes,19.307456970214844
+hidden_test_sv_18,894,908,St. Petersburg,Q656,LOC,Q656,Sankt Petersburg,yes,18.121891021728516
+hidden_test_sv_18,935,949,ST. PETERSBURG,Q656,LOC,Q656,Sankt Petersburg,yes,19.87042236328125
+hidden_test_sv_18,960,966,London,Q84,LOC,Q84,London,yes,17.997684478759766
+hidden_test_sv_18,992,1001,Amsterdam,Q727,LOC,Q727,Amsterdam,yes,19.63920021057129
+hidden_test_sv_18,1020,1028,Ham-burg,Q1055,LOC,Q1055,Hamburg,yes,20.437702178955078
+hidden_test_sv_18,1046,1053,Belgien,Q31,LOC,Q31,Belgien,yes,14.426773071289062
+hidden_test_sv_18,1105,1114,STOCKHOLM,Q1754,LOC,Q1754,Stockholm,yes,21.132930755615234
+hidden_test_sv_18,1125,1131,London,Q84,LOC,Q84,London,yes,19.50914764404297
+hidden_test_sv_18,1172,1179,Hamburg,Q1055,LOC,Q1055,Hamburg,yes,22.704458236694336
+hidden_test_sv_18,1220,1230,Am-sterdam,Q727,LOC,Q727,Amsterdam,yes,18.10367202758789
+hidden_test_sv_18,1267,1276,Köpenhamn,Q1748,LOC,Q1748,Köpenhamn,yes,23.31163787841797
+hidden_test_sv_18,1319,1322,ÅBO,Q38511,LOC,Q38511,Åbo,yes,15.439650535583496
+hidden_test_sv_19,3,15,Borgå stifts,Q10433218,ORG,Q10433218,Borgå stift 1723-1923,yes,22.752042770385742
+hidden_test_sv_19,41,66,pro-fessor A. F. Granfelt,Q5768295,PER,Q5768295,Axel Fredrik Granfelt,yes,17.84491539001465
+hidden_test_sv_19,74,78,Hbl.,Q613979,PROD,Q613979,Hufvudstadsbladet,yes,9.62260627746582
+hidden_test_sv_19,135,139,Wasa,Q125080,LOC,Q125080,Vasa,yes,21.05145263671875
+hidden_test_sv_19,151,160,Åbo stift,Q1365769,ORG,Q1365769,Åbo ärkestift,yes,20.870380401611328
+hidden_test_sv_20,483,489,Medevi,Q6805278,ORG,Q6805278,Medevi brunn,yes,14.201330184936523
+hidden_test_sv_20,546,551,Paris,Q90,LOC,Q90,Paris,yes,24.569660186767578
+hidden_test_sv_20,987,1037,"kejsarrikets generalpostdirektör, grefweLa Walette",NIL,PER,NIL,"kejsarrikets generalpostdirektör, grefweLa Walette",no,0
+hidden_test_sv_20,1187,1221,falskmyntaren PhilippeJean-Antoine,NIL,PER,NIL,falskmyntaren PhilippeJean-Antoine,no,0
+hidden_test_sv_20,1517,1535,sir Charles Dilkes,Q338114,PER,Q338114,Charles Wentworth Dilke,yes,23.475019454956055
+hidden_test_sv_20,1662,1679,sir Charles Dilke,Q338114,PER,Q338114,Charles Wentworth Dilke,yes,21.523649215698242

@@ -1,0 +1,68 @@
+doc_id,surface,start_pos,end_pos,type,identifier
+hidden_test_fi_1,valta-kunnanduuman,102,120,ORG,Q844793
+hidden_test_fi_1,Ranskan,1005,1012,LOC,Q70802
+hidden_test_fi_1,Englannissa,1682,1693,LOC,Q21
+hidden_test_fi_1,Saksassa,1694,1702,LOC,Q43287
+hidden_test_fi_1,Venäjällä,1706,1715,LOC,Q34266
+hidden_test_fi_1,Roosevelt,1759,1768,PER,Q33866
+hidden_test_fi_1,Saksi-Weimarinprinsessa Sofia,2960,2989,PER,Q7244832
+hidden_test_fi_1,prof. Saba-tier’lle,4877,4896,PER,Q104575
+hidden_test_fi_2,Pörssikomitean,83,97,ORG,NIL
+hidden_test_fi_2,arvo-paperipörssiä,183,201,ORG,NIL
+hidden_test_fi_2,MerivakuutusosakeyhtiöTriton,267,295,ORG,NIL
+hidden_test_fi_2,Triton,548,554,ORG,NIL
+hidden_test_fi_2,Tritonin,645,653,ORG,NIL
+hidden_test_fi_2,Triton,1322,1328,ORG,NIL
+hidden_test_fi_2,Suomessa,4850,4858,LOC,Q62633
+hidden_test_fi_3,Venäjän,2031,2038,LOC,Q159
+hidden_test_fi_3,sekatyöntekijä Feodor Semenoff,2456,2486,PER,NIL
+hidden_test_fi_3,"kansakoulunopettaja-tar, leskirouva Hilja Maria Maleva (Am-sinoff)",2778,2844,PER,NIL
+hidden_test_fi_3,maanviljelijäIgnati Rytshkoff,3254,3283,PER,NIL
+hidden_test_fi_3,agronoomi Nicolai Fabricius,3313,3340,PER,NIL
+hidden_test_fi_3,työn-johtaja Juho Merivaara (Prokoffjeff),3502,3543,PER,NIL
+hidden_test_fi_3,liikemies Constantin Va-gello,3645,3674,PER,NIL
+hidden_test_fi_3,opet-taja Josef Jaakkimainen,3897,3925,PER,NIL
+hidden_test_fi_3,Lehtovaara,4908,4918,PER,NIL
+hidden_test_fi_3,G. Örnille,6937,6947,PER,NIL
+hidden_test_fi_3,kruu-nunnimismies Br. Rosenbröijer,9044,9078,PER,NIL
+hidden_test_fi_3,Nurmijärven kun-nassa,9589,9610,LOC,Q597156
+hidden_test_fi_4,J. F. Valle-niukselta,264,285,PER,NIL
+hidden_test_fi_4,Asikkalan pi-täjän Yrjälän metsästä,1133,1168,LOC,NIL
+hidden_test_fi_4,JalkarannanJaakkolan metsästä,1172,1201,LOC,NIL
+hidden_test_fi_4,Onta-reen kylään,1921,1937,LOC,NIL
+hidden_test_fi_4,Jaalan,2307,2313,LOC,Q1011082
+hidden_test_fi_4,SchweizerischenLandesmuseum,2494,2521,ORG,Q691896
+hidden_test_fi_4,Fin-land,4095,4103,LOC,Q62633
+hidden_test_fi_4,Viborgs socken,4214,4228,LOC,Q3433707
+hidden_test_fi_4,taiteilija Th. Vaenerberg,4362,4387,PER,NIL
+hidden_test_fi_4,Ottovon Nordenskjöldin,4589,4611,PER,NIL
+hidden_test_fi_5,Englannis-sa,586,598,LOC,Q21
+hidden_test_fi_5,Vlakfonteinin,626,639,LOC,Q7939001
+hidden_test_fi_5,Kruitzingerin,936,949,PER,Q7192784
+hidden_test_fi_6,kapteeniRuth,534,546,PER,Q6084483
+hidden_test_fi_6,Wilhelm Wendelin,850,866,PER,NIL
+hidden_test_fi_6,Kansallisteatterissa,3470,3490,LOC,Q1200969
+hidden_test_fi_7,Lontooseen,2082,2092,LOC,Q84
+hidden_test_fi_7,Witte,2263,2268,PER,NIL
+hidden_test_fi_7,Wollmar,3385,3392,PER,NIL
+hidden_test_fi_7,TohtoriRosen,5345,5357,PER,NIL
+hidden_test_fi_7,Harry Maclean,5774,5787,PER,NIL
+hidden_test_fi_7,Majuri Meister,7254,7268,PER,NIL
+hidden_test_fi_8,monttööri G. Lindström,1850,1872,PER,NIL
+hidden_test_fi_8,Louhi,3200,3205,PROD,Q11876276
+hidden_test_fi_9,Bülowilla,842,851,PER,NIL
+hidden_test_fi_10,edustaja S. Alkion,98,116,PER,Q2319774
+hidden_test_fi_10,Suomessa,188,196,LOC,Q33
+hidden_test_fi_10,Suomen,4043,4049,LOC,Q33
+hidden_test_fi_12,Jupiter,495,502,LOC,Q319
+hidden_test_fi_17,Jumalan,70,77,PER,Q825
+hidden_test_fi_17,Jumalan Pyhältä Hengeltä,122,146,PER,Q825
+hidden_test_fi_17,Jumala,228,234,PER,Q825
+hidden_test_fi_18,Jumalan,50,57,PER,Q825
+hidden_test_fi_19,Jumala kaikkiwaltias,11,31,PER,Q825
+hidden_test_fi_21,Suomenkin,2510,2519,LOC,Q62633
+hidden_test_fi_21,"I. Brusila,entinen waltiopäiwämies",2907,2941,PER,NIL
+hidden_test_fi_21,Suomettarella,4230,4243,PROD,NIL
+hidden_test_fi_22,Welku=an,154,162,LOC,NIL
+hidden_test_fi_22,Lokalahden kapp.,272,288,ORG,NIL
+hidden_test_fi_22,Uudenkirkon pit.,339,355,LOC,Q3366114

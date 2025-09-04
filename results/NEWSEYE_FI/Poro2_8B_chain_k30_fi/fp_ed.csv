@@ -1,0 +1,68 @@
+doc_id,start_pos,end_pos,surface,gt_id,type,identifier,title,answer,score
+hidden_test_fi_1,102,120,valta-kunnanduuman,Q844793,ORG,Q1649453,Venäjän keisarikunnan valtakunnanduuma,yes,8.783946990966797
+hidden_test_fi_1,1005,1012,Ranskan,Q70802,LOC,NIL,Ranskan,no,0
+hidden_test_fi_1,1682,1693,Englannissa,Q21,LOC,NIL,Englannissa,no,0
+hidden_test_fi_1,1694,1702,Saksassa,Q43287,LOC,Q183,Saksa,yes,18.448659896850586
+hidden_test_fi_1,1706,1715,Venäjällä,Q34266,LOC,Q159,Venäjä,yes,19.52863883972168
+hidden_test_fi_1,1759,1768,Roosevelt,Q33866,PER,NIL,Roosevelt,no,0
+hidden_test_fi_1,2960,2989,Saksi-Weimarinprinsessa Sofia,Q7244832,PER,Q241254,Sofia av Sverige,yes,22.234813690185547
+hidden_test_fi_1,4877,4896,prof. Saba-tier’lle,Q104575,PER,NIL,prof. Saba-tier’lle,no,0
+hidden_test_fi_2,83,97,Pörssikomitean,NIL,ORG,Q581755,Helsingin pörssi,yes,21.859878540039062
+hidden_test_fi_2,183,201,arvo-paperipörssiä,NIL,ORG,Q581755,Helsingin pörssi,yes,20.890108108520508
+hidden_test_fi_2,267,295,MerivakuutusosakeyhtiöTriton,NIL,ORG,Q97198894,Merivakuutus Oy Triton,yes,23.950424194335938
+hidden_test_fi_2,548,554,Triton,NIL,ORG,Q97198894,Merivakuutus Oy Triton,yes,16.16847801208496
+hidden_test_fi_2,645,653,Tritonin,NIL,ORG,Q97198894,Merivakuutus Oy Triton,yes,17.742534637451172
+hidden_test_fi_2,1322,1328,Triton,NIL,ORG,Q97198894,Merivakuutus Oy Triton,yes,18.575769424438477
+hidden_test_fi_2,4850,4858,Suomessa,Q62633,LOC,NIL,Suomessa,no,0
+hidden_test_fi_3,2031,2038,Venäjän,Q159,LOC,NIL,Venäjän,no,0
+hidden_test_fi_3,2456,2486,sekatyöntekijä Feodor Semenoff,NIL,PER,Q5494351,sekatyömies,yes,14.047863960266113
+hidden_test_fi_3,2778,2844,"kansakoulunopettaja-tar, leskirouva Hilja Maria Maleva (Am-sinoff)",NIL,PER,Q513984,kansakoulu,yes,13.603463172912598
+hidden_test_fi_3,3254,3283,maanviljelijäIgnati Rytshkoff,NIL,PER,Q838811,talonpoika,yes,13.732712745666504
+hidden_test_fi_3,3313,3340,agronoomi Nicolai Fabricius,NIL,PER,Q285338,Otto Fabricius,yes,13.237927436828613
+hidden_test_fi_3,3502,3543,työn-johtaja Juho Merivaara (Prokoffjeff),NIL,PER,Q26244668,Juho Merivaara,yes,12.554762840270996
+hidden_test_fi_3,3645,3674,liikemies Constantin Va-gello,NIL,PER,Q43845,liikehenkilö,yes,13.336366653442383
+hidden_test_fi_3,3897,3925,opet-taja Josef Jaakkimainen,NIL,PER,Q37226,opettaja,yes,16.795576095581055
+hidden_test_fi_3,4908,4918,Lehtovaara,NIL,PER,Q11875331,Lehtovaara,yes,13.575207710266113
+hidden_test_fi_3,6937,6947,G. Örnille,NIL,PER,Q6257257,Robert Isidor Örn,yes,17.184711456298828
+hidden_test_fi_3,9044,9078,kruu-nunnimismies Br. Rosenbröijer,NIL,PER,Q17383348,John Rosenbröijer,yes,13.633800506591797
+hidden_test_fi_3,9589,9610,Nurmijärven kun-nassa,Q597156,LOC,NIL,Nurmijärven kun-nassa,no,0
+hidden_test_fi_4,264,285,J. F. Valle-niukselta,NIL,PER,Q6230706,Johan Fredrik Wallenius,yes,29.200122833251953
+hidden_test_fi_4,1133,1168,Asikkalan pi-täjän Yrjälän metsästä,NIL,LOC,Q730285,Asikkala,yes,25.13553237915039
+hidden_test_fi_4,1172,1201,JalkarannanJaakkolan metsästä,NIL,LOC,Q18659441,Jaakkola,yes,18.784799575805664
+hidden_test_fi_4,1921,1937,Onta-reen kylään,NIL,LOC,Q16022254,Ontajärvi,yes,14.769486427307129
+hidden_test_fi_4,2307,2313,Jaalan,Q1011082,LOC,Q18659446,Jaalan kirkko,yes,16.264667510986328
+hidden_test_fi_4,2494,2521,SchweizerischenLandesmuseum,Q691896,ORG,Q2256718,Sveitsin kansallismuseo,yes,22.95088005065918
+hidden_test_fi_4,4095,4103,Fin-land,Q62633,LOC,NIL,Fin-land,no,0
+hidden_test_fi_4,4214,4228,Viborgs socken,Q3433707,LOC,NIL,Viborgs socken,no,0
+hidden_test_fi_4,4362,4387,taiteilija Th. Vaenerberg,NIL,PER,Q6228261,Thorsten Waenerberg,yes,18.94156265258789
+hidden_test_fi_4,4589,4611,Ottovon Nordenskjöldin,NIL,PER,Q440310,Otto Nordenskjöld,yes,24.158184051513672
+hidden_test_fi_5,586,598,Englannis-sa,Q21,LOC,NIL,Englannis-sa,no,0
+hidden_test_fi_5,626,639,Vlakfonteinin,Q7939001,LOC,Q37701,Bloemfontein,yes,11.902854919433594
+hidden_test_fi_5,936,949,Kruitzingerin,Q7192784,PER,Q244407,Paul Kruger,yes,17.06242561340332
+hidden_test_fi_6,534,546,kapteeniRuth,Q6084483,PER,Q91312978,Knut Henrik Albert Ruth,yes,12.218887329101562
+hidden_test_fi_6,850,866,Wilhelm Wendelin,NIL,PER,Q97340783,Otto Wendelin,yes,20.803987503051758
+hidden_test_fi_6,3470,3490,Kansallisteatterissa,Q1200969,LOC,Q108560166,Suomen Kansallisteatteri,yes,30.515840530395508
+hidden_test_fi_7,2082,2092,Lontooseen,Q84,LOC,NIL,Lontooseen,no,0
+hidden_test_fi_7,2263,2268,Witte,NIL,PER,Q155329,Sergei Witte,yes,4.6247968673706055
+hidden_test_fi_7,3385,3392,Wollmar,NIL,PER,Q91433,Georg von Vollmar,yes,16.265031814575195
+hidden_test_fi_7,5345,5357,TohtoriRosen,NIL,PER,Q213968,Friedrich Rosen,yes,12.515155792236328
+hidden_test_fi_7,5774,5787,Harry Maclean,NIL,PER,Q1225338,Harry MacLean,yes,16.17344856262207
+hidden_test_fi_7,7254,7268,Majuri Meister,NIL,PER,Q1598291,Heinrich Meister,yes,11.8565034866333
+hidden_test_fi_8,1850,1872,monttööri G. Lindström,NIL,PER,Q11860604,Gottfrid Lindström,yes,13.686058044433594
+hidden_test_fi_8,3200,3205,Louhi,Q11876276,PROD,Q214777,Lohja,yes,6.05437707901001
+hidden_test_fi_9,842,851,Bülowilla,NIL,PER,Q60113,Bernhard von Bülow,yes,22.40033721923828
+hidden_test_fi_10,98,116,edustaja S. Alkion,Q2319774,PER,Q55824505,Sigyn Alenius,yes,15.253215789794922
+hidden_test_fi_10,188,196,Suomessa,Q33,LOC,Q62633,Suomen suuriruhtinaskunta,yes,13.703533172607422
+hidden_test_fi_10,4043,4049,Suomen,Q33,LOC,Q27916528,Suomen itsenäistyminen,yes,15.75391674041748
+hidden_test_fi_12,495,502,Jupiter,Q319,LOC,Q193,Saturnus,yes,18.09920883178711
+hidden_test_fi_17,70,77,Jumalan,Q825,PER,Q190,Jumala,yes,20.23206901550293
+hidden_test_fi_17,122,146,Jumalan Pyhältä Hengeltä,Q825,PER,Q37302,Pyhä Henki,yes,19.965946197509766
+hidden_test_fi_17,228,234,Jumala,Q825,PER,Q190,Jumala,yes,19.329416275024414
+hidden_test_fi_18,50,57,Jumalan,Q825,PER,Q190,Jumala,yes,16.987289428710938
+hidden_test_fi_19,11,31,Jumala kaikkiwaltias,Q825,PER,Q190,Jumala,yes,10.970582962036133
+hidden_test_fi_21,2510,2519,Suomenkin,Q62633,LOC,NIL,Suomenkin,no,0
+hidden_test_fi_21,2907,2941,"I. Brusila,entinen waltiopäiwämies",NIL,PER,Q105037587,Juho Brusila,yes,15.34194278717041
+hidden_test_fi_21,4230,4243,Suomettarella,NIL,PROD,Q18680151,Laatokka,yes,20.02158546447754
+hidden_test_fi_22,154,162,Welku=an,NIL,LOC,Q939276,Velkua,yes,14.080589294433594
+hidden_test_fi_22,272,288,Lokalahden kapp.,NIL,ORG,Q3366495,Lokalahti,yes,20.197107315063477
+hidden_test_fi_22,339,355,Uudenkirkon pit.,Q3366114,LOC,Q3434047,Uudenkaupungin maalaiskunta,yes,12.519536972045898

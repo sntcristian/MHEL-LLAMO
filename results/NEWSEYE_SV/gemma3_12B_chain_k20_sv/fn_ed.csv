@@ -1,0 +1,250 @@
+doc_id,surface,start_pos,end_pos,type,identifier
+hidden_test_sv_1,Robert Lydecken,185,200,PER,NIL
+hidden_test_sv_1,RobertLydecken,303,317,PER,NIL
+hidden_test_sv_1,"H. exc. ministerstatssek-reteraren, generallöjtnant W. vonDæhn",473,535,PER,Q5614831
+hidden_test_sv_1,Handlanden K.A. Aaltonen,742,766,PER,NIL
+hidden_test_sv_1,Viksbärg säteri,838,853,LOC,NIL
+hidden_test_sv_1,Hel-singe socken,856,872,LOC,Q127623
+hidden_test_sv_1,Her-manstad kvart. II tomt n:o 1,891,923,LOC,NIL
+hidden_test_sv_1,prinsessanTörnrosa,1605,1623,PER,NIL
+hidden_test_sv_1,frk. Bergroth,1625,1638,PER,NIL
+hidden_test_sv_1,psendony-men Alceste,1778,1798,PER,NIL
+hidden_test_sv_1,Vilhelms-bad,2117,2129,LOC,Q18662881
+hidden_test_sv_1,hrGregorowitsch,2187,2202,PER,NIL
+hidden_test_sv_1,Raja-nus,2467,2475,PER,Q708902
+hidden_test_sv_1,Yrjö Veijola,2763,2775,PER,Q17384831
+hidden_test_sv_1,"återgifvarne af hufvud-rollerna, fru Leino",2936,2978,PER,NIL
+hidden_test_sv_1,bolagets värkställande di-rektör konsul G. A. Lindblom,3163,3217,PER,NIL
+hidden_test_sv_1,Baltisch-port,3941,3954,LOC,Q204091
+hidden_test_sv_1,Lappvikslastageplats,4687,4707,LOC,NIL
+hidden_test_sv_1,Lappvikshamn,4790,4802,LOC,NIL
+hidden_test_sv_1,Finska ång-fartygsaktiebolaget,5257,5287,ORG,NIL
+hidden_test_sv_1,"make,garfvaren D. Suominen",5440,5466,PER,NIL
+hidden_test_sv_1,Vibbl.,5498,5504,PROD,Q18662795
+hidden_test_sv_1,aflidnekonsul Robert Lydecken:,5533,5563,PER,NIL
+hidden_test_sv_1,Lyytikäinen,5979,5990,PER,NIL
+hidden_test_sv_1,Robert Ferdinand Lydecken,6017,6042,PER,NIL
+hidden_test_sv_1,Bœchmska skolan,6083,6098,ORG,NIL
+hidden_test_sv_1,W. BeckersWittwe,6305,6321,ORG,NIL
+hidden_test_sv_1,Lydecken,6569,6577,PER,NIL
+hidden_test_sv_1,handlanden Herman Stahl,6755,6778,PER,NIL
+hidden_test_sv_1,Hangö,6804,6809,LOC,Q216790
+hidden_test_sv_2,lm Fellman,40,50,PER,Q11853353
+hidden_test_sv_2,Finlands Banks,118,132,ORG,NIL
+hidden_test_sv_2,Finlands Banks,300,314,ORG,NIL
+hidden_test_sv_2,Lm Bremer,354,363,PER,NIL
+hidden_test_sv_2,hr Fellman,398,408,PER,Q11853353
+hidden_test_sv_2,lmAvellan,630,639,PER,NIL
+hidden_test_sv_2,Lm Perho,793,801,PER,NIL
+hidden_test_sv_2,Värri,812,817,PER,NIL
+hidden_test_sv_2,Forsman,829,836,PER,NIL
+hidden_test_sv_2,lm Fieandt,899,909,PER,NIL
+hidden_test_sv_2,Huopo-nen,911,920,PER,Q11884211
+hidden_test_sv_2,Leppänen,932,940,PER,NIL
+hidden_test_sv_2,Li-belits,943,952,LOC,Q608803
+hidden_test_sv_2,Eklund,955,961,PER,NIL
+hidden_test_sv_2,lm Meurman,1568,1578,PER,Q3375788
+hidden_test_sv_2,Lm Punttala,2088,2099,PER,NIL
+hidden_test_sv_2,Holmén,2218,2224,PER,NIL
+hidden_test_sv_2,Lm Avellan,2288,2298,PER,Q11856627
+hidden_test_sv_2,Lm Aulin,2394,2402,PER,NIL
+hidden_test_sv_2,Lm Fieandt,2701,2711,PER,NIL
+hidden_test_sv_2,lmPerho,2726,2733,PER,NIL
+hidden_test_sv_2,Lm Avellan,2971,2981,PER,Q11856627
+hidden_test_sv_2,lm Col-liander,3093,3107,PER,NIL
+hidden_test_sv_2,Lm Avellan,3301,3311,PER,Q11856627
+hidden_test_sv_2,lm Colliander,3406,3419,PER,NIL
+hidden_test_sv_2,Lm Köni,3471,3478,PER,NIL
+hidden_test_sv_2,Lm Bremer,3546,3555,PER,NIL
+hidden_test_sv_2,Lm. Laine,3804,3813,PER,Q17382045
+hidden_test_sv_2,Lm. Aulin,4074,4083,PER,NIL
+hidden_test_sv_2,Lm. Laine,4205,4214,PER,Q17382045
+hidden_test_sv_2,Lm. Slotte,4287,4297,PER,Q6181110
+hidden_test_sv_2,Lm. Eriksson,4320,4332,PER,NIL
+hidden_test_sv_2,Lm. Roiha,4386,4395,PER,NIL
+hidden_test_sv_2,Hildén,4397,4403,PER,NIL
+hidden_test_sv_2,Flygare,4405,4412,PER,NIL
+hidden_test_sv_2,Lm. Punttala,4443,4455,PER,NIL
+hidden_test_sv_2,Lm. Huoponen,4484,4496,PER,Q11884211
+hidden_test_sv_2,kooperationsföreningen Labor,5087,5115,ORG,NIL
+hidden_test_sv_2,fru EsterMalmgren,5484,5501,PER,NIL
+hidden_test_sv_2,afdelnings-kontoret i Mariehamn,5547,5578,LOC,NIL
+hidden_test_sv_2,aflidne bankdirektörenA. F. Björkman,5778,5814,PER,NIL
+hidden_test_sv_2,Handelsföreningens,5857,5875,ORG,NIL
+hidden_test_sv_2,Nordiska ak-tiebankens förvaltningsråd,5936,5974,ORG,NIL
+hidden_test_sv_2,"t. f. föreståndaren för bankens kontor,löjtnant V. Nyberg",5986,6043,PER,NIL
+hidden_test_sv_2,"stadsfull-mäktiges viceordförande, kommunalrå-det B. E. Hollmerus",6054,6119,PER,NIL
+hidden_test_sv_2,mag. K. Grönlund,6440,6456,PER,NIL
+hidden_test_sv_2,Lagman Ferd. Jusélius,6476,6497,PER,Q17381212
+hidden_test_sv_2,Viborg arbetaren P.Pelkonens,7412,7440,PER,NIL
+hidden_test_sv_2,Fagernäs,7833,7841,LOC,NIL
+hidden_test_sv_2,Wästergåd,7852,7861,LOC,NIL
+hidden_test_sv_2,Granham-marshemman i Fagernäs by af Snap-pertuna kapell,7867,7922,LOC,NIL
+hidden_test_sv_2,hr Hjalmar Bäcklund,7954,7973,PER,NIL
+hidden_test_sv_2,kommunalnämdsordföranden possessio-naten hr F. Björklund,7979,8035,PER,NIL
+hidden_test_sv_3,Frankrikes,245,255,LOC,Q70802
+hidden_test_sv_3,Frankrike,317,326,LOC,Q70802
+hidden_test_sv_3,Frankri-kes,366,377,LOC,Q70802
+hidden_test_sv_3,ZARA,1035,1039,LOC,NIL
+hidden_test_sv_3,Lesinashamn,1055,1066,LOC,NIL
+hidden_test_sv_3,konstitutionellaTurkiet,1434,1457,LOC,Q43
+hidden_test_sv_3,Armeniens,1852,1861,LOC,Q399
+hidden_test_sv_3,Armeniens,2083,2092,LOC,Q399
+hidden_test_sv_3,Konstantinopel,2303,2317,LOC,Q406
+hidden_test_sv_3,arme-niska patriarken Nerses Warjapetian,2496,2536,PER,Q972099
+hidden_test_sv_3,Berlin,2551,2557,LOC,Q64
+hidden_test_sv_3,Cypern,2715,2721,LOC,Q644636
+hidden_test_sv_3,San Stefano,2749,2760,LOC,NIL
+hidden_test_sv_3,Berlin,2766,2772,LOC,Q64
+hidden_test_sv_3,Armenia,4079,4086,PROD,NIL
+hidden_test_sv_3,"gruppens ledare, MinasTscheras",4135,4165,PER,NIL
+hidden_test_sv_3,Hentschak,4241,4250,ORG,NIL
+hidden_test_sv_3,Konstanti-nopel,5714,5729,LOC,Q406
+hidden_test_sv_3,Scharaf bey,5780,5791,PER,NIL
+hidden_test_sv_3,bolaget Fennia,9218,9232,ORG,Q11859482
+hidden_test_sv_3,bolaget Fennia,9469,9483,ORG,Q11859482
+hidden_test_sv_4,Engelska kajen,173,187,LOC,Q588478
+hidden_test_sv_4,Rumjantseffmuseet,283,300,ORG,Q948457
+hidden_test_sv_4,Paschkoffhuset,518,532,LOC,Q949402
+hidden_test_sv_4,Rumjant-seff-museet,559,578,ORG,Q948457
+hidden_test_sv_4,Rysslands,602,611,LOC,Q34266
+hidden_test_sv_4,helaRyssland,708,720,LOC,Q34266
+hidden_test_sv_4,Frankrike,1975,1984,LOC,Q70802
+hidden_test_sv_4,Tidningen Paris Midi,2250,2270,PROD,Q3365121
+hidden_test_sv_4,Nancy's Casino,2304,2318,LOC,NIL
+hidden_test_sv_4,Casino,3568,3574,LOC,NIL
+hidden_test_sv_4,Casino,3792,3798,LOC,NIL
+hidden_test_sv_4,Casino,3929,3935,LOC,NIL
+hidden_test_sv_4,Frankrike,4772,4781,LOC,Q70802
+hidden_test_sv_4,Tyskland,4885,4893,LOC,Q43287
+hidden_test_sv_5,anstalten Düren,969,984,LOC,NIL
+hidden_test_sv_5,poliskonstapeln iRaunistula Yrjö Oskar Toivo,1824,1868,PER,NIL
+hidden_test_sv_5,Toivo,1927,1932,PER,NIL
+hidden_test_sv_5,Kon-stapeln Toivo,2450,2467,PER,NIL
+hidden_test_sv_5,Häfverö,2636,2643,LOC,NIL
+hidden_test_sv_5,Dragör,2757,2763,LOC,NIL
+hidden_test_sv_5,Hull,2872,2876,LOC,Q128147
+hidden_test_sv_6,Rysslands,3607,3616,LOC,Q34266
+hidden_test_sv_6,F. N. B.Italien,4263,4278,LOC,Q172579
+hidden_test_sv_6,Tyskland,4301,4309,LOC,Q43287
+hidden_test_sv_6,ltaliens,4445,4453,LOC,Q172579
+hidden_test_sv_6,Tyskland,4473,4481,LOC,Q43287
+hidden_test_sv_6,ltalien,4710,4717,LOC,Q172579
+hidden_test_sv_6,Tsjili,4961,4967,LOC,NIL
+hidden_test_sv_6,norra Kina,5065,5075,LOC,NIL
+hidden_test_sv_6,huvudstadsprovinsenTsjili,5089,5114,LOC,NIL
+hidden_test_sv_6,Hoangn,5189,5195,LOC,NIL
+hidden_test_sv_6,provinsen Hupch,5333,5348,LOC,Q46862
+hidden_test_sv_6,till vissgrad frisinnade Tsjngtsjitungs,5379,5418,PER,NIL
+hidden_test_sv_6,Pekingregeringen,5874,5890,ORG,NIL
+hidden_test_sv_6,Kina,6130,6134,LOC,Q29520
+hidden_test_sv_7,försäkringsinspektören d:r Aug. Ramsay,2329,2367,PER,NIL
+hidden_test_sv_7,Hel-singfors arbetareförenings kvinnoafdel-ning,4264,4311,ORG,NIL
+hidden_test_sv_7,Kronoborgs komman,6359,6376,ORG,Q15839066
+hidden_test_sv_7,Kronoborgs kommun,6395,6412,ORG,Q15839066
+hidden_test_sv_7,Finland,6678,6685,LOC,Q62633
+hidden_test_sv_7,herrskapet v. Hert-zen,6994,7016,PER,NIL
+hidden_test_sv_7,Suni,7058,7062,LOC,NIL
+hidden_test_sv_7,domprostinnan H.,7205,7221,PER,NIL
+hidden_test_sv_7,prot. d:r Ström-borgs,7665,7686,PER,NIL
+hidden_test_sv_7,Bbl.,7886,7890,PROD,Q3364582
+hidden_test_sv_8,Elsass,937,943,LOC,Q1142
+hidden_test_sv_8,Brabant,1252,1259,LOC,Q934274
+hidden_test_sv_8,Erbois,1263,1269,LOC,NIL
+hidden_test_sv_8,Fleury,1329,1335,LOC,Q59254
+hidden_test_sv_8,Charny,1339,1345,LOC,NIL
+hidden_test_sv_8,Fleury,1450,1456,LOC,Q59254
+hidden_test_sv_8,Charny,1458,1464,LOC,NIL
+hidden_test_sv_8,Mars,1466,1470,LOC,NIL
+hidden_test_sv_8,Choisel,1472,1479,LOC,NIL
+hidden_test_sv_8,Brabant,1682,1689,LOC,NIL
+hidden_test_sv_8,Beaumont,1781,1789,LOC,NIL
+hidden_test_sv_8,Retsch,1824,1830,PROD,Q1419486
+hidden_test_sv_9,vice advokatfiskalen i Wasa hofrättE. von Willebrand,1717,1769,PER,NIL
+hidden_test_sv_10,Öfwerste Appelberg,436,454,PER,NIL
+hidden_test_sv_10,T:fors,459,465,LOC,Q40840
+hidden_test_sv_10,rådman Malm,484,495,PER,NIL
+hidden_test_sv_10,Jakobstadkonsulinnan Åberg,500,526,PER,NIL
+hidden_test_sv_10,handl. Willman,528,542,PER,NIL
+hidden_test_sv_10,häradshöfd. Forselles,553,574,PER,NIL
+hidden_test_sv_10,Sundholm,611,619,PER,NIL
+hidden_test_sv_10,Fiskars,671,678,LOC,Q3503204
+hidden_test_sv_10,Wahlström,703,712,PER,NIL
+hidden_test_sv_10,hotel Wilhelms=bad,727,745,ORG,Q18662881
+hidden_test_sv_10,lektor Nordenskjöld,747,766,PER,NIL
+hidden_test_sv_10,handl. Humerus,797,811,PER,NIL
+hidden_test_sv_10,fru Engblom,824,835,PER,NIL
+hidden_test_sv_10,hotel Freden,847,859,ORG,NIL
+hidden_test_sv_10,vice kr:länsm. Holmgren,861,884,PER,NIL
+hidden_test_sv_10,hrr:ne Mannström,895,911,PER,NIL
+hidden_test_sv_10,T:hus,924,929,LOC,Q202158
+hidden_test_sv_10,Glogtn 8,1009,1017,LOC,NIL
+hidden_test_sv_10,fröken von Essen,1043,1059,PER,NIL
+hidden_test_sv_10,Kimi=to,1064,1071,LOC,Q425790
+hidden_test_sv_10,kapten Helsingius,1092,1109,PER,NIL
+hidden_test_sv_10,sröknarne Jägerhorn,1134,1153,PER,NIL
+hidden_test_sv_10,T:hus,1158,1163,LOC,Q202158
+hidden_test_sv_10,N. Esplanadgtn 41,1164,1181,LOC,NIL
+hidden_test_sv_10,fröken Bergroth,1186,1201,PER,NIL
+hidden_test_sv_10,T:fors,1206,1212,LOC,Q40840
+hidden_test_sv_10,Wöråpastorat,1398,1410,ORG,NIL
+hidden_test_sv_10,T:fors,1611,1617,LOC,Q40840
+hidden_test_sv_10,Ekenäs,1892,1898,LOC,Q1004838
+hidden_test_sv_10,T:fors,1900,1906,LOC,Q40840
+hidden_test_sv_11,Gostinni-Dwor,631,644,LOC,Q3052597
+hidden_test_sv_11,Gostinni-Dwor,1698,1711,LOC,Q3052597
+hidden_test_sv_11,Gostinni-Dwor,1845,1858,LOC,Q3052597
+hidden_test_sv_11,Helsingfors,2268,2279,LOC,Q1757
+hidden_test_sv_11,Mischa,4789,4795,PER,NIL
+hidden_test_sv_11,nya Alexanders-bezaren,5121,5143,LOC,NIL
+hidden_test_sv_11,Mischa,5197,5203,PER,NIL
+hidden_test_sv_11,Mischa,5260,5266,PER,NIL
+hidden_test_sv_11,Mascha,5302,5308,PER,NIL
+hidden_test_sv_12,Öster=rikes,166,177,LOC,Q131964
+hidden_test_sv_12,Parma,318,323,LOC,Q16228
+hidden_test_sv_12,Piacenza,328,336,LOC,Q16243
+hidden_test_sv_12,Österrikes,474,484,LOC,Q131964
+hidden_test_sv_12,Österrikes,658,668,LOC,Q131964
+hidden_test_sv_12,Österrike,708,717,LOC,Q131964
+hidden_test_sv_12,Bems,781,785,PER,NIL
+hidden_test_sv_12,Komorn,1101,1107,LOC,Q625154
+hidden_test_sv_12,Ferdinand V.,1390,1402,PER,Q183579
+hidden_test_sv_12,Ferdinand V.,1410,1422,PER,Q183579
+hidden_test_sv_12,Schwartzenberg=Stadions,1620,1643,LOC,NIL
+hidden_test_sv_12,Ryßland,2169,2176,LOC,Q34266
+hidden_test_sv_12,Siebenbürgens,2478,2491,LOC,Q39473
+hidden_test_sv_12,Guerazzi,2662,2670,LOC,Q518925
+hidden_test_sv_12,Constantinopel,2781,2795,LOC,Q406
+hidden_test_sv_12,"Predikanten å Skarpans fästning, vice PastorenMag. Henrik Johan Hjorth",3191,3261,PER,NIL
+hidden_test_sv_13,Åblmanska gården N:o 5,177,199,LOC,NIL
+hidden_test_sv_13,Nylandsgatan,257,269,LOC,Q18662573
+hidden_test_sv_13,Riddaren Torsten Molanders,312,338,PER,NIL
+hidden_test_sv_13,Åbo stads Auktionskammare,1128,1153,ORG,NIL
+hidden_test_sv_13,"A. P. Forßman, f:d",1170,1188,PER,NIL
+hidden_test_sv_13,J. W. Lillja & Co,1228,1245,ORG,NIL
+hidden_test_sv_15,nya Tivoli-theatern,6,25,ORG,NIL
+hidden_test_sv_15,Karelen,268,275,LOC,Q1069921
+hidden_test_sv_15,Jokkas,357,363,LOC,Q1000117
+hidden_test_sv_15,Libelitz,465,473,LOC,Q608803
+hidden_test_sv_15,Sä-resniemi sacellani,641,662,ORG,NIL
+hidden_test_sv_17,Italien,117,124,LOC,Q172579
+hidden_test_sv_17,Italien,291,298,LOC,Q172579
+hidden_test_sv_17,Italien,527,534,LOC,Q172579
+hidden_test_sv_17,Lappland,601,609,LOC,Q5700
+hidden_test_sv_17,Italien,869,876,LOC,Q172579
+hidden_test_sv_17,pånyttföd-da Italiens,1039,1060,LOC,Q172579
+hidden_test_sv_17,Italien,1122,1129,LOC,Q172579
+hidden_test_sv_17,kan-slisten C. Engdahl,1283,1305,PER,NIL
+hidden_test_sv_17,Hr Engdahl,1381,1391,PER,NIL
+hidden_test_sv_17,hr Engdahl,1580,1590,PER,NIL
+hidden_test_sv_18,Seine lnféri-eure,243,260,LOC,Q12758
+hidden_test_sv_19,Föreningsbanken,1013,1028,ORG,Q3070464
+hidden_test_sv_20,Tönsb. Bl.,35,45,PROD,Q7862380
+hidden_test_sv_20,Sandefjord,337,347,LOC,Q109005
+hidden_test_sv_20,"qwinlig medicine studeran-de, fröken Maria Folkesson",353,405,PER,NIL
+hidden_test_sv_20,Mot. T.,498,505,PROD,Q10589618
+hidden_test_sv_20,skarprättaren Samson,596,616,PER,NIL
+hidden_test_sv_20,staden Paris' historiskabibliotek,745,778,ORG,Q2901443
+hidden_test_sv_20,Samson,919,925,PER,NIL
+hidden_test_sv_20,domstolen för skilsmessor i London,1369,1403,ORG,Q5178306
+hidden_test_sv_20,hans swägerskamrs Ashton Dilke,1681,1711,PER,NIL

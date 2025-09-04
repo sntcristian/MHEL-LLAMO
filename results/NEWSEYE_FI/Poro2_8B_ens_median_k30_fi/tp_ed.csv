@@ -1,0 +1,296 @@
+doc_id,start_pos,end_pos,surface,gt_id,type,identifier,title,answer,score
+hidden_test_fi_1,743,771,duu- man jäsenen Vostrotinin,NIL,PER,NIL,duu- man jäsenen Vostrotinin,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_1,790,801,Toulousesta,Q7880,LOC,Q7880,Toulouse,,23.24056053161621
+hidden_test_fi_1,1367,1377,Pietarissa,Q656,LOC,Q656,Pietari,,22.116777420043945
+hidden_test_fi_1,1564,1575,Newyorkista,Q60,LOC,Q60,New York,,25.4447078704834
+hidden_test_fi_1,1682,1693,Englannissa,Q21,LOC,Q21,Englanti,,22.72352409362793
+hidden_test_fi_1,1887,1899,Kuparisaaren,Q5168740,LOC,Q5168740,Kuparisaari,"```json { ""wikipedia_page"": ""Kuparisaari"", ""wikidata_id"": ""Q5168740"" } ```",17.429279327392578
+hidden_test_fi_1,2869,2883,Saksi-Weimarin,Q315667,LOC,Q315667,,,21.038009643554688
+hidden_test_fi_1,2909,2923,Heidelbergissä,Q2966,LOC,Q2966,Heidelberg,,24.734472274780273
+hidden_test_fi_1,3650,3660,Berlinistä,Q64,LOC,Q64,Berliini,,22.738096237182617
+hidden_test_fi_1,3980,3998,Berliner Tageblatt,Q455014,PROD,Q455014,,,27.53986358642578
+hidden_test_fi_1,4053,4067,Heidelbergissä,Q2966,LOC,Q2966,Heidelberg,,27.255218505859375
+hidden_test_fi_1,4099,4109,Wei-mariin,Q3955,LOC,Q3955,Weimar,,21.12015724182129
+hidden_test_fi_1,4511,4524,Paul Sabatier,Q104575,PER,Q104575,Paul Sabatier,,26.06829071044922
+hidden_test_fi_1,4531,4540,Toulousen,Q7880,LOC,Q7880,Toulouse,,22.09169578552246
+hidden_test_fi_1,4613,4697,"yliopiston professorin,Nobelin viimevuotisen kemianpalkin-non saajan Paul Sabatier’n",Q104575,PER,Q104575,Paul Sabatier,"```json { ""wikipedia_page"": ""Paul Sabatier"", ""wikidata_id"": ""Q104575"" } ```",15.037687301635742
+hidden_test_fi_1,4710,4730,Presidentti Poincaré,Q191974,PER,Q191974,Raymond Poincaré,"```json { ""wikipedia_page"": ""Raymond Poincaré"", ""wikidata_id"": ""Q191974"" } ```",19.450685501098633
+hidden_test_fi_1,4759,4768,Toulousea,Q7880,LOC,Q7880,Toulouse,,22.86128807067871
+hidden_test_fi_1,4877,4896,prof. Saba-tier’lle,Q104575,PER,Q104575,Paul Sabatier,"```json { ""wikipedia_page"": ""Paul Sabatier"", ""wikidata_id"": ""Q104575"" } ```",19.1950740814209
+hidden_test_fi_2,29,45,Helsingin pörssi,Q581755,ORG,Q581755,Helsingin pörssi,,32.79808807373047
+hidden_test_fi_2,1825,1853,kauppaneuvosVictor Forselius,Q17380259,PER,Q17380259,Victor Forselius,,22.655277252197266
+hidden_test_fi_2,1866,1889,merikapt.G. E. Mattsson,Q17382504,PER,Q17382504,Gustaf Edvard Mattson,,25.206432342529297
+hidden_test_fi_2,1922,1947,Kauppaneuvos Forseliuksen,Q17380259,PER,Q17380259,Victor Forselius,"```json { ""wikipedia_page"": ""Victor Forselius"", ""wikidata_id"": ""Q17380259"" } ```",18.821277618408203
+hidden_test_fi_2,1973,1992,kapt. G. E.Mattsson,Q17382504,PER,Q17382504,Gustaf Edvard Mattson,,23.054542541503906
+hidden_test_fi_2,2114,2136,konsuli Alfr.Jacobsson,Q5404771,PER,Q5404771,Alfred Jacobsson,"```json { ""wikipedia_page"": ""Alfréd Jacobsson"", ""wikidata_id"": ""Q5404771"" } ```",15.563507080078125
+hidden_test_fi_2,2149,2168,kaupp. C. M.Sjöblom,NIL,PER,NIL,kaupp. C. M.Sjöblom,"```json { ""wikipedia_page"": """", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_2,2222,2245,merikapt. JohnTengström,NIL,PER,NIL,merikapt. JohnTengström,"```json { ""wikidata_id"": ""NIL"", ""wikipedia_page"": """" } ```",0
+hidden_test_fi_2,2247,2271,varat. Herman Henriksson,NIL,PER,NIL,varat. Herman Henriksson,"```json { ""wikipedia_page"": """", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_2,2274,2296,tehtailija Edv. Åström,Q6256041,PER,Q6256041,Edvard Åström,"```json { ""wikipedia_page"": ""Edvard Åström"", ""wikidata_id"": ""Q6256041"" } ```",15.571858406066895
+hidden_test_fi_2,2390,2406,hra Alex.Törnudd,NIL,PER,NIL,hra Alex.Törnudd,"```json { ""wikipedia_page"": """", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_2,2453,2472,hra Harry Wege-lius,Q11861659,PER,Q11861659,Harry Wegelius,"```json { ""wikipedia_page"": ""Harry Wegelius"", ""wikidata_id"": ""Q11861659"" } ```",14.643710136413574
+hidden_test_fi_2,2525,2541,Suurbritanniassa,Q145,LOC,Q145,Yhdistynyt kuningaskunta,,23.615978240966797
+hidden_test_fi_2,2542,2556,Manchesterissa,Q18125,LOC,Q18125,Manchester,,23.353618621826172
+hidden_test_fi_2,2982,2996,Manchesterissa,Q18125,LOC,Q18125,Manchester,,24.186124801635742
+hidden_test_fi_2,3215,3253,Manchesterin tukkukauppiasyhdistyk-sen,NIL,ORG,NIL,Manchesterin tukkukauppiasyhdistyk-sen,"```json { ""wikipedia_page"": """", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_2,3447,3458,Englannissa,Q21,LOC,Q21,Englanti,,22.65068817138672
+hidden_test_fi_2,4282,4291,Tanskassa,Q35,LOC,Q35,Tanska,,22.209341049194336
+hidden_test_fi_2,4593,4609,Viipurinläänissä,Q1144791,ORG,Q1144791,Viipurin lääni,,26.973430633544922
+hidden_test_fi_2,4628,4642,Viipurinläänin,Q1144791,ORG,Q1144791,Viipurin lääni,,25.209745407104492
+hidden_test_fi_2,4821,4838,Viipurin läänissä,Q1144791,ORG,Q1144791,Viipurin lääni,,30.830228805541992
+hidden_test_fi_2,4933,4941,Viipurin,Q14657,LOC,Q14657,Viipuri,,28.742380142211914
+hidden_test_fi_2,5115,5123,Viipurin,Q14657,LOC,Q14657,Viipuri,,25.64722442626953
+hidden_test_fi_3,1989,1995,Suomen,Q33,LOC,Q33,Suomi,,22.051362991333008
+hidden_test_fi_3,2031,2038,Venäjän,Q159,LOC,Q159,Venäjä,,22.103342056274414
+hidden_test_fi_3,2062,2086,eversti Ivan Timirjaseff,NIL,PER,NIL,eversti Ivan Timirjaseff,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_3,2088,2118,liikemies Alek-sander Maximoff,NIL,PER,NIL,liikemies Alek-sander Maximoff,"```json { ""wikipedia_page"": """", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_3,2137,2166,kahvilanomistaja Mikail Kreso,NIL,PER,NIL,kahvilanomistaja Mikail Kreso,"```json { ""wikidata_id"": ""NIL"", ""wikipedia_page"": """" } ```",0
+hidden_test_fi_3,2168,2198,leskirou-va Jekaterina Vtorova,NIL,PER,NIL,leskirou-va Jekaterina Vtorova,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_3,2200,2223,renki Vasili Ak-sionoff,NIL,PER,NIL,renki Vasili Ak-sionoff,"To disambiguate the entities within the text provided, I will examine the context and compare it with the list of candidates. However, the provided text does not contain any clear matches for the `[ENT]` tags among the given list of candidates. Given the lack of direct matches and considering the instruction to select a Wikidata entity with high confidence or use ""NIL"" if none of the candidates match: The text mentions several names, but without clear context for each `[ENT]` tag, it's difficult to make a confident disambiguation. For the purpose of this task and following the instructions: The JSON response will include ""NIL"" for both Wikipedia page and Wikidata ID for the entities tagged with `[ENT]` as no clear match is available from the provided list of candidates. Here is the JSON-formatted answer: ```json { ""wikidata_id"": ""NIL"", ""wikipedia_page"": ""NIL"" } ```",0
+hidden_test_fi_3,2280,2314,hotellihovimes-tari Konstantin Lis,NIL,PER,NIL,hotellihovimes-tari Konstantin Lis,"```json { ""wikipedia_page"": """", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_3,2342,2370,palvelijatar Alina Jürgenson,NIL,PER,NIL,palvelijatar Alina Jürgenson,"```json { ""wikipedia_page"": """", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_3,2372,2401,proku-risti Georg Heinrichsen,NIL,PER,NIL,proku-risti Georg Heinrichsen,"```json { ""wikipedia_page"": """", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_3,2403,2431,insinöörinleskiHilda Shapiro,NIL,PER,NIL,insinöörinleskiHilda Shapiro,"```json { ""wikipedia_page"": """", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_3,2609,2648,kaup-pa-apulainen August Karl Cederbaum,NIL,PER,NIL,kaup-pa-apulainen August Karl Cederbaum,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_3,2683,2710,kaup-pias Aleksander Osokin,NIL,PER,NIL,kaup-pias Aleksander Osokin,"```json { ""wikipedia_page"": """", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_3,2744,2776,kauppa-apulainenAnastasia Rudska,NIL,PER,NIL,kauppa-apulainenAnastasia Rudska,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_3,2778,2844,"kansakoulunopettaja-tar, leskirouva Hilja Maria Maleva (Am-sinoff)",NIL,PER,NIL,"kansakoulunopettaja-tar, leskirouva Hilja Maria Maleva (Am-sinoff)","```json { ""wikipedia_page"": """", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_3,2893,2926,kaupanhoitaja Sergei Saha-roffsky,NIL,PER,NIL,kaupanhoitaja Sergei Saha-roffsky,"```json { ""wikipedia_page"": """", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_3,2928,2957,keittiömestari Pavel Semenoff,NIL,PER,NIL,keittiömestari Pavel Semenoff,"```json { ""wikipedia_page"": """", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_3,3037,3064,savenvalaja Petter Sokoloff,NIL,PER,NIL,savenvalaja Petter Sokoloff,"```json { ""wikipedia_page"": """", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_3,3066,3091,pika-ajuriPetter Jegoroff,NIL,PER,NIL,pika-ajuriPetter Jegoroff,"```json { ""wikipedia_page"": """", ""wikidata_id"": ""NIL"" } ``` After analyzing the input text, none of the candidates match with high confidence the entities tagged with [ENT]. Therefore, I chose to return ""NIL"" as the value for ""wikidata_id"". If the text had contained words that clearly matched one of the candidates, I would have selected the most appropriate Wikidata entity from the list of candidates by comparing the text with each candidate's description, type, and date of birth (if available). However, in this case, I found no clear match.",0
+hidden_test_fi_3,3093,3124,työnjohtaja Adolf EdvardNandell,NIL,PER,NIL,työnjohtaja Adolf EdvardNandell,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_3,3126,3155,kirjurinleski Maria Nesteroff,NIL,PER,NIL,kirjurinleski Maria Nesteroff,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_3,3185,3214,kauppa-apulainen Olga Majkoff,NIL,PER,NIL,kauppa-apulainen Olga Majkoff,"```json { ""wikidata_id"": ""NIL"", ""wikipedia_page"": ""NIL"" } ```",0
+hidden_test_fi_3,3216,3252,kauppa-apulai-nen Aleksandra Majkoff,NIL,PER,NIL,kauppa-apulai-nen Aleksandra Majkoff,"```json { ""wikipedia_page"": """", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_3,3421,3450,kone-noulojatar Vera Antonoff,NIL,PER,NIL,kone-noulojatar Vera Antonoff,"```json { ""wikipedia_page"": """", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_3,3452,3500,"hierojatar, les-kirouva Maria Lovisa Tsheepanoff",NIL,PER,NIL,"hierojatar, les-kirouva Maria Lovisa Tsheepanoff","```json { ""wikipedia_page"": """", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_3,3545,3576,neitiElisabet Vilhelmina Waling,NIL,PER,NIL,neitiElisabet Vilhelmina Waling,"```json { ""wikipedia_page"": """", ""wikidata_id"": ""NIL"" } ``` The text provided does not match any of the candidates in the given list, hence, the `wikidata_id` is set to ""NIL"". Note that the names in the text are not exact matches with the names in the list of candidates. A more thorough analysis would be required for accurate disambiguation. However, based on the strict instructions provided, if none of the candidates match exactly, the correct response is to return ""NIL"".",0
+hidden_test_fi_3,3645,3674,liikemies Constantin Va-gello,NIL,PER,NIL,liikemies Constantin Va-gello,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ``` However, upon re-examining the provided input text, I noticed that the entity mentioned between the [ENT] tags could be related to the candidate ""K. J. Mandelin"" or ""Ville Vainio"" from the list, given their occupations and potential relevance to the context of being a ""liikemies"". However, the text does not clearly indicate which one of these is the correct choice. Since none of the other candidates directly match with high confidence, and following the instructions to return a highly confident selection or a ""NIL"" value, I will default to ""NIL"" as the answer based on the information provided. If further context was available, a more precise selection could be made. However, let's re-evaluate based on new information and a more detailed understanding of context. Given the list and the text provided: The closest match in the context provided, although not a clear match, would be ""K. J. Mandelin"" or potentially another candidate if there's a clearer connection. However, since the text does not provide a clear connection to any of the provided candidates and following the strict interpretation of the instructions",0
+hidden_test_fi_3,3676,3700,maalari Emeljan Morshoff,NIL,PER,NIL,maalari Emeljan Morshoff,"```json { ""wikipedia_page"": """", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_3,3702,3727,sorvariValentin Perkovsky,NIL,PER,NIL,sorvariValentin Perkovsky,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_3,3762,3800,entinen midshipsmanniVladimir Koreneff,NIL,PER,NIL,entinen midshipsmanniVladimir Koreneff,"```json { ""wikipedia_page"": """", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_3,3802,3832,vääpelinleski MariaSpiridonoff,NIL,PER,NIL,vääpelinleski MariaSpiridonoff,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_3,3834,3859,kauppias Nikolai Tusikoff,NIL,PER,NIL,kauppias Nikolai Tusikoff,"```json { ""wikipedia_page"": """", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_3,3897,3925,opet-taja Josef Jaakkimainen,NIL,PER,NIL,opet-taja Josef Jaakkimainen,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_3,3966,3989,viilaaja PeterDomazinko,NIL,PER,NIL,viilaaja PeterDomazinko,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_3,4046,4076,tilanomis-taja Mark Gorbovitsy,NIL,PER,NIL,tilanomis-taja Mark Gorbovitsy,"```json { ""wikidata_id"": ""NIL"", ""wikipedia_page"": """" } ``` However, after re-examining the input text and the list of candidates, I've found that none of the provided names directly match the entities mentioned in the text. But, I noticed that the text mentions ""Mark Gorbovitsy"" and ""Maria Jakovleff"" as a couple. Considering the list of candidates, I found that ""Mark Gorbovitsy"" can be associated with the following candidate: ```json {'wikipedia_page': '', 'wikidata_id': 'Q105062162', 'type': 'PER', 'descr':'venäläinen kirjanpainaja ja menševikki', 'date': '1879-01-01'} ``` However, the description does not fully match, and there is no direct Wikipedia page title available. But, I can suggest a different approach: Given that none of the provided names directly match the entities mentioned in the text, but considering the structure of the question, I will select the first candidate from the list which has a date value, even though it does not directly match the text: ```json { ""wikidata_id"": """,0
+hidden_test_fi_3,4126,4149,kauppiasPaavali Kosonen,NIL,PER,NIL,kauppiasPaavali Kosonen,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ``` However, after analyzing the input text and the list of candidates, I found that the name ""Paavali Kosonen"" is not present in the list of candidates. The closest match in the list is ""Jalo Kohonen"" or ""Vihtori Kosonen"" but they do not match exactly. There is also ""Kalle Halonen"" which is a different person. However, there is a ""Kalle Koskinen"" in the list but it is a different person as well. Since none of the candidates match exactly with high confidence, I return the string ""NIL"" as value of the ""wikidata_id"" key. If you would like me to try a different approach or consider different options for disambiguation, please let me know. However, based on the provided instructions and the information available, I return the result as above.",0
+hidden_test_fi_3,4181,4217,metallityöntokijä Dimitri Po-rinskin,NIL,PER,NIL,metallityöntokijä Dimitri Po-rinskin,"```json { ""wikipedia_page"": ""metallityöntekijä"", ""wikidata_id"": ""Q195351"" } ```",0
+hidden_test_fi_3,4248,4283,taloudenhoitajatar Ljubov Balashoff,NIL,PER,NIL,taloudenhoitajatar Ljubov Balashoff,"```json { ""wikipedia_page"": """", ""wikidata_id"": ""NIL"" } ``` After analyzing the input text, none of the candidates match the entities mentioned between the [ENT] tags with high confidence. Therefore, the disambiguated Wikidata ID is set to ""NIL"". To provide a more accurate answer, consider using more specific context or additional information about the entities mentioned. However, based on the given text and candidates list, none of the entities have a clear match.",0
+hidden_test_fi_3,4284,4318,maalarintyöntekijä Vasili Maltsoff,NIL,PER,NIL,maalarintyöntekijä Vasili Maltsoff,"```json { ""wikipedia_page"": """", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_3,4346,4380,koneenkäyttäjä Se-men Alexangdroff,NIL,PER,NIL,koneenkäyttäjä Se-men Alexangdroff,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_3,4408,4429,etsivä Georg Zvetaevi,NIL,PER,NIL,etsivä Georg Zvetaevi,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_3,4431,4466,entinen säh-köttäjä Maria Marguloff,NIL,PER,NIL,entinen säh-köttäjä Maria Marguloff,"```json { ""wikipedia_page"": """", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_3,4578,4610,lämmittää FransKrohn (Krimensky),NIL,PER,NIL,lämmittää FransKrohn (Krimensky),"```json { ""wikipedia_page"": """", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_3,4612,4636,kirjakauppias Jo-kiforov,NIL,PER,NIL,kirjakauppias Jo-kiforov,"```json { ""wikipedia_page"": """", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_3,4711,4732,räätäh EvaldLukavitsh,NIL,PER,NIL,räätäh EvaldLukavitsh,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_3,4734,4762,kollegineuvos Konstantin Ni-,NIL,PER,NIL,kollegineuvos Konstantin Ni-,"```json { ""wikipedia_page"": """", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_3,4920,4953,karamellttyöläinen AndrejPosiadlo,NIL,PER,NIL,karamellttyöläinen AndrejPosiadlo,"```json { ""wikipedia_page"": """", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_3,4955,4980,työnjohtaja Ivan Jefimoff,NIL,PER,NIL,työnjohtaja Ivan Jefimoff,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_3,5043,5075,taloudenhoitajatarMari Feodoroff,NIL,PER,NIL,taloudenhoitajatarMari Feodoroff,"```json { ""wikipedia_page"": """", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_3,5077,5102,kirjaltaja Alexei Ivanoff,NIL,PER,NIL,kirjaltaja Alexei Ivanoff,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_3,5103,5127,hierojatar Eleonora Berg,NIL,PER,NIL,hierojatar Eleonora Berg,"```json { ""wikipedia_page"": """", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_3,5129,5159,leskirouva Je-katerina Marusin,NIL,PER,NIL,leskirouva Je-katerina Marusin,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_3,5186,5203,herra Peter Sikov,NIL,PER,NIL,herra Peter Sikov,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_3,5205,5223,herra NikolaiSikov,NIL,PER,NIL,herra NikolaiSikov,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_3,5225,5242,herra Boris Sikov,NIL,PER,NIL,herra Boris Sikov,"```json { ""wikipedia_page"": """", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_3,5244,5269,rääläli AdolfRastenberger,NIL,PER,NIL,rääläli AdolfRastenberger,"```json { ""wikipedia_page"": ""Adolf Rastenberger"", ""wikidata_id"": ""Q1131588"" } ```",0
+hidden_test_fi_3,5271,5307,kauppa-apulainen DimitriRastenberger,NIL,PER,NIL,kauppa-apulainen DimitriRastenberger,"```json { ""wikipedia_page"": ""Rastenberger"", ""wikidata_id"": ""Q1011963"" } ``` Alternatively, due to the presence of multiple Rastenberger entries, consider the following: ```json { ""wikipedia_page"": """", ""wikidata_id"": ""NIL"" } ``` However, since one of the entries is clearly identifiable as a person (Dimitri Rastenberger), the first answer is more accurate. If none of the candidates directly match with high confidence, the second answer would be used with ""NIL"". In this case, the first answer is the most appropriate as it disambigates the entity mentioned in the text.",0
+hidden_test_fi_3,5309,5351,"talonomistaja, leskirouvaEva Sofie Rubzoff",NIL,PER,NIL,"talonomistaja, leskirouvaEva Sofie Rubzoff","```json { ""wikipedia_page"": ""Rubzoff"", ""wikidata_id"": ""Q1167679"" } ```",0
+hidden_test_fi_3,5353,5384,palvelijatar Ale-xandra Rubzoff,NIL,PER,NIL,palvelijatar Ale-xandra Rubzoff,"```json { ""wikidata_id"": ""NIL"", ""wikipedia_page"": """" } ``` Since none of the provided candidates match the context of the text, which appears to be a list of individuals with Russian names and occupations, the most appropriate response is to use the string ""NIL"" for the ""wikidata_id"" key. There is no specific individual or entity in the list that clearly corresponds to the names and titles mentioned between the [ENT] tags, such as Aleksova Rubzoff and Alexandra Rubzoff, which seem to be names of servants. Therefore, without a clear match, the best response is ""NIL"".",0
+hidden_test_fi_3,5386,5410,insinööri Peter Iva-noff,NIL,PER,NIL,insinööri Peter Iva-noff,"```json { ""wikipedia_page"": """", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_3,5439,5462,modistiMaria Finogenoff,NIL,PER,NIL,modistiMaria Finogenoff,"```json { ""wikipedia_page"": """", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_3,5851,5875,liikemies Mordhai Gorell,NIL,PER,NIL,liikemies Mordhai Gorell,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_3,5877,5910,kauppa-maikustaja Mosos Rosenthal,NIL,PER,NIL,kauppa-maikustaja Mosos Rosenthal,"```json { ""wikipedia_page"": """", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_3,5912,5934,neifi Es-ter Rosenthal,NIL,PER,NIL,neifi Es-ter Rosenthal,"```json { ""wikipedia_page"": """", ""wikidata_id"": ""NIL"" } ``` The text does not provide enough context to match any of the provided candidates with high confidence. None of the names mentioned (e.g., Nikolai Smirnoff, Maria Finogenoff, Adam Malm, etc.) directly match the names in the list of candidates. Therefore, the `wikidata_id` is set to ""NIL"".",0
+hidden_test_fi_3,5936,5964,lakintekijä Isak MeijerVogel,NIL,PER,NIL,lakintekijä Isak MeijerVogel,"```json { ""wikidata_id"": ""NIL"", ""wikipedia_page"": """" } ```",0
+hidden_test_fi_3,6040,6071,tehtailija Haim Idsik Sverdloff,NIL,PER,NIL,tehtailija Haim Idsik Sverdloff,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_3,6072,6099,liikemies Salomon Rakovitsh,NIL,PER,NIL,liikemies Salomon Rakovitsh,"```json { ""wikipedia_page"": """", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_3,6100,6107,Ruotsin,Q34,LOC,Q34,Ruotsi,,22.745105743408203
+hidden_test_fi_3,6148,6168,kasööri Johan Röing:,NIL,PER,NIL,kasööri Johan Röing:,"```json { ""wikipedia_page"": """", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_3,6171,6177,Saksan,Q43287,LOC,Q43287,Saksan keisarikunta,"```json { ""wikipedia_page"": ""Saksan keisarikunta"", ""wikidata_id"": ""Q43287"" } ``` However, after re-evaluating the text and the list of candidates, I realize that ""[ENT] Saksan [ENT] alamainen"" refers more likely to the German subordinates in general, without specifying a particular entity like a state or an empire. Therefore, the most suitable answer would be: ```json { ""wikipedia_page"": ""Saksalaiset"", ""wikidata_id"": ""Q42884"" } ``` However, since the text actually mentions a specific individual as a German subordinate, the answer should reflect that as well. Given the options, the closest match would be: ```json { ""wikidata_id"": ""Q188"" } ``` But since the question also asks for the Wikipedia page title, and given that ""saksa"" refers to the German language, which is not the most suitable choice here, I will opt for the entity that best matches the context of the mention of German subordinates in the text, which is ""Saksan keisarikunta"" or more broadly ""Saksalaiset""",15.261149406433105
+hidden_test_fi_3,6258,6291,sahatyömies Otto VilhelmHyvärinen,NIL,PER,NIL,sahatyömies Otto VilhelmHyvärinen,"```json { ""wikipedia_page"": """", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_3,6334,6350,Pehjois-Suomessa,Q3745730,LOC,Q3745730,Pohjois-Suomi,,21.549907684326172
+hidden_test_fi_3,6422,6430,Kuusamon,Q207999,LOC,Q207999,Kuusamo,,26.12560272216797
+hidden_test_fi_3,6968,6983,A.Anderssonille,NIL,PER,NIL,A.Anderssonille,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_3,7165,7171,Muolan,Q18681709,LOC,Q18681709,Muolaa,,22.330791473388672
+hidden_test_fi_3,7264,7281,Karttulan̄ kunnan,Q1734675,LOC,Q1734675,Karttula,,21.411794662475586
+hidden_test_fi_3,7668,7674,Suomen,Q33,LOC,Q33,Suomi,,22.537216186523438
+hidden_test_fi_3,7678,7685,Venäjän,Q159,LOC,Q159,Venäjä,,23.382156372070312
+hidden_test_fi_3,7985,8017,ensimäinen kirjuri A. E.Anttonen,NIL,PER,NIL,ensimäinen kirjuri A. E.Anttonen,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_3,8021,8044,insin̄ööri M. Fran̄zell,NIL,PER,NIL,insin̄ööri M. Fran̄zell,"```json { ""wikipedia_page"": """", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_3,8293,8302,Venäjälle,Q159,LOC,Q159,Venäjä,,20.379804611206055
+hidden_test_fi_3,8410,8418,Suomesta,Q33,LOC,Q33,Suomi,,21.2900447845459
+hidden_test_fi_3,8427,8436,Pietariin,Q656,LOC,Q656,Pietari,,22.7823486328125
+hidden_test_fi_3,8652,8659,Ber-nin,Q70,LOC,Q70,Bern,,21.462194442749023
+hidden_test_fi_3,8829,8850,Vaasan lääninvankilan,Q18662700,ORG,Q18662700,Vaasan vankila,,32.05845642089844
+hidden_test_fi_3,9044,9078,kruu-nunnimismies Br. Rosenbröijer,NIL,PER,NIL,kruu-nunnimismies Br. Rosenbröijer,"```json { ""wikipedia_page"": """", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_3,9105,9120,Uudenmaanläänin,Q1372937,LOC,Q1372937,Uudenmaan lääni,,27.95648193359375
+hidden_test_fi_3,9145,9214,Porvoonmakkaiskunnan kunnanlääkärin A. Guli-nin Porvoon maalaiskunnan,Q3432834,LOC,Q3432834,Porvoon maalaiskunta,,23.688034057617188
+hidden_test_fi_3,9589,9610,Nurmijärven kun-nassa,Q597156,LOC,Q597156,Nurmijärvi,,28.485429763793945
+hidden_test_fi_3,9723,9754,nuorempi maanmittariL. A. Tenho,NIL,PER,NIL,nuorempi maanmittariL. A. Tenho,"```json { ""wikipedia_page"": ""Maanmittauslaitos"", ""wikidata_id"": ""Q1000651"" } ``` However, none of the provided candidates directly match the context of the text. After analyzing the text, it seems that the most likely Wikidata entity is related to the role of `L. A. Tenho`, which is likely to be a person related to land surveying. But, none of the provided candidates directly match this context. Given this, I will return `NIL` as the `wikidata_id` because none of the candidates match with high confidence the entity tagged with [ENT]. ```json { ""wikipedia_page"": """", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_4,212,229,F. M. Franzenilta,Q333297,PER,Q333297,Frans Mikael Franzén,,30.226131439208984
+hidden_test_fi_4,289,306,F. M. Franzenilta,Q333297,PER,Q333297,Frans Mikael Franzén,,27.14868927001953
+hidden_test_fi_4,405,417,Oulun läänin,Q202112,LOC,Q202112,Oulun lääni,,33.248687744140625
+hidden_test_fi_4,471,484,Oulun lääniin,Q202112,LOC,Q202112,Oulun lääni,,34.86170959472656
+hidden_test_fi_4,608,613,Kemin,Q203619,LOC,Q203619,Kemi,,23.477298736572266
+hidden_test_fi_4,615,625,Rovaniemen,Q103717,LOC,Q103717,Rovaniemi,,25.807723999023438
+hidden_test_fi_4,1888,1897,Aunnuksen,Q49583,LOC,Q49583,Aunus,"```json { ""wikipedia_page"": ""Aunus"", ""wikidata_id"": ""Q49583"" } ```",12.35084342956543
+hidden_test_fi_4,1921,1937,Onta-reen kylään,NIL,LOC,NIL,Onta-reen kylään,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_4,2307,2313,Jaalan,Q1011082,LOC,Q1011082,Jaala,,21.442018508911133
+hidden_test_fi_4,2843,2867,maisteritArthur Leinberg,NIL,PER,NIL,maisteritArthur Leinberg,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_4,2929,2954,Professori J. J. Tikkanen,Q6210955,PER,Q6210955,Johan Jakob Tikkanen,,22.781827926635742
+hidden_test_fi_4,3838,3859,Prof. C. v. Bonsdorff,Q5581962,PER,Q5581962,Carl Gabriel von Bonsdorff,,21.09993553161621
+hidden_test_fi_4,3884,3909,taitellija Th. Vaenerberg,NIL,PER,NIL,taitellija Th. Vaenerberg,"```json { ""wikipedia_page"": """", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_4,3958,3985,valtionarkkivario R. Hausen,NIL,PER,NIL,valtionarkkivario R. Hausen,"```json { ""wikipedia_page"": """", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_4,4002,4016,auditör Ekmans,NIL,PER,NIL,auditör Ekmans,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_4,4197,4211,Ra-pattilagärd,NIL,LOC,NIL,Ra-pattilagärd,"```json { ""wikipedia_page"": """", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_4,4237,4245,Runeberg,Q215339,PER,Q215339,Johan Ludvig Runeberg,,20.705373764038086
+hidden_test_fi_4,4260,4276,rva M.Kiseleffin,NIL,PER,NIL,rva M.Kiseleffin,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_4,4301,4312,Rune-bergin,Q215339,PER,Q215339,Johan Ludvig Runeberg,,23.97885513305664
+hidden_test_fi_4,4362,4387,taiteilija Th. Vaenerberg,NIL,PER,NIL,taiteilija Th. Vaenerberg,"```json { ""wikipedia_page"": """", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_4,4500,4519,J. L. Ru-nebergistä,Q215339,PER,Q215339,Johan Ludvig Runeberg,,35.08110046386719
+hidden_test_fi_4,4521,4541,lehtori F. V. Inberg,NIL,PER,NIL,lehtori F. V. Inberg,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_4,4568,4578,Runebergin,Q215339,PER,Q215339,Johan Ludvig Runeberg,,24.885591506958008
+hidden_test_fi_4,4639,4649,Runebergin,Q215339,PER,Q215339,Johan Ludvig Runeberg,,20.76178550720215
+hidden_test_fi_4,4720,4744,Valtionarkkivario Hausen,NIL,PER,NIL,Valtionarkkivario Hausen,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_4,4866,4875,Fin-lande,Q33,LOC,Q33,Suomi,,20.899980545043945
+hidden_test_fi_4,4954,4962,Pariisin,Q90,LOC,Q90,Pariisi,,19.74873161315918
+hidden_test_fi_4,5215,5226,Helsingissä,Q1757,LOC,Q1757,Helsinki,,25.340761184692383
+hidden_test_fi_4,5228,5235,Turussa,Q38511,LOC,Q38511,Turku,,22.849788665771484
+hidden_test_fi_4,5237,5248,Tampereella,Q40840,LOC,Q40840,Tampere,,24.65380859375
+hidden_test_fi_4,5251,5261,Viipurissa,Q14657,LOC,Q14657,Viipuri,,24.058406829833984
+hidden_test_fi_5,188,203,Herra Kanniston,Q1101841,PER,Q1101841,Artturi Kannisto,,20.92179298400879
+hidden_test_fi_5,437,446,Englannin,Q21,LOC,Q21,Englanti,,22.304832458496094
+hidden_test_fi_5,586,598,Englannis-sa,Q21,LOC,Q21,Englanti,,20.93234634399414
+hidden_test_fi_5,737,746,Englannin,Q21,LOC,Q21,Englanti,,21.134124755859375
+hidden_test_fi_5,1101,1111,Kapmaas-sa,Q370736,LOC,Q370736,Kapmaa,"```json { ""wikipedia_page"": ""Kapmaa"", ""wikidata_id"": ""Q370736"" } ```",16.94459342956543
+hidden_test_fi_5,1169,1183,Johannesburgin,Q34647,LOC,Q34647,Johannesburg,"```json { ""wikipedia_page"": ""Johannesburg"", ""wikidata_id"": ""Q34647"" } ```",19.48702621459961
+hidden_test_fi_5,1215,1224,Englannin,Q21,LOC,Q21,Englanti,,21.0914306640625
+hidden_test_fi_6,881,897,Asiamies Castrén,Q5604855,PER,Q5604855,Jonas Castrén,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ``` However, based on the context of the text, I believe the correct answer is related to the names ""Jonas Castrén"" and ""Johannes Castrén"" which appear in the list of candidates. After analyzing the text, I have found that the most likely candidate is ""Jonas Castrén"" because the text mentions ""Asiamies Castrén"", which matches the last name in the list. However, I cannot find a perfect match in the provided list. Since none of the provided candidates match the text with high confidence, I choose to return ""NIL"" for both ""wikipedia_page"" and ""wikidata_id"". But, if I had to choose, I would select **Jonas Castrén** as the most probable choice based on the context: ```json { ""wikipedia_page"": ""Jonas Castrén"", ""wikidata_id"": ""Q5604855"" } ```",11.200016975402832
+hidden_test_fi_6,1175,1191,Asiamies Karsten,NIL,PER,NIL,Asiamies Karsten,"```json { ""wikipedia_page"": """", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_6,1304,1326,Hufvud-stadsbladetissa,Q613979,PROD,Q613979,Hufvudstadsbladet,,22.0159969329834
+hidden_test_fi_6,2335,2345,rwa Acktén,Q259161,PER,Q259161,Aino Ackté,"```json { ""wikipedia_page"": ""Aino Ackté"", ""wikidata_id"": ""Q259161"" } ```",8.447105407714844
+hidden_test_fi_6,2600,2614,rouwa Acktélla,Q259161,PER,Q259161,Aino Ackté,"```json { ""wikipedia_page"": ""Aino Ackté"", ""wikidata_id"": ""Q259161"" } ```",15.827691078186035
+hidden_test_fi_6,2710,2722,rouwa Acktén,Q259161,PER,Q259161,Aino Ackté,"```json { ""wikipedia_page"": ""Aino Ackté"", ""wikidata_id"": ""Q259161"" } ```",15.667986869812012
+hidden_test_fi_6,2742,2764,Nti Signe Liljeqwistin,Q4962176,PER,Q4962176,Signe Liljequist,"```json { ""wikipedia_page"": ""Signe Liljequist"", ""wikidata_id"": ""Q4962176"" } ```",14.268980026245117
+hidden_test_fi_6,2876,2883,neitiL.,Q4962176,PER,Q4962176,Signe Liljequist,"To disambiguate the entity within the text, we look for the most suitable match from the provided candidates. The text mentions a female singer performing a paimenlaulu (shepherd's song) with a ""soinnukkaalla ja warmastikäytetyllä äänellä"" (sonorous and warmly used voice) and later in the text, it is mentioned that the ""erittäin soinnukkaalla ja warmastikäytetyllä äänellä"" belongs to ""neiti L."". Given this information, we can conclude that the most likely match is the first candidate in the list: ```json { ""wikipedia_page"": ""Signe Liljequist"", ""wikidata_id"": ""Q4962176"" } ``` The candidate matches the description of being a ""suomalainen laulaja"" (Finnish singer) and the name ""Signe Liljequist"" matches the ""neiti L."" mentioned in the text. Therefore, the answer is: ```json { ""wikipedia_page"": ""Signe Liljequist"", ""wikidata_id"": ""Q4962176"" } ```",10.974559783935547
+hidden_test_fi_6,3140,3148,Puccinin,Q7311,PER,Q7311,Giacomo Puccini,,21.782419204711914
+hidden_test_fi_7,565,588,Eräs talonpojista Uhlow,NIL,PER,NIL,Eräs talonpojista Uhlow,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_7,1220,1225,Uhlow,NIL,PER,NIL,Uhlow,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_7,1422,1435,Tschernikowin,NIL,LOC,NIL,Tschernikowin,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_7,1713,1720,Soljkow,NIL,PER,NIL,Soljkow,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_7,1857,1864,Ongista,NIL,LOC,NIL,Ongista,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_7,2012,2021,Ottawista,Q1930,LOC,Q1930,Ottawa,,19.997591018676758
+hidden_test_fi_7,2082,2092,Lontooseen,Q84,LOC,Q84,Lontoo,,23.259057998657227
+hidden_test_fi_7,2251,2262,Sahalinille,Q7792,LOC,Q7792,Sahalin,"```json { ""wikipedia_page"": ""Sahalin"", ""wikidata_id"": ""Q7792"" } ```",17.28543472290039
+hidden_test_fi_7,2278,2287,Parisista,Q90,LOC,Q90,Pariisi,,25.052448272705078
+hidden_test_fi_7,2324,2332,Parisiin,Q90,LOC,Q90,Pariisi,,22.71921730041504
+hidden_test_fi_7,2333,2342,Nebogatow,Q967806,PER,Q967806,Nikolai Nebogatov,,22.4340877532959
+hidden_test_fi_7,2356,2364,Tokiosta,Q1490,LOC,Q1490,Tokio,,27.62131118774414
+hidden_test_fi_7,2381,2399,Amiraali Nebogatow,Q967806,PER,Q967806,Nikolai Nebogatov,"```json { ""wikipedia_page"": ""Nikolai Nebogatov"", ""wikidata_id"": ""Q967806"" } ```",18.42957878112793
+hidden_test_fi_7,2434,2440,Lishin,NIL,PER,NIL,Lishin,"```json { ""wikipedia_page"": """", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_7,2506,2520,Roshestwenskin,Q453702,PER,Q453702,Zinovi Rožestvenski,"```json { ""wikipedia_page"": ""Zinovi Rožestvenski"", ""wikidata_id"": ""Q453702"" } ```",19.564586639404297
+hidden_test_fi_7,2529,2537,Tokiosta,Q1490,LOC,Q1490,Tokio,,22.216228485107422
+hidden_test_fi_7,2556,2578,Amiraali Roshestwenski,Q453702,PER,Q453702,Zinovi Rožestvenski,"```json { ""wikipedia_page"": ""Zinovi Rožestvenski"", ""wikidata_id"": ""Q453702"" } ```",17.885801315307617
+hidden_test_fi_7,2653,2661,Tokiosta,Q1490,LOC,Q1490,Tokio,,21.181316375732422
+hidden_test_fi_7,2721,2733,Matsujamassa,Q200022,LOC,Q200022,Matsuyama,,21.92889976501465
+hidden_test_fi_7,3319,3327,Itäwalta,Q28513,LOC,Q28513,Itävalta-Unkari,"```json { ""wikipedia_page"": ""Itävalta-Unkari"", ""wikidata_id"": ""Q28513"" } ```",11.752352714538574
+hidden_test_fi_7,3337,3345,Englanti,Q21,LOC,Q21,Englanti,,24.262203216552734
+hidden_test_fi_7,3347,3353,Mendel,NIL,PER,NIL,Mendel,"```json { ""wikipedia_page"": """", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_7,3355,3363,Hollanti,Q55,LOC,Q55,Alankomaat,,26.315608978271484
+hidden_test_fi_7,3368,3374,Johann,NIL,PER,NIL,Johann,"```json { ""wikipedia_page"": """", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_7,3883,3898,Junkkeripuo=lue,NIL,ORG,NIL,Junkkeripuo=lue,"```json { ""wikipedia_page"": """", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_7,4224,4233,Englannin,Q21,LOC,Q21,Englanti,,23.72170639038086
+hidden_test_fi_7,5153,5160,Marokon,Q1028,LOC,Q1028,Marokko,"```json { ""wikipedia_page"": ""Marokko"", ""wikidata_id"": ""Q1028"" } ```",18.60642433166504
+hidden_test_fi_7,5239,5244,Rosen,NIL,PER,NIL,Rosen,"```json { ""wikipedia_page"": """", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_7,5247,5253,Rewoil,NIL,PER,NIL,Rewoil,"```json { ""wikipedia_page"": """", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_7,5289,5296,Marokon,Q1028,LOC,Q1028,Marokko,,19.59313201904297
+hidden_test_fi_7,5345,5357,TohtoriRosen,NIL,PER,NIL,TohtoriRosen,"```json { ""wikipedia_page"": """", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_7,5717,5724,Marokon,Q1028,LOC,Q1028,Marokko,,23.566123962402344
+hidden_test_fi_7,5976,5983,Marokon,Q1028,LOC,Q1028,Marokko,,22.042253494262695
+hidden_test_fi_7,6502,6521,Saksan Etelä-Afrika,Q153665,LOC,Q153665,Saksan Lounais-Afrikka,"```json { ""wikipedia_page"": ""Saksan Lounais-Afrikka"", ""wikidata_id"": ""Q153665"" } ```",12.065314292907715
+hidden_test_fi_7,6715,6723,Morengan,Q315748,PER,Q315748,,,19.716766357421875
+hidden_test_fi_7,6903,6927,ent. kuwernööri Leutwein,Q68882,PER,Q68882,Theodor Leutwein,"```json { ""wikipedia_page"": ""Theodor Leutwein"", ""wikidata_id"": ""Q68882"" } ```",11.609281539916992
+hidden_test_fi_8,344,354,Ilmajoella,Q5985,LOC,Q5985,Ilmajoki,,23.42596435546875
+hidden_test_fi_8,777,792,Lappeenrannassa,Q181854,LOC,Q181854,Lappeenranta,,26.53801727294922
+hidden_test_fi_8,1169,1193,Raittiusseura Yritys 2:n,NIL,ORG,NIL,Raittiusseura Yritys 2:n,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_8,1850,1872,monttööri G. Lindström,NIL,PER,NIL,monttööri G. Lindström,"```json { ""wikipedia_page"": """", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_8,2303,2309,hra L.,NIL,PER,NIL,hra L.,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_8,2921,2930,Hai=luoto,Q1569280,LOC,Q1569280,Hailuoto,,26.78602409362793
+hidden_test_fi_8,3181,3186,Oulun,Q47048,LOC,Q47048,Oulu,,21.70096778869629
+hidden_test_fi_8,3237,3246,Ruotsissa,Q34,LOC,Q34,Ruotsi,,24.707727432250977
+hidden_test_fi_8,3248,3255,Ruotsin,Q34,LOC,Q34,Ruotsi,,24.512758255004883
+hidden_test_fi_8,3524,3547,Olawin kylpylaitoksessa,NIL,ORG,NIL,Olawin kylpylaitoksessa,"```json { ""wikipedia_page"": """", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_8,3653,3696,"Felser, ihmelapsi soittimensa kä=sittelyssä",NIL,PER,NIL,"Felser, ihmelapsi soittimensa kä=sittelyssä","```json { ""wikipedia_page"": ""Dan Andersson"", ""wikidata_id"": ""Q106979"" } ``` However, since Dan Andersson is not present in the list of candidates, I'll provide the correct answer based on the context of the text: ```json { ""wikidata_id"": ""NIL"" } ``` Given the context, it seems that [ENT] Felser refers to Fanny Elßler, but she is not the most suitable candidate as the text mentions a 12-year-old girl who is an ihmelapsi. However, Fanny Elßler is the closest match from the provided list. However, the correct answer is actually not present in the list, so the correct output should be: ```json { ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_8,3785,3800,August Blanchen,Q764239,PER,Q764239,August Blanche,,27.438304901123047
+hidden_test_fi_8,4012,4022,MrSampbell,NIL,PER,NIL,MrSampbell,"```json { ""wikipedia_page"": """", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_9,1243,1257,keisariWilhelm,Q2677,PER,Q2677,Vilhelm II,,20.678955078125
+hidden_test_fi_9,1627,1633,Saksan,Q43287,LOC,Q43287,Saksan keisarikunta,"```json { ""wikipedia_page"": ""Saksan keisarikunta"", ""wikidata_id"": ""Q43287"" } ```",12.371654510498047
+hidden_test_fi_10,51,70,edustajaL. Ingmanin,Q440166,PER,Q440166,Lauri Ingman,,22.64732551574707
+hidden_test_fi_10,98,116,edustaja S. Alkion,Q2319774,PER,Q2319774,Santeri Alkio,"```json { ""wikipedia_page"": ""Santeri Alkio"", ""wikidata_id"": ""Q2319774"" } ```",18.05309295654297
+hidden_test_fi_10,2509,2518,Wenäjällä,Q159,LOC,Q159,Venäjä,"```json { ""wikipedia_page"": ""Venäjä"", ""wikidata_id"": ""Q159"" } ```",17.00153923034668
+hidden_test_fi_12,409,419,Mer=kurius,Q308,LOC,Q308,Merkurius,,26.408597946166992
+hidden_test_fi_12,421,426,Venus,Q313,LOC,Q313,Venus,,27.902456283569336
+hidden_test_fi_12,428,431,Maa,Q2,LOC,Q2,Maa,,24.586301803588867
+hidden_test_fi_12,435,439,Mars,Q111,LOC,Q111,Mars,,28.90626335144043
+hidden_test_fi_12,495,502,Jupiter,Q319,LOC,Q319,Jupiter,,25.450519561767578
+hidden_test_fi_12,504,512,Saturnus,Q193,LOC,Q193,Saturnus,,27.320432662963867
+hidden_test_fi_12,514,520,Uranus,Q324,LOC,Q324,Uranus,,29.825542449951172
+hidden_test_fi_12,523,531,Neptunus,Q332,LOC,Q332,Neptunus,,30.256214141845703
+hidden_test_fi_12,567,573,Marsin,Q111,LOC,Q111,Mars,,24.300643920898438
+hidden_test_fi_12,577,586,Jupiterin,Q319,LOC,Q319,Jupiter,,29.059965133666992
+hidden_test_fi_12,624,634,Merku=rius,Q308,LOC,Q308,Merkurius,,26.663925170898438
+hidden_test_fi_12,718,726,Neptunus,Q332,LOC,Q332,Neptunus,,27.705657958984375
+hidden_test_fi_12,1027,1036,Lewerrier,Q104154,PER,Q104154,Urbain Le Verrier,"```json { ""wikipedia_page"": ""Le Verrier, Urbain"", ""wikidata_id"": ""Q104154"" } ```",9.072339057922363
+hidden_test_fi_13,651,658,Ruotsin,Q34,LOC,Q34,Ruotsi,,21.28558921813965
+hidden_test_fi_13,697,705,Malmössä,Q2211,LOC,Q2211,Malmö,,24.749942779541016
+hidden_test_fi_14,0,9,Säkylästä,Q780914,LOC,Q780914,Säkylä,"```json { ""wikipedia_page"": ""Säkylä"", ""wikidata_id"": ""Q780914"" } ```",17.18438720703125
+hidden_test_fi_14,1172,1193,I. F. S.Taiwassalosta,Q807904,LOC,Q807904,Taivassalo,"```json { ""wikipedia_page"": ""Taivassalo"", ""wikidata_id"": ""Q807904"" } ```",15.665294647216797
+hidden_test_fi_19,680,691,C. M. W—dén,NIL,PER,NIL,C. M. W—dén,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_19,1826,1843,Wiipurin läänissä,Q1144791,LOC,Q1144791,Viipurin lääni,,27.05396270751953
+hidden_test_fi_19,1861,1877,Mikke=lin lääniä,Q1200972,LOC,Q1200972,Mikkelin lääni,,20.988672256469727
+hidden_test_fi_19,2581,2588,Lappeen,Q3434042,LOC,Q3434042,Lappee,,20.408039093017578
+hidden_test_fi_19,2592,2611,Joutsenon pitäjissä,Q829851,LOC,Q829851,Joutseno,"```json { ""wikipedia_page"": ""Joutseno"", ""wikidata_id"": ""Q829851"" } ```",19.31006622314453
+hidden_test_fi_19,2659,2688,Ruo=kolahden naapuripitäjässä,Q1009622,LOC,Q1009622,Ruokolahti,,20.09053611755371
+hidden_test_fi_19,2726,2736,Wiipurissa,Q14657,LOC,Q14657,Viipuri,,26.462284088134766
+hidden_test_fi_20,130,141,Lapuan joen,Q1351274,LOC,Q1351274,Lapuanjoki,,27.761138916015625
+hidden_test_fi_20,369,382,Waasan lääniä,Q1337549,LOC,Q1337549,Vaasan lääni,,21.476776123046875
+hidden_test_fi_20,558,566,Oulunkin,Q47048,LOC,Q47048,Oulu,,19.96237564086914
+hidden_test_fi_20,724,737,Saarijärweltä,Q984858,LOC,Q984858,Saarijärvi,,26.762834548950195
+hidden_test_fi_20,753,770,Lähettäjä J.W:nen,NIL,PER,NIL,Lähettäjä J.W:nen,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_21,5,24,Alastaron pitäjässä,Q206601,LOC,Q206601,Alastaro,,29.980165481567383
+hidden_test_fi_21,2292,2310,Alastaron pi-täjän,Q206601,LOC,Q206601,Alastaro,"```json { ""wikipedia_page"": ""Alastaro"", ""wikidata_id"": ""Q206601"" } ```",11.90078067779541
+hidden_test_fi_21,2640,2647,Dawidin,Q41370,PER,Q41370,Daavid,,20.703468322753906
+hidden_test_fi_21,2862,2873,Alastarolta,Q206601,LOC,Q206601,Alastaro,"```json { ""wikipedia_page"": ""Alastaro"", ""wikidata_id"": ""Q206601"" } ```",17.410079956054688
+hidden_test_fi_21,3111,3123,Käkisal-meen,Q7977,LOC,Q7977,Käkisalmi,,26.888147354125977
+hidden_test_fi_21,3272,3286,Saima dosentti,NIL,PER,NIL,Saima dosentti,"```json { ""wikipedia_page"": """", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_21,3459,3470,Kurkijoelle,Q15839066,LOC,Q15839066,Kurkijoki,,25.87610626220703
+hidden_test_fi_21,3727,3738,Kurkijoelta,Q15839066,LOC,Q15839066,Kurkijoki,,21.981285095214844
+hidden_test_fi_21,3916,3939,Laatokka nimisen lehden,Q18680151,PROD,Q18680151,Laatokka,"```json { ""wikipedia_page"": ""Laatokka"", ""wikidata_id"": ""Q18680151"" } ```",19.47849464416504
+hidden_test_fi_21,4408,4423,Laatokka lehden,Q18680151,PROD,Q18680151,Laatokka,"```json { ""wikipedia_page"": ""Laatokka"", ""wikidata_id"": ""Q18680151"" } ```",19.327720642089844
+hidden_test_fi_21,4455,4476,Sortawalan se-minarin,Q56400432,ORG,Q56400432,Sortavalan seminaari,"```json { ""wikipedia_page"": ""Sortavalan seminaari"", ""wikidata_id"": ""Q56400432"" } ```",12.595195770263672
+hidden_test_fi_22,67,89,Weh=maan kihlakunnassa,Q10713929,LOC,Q10713929,Vehmaan kihlakunta,"```json { ""wikipedia_page"": ""Vehmaan kihlakunta"", ""wikidata_id"": ""Q10713929"" } ```",10.087882041931152
+hidden_test_fi_22,198,215,Tai=wassalon pit.,Q807904,LOC,Q807904,Taivassalo,"```json { ""wikipedia_page"": ""Taivassalo"", ""wikidata_id"": ""Q807904"" } ```",13.151895523071289
+hidden_test_fi_22,375,388,Pyhämaan pit.,NIL,LOC,NIL,Pyhämaan pit.,"```json { ""wikipedia_page"": """", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_22,416,429,Laitilan pit.,Q807901,LOC,Q807901,Laitila,"```json { ""wikipedia_page"": ""Laitila"", ""wikidata_id"": ""Q807901"" } ```",16.755117416381836
+hidden_test_fi_22,530,543,K. H. Lundahn,NIL,ORG,NIL,K. H. Lundahn,"```json { ""wikipedia_page"": """", ""wikidata_id"": ""NIL"" } ```",0
+hidden_test_fi_22,665,681,Maarianhaminasta,Q48329,LOC,Q48329,Maarianhamina,,28.290407180786133
+hidden_test_fi_22,739,747,Tu=rusta,Q38511,LOC,Q38511,Turku,"```json { ""wikipedia_page"": ""Turku"", ""wikidata_id"": ""Q38511"" } ```",13.05880355834961
+hidden_test_fi_22,813,827,Ahwenanmeressä,Q271043,LOC,Q271043,Ahvenanmeri,,22.542280197143555
+hidden_test_fi_22,1225,1230,Wätin,Q3926509,LOC,Q3926509,Vätti,"```json { ""wikipedia_page"": ""Vätti"", ""wikidata_id"": ""Q3926509"" } ```",10.83893871307373
+hidden_test_fi_22,1656,1677,Huittisten pitä=jässä,Q165285,LOC,Q165285,Huittinen,,28.056100845336914
+hidden_test_fi_22,2239,2253,Rau=nistulassa,Q3926797,LOC,Q3926797,Raunistula,"```json { ""wikipedia_page"": ""Raunistula"", ""wikidata_id"": ""Q3926797"" } ```",6.705574989318848
+hidden_test_fi_23,88,107,kenraali Hindenburg,Q2667,PER,Q2667,Paul von Hindenburg,"```json { ""wikipedia_page"": ""Paul von Hindenburg"", ""wikidata_id"": ""Q2667"" } ```",15.788492202758789
+hidden_test_fi_23,1844,1861,Hampurin kaupunki,Q1055,LOC,Q1055,Hampuri,,20.99799156188965
+hidden_test_fi_23,1876,1885,Ruotsille,Q34,LOC,Q34,Ruotsi,,19.846437454223633
+hidden_test_fi_23,1913,1927,Köpenhaminasta,Q1748,LOC,Q1748,Kööpenhamina,,21.890302658081055
+hidden_test_fi_23,1956,1974,Hampurin kau=punki,Q1055,LOC,Q1055,Hampuri,,20.892250061035156
+hidden_test_fi_23,1991,2000,Ruotsille,Q34,LOC,Q34,Ruotsi,,21.44810676574707
+hidden_test_fi_23,2010,2016,Saksan,Q183,LOC,Q183,Saksa,,20.11880111694336
+hidden_test_fi_23,2151,2158,Ruotsin,Q34,LOC,Q34,Ruotsi,,21.338062286376953
+hidden_test_fi_23,2258,2277,Ruot=sin hallitusta,Q930729,ORG,Q930729,Ruotsin hallitus,"```json { ""wikipedia_page"": ""Ruotsin hallitus"", ""wikidata_id"": ""Q930729"" } ```",18.84322738647461
+hidden_test_fi_23,2446,2451,Times,Q50008,PROD,Q50008,The Times,"```json { ""wikipedia_page"": ""Times"", ""wikidata_id"": ""Q50008"" } ```",19.14728355407715
+hidden_test_fi_23,2452,2461,Lontoosta,Q84,LOC,Q84,Lontoo,,25.629316329956055
+hidden_test_fi_23,2486,2493,Timesin,Q50008,PROD,Q50008,The Times,,20.059566497802734
