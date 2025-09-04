@@ -34,7 +34,7 @@ def recall_k(data, k: int):
     return recall, skipped_nil
 
 
-data = read_json("../results/MHERCL_IT/candidates_top50.json")
+data = read_json("./results/NEWSEYE_FR/candidates_test_top50_fr.json")
 k_values = [1, 3, 5, 10, 20, 30, 40, 50]
 
 for k in k_values:
