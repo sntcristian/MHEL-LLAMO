@@ -49,11 +49,18 @@ def main():
         token=args.hf_token
     )
 
-    system_prompt = """
+
+    system_prompt1 = """
+    You are a highly precise multilingual information extraction system specialized in disambiguating entities within noisy historical texts.
+    Your task is to analyse the text provided by the user and determine if the reference marked by [ENT] tags can be associated or not to one of the candidate Wikidata entities provided in the JSON list.
+    Always respond by saying either "yes" or "no". Do not generate Python code.
+    """
+    
+    system_prompt2 = """
     You are an effective multilingual information extraction system specialized in disambiguating entities within noisy 
     historical texts.
     Your task is to analyse the text provided by the user and disambiguate the reference marked by [ENT] tags by 
-    selecting a Wikidata entity from a given list of candidates only when highly confident, classifying it with a NIL value otherwise.
+    selecting a Wikidata entity from a given list of candidates.
     Always respond by returning a JSON-formatted answer; do not generate Python code.
     """
 
@@ -75,27 +82,21 @@ def main():
                 "identifier":item["candidates"][0]["wb_id"],
                 "title":item["candidates"][0]["label"],
                 "answer":"",
-                "score":0
+                "score":item["candidates"][0]["score"]
             })
         else:
             paragraph = paragraphs_dict[doc_id]
             date = paragraph["publication_date"]
-            lang = paragraph["lang"]
+            lang = iso_to_lang[paragraph["lang"]]
             genre = paragraph["genre"]
             text = paragraph["text"]
             processed_text = text[max(0, start_pos - 500):start_pos] + "[ENT] " + text[start_pos:end_pos] + " [ENT] " +text[end_pos:min(len(text), end_pos + 500)]
             processed_candidates = process_candidates(item["candidates"], args.n_candidates)
-            user_prompt = """
+            allowed_qids = set([cand["wikidata_id"].upper() for cand in processed_candidates])
+            user_prompt1 = """
             Read the input text extracted from """ + lang + " " + genre + " published in " + date + """.
-            Disambiguate the entity mentioned between the [ENT] tags by selecting the most appropriate Wikidata entity from the list of candidates.    
-            Return the corresponding Wikipedia page title and Wikidata ID of the selected entity in a JSON object formatted as follows:
-        
-            ```json
-            {"wikipedia_page":"", "wikidata_id":""}
-            ```
-        
-            Make sure to select both the Wikidata ID and the Wikipedia page title from the provided list of candidates.
-            Pay attention that the list of candidates may not include the entity mentioned. If none of the candidates match with high confidence the entity tagged with [ENT], use the string "NIL" as value of the "wikidata_id" key.
+            Answer if the entity mentioned between the [ENT] tags in the input text corresponds to one of the candidate Wikidata entity provided in the json.
+            Give a simple binary answer.
             ---------------------
             Input Text:
             """ + processed_text + """
@@ -105,37 +106,76 @@ def main():
             """ + str(processed_candidates) + """ 
             ``` ."""
             messages = [
-                {"role": "system", "content": system_prompt},
-                {"role": "user", "content": user_prompt},
+                {"role": "system", "content": system_prompt1},
+                {"role": "user", "content": user_prompt1},
             ]
 
             outputs = pipeline(
                 messages,
-                max_new_tokens=256,
+                max_new_tokens=128,
             )
             response = outputs[0]["generated_text"][-1]["content"]
-            match = re.search(r'"wikidata_id"\s*:\s*"(Q\d+)"', response)
+            if "yes" in response.lower():
+                user_prompt2 = """
+                Read the input text extracted from """ + lang + " " + genre + " published in " + date + """.
+                Disambiguate the entity mentioned between the [ENT] tags by selecting the most appropriate Wikidata entity from a given list of candidates.    
+                Return the corresponding Wikipedia page title and Wikidata ID of the selected entity in a JSON object formatted as follows:
+            
+                ```json
+                {"wikipedia_page":"", "wikidata_id":""}
+                ```
+            
+                Make sure to select both the Wikidata ID and the Wikipedia page title from the provided list of candidates.
+                ---------------------
+                Input Text:
+                """ + processed_text + """
+                ---------------------
+                JSON List of Candidates:
+                ```json
+                """ + str(processed_candidates) + """ 
+                ``` ."""
+                messages = [
+                {"role": "system", "content": system_prompt2},
+                {"role": "user", "content": user_prompt2},
+                ]
 
-            if match:
-                wikidata_id = match.group(1)
-            else:
-                wikidata_id = "NIL"
+                outputs = pipeline(
+                    messages,
+                    max_new_tokens=256,
+                )
 
+                response = outputs[0]["generated_text"][-1]["content"]
+                match = re.search(r'"wikidata_id"\s*:\s*"(Q\d+)"', response)
+                if match and match.group(1).upper() in allowed_qids:
+                    wikidata_id = match.group(1).upper()
+                    selected_entity = [x for x in item["candidates"] if x["wb_id"] == wikidata_id][0]
+                    output.append({
+                        "doc_id":doc_id,
+                        "start_pos":start_pos,
+                        "end_pos":end_pos,
+                        "surface":item["surface"],
+                        "gt_id": item["identifier"],
+                        "type":item["type"],
+                        "identifier":wikidata_id,
+                        "title":selected_entity["label"],
+                        "answer":re.sub(r'\s+', " ", response),
+                        "score":selected_entity["score"]
+                    })
 
-            selected_entity = [x for x in item["candidates"] if x["wb_id"] == wikidata_id]
-            if len(selected_entity) > 0:
-                output.append({
-                    "doc_id":doc_id,
-                    "start_pos":start_pos,
-                    "end_pos":end_pos,
-                    "surface":item["surface"],
+                else:
+                    output.append({
+                    "doc_id": doc_id,
+                    "start_pos": start_pos,
+                    "end_pos": end_pos,
+                    "surface": item["surface"],
                     "gt_id": item["identifier"],
-                    "type":item["type"],
-                    "identifier":wikidata_id,
-                    "title":selected_entity[0]["label"],
-                    "answer":re.sub(r'\s+', " ", response),
-                    "score":selected_entity[0]["score"]
-                })
+                    "type": item["type"],
+                    "identifier": "NIL",
+                    "title": item["surface"],
+                    "answer": re.sub(r'\s+', " ", response),
+                    "score": 0
+                    })
+            
             else:
                 output.append({
                     "doc_id": doc_id,
@@ -148,11 +188,11 @@ def main():
                     "title": item["surface"],
                     "answer": re.sub(r'\s+', " ", response),
                     "score": 0
-                })
-    
+                    })
+        
     print(len(retriever_results))
     print(len(output))
-                
+    
     os.makedirs(args.output_dir, exist_ok=True)
     with open(os.path.join(args.output_dir, "output.csv"), "w", encoding="utf-8") as out_f:
         dict_writer = csv.DictWriter(out_f, output[0].keys())
