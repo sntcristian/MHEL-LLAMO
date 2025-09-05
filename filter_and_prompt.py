@@ -80,7 +80,7 @@ def main():
         else:
             paragraph = paragraphs_dict[doc_id]
             date = paragraph["publication_date"]
-            lang = paragraph["lang"]
+            lang = iso_to_lang[paragraph["lang"]]
             genre = paragraph["genre"]
             text = paragraph["text"]
             processed_text = text[max(0, start_pos - 500):start_pos] + "[ENT] " + text[start_pos:end_pos] + " [ENT] " +text[end_pos:min(len(text), end_pos + 500)]
