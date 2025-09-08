@@ -1,0 +1,200 @@
+doc_id,start_pos,end_pos,surface,gt_id,type,identifier,title,answer,score
+sn83030483-1790-01-02-a-i0004,7,15,VIRGINIA,Q64358128,LOC,Q1370,Virginia,,15.88766098022461
+sn83030483-1790-01-02-a-i0004,227,242,Uni¬ ted Stares,Q30,LOC,Q214102,Union,,14.588024139404297
+sn83030483-1790-01-02-a-i0004,967,1000,RICHARD HENRY LEE WILLIAM GRAYSON,NIL,PER,Q82027769,Henry Gerald Richardson,,24.2860050201416
+sn83030483-1790-02-10-a-i0002,0,19,PRESIDENT SULL IVAN,Q886420,PER,Q182543,William Samuel Johnson,,16.2283935546875
+sn83030483-1790-02-10-a-i0002,4081,4094,JOHN SULLIVAN,Q886420,PER,Q370993,John L. Sullivan,,15.068663597106934
+sn83030483-1790-03-03-a-i0004,53,63,ofBruffels,Q239,LOC,Q2567094,Bruff,"```json { ""wikipedia_page"": ""Bruff"", ""wikidata_id"": ""Q2567094"" } ```",10.310385704040527
+sn83030483-1790-03-03-a-i0004,491,506,General D’Alton,Q3934904,PER,Q2834153,Alexandre d'Alton,,22.047334671020508
+sn83030483-1790-03-03-a-i0004,735,750,General D’Alton,Q3934904,PER,Q2834153,Alexandre d'Alton,,20.38577651977539
+sn83030483-1790-03-03-a-i0004,884,894,Bafleville,NIL,LOC,Q28520,Abbeville,,13.765137672424316
+sn83030483-1790-03-03-a-i0004,1597,1601,Park,Q1892311,LOC,NIL,Park,```json {} ```,0
+sn83030483-1790-03-03-a-i0004,1610,1625,Pal¬ ace Royale,Q635307,LOC,NIL,Pal¬ ace Royale,no,0
+sn83030483-1790-03-03-a-i0004,1746,1753,D’Alton,Q3934904,PER,Q2834153,Alexandre d'Alton,,21.270862579345703
+sn84026272-1800-07-09-a-i0003,108,114,Philad,NIL,LOC,Q1345,Philadelphia,,14.15122127532959
+sn84026272-1800-07-09-a-i0003,4255,4263,COLUMBUS,NIL,PER,Q7322,Christopher Columbus,,17.267229080200195
+sn84026272-1800-10-16-a-i0001,0,24,District of Pennsylvania,Q7163624,LOC,Q1428625,list of counties in Pennsylvania,,21.626493453979492
+sn84026272-1800-10-16-a-i0001,164,183,Alexan¬ der Addison,NIL,PER,Q25184130,Alexander Addison,,22.769298553466797
+sn84026272-1800-10-16-a-i0001,438,459,State of Pennsylvania,Q7603789,ORG,Q1400,Pennsylvania,,28.242826461791992
+sn84026272-1800-10-16-a-i0001,870,925,"D.C * I.DWELL, Clerl of lie DiJtriEl of Peonsyl v aoisA",NIL,PER,Q5203534,D. C. Somervell,"Based on the provided text and the list of candidates, the most appropriate Wikidata entity for the entity tagged with [ENT] D.C is ""D. C. Somervell"". ```json {""wikipedia_page"":""D. C. Somervell"", ""wikidata_id"":""Q5203534""} ``` The entity tagged with [ENT] D.C is most likely referring to ""D. C. Somervell"", a British historian.",9.397926330566406
+sn84026272-1800-10-16-a-i0001,998,1019,"Mr, Dobson Bookseller",NIL,PER,Q7719356,The Bookseller,,15.515145301818848
+sn84026272-1800-12-27-a-i0002,23,38,Hereford street,NIL,LOC,Q45319498,Hereford Square,,15.020682334899902
+sn84026272-1800-12-27-a-i0002,464,470,Fiance,Q142,LOC,NIL,Fiance,no,0
+sn84026272-1800-12-27-a-i0002,817,821,OTTO,NIL,PER,Q150512,Otto II,"```json { ""wikipedia_page"": ""Otto II"", ""wikidata_id"": ""Q150512"" } ```",4.528416633605957
+sn82014385-1810-01-06-a-i0001,162,180,Newport—consisting,Q755805,LOC,Q2950337,Newport,,14.911343574523926
+sn82014385-1810-01-06-a-i0001,355,368,Turnpike road,NIL,LOC,Q269949,highway,,18.543663024902344
+sn82014385-1810-01-06-a-i0001,386,398,Gap Ta¬ vern,NIL,LOC,Q7017800,Newfound Gap,,14.297510147094727
+sn82014385-1810-01-06-a-i0001,402,411,Lancaster,NIL,LOC,Q320514,Lancaster,,21.198741912841797
+sn82014385-1810-04-04-a-i0003,19,33,Captain Taylor,NIL,PER,Q5083062,Charles Tyler,,13.376008987426758
+sn82014385-1810-04-04-a-i0003,256,266,Port Maria,Q203040,LOC,Q265115,Port Maria La luz,,20.23938751220703
+sn82014385-1810-04-04-a-i0003,553,564,king Joseph,Q7726,PER,Q1058391,José I of Portugal,,16.1547794342041
+sn82014385-1810-04-04-a-i0003,643,652,Ferdinand,Q186256,PER,Q312325,Ferdinand I of the Two Sicilies,,18.218555450439453
+sn82014385-1810-04-04-a-i0003,684,693,Cadiz Bay,NIL,LOC,Q117157,Gulf of Cádiz,,27.24651336669922
+sn82014385-1810-04-04-a-i0003,719,724,Iliea,NIL,LOC,Q21657010,,,15.200712203979492
+sn82014385-1810-04-04-a-i0003,850,856,Purvis,NIL,PER,Q41752069,John Child Purvis,,20.49401092529297
+sn82014385-1810-04-14-a-i0004,2032,2049,178 Market-street,NIL,LOC,Q7238776,Pratt Street,,15.790336608886719
+sn82014385-1810-04-14-a-i0004,2215,2229,George Harwcod,NIL,PER,Q13529927,George Harcourt,,16.6027774810791
+sn82014385-1810-04-14-a-i0004,2231,2255,"Market street, Baltimore",NIL,LOC,Q37654,market,,13.520651817321777
+sn82014385-1810-05-30-a-i0001,2931,2984,"J. B. Varnum, Speaker of the House of Representatives",Q1706673,PER,Q1702002,John Varnum,,26.731843948364258
+sn83026170-1820-05-25-a-i0003,19,33,Mrs. M. Garner,NIL,PER,Q6759592,Margaret King,,14.849014282226562
+sn83026170-1820-05-25-a-i0003,104,120,Tho¬ mas Shields,NIL,PER,Q7794494,Thomas Todhunter Shields,,18.866661071777344
+sn83026170-1820-05-25-a-i0003,196,206,Alexandria,Q88,LOC,Q87,Alexandria,,26.136857986450195
+sn83026170-1820-06-07-a-i0002,0,7,IRELAXD,Q57695350,LOC,NIL,IRELAXD,no,0
+sn83026170-1820-06-07-a-i0002,13,24,Cork papers,NIL,PROD,Q17104442,Recorder of Cork,,14.834952354431152
+sn83026170-1820-09-09-a-i0004,29,48,THE AMERICA* FARMER,NIL,PROD,Q17063544,California Farmer,,20.20519256591797
+sn83026170-1820-09-09-a-i0004,75,90,AMERICAN FARMER,NIL,PROD,Q4743740,American Farmer,,21.04906463623047
+sn83026170-1820-09-09-a-i0004,619,634,American Farmer,NIL,PROD,Q51391852,American Agriculturist,,18.481403350830078
+sn83026170-1820-09-09-a-i0004,1908,1959,Memoirs of ihe Agricultural Society of Philadelphia,NIL,PROD,Q17013969,Philadelphia Society,,19.491670608520508
+sn83026170-1820-09-09-a-i0004,2071,2086,American Farmer,NIL,PROD,Q51391852,American Agriculturist,,18.640439987182617
+sn83026170-1820-09-09-a-i0004,2403,2417,Governor Lloyd,NIL,PER,Q348240,Henry Lloyd,,17.734560012817383
+sn83026170-1820-09-09-a-i0004,2706,2727,Agricultural Soci ety,NIL,ORG,Q17027757,United States Agricultural Society,,15.89643669128418
+sn83020874-1830-02-03-a-i0003,396,405,New Haven,NIL,LOC,Q49145,New Haven,,24.260883331298828
+sn83020874-1830-02-03-a-i0003,410,418,Hartford,NIL,LOC,Q33486,Hartford,,27.295379638671875
+sn83020874-1830-02-03-a-i0003,600,617,New York memorial,NIL,LOC,Q85851506,New York Circular Letter,"Based on the input text and the list of candidates, the entity mentioned between the `[ENT]` tags is ""New York memorial"". The most appropriate Wikidata entity from the provided list of candidates that matches this entity is ""New York Circular Letter"". ```json {""wikipedia_page"":""New York Circular Letter"", ""wikidata_id"":""Q85851506""} ```",13.298566818237305
+sn83020874-1830-03-03-a-i0004,1034,1059,A SPENCER HENRY R. STORRS,NIL,PER,Q2748699,Ronald Storrs,,15.450523376464844
+sn84020750-1840-02-08-a-i0002,9,28,Chariest- n Mercury,Q5084157,PROD,NIL,Chariest- n Mercury,no,0
+sn84020750-1840-02-08-a-i0002,744,756,Messrs. Clay,NIL,PER,Q319630,Henry Clay,"Based on the input text and candidates provided, the most appropriate Wikidata entity for ""[ENT] Messrs. Clay [ENT]"" is: ```json { ""wikipedia_page"": ""Henry Clay"", ""wikidata_id"": ""Q319630"" } ```",9.435657501220703
+sn84020750-1840-02-08-a-i0002,797,801,Clay,NIL,PER,Q319630,Henry Clay,"```json { ""wikipedia_page"": ""Henry Clay"", ""wikidata_id"": ""Q319630"" } ```",12.527714729309082
+sn84020750-1840-07-04-a-i0001,9,37,Otmndagiia (N. A .) Standard,Q7757854,PROD,Q7598645,Standish Hayes O'Grady,"Based on the input text and the provided list of candidates, the entity mentioned between the [ENT] tags is ""Otmndagiia (N. A.) Standard"". To disambiguate this entity, we examine the list of candidates and find that the closest match is ""Standish Hayes O'Grady"", who is an Irish writer (1832–1915). Here is the JSON-formatted answer: ```json { ""wikipedia_page"": ""Standish Hayes O'Grady"", ""wikidata_id"": ""Q7598645"" } ```",11.076774597167969
+sn84020750-1840-07-04-a-i0001,291,304,Gen. Harrison,Q11869,PER,Q35678,Benjamin Harrison,,16.122467041015625
+sn84020750-1840-07-04-a-i0001,457,471,Gen. Ilarrisou,Q11869,PER,Q504039,Tanacharison,,15.527949333190918
+sn84020750-1840-07-04-a-i0001,499,516,Louisville Legion,NIL,ORG,Q6518165,Legion of the United States,,19.97907829284668
+sn84020750-1840-07-04-a-i0001,776,789,Gen. Harrison,Q11869,PER,Q35678,Benjamin Harrison,,20.16865348815918
+sn84020750-1840-07-04-a-i0001,1010,1031,Western State Journal,Q7663027,PROD,Q8027325,Wisconsin State Journal,,21.335647583007812
+sn84020750-1840-07-04-a-i0001,1044,1056,Gen.Harrison,Q11869,PER,Q35678,Benjamin Harrison,,19.816116333007812
+sn84020750-1840-07-04-a-i0001,1250,1265,Mr. Yan ! Buren,Q11820,PER,NIL,Mr. Yan ! Buren,```json {} ```,0
+sn84020750-1840-07-18-a-i0001,5,22,the Pennsylvanian,NIL,PROD,Q1400,Pennsylvania,"Based on the provided text and list of candidates, the entity mentioned between the [ENT] tags is ""Pennsylvania"". The most appropriate Wikidata entity from the given list of candidates is: ```json {""wikipedia_page"": ""Pennsylvania"", ""wikidata_id"": ""Q1400""} ```",6.827702522277832
+sn84020750-1840-07-18-a-i0001,9734,9750,DAVID It. PORTER,NIL,PER,Q768487,David R. Porter,,19.617250442504883
+sn84020750-1840-08-15-a-i0001,49,74,"Elizabeth Cita’ Co., A'a.",Q3688168,LOC,Q14935701,Elizabeth,,14.595939636230469
+sn84020750-1840-08-15-a-i0001,96,121,"Elisabeth City County, Ea",Q3688168,LOC,Q5362586,Elizabeth City Shire,,16.13047218322754
+sn84020750-1840-08-15-a-i0001,1061,1079,United States Bank,Q2263849,ORG,Q7863438,Bank of America Private Bank,,23.157316207885742
+sn84020750-1840-08-15-a-i0001,1490,1502,Nlr Harrison,Q11869,PER,Q5386678,Eric Harrison,,18.1747989654541
+sn84020750-1840-08-15-a-i0001,1599,1604,South,Q81931,LOC,Q49042,Southern United States,,14.839213371276855
+sn84020750-1840-08-15-a-i0001,1807,1856,"Hon. M. Van Blrln, President U. S. It 'asliington",Q61,LOC,NIL,"Hon. M. Van Blrln, President U. S. It 'asliington", no,0
+sn85042404-1880-01-27-a-i0004,356,370,Peter Auberton,NIL,PER,Q3383792,Pierre Aubertin,,20.023935317993164
+sn85042404-1880-01-27-a-i0004,385,397,Mr. Auberton,NIL,PER,Q16157265,Abberton,,13.958683013916016
+sn85042404-1880-01-27-a-i0004,1150,1162,Mr. Auberton,NIL,PER,Q4799993,"Arthur Pomeroy, 1st Viscount Harberton",,14.910560607910156
+sn85042404-1880-03-09-a-i0004,52,64,Steve Venard,NIL,PER,Q7610753,Stephen Venard,,31.46942901611328
+sn85042404-1880-03-09-a-i0004,123,135,"Nevada, Col.",NIL,LOC,Q1227,Nevada,,25.48301887512207
+sn85042404-1880-03-09-a-i0004,229,235,Yenard,NIL,PER,Q7610753,Stephen Venard,,18.4771785736084
+sn85042404-1880-03-09-a-i0004,862,868,Yenard,NIL,PER,Q5921427,Eriond,,14.738635063171387
+sn85042404-1880-03-09-a-i0004,951,957,Venard,NIL,PER,Q10359244,Renard,,16.467540740966797
+sn85042404-1880-03-09-a-i0004,1317,1323,Venard,NIL,PER,Q10359244,Renard,,16.30907440185547
+sn85042404-1880-03-09-a-i0004,1554,1560,Yenard,NIL,PER,Q5921427,Eriond,,17.480363845825195
+sn85042404-1880-05-04-a-i0002,444,452,Mr. Lees,NIL,PER,Q56617084,Clare Lees,"Based on the provided input text and candidates, the entity [ENT] Mr. Lees [ENT] can be disambiguated as follows: ```json {""wikipedia_page"": ""Clare Lees"", ""wikidata_id"": ""Q56617084""} ``` Explanation: The text mentions ""Mr. Lees"" and refers to him in the context of a school board. Clare Lees, a professor of medieval literature and history of the language, is a suitable candidate based on the given context and candidates list.",10.102959632873535
+sn85042404-1880-05-04-a-i0002,465,478,Mr. McKechnie,NIL,PER,Q7347540,Robert McKechnie,,16.164310455322266
+sn85042404-1880-05-04-a-i0002,1666,1682,Mrs. Shoe¬ maker,NIL,PER,Q19863076,Shoemaker,,13.940103530883789
+sn85042404-1880-05-04-a-i0002,1824,1838,Mrs. Shoemaker,NIL,PER,Q19863076,Shoemaker,,13.575263023376465
+sn88068010-1890-02-13-a-i0003,29,46,Stur¬ geon Lendcr,NIL,PROD,Q218960,Laurence Sterne,,15.4193115234375
+sn88068010-1890-02-13-a-i0003,105,122,Miss Nettie White,NIL,PER,Q64249940,Nettie L. White,,19.591121673583984
+sn88068010-1890-02-13-a-i0003,126,139,Robt. L. Winn,NIL,PER,Q7350765,Robert W. Winn,,20.618925094604492
+sn88068010-1890-02-13-a-i0003,195,205,Robt. Winn,NIL,PER,Q7350765,Robert W. Winn,,17.52459144592285
+sn88068010-1890-02-13-a-i0003,778,785,Charles,NIL,PER,Q81506,Charles I of England,"Based on the input text and the list of candidates, the most appropriate Wikidata entity for the entity tagged with [ENT] is: ```json {""wikipedia_page"":""Charles I of England"", ""wikidata_id"":""Q81506""} ```",8.57924747467041
+sn88068010-1890-04-17-a-i0003,4,35,firm of Geo. D. Barnard iSr Co.,NIL,ORG,Q2089859,ABCorp,"Based on the input text and the list of candidates, the most appropriate Wikidata entity for the entity tagged with [ENT] is 'ABCorp'. ```json {""wikipedia_page"":""ABCorp"", ""wikidata_id"":""Q2089859""} ```",9.585363388061523
+sn88068010-1890-04-17-a-i0003,259,268,Mr. Keene,NIL,PER,Q7183886,Philip Keeney,,14.280437469482422
+sn88068010-1890-04-17-a-i0003,397,417,Messrs. Barnard & Co,NIL,ORG,Q16950382,Barnard & Westwood,,19.1457576751709
+sn88068010-1890-04-17-a-i0003,523,540,Montgomery county,Q378527,LOC,Q487572,Montgomery County,,24.140073776245117
+sn88068010-1890-04-17-a-i0003,627,641,Lincoln county,Q484582,LOC,Q507230,Lincoln County,,21.380115509033203
+sn88068010-1890-09-25-a-i0006,304,313,Americans,Q828,LOC,Q30,United States of America,,19.06952667236328
+sn88068010-1890-09-25-a-i0006,332,341,Australia,Q3960,LOC,Q408,Australia,,19.883804321289062
+sn86063397-1900-03-20-a-i0004,19,24,YUKON,Q6170492,LOC,Q2009,Yukon,,14.940123558044434
+sn86063397-1900-03-20-a-i0004,79,99,Vice Consul Morrison,NIL,PER,Q112151053,James Morrison,,15.521032333374023
+sn86063397-1900-06-26-a-i0002,250,263,Senator Hanna,Q509441,PER,Q2157483,Robert Hanna,,16.042984008789062
+sn86063397-1900-06-26-a-i0002,797,810,Colonel 'Dick,Q1066346,PER,NIL,Colonel 'Dick,no,0
+sn86063397-1900-06-26-a-i0002,852,867,Chairman Ilanna,Q509441,PER,NIL,Chairman Ilanna,"""no""",0
+sn86063397-1900-06-26-a-i0002,1244,1259,Sena¬ tor Scott,Q1966467,PER,Q6257090,John Scott,,19.97884750366211
+sn86063397-1900-06-26-a-i0002,1278,1294,George Wls- woll,NIL,PER,Q5545776,George Washington Wilson,,24.536094665527344
+sn86063397-1900-06-26-a-i0002,1453,1470,Ckaii-innu Ilanna,Q509441,PER,NIL,Ckaii-innu Ilanna,```json {} ```,0
+sn86063397-1900-06-26-a-i0002,1670,1684,Harry I >. New,Q1586757,PER,NIL,Harry I >. New,no,0
+sn86063397-1900-06-26-a-i0002,1859,1864,HANNA,Q509441,PER,NIL,HANNA,No.,0
+sn88085488-1910-02-18-a-i0006,33,54,Della Pringle company,NIL,ORG,Q18351054,Della Pringle,,19.35688018798828
+sn88085488-1910-02-18-a-i0006,163,178,C. K. Van Auker,NIL,PER,Q18238211,Cecil Van Auker,,23.788671493530273
+sn88085488-1910-02-18-a-i0006,580,592,Miss Pringle,Q18351054,PER,Q5409770,Eunice Pringle,,21.820817947387695
+sn88085488-1910-02-18-a-i0006,885,902,Watt’s Phar¬ macy,NIL,ORG,Q7975044,Watts Warehouse,,13.739760398864746
+sn88085488-1910-04-01-a-i0004,9,22,Great Britian,Q23666,LOC,Q31683708,,,22.300437927246094
+sn88085488-1910-05-06-a-i0003,24,48,Washington State College,Q58297825,ORG,Q597236,Washington State University,,28.447744369506836
+sn88085488-1910-05-06-a-i0003,210,218,W. S. C.,Q58297825,ORG,Q597236,Washington State University,,20.702951431274414
+sn88085488-1910-05-06-a-i0003,262,275,State College,Q58297825,ORG,Q597236,Washington State University,,19.98097038269043
+sn88085488-1910-05-06-a-i0003,431,437,Moscow,Q499927,LOC,Q649,Moscow,,23.122215270996094
+sn88085488-1910-09-02-a-i0006,328,339,Clerk Henry,NIL,PER,Q883211,municipal clerk,,14.321375846862793
+sn88085488-1910-09-02-a-i0006,377,387,Tweed Amos,NIL,PER,Q7795720,Thompson Dorfman Sweatman,,21.383708953857422
+sn89058133-1920-01-08-a-i0001,111,130,Benton M. John¬ son,NIL,PER,Q4890584,Benton Johnson,,24.5313663482666
+sn89058133-1920-01-08-a-i0001,249,256,Jackson,Q985409,LOC,Q28198,Jackson,,24.538715362548828
+sn89058133-1920-01-08-a-i0001,400,435,B. M. Johnson Manufacturing Company,NIL,ORG,Q3303765,Mead Johnson,,18.706653594970703
+sn89058133-1920-01-08-a-i0001,583,600,Benton M. Johnson,NIL,PER,Q16893806,Ben Johnson,,26.33047866821289
+sn89058133-1920-01-08-a-i0001,702,713,Mr. Johnson,NIL,PER,Q6742407,Malcolm Johnson,,15.429567337036133
+sn89058133-1920-01-29-a-i0007,45,96,"Tom Scarlett, Circuit Court Clerk for Putnam County",NIL,PER,Q16981525,Tom Strickland,,19.73027229309082
+sn89058133-1920-01-29-a-i0007,492,504,J. R. Watson,NIL,PER,Q6290307,Joshua Watson,,22.186880111694336
+sn89058133-1920-01-29-a-i0007,605,617,J. R. Watson,NIL,PER,Q6290307,Joshua Watson,,19.44559669494629
+sn89058133-1920-01-29-a-i0007,697,709,P. L. Ramsey,NIL,PER,Q2061782,Paul Ramsey,,24.72113037109375
+sn89058133-1920-01-29-a-i0007,791,812,"L. F. MILLER, Sheriff",NIL,PER,Q42534670,Lyle H. Miller,,14.030158996582031
+sn89058133-1920-04-22-a-i0003,0,10,GAINESBORO,Q2057053,LOC,NIL,GAINESBORO,```json {} ```,0
+sn89058133-1920-04-22-a-i0003,321,342,Jenkins & Darwin Bros,NIL,ORG,Q29467610,Walker Greenbank,,17.301589965820312
+sn89058133-1920-04-22-a-i0003,513,525,Jere Whitson,NIL,ORG,Q5622664,Guy Watson,,16.804763793945312
+sn89058133-1920-04-22-a-i0003,548,571,R. P. Morgan Produce Co,NIL,ORG,Q2633403,J.P. Morgan & Co.,,17.59726333618164
+sn89058133-1920-04-22-a-i0003,687,693,Morgan,NIL,ORG,Q54168,J. P. Morgan,"Based on the input text and the list of candidates, the entity mentioned between the [ENT] tags is likely to be ""J.P. Morgan,"" given the context and historical significance of this name in the early 20th century. Here's the JSON response: ```json {""wikipedia_page"":""J. P. Morgan"", ""wikidata_id"":""Q54168""} ```",12.100801467895508
+sn89058133-1920-04-22-a-i0003,772,784,Cooke¬ ville,Q2456192,LOC,Q5167221,Cookville,"```json { ""wikipedia_page"": ""Cookville"", ""wikidata_id"": ""Q5167221"" } ```",10.83607292175293
+sn89058133-1920-04-22-a-i0003,941,953,Silver Point,Q7516246,LOC,NIL,Silver Point,No.,0
+sn89058133-1920-04-22-a-i0003,977,989,Lon Morelock,NIL,PER,Q37566898,Morelock,,14.224522590637207
+sn89058133-1920-04-22-a-i0003,1238,1249,Bob Maggart,NIL,PER,Q888121,Bob McGrath,,23.229671478271484
+sn89058133-1920-04-22-a-i0003,1357,1367,Ralph Wirt,NIL,PER,Q1244572,William Wirt,,27.453411102294922
+sn89058133-1920-04-22-a-i0003,1397,1417,Putnam County Herald,Q16995214,PROD,Q495045,Putnam County,,25.493684768676758
+sn89058133-1920-04-22-a-i0003,1464,1470,Herald,Q16995214,PROD,Q1868552,local newspaper,,15.6336088180542
+sn89058133-1920-04-22-a-i0003,1529,1543,Mansfield Judd,NIL,PER,Q15728870,John Mansfield,,23.176898956298828
+sn89058133-1920-04-22-a-i0003,1734,1746,D. A. RAWLEY,NIL,PER,Q4800615,Arthur Warren Darley,,20.087757110595703
+sn89058133-1920-08-19-a-i0006,52,58,Herald,NIL,PROD,Q3179178,The Herald,"```json { ""wikipedia_page"": ""The Herald"", ""wikidata_id"": ""Q3179178"" } ```",9.075651168823242
+sn89058133-1920-08-19-a-i0006,390,403,Putnam county,Q495045,LOC,Q506531,Putnam County,,22.606924057006836
+sn89058133-1920-08-19-a-i0006,620,626,Herald,NIL,PROD,Q3179178,The Herald,,14.073417663574219
+sn83025812-1930-03-21-a-i0010,598,608,C. P. Gray,NIL,PER,Q7150983,Paul Gray,,22.712806701660156
+sn83025812-1930-03-21-a-i0010,630,643,Buxton school,NIL,ORG,Q5003281,Buxton School,,24.010520935058594
+sn83025812-1930-03-21-a-i0010,703,714,E. P. White,NIL,PER,Q18910877,Emerson Elbridge White,,24.11557960510254
+sn83025812-1930-03-21-a-i0010,716,728,G. D. Miller,NIL,PER,Q113518756,Gerrit Smith Miller,,21.137948989868164
+sn83025812-1930-03-21-a-i0010,733,747,U. B. Williams,NIL,PER,Q7351134,Robert Williams Daniel,,19.983104705810547
+sn83025812-1930-03-21-a-i0010,750,765,D. V. M. Buxton,Q745614,LOC,Q24191840,Dutton-Small House,,17.89620590209961
+sn83025812-1930-03-21-a-i0010,803,816,Cane Hattcras,Q978032,LOC,Q5032198,Cane Patch,,14.202852249145508
+sn83025812-1930-03-21-a-i0010,1127,1147,Capt. B. R. Ballance,NIL,PER,Q7939972,Volant Vashon Ballard,,16.35015296936035
+sn83025812-1930-03-21-a-i0010,1282,1288,Buxton,Q745614,LOC,Q971223,Buxton,,16.044471740722656
+sn83025812-1930-05-30-a-i0006,207,214,Edcnton,Q2028258,LOC,NIL,Edcnton,```json {} ```,0
+sn83025812-1930-05-30-a-i0006,394,423,District Supervisor of Census,NIL,ORG,Q5280577,Director of the United States Census Bureau,,16.22278594970703
+sn83025812-1930-05-30-a-i0006,1188,1195,Edcnton,Q2028258,LOC,Q1616997,Edlington,,20.611499786376953
+sn83025812-1930-05-30-a-i0006,1458,1465,Edcnton,Q2028258,LOC,Q1616997,Edlington,,23.51318359375
+sn83025812-1930-05-30-a-i0006,1573,1580,Edenton,Q2028258,LOC,Q1616997,Edlington,,23.11954689025879
+sn83025812-1930-05-30-a-i0006,1829,1838,Uncle Gam,NIL,PER,Q184689,Uncle Sam,,15.176801681518555
+sn92063852-1950-02-25-a-i0005,49,68,Ruth Morris soprano,NIL,PER,Q7367987,Rose and Ottilie Sutro,,22.595664978027344
+sn92063852-1950-02-25-a-i0005,287,355,"His Excellency, Dumarsaix Estime, President of the Republic of Haiti",Q738355,PER,Q790,Haiti,,18.893495559692383
+sn92063852-1950-02-25-a-i0005,497,537,Fiist Lady of the Republic. Madam Estine,Q18926909,PER,Q738355,Dumarsais Estimé,"Based on the provided input text and the list of candidates, the entity mentioned between the [ENT] tags is ""Madam Estine"". From the list of candidates, the most appropriate Wikidata entity for ""Madam Estine"" is ""Dumarsais Estimé"", who is the President of Haiti. Here is the JSON-formatted answer: ```json {""wikipedia_page"": ""Dumarsais Estimé"", ""wikidata_id"": ""Q738355""} ```",11.152656555175781
+sn92063852-1950-02-25-a-i0005,721,737,Hatiau Jour- nal,NIL,PROD,Q3118980,Le Matin,,23.053186416625977
+sn92063852-1950-02-25-a-i0005,862,877,Eugene Bioadnax,NIL,PER,Q7243811,Prince Ananias,,22.583105087280273
+sn92063852-1950-08-26-a-i0008,0,13,Florida Court,Q3001105,ORG,Q812,Florida,,14.215572357177734
+sn92063852-1950-08-26-a-i0008,105,142,state-supported University of Florida,Q501758,ORG,Q861548,Florida State University,,19.598405838012695
+sn92063852-1950-08-26-a-i0008,252,289,Florida A. & M. College for Ne- groes,Q1430048,ORG,Q5461515,Florida Memorial University,,29.760881423950195
+sn92063852-1950-08-26-a-i0008,342,354,Negro school,Q1430048,ORG,Q4922460,Black school,,21.00296974182129
+sn92063852-1950-08-26-a-i0008,384,400,"white insti- ,Ut",Q501758,ORG,Q1620945,historically black colleges and universities,"```json {""wikipedia_page"":""historically black colleges and universities"", ""wikidata_id"":""Q1620945""} ```",11.48771858215332
+sn92063852-1950-08-26-a-i0008,1211,1225,Texas Arkansas,Q1612,ORG,Q1439,Texas,,18.147430419921875
+sn92063852-1950-08-26-a-i0008,2333,2350,VS. Supreme Court,Q11201,ORG,NIL,VS. Supreme Court,no,0
+sn92063852-1950-09-23-a-i0018,0,17,Housewives League,NIL,ORG,Q7830290,Townswomen's Guild,,19.74274253845215
+sn92063852-1950-09-23-a-i0018,51,90,National Housewives Lea¬ gue of America,NIL,ORG,Q6971949,National Council of Women of the United States,,28.802078247070312
+sn92063852-1950-09-23-a-i0018,237,290,"Mrs. Chris¬ tina Fuqua, president of De¬ troit. Mich.",NIL,PER,Q4245558,Christine Quinn,,16.692007064819336
+sn92063852-1950-09-23-a-i0018,318,337,Mrs. Mattie S. Bibb,NIL,PER,Q22958043,Mary Bibb,,25.15345001220703
+sn92063852-1950-09-23-a-i0018,339,357,Mrs. E. R. Naggles,NIL,PER,Q4792417,Arliss Sturgulewski,,22.71861457824707
+sn92063852-1950-09-23-a-i0018,463,484,Mrs. Willie M. Miller,NIL,PER,Q16012478,Lillian Miller,,23.784961700439453
+sn92063852-1950-09-23-a-i0018,490,506,Mrs. A. R Ashley,NIL,PER,Q16750239,Mary Ashley,,21.239303588867188
+sn92063852-1950-09-23-a-i0018,552,562,Mrs. Fuqua,NIL,PER,Q22712178,Fatima Massaquoi,,15.2037935256958
+sn92063852-1950-09-23-a-i0018,967,981,Horace Sudduth,NIL,PER,Q58826070,Margaret Ashmore Sudduth,,25.906723022460938
+sn92063852-1950-09-23-a-i0018,1060,1068,Business,NIL,ORG,Q4830453,business,,20.183652877807617
+sn92063852-1950-09-23-a-i0018,1073,1090,Housewives League,NIL,ORG,Q4970077,British Housewives' League,,21.68686294555664
+sn92063852-1950-09-23-a-i0018,1236,1253,Housewives League,NIL,ORG,Q4970077,British Housewives' League,,20.5678653717041
+sn92063852-1950-09-23-a-i0018,1336,1356,Housewiv¬ es Leagues,NIL,ORG,Q29093151,Woman's club movement in the United States,,18.531909942626953
+sn92063852-1950-09-23-a-i0018,1396,1414,Housewives Leagues,NIL,ORG,Q7830290,Townswomen's Guild,,20.0157527923584
+sn92063852-1950-09-23-a-i0018,1556,1566,Mrs. Fuqua,NIL,PER,Q21504888,Fuqua,,17.515705108642578
+sn92063852-1950-09-23-a-i0018,1811,1828,Mrs. H. F. Thomas,NIL,PER,Q1606727,Henry F. Thomas,,18.29505729675293
+sn92063852-1950-09-23-a-i0018,1887,1911,Mrs. Freddvo S Henderson,NIL,PER,Q43276058,Freddye Scarborough Henderson,,23.04355812072754
+sn91068761-1960-03-30-a-i0003,85,97,Hetiny Benny,Q5715142,ORG,Q1035152,Hellin's law,,14.92772102355957
+sn91068761-1960-03-30-a-i0003,271,283,Marvin Lewis,NIL,PER,Q665659,Marvin Lewis,,30.167877197265625
+sn91068761-1960-03-30-a-i0003,417,449,North Carolina Kgg Associa¬ tion,NIL,ORG,Q7054580,North Carolina Religious Coalition for Marriage Equality,,19.733278274536133
+sn91068761-1960-03-30-a-i0003,861,875,Chairman Lewis,NIL,PER,Q108545912,John Lewis,"Based on the input text and the provided list of candidates, the entity mentioned between the [ENT] tags in the text is ""John Lewis"". The most appropriate Wikidata entity from the provided list of candidates is: ```json {""wikipedia_page"": ""John Lewis"", ""wikidata_id"": ""Q108545912""} ```",11.627351760864258
+sn91068761-1960-03-30-a-i0003,1336,1350,North Atlantic,Q350134,LOC,Q97,Atlantic Ocean,,25.974790573120117
+sn91068761-1960-03-30-a-i0003,1404,1415,Billy Hooks,NIL,PER,Q4909353,Bill Hawks,,32.73179244995117
+sn91068761-1960-03-30-a-i0003,1417,1430,Roger Harwood,NIL,PER,Q5605715,Greg Hoard,,33.77393341064453
+sn91068761-1960-03-30-a-i0003,1432,1443,Claud Hooks,NIL,PER,Q25753816,Claud Hancox,,30.242395401000977
+sn91068761-1960-03-30-a-i0003,1449,1464,Evunder Arnette,NIL,PER,Q109267228,Everett Nourse,,27.311431884765625

@@ -1,0 +1,468 @@
+doc_id,start_pos,end_pos,surface,gt_id,type,identifier,title,answer,score
+NZZ-1798-01-20-a-p0002,318,330,Frank reichs,Q142,LOC,Q146246,Fränkisches Reich,,18.549236297607422
+NZZ-1798-01-20-a-p0002,1100,1128,General¬ Lieutenant Sherlöck,NIL,PER,Q19947714,,,14.862799644470215
+NZZ-1798-01-20-a-p0002,1769,1781,Basseville's,Q3339973,PER,NIL,Basseville's,"""no""",0
+NZZ-1798-01-20-a-p0002,1815,1826,Gen. Duphot,Q977001,PER,NIL,Gen. Duphot,no,0
+NZZ-1808-04-29-a-p0002,468,490,danischen Blatte Dagen,Q1768412,PROD,Q35,Dänemark," { ""wikipedia_page"": ""Dänemark"", ""wikidata_id"": ""Q35"" }",12.746357917785645
+NZZ-1808-04-29-a-p0002,790,808,General Hutchinson,Q321765,PER,Q5539108,George F. Hopkinson,,18.16754150390625
+NZZ-1808-04-29-a-p0002,883,901,General Hutchinson,Q321765,PER,Q5593220,Graham Seton Hutchison,,17.001651763916016
+NZZ-1808-04-29-a-p0002,1440,1451,Bartenstein,Q809585,LOC,NIL,Bartenstein,no,0
+NZZ-1808-04-29-a-p0002,1942,1952,Lord Gower,Q334145,PER,Q336200,"John Leveson-Gower, 1. Earl Gower",,18.531835556030273
+NZZ-1808-04-29-a-p0002,3875,3904,neuesten Berlinischen Zeitung,Q675003,PROD,Q10185,Berliner Zeitung,,16.848283767700195
+NZZ-1808-04-29-a-p0002,3926,3941,H. von Rotzebue,NIL,PER,Q23710528,Christian Ludwig Kotzebue,,22.037933349609375
+NZZ-1808-04-29-a-p0002,3945,3953,Ehstland,Q191,LOC,NIL,Ehstland,no,0
+NZZ-1808-04-29-a-p0002,4308,4325,General Burhöyden,NIL,PER,Q1504395,John Fox Burgoyne,,17.0417537689209
+NZZ-1818-01-09-a-p0001,574,602,"M. Mles, Pfarrer zu Deyzisau",NIL,PER,Q1702328,Meileshof,,17.12434196472168
+NZZ-1818-01-09-a-p0001,694,703,Steinkopf,NIL,PROD,Q65588474,Johann Friedrich Steinkopf,,15.111607551574707
+NZZ-1818-01-09-a-p0001,934,957,protestantischen Kirche,Q2113518,ORG,Q23540,Protestantismus,,18.50625991821289
+NZZ-1818-01-09-a-p0001,1276,1289,Schmidthammer,NIL,PER,Q6168547,Nathaniel Schmidt,,23.953941345214844
+NZZ-1818-01-09-a-p0001,1501,1553,gelehrte und freymü¬ thige Oberhofprediger Dr. Ammon,Q213786,PER,NIL,gelehrte und freymü¬ thige Oberhofprediger Dr. Ammon,no,0
+NZZ-1818-01-09-a-p0001,2054,2106,"ehrwürdige Antistes der Zürcheri¬ schen Kirche, Heß,",Q121947,PER,Q94909756,Heinrich Heise,,15.716121673583984
+NZZ-1818-01-09-a-p0001,2224,2229,Orell,NIL,ORG,Q1511140,Orell Füssli,,18.607831954956055
+NZZ-1828-05-21-a-p0001,0,32,Schweizerische Eidgenossenschaft,Q39,LOC,Q435583,Alte Eidgenossenschaft,,26.881654739379883
+NZZ-1828-05-21-a-p0001,38,67,große Rath des Standes Luzern,Q27897675,ORG,Q2732017,Kantonsrat Luzern,,20.95697784423828
+NZZ-1838-03-30-a-p0001,0,6,Schwyz,Q12433,LOC,Q68155,Schwyz,"```json {""wikipedia_page"":""Schwyz"", ""wikidata_id"":""Q68155""} ```",14.468600273132324
+NZZ-1838-03-30-a-p0001,101,118,hohe Stand Schwyz,Q12433,LOC,NIL,hohe Stand Schwyz,no,0
+NZZ-1838-03-30-a-p0001,129,145,alte Land Schwyz,Q12433,LOC,Q1517417,Geschichte des Kantons Schwyz,,20.381502151489258
+NZZ-1838-03-30-a-p0001,371,390,alten Landes Schwyz,Q12433,LOC,Q1517417,Geschichte des Kantons Schwyz,,20.94167709350586
+NZZ-1838-03-30-a-p0001,1488,1505,hohe Stand Schwyz,Q12433,LOC,Q3500667,,,18.31227684020996
+NZZ-1838-03-30-a-p0001,2284,2295,Neuen¬ burg,Q12738,LOC,Q69345,Neuenburg,,18.494173049926758
+NZZ-1838-03-30-a-p0001,3229,3242,Bezirk Schwyz,Q74818,LOC,Q12433,Kanton Schwyz,,24.56832504272461
+NZZ-1838-03-30-a-p0001,4659,4676,Eidgenossenschaft,Q39,LOC,Q435583,Alte Eidgenossenschaft,,17.000669479370117
+NZZ-1848-01-21-a-p0005,2,41,Schweizerische National-Vorsichts-Kassa,NIL,ORG,Q597394,Schweizerische Nationalbank,,19.929208755493164
+NZZ-1848-01-21-a-p0005,83,117,Schweiz. Na¬ sional-Vorsichtskassa,NIL,ORG,Q39,Schweiz,,16.742084503173828
+NZZ-1848-01-21-a-p0005,299,319,derrn Oberst Brunner,NIL,PER,Q496397,Andreas Brunner,,14.90334701538086
+NZZ-1848-01-21-a-p0005,328,340,Herrn Locher,NIL,PER,Q107420954,Kurt Locher,,16.58684539794922
+NZZ-1848-01-21-a-p0005,384,403,Herr Oberst Brunner,NIL,PER,Q1360798,Ernst Ritter von Brunner,,14.949597358703613
+NZZ-1848-01-21-a-p0005,505,516,Herr Locher,NIL,PER,Q2039809,Otto Locher,,19.46221923828125
+NZZ-1848-01-21-a-p0005,757,776,Hrn. Oberst Brunner,NIL,PER,Q1360798,Ernst Ritter von Brunner,,15.011220932006836
+NZZ-1848-01-21-a-p0005,1091,1111,Herrn Oberst Brunner,NIL,PER,Q15549957,Philipp Brunner,,15.62653923034668
+NZZ-1848-01-21-a-p0005,1422,1437,Kantonen Zürich,Q11943,LOC,Q23058,Kanton der Schweiz,,19.766460418701172
+NZZ-1848-01-21-a-p0005,1920,1974,Direktor der Schweiz. National-Vorsichts-Kassa: Cünier,NIL,PER,Q265522,Helvetisches Direktorium,,15.434393882751465
+NZZ-1858-04-20-a-p0003,213,226,Polytechnikum,Q11942,ORG,Q845392,Polytechnikum,,15.480538368225098
+NZZ-1858-04-20-a-p0003,384,391,Simplon,Q471166,LOC,NIL,Simplon,no,0
+NZZ-1858-04-20-a-p0003,651,657,Zürich,Q11943,LOC,Q72,Zürich,,20.262786865234375
+NZZ-1858-04-20-a-p0003,855,861,Zürich,Q11943,LOC,Q72,Zürich,,24.193073272705078
+NZZ-1858-04-20-a-p0003,897,928,minder¬ jährigen Zürchers Spöri,NIL,PER,Q448506,Schweizer Bürgerrecht,"Based on the provided text and list of candidates, the appropriate disambiguated entity for the [ENT] tags is: ```json { ""wikipedia_page"": ""Schweizer Bürgerrecht"", ""wikidata_id"": ""Q448506"" } ```",13.747418403625488
+NZZ-1858-04-20-a-p0003,1164,1174,St. Gallen,Q12746,LOC,Q25607,St. Gallen,,24.77943992614746
+NZZ-1858-04-20-a-p0003,1176,1211,Deutsch-schweizerische Kre¬ ditbank,NIL,ORG,Q248476,Zürcher Kantonalbank,,23.97285270690918
+NZZ-1858-04-20-a-p0003,1236,1261,Herren Georg Dörten¬ bach,Q1693802,PER,Q1505320,Georg Martin Doertenbach,,16.886314392089844
+NZZ-1858-04-20-a-p0003,1277,1294,Karl v. Schätzler,Q1874644,PER,Q119995,Konstantin von Schaezler,,32.64712142944336
+NZZ-1858-04-20-a-p0003,1312,1329,Adolph Pestalozzi,NIL,PER,Q21491859,Pestalozzi,,28.237625122070312
+NZZ-1858-04-20-a-p0003,1334,1340,Zürich,Q72,LOC,Q11943,Kanton Zürich,,22.03238868713379
+NZZ-1858-04-20-a-p0003,1434,1457,Herren Albert Erzberger,NIL,PER,Q30141298,Dietrich Erzberger,,18.39878273010254
+NZZ-1858-04-20-a-p0003,1472,1484,Max v. Haber,NIL,PER,Q1449627,Franz Xaver Hackher zu Hart,,29.584087371826172
+NZZ-1858-04-20-a-p0003,1503,1516,Escher-Bodmer,NIL,PER,Q111442425,Luise Escher-Bodmer,,25.509016036987305
+NZZ-1858-04-20-a-p0003,1634,1660,HH. Prä¬ sident Wirth-Sand,Q16832423,PER,NIL,HH. Prä¬ sident Wirth-Sand,No,0
+NZZ-1858-04-20-a-p0003,1662,1684,Rechtskonsulent Jordan,NIL,PER,Q1454636,Rechtskonsulent,,16.2127742767334
+NZZ-1858-04-20-a-p0003,1702,1715,Escher-Bodmer,NIL,PER,Q111442425,Luise Escher-Bodmer,,23.2049560546875
+NZZ-1858-04-20-a-p0003,1717,1738,v. Schultheß-Rechberg,Q55193349,PER,Q21447363,Anton von Schulthess Rechberg,,21.688947677612305
+NZZ-1858-04-20-a-p0003,1751,1770,Präsident Bärlocher,Q55683827,PER,Q68806209,Albert Bärlocher,,21.26253890991211
+NZZ-1858-04-20-a-p0003,1775,1804,St. Gallen Fürsprech Hoffmann,NIL,PER,Q25607,St. Gallen,,17.653181076049805
+NZZ-1858-04-20-a-p0003,1821,1831,Gsell-Lutz,NIL,PER,Q1330658,Robert Gsell,"```json { ""wikipedia_page"": ""Robert Gsell"", ""wikidata_id"": ""Q1330658"" } ```",12.774762153625488
+NZZ-1858-04-20-a-p0003,1864,1879,Churer Tagblatt,NIL,PROD,Q480426,Amtsblatt Stadt Chur,,24.542325973510742
+NZZ-1858-04-20-a-p0003,2048,2064,Appenzell A. Rh.,Q12079,LOC,Q209270,Appenzell,,19.51178550720215
+NZZ-1858-04-20-a-p0003,2132,2136,Genf,Q11917,LOC,Q71,Genf,,24.513288497924805
+NZZ-1858-04-20-a-p0003,2153,2157,Nord,NIL,PROD,Q659,Norden,"```json {""wikipedia_page"":""Norden"", ""wikidata_id"":""Q659""} ```",10.822652816772461
+NZZ-1858-04-20-a-p0003,2231,2240,Neuenburg,Q12738,LOC,Q69345,Neuenburg,,17.76697540283203
+NZZ-1858-04-20-a-p0003,2307,2319,Ferrukh-Khan,Q1249837,PER,NIL,Ferrukh-Khan,```json {} ```,0
+NZZ-1858-04-20-a-p0003,2399,2406,Persien,Q83311,LOC,Q794,Iran,,22.510974884033203
+NZZ-1868-02-17-a-p0001,531,543,Wa¬ shington,Q61,LOC,Q1223,Washington,,19.93024444580078
+NZZ-1868-02-17-a-p0001,1558,1568,Wafhington,Q61,LOC,Q124046,,,16.83711051940918
+NZZ-1868-02-17-a-p0001,1719,1735,Königreichs Siam,Q1155700,LOC,Q869,Thailand,,20.942798614501953
+NZZ-1868-02-17-a-p0001,2731,2742,Oesterreich,Q533534,LOC,Q40,Österreich,,24.275636672973633
+NZZ-1868-02-17-a-p0001,3170,3197,Lieutenant v. Tschirschnitz,Q28737714,PER,Q28739734,Wilhelm von Tschirschnitz,,18.481124877929688
+NZZ-1868-02-17-a-p0001,4809,4823,Marquis Boissy,Q3135539,PER,Q364931,Louis de Boissy,,20.410472869873047
+NZZ-1868-02-17-a-p0001,5706,5723,Astronom Gassendi,Q192315,PER,Q11063,Astronom,,18.39691734313965
+NZZ-1878-01-07-b-p0002,90,104,Cornet Burenie,NIL,PER,Q694613,Rennfähnrich,,15.364849090576172
+NZZ-1878-01-07-b-p0002,120,130,Donauarmee,NIL,ORG,Q2862948,,,20.715665817260742
+NZZ-1878-01-07-b-p0002,310,326,Tatjana Shukalin,NIL,PER,Q158148,Tatjana Nikolajewna Romanowa,,22.922080993652344
+NZZ-1878-01-07-b-p0002,555,572,Fräulein Shukalin,NIL,PER,Q2008597,Anne Jaclard,,15.554708480834961
+NZZ-1878-01-07-b-p0002,1740,1746,Uralsk,NIL,LOC,Q487439,Oral,,27.891693115234375
+NZZ-1878-01-07-b-p0002,2016,2024,Sai¬ zew,NIL,PER,Q12806435,Saizew/Sajzew,,14.993629455566406
+NZZ-1878-01-07-b-p0002,2034,2040,Saizew,NIL,PER,Q12806435,Saizew/Sajzew,,17.858051300048828
+NZZ-1878-01-07-b-p0002,2339,2355,Kirchdorfe Eidum,Q20772,LOC,Q378636,Kirchdorf,,20.308086395263672
+NZZ-1878-01-07-b-p0002,3209,3223,Dr. Hantelmann,NIL,PER,Q2038547,William Henry Christian Santelmann,,21.731897354125977
+NZZ-1878-01-07-b-p0002,3319,3330,Arbeitgeber,NIL,PROD,Q3053337,Arbeitgeber,"```json { ""wikipedia_page"": ""Arbeitgeber"", ""wikidata_id"": ""Q3053337"" } ```",12.9141206741333
+NZZ-1878-01-07-b-p0002,3342,3374,Brauereibesitzerin Elise Hassold,NIL,PER,Q104693015,Braugenossenschaft,,20.12604331970215
+NZZ-1878-01-07-b-p0002,3378,3388,Schwalbach,Q686818,LOC,Q522541,Bad Schwalbach,,24.68024444580078
+NZZ-1878-01-07-b-p0002,3851,3860,Kronstadt,Q82174,LOC,Q155863,Kronschtadt,,18.215564727783203
+NZZ-1878-01-07-b-p0002,5635,5645,Voss. Ztg.,Q675003,PROD,Q60983132,Vogtland-Anzeiger,,18.059947967529297
+NZZ-1878-01-07-b-p0002,5997,6007,Königgrätz,Q180139,LOC,Q154942,Schlacht bei Königgrätz,,24.26757049560547
+NZZ-1888-03-08-b-p0002,9,20,Deutschland,Q1206012,LOC,Q183,Deutschland,,20.510587692260742
+NZZ-1888-03-08-b-p0002,1479,1490,Blankenburg,Q111102,PER,Q122675,Werner Blankenburg,,22.904874801635742
+NZZ-1888-03-08-b-p0002,1740,1750,Frankreich,Q70802,LOC,Q142,Frankreich,,20.049396514892578
+NZZ-1888-03-08-b-p0002,1837,1855,Faubourg du Temple,Q1037624,LOC,Q1067494,Temple,,23.351158142089844
+NZZ-1888-03-08-b-p0002,2160,2180,Dynamithelden Cyvoct,Q17350092,PER,NIL,Dynamithelden Cyvoct,no,0
+NZZ-1888-03-08-b-p0002,2185,2190,Gallo,Q16929990,PER,Q3838808,Lucius Aurelius Gallus,,14.961183547973633
+NZZ-1888-03-08-b-p0002,2496,2508,arme Joffrin,Q3188690,PER,NIL,arme Joffrin,No.,0
+NZZ-1888-03-08-b-p0002,2534,2544,Belleville,Q815949,LOC,Q1440685,Belleville,,23.397438049316406
+NZZ-1888-03-08-b-p0002,4058,4078,gestürzten Ristitsch,Q391573,PER,Q18644791,,,16.79935646057129
+NZZ-1888-03-08-b-p0002,4812,4819,Bosnien,Q225,LOC,Q188736,Bosnien,,22.187074661254883
+NZZ-1898-12-05-b-p0005,22,27,China,Q148,LOC,Q29520,China,,16.563947677612305
+NZZ-1898-12-05-b-p0005,329,354,Partei der Jung¬ chinesen,NIL,ORG,Q5100694,Jungchina-Partei,,22.288188934326172
+NZZ-1898-12-05-b-p0005,696,710,Reform¬ partei,Q1203735,ORG,NIL,Reform¬ partei,"""no""",0
+NZZ-1898-12-05-b-p0005,1085,1091,Chinas,Q148,LOC,Q29520,China,,16.851778030395508
+NZZ-1898-12-05-b-p0005,1247,1275,Ew. Majestät den Marquis Ito,Q174971,PER,NIL,Ew. Majestät den Marquis Ito,"```json {""wikipedia_page"":"""",""wikidata_id"":""""} ```",0
+NZZ-1898-12-05-b-p0005,1451,1457,Chinas,Q148,LOC,Q12060881,Kaiserreich China,,19.687789916992188
+NZZ-1898-12-05-b-p0005,1631,1639,Graf Ito,Q174971,PER,NIL,Graf Ito,no,0
+NZZ-1898-12-05-b-p0005,1935,1940,China,Q148,LOC,Q29520,China,,19.580764770507812
+NZZ-1898-12-05-b-p0005,2087,2093,Chinas,Q148,LOC,Q29520,China,,18.90009880065918
+NZZ-1898-12-05-b-p0005,3034,3041,Rußland,Q34266,LOC,Q159,Russland,,23.76637077331543
+NZZ-1898-12-05-b-p0005,3277,3285,Rußlands,Q34266,LOC,Q159,Russland,,23.249719619750977
+NZZ-1898-12-05-b-p0005,3402,3409,Rußland,Q34266,LOC,Q159,Russland,,23.94947624206543
+NZZ-1898-12-05-b-p0005,3524,3529,China,Q148,LOC,Q29520,China,,20.444129943847656
+NZZ-1898-12-05-b-p0005,3612,3617,China,Q148,LOC,Q29520,China,,18.211200714111328
+NZZ-1898-12-05-b-p0005,3874,3881,Rußland,Q34266,LOC,Q159,Russland,,23.687135696411133
+NZZ-1898-12-05-b-p0005,4159,4167,Rußlands,Q34266,LOC,Q159,Russland,,22.901458740234375
+NZZ-1898-12-05-b-p0005,4214,4219,China,Q148,LOC,Q29520,China,,19.431394577026367
+NZZ-1898-12-05-b-p0005,4459,4467,Rußlands,Q34266,LOC,Q159,Russland,,25.10212516784668
+NZZ-1898-12-05-b-p0005,4625,4632,Rußland,Q34266,LOC,Q159,Russland,,21.110271453857422
+NZZ-1898-12-05-b-p0005,4827,4832,China,Q148,LOC,Q29520,China,,18.385425567626953
+NZZ-1898-12-05-b-p0005,5068,5078,Ho-Wen-Bao,NIL,PROD,Q37041,klassisches Chinesisch,,16.035816192626953
+NZZ-1908-01-19-a-p0001,282,293,Schmidstube,NIL,LOC,Q1590957,Haus zum Schwert,,18.752309799194336
+NZZ-1908-01-19-a-p0001,301,352,"Oberst Richard, Sekretär der Zürcher Handelskammer,",NIL,PER,Q1391766,Joseph Richard,,19.173683166503906
+NZZ-1908-01-19-a-p0001,577,596,Ulrico Vollenweider,NIL,PER,Q4356834,Oskari Wilho Louhivuori,,27.777177810668945
+NZZ-1908-01-19-a-p0001,615,629,Müller-Jelmoli,NIL,PER,Q680208,Jelmoli,,21.851009368896484
+NZZ-1908-01-19-a-p0001,631,655,"Ri¬ chard, Dr. Schärtlin",NIL,PER,Q2150541,Richard Schneider,"Based on the input text and the list of candidates, the most appropriate Wikidata entity for the first [ENT] tag is 'Richard Schneider' with Wikidata ID 'Q2150541' and Wikipedia page title 'Richard Schneider'. The same entity is also appropriate for the second [ENT] tag. ```json {""wikipedia_page"":""Richard Schneider"", ""wikidata_id"":""Q2150541""} ```",13.998891830444336
+NZZ-1908-01-19-a-p0001,671,681,Dr. G. Bär,NIL,PER,Q2149159,Richard Bär,,21.207977294921875
+NZZ-1908-01-19-a-p0001,3752,3758,Bundes,Q675794,ORG,Q39,Schweiz,,16.238718032836914
+NZZ-1908-01-19-a-p0001,4740,4751,Deutschland,Q1206012,LOC,Q183,Deutschland,,19.005130767822266
+NZZ-1908-01-19-a-p0001,7989,8000,Deutschland,Q1206012,LOC,Q183,Deutschland,,19.506000518798828
+NZZ-1908-01-19-a-p0001,8512,8522,Frankreich,Q70802,LOC,Q142,Frankreich,,20.39494514465332
+NZZ-1908-01-19-a-p0001,10640,10646,Bundes,Q675794,ORG,Q1005903,Bundesebene (Deutschland),,16.80482292175293
+NZZ-1908-01-19-a-p0001,10772,10776,Bund,Q675794,ORG,Q39,Schweiz,,16.78277015686035
+NZZ-1908-01-19-a-p0001,11869,11873,Bund,Q675794,ORG,Q1005903,Bundesebene (Deutschland),,15.516864776611328
+NZZ-1908-01-19-a-p0001,13070,13095,Arbeitersekretär Greulich,Q91174,PER,Q627228,Arbeitersekretariat,,18.7537841796875
+NZZ-1908-01-19-a-p0001,13554,13573,Nationalrat A. Frey,NIL,PER,Q18169606,Gottfried Frey,,21.021728515625
+NZZ-1908-01-19-a-p0001,14310,14322,Arbeiterbund,Q1084142,ORG,Q668944,Schweizerischer Gewerkschaftsbund,,22.622724533081055
+NZZ-1908-01-19-a-p0001,14324,14337,Gewerbeverein,Q693891,ORG,Q1520478,Gewerbeverein,,24.33365249633789
+NZZ-1908-01-19-a-p0001,14624,14638,Prof. Zürchers,NIL,PER,Q26972533,Josef Zürcher,,21.151100158691406
+NZZ-1908-01-19-a-p0001,14712,14716,Frey,NIL,PER,Q56875455,Erich Frey,,21.13689613342285
+NZZ-1908-01-19-a-p0001,14825,14867,"ld, Verwalter der Baugewerbekasse, Zürich,",NIL,PER,Q20012503,Zürcher Handelskammer,"{""wikipedia_page"": ""Zürcher Handelskammer"", ""wikidata_id"": ""Q20012503""} Based on the context provided in the input text, the entity mentioned between the [ENT] tags is ""Zürcher Handelskammer"".",11.149803161621094
+NZZ-1908-01-19-a-p0001,15239,15248,Berchtold,NIL,PER,Q60449,Joseph Berchtold,,14.947110176086426
+NZZ-1908-01-19-a-p0001,15323,15339,Oberrichter Lang,NIL,PER,Q42347798,Oberlandesgericht Linz,,16.786373138427734
+NZZ-1908-01-19-a-p0001,15350,15359,Berchtold,NIL,PER,Q940150,Friedrich von Berchtold,,18.737699508666992
+NZZ-1908-01-19-a-p0001,15430,15452,Referent Hrn. Greulich,Q91174,PER,Q1483812,Revident,,17.324811935424805
+NZZ-1908-01-19-a-p0001,16101,16112,Boos-Jegher,Q31271042,PER,Q86983037,Joachim Georg Boeckh,,23.78099822998047
+NZZ-1918-09-09-c-p0002,72,77,Wolff,Q552226,ORG,Q3014,Wolfsburg,,15.050930976867676
+NZZ-1918-09-09-c-p0002,141,157,Ploegsteertwalde,Q3016976,LOC,NIL,Ploegsteertwalde,no,0
+NZZ-1918-09-09-c-p0002,165,179,La Basséekanal,Q1032668,LOC,Q2887624,,,20.70311737060547
+NZZ-1918-09-09-c-p0002,299,304,Gleux,NIL,LOC,Q455660,Gréoux-les-Bains,,18.554752349853516
+NZZ-1918-09-09-c-p0002,305,318,Ha¬ princourt,Q375743,LOC,Q910806,Haplincourt,,17.117769241333008
+NZZ-1918-09-09-c-p0002,478,492,Goureau¬ court,Q1117354,LOC,Q188511,Guéret,,17.023609161376953
+NZZ-1918-09-09-c-p0002,680,691,Crozatkanal,Q1032591,LOC,Q135388,Canal de l’Est,,19.640958786010742
+NZZ-1918-09-09-c-p0002,732,739,Ailette,Q405073,LOC,Q1527262,,,22.231914520263672
+NZZ-1918-09-09-c-p0002,750,757,Ailette,Q405073,LOC,Q1527262,,,21.369342803955078
+NZZ-1918-09-09-c-p0002,1020,1029,Champagne,Q2428809,LOC,Q273827,Champagne,,20.699674606323242
+NZZ-1918-09-09-c-p0002,1537,1542,Havas,Q516033,ORG,Q706577,Charles-Louis Havas,"```json { ""wikipedia_page"": ""Charles-Louis Havas"", ""wikidata_id"": ""Q706577"" } ```",10.468300819396973
+NZZ-1918-09-09-c-p0002,1638,1646,Avaisnes,Q45688,LOC,Q854480,Avesnes,,28.728097915649414
+NZZ-1918-09-09-c-p0002,1707,1720,Lamottegehöft,NIL,LOC,Q1086071,La Motte-en-Champsaur,,16.722976684570312
+NZZ-1918-09-09-c-p0002,1757,1768,Crozatkanal,Q1032591,LOC,Q135388,Canal de l’Est,,20.73432159423828
+NZZ-1918-09-09-c-p0002,1798,1802,Oise,Q200231,LOC,Q12675,Département Oise,,21.69963264465332
+NZZ-1918-09-09-c-p0002,1807,1812,Aisne,Q41962,LOC,Q3093,Département Aisne,,23.82427978515625
+NZZ-1918-09-09-c-p0002,2084,2095,Cham¬ pagne,Q2428809,LOC,Q273827,Champagne,,17.736774444580078
+NZZ-1918-09-09-c-p0002,2136,2149,Mont-sans-Nom,NIL,LOC,Q677216,Mont-Notre-Dame,,21.08584976196289
+NZZ-1918-09-09-c-p0002,2271,2276,Havas,Q516033,ORG,NIL,Havas,```json {} ```,0
+NZZ-1918-09-09-c-p0002,2591,2604,Monte Pertica,NIL,LOC,Q3862151,,,15.847908020019531
+NZZ-1918-09-09-c-p0002,2739,2761,Balkankriegsschauplatz,Q23522,LOC,Q789406,Balkanfeldzug,,19.198989868164062
+NZZ-1918-09-09-c-p0002,2780,2785,Havas,Q516033,ORG,Q706577,Charles-Louis Havas,"```json { ""wikipedia_page"": ""Charles-Louis Havas"", ""wikidata_id"": ""Q706577"" } ```",11.391812324523926
+NZZ-1918-09-09-c-p0002,2810,2821,Orientarmee,Q18148776,ORG,Q881028,Nachrichtenstelle für den Orient,,15.477325439453125
+NZZ-1918-09-09-c-p0002,3243,3251,Monastir,Q157246,LOC,Q208715,Monastir,,16.971635818481445
+NZZ-1918-09-09-c-p0002,3336,3345,Jernsalem,Q1218,LOC,Q1724338,Nahalal,,19.52214813232422
+NZZ-1918-09-09-c-p0002,3566,3580,Palestine News,NIL,PROD,Q20502345,,,25.331623077392578
+NZZ-1918-09-09-c-p0002,4832,4857,Anglo¬ Jewish Preßagentur,NIL,ORG,Q41189,Jewish Agency for Israel,,21.692089080810547
+NZZ-1918-09-09-c-p0002,5357,5362,Havas,Q516033,ORG,NIL,Havas,```json {} ```,0
+NZZ-1918-09-09-c-p0002,5860,5865,Wolff,Q552226,ORG,NIL,Wolff,no,0
+NZZ-1918-09-09-c-p0002,6026,6034,N. Z. Z.,Q658945,PROD,Q25625529,National-Zeitung,,21.78554916381836
+NZZ-1918-09-09-c-p0002,6432,6437,Wolff,Q552226,ORG,Q66931,Bernhard Wolff,"```json {""wikipedia_page"": ""Bernhard Wolff"", ""wikidata_id"": ""Q66931""} ```",12.814696311950684
+NZZ-1928-06-05-a-p0002,30,46,St. Jakobskirche,NIL,LOC,Q1337473,St.-Jakobs-Kirche,,32.826812744140625
+NZZ-1928-06-05-a-p0002,82,97,Frohsinn Zürich,NIL,ORG,Q677133,Kreis 4,,21.71669578552246
+NZZ-1928-06-05-a-p0002,104,133,Liederkranz Außersihl¬ Zürich,NIL,ORG,Q677133,Kreis 4,,21.946041107177734
+NZZ-1928-06-05-a-p0002,308,343,bewährten Dirigenten Jacques Wydler,NIL,PER,Q1210748,Die 3 Z’widern,,17.492176055908203
+NZZ-1928-06-05-a-p0002,481,491,U. Wehrlis,Q2562857,PER,Q96412376,Johann Ulrich Wehrli,,33.943111419677734
+NZZ-1928-06-05-a-p0002,631,642,J. Boßhards,NIL,PER,Q23000544,Johann Caspar Bosshardt,,31.312423706054688
+NZZ-1928-06-05-a-p0002,1365,1385,Männerchor Außersihl,NIL,ORG,Q677133,Kreis 4,,23.05792236328125
+NZZ-1928-06-05-a-p0002,1779,1786,Nicodés,Q878610,PER,Q3340257,Nicolas Dezède,,24.70427703857422
+NZZ-1928-06-05-a-p0002,2403,2423,Venezianers Gabrieli,Q34624,PER,Q1528696,Giuseppe Valentini,,19.45262908935547
+NZZ-1928-06-05-a-p0002,2962,2991,Musikdirektor A. Bie¬ dermann,NIL,PER,Q1294133,Kirchenmusikdirektor,,23.978256225585938
+NZZ-1938-09-13-b-p0001,74,115,"Präsident Dr. J. Eugster (freis., Zürich)",Q1392141,PER,Q1852929,Liste der Ständeräte des Kantons Zürich,,22.757442474365234
+NZZ-1938-09-13-b-p0001,211,219,Joh. Leu,NIL,PER,Q125071,Johann Jacob Leu,,21.024913787841797
+NZZ-1938-09-13-b-p0001,262,283,"Züsli (komm., Zürich)",NIL,PER,Q1460097,Friedrich Joseph Bürli,,15.236507415771484
+NZZ-1938-09-13-b-p0001,515,540,verstorbenen Fritz Horand,NIL,PER,Q1447379,Franz Hörhann,,18.365320205688477
+NZZ-1938-09-13-b-p0001,547,580,Notar Heinrich Diem (dem. Zürich),NIL,PER,Q285393,Schweizer Notarenverband,,19.179729461669922
+NZZ-1938-09-13-b-p0001,644,664,Ritterhaufes Bubikon,Q638821,LOC,Q2155177,Ritterhausgesellschaft Bubikon,,28.221372604370117
+NZZ-1938-09-13-b-p0001,720,746,"B. Kaufmann (soz., Zürich)",NIL,PER,Q107713562,Brigitte Kaufmann,,18.783504486083984
+NZZ-1938-09-13-b-p0001,821,841,Ritterhauses Bubikon,Q638821,LOC,Q2155177,Ritterhausgesellschaft Bubikon,,29.27295684814453
+NZZ-1938-09-13-b-p0001,956,976,Ritterhauses Bubikon,Q638821,LOC,Q2155177,Ritterhausgesellschaft Bubikon,,29.783477783203125
+NZZ-1938-09-13-b-p0001,1935,1957,"Hotz (freis., Bubikon)",NIL,PER,Q59772508,Franz Hotz,,18.221830368041992
+NZZ-1938-09-13-b-p0001,1996,2016,Ritterhauses Bubikon,Q638821,LOC,Q2155177,Ritterhausgesellschaft Bubikon,,28.4482364654541
+NZZ-1938-09-13-b-p0001,2169,2197,Chronisten Johan¬ nes Stumpf,Q688678,PER,Q185363,Chronik,,17.825071334838867
+NZZ-1938-09-13-b-p0001,2246,2274,Graf Diethelm von Toggenburg,NIL,PER,Q527658,Toggenburger,,28.200204849243164
+NZZ-1938-09-13-b-p0001,3164,3207,"Kommissionsreferent Kaufmann (soz., Zürich)",NIL,PER,Q109018812,,,18.138051986694336
+NZZ-1938-09-13-b-p0001,3319,3330,Mühlebaches,NIL,LOC,Q60847746,Mühlebach,,26.741926193237305
+NZZ-1938-09-13-b-p0001,3470,3481,Mühlebaches,NIL,LOC,Q60847746,Mühlebach,,22.251665115356445
+NZZ-1938-09-13-b-p0001,3623,3635,Lendenbaches,NIL,LOC,Q48191800,Länggenbach,,19.2713565826416
+NZZ-1938-09-13-b-p0001,3683,3692,Eggstraße,NIL,LOC,Q670731,Egg,,19.24629783630371
+NZZ-1938-09-13-b-p0001,3710,3722,Spitalstraße,NIL,LOC,Q25583332,,,18.0797176361084
+NZZ-1938-09-13-b-p0001,3913,3940,"E. R. Z. Graf (dem., Uster)",NIL,PER,Q1326642,Elektrizitätswerke des Kantons Zürich,"Based on the input text and the list of candidates, the entity mentioned between the [ENT] tags appears to be ""Elektrizitätswerke des Kantons Zürich"". Therefore, the selected Wikidata entity is: ```json {""wikipedia_page"":""Elektrizitätswerke des Kantons Zürich"", ""wikidata_id"":""Q1326642""} ```",14.355493545532227
+NZZ-1938-09-13-b-p0001,4499,4522,"Bantli (Bp., Dübendorf)",NIL,PER,Q16072179,Edmund Blundell,,17.113689422607422
+NZZ-1938-09-13-b-p0001,4537,4559,"Hofmann (Bp., Kempten)",NIL,PER,Q97551,Corbinian Hofmeister,,16.780654907226562
+NZZ-1938-09-13-b-p0001,4831,4854,"Bantli (Bp., Dübendorf)",NIL,PER,Q18683236,Benjamin Brändli,,17.99979019165039
+NZZ-1938-09-13-b-p0001,5175,5185,Burghölzli,Q577131,ORG,Q97483869,Bern-Egghölzli,,17.268186569213867
+NZZ-1938-09-13-b-p0001,5572,5600,"Dr. Duttweiler (fr., Zürich)",NIL,PER,Q116111,Gottlieb Duttweiler,,18.891803741455078
+NZZ-1938-09-13-b-p0001,5826,5846,"Marti (soz., Zürich)",NIL,PER,Q94907204,Fritz Marti,,16.611398696899414
+NZZ-1938-09-13-b-p0001,6053,6079,"Dr. P. Gygax (fr., Zürich)",NIL,PER,Q2637952,Albert Friedrich Gygax,,17.523334503173828
+NZZ-1938-09-13-b-p0001,6433,6458,"Oldani (soz., Winterthur)",Q55683084,PER,Q1792053,Liste der Ständeräte des Kantons Solothurn,,15.550785064697266
+NZZ-1938-09-13-b-p0001,6912,6934,"Kägi (soz., Erlenbach)",Q4668150,PER,NIL,"Kägi (soz., Erlenbach)",no,0
+NZZ-1938-09-13-b-p0001,7323,7342,"Heeb (soz., Zürich)",Q15452401,PER,Q15810773,Fritz Heeb,,23.198610305786133
+NZZ-1938-09-13-b-p0001,7661,7680,"Kopp (soz., Zürich)",NIL,PER,Q122063,Elisabeth Kopp,,21.856426239013672
+NZZ-1938-09-13-b-p0001,8514,8546,Volkswirtschaftsdirektor E. Nobs,NIL,PER,Q6456916,Volkswirtschaft,,18.851736068725586
+NZZ-1938-09-13-b-p0001,9770,9775,Kaegi,Q4668150,PER,Q124671,Adolf Kaegi,,15.017446517944336
+NZZ-1938-09-13-b-p0001,10424,10429,Kaegi,Q4668150,PER,NIL,Kaegi,No.,0
+NZZ-1938-09-13-b-p0001,10559,10583,"Hackhofer (chr., Zürich)",NIL,PER,Q1760353,Michael Schickhofer,,18.216445922851562
+NZZ-1938-09-13-b-p0001,10668,10672,Kopp,NIL,PER,Q2141447,Reinhold Kopp,,19.239093780517578
+NZZ-1938-09-13-b-p0001,10855,10883,"Schneider (soz., Winterthur)",NIL,PER,Q18614667,Johann Schneider,,17.064208984375
+NZZ-1938-09-13-b-p0001,11180,11204,Bäuteli (Bp. Buch a. J.),NIL,PER,Q3170746,Jean Bertholet,,16.79726791381836
+NZZ-1938-09-13-b-p0001,11288,11311,Regie¬ rungsrat Pfister,Q2209051,PER,Q1694936,Johann Jakob Speiser,,18.457115173339844
+NZZ-1938-09-13-b-p0001,11673,11695,"Kägi (soz., Erlenbach)",Q4668150,PER,Q2561860,Werner Kägi,,16.427093505859375
+NZZ-1938-09-13-b-p0001,11918,11939,Armendirektor Pfister,NIL,PER,Q15783971,Armenpflege,,18.23929786682129
+NZZ-1938-09-13-b-p0001,12388,12413,"Oldani (soz., Winterthur)",Q55683084,PER,Q3608485,Alberto Oldani,"Based on the input text and the list of candidates, the entity mentioned between the [ENT] tags is ""Oldani"". The most appropriate Wikidata entity from the provided list of candidates is: ```json {""wikipedia_page"":""Alberto Oldani"", ""wikidata_id"":""Q3608485""} ```",11.665977478027344
+NZZ-1948-05-12-b-p0002,164,171,Douglas,Q444885,PER,Q5624121,Ludvig Douglas,,15.07297420501709
+NZZ-1948-05-12-b-p0002,173,182,Mlassieli,Q2893138,PER,NIL,Mlassieli,no,0
+NZZ-1948-05-12-b-p0002,187,193,Strang,Q2580669,PER,NIL,Strang,No.,0
+NZZ-1948-05-12-b-p0002,871,885,Rulrkonsortium,Q1664,LOC,Q194166,Konsortium,"Based on the provided text and candidates, the most appropriate Wikidata entity for the entity tagged with [ENT] is a ""Konsortium"". This is because it fits the context of a ""Vereinigung von mehreren selbstständigen Unternehmen"" (association of several independent companies), which is the closest meaning to ""Konsortium"" in the context of the sentence. Here is the JSON response: ```json {""wikipedia_page"":""Konsortium"", ""wikidata_id"":""Q194166""} ```",13.831774711608887
+NZZ-1948-05-12-b-p0002,1075,1080,Paxis,Q90,LOC,Q719518,Paxos,"```json {""wikipedia_page"": ""Paxos"", ""wikidata_id"": ""Q719518""} ```",12.179269790649414
+NZZ-1948-05-12-b-p0002,1170,1175,Paxis,Q90,LOC,NIL,Paxis,```json {} ```,0
+NZZ-1948-05-12-b-p0002,1351,1378,Sonderbotschafter Hlarriman,Q345531,PER,NIL,Sonderbotschafter Hlarriman,No,0
+NZZ-1948-05-12-b-p0002,1535,1551,Deutschlandfrage,Q183,LOC,Q13522713,Deutsche Frage,,19.850202560424805
+NZZ-1948-05-12-b-p0002,1620,1629,Whitchall,Q391620,LOC,NIL,Whitchall,no,0
+NZZ-1948-05-12-b-p0002,2048,2057,Marshalls,Q151414,PER,Q13529,Alfred Marshall,,19.09737777709961
+NZZ-1948-05-12-b-p0002,2141,2151,Prankreich,Q142,LOC,Q145,Vereinigtes Königreich,,16.37796974182129
+NZZ-1948-05-12-b-p0002,2358,2374,Groz¬ brikannien,Q145,LOC,Q23666,Großbritannien,,15.151455879211426
+NZZ-1948-05-12-b-p0002,2716,2725,Ruhrstaat,Q1664,LOC,Q464194,Ruhrstatut,,18.861967086791992
+NZZ-1948-05-12-b-p0002,2894,2906,Ruhrprodubte,Q1664,LOC,Q151993,Ruhrgebiet,,17.252254486083984
+NZZ-1948-05-12-b-p0002,3406,3412,Luropa,Q46,LOC,Q151993,Ruhrgebiet,,16.374122619628906
+NZZ-1948-05-12-b-p0002,3806,3813,Amerika,Q30,LOC,NIL,Amerika,```json {} ```,0
+NZZ-1948-05-12-b-p0002,3944,3951,Eusland,Q21,LOC,Q458,Europäische Union,,18.26484489440918
+NZZ-1948-05-12-b-p0002,4274,4284,Mashington,Q61,LOC,NIL,Mashington,no.,0
+NZZ-1948-05-12-b-p0002,4367,4377,Mesteuropa,Q27496,LOC,Q27509,Mitteleuropa,,17.717044830322266
+NZZ-1948-05-12-b-p0002,4599,4609,Mesteuropa,Q27496,LOC,Q27509,Mitteleuropa,,15.593330383300781
+NZZ-1948-05-12-b-p0002,4785,4791,Puropa,Q46,LOC,NIL,Puropa,no,0
+luxwort-1848-04-23-a-i0003,40,51,Lurem biurg,Q32,LOC,NIL,Lurem biurg,no,0
+luxwort-1848-04-23-a-i0003,101,110,Lurcmburg,Q32,LOC,NIL,Lurcmburg,no,0
+luxwort-1848-04-23-a-i0003,239,255,Luremburgcr Wort,Q1751317,PROD,NIL,Luremburgcr Wort,```json {} ```,0
+luxwort-1848-08-27-a-i0001,1418,1442,Commission aus Luxemburg,Q657529,ORG,NIL,Commission aus Luxemburg,no,0
+luxwort-1848-08-27-a-i0001,2721,2730,Suremburg,Q1842,LOC,NIL,Suremburg,no,0
+luxwort-1848-08-27-a-i0001,3049,3058,Suremburg,Q1842,LOC,NIL,Suremburg,No,0
+luxwort-1848-08-27-a-i0001,3270,3279,Lurcmburg,Q1842,LOC,NIL,Lurcmburg,```json {} ```,0
+luxwort-1848-09-29-a-i0001,0,9,Luremburg,Q32,LOC,Q149103,Rumburk,,21.593849182128906
+luxwort-1848-09-29-a-i0001,41,49,Gcurricr,Q13102226,PROD,NIL,Gcurricr,no,0
+luxwort-1848-09-29-a-i0001,202,208,Stifft,NIL,PER,Q498594,Andreas Joseph von Stifft,,17.596172332763672
+luxwort-1848-09-29-a-i0001,210,217,Fischer,NIL,PER,Q1597228,Heinrich Fischer,"```json {""wikipedia_page"":""Heinrich Fischer"", ""wikidata_id"":""Q1597228""} ```",10.151601791381836
+luxwort-1848-09-29-a-i0001,219,226,Hertert,NIL,PER,Q1560579,Günter Herterich,,15.961198806762695
+luxwort-1848-09-29-a-i0001,241,249,Schlinck,NIL,PER,Q16215799,Johann Heinrich Schlink,,17.334667205810547
+luxwort-1848-09-29-a-i0001,251,258,Lampach,NIL,PER,Q2547293,Walther Lambach,,16.02341651916504
+luxwort-1848-09-29-a-i0001,404,421,Theodor Pcscalore,Q7799867,PER,Q3983883,Teodoro Duclère,,18.068845748901367
+luxwort-1848-10-01-a-i0001,499,516,Surcmbnrger Worte,Q1751317,PROD,Q334689,Luxemburgismus,"Based on the provided text and list of candidates, the entity mentioned between the [ENT] tags is likely a person or organization related to the events happening in Luxembourg in 1848. The closest match in the provided list of candidates is: - **Wikipedia Page:** Luxemburgismus - **Wikidata ID:** Q334689 Given the context and the candidates, the entity likely refers to the political and cultural movement or ideology associated with Luxembourg. ```json {""wikipedia_page"":""Luxemburgismus"", ""wikidata_id"":""Q334689""} ```",8.605299949645996
+luxwort-1848-10-01-a-i0001,839,855,Lurcmburgcr Wort,Q1751317,PROD,NIL,Lurcmburgcr Wort,```json {} ```,0
+luxwort-1848-10-01-a-i0001,1876,1905,Luremburgcr Ccutralwahlcomite,NIL,ORG,Q23900574,,,15.853494644165039
+luxwort-1848-10-01-a-i0001,2112,2130,Echternach Gigrang,NIL,PER,Q204317,Echternach,,18.972261428833008
+luxwort-1848-10-01-a-i0001,2135,2145,Dieschburg,NIL,PER,Q2100,Duisburg,,17.088964462280273
+luxwort-1848-10-01-a-i0001,2150,2163,Wiltz Neumann,NIL,PER,Q14789864,Wenzel Neumann,"Based on the input text and the list of candidates, the most appropriate Wikidata entity for the [ENT] tags is: ```json {""wikipedia_page"": ""Wenzel Neumann"", ""wikidata_id"": ""Q14789864""} ``` The name ""Wenzel Neumann"" is mentioned in the text between the [ENT] tags, and it is present in the list of candidates.",11.426393508911133
+luxwort-1848-10-01-a-i0001,2390,2396,Macher,NIL,PER,Q98714141,,,15.851232528686523
+luxwort-1848-10-01-a-i0001,2398,2409,Wellenstein,Q3247082,LOC,Q1506356,Georg Wellstein,,19.499990463256836
+luxwort-1848-10-01-a-i0001,2411,2421,Lafontaine,Q725755,PER,Q214286,Franz Leopold Lafontaine,,19.81467056274414
+luxwort-1848-10-01-a-i0001,2423,2431,Brasseur,NIL,PER,Q4957931,,,21.516050338745117
+luxwort-1848-10-01-a-i0001,2528,2534,Nemich,Q734284,LOC,Q635620,Niemegk,"{ ""wikipedia_page"": ""Niemegk"", ""wikidata_id"": ""Q635620"" }",13.282429695129395
+luxwort-1848-10-01-a-i0001,2634,2638,Esch,Q16010,LOC,NIL,Esch,```json {} ```,0
+luxwort-1848-10-01-a-i0001,2689,2694,Motte,Q16439867,PER,Q15967762,,,17.238800048828125
+luxwort-1848-10-01-a-i0001,2717,2734,Herren Lafontaine,Q725755,PER,Q3112591,Regierung de la Fontaine,,15.201065063476562
+luxwort-1848-10-01-a-i0001,2903,2911,Athenäum,Q545334,LOC,NIL,Athenäum,```json {} ```,0
+luxwort-1848-10-01-a-i0001,3261,3265,Metz,Q3343509,PER,Q22690,Metz,,18.56374168395996
+luxwort-1848-10-01-a-i0001,3509,3518,Luxemburg,Q32,LOC,Q1842,Luxemburg,,21.44692039489746
+luxwort-1848-10-01-a-i0001,3918,3922,Metz,Q5080926,PER,Q22690,Metz,,21.435813903808594
+luxwort-1848-10-01-a-i0001,3966,3976,Bartringen,Q809603,LOC,Q13101668,Bartringen,,16.128768920898438
+luxwort-1848-10-01-a-i0001,4083,4091,Eh. Metz,Q5080926,PER,NIL,Eh. Metz,no,0
+luxwort-1848-10-01-a-i0001,4294,4311,Cantons Luremburg,Q1146429,LOC,Q550066,Kanton Lauterbourg,,22.28192138671875
+luxwort-1848-10-01-a-i0001,4585,4592,Fischer,NIL,PER,Q2755074,Laurent Fischer,"Based on the input text and the provided list of candidates, the entity mentioned between the [ENT] tags is likely to be the German politician ""Laurent Fischer"" (born in 1855). There are multiple candidates with the name ""Fischer,"" but considering the context and the time period (1848), the most appropriate candidate is ""Laurent Fischer."" Here is the JSON object with the selected entity: ```json { ""wikipedia_page"": ""Laurent Fischer"", ""wikidata_id"": ""Q2755074"" } ```",11.854974746704102
+luxwort-1848-10-01-a-i0001,4627,4633,Stifft,NIL,PER,Q498594,Andreas Joseph von Stifft,,17.65169334411621
+luxwort-1848-10-01-a-i0001,4781,4789,Scklinck,NIL,PER,Q80570094,,,20.228271484375
+luxwort-1848-10-01-a-i0001,4797,4804,Lampach,NIL,PER,Q2086633,Philipp Caspar Lamprecht,,20.169845581054688
+luxwort-1848-10-01-a-i0001,4831,4841,Dasstlborn,Q67588061,PER,Q632571,Dassendorf,,17.93166732788086
+luxwort-1848-10-01-a-i0001,4849,4856,Herlert,NIL,PER,Q593989,Gehlert,,15.904580116271973
+luxwort-1848-10-01-a-i0001,4864,4869,Jonas,Q16439477,PER,Q16646115,Jonas,"{ ""wikipedia_page"": ""Jonas"", ""wikidata_id"": ""Q16646115"" }",8.137212753295898
+luxwort-1848-10-01-a-i0001,4877,4884,Fendius,NIL,PER,Q2783276,Louis Fendius,,16.113840103149414
+luxwort-1848-10-01-a-i0001,5280,5296,Canton Suremburg,Q1146429,LOC,Q324056,Kurmark,,20.114208221435547
+luxwort-1848-10-01-a-i0001,6394,6402,Athenäum,Q545334,ORG,NIL,Athenäum,no,0
+luxwort-1848-12-15-a-i0001,43,53,Sa« pellen,Q397678,LOC,NIL,Sa« pellen,no,0
+luxwort-1848-12-15-a-i0001,202,208,Ulrich,NIL,PER,Q1442820,Ulrich Commerçon,"```json {""wikipedia_page"":""Ulrich Commerçon"", ""wikidata_id"":""Q1442820""} ```",10.07246208190918
+luxwort-1848-12-15-a-i0001,707,720,Herrn Willmai,Q738855,PER,NIL,Herrn Willmai,no,0
+luxwort-1848-12-15-a-i0001,1340,1407,"einstweilige Gcneral»Administrator, Präsident des Conseils, Willmar",Q738855,PER,Q3166043,Jean-Georges Willmar,"```json {""wikipedia_page"":""Jean-Georges Willmar"", ""wikidata_id"":""Q3166043""} ```",14.501372337341309
+luxwort-1858-02-07-a-i0009,48,57,Dra» pcau,Q3222443,PROD,NIL,Dra» pcau,```json {} ```,0
+luxwort-1858-02-07-a-i0009,489,500,Proletarier,NIL,PROD,Q132603,Proletariat,,14.940088272094727
+luxwort-1858-02-07-a-i0009,772,778,Orsini,Q708837,PER,Q855303,Orsini,,18.08767318725586
+luxwort-1858-02-07-a-i0009,783,789,Pierri,Q3106996,PER,NIL,Pierri,no,0
+luxwort-1858-02-07-a-i0009,939,946,Drapeau,Q3222443,PROD,Q3222441,Le Drapeau,,16.059431076049805
+luxwort-1858-02-07-a-i0009,953,962,Crocodile,NIL,PROD,Q2032679,Das Krokodil,,17.08652114868164
+luxwort-1858-03-14-a-i0006,0,9,ïuiemburg,Q1842,LOC,Q14870,Siegburg,,16.082483291625977
+luxwort-1858-03-14-a-i0006,159,171,heil. Joseph,Q128267,PER,Q2319616,St. Josef,"Based on the input text and the provided list of candidates, the most appropriate Wikidata entity for the first [ENT] tag is ""St. Josef"". Therefore, the corresponding Wikipedia page title and Wikidata ID are: ```json {""wikipedia_page"": ""St. Josef"", ""wikidata_id"": ""Q2319616""} ``` For the second [ENT] tag, the most appropriate Wikidata entity is ""St. Josef"". Therefore, the corresponding Wikipedia page title and Wikidata ID are: ```json {""wikipedia_page"": ""St. Josef"", ""wikidata_id"": ""Q2319616""} ``` If none of the candidates match with high confidence, the JSON object will be empty.",10.492147445678711
+luxwort-1858-03-14-a-i0006,641,674,guten altkatholischen Stadt Trier,Q3138,LOC,Q1794352,Kurtrier,,15.354965209960938
+luxwort-1858-03-14-a-i0006,934,942,P. Zobel,NIL,PER,Q13103309,Johann Ambrosius Zobel,,19.670455932617188
+luxwort-1858-03-14-a-i0006,1346,1388,"General-Direktor des Innern, Würth- Paquet",Q1956419,PER,NIL,"General-Direktor des Innern, Würth- Paquet",no,0
+luxwort-1858-03-14-a-i0006,1528,1545,Wolfgang Men» je!,Q64640,PER,Q1409155,Wolfgang Menger,"```json { ""wikipedia_page"": ""Wolfgang Menger"", ""wikidata_id"": ""Q1409155"" } ```",10.320808410644531
+luxwort-1858-08-29-a-i0005,9,18,l'ont» on,Q84,LOC,NIL,l'ont» on,```json {} ```,0
+luxwort-1858-10-07-a-i0008,585,620,katholischen Großmacht Frank» reich,Q142,ORG,Q237131,Frankreich im Mittelalter,"Based on the analysis of the input text and the provided list of candidates, I have selected the following Wikidata entity: ```json { ""wikipedia_page"": ""Frankreich im Mittelalter"", ""wikidata_id"": ""Q237131"" } ``` The entity mentioned between the [ENT] tags is ""Frankreich im Mittelalter"".",11.250099182128906
+luxwort-1858-10-07-a-i0008,1234,1261,Schuldners Marchese Campana,Q442379,PER,NIL,Schuldners Marchese Campana,no,0
+luxwort-1858-10-07-a-i0008,1467,1488,Comman» deurs Caraffa,NIL,PER,Q1527024,Girolamo Caraffa,,16.48385238647461
+luxwort-1858-10-07-a-i0008,4084,4091,Preußen,Q27306,LOC,Q38872,Preußen,,20.00319480895996
+luxwort-1858-10-07-a-i0008,4676,4680,K.J.,Q1795887,PROD,Q5904222,Carl Johan Henrik Kayser,"Based on the provided text and candidates, the entity mentioned between the [ENT] tags is ""K.J."" which likely refers to ""Carl Johan Henrik Kayser"". Therefore, the corresponding Wikipedia page title and Wikidata ID are: ```json { ""wikipedia_page"": ""Carl Johan Henrik Kayser"", ""wikidata_id"": ""Q5904222"" } ```",7.047506332397461
+luxwort-1858-12-25-a-i0001,373,389,Luremburger Wort,Q1751317,PROD,Q1867860,Loermund,,17.836139678955078
+luxwort-1868-07-21-a-i0003,12,20,Wäschfra,NIL,PROD,Q16624872,Wäscherin,"{ ""wikipedia_page"": ""Wäscherin"", ""wikidata_id"": ""Q16624872"" }",10.433366775512695
+luxwort-1868-07-21-a-i0003,209,218,SujemDurg,Q32,LOC,NIL,SujemDurg,"```json { ""wikipedia_page"": """", ""wikidata_id"": """" } ```",0
+luxwort-1868-07-21-a-i0003,360,365,Grund,Q1016205,LOC,Q537885,Bad Grund,,16.1806583404541
+luxwort-1868-07-21-a-i0003,370,381,Pfasseuthal,Q1016214,LOC,Q1988334,Niederpfannenstiel,,16.476167678833008
+luxwort-1868-07-21-a-i0003,1041,1054,Gemeinde Eich,Q2451733,LOC,Q1301219,Eich,"```json {""wikipedia_page"":""Eich"", ""wikidata_id"":""Q1301219""} ```",7.5977983474731445
+luxwort-1868-09-23-a-i0011,73,82,igatnburg,Q1055,LOC,NIL,igatnburg,no,0
+luxwort-1868-09-23-a-i0011,94,101,Brüssel,Q239,LOC,Q9005,Groß-Brüssel,,19.640226364135742
+luxwort-1868-09-23-a-i0011,161,167,Italie,NIL,PROD,Q38,Italien,,18.068771362304688
+luxwort-1868-09-23-a-i0011,344,348,MaMÜ,Q187336,PER,NIL,MaMÜ,no,0
+luxwort-1868-09-23-a-i0011,742,766,Associazionc Neunblicana,NIL,ORG,Q16529126,Association nationale républicaine,"{""wikipedia_page"": ""Association nationale républicaine"", ""wikidata_id"": ""Q16529126""}",11.313237190246582
+luxwort-1868-09-23-a-i0011,772,796,Affiliazione Democratica,NIL,ORG,Q3611393,Alfredo Diana,,15.009177207946777
+luxwort-1868-09-23-a-i0011,1160,1168,Lignrien,Q1256,LOC,NIL,Lignrien,no,0
+luxwort-1868-09-23-a-i0011,1244,1247,Nom,Q220,LOC,NIL,Nom,no,0
+luxwort-1868-09-23-a-i0011,1357,1402,französischen Botschafter Grafen Don ©artiges,NIL,PER,Q3245744,Liste der französischen Botschafter beim Heiligen Stuhl,"Based on the context provided, the most appropriate Wikidata entity for the entity tagged with [ENT] in the input text is ""Liste der französischen Botschafter beim Heiligen Stuhl"". Thus, the JSON-formatted answer is: ```json {""wikipedia_page"":""Liste der französischen Botschafter beim Heiligen Stuhl"", ""wikidata_id"":""Q3245744""} ```",9.550271987915039
+luxwort-1868-09-23-a-i0011,1560,1578,Lardinal Antonelli,Q712085,PER,Q1407571,Robert Arnauld d'Andilly,,14.866046905517578
+luxwort-1868-09-23-a-i0011,2208,2230,Cabinet der Tuilerieen,Q1450662,ORG,Q234364,Palais des Tuileries,"{""wikipedia_page"": ""Palais des Tuileries"", ""wikidata_id"": ""Q234364""}",13.220492362976074
+luxwort-1868-09-23-a-i0011,2410,2413,Nom,Q220,LOC,Q15878,Normandie,"Given the input text and the provided list of candidates, the entity mentioned between the [ENT] tags, ""Nom"", is most appropriately disambiguated to the following: ```json {""wikipedia_page"":""Normandie"", ""wikidata_id"":""Q15878""} ``` This selection is based on the historical context and the mention of ""Normandie"" in the text.",8.780186653137207
+luxwort-1868-09-23-a-i0011,2574,2584,Lord Lyons,Q5537443,PER,Q335522,"Edmund Lyons, 1. Baron Lyons",,18.284238815307617
+luxwort-1868-09-23-a-i0011,2602,2619,Herrn de Moustier,Q3271672,PER,Q2980561,Clément-Édouard de Moustier,,18.272356033325195
+luxwort-1868-09-23-a-i0011,2764,2776,Lord Stanley,Q222458,PER,Q6258837,"John Stanley, 1st Baron Stanley of Alderley","```json {""wikipedia_page"": ""John Stanley, 1st Baron Stanley of Alderley"", ""wikidata_id"": ""Q6258837""} ```",13.311766624450684
+luxwort-1868-09-23-a-i0011,2921,2924,Nom,Q220,LOC,NIL,Nom,no,0
+luxwort-1868-09-23-a-i0011,3786,3795,Franz II.,Q206223,PER,Q130834,Franz II.,,19.285194396972656
+luxwort-1868-09-23-a-i0011,3861,3876,Paläste Farnese,Q848386,LOC,Q859466,Farnese,,16.306785583496094
+luxwort-1868-09-23-a-i0011,3994,4010,Königs Franz 11.,Q206223,PER,Q130834,Franz II.,"```json { ""wikipedia_page"": ""Franz II."", ""wikidata_id"": ""Q130834"" } ```",13.833870887756348
+luxwort-1868-12-18-a-i0004,3503,3512,Luxemburg,Q1842,LOC,Q32,Luxemburg,,23.42682456970215
+luxwort-1878-01-09-a-i0002,79,96,Sujeutburger Wort,Q1751317,PROD,NIL,Sujeutburger Wort,No,0
+luxwort-1878-04-30-a-i0006,3211,3273,"Vtatthalter im Großherzogthnm, Heinrich, Prinz der Niederlande",Q705129,PER,NIL,"Vtatthalter im Großherzogthnm, Heinrich, Prinz der Niederlande",```json {} ```,0
+luxwort-1878-04-30-a-i0006,3279,3322,"General »Direktor des Innern, N. Talent iny",Q13104357,PER,Q3100519,Generalleutnant,"Based on the provided text and the list of candidates, the entities tagged with [ENT] are expected to be ""General"" and ""Generaldirektor"". However, none of the provided candidates directly match these terms with high confidence. Given the context and the date (1878), the closest match for ""Generaldirektor"" would be the General of the Interior Ministry. Therefore, the most appropriate Wikidata entity for ""Generaldirektor"" is ""Generaldirektor"", but it doesn't have a Wikidata ID or Wikipedia page in the given list. For ""General"", the closest match is ""General der Infanterie"", but it's not clear if it's the right context considering the date and the historical context of the text. Therefore, we will have to consider the context and the given list to determine the closest match. Considering the context and the given list, the closest match for ""General"" is ""Generalleutnant"". Given this analysis, the JSON answer is as follows: ```json {""wikipedia_page"": ""Generalleutnant"", ""wikidata_id"": ""Q3100519""} ```",7.10854959487915
+luxwort-1878-05-14-a-i0001,44,56,",Lux. Woll.‘",Q1751317,PROD,Q1792543,Kunstmuseum Luzern,,14.99641227722168
+luxwort-1878-05-14-a-i0001,505,511,Canaba,Q16,LOC,NIL,Canaba,no,0
+luxwort-1878-05-14-a-i0001,568,575,©nglanb,Q21,LOC,NIL,©nglanb,no,0
+luxwort-1878-05-14-a-i0001,581,587,Canaba,Q16,LOC,NIL,Canaba,No.,0
+luxwort-1878-05-14-a-i0001,1171,1179,Vicloria,Q36687,LOC,NIL,Vicloria,no,0
+luxwort-1878-05-14-a-i0001,2003,2013,QueenSlanb,Q36074,LOC,NIL,QueenSlanb,no,0
+luxwort-1878-05-14-a-i0001,2646,2657,IameS Swift,NIL,ORG,Q41166,Jonathan Swift,,16.25934600830078
+luxwort-1878-05-14-a-i0001,2659,2665,Darton,NIL,ORG,Q1617106,,,17.740259170532227
+luxwort-1878-05-14-a-i0001,2667,2674,Vollonb,NIL,ORG,Q4775470,,,15.377579689025879
+luxwort-1878-05-14-a-i0001,3316,3324,Musgrabe,Q3328441,ORG,NIL,Musgrabe,```json {} ```,0
+luxwort-1878-05-14-a-i0001,3461,3478,Wilkinson Heywoob,NIL,ORG,Q7811911,Toby Wilkinson,,18.46160125732422
+luxwort-1878-05-14-a-i0001,3515,3531,Jones unb Willis,NIL,ORG,Q8022468,,,17.886547088623047
+luxwort-1878-05-14-a-i0001,3811,3816,Chubb,NIL,ORG,Q6226103,John Chubb,,14.967717170715332
+luxwort-1878-05-14-a-i0001,3820,3826,Sondon,Q84,LOC,Q200942,Swindon,,17.19072151184082
+luxwort-1878-05-14-a-i0001,4070,4090,Prinzessin bon Wales,Q152260,PER,Q2000835,Prinzessin von Wales,,15.085897445678711
+luxwort-1878-05-14-a-i0001,7264,7270,Sonbon,Q84,LOC,NIL,Sonbon,no,0
+luxwort-1878-05-14-a-i0001,7826,7833,Englanb,Q21,LOC,Q1860,Englisch,,18.767213821411133
+luxwort-1878-05-14-a-i0001,8682,8692,Harry Newi,NIL,ORG,Q947785,Heinrich Neuy,,26.508914947509766
+luxwort-1878-05-14-a-i0001,8965,8989,Cathebrale bon Salisbury,Q390150,LOC,NIL,Cathebrale bon Salisbury,```json {} ```,0
+luxwort-1878-05-14-a-i0001,9268,9282,Hart ©on Pearb,Q16983391,ORG,NIL,Hart ©on Pearb,no,0
+luxwort-1878-05-14-a-i0001,10669,10675,Sondon,Q84,LOC,NIL,Sondon,```json {} ```,0
+luxwort-1878-09-17-a-i0009,149,160,Westf. Merk,Q1263342,PROD,NIL,Westf. Merk,no,0
+luxwort-1878-09-17-a-i0009,372,388,Provinz Hannober,Q819125,LOC,Q450622,Regierungsbezirk Hannover,,20.437910079956055
+luxwort-1878-09-17-a-i0009,482,552,Ihre kaiserliche Hoheit bie Frau Erzherzogin Clothilbe bon Oefterreich,Q242170,PER,NIL,Ihre kaiserliche Hoheit bie Frau Erzherzogin Clothilbe bon Oefterreich,no,0
+luxwort-1878-09-17-a-i0009,899,907,Hannober,Q819125,LOC,Q1715,Hannover,,16.481563568115234
+luxwort-1878-09-17-a-i0009,1355,1361,Aurich,Q1801981,LOC,Q14839,Aurich,,17.249614715576172
+luxwort-1878-09-17-a-i0009,2280,2294,Herrn v. Vinke,Q1646857,PER,Q68293,Georg von Vincke,"Based on the analysis of the input text and the provided list of candidates, the entity mentioned between the [ENT] tags is disambiguated to: - Wikidata ID: Q68293 - Wikipedia Page Title: Georg von Vincke Here is the JSON-formatted answer: ```json {""wikipedia_page"":""Georg von Vincke"", ""wikidata_id"":""Q68293""} ```",12.825151443481445
+luxwort-1878-09-17-a-i0009,2387,2396,Norberney,Q23968,LOC,NIL,Norberney,no,0
+luxwort-1878-09-17-a-i0009,2535,2546,Oesterreich,Q131964,LOC,Q40,Österreich,,22.869882583618164
+luxwort-1878-09-17-a-i0009,2695,2706,Oesterreich,Q131964,LOC,Q40,Österreich,,23.86821937561035
+luxwort-1938-01-29-a-i0025,435,445,Rene Pupin,NIL,PER,Q23906098,René Poupon,,29.204092025756836
+luxwort-1938-04-11-a-i0066,19,31,Schifflingen,Q669155,LOC,Q602809,Schillingen,,21.816919326782227
+luxwort-1938-06-29-a-i0018,59,64,Havas,Q516033,ORG,Q1576266,Hannoversche Allgemeine Zeitung,"Based on the analysis of the input text, the entity mentioned between the [ENT] tags is ""Havas"". The most appropriate Wikidata entity from the provided list of candidates that corresponds to ""Havas"" is: {""wikipedia_page"":""Hannoversche Allgemeine Zeitung"", ""wikidata_id"":""Q1576266""}",10.242267608642578
+luxwort-1938-06-29-a-i0018,71,77,Hankau,Q11746,LOC,Q1208250,,,27.002593994140625
+luxwort-1938-06-29-a-i0018,338,344,Hankau,Q11746,LOC,Q1208250,,,28.308027267456055
+luxwort-1938-06-29-a-i0018,671,677,Hankau,Q11746,LOC,Q1208250,,,22.57404136657715
+luxwort-1938-09-03-a-i0024,337,350,Seyß-Inauarts,Q650219,PER,Q4184346,Isidor Wilhelm Seiss,,20.692602157592773
+luxwort-1948-03-27-a-i0009,23,58,Katholischen Schweizer Buchgemeinde,NIL,ORG,Q1862519,Liste katholischer Verlage,,27.611690521240234
+luxwort-1948-03-27-a-i0009,362,402,Schweizer katholischen Volksbuchgemeinde,NIL,ORG,Q96652010,Schweizerischer Ex Libris Club,,30.591480255126953
+luxwort-1948-06-04-a-i0050,23,54,südafrikanischen Union Pretoria,Q3926,LOC,Q258,Südafrika,,21.69608497619629
+luxwort-1948-06-04-a-i0050,74,124,"südafrikanische Ministerpräsident, Dr. D. F. Malan",Q317449,PER,Q258,Südafrika,,20.935714721679688
+luxwort-1948-06-04-a-i0050,261,283,Finanzminister Havenga,Q3141749,PER,Q2128581,,,22.579086303710938
+luxwort-1948-06-04-a-i0050,345,354,Dr. Malan,Q317449,PER,Q3085867,,,23.152170181274414
+luxwort-1948-06-04-a-i0050,885,898,Nationalisten,Q740718,ORG,Q6235,Nationalismus,,16.74222755432129
+luxwort-1948-06-04-a-i0050,909,923,Einheitspartei,Q1812146,ORG,Q21044719,Einheitspartei,,23.79279136657715
+luxwort-1948-06-04-a-i0050,948,961,Labour-Partei,Q3136263,ORG,Q9630,Labour Party,,21.061328887939453
+luxwort-1948-06-04-a-i0050,1184,1231,stellvertretenden Ministerpräsidenten Tsaldaris,Q728875,PER,Q3394691,,,17.428089141845703
+luxwort-1948-07-09-a-i0038,920,936,"„Force ouvrière""",Q1125623,ORG,NIL,"„Force ouvrière""","```json {""wikipedia_page"":"""",""wikidata_id"":""""} ```",0
+tageblatt-1918-04-23-a-i0010,90,103,Züricher Post,NIL,PROD,Q110492514,Züricher Post,,21.936540603637695
+tageblatt-1918-04-23-a-i0010,567,574,Oisetäl,NIL,LOC,Q201341,Isère,"```json { ""wikipedia_page"": ""Isère"", ""wikidata_id"": ""Q201341"" } ```",13.831334114074707
+tageblatt-1918-04-23-a-i0010,1376,1387,Deutfchland,Q1206012,LOC,Q183,Deutschland,,16.359264373779297
+tageblatt-1918-04-23-a-i0010,1409,1420,Deutschland,Q1206012,LOC,Q183,Deutschland,,15.373798370361328
+tageblatt-1918-04-23-a-i0010,1498,1505,Amerika,Q30,LOC,NIL,Amerika,no,0
+tageblatt-1918-04-23-a-i0010,1762,1771,Flanderns,Q234,LOC,Q9337,Flämische Region,,21.7149658203125
+tageblatt-1918-04-23-a-i0010,1810,1823,Ipernschlacht,Q102728,LOC,Q233219,Zweite Flandernschlacht,,21.443864822387695
+tageblatt-1918-04-23-a-i0010,1984,1991,'Kemmel,NIL,LOC,Q1024880,Kemmel,,16.01352882385254
+tageblatt-1918-04-23-a-i0010,1996,2002,Enssel,Q2771634,LOC,Q2491613,,,18.059904098510742
+tageblatt-1918-04-23-a-i0010,2058,2076,General Foch Ipern,Q102728,LOC,NIL,General Foch Ipern,```json {} ```,0
+tageblatt-1918-04-23-a-i0010,2408,2416,Boubogne,Q302720,LOC,Q81997,Boulogne-sur-Mer,,18.11497688293457
+tageblatt-1918-04-23-a-i0010,2473,2478,Somme,Q37646,LOC,Q12770,Département Somme,,20.77775001525879
+tageblatt-1918-04-23-a-i0010,2680,2685,Somme,Q37646,LOC,Q12770,Département Somme,,22.361833572387695
+tageblatt-1918-04-23-a-i0010,2815,2819,Just,Q389077,LOC,Q196286,Saint-Just," {""wikipedia_page"":""Saint-Just"", ""wikidata_id"":""Q196286""}",8.725573539733887
+tageblatt-1918-04-23-a-i0010,3025,3036,Bernancourt,NIL,LOC,Q669867,Blérancourt,,18.846267700195312
+tageblatt-1918-04-23-a-i0010,3132,3142,Alliierten,Q215669,ORG,Q3612401,Alliierte,,19.61398696899414
+tageblatt-1918-04-23-a-i0010,3242,3252,Alliierten,Q215669,ORG,Q3612401,Alliierte,,19.858993530273438
+tageblatt-1918-04-23-a-i0010,3334,3344,Lord Derby,Q338427,PER,Q237829,"Edward Smith-Stanley, 14. Earl of Derby",,21.838184356689453
+tageblatt-1918-04-23-a-i0010,3384,3388,Bliß,Q2121097,PER,Q4718386,Alexander Bliss,,19.782804489135742
+tageblatt-1918-04-23-a-i0010,3446,3454,Enßlmrds,Q21,LOC,Q5366528,,"Based on the input text and the candidates provided, the entity mentioned between the [ENT] tags is ""Amherst"". Among the list of candidates, the Wikidata ID and Wikipedia page title that correspond to ""Amherst"" are: ```json {""wikipedia_page"": ""John Amherst"", ""wikidata_id"": ""Q5366528""} ```",13.519803047180176
+tageblatt-1918-04-23-a-i0010,4560,4593,Generalmajor Sir Robert WhighllIi,Q3938466,PER,Q287709,Major General,,18.24108123779297
+tageblatt-1918-04-23-a-i0010,4696,4711,Generall Mauris,Q1452944,PER,NIL,Generall Mauris,no,0
+tageblatt-1918-04-23-a-i0010,4938,4950,Haoasmeldung,Q516033,ORG,NIL,Haoasmeldung,"""no""",0
+tageblatt-1918-04-23-a-i0010,5258,5265,VWrotko,Q1028,LOC,NIL,VWrotko,```json {} ```,0
+tageblatt-1918-04-23-a-i0010,5396,5416,Präsidenten Poincars,Q191974,PER,NIL,Präsidenten Poincars,no,0
+tageblatt-1918-06-14-a-i0004,61,80,Neutertorrespondent,Q130879,ORG,NIL,Neutertorrespondent,no,0
+tageblatt-1918-06-14-a-i0004,225,232,Nenauls,NIL,LOC,Q1076330,Nieul,,16.115154266357422
+tageblatt-1918-06-14-a-i0004,396,403,Eauigny,Q937539,LOC,Q1214939,Aougny,,22.39408302307129
+tageblatt-1918-06-14-a-i0004,408,417,Thiocourt,Q497719,LOC,Q21831,Thicourt,,23.198244094848633
+tageblatt-1918-06-14-a-i0004,1299,1309,Montdidier,Q74308,LOC,NIL,Montdidier,```json {} ```,0
+tageblatt-1918-06-14-a-i0004,1483,1499,Montdidier Noyon,Q49831,LOC,Q20354496,,,16.099838256835938
+tageblatt-1918-06-14-a-i0004,1558,1571,Agence. Hanns,Q516033,ORG,Q665940,Allgemeiner Deutscher Nachrichtendienst,,16.640079498291016
+tageblatt-1918-06-14-a-i0004,1683,1690,Journal,Q3223697,PROD,Q11032,Zeitung,"```json {""wikipedia_page"":""Zeitung"", ""wikidata_id"":""Q11032""} ```",14.462693214416504
+tageblatt-1918-06-14-a-i0004,2345,2350,Temps,Q639137,PROD,Q177691,Tempus,,15.470526695251465
+tageblatt-1918-06-14-a-i0004,2996,3004,Marnetal,Q3554035,LOC,Q41983,Marne,,17.71630096435547
+tageblatt-1918-06-14-a-i0004,3474,3480,Ealgis,Q6454,LOC,NIL,Ealgis,no,0
+tageblatt-1918-06-14-a-i0004,3863,3868,Herne,Q764182,PER,NIL,Herne,```json {} ```,0
+tageblatt-1918-06-14-a-i0004,4284,4289,Herbe,Q764182,PER,NIL,Herbe,no,0
+tageblatt-1918-06-14-a-i0004,4361,4367,Ealais,Q6454,LOC,Q188190,Élysée-Palast,"Given the input text and the list of candidates, the entity mentioned between the [ENT] tags is likely ""Élysée-Palast"". Therefore, the appropriate Wikidata entity is: ```json { ""wikipedia_page"": ""Élysée-Palast"", ""wikidata_id"": ""Q188190"" } ```",8.737919807434082
+tageblatt-1918-06-14-a-i0004,4601,4621,Kriegsminister Baker,Q926206,PER,Q223151,"James A. Baker, III",,20.707111358642578
+tageblatt-1928-02-15-a-i0018,127,143,Reichstagswahlen,Q878525,ORG,Q160208,Reichstag,,18.78856658935547
+tageblatt-1928-02-15-a-i0018,422,430,CasManca,Q7903,LOC,Q839607,Casamance,"Based on the provided text and list of candidates, the entity mentioned between the [ENT] tags, ""CasManca"", can be disambiguated to the Wikidata entity ""Casamance"". Therefore, the JSON response is: ```json {""wikipedia_page"":""Casamance"", ""wikidata_id"":""Q839607""} ```",13.854342460632324
+tageblatt-1928-02-15-a-i0018,662,673,Beue Mellal,Q817279,LOC,Q1019461,Béni Mellal,"```json {""wikipedia_page"":""Béni Mellal"", ""wikidata_id"":""Q1019461""} ```",12.247543334960938
+tageblatt-1928-02-15-a-i0018,969,976,Laeasze,NIL,PER,Q3184412,Joseph-Pierre Lanet,,16.014963150024414
+tageblatt-1928-02-15-a-i0018,981,994,Simon Tovbini,NIL,PER,Q3484837,,,21.490562438964844
+tageblatt-1928-02-15-a-i0018,1172,1191,Rheinlandlommission,Q1200,LOC,Q1665901,Interalliierter Hoher Ausschuss für die Rheinlande,,20.025157928466797
+tageblatt-1928-02-15-a-i0018,1378,1384,Velsen,Q9970,LOC,Q1332293,Grube Velsen,,17.052501678466797
+tageblatt-1928-02-15-a-i0018,1475,1485,Hoftenbach,Q562627,LOC,NIL,Hoftenbach,no,0
+tageblatt-1928-02-15-a-i0018,1646,1668,Nationale Bauernpartei,Q259887,ORG,NIL,Nationale Bauernpartei,no,0
+tageblatt-1928-02-15-a-i0018,1681,1703,Sozialistischen Partei,Q752435,ORG,NIL,Sozialistischen Partei,"{""wikipedia_page"":"""",""wikidata_id"":""""}",0
+tageblatt-1928-02-15-a-i0018,1836,1866,amerikanische Admiral Plunkeii,Q5081605,PER,NIL,amerikanische Admiral Plunkeii,```json {} ```,0
+tageblatt-1928-02-15-a-i0018,2074,2082,Plunlett,Q5081605,PER,NIL,Plunlett,```json {} ```,0
+tageblatt-1928-05-09-a-i0020,0,21,Luxemburger Tageblatt,Q461344,PROD,Q3246803,,,22.18030548095703
+tageblatt-1928-05-09-a-i0020,141,149,Le Ieune,Q2550037,PER,Q15056,Jean-Luc Dehaene,,20.138784408569336
+tageblatt-1928-05-09-a-i0020,1554,1581,Generaladvokat Edm. Dmssens,NIL,PER,Q530908,Ange Hyacinthe Maxence de Damas,,18.849042892456055
+tageblatt-1928-05-09-a-i0020,2085,2094,Me Picard,NIL,PER,Q286375,Émile Picard,,24.17593765258789
+tageblatt-1928-05-09-a-i0020,2145,2154,Le Ieunes,Q2550037,PER,Q16945145,,,17.917478561401367
+tageblatt-1928-05-09-a-i0020,2181,2189,Le Ieune,Q2550037,PER,Q3173157,Jean Lejeune,,16.37346649169922
+tageblatt-1928-05-09-a-i0020,2492,2501,Massilong,Q1381729,PER,Q3297724,Massillon Coicou,"Based on the provided text and the list of candidates, the most appropriate Wikidata entity for the entity tagged with [ENT] Massillon is: ```json {""wikipedia_page"":""Massillon Coicou"", ""wikidata_id"":""Q3297724""} ```",12.228334426879883
+tageblatt-1928-05-09-a-i0020,2507,2515,Vossuets,Q294100,PER,Q3103632,Georges Voisset,,17.558284759521484
+tageblatt-1928-05-09-a-i0020,2517,2525,Le Ieune,Q2550037,PER,Q85952329,,,14.873021125793457
+tageblatt-1928-05-09-a-i0020,2672,2679,LeuKtra,NIL,PER,Q131651,Elektra,,15.72360610961914
+tageblatt-1928-05-09-a-i0020,2699,2707,Le Ieune,Q2550037,PER,Q85952329,,,18.35727310180664
+tageblatt-1928-05-09-a-i0020,2852,2862,Marc Nurel,Q1430,PER,Q324420,Nicolaus Taurellus,,17.90127944946289
+tageblatt-1928-05-09-a-i0020,2968,2976,Le Ieune,Q2550037,PER,Q27894099,Joseph Le Jeune,,17.018081665039062
+tageblatt-1938-08-05-a-i0057,1,14,Die Neue Welt,Q5274415,PROD,Q1215132,Die Neue Welt,,24.007850646972656
+tageblatt-1938-11-08-a-i0056,282,300,Vicomte Rothermere,Q336483,PER,Q508363,"Jean-Baptiste-Donatien de Vimeur, comte de Rochambeau",,17.150108337402344
+tageblatt-1938-11-08-a-i0056,392,400,Daily SS,Q210534,ORG,Q153559,Sicherheitsdienst des Reichsführers-SS,,15.894636154174805
+tageblatt-1938-11-08-a-i0056,858,862,Fraq,Q1085,LOC,NIL,Fraq,no,0
+tageblatt-1938-11-08-a-i0056,1068,1085,Abgeordnete Kundt,Q216084,PER,Q108392,Bernhard Quandt,,15.533660888671875
+tageblatt-1938-11-08-a-i0056,1580,1599,Abgeordneten Peters,Q12018548,PER,Q320256,Abgeordnetenhaus,,18.283138275146484
+tageblatt-1938-11-08-a-i0056,1621,1636,Senator Kröazot,NIL,PER,Q11773859,Cyril Záborec,,17.731281280517578

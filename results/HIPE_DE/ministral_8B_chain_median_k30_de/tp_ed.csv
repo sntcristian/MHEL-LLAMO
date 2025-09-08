@@ -1,0 +1,566 @@
+doc_id,start_pos,end_pos,surface,gt_id,type,identifier,title,answer,score
+NZZ-1798-01-20-a-p0002,41,44,Rom,Q220,LOC,Q220,Rom,"Based on the provided text and the list of candidates, the most appropriate Wikidata entity for the entity mentioned between the [ENT] tags is: ```json {""wikipedia_page"":""Rom"", ""wikidata_id"":""Q220""} ```",16.237071990966797
+NZZ-1798-01-20-a-p0002,111,114,Rom,Q220,LOC,Q220,Rom,"Based on the provided input text and the list of candidates, the most appropriate Wikidata entity for the entity mentioned between the [ENT] tags is: ```json {""wikipedia_page"": ""Rom"", ""wikidata_id"": ""Q220""} ```",17.89097023010254
+NZZ-1798-01-20-a-p0002,925,936,Gen. Duphot,Q977001,PER,Q977001,Léonard Duphot,"Based on the input text and the list of candidates, the entity mentioned between the [ENT] tags, ""Gen. Duphot"", is best disambiguated to: ```json {""wikipedia_page"":""Léonard Duphot"", ""wikidata_id"":""Q977001""} ```",19.92439842224121
+NZZ-1798-01-20-a-p0002,1100,1128,General¬ Lieutenant Sherlöck,NIL,PER,NIL,General¬ Lieutenant Sherlöck,```json {} ```,0
+NZZ-1798-01-20-a-p0002,1751,1754,Rom,Q220,LOC,Q220,Rom,"```json { ""wikipedia_page"": ""Rom"", ""wikidata_id"": ""Q220"" } ```",21.29958152770996
+NZZ-1808-04-29-a-p0002,977,987,Kopenhagen,Q1748,LOC,Q1748,Kopenhagen,,25.08263397216797
+NZZ-1808-04-29-a-p0002,1605,1615,Frankreich,Q142,LOC,Q142,Frankreich,"```json { ""wikipedia_page"": ""Frankreich"", ""wikidata_id"": ""Q142"" } ```",18.508224487304688
+NZZ-1808-04-29-a-p0002,2847,2854,Rußland,Q159,LOC,Q159,Russland,,21.789072036743164
+NZZ-1808-04-29-a-p0002,3737,3745,Dänemark,Q35,LOC,Q35,Dänemark,,21.766136169433594
+NZZ-1808-04-29-a-p0002,3836,3846,Petersburg,Q656,LOC,Q656,Sankt Petersburg,,22.325889587402344
+NZZ-1808-04-29-a-p0002,3945,3953,Ehstland,Q191,LOC,Q191,Estland,"Based on the provided text and the list of candidates, the entity mentioned between the [ENT] tags is ""Estland"". The most appropriate Wikidata entity for this is ""Estland"" with Wikidata ID ""Q191"" and Wikipedia page ""Estland"". ```json {""wikipedia_page"":""Estland"", ""wikidata_id"":""Q191""} ```",10.525023460388184
+NZZ-1808-04-29-a-p0002,4244,4256,Peters¬ burg,Q656,LOC,Q656,Sankt Petersburg,"Based on the provided text and the list of candidates, the entity mentioned between the [ENT] tags is ""Petersburg"". The most appropriate Wikidata entity from the given list of candidates is: - Wikidata ID: Q656 - Wikipedia Page Title: Sankt Petersburg ```json {""wikipedia_page"":""Sankt Petersburg"", ""wikidata_id"":""Q656""} ```",16.568700790405273
+NZZ-1808-04-29-a-p0002,4308,4325,General Burhöyden,NIL,PER,NIL,General Burhöyden,```json {} ```,0
+NZZ-1818-01-09-a-p0001,430,437,Ansbach,Q14859,LOC,Q14859,Ansbach,,24.061237335205078
+NZZ-1818-01-09-a-p0001,499,507,Nürnberg,Q2090,LOC,Q2090,Nürnberg,,24.0393123626709
+NZZ-1818-01-09-a-p0001,574,602,"M. Mles, Pfarrer zu Deyzisau",NIL,PER,NIL,"M. Mles, Pfarrer zu Deyzisau",no,0
+NZZ-1818-01-09-a-p0001,606,629,Königreich Wür¬ temberg,Q159631,LOC,Q159631,Königreich Württemberg,,31.36882972717285
+NZZ-1818-01-09-a-p0001,679,688,Stuttgart,Q1022,LOC,Q1022,Stuttgart,"```json { ""wikipedia_page"": ""Stuttgart"", ""wikidata_id"": ""Q1022"" } ```",17.23969841003418
+NZZ-1818-01-09-a-p0001,694,703,Steinkopf,NIL,PROD,NIL,Steinkopf,```json {} ```,0
+NZZ-1818-01-09-a-p0001,901,907,Luther,Q9554,PER,Q9554,Martin Luther,,22.915367126464844
+NZZ-1818-01-09-a-p0001,1327,1333,Berlin,Q64,LOC,Q64,Berlin,,21.80677032470703
+NZZ-1818-01-09-a-p0001,1389,1395,Luther,Q9554,PER,Q9554,Martin Luther,,25.405418395996094
+NZZ-1818-01-09-a-p0001,1557,1564,Dresden,Q1731,LOC,Q1731,Dresden,,23.70488739013672
+NZZ-1818-01-09-a-p0001,2216,2222,Zürich,Q72,LOC,Q72,Zürich,,24.693580627441406
+NZZ-1818-01-09-a-p0001,2224,2229,Orell,NIL,ORG,NIL,Orell,```json {} ```,0
+NZZ-1828-05-21-a-p0001,4462,4470,Freyburg,Q12640,LOC,Q12640,Kanton Freiburg,,22.350223541259766
+NZZ-1828-05-21-a-p0001,4472,4484,Schaffhausen,Q12697,LOC,Q12697,Kanton Schaffhausen,,26.3740291595459
+NZZ-1828-05-21-a-p0001,4489,4495,Aargau,Q11972,LOC,Q11972,Kanton Aargau,,24.7626895904541
+NZZ-1838-03-30-a-p0001,8,27,Der Waldstätterbote,NIL,PROD,NIL,Der Waldstätterbote,no,0
+NZZ-1838-03-30-a-p0001,371,390,alten Landes Schwyz,Q12433,LOC,Q12433,Kanton Schwyz,"Based on the provided text and list of candidates, the entity mentioned between the [ENT] tags is ""altes Land Schwyz"". The most appropriate Wikidata entity from the given list of candidates is ""Kanton Schwyz"". Here is the JSON object with the corresponding Wikipedia page title and Wikidata ID: ```json {""wikipedia_page"": ""Kanton Schwyz"", ""wikidata_id"": ""Q12433""} ```",19.73544692993164
+NZZ-1838-03-30-a-p0001,794,808,Kantons Schwyz,Q12433,LOC,Q12433,Kanton Schwyz,,31.722137451171875
+NZZ-1838-03-30-a-p0001,1174,1183,K. Schwyz,Q12433,LOC,Q12433,Kanton Schwyz,"```json { ""wikipedia_page"": ""Kanton Schwyz"", ""wikidata_id"": ""Q12433"" } ```",17.03354263305664
+NZZ-1838-03-30-a-p0001,1366,1372,Schwyz,Q12433,LOC,Q12433,Kanton Schwyz,,22.37523078918457
+NZZ-1838-03-30-a-p0001,1488,1505,hohe Stand Schwyz,Q12433,LOC,Q12433,Kanton Schwyz,"Based on the analysis of the input text, the entity mentioned between the [ENT] tags is ""Kanton Schwyz."" The most appropriate Wikidata entity from the given list of candidates is ""Kanton Schwyz"" (Wikidata ID: Q12433). Here is the JSON output: ```json {""wikipedia_page"":""Kanton Schwyz"", ""wikidata_id"":""Q12433""} ```",17.526065826416016
+NZZ-1838-03-30-a-p0001,1926,1932,Schwyz,Q12433,LOC,Q12433,Kanton Schwyz,,24.3275203704834
+NZZ-1838-03-30-a-p0001,2224,2233,Neuenburg,Q12738,LOC,Q12738,Kanton Neuenburg,"```json {""wikipedia_page"":""Kanton Neuenburg"", ""wikidata_id"":""Q12738""} ```",18.528432846069336
+NZZ-1838-03-30-a-p0001,2316,2322,Schwyz,Q12433,LOC,Q12433,Kanton Schwyz,"Based on the input text, the entity mentioned between the [ENT] tags is likely to be related to the political or geographical context of Switzerland in the 19th century. However, none of the given candidates directly match the specific mention of ""Schwyz"" in the provided text. Given the context and the candidates, it appears that the most appropriate selection would be the entity related to the Kanton Schwyz, which is directly mentioned in the text. Therefore, the response is: ```json {""wikipedia_page"":""Kanton Schwyz"", ""wikidata_id"":""Q12433""} ```",20.69144630432129
+NZZ-1838-03-30-a-p0001,2700,2709,Neuenburg,Q12738,LOC,Q12738,Kanton Neuenburg,"```json {""wikipedia_page"": ""Kanton Neuenburg"", ""wikidata_id"": ""Q12738""} ```",17.266841888427734
+NZZ-1838-03-30-a-p0001,3738,3752,Kantons Schwyz,Q12433,LOC,Q12433,Kanton Schwyz,,35.190608978271484
+NZZ-1838-03-30-a-p0001,3783,3797,Kantons Schwyz,Q12433,LOC,Q12433,Kanton Schwyz,,29.948976516723633
+NZZ-1848-01-21-a-p0005,2,41,Schweizerische National-Vorsichts-Kassa,NIL,ORG,NIL,Schweizerische National-Vorsichts-Kassa,no,0
+NZZ-1848-01-21-a-p0005,45,49,Bern,Q70,LOC,Q70,Bern,,24.954265594482422
+NZZ-1848-01-21-a-p0005,83,117,Schweiz. Na¬ sional-Vorsichtskassa,NIL,ORG,NIL,Schweiz. Na¬ sional-Vorsichtskassa,```json {} ```,0
+NZZ-1848-01-21-a-p0005,328,340,Herrn Locher,NIL,PER,NIL,Herrn Locher,no,0
+NZZ-1848-01-21-a-p0005,384,403,Herr Oberst Brunner,NIL,PER,NIL,Herr Oberst Brunner,no,0
+NZZ-1848-01-21-a-p0005,435,448,Kanton Zürich,Q11943,LOC,Q11943,Kanton Zürich,,30.128843307495117
+NZZ-1848-01-21-a-p0005,505,516,Herr Locher,NIL,PER,NIL,Herr Locher,```json {} ```,0
+NZZ-1848-01-21-a-p0005,556,569,Kanton Zürich,Q11943,LOC,Q11943,Kanton Zürich,,23.596033096313477
+NZZ-1848-01-21-a-p0005,757,776,Hrn. Oberst Brunner,NIL,PER,NIL,Hrn. Oberst Brunner,```json {} ```,0
+NZZ-1848-01-21-a-p0005,1091,1111,Herrn Oberst Brunner,NIL,PER,NIL,Herrn Oberst Brunner,```json {} ```,0
+NZZ-1848-01-21-a-p0005,1439,1445,Schwyz,Q12433,LOC,Q12433,Kanton Schwyz,,25.085159301757812
+NZZ-1848-01-21-a-p0005,1450,1459,Appenzell,Q688257,LOC,Q688257,Kanton Appenzell,,22.202678680419922
+NZZ-1848-01-21-a-p0005,1889,1893,Bern,Q70,LOC,Q70,Bern,,23.114084243774414
+NZZ-1858-04-20-a-p0003,0,7,Schweiz,Q39,LOC,Q39,Schweiz,"```json {""wikipedia_page"": ""Schweiz"", ""wikidata_id"": ""Q39""} ```",20.145904541015625
+NZZ-1858-04-20-a-p0003,54,82,Vereinigten Staaten Amerikas,Q30,LOC,Q30,Vereinigte Staaten,"Based on the provided input text and candidates, it appears that the entity mentioned between the [ENT] tags is ""Vereinigte Staaten"" (United States). Here is the JSON-formatted response: ```json {""wikipedia_page"":""Vereinigte Staaten"", ""wikidata_id"":""Q30""} ```",20.062423706054688
+NZZ-1858-04-20-a-p0003,159,174,Gemeinde Horgen,Q68286,LOC,Q68286,Horgen,,23.242094039916992
+NZZ-1858-04-20-a-p0003,384,391,Simplon,Q471166,LOC,Q471166,Simplonpass,"```json { ""wikipedia_page"": ""Simplonpass"", ""wikidata_id"": ""Q471166"" } ```",13.14494800567627
+NZZ-1858-04-20-a-p0003,718,726,Wetzikon,Q68305,LOC,Q68305,Wetzikon,"```json { ""wikipedia_page"": ""Wetzikon"", ""wikidata_id"": ""Q68305"" } ```",20.8795108795166
+NZZ-1858-04-20-a-p0003,727,731,Rüti,Q69752,LOC,Q69752,Rüti,"```json { ""wikipedia_page"": ""Rüti"", ""wikidata_id"": ""Q69752"" } ```",19.44664764404297
+NZZ-1858-04-20-a-p0003,897,928,minder¬ jährigen Zürchers Spöri,NIL,PER,NIL,minder¬ jährigen Zürchers Spöri,no,0
+NZZ-1858-04-20-a-p0003,936,947,Kanton Bern,Q11911,LOC,Q11911,Kanton Bern,,28.53783416748047
+NZZ-1858-04-20-a-p0003,1038,1052,Kantons Zürich,Q11943,LOC,Q11943,Kanton Zürich,,26.020124435424805
+NZZ-1858-04-20-a-p0003,1266,1275,Stuttgart,Q1022,LOC,Q1022,Stuttgart,,22.99112319946289
+NZZ-1858-04-20-a-p0003,1299,1307,Augsburg,Q2749,LOC,Q2749,Augsburg,,23.537818908691406
+NZZ-1858-04-20-a-p0003,1462,1470,Augsburg,Q2749,LOC,Q2749,Augsburg,,24.0029239654541
+NZZ-1858-04-20-a-p0003,1521,1527,Zürich,Q72,LOC,Q72,Zürich,,22.597990036010742
+NZZ-1858-04-20-a-p0003,1689,1700,Stutt¬ gart,Q1022,LOC,Q1022,Stuttgart,,23.095134735107422
+NZZ-1858-04-20-a-p0003,1743,1749,Zürich,Q72,LOC,Q72,Zürich,,22.361000061035156
+NZZ-1858-04-20-a-p0003,1809,1819,St. Gallen,Q25607,LOC,Q25607,St. Gallen,,23.9631404876709
+NZZ-1858-04-20-a-p0003,1821,1831,Gsell-Lutz,NIL,PER,NIL,Gsell-Lutz,```json {} ```,0
+NZZ-1858-04-20-a-p0003,1835,1845,St. Gallen,Q25607,LOC,Q25607,St. Gallen,,23.76485824584961
+NZZ-1858-04-20-a-p0003,1847,1853,Bünden,Q11925,LOC,Q11925,Kanton Graubünden,"```json { ""wikipedia_page"": ""Kanton Graubünden"", ""wikidata_id"": ""Q11925"" } ```",15.479069709777832
+NZZ-1858-04-20-a-p0003,1933,1960,Vereinigten Schweizerbahnen,Q678188,ORG,Q678188,Vereinigte Schweizerbahnen,,32.345603942871094
+NZZ-1858-04-20-a-p0003,2026,2030,Chur,Q69007,LOC,Q69007,Chur,,26.317296981811523
+NZZ-1858-04-20-a-p0003,2048,2064,Appenzell A. Rh.,Q12079,LOC,Q12079,Kanton Appenzell Ausserrhoden,"{ ""wikipedia_page"": ""Kanton Appenzell Ausserrhoden"", ""wikidata_id"": ""Q12079"" }",19.228336334228516
+NZZ-1858-04-20-a-p0003,2093,2102,Waldstatt,Q69658,LOC,Q69658,Waldstatt,,23.792034149169922
+NZZ-1858-04-20-a-p0003,2167,2181,Hr. James Fazy,Q116287,PER,Q116287,James Fazy,"```json { ""wikipedia_page"": ""James Fazy"", ""wikidata_id"": ""Q116287"" } ```",13.551888465881348
+NZZ-1858-04-20-a-p0003,2231,2240,Neuenburg,Q12738,LOC,Q12738,Kanton Neuenburg,"Based on the input text and the list of candidates, the entity mentioned between the [ENT] tags is ""Neuenburg"". The most appropriate Wikidata entity for ""Neuenburg"" from the given list of candidates is: ```json {""wikipedia_page"":""Neuenburg (Kanton)"", ""wikidata_id"":""Q12738""} ```",15.975570678710938
+NZZ-1868-02-17-a-p0001,123,134,Nordamerika,Q49,LOC,Q49,Nordamerika,,22.12556266784668
+NZZ-1868-02-17-a-p0001,207,214,England,Q21,LOC,Q21,England,,23.4316463470459
+NZZ-1868-02-17-a-p0001,783,802,Vereinigten Staaten,Q30,LOC,Q30,Vereinigte Staaten,,22.227338790893555
+NZZ-1868-02-17-a-p0001,1041,1051,Washington,Q61,LOC,Q61,"Washington, D.C.",,21.608623504638672
+NZZ-1868-02-17-a-p0001,1398,1435,Vereinigten Staaten von Nord¬ amerika,Q30,LOC,Q30,Vereinigte Staaten,,24.613306045532227
+NZZ-1868-02-17-a-p0001,1558,1568,Wafhington,Q61,LOC,Q61,"Washington, D.C.","Based on the input text and the list of candidates, the entity mentioned between the [ENT] tags ""Wafhington"" is likely a reference to ""Washington, D.C."". ```json {""wikipedia_page"": ""Washington, D.C."", ""wikidata_id"": ""Q61""} ```",15.075525283813477
+NZZ-1868-02-17-a-p0001,1647,1657,Kopenhagen,Q1748,LOC,Q1748,Kopenhagen,,28.574697494506836
+NZZ-1868-02-17-a-p0001,1744,1749,Paris,Q90,LOC,Q90,Paris,"{ ""wikipedia_page"": ""Paris"", ""wikidata_id"": ""Q90"" }",19.587387084960938
+NZZ-1868-02-17-a-p0001,1969,1976,England,Q21,LOC,Q21,England,,22.641115188598633
+NZZ-1868-02-17-a-p0001,2104,2112,Disraeli,Q82006,PER,Q82006,Benjamin Disraeli,,26.9584903717041
+NZZ-1868-02-17-a-p0001,2403,2427,ungarischen Comitat Zips,Q767378,LOC,Q767378,Komitat Zips,"Based on the provided text and the list of candidates, the entity mentioned in the [ENT] tags is ""Komitat Zips"". This corresponds to the Wikidata entity with the Wikidata ID ""Q767378"" and the Wikipedia page title ""Komitat Zips"". Here is the JSON-formatted answer: ```json {""wikipedia_page"": ""Komitat Zips"", ""wikidata_id"": ""Q767378""} ```",17.804922103881836
+NZZ-1868-02-17-a-p0001,2436,2444,Galizien,Q180086,LOC,Q180086,Galizien,,26.581239700317383
+NZZ-1868-02-17-a-p0001,2614,2623,Leutschau,Q242478,LOC,Q242478,Levoča,,22.263357162475586
+NZZ-1868-02-17-a-p0001,3259,3266,Schweiz,Q39,LOC,Q39,Schweiz,"Based on the provided text and the list of candidates, the entity mentioned between the [ENT] tags is likely to be ""Schweiz"". Therefore, the most appropriate Wikidata entity from the list of candidates is: ```json {""wikipedia_page"":""Schweiz"", ""wikidata_id"":""Q39""} ```",18.582565307617188
+NZZ-1868-02-17-a-p0001,3359,3377,Deputirten Mellana,NIL,PER,NIL,Deputirten Mellana,```json {} ```,0
+NZZ-1868-02-17-a-p0001,3461,3468,Pungolo,NIL,PROD,NIL,Pungolo,no,0
+NZZ-1868-02-17-a-p0001,3589,3595,Varese,Q6285,LOC,Q6285,Varese,,23.000995635986328
+NZZ-1868-02-17-a-p0001,4185,4193,Hennegau,Q1129,LOC,Q1129,Provinz Hennegau,"Based on the provided text, the entity between the [ENT] tags is ""Hennegau"". From the list of candidates, the most appropriate Wikidata entity is ""Provinz Hennegau"" with the Wikipedia page title ""Provinz Hennegau"" and Wikidata ID ""Q1129"". Here is the JSON response: ```json {""wikipedia_page"":""Provinz Hennegau"", ""wikidata_id"":""Q1129""} ```",7.495687007904053
+NZZ-1868-02-17-a-p0001,4739,4758,Senator Montlaville,NIL,PER,NIL,Senator Montlaville, no,0
+NZZ-1868-02-17-a-p0001,4869,4877,Bordeaux,Q1479,LOC,Q1479,Bordeaux,,24.110265731811523
+NZZ-1868-02-17-a-p0001,4939,4945,London,Q84,LOC,Q84,London,"```json { ""wikipedia_page"": ""London"", ""wikidata_id"": ""Q84"" } ```",21.164112091064453
+NZZ-1868-02-17-a-p0001,4997,5002,Paris,Q90,LOC,Q90,Paris,,22.345449447631836
+NZZ-1868-02-17-a-p0001,5166,5174,Jupiters,Q319,LOC,Q319,Jupiter,,24.336532592773438
+NZZ-1868-02-17-a-p0001,5296,5311,Planeten Merkur,Q308,LOC,Q308,Merkur,,22.075504302978516
+NZZ-1868-02-17-a-p0001,5325,5330,Sonne,Q525,LOC,Q525,Sonne,,24.514427185058594
+NZZ-1868-02-17-a-p0001,5357,5361,Erde,Q2,LOC,Q2,Erde,,25.271841049194336
+NZZ-1868-02-17-a-p0001,5399,5405,Merkur,Q308,LOC,Q308,Merkur,,26.41254425048828
+NZZ-1868-02-17-a-p0001,5483,5487,Mond,Q405,LOC,Q405,Mond,,27.527904510498047
+NZZ-1868-02-17-a-p0001,5535,5542,Jupiter,Q319,LOC,Q319,Jupiter,,25.760234832763672
+NZZ-1868-02-17-a-p0001,5607,5613,Merkur,Q308,LOC,Q308,Merkur,,27.641782760620117
+NZZ-1868-02-17-a-p0001,5670,5675,Sonne,Q525,LOC,Q525,Sonne,,27.15224266052246
+NZZ-1868-02-17-a-p0001,5817,5823,Merkur,Q308,LOC,Q308,Merkur,,26.128795623779297
+NZZ-1878-01-07-b-p0002,259,281,russische Jeanne d'Arc,Q7226,PER,Q7226,Jeanne d’Arc,"```json {""wikipedia_page"":""Jeanne d’Arc"", ""wikidata_id"":""Q7226""} ```",15.896227836608887
+NZZ-1878-01-07-b-p0002,555,572,Fräulein Shukalin,NIL,PER,NIL,Fräulein Shukalin,no,0
+NZZ-1878-01-07-b-p0002,653,662,Bulgarien,Q219,LOC,Q219,Bulgarien,"Based on the input text and the provided list of candidates, the most appropriate Wikidata entity corresponding to the entity mentioned between the [ENT] tags is: ```json {""wikipedia_page"": ""Bulgarien"", ""wikidata_id"": ""Q219""} ``` Explanation: The text mentions ""Bulgarien"" in the context of the historical request by Tatjana Shukalin to join the active army. The candidate with the Wikipedia page ""Bulgarien"" and the Wikidata ID ""Q219"" is the most relevant and accurate match for the mentioned entity.",19.554943084716797
+NZZ-1878-01-07-b-p0002,1004,1074,"Stabschef der aktiven Armee, dem General-Adjutanten Ne¬ pokoitschizkij",NIL,PER,NIL,"Stabschef der aktiven Armee, dem General-Adjutanten Ne¬ pokoitschizkij",no,0
+NZZ-1878-01-07-b-p0002,1173,1191,Fräuleins Shukalin,NIL,PER,NIL,Fräuleins Shukalin,no,0
+NZZ-1878-01-07-b-p0002,2016,2024,Sai¬ zew,NIL,PER,NIL,Sai¬ zew,no,0
+NZZ-1878-01-07-b-p0002,2284,2294,Insel Sylt,Q3107,LOC,Q3107,Sylt,,25.511402130126953
+NZZ-1878-01-07-b-p0002,2379,2389,Westerland,Q27998,LOC,Q27998,Westerland,,26.46750259399414
+NZZ-1878-01-07-b-p0002,2754,2766,Morsum-Kliff,Q1948646,LOC,Q1948646,Morsum-Kliff,,26.247692108154297
+NZZ-1878-01-07-b-p0002,3082,3092,Insel Sylt,Q3107,LOC,Q3107,Sylt,,26.09073257446289
+NZZ-1878-01-07-b-p0002,3319,3330,Arbeitgeber,NIL,PROD,NIL,Arbeitgeber,```json {} ```,0
+NZZ-1878-01-07-b-p0002,3342,3374,Brauereibesitzerin Elise Hassold,NIL,PER,NIL,Brauereibesitzerin Elise Hassold,```json {} ```,0
+NZZ-1878-01-07-b-p0002,3466,3469,Ulm,Q3012,LOC,Q3012,Ulm,,23.981956481933594
+NZZ-1878-01-07-b-p0002,3669,3677,Rumänien,Q218,LOC,Q218,Rumänien,"Based on the provided text and the list of candidates, the entity [ENT] most likely refers to the country of Romania, which is represented by the candidate with the Wikidata ID of 'Q218' and the Wikipedia page title of 'Rumänien'. Here is the JSON response: ```json {""wikipedia_page"": ""Rumänien"", ""wikidata_id"": ""Q218""} ```",21.03790855407715
+NZZ-1878-01-07-b-p0002,3708,3720,Kronst. Ztg.,NIL,PROD,NIL,Kronst. Ztg., no,0
+NZZ-1878-01-07-b-p0002,3747,3757,Plojeschti,Q179585,LOC,Q179585,Ploiești,,24.861923217773438
+NZZ-1878-01-07-b-p0002,3762,3770,Bukarest,Q19660,LOC,Q19660,Bukarest,,28.857959747314453
+NZZ-1878-01-07-b-p0002,3851,3860,Kronstadt,Q82174,LOC,Q82174,Kronstadt,"Based on the provided text and the list of candidates, the entity mentioned between the [ENT] tags is ""Kronstadt"". The most appropriate Wikidata entity from the list of candidates is the one with the Wikidata ID ""Q82174"" and the Wikipedia page title ""Kronstadt"". Therefore, the JSON-formatted answer is: ```json {""wikipedia_page"":""Kronstadt"", ""wikidata_id"":""Q82174""} ```",16.474668502807617
+NZZ-1878-01-07-b-p0002,3866,3874,Bukarest,Q19660,LOC,Q19660,Bukarest,,26.07097053527832
+NZZ-1878-01-07-b-p0002,4801,4808,Amerika,Q30,LOC,Q30,Vereinigte Staaten,"{""wikipedia_page"":""Vereinigte Staaten"",""wikidata_id"":""Q30""}",18.78982925415039
+NZZ-1878-01-07-b-p0002,5031,5047,Theobald Ziegler,Q91527,PER,Q91527,Theobald Ziegler,,34.42217254638672
+NZZ-1878-01-07-b-p0002,5557,5568,Gartenlaube,Q655617,PROD,Q655617,Die Gartenlaube,"```json {""wikipedia_page"":""Die Gartenlaube"", ""wikidata_id"":""Q655617""} ```",19.93830108642578
+NZZ-1878-01-07-b-p0002,5610,5621,Gartenlaube,Q655617,PROD,Q655617,Die Gartenlaube,,21.730850219726562
+NZZ-1878-01-07-b-p0002,5635,5645,Voss. Ztg.,Q675003,PROD,Q675003,Vossische Zeitung und Vorläufer,"Based on the provided text and the list of candidates, the best match for the entity mentioned between the [ENT] tags is: ```json {""wikipedia_page"":""Vossische Zeitung und Vorläufer"", ""wikidata_id"":""Q675003""} ```",17.172998428344727
+NZZ-1878-01-07-b-p0002,5735,5742,Preußen,Q38872,LOC,Q38872,Preußen,,24.389848709106445
+NZZ-1878-01-07-b-p0002,5836,5843,Leipzig,Q2079,LOC,Q2079,Leipzig,,29.33373260498047
+NZZ-1878-01-07-b-p0002,5849,5865,General v. Mülbe,Q52106011,PER,Q52106011,Otto von der Mülbe,,24.554729461669922
+NZZ-1878-01-07-b-p0002,6029,6039,Bismarck's,Q8442,PER,Q8442,Otto von Bismarck,,25.328022003173828
+NZZ-1878-01-07-b-p0002,6054,6061,Preußen,Q38872,LOC,Q38872,Preußen,"Based on the given text and the list of candidates, the correct Wikidata entity for [ENT] is: ```json {""wikipedia_page"":""Preußen"", ""wikidata_id"":""Q38872""} ``` [ENT] refers to the state of Prussia in the given context.",20.29991912841797
+NZZ-1878-01-07-b-p0002,6154,6164,Bismarck's,Q8442,PER,Q8442,Otto von Bismarck,,23.59135627746582
+NZZ-1878-01-07-b-p0002,6479,6490,Gartenlaube,Q655617,PROD,Q655617,Die Gartenlaube,"Based on the provided list of candidates, the entity mentioned between the [ENT] tags in the input text is ""Gartenlaube"". The most appropriate Wikidata entity from the given list of candidates is: ```json {""wikipedia_page"":""Die Gartenlaube"", ""wikidata_id"":""Q655617""} ```",20.439390182495117
+NZZ-1888-03-08-b-p0002,32,101,"Führer der preußi¬ schen Hochkonservativen, Moritz von Blanken¬ burg,",Q111102,PER,Q111102,Moritz von Blanckenburg,"Based on the input text and the list of candidates, the entity mentioned in the [ENT] tags is ""Moritz von Blanckenburg"". From the list of candidates, the appropriate Wikidata entity is: ```json {""wikipedia_page"":""Moritz von Blanckenburg"", ""wikidata_id"":""Q111102""} ```",15.089973449707031
+NZZ-1888-03-08-b-p0002,132,139,Pommern,Q104520,LOC,Q104520,Pommern,,24.857160568237305
+NZZ-1888-03-08-b-p0002,218,224,Berlin,Q64,LOC,Q64,Berlin,,23.776111602783203
+NZZ-1888-03-08-b-p0002,411,422,Reichs¬ tag,Q160208,ORG,Q160208,Reichstag,,29.624765396118164
+NZZ-1888-03-08-b-p0002,430,437,Gerlach,Q65780,PER,Q65780,Ernst Ludwig von Gerlach,,30.520679473876953
+NZZ-1888-03-08-b-p0002,775,783,Bismarck,Q8442,PER,Q8442,Otto von Bismarck,,33.53757858276367
+NZZ-1888-03-08-b-p0002,1105,1138,demokratische Frankfurter Zeitung,Q561972,PROD,Q561972,Frankfurter Zeitung,,24.1922607421875
+NZZ-1888-03-08-b-p0002,1752,1757,Paris,Q90,LOC,Q90,Paris,,22.8715763092041
+NZZ-1888-03-08-b-p0002,1803,1816,Louise Michel,Q216092,PER,Q216092,Louise Michel,,30.967876434326172
+NZZ-1888-03-08-b-p0002,2311,2316,Paris,Q90,LOC,Q90,Paris,"```json {""wikipedia_page"":""Paris"", ""wikidata_id"":""Q90""} ```",19.158388137817383
+NZZ-1888-03-08-b-p0002,2496,2508,arme Joffrin,Q3188690,PER,Q3188690,Jules François Alexandre Joffrin,"{""wikipedia_page"":""Jules François Alexandre Joffrin"", ""wikidata_id"":""Q3188690""}",9.884989738464355
+NZZ-1888-03-08-b-p0002,2864,2877,Louise Michel,Q216092,PER,Q216092,Louise Michel,,34.50913619995117
+NZZ-1888-03-08-b-p0002,2900,2905,Havre,Q42810,LOC,Q42810,Le Havre,,22.01318359375
+NZZ-1888-03-08-b-p0002,3610,3615,Paris,Q90,LOC,Q90,Paris,"Based on the input text and the given list of candidates, the entity mentioned between the [ENT] tags is ""Paris"". The most appropriate Wikidata entity from the list of candidates is: ```json {""wikipedia_page"": ""Paris"", ""wikidata_id"": ""Q90""} ```",19.539539337158203
+NZZ-1888-03-08-b-p0002,3862,3880,Oesterreich-Ungarn,Q28513,LOC,Q28513,Österreich-Ungarn,,27.017194747924805
+NZZ-1888-03-08-b-p0002,3882,3886,Wien,Q1741,LOC,Q1741,Wien,,24.7343807220459
+NZZ-1888-03-08-b-p0002,3938,3959,serbische Skupschtina,Q920222,ORG,Q920222,Nationalversammlung,"{""wikipedia_page"": ""Nationalversammlung"", ""wikidata_id"": ""Q920222""} Explanation: The text mentions ""Wahlkampf in Serbien"" and ""Parlament von Serbien"". The candidate with the description ""Parlament von Serbien"" and Wikidata ID ""Q920222"" is the most appropriate match for the ""serbische Skupschtina"" mentioned in the text.",19.526065826416016
+NZZ-1888-03-08-b-p0002,4058,4078,gestürzten Ristitsch,Q391573,PER,Q391573,Jovan Ristić,"Based on the provided text and candidates, the entity mentioned between the [ENT] tags is likely ""Jovan Ristić"". Therefore, the most appropriate Wikidata entity is ""Q391573"". ```json {""wikipedia_page"":""Jovan Ristić"", ""wikidata_id"":""Q391573""} ```",15.956788063049316
+NZZ-1888-03-08-b-p0002,4149,4160,Oesterreich,Q40,LOC,Q40,Österreich,,24.478803634643555
+NZZ-1888-03-08-b-p0002,4183,4189,Orient,Q205653,LOC,Q205653,Orient,"Given the input text and the list of candidates, it is evident that the entity tagged with [ENT] in the text is ""Orient."" The most appropriate candidate from the list is: - **Wikipedia Page:** Orient - **Wikidata ID:** Q205653 Therefore, the JSON-formatted answer is: ```json {""wikipedia_page"":""Orient"", ""wikidata_id"":""Q205653""} ```",18.748580932617188
+NZZ-1888-03-08-b-p0002,4210,4217,Serbien,Q403,LOC,Q403,Serbien,,21.53742027282715
+NZZ-1888-03-08-b-p0002,4305,4312,Serbien,Q403,LOC,Q403,Serbien,,23.74324607849121
+NZZ-1888-03-08-b-p0002,4393,4408,Herrn Ristitsch,Q391573,PER,Q391573,Jovan Ristić,"```json {""wikipedia_page"":""Jovan Ristić"", ""wikidata_id"":""Q391573""} ```",16.68562126159668
+NZZ-1888-03-08-b-p0002,4826,4837,König Milan,Q313829,PER,Q313829,Milan I.,,25.31301498413086
+NZZ-1888-03-08-b-p0002,5450,5457,Belgrad,Q3711,LOC,Q3711,Belgrad,,27.7076416015625
+NZZ-1888-03-08-b-p0002,5677,5688,Oesterreich,Q40,LOC,Q40,Österreich,,22.922473907470703
+NZZ-1888-03-08-b-p0002,5925,5932,Belgrad,Q3711,LOC,Q3711,Belgrad,,27.83118438720703
+NZZ-1898-12-05-b-p0005,43,49,Europa,Q46,LOC,Q46,Europa,,22.054950714111328
+NZZ-1898-12-05-b-p0005,121,127,Peking,Q956,LOC,Q956,Peking,,21.60616111755371
+NZZ-1898-12-05-b-p0005,1461,1466,Japan,Q17,LOC,Q17,Japan,,23.451520919799805
+NZZ-1898-12-05-b-p0005,1631,1639,Graf Ito,Q174971,PER,Q174971,Itō Hirobumi,"Based on the provided input text and the list of candidates, the most appropriate Wikidata entity for the entity tagged with [ENT] is 'Itō Hirobumi'. Therefore, the JSON-formatted answer is: ```json {""wikipedia_page"": ""Itō Hirobumi"", ""wikidata_id"": ""Q174971""} ```",11.361043930053711
+NZZ-1898-12-05-b-p0005,1935,1940,China,Q148,LOC,Q148,Volksrepublik China,"```json { ""wikipedia_page"": ""Volksrepublik China"", ""wikidata_id"": ""Q148"" } ```",19.363142013549805
+NZZ-1898-12-05-b-p0005,2983,2988,Japan,Q17,LOC,Q17,Japan,,21.496191024780273
+NZZ-1898-12-05-b-p0005,2993,3000,England,Q21,LOC,Q21,England,,23.299537658691406
+NZZ-1898-12-05-b-p0005,3045,3053,Ostasien,Q27231,LOC,Q27231,Ostasien,,28.90392303466797
+NZZ-1898-12-05-b-p0005,3239,3248,Eng¬ land,Q21,LOC,Q21,England,,22.203857421875
+NZZ-1898-12-05-b-p0005,3490,3495,Japan,Q17,LOC,Q17,Japan,,22.114341735839844
+NZZ-1898-12-05-b-p0005,3612,3617,China,Q148,LOC,Q148,Volksrepublik China,"{""wikipedia_page"":""Volksrepublik China"",""wikidata_id"":""Q148""}",17.0250186920166
+NZZ-1898-12-05-b-p0005,4091,4096,Japan,Q17,LOC,Q17,Japan,,21.956899642944336
+NZZ-1898-12-05-b-p0005,4214,4219,China,Q148,LOC,Q148,Volksrepublik China,"Based on the input text and the candidates provided, the most appropriate Wikidata entity for the entity mentioned between the [ENT] tags is the following: ```json {""wikipedia_page"":""Volksrepublik China"", ""wikidata_id"":""Q148""} ```",17.91522789001465
+NZZ-1898-12-05-b-p0005,4313,4320,England,Q21,LOC,Q21,England,,24.39650535583496
+NZZ-1898-12-05-b-p0005,4625,4632,Rußland,Q34266,LOC,Q34266,Russisches Kaiserreich,"Based on the provided text and candidates, the entity within the [ENT] tags is ""Russland"". The most appropriate Wikidata entity from the list of candidates is ""Russisches Kaiserreich"" with the Wikidata ID ""Q34266"". ```json {""wikipedia_page"": ""Russisches Kaiserreich"", ""wikidata_id"": ""Q34266""} ```",18.788686752319336
+NZZ-1898-12-05-b-p0005,4837,4842,Japan,Q17,LOC,Q17,Japan,,23.38151741027832
+NZZ-1898-12-05-b-p0005,5068,5078,Ho-Wen-Bao,NIL,PROD,NIL,Ho-Wen-Bao,no,0
+NZZ-1908-01-19-a-p0001,4,25,Zürcher Handelskammer,Q20012503,ORG,Q20012503,Zürcher Handelskammer,,31.170303344726562
+NZZ-1908-01-19-a-p0001,46,57,Bundesrates,Q30917,ORG,Q30917,Schweizerischer Bundesrat,,26.02971649169922
+NZZ-1908-01-19-a-p0001,248,262,Kantons Zürich,Q11943,LOC,Q11943,Kanton Zürich,,28.56572914123535
+NZZ-1908-01-19-a-p0001,301,352,"Oberst Richard, Sekretär der Zürcher Handelskammer,",NIL,PER,NIL,"Oberst Richard, Sekretär der Zürcher Handelskammer,","""no""",0
+NZZ-1908-01-19-a-p0001,410,431,Zürcher Handelskammer,Q20012503,ORG,Q20012503,Zürcher Handelskammer,,34.960575103759766
+NZZ-1908-01-19-a-p0001,470,491,Zürcher Handelskammer,Q20012503,ORG,Q20012503,Zürcher Handelskammer,,35.37957000732422
+NZZ-1908-01-19-a-p0001,598,613,Schindler-Huber,Q1224007,PER,Q1224007,Dietrich Schindler-Huber,,25.595033645629883
+NZZ-1908-01-19-a-p0001,657,669,Dr. Häberlin,Q118222,PER,Q118222,Heinrich Häberlin,,24.50755500793457
+NZZ-1908-01-19-a-p0001,788,809,Zürcher Handelskammer,Q20012503,ORG,Q20012503,Zürcher Handelskammer,,33.80754852294922
+NZZ-1908-01-19-a-p0001,1079,1093,Oberst Richard,NIL,PER,NIL,Oberst Richard,no,0
+NZZ-1908-01-19-a-p0001,1570,1593,Zürcher Handels¬ kammer,Q20012503,ORG,Q20012503,Zürcher Handelskammer,,31.537240982055664
+NZZ-1908-01-19-a-p0001,1724,1733,Bundesrat,Q30917,ORG,Q30917,Schweizerischer Bundesrat,,25.210773468017578
+NZZ-1908-01-19-a-p0001,2409,2430,Zürcher Handelskammer,Q20012503,ORG,Q20012503,Zürcher Handelskammer,,32.270626068115234
+NZZ-1908-01-19-a-p0001,3577,3620,Schweizerische Ge¬ meinnützige Gesellschaft,Q2256455,ORG,Q2256455,Schweizerische Gemeinnützige Gesellschaft,,32.85760498046875
+NZZ-1908-01-19-a-p0001,3984,3995,Bundesrates,Q30917,ORG,Q30917,Schweizerischer Bundesrat,,25.657175064086914
+NZZ-1908-01-19-a-p0001,4034,4055,Zürcher Handelskammer,Q20012503,ORG,Q20012503,Zürcher Handelskammer,,34.13031768798828
+NZZ-1908-01-19-a-p0001,4932,4948,Niederösterreich,Q42497,LOC,Q42497,Niederösterreich,,23.72284507751465
+NZZ-1908-01-19-a-p0001,4952,4956,Wien,Q1741,LOC,Q1741,Wien,,25.26091194152832
+NZZ-1908-01-19-a-p0001,5102,5108,Böhmen,Q39193,LOC,Q39193,Böhmen,,26.093021392822266
+NZZ-1908-01-19-a-p0001,5212,5224,Oesterreichs,Q40,LOC,Q40,Österreich,,26.04422378540039
+NZZ-1908-01-19-a-p0001,5375,5384,Luxemburg,Q32,LOC,Q32,Luxemburg,"{ ""wikipedia_page"": ""Luxemburg"", ""wikidata_id"": ""Q32"" }",19.331859588623047
+NZZ-1908-01-19-a-p0001,5519,5526,Schweiz,Q39,LOC,Q39,Schweiz,,21.477270126342773
+NZZ-1908-01-19-a-p0001,5865,5872,Schweiz,Q39,LOC,Q39,Schweiz,,22.105854034423828
+NZZ-1908-01-19-a-p0001,6135,6156,Zürcher Handelskammer,Q20012503,ORG,Q20012503,Zürcher Handelskammer,,33.35530090332031
+NZZ-1908-01-19-a-p0001,6992,7001,Bundesrat,Q30917,ORG,Q30917,Schweizerischer Bundesrat,,23.523359298706055
+NZZ-1908-01-19-a-p0001,10560,10581,Zürcher Handelskammer,Q20012503,ORG,Q20012503,Zürcher Handelskammer,,33.61784744262695
+NZZ-1908-01-19-a-p0001,10682,10691,Bundesrat,Q30917,ORG,Q30917,Schweizerischer Bundesrat,,29.357810974121094
+NZZ-1908-01-19-a-p0001,11973,11996,Zür¬ cher Handelskammer,Q20012503,ORG,Q20012503,Zürcher Handelskammer,,34.270118713378906
+NZZ-1908-01-19-a-p0001,12786,12797,Oesterreich,Q40,LOC,Q40,Österreich,"```json {""wikipedia_page"": ""Österreich"", ""wikidata_id"": ""Q40""} ```",20.506914138793945
+NZZ-1908-01-19-a-p0001,12868,12875,Schweiz,Q39,LOC,Q39,Schweiz,"```json {""wikipedia_page"":""Schweiz"", ""wikidata_id"":""Q39""} ```",19.942651748657227
+NZZ-1908-01-19-a-p0001,14148,14169,Zürcher Handelskammer,Q20012503,ORG,Q20012503,Zürcher Handelskammer,,31.92690658569336
+NZZ-1908-01-19-a-p0001,14453,14474,Zürcher Handelskammer,Q20012503,ORG,Q20012503,Zürcher Handelskammer,,33.32664108276367
+NZZ-1908-01-19-a-p0001,14624,14638,Prof. Zürchers,NIL,PER,NIL,Prof. Zürchers,```json {} ```,0
+NZZ-1908-01-19-a-p0001,14712,14716,Frey,NIL,PER,NIL,Frey,```json {} ```,0
+NZZ-1908-01-19-a-p0001,15193,15202,Bundesrat,Q30917,ORG,Q30917,Schweizerischer Bundesrat,,22.45853614807129
+NZZ-1908-01-19-a-p0001,15350,15359,Berchtold,NIL,PER,NIL,Berchtold,no,0
+NZZ-1908-01-19-a-p0001,15430,15452,Referent Hrn. Greulich,Q91174,PER,Q91174,Herman Greulich,"```json {""wikipedia_page"":""Herman Greulich"", ""wikidata_id"":""Q91174""} ```",14.97869873046875
+NZZ-1908-01-19-a-p0001,15595,15606,Oesterreich,Q40,LOC,Q40,Österreich,,24.46596908569336
+NZZ-1908-01-19-a-p0001,15675,15686,Oesterreich,Q40,LOC,Q40,Österreich,,21.566072463989258
+NZZ-1908-01-19-a-p0001,15770,15778,Greulich,Q91174,PER,Q91174,Herman Greulich,,25.736963272094727
+NZZ-1908-01-19-a-p0001,15927,15938,Boos-Jegher,Q31271042,PER,Q31271042,Emma Boos-Jegher,,24.255163192749023
+NZZ-1908-01-19-a-p0001,16088,16096,Greulich,Q91174,PER,Q91174,Herman Greulich,,24.553464889526367
+NZZ-1918-09-09-c-p0002,194,205,Armentières,Q193925,LOC,Q193925,Armentières,,32.76545715332031
+NZZ-1918-09-09-c-p0002,299,304,Gleux,NIL,LOC,NIL,Gleux,no,0
+NZZ-1918-09-09-c-p0002,377,400,Straße Péronne¬ Cambrai,NIL,LOC,NIL,Straße Péronne¬ Cambrai,no.,0
+NZZ-1918-09-09-c-p0002,493,498,Epehy,Q81992,LOC,Q81992,Épehy,,24.16710662841797
+NZZ-1918-09-09-c-p0002,512,520,Templeux,Q795863,LOC,Q795863,Templeux-le-Guérard,,25.797956466674805
+NZZ-1918-09-09-c-p0002,662,671,St. Simon,Q325532,LOC,Q325532,Saint-Simon,"Given the input text and the provided list of candidates, the entity mentioned between the [ENT] tags is ""Saint-Simon"". Based on the context, the most appropriate candidate from the list is: - **Wikipedia Page:** Saint-Simon - **Wikidata ID:** Q325532 Thus, the response in JSON format is: ```json {""wikipedia_page"":""Saint-Simon"", ""wikidata_id"":""Q325532""} ```",19.968952178955078
+NZZ-1918-09-09-c-p0002,723,727,Oise,Q200231,LOC,Q200231,Oise,"```json {""wikipedia_page"":""Oise"", ""wikidata_id"":""Q200231""} ```",21.00501823425293
+NZZ-1918-09-09-c-p0002,762,767,Aisne,Q41962,LOC,Q41962,Aisne,,23.266311645507812
+NZZ-1918-09-09-c-p0002,1109,1117,Mannheim,Q2119,LOC,Q2119,Mannheim,,22.859088897705078
+NZZ-1918-09-09-c-p0002,1586,1591,Somme,Q37646,LOC,Q37646,Somme,,28.224287033081055
+NZZ-1918-09-09-c-p0002,1667,1675,Clastres,Q322014,LOC,Q322014,Clastres,,21.82526206970215
+NZZ-1918-09-09-c-p0002,1783,1787,Liez,Q629901,LOC,Q629901,Liez,,25.392091751098633
+NZZ-1918-09-09-c-p0002,1955,1962,Laffaux,Q842559,LOC,Q842559,Laffaux,,27.242267608642578
+NZZ-1918-09-09-c-p0002,2136,2149,Mont-sans-Nom,NIL,LOC,NIL,Mont-sans-Nom,```json {} ```,0
+NZZ-1918-09-09-c-p0002,2233,2241,Auberive,Q533993,LOC,Q533993,Auberive,,23.79683494567871
+NZZ-1918-09-09-c-p0002,2254,2259,Paris,Q90,LOC,Q90,Paris,,26.972856521606445
+NZZ-1918-09-09-c-p0002,2420,2425,Aisne,Q41962,LOC,Q41962,Aisne,,22.89339256286621
+NZZ-1918-09-09-c-p0002,2530,2534,Wien,Q1741,LOC,Q1741,Wien,,22.459680557250977
+NZZ-1918-09-09-c-p0002,2591,2604,Monte Pertica,NIL,LOC,NIL,Monte Pertica,no,0
+NZZ-1918-09-09-c-p0002,2763,2768,Paris,Q90,LOC,Q90,Paris,,24.578794479370117
+NZZ-1918-09-09-c-p0002,2911,2917,Wardar,Q189596,LOC,Q189596,Vardar,"Based on the provided text and the list of candidates, the entity mentioned between the [ENT] tags is ""Wardar"". The most appropriate Wikidata entity from the given list is the one with the Wikipedia page title ""Vardar"" and Wikidata ID ""Q189596"". Here is the JSON object with the selected entity: ```json { ""wikipedia_page"": ""Vardar"", ""wikidata_id"": ""Q189596"" } ```",18.206993103027344
+NZZ-1918-09-09-c-p0002,3260,3266,Struma,Q204127,LOC,Q204127,Struma,"```json {""wikipedia_page"":""Struma"", ""wikidata_id"":""Q204127""} ```",18.01751136779785
+NZZ-1918-09-09-c-p0002,3336,3345,Jernsalem,Q1218,LOC,Q1218,Jerusalem,"Based on the input text and the provided list of candidates, the entity mentioned between the [ENT] tags is ""Jerusalem"". The most appropriate Wikidata entity from the given list is {""wikipedia_page"": ""Jerusalem"", ""wikidata_id"": ""Q1218""}. Here is the JSON response: ```json {""wikipedia_page"": ""Jerusalem"", ""wikidata_id"": ""Q1218""} ```",17.806283950805664
+NZZ-1918-09-09-c-p0002,3376,3386,Jerusalems,Q1218,LOC,Q1218,Jerusalem,,23.986495971679688
+NZZ-1918-09-09-c-p0002,3416,3443,British Eapedltlonary Force,Q919272,ORG,Q919272,British Expeditionary Force,,21.658449172973633
+NZZ-1918-09-09-c-p0002,4504,4508,Gott,Q190,PER,Q190,Gott,"```json { ""wikipedia_page"": ""Gott"", ""wikidata_id"": ""Q190"" } ```",15.931304931640625
+NZZ-1918-09-09-c-p0002,4785,4796,Jeru¬ salem,Q1218,LOC,Q1218,Jerusalem,,22.5654354095459
+NZZ-1918-09-09-c-p0002,4871,4875,Wien,Q1741,LOC,Q1741,Wien,"Based on the provided context, the entity mentioned within the [ENT] tags is ""Wien"". Among the given list of candidates, the most appropriate Wikidata entity is: ```json {""wikipedia_page"":""Wien"", ""wikidata_id"":""Q1741""} ```",19.925495147705078
+NZZ-1918-09-09-c-p0002,5031,5038,Villach,Q483522,LOC,Q483522,Villach,,27.010112762451172
+NZZ-1918-09-09-c-p0002,5339,5345,London,Q84,LOC,Q84,London,,23.801166534423828
+NZZ-1918-09-09-c-p0002,5842,5848,Berlin,Q64,LOC,Q64,Berlin,"```json { ""wikipedia_page"": ""Berlin"", ""wikidata_id"": ""Q64"" } ```",18.228824615478516
+NZZ-1918-09-09-c-p0002,6322,6333,Wolffbureau,Q552226,ORG,Q552226,Wolffs Telegraphisches Bureau,,22.09505844116211
+NZZ-1918-09-09-c-p0002,6414,6420,Berlin,Q64,LOC,Q64,Berlin,"{ ""wikipedia_page"": ""Berlin"", ""wikidata_id"": ""Q64"" }",20.332012176513672
+NZZ-1918-09-09-c-p0002,7537,7544,England,Q21,LOC,Q21,England,,23.234638214111328
+NZZ-1918-09-09-c-p0002,7732,7740,Englands,Q21,LOC,Q21,England,,21.888120651245117
+NZZ-1928-06-05-a-p0002,308,343,bewährten Dirigenten Jacques Wydler,NIL,PER,NIL,bewährten Dirigenten Jacques Wydler,```json {} ```,0
+NZZ-1928-06-05-a-p0002,457,467,Lau¬ sanne,Q807,LOC,Q807,Lausanne,,21.802095413208008
+NZZ-1928-06-05-a-p0002,914,920,Hegars,Q670852,PER,Q670852,Friedrich Hegar,,31.708040237426758
+NZZ-1928-06-05-a-p0002,930,951,Rudolf von Werdenberg,Q23639608,PER,Q23639608,Rudolf von Werdenberg,,29.52556800842285
+NZZ-1928-06-05-a-p0002,1285,1294,Schuberts,Q7312,PER,Q7312,Franz Schubert,,31.492633819580078
+NZZ-1928-06-05-a-p0002,1914,1922,Lausanne,Q807,LOC,Q807,Lausanne,,27.616561889648438
+NZZ-1928-06-05-a-p0002,2009,2019,H. Berlioz,Q1151,PER,Q1151,Hector Berlioz,,39.201393127441406
+NZZ-1928-06-05-a-p0002,2146,2155,H. Suters,Q671472,PER,Q671472,Hermann Suter,,39.89405059814453
+NZZ-1928-06-05-a-p0002,2403,2423,Venezianers Gabrieli,Q34624,PER,Q34624,Giovanni Gabrieli,"```json { ""wikipedia_page"": ""Giovanni Gabrieli"", ""wikidata_id"": ""Q34624"" } ```",17.712865829467773
+NZZ-1928-06-05-a-p0002,2657,2668,Attenhofers,Q4072280,PER,Q4072280,Carl Attenhofer,,27.29157066345215
+NZZ-1928-06-05-a-p0002,2783,2791,J. Bulls,Q511463,PER,Q511463,John Bull,,26.344497680664062
+NZZ-1928-06-05-a-p0002,3028,3034,Suters,Q671472,PER,Q671472,Hermann Suter,,25.22458267211914
+NZZ-1938-09-13-b-p0001,0,18,Zürcher Kantonsrat,Q2110002,ORG,Q2110002,Kantonsrat Zürich,,42.30976486206055
+NZZ-1938-09-13-b-p0001,211,219,Joh. Leu,NIL,PER,NIL,Joh. Leu,no,0
+NZZ-1938-09-13-b-p0001,262,283,"Züsli (komm., Zürich)",NIL,PER,NIL,"Züsli (komm., Zürich)",No.,0
+NZZ-1938-09-13-b-p0001,367,376,Bundesrat,Q30917,ORG,Q30917,Schweizerischer Bundesrat,,32.28099822998047
+NZZ-1938-09-13-b-p0001,515,540,verstorbenen Fritz Horand,NIL,PER,NIL,verstorbenen Fritz Horand,```json {} ```,0
+NZZ-1938-09-13-b-p0001,720,746,"B. Kaufmann (soz., Zürich)",NIL,PER,NIL,"B. Kaufmann (soz., Zürich)",no,0
+NZZ-1938-09-13-b-p0001,851,883,Rit¬ terhausgesellschaft Bubikon,Q2155177,ORG,Q2155177,Ritterhausgesellschaft Bubikon,,28.611942291259766
+NZZ-1938-09-13-b-p0001,1075,1097,Ritterhausgesellschaft,Q2155177,ORG,Q2155177,Ritterhausgesellschaft Bubikon,,22.861501693725586
+NZZ-1938-09-13-b-p0001,1256,1286,Ritterhausgesellschaft Bubikon,Q2155177,ORG,Q2155177,Ritterhausgesellschaft Bubikon,,29.526824951171875
+NZZ-1938-09-13-b-p0001,1832,1862,Ritterhausgesellschaft Bubikon,Q2155177,ORG,Q2155177,Ritterhausgesellschaft Bubikon,,28.701126098632812
+NZZ-1938-09-13-b-p0001,2169,2197,Chronisten Johan¬ nes Stumpf,Q688678,PER,Q688678,Johannes Stumpf,"```json {""wikipedia_page"":""Johannes Stumpf"", ""wikidata_id"":""Q688678""} ```",16.132614135742188
+NZZ-1938-09-13-b-p0001,2206,2213,Bubikon,Q67068,LOC,Q67068,Bubikon,,29.325044631958008
+NZZ-1938-09-13-b-p0001,2314,2329,Johanniterorden,Q4498889,ORG,Q4498889,Johanniterorden,,24.11130714416504
+NZZ-1938-09-13-b-p0001,2580,2598,Gemeinde Bubi¬ kon,Q67068,LOC,Q67068,Bubikon,,24.07614517211914
+NZZ-1938-09-13-b-p0001,2713,2735,Ritterhaus von Bubikon,Q638821,LOC,Q638821,"Johanniterkommende Bubikon, Schweiz",,29.826644897460938
+NZZ-1938-09-13-b-p0001,2760,2778,Zürcher Oberlandes,Q248499,LOC,Q248499,Zürcher Oberland,,33.65271759033203
+NZZ-1938-09-13-b-p0001,2845,2863,Johanniter¬ ordens,Q4498889,ORG,Q4498889,Johanniterorden,"Based on the context provided in the text, the most appropriate Wikidata entity for the [ENT] tags is: ```json {""wikipedia_page"":""Johanniterorden"", ""wikidata_id"":""Q4498889""} ```",20.41673469543457
+NZZ-1938-09-13-b-p0001,3164,3207,"Kommissionsreferent Kaufmann (soz., Zürich)",NIL,PER,NIL,"Kommissionsreferent Kaufmann (soz., Zürich)",No.,0
+NZZ-1938-09-13-b-p0001,3358,3371,Sternenweiher,Q492672,LOC,Q492672,Sternenweiher,"```json { ""wikipedia_page"": ""Sternenweiher"", ""wikidata_id"": ""Q492672"" } ```",20.790555953979492
+NZZ-1938-09-13-b-p0001,3373,3394,Gemeinden Richterswil,Q68227,LOC,Q68227,Richterswil,,22.68168067932129
+NZZ-1938-09-13-b-p0001,3399,3407,Wollerau,Q69647,LOC,Q69647,Wollerau,,34.47442626953125
+NZZ-1938-09-13-b-p0001,3409,3415,Schwyz,Q12433,LOC,Q12433,Kanton Schwyz,,22.836313247680664
+NZZ-1938-09-13-b-p0001,3528,3547,Station Fischenthal,Q15086148,LOC,Q15086148,Bahnhof Fischenthal,,26.98012924194336
+NZZ-1938-09-13-b-p0001,3623,3635,Lendenbaches,NIL,LOC,NIL,Lendenbaches,no,0
+NZZ-1938-09-13-b-p0001,3683,3692,Eggstraße,NIL,LOC,NIL,Eggstraße,"```json { ""wikipedia_page"": """", ""wikidata_id"": """" } ``` The entity mentioned between the [ENT] tags [""Eggstraße""] is not present in the provided list of candidates.",0
+NZZ-1938-09-13-b-p0001,3710,3722,Spitalstraße,NIL,LOC,NIL,Spitalstraße,```json {} ```,0
+NZZ-1938-09-13-b-p0001,3730,3747,Gemeinde Wetzikon,Q68305,LOC,Q68305,Wetzikon,,26.949771881103516
+NZZ-1938-09-13-b-p0001,4049,4088,Elektrizitäts¬ werke des Kantons Zürich,Q1326642,ORG,Q1326642,Elektrizitätswerke des Kantons Zürich,,23.053625106811523
+NZZ-1938-09-13-b-p0001,4499,4522,"Bantli (Bp., Dübendorf)",NIL,PER,NIL,"Bantli (Bp., Dübendorf)",no,0
+NZZ-1938-09-13-b-p0001,4831,4854,"Bantli (Bp., Dübendorf)",NIL,PER,NIL,"Bantli (Bp., Dübendorf)",```json {} ```,0
+NZZ-1938-09-13-b-p0001,5175,5185,Burghölzli,Q577131,ORG,Q577131,Psychiatrische Universitätsklinik Zürich,"Based on the provided input text, the entity mentioned between the [ENT] tags is ""Burghölzli"". Reviewing the list of candidates, the candidate ""Psychiatrische Universitätsklinik Zürich"" (Wikidata ID: Q577131) seems to be the most appropriate match as it is a psychiatric clinic located in Zürich, Switzerland. Therefore, the JSON response is: ```json {""wikipedia_page"": ""Psychiatrische Universitätsklinik Zürich"", ""wikidata_id"": ""Q577131""} ```",16.457298278808594
+NZZ-1938-09-13-b-p0001,5572,5600,"Dr. Duttweiler (fr., Zürich)",NIL,PER,NIL,"Dr. Duttweiler (fr., Zürich)","```json { ""wikipedia_page"": """", ""wikidata_id"": """" } ```",0
+NZZ-1938-09-13-b-p0001,6053,6079,"Dr. P. Gygax (fr., Zürich)",NIL,PER,NIL,"Dr. P. Gygax (fr., Zürich)",No.,0
+NZZ-1938-09-13-b-p0001,7729,7742,Kanton Zürich,Q11943,LOC,Q11943,Kanton Zürich,,30.734294891357422
+NZZ-1938-09-13-b-p0001,10434,10442,Dr. Roth,NIL,PER,NIL,Dr. Roth,no,0
+NZZ-1938-09-13-b-p0001,10559,10583,"Hackhofer (chr., Zürich)",NIL,PER,NIL,"Hackhofer (chr., Zürich)",```json {} ```,0
+NZZ-1938-09-13-b-p0001,10855,10883,"Schneider (soz., Winterthur)",NIL,PER,NIL,"Schneider (soz., Winterthur)",```json {} ```,0
+NZZ-1938-09-13-b-p0001,11180,11204,Bäuteli (Bp. Buch a. J.),NIL,PER,NIL,Bäuteli (Bp. Buch a. J.),no,0
+NZZ-1938-09-13-b-p0001,11402,11415,Städte Zürich,Q72,LOC,Q72,Zürich,"```json {""wikipedia_page"":""Zürich"",""wikidata_id"":""Q72""} ```",19.36972427368164
+NZZ-1938-09-13-b-p0001,11420,11430,Winterthur,Q9125,LOC,Q9125,Winterthur,,27.871410369873047
+NZZ-1948-05-12-b-p0002,27,37,Ruhrgebiet,Q151993,LOC,Q151993,Ruhrgebiet,,21.892261505126953
+NZZ-1948-05-12-b-p0002,360,370,Ruhrgebiet,Q151993,LOC,Q151993,Ruhrgebiet,,25.933847427368164
+NZZ-1948-05-12-b-p0002,620,630,Ruhrgebiet,Q151993,LOC,Q151993,Ruhrgebiet,,23.237354278564453
+NZZ-1948-05-12-b-p0002,772,784,Franke¬ furt,Q1794,LOC,Q1794,Frankfurt am Main,"From the given text, the entity mentioned between the [ENT] tags is ""Frankfurt am Main"". Based on the list of candidates, the most appropriate Wikidata entity is: ```json {""wikipedia_page"": ""Frankfurt am Main"", ""wikidata_id"": ""Q1794""} ```",13.74471664428711
+NZZ-1948-05-12-b-p0002,1041,1049,Massigli,Q2893138,PER,Q2893138,René Massigli,"```json { ""wikipedia_page"": ""René Massigli"", ""wikidata_id"": ""Q2893138"" } ```",19.973060607910156
+NZZ-1948-05-12-b-p0002,1115,1135,Prinzessin Elizabeth,Q9682,PER,Q9682,Elisabeth II.,,21.98668098449707
+NZZ-1948-05-12-b-p0002,1331,1337,London,Q84,LOC,Q84,London,,21.628738403320312
+NZZ-1948-05-12-b-p0002,1439,1446,Bidault,Q312026,PER,Q312026,Georges Bidault,"```json { ""wikipedia_page"": ""Georges Bidault"", ""wikidata_id"": ""Q312026"" } ```",21.286602020263672
+NZZ-1948-05-12-b-p0002,1667,1678,Ruhrgebiets,Q151993,LOC,Q151993,Ruhrgebiet,,23.60202980041504
+NZZ-1948-05-12-b-p0002,1767,1777,Washington,Q61,LOC,Q61,"Washington, D.C.","Based on the provided text and the list of candidates, the entity ""Washington"" tagged between the [ENT] tags likely refers to ""Washington, D.C."" given its context in the text about the American position on German issues post-WW2. ```json {""wikipedia_page"":""Washington, D.C."", ""wikidata_id"":""Q61""} ```",19.266353607177734
+NZZ-1948-05-12-b-p0002,1923,1929,London,Q84,LOC,Q84,London,,21.576608657836914
+NZZ-1948-05-12-b-p0002,2218,2225,Benelux,Q13116,LOC,Q13116,Benelux,,22.04123306274414
+NZZ-1948-05-12-b-p0002,2316,2321,Times,Q50008,PROD,Q50008,The Times,,21.699779510498047
+NZZ-1948-05-12-b-p0002,2489,2502,Ruhr¬ gebiets,Q151993,LOC,Q151993,Ruhrgebiet,,22.945755004882812
+NZZ-1948-05-12-b-p0002,2530,2551,Nord¬ rhein-Westfalen,Q1198,LOC,Q1198,Nordrhein-Westfalen,,28.596506118774414
+NZZ-1948-05-12-b-p0002,3086,3096,Ruhrgebiet,Q151993,LOC,Q151993,Ruhrgebiet,,24.41963005065918
+NZZ-1948-05-12-b-p0002,3806,3813,Amerika,Q30,LOC,Q30,Vereinigte Staaten,"```json { ""wikipedia_page"": ""Vereinigte Staaten"", ""wikidata_id"": ""Q30"" } ```",14.412140846252441
+NZZ-1948-05-12-b-p0002,3890,3897,Benelux,Q13116,LOC,Q13116,Benelux,,22.549015045166016
+NZZ-1948-05-12-b-p0002,4235,4245,Westeuropa,Q27496,LOC,Q27496,Westeuropa,,23.65495491027832
+NZZ-1948-05-12-b-p0002,4547,4554,Nordsee,Q1693,LOC,Q1693,Nordsee,,21.913362503051758
+NZZ-1948-05-12-b-p0002,5154,5165,Deutschland,Q183,LOC,Q183,Deutschland,"```json { ""wikipedia_page"": ""Deutschland"", ""wikidata_id"": ""Q183"" } ```",17.275676727294922
+luxwort-1848-09-29-a-i0001,173,190,Theodor PeScatore,Q7799867,PER,Q7799867,Théodore Pescatore,,22.07852554321289
+luxwort-1848-09-29-a-i0001,202,208,Stifft,NIL,PER,NIL,Stifft,"{ ""wikipedia_page"": """", ""wikidata_id"": """" }",0
+luxwort-1848-09-29-a-i0001,219,226,Hertert,NIL,PER,NIL,Hertert,"The entity ""Hertert"" mentioned in the input text does not match any of the provided candidates with high confidence. Therefore, here is the response: ```json {} ```",0
+luxwort-1848-09-29-a-i0001,251,258,Lampach,NIL,PER,NIL,Lampach,no,0
+luxwort-1848-09-29-a-i0001,263,273,Dassclboru,NIL,PER,NIL,Dassclboru,"{""wikipedia_page"":"""", ""wikidata_id"":""""}",0
+luxwort-1848-10-01-a-i0001,499,516,Surcmbnrger Worte,Q1751317,PROD,Q1751317,Luxemburger Wort,"To disambiguate the entity mentioned between the [ENT] tags, we need to analyze the text and match it with the provided list of candidates. The text mentions ""Surcmbnrger Worte,"" which seems to be a typo or misinterpretation of ""Surmburger Wort"" or ""Surmburger Worte."" From the provided list of candidates, the most likely match is ""Luxemburger Wort."" Let's return the corresponding Wikipedia page title and Wikidata ID of the selected entity in a JSON object. ```json {""wikipedia_page"":""Luxemburger Wort"", ""wikidata_id"":""Q1751317""} ```",8.991314888000488
+luxwort-1848-10-01-a-i0001,1876,1905,Luremburgcr Ccutralwahlcomite,NIL,ORG,NIL,Luremburgcr Ccutralwahlcomite,"```json {""wikipedia_page"":"""",""wikidata_id"":""""} ```",0
+luxwort-1848-10-01-a-i0001,2135,2145,Dieschburg,NIL,PER,NIL,Dieschburg,no,0
+luxwort-1848-10-01-a-i0001,2150,2163,Wiltz Neumann,NIL,PER,NIL,Wiltz Neumann,no,0
+luxwort-1848-10-01-a-i0001,2390,2396,Macher,NIL,PER,NIL,Macher,```json {} ```,0
+luxwort-1848-10-01-a-i0001,2824,2853,Priester und Professor Müller,NIL,PER,NIL,Priester und Professor Müller,no,0
+luxwort-1848-10-01-a-i0001,2884,2899,Direktor Müller,NIL,PER,NIL,Direktor Müller,no,0
+luxwort-1848-10-01-a-i0001,4604,4612,Ch. Metz,Q5080926,PER,Q5080926,Charles Metz,"Based on the input text and the provided list of candidates, the entity mentioned between the [ENT] tags is ""Ch. Metz"" (Charles Metz). The most appropriate Wikidata entity from the list of candidates is: ```json {""wikipedia_page"":""Charles Metz"", ""wikidata_id"":""Q5080926""} ```",16.27604866027832
+luxwort-1848-10-01-a-i0001,4781,4789,Scklinck,NIL,PER,NIL,Scklinck,No.,0
+luxwort-1848-10-01-a-i0001,4797,4804,Lampach,NIL,PER,NIL,Lampach,no,0
+luxwort-1848-10-01-a-i0001,4812,4823,Heldenstein,Q13103205,PER,Q13103205,Jean-Louis David,,22.59674072265625
+luxwort-1848-10-01-a-i0001,4849,4856,Herlert,NIL,PER,NIL,Herlert,no,0
+luxwort-1848-10-01-a-i0001,4877,4884,Fendius,NIL,PER,NIL,Fendius,```json {} ```,0
+luxwort-1848-10-01-a-i0001,4892,4901,Würth PH.,NIL,PER,NIL,Würth PH.,no,0
+luxwort-1848-10-01-a-i0001,4909,4913,Adam,NIL,PER,NIL,Adam,```json {} ```,0
+luxwort-1848-12-15-a-i0001,202,208,Ulrich,NIL,PER,NIL,Ulrich,No,0
+luxwort-1848-12-15-a-i0001,213,220,N. Metz,Q3343509,PER,Q3343509,Norbert Metz,"Based on the provided text and the list of candidates, the entity mentioned between the [ENT] tags is likely ""Norbert Metz"". The most appropriate Wikidata entity from the given list of candidates is: ```json {""wikipedia_page"":""Norbert Metz"", ""wikidata_id"":""Q3343509""} ```",15.080904006958008
+luxwort-1848-12-15-a-i0001,236,276,"General-Administrator des Innern, Ulrich",NIL,PER,NIL,"General-Administrator des Innern, Ulrich",No.,0
+luxwort-1848-12-15-a-i0001,749,760,Hrn. Ulrich,NIL,PER,NIL,Hrn. Ulrich,```json {} ```,0
+luxwort-1848-12-15-a-i0001,795,808,Hrn. Ulveling,Q6171617,PER,Q6171617,Jean Ulveling,"```json { ""wikipedia_page"": ""Jean Ulveling"", ""wikidata_id"": ""Q6171617"" } ```",16.735260009765625
+luxwort-1848-12-15-a-i0001,1565,1574,Luxemburg,Q32,LOC,Q32,Luxemburg,"Based on the provided text and the list of candidates, the entity mentioned between the [ENT] tags is ""Luxemburg"". The most appropriate Wikidata entity from the list of candidates is: ```json {""wikipedia_page"":""Luxemburg"", ""wikidata_id"":""Q32""} ```",15.22808837890625
+luxwort-1858-02-07-a-i0009,0,7,Belgien,Q31,LOC,Q31,Belgien,,24.453533172607422
+luxwort-1858-02-07-a-i0009,9,16,Brüssel,Q239,LOC,Q239,Brüssel,,26.070030212402344
+luxwort-1858-02-07-a-i0009,171,209,"jetzige nominelle Herausgeber, Brismee",NIL,PER,NIL,"jetzige nominelle Herausgeber, Brismee",no,0
+luxwort-1858-02-07-a-i0009,489,500,Proletarier,NIL,PROD,NIL,Proletarier,No,0
+luxwort-1858-02-07-a-i0009,593,599,London,Q84,LOC,Q84,London,,21.737911224365234
+luxwort-1858-02-07-a-i0009,633,666,"rabiaten Schneider, Namens Coulon",NIL,PER,NIL,"rabiaten Schneider, Namens Coulon",no,0
+luxwort-1858-02-07-a-i0009,772,778,Orsini,Q708837,PER,Q708837,Felice Orsini,"```json { ""wikipedia_page"": ""Felice Orsini"", ""wikidata_id"": ""Q708837"" } ```",16.47806739807129
+luxwort-1858-02-07-a-i0009,876,907,"Mr. Coulon, der kühne Schneider",NIL,PER,NIL,"Mr. Coulon, der kühne Schneider","""no""",0
+luxwort-1858-02-07-a-i0009,953,962,Crocodile,NIL,PROD,NIL,Crocodile,```json {} ```,0
+luxwort-1858-02-07-a-i0009,1016,1022,sM. I.,NIL,PER,NIL,sM. I.,no,0
+luxwort-1858-03-14-a-i0006,40,45,Trier,Q3138,LOC,Q3138,Trier,,27.106847763061523
+luxwort-1858-03-14-a-i0006,159,171,heil. Joseph,Q128267,PER,Q128267,Josef von Nazaret,"Based on the provided text and list of candidates, the most likely disambiguation is: ```json {""wikipedia_page"":""Josef von Nazaret"", ""wikidata_id"":""Q128267""} ``` Explanation: - The text mentions ""heil. Joseph"" (St. Joseph), which likely refers to Josef von Nazaret, the husband of Maria and the father of Jesus Christ. - The Wikidata ID and Wikipedia page title match this entity.",11.758077621459961
+luxwort-1858-03-14-a-i0006,1319,1336,Gesellschaft Jesu,Q36380,ORG,Q36380,Jesuiten,,23.435224533081055
+luxwort-1858-08-29-a-i0005,851,855,m. I,NIL,PER,NIL,m. I,no,0
+luxwort-1858-10-07-a-i0008,0,7,Italien,Q38,LOC,Q38,Italien,,22.1441593170166
+luxwort-1858-10-07-a-i0008,9,14,R o m,Q220,LOC,Q220,Rom,"```json { ""wikipedia_page"": ""Rom"", ""wikidata_id"": ""Q220"" } ```",14.6002197265625
+luxwort-1858-10-07-a-i0008,392,401,Jerusalem,Q1218,LOC,Q1218,Jerusalem,,21.517108917236328
+luxwort-1858-10-07-a-i0008,866,873,Pius IX,Q43720,PER,Q43720,Pius IX.,,30.088884353637695
+luxwort-1858-10-07-a-i0008,1295,1302,Neapels,Q2634,LOC,Q2634,Neapel,"```json { ""wikipedia_page"": ""Neapel"", ""wikidata_id"": ""Q2634"" } ```",19.06890106201172
+luxwort-1858-10-07-a-i0008,1405,1416,Weftmächten,NIL,ORG,NIL,Weftmächten,no,0
+luxwort-1858-10-07-a-i0008,1760,1771,Westmächten,NIL,ORG,NIL,Westmächten,no,0
+luxwort-1858-10-07-a-i0008,2296,2306,Frankreich,Q142,LOC,Q142,Frankreich,"```json { ""wikipedia_page"": ""Frankreich"", ""wikidata_id"": ""Q142"" } ```",19.816978454589844
+luxwort-1858-10-07-a-i0008,4096,4102,Bayern,Q154195,LOC,Q154195,Königreich Bayern,"```json { ""wikipedia_page"": ""Königreich Bayern"", ""wikidata_id"": ""Q154195"" } ```",18.888689041137695
+luxwort-1858-12-25-a-i0001,373,389,Luremburger Wort,Q1751317,PROD,Q1751317,Luxemburger Wort,"Based on the input text and the list of candidates, the most appropriate Wikidata entity for the term ""Luremburger Wort"" is: ```json {""wikipedia_page"":""Luxemburger Wort"", ""wikidata_id"":""Q1751317""} ```",17.36126708984375
+luxwort-1858-12-25-a-i0001,907,911,Köln,Q365,LOC,Q365,Köln,,24.24514389038086
+luxwort-1868-07-21-a-i0003,12,20,Wäschfra,NIL,PROD,NIL,Wäschfra,```json {} ```,0
+luxwort-1868-07-21-a-i0003,468,478,3Sd)cb.fra,NIL,PROD,NIL,3Sd)cb.fra,```json {} ```,0
+luxwort-1868-07-21-a-i0003,515,540,Hrn. Musikdirektor Rinnen,NIL,PER,NIL,Hrn. Musikdirektor Rinnen,no,0
+luxwort-1868-07-21-a-i0003,767,775,Wäschfra,NIL,PROD,NIL,Wäschfra,no,0
+luxwort-1868-07-21-a-i0003,1117,1137,Hrn. Direktor Zinnen,NIL,PER,NIL,Hrn. Direktor Zinnen,No.,0
+luxwort-1868-07-21-a-i0003,1521,1529,Wäschfra,NIL,PROD,NIL,Wäschfra,no,0
+luxwort-1868-09-23-a-i0011,84,92,Nürnberg,Q2090,LOC,Q2090,Nürnberg,,21.771251678466797
+luxwort-1868-09-23-a-i0011,94,101,Brüssel,Q239,LOC,Q239,Brüssel,"```json { ""wikipedia_page"": ""Brüssel"", ""wikidata_id"": ""Q239"" } ```",18.113208770751953
+luxwort-1868-09-23-a-i0011,106,111,Genua,Q1449,LOC,Q1449,Genua,,28.007673263549805
+luxwort-1868-09-23-a-i0011,598,605,"K. Ztg,",NIL,PROD,NIL,"K. Ztg,",no,0
+luxwort-1868-09-23-a-i0011,718,727,Garibaldi,Q539,PER,Q539,Giuseppe Garibaldi,,22.8018798828125
+luxwort-1868-09-23-a-i0011,729,736,Mazzini,Q187336,PER,Q187336,Giuseppe Mazzini,,23.98206329345703
+luxwort-1868-09-23-a-i0011,772,796,Affiliazione Democratica,NIL,ORG,NIL,Affiliazione Democratica,no,0
+luxwort-1868-09-23-a-i0011,802,822,Comité der Stadt Rom,NIL,ORG,NIL,Comité der Stadt Rom,no,0
+luxwort-1868-09-23-a-i0011,828,835,Florenz,Q2044,LOC,Q2044,Florenz,,23.76090431213379
+luxwort-1868-09-23-a-i0011,1160,1168,Lignrien,Q1256,LOC,Q1256,Ligurien," ```json {""wikipedia_page"":""Ligurien"", ""wikidata_id"":""Q1256""} ```",14.755167007446289
+luxwort-1868-09-23-a-i0011,1206,1209,Rom,Q220,LOC,Q220,Rom,"```json { ""wikipedia_page"": ""Rom"", ""wikidata_id"": ""Q220"" } ```",18.703205108642578
+luxwort-1868-09-23-a-i0011,1330,1339,Mazzini's,Q187336,PER,Q187336,Giuseppe Mazzini,"```json { ""wikipedia_page"": ""Giuseppe Mazzini"", ""wikidata_id"": ""Q187336"" } ```",20.037153244018555
+luxwort-1868-09-23-a-i0011,1357,1402,französischen Botschafter Grafen Don ©artiges,NIL,PER,NIL,französischen Botschafter Grafen Don ©artiges,```json {} ```,0
+luxwort-1868-09-23-a-i0011,1814,1824,Frankreich,Q142,LOC,Q142,Frankreich,"Based on the provided text, the word ""Frankreich"" is mentioned between the [ENT] tags. The most appropriate Wikidata entity for this mention, given the context of the text and the provided list of candidates, is: ```json {""wikipedia_page"": ""Frankreich"", ""wikidata_id"": ""Q142""} ```",17.14305877685547
+luxwort-1868-09-23-a-i0011,2347,2360,Herr Menabrea,Q548672,PER,Q548672,Luigi Federico Menabrea,"Based on the input text, the entity mentioned between the [ENT] tags is ""Herr Menabrea."" The most appropriate Wikidata entity from the provided list of candidates is Luigi Federico Menabrea. Therefore, the response is: ```json {""wikipedia_page"":""Luigi Federico Menabrea"", ""wikidata_id"":""Q548672""} ```",20.681621551513672
+luxwort-1868-09-23-a-i0011,2398,2405,Italien,Q38,LOC,Q38,Italien,"Based on the text provided and the candidates listed, the entity mentioned between the [ENT] tags is ""Italien"". Among the candidates, the most appropriate Wikidata entity for ""Italien"" is: ```json { ""wikipedia_page"": ""Italien"", ""wikidata_id"": ""Q38"" } ```",19.041568756103516
+luxwort-1868-09-23-a-i0011,2417,2422,Paris,Q90,LOC,Q90,Paris,"```json {""wikipedia_page"":""Paris"", ""wikidata_id"":""Q90""} ```",18.478790283203125
+luxwort-1868-09-23-a-i0011,2510,2518,Englands,Q21,LOC,Q21,England,"```json {""wikipedia_page"": ""England"", ""wikidata_id"": ""Q21""} ```",16.02838897705078
+luxwort-1868-09-23-a-i0011,2534,2539,Paris,Q90,LOC,Q90,Paris,"Based on the context and the text provided, the entity mentioned between the [ENT] tags in the input text is ""Paris"". The most appropriate Wikidata entity from the given list of candidates matches this entity. Here is the JSON response: ```json { ""wikipedia_page"": ""Paris"", ""wikidata_id"": ""Q90"" } ```",19.566343307495117
+luxwort-1868-09-23-a-i0011,2602,2619,Herrn de Moustier,Q3271672,PER,Q3271672,Léonel de Moustier,"```json {""wikipedia_page"": ""Léonel de Moustier"", ""wikidata_id"": ""Q3271672""} ```",17.258859634399414
+luxwort-1868-09-23-a-i0011,2909,2916,Florenz,Q2044,LOC,Q2044,Florenz,,21.498851776123047
+luxwort-1868-09-23-a-i0011,3157,3164,Florenz,Q2044,LOC,Q2044,Florenz,,22.614713668823242
+luxwort-1868-09-23-a-i0011,3861,3876,Paläste Farnese,Q848386,LOC,Q848386,Palazzo Farnese,"Based on the given input text and the list of candidates, the entities mentioned between the [ENT] tags are ""Palazzo Farnese"" and ""Paläste Farnese"". The most appropriate Wikidata entities from the list of candidates for these entities are ""Palazzo Farnese"" and ""Palazzo Farnese"" respectively. Here is the JSON-formatted answer: ```json { ""wikipedia_page"": ""Palazzo Farnese"", ""wikidata_id"": ""Q848386"" } ```",14.919739723205566
+luxwort-1868-09-23-a-i0011,4077,4083,"K. Bl,",NIL,PROD,NIL,"K. Bl,",no,0
+luxwort-1868-12-18-a-i0004,17,32,Stadt Luxemburg,Q1842,LOC,Q1842,Luxemburg,,26.36945343017578
+luxwort-1878-04-30-a-i0006,3153,3157,Haag,Q36600,LOC,Q36600,Den Haag,,22.145565032958984
+luxwort-1878-05-14-a-i0001,513,526,Neu-©üb>WaleS,Q3224,LOC,Q3224,New South Wales,"Based on the provided text and candidates list, the entity mentioned between the [ENT] tags is ""Neu-<C>Wales"". The most appropriate Wikidata entity from the candidates list is ""New South Wales"" with the Wikipedia page title ""New South Wales"" and Wikidata ID ""Q3224"". Here is the JSON-formatted response: ```json {""wikipedia_page"": ""New South Wales"", ""wikidata_id"": ""Q3224""} ```",16.811464309692383
+luxwort-1878-05-14-a-i0001,960,973,Neu-Süb-Wales,Q3224,LOC,Q3224,New South Wales,,23.744070053100586
+luxwort-1878-05-14-a-i0001,1203,1214,N.-S.°WaleS,Q3224,LOC,Q3224,New South Wales,"Based on the provided text and the list of candidates, the entity mentioned in the text is ""N.-S.°WaleS"" (New South Wales). The most appropriate Wikidata entity from the given list is: ```json { ""wikipedia_page"": ""New South Wales"", ""wikidata_id"": ""Q3224"" } ```",19.830907821655273
+luxwort-1878-05-14-a-i0001,2535,2543,Stanforb,NIL,ORG,NIL,Stanforb,no,0
+luxwort-1878-05-14-a-i0001,2646,2657,IameS Swift,NIL,ORG,NIL,IameS Swift,```json {} ```,0
+luxwort-1878-05-14-a-i0001,2659,2665,Darton,NIL,ORG,NIL,Darton,```json {} ```,0
+luxwort-1878-05-14-a-i0001,2667,2674,Vollonb,NIL,ORG,NIL,Vollonb,no,0
+luxwort-1878-05-14-a-i0001,2955,2962,Englanb,Q21,LOC,Q21,England,,22.98036766052246
+luxwort-1878-05-14-a-i0001,3328,3335,Belfast,Q10686,LOC,Q10686,Belfast,,24.615503311157227
+luxwort-1878-05-14-a-i0001,3515,3531,Jones unb Willis,NIL,ORG,NIL,Jones unb Willis,no,0
+luxwort-1878-05-14-a-i0001,3820,3826,Sondon,Q84,LOC,Q84,London,"```json {""wikipedia_page"":""London"", ""wikidata_id"":""Q84""} ```",14.084425926208496
+luxwort-1878-05-14-a-i0001,4961,4968,Englanb,Q21,LOC,Q21,England,"```json { ""wikipedia_page"": ""England"", ""wikidata_id"": ""Q21"" } ```",20.973634719848633
+luxwort-1878-05-14-a-i0001,7254,7260,Hammer,NIL,ORG,NIL,Hammer,no,0
+luxwort-1878-05-14-a-i0001,7456,7481,"?li<e I^it,Lr>tur« 'oei^y",NIL,ORG,NIL,"?li<e I^it,Lr>tur« 'oei^y",no,0
+luxwort-1878-05-14-a-i0001,8696,8702,Exeter,Q134672,LOC,Q134672,Exeter,,22.320690155029297
+luxwort-1878-05-14-a-i0001,9168,9181,Chubb unb Son,NIL,ORG,NIL,Chubb unb Son,```json {} ```,0
+luxwort-1878-05-14-a-i0001,9934,9941,Glasgow,Q4093,LOC,Q4093,Glasgow,,27.76290512084961
+luxwort-1878-05-14-a-i0001,10658,10665,Zuccato,NIL,ORG,NIL,Zuccato,"{""wikipedia_page"": """", ""wikidata_id"": """"}",0
+luxwort-1878-09-17-a-i0009,166,175,Norberney,Q23968,LOC,Q23968,Norderney,"Based on the given text and the list of candidates, the most appropriate entity for the mentioned word ""Norberney"" is ""Norderney"". This is the only candidate that matches the description of a location in the context of the text. ```json {""wikipedia_page"":""Norderney"", ""wikidata_id"":""Q23968""} ```",16.228759765625
+luxwort-1938-01-29-a-i0025,0,11,Frankreichs,Q142,LOC,Q142,Frankreich,,22.692277908325195
+luxwort-1938-01-29-a-i0025,27,32,Paris,Q90,LOC,Q90,Paris,,23.03324317932129
+luxwort-1938-04-11-a-i0066,1249,1314,"86jähriger Prieftergreis, Hr. Linsen Jos. aus Bartringen gebürtig",NIL,PER,NIL,"86jähriger Prieftergreis, Hr. Linsen Jos. aus Bartringen gebürtig",no,0
+luxwort-1938-04-11-a-i0066,1324,1340,Tschechoslowakei,Q33946,LOC,Q33946,Tschechoslowakei,,30.777111053466797
+luxwort-1938-06-29-a-i0018,37,46,Schanghai,Q8686,LOC,Q8686,Shanghai,,32.919063568115234
+luxwort-1938-06-29-a-i0018,229,256,Marschall Tschiang Kai-shek,Q16574,PER,Q16574,Chiang Kai-shek,,22.428071975708008
+luxwort-1938-09-03-a-i0024,76,100,"„Völkischen Beobachters""",Q152564,PROD,Q152564,Völkischer Beobachter,,23.85346221923828
+luxwort-1938-09-03-a-i0024,289,307,Schotten-Gymnasium,Q2249183,ORG,Q2249183,Schottengymnasium,,26.668437957763672
+luxwort-1938-09-03-a-i0024,439,461,"„Völkische Beobachter""",Q152564,PROD,Q152564,Völkischer Beobachter,"```json {""wikipedia_page"":""Völkischer Beobachter"", ""wikidata_id"":""Q152564""} ```",19.480958938598633
+luxwort-1948-03-27-a-i0009,73,80,Schweiz,Q39,LOC,Q39,Schweiz,,25.79897117614746
+luxwort-1948-06-04-a-i0050,66,68,AP,Q40469,ORG,Q40469,Associated Press,,23.68504524230957
+luxwort-1948-06-04-a-i0050,74,124,"südafrikanische Ministerpräsident, Dr. D. F. Malan",Q317449,PER,Q317449,Daniel François Malan,"```json { ""wikipedia_page"": ""Daniel François Malan"", ""wikidata_id"": ""Q317449"" } ```",19.520357131958008
+luxwort-1948-06-04-a-i0050,221,241,Nationalisten-Partei,Q740718,ORG,Q740718,Nationale Partei,,25.67456817626953
+luxwort-1948-06-04-a-i0050,301,317,Afrikaner-Partei,Q3366175,ORG,Q3366175,Afrikanerparty,,25.564970016479492
+luxwort-1948-06-04-a-i0050,406,419,N. C. Havenga,Q3141749,PER,Q3141749,Nicolaas Havenga,,34.22366714477539
+luxwort-1948-06-04-a-i0050,466,481,General Hertzog,Q356395,PER,Q356395,James Barry Munnick Hertzog,,29.905906677246094
+luxwort-1948-06-04-a-i0050,552,568,Dr. E. G. Jansen,Q1170739,PER,Q1170739,Ernest George Jansen,,30.63547134399414
+luxwort-1948-06-04-a-i0050,622,628,Jansen,Q1170739,PER,Q1170739,Ernest George Jansen,,22.30579948425293
+luxwort-1948-06-04-a-i0050,792,798,Reuter,Q130879,ORG,Q130879,Reuters,"``` { ""wikipedia_page"": ""Reuters"", ""wikidata_id"": ""Q130879"" } ```",20.820829391479492
+luxwort-1948-06-04-a-i0050,885,898,Nationalisten,Q740718,ORG,Q740718,Nationale Partei,"```json {""wikipedia_page"": ""Nationale Partei"", ""wikidata_id"": ""Q740718""} ```",13.213308334350586
+luxwort-1948-06-04-a-i0050,928,944,Afrikaner-Partei,Q3366175,ORG,Q3366175,Afrikanerparty,,24.688251495361328
+luxwort-1948-06-04-a-i0050,971,990,Feldmarschall Smuts,Q214321,PER,Q214321,Jan Christiaan Smuts,,23.111835479736328
+luxwort-1948-06-04-a-i0050,994,1005,Athen Athen,Q1524,LOC,Q1524,Athen,,23.630584716796875
+luxwort-1948-06-04-a-i0050,1016,1049,Feldmarschall Jan Christian Smuts,Q214321,PER,Q214321,Jan Christiaan Smuts,,28.677425384521484
+luxwort-1948-06-04-a-i0050,1085,1090,Athen,Q1524,LOC,Q1524,Athen,,24.20473861694336
+luxwort-1948-06-04-a-i0050,1158,1175,Königin Frederika,Q61351,PER,Q61351,Friederike von Hannover,"```json {""wikipedia_page"":""Friederike von Hannover"", ""wikidata_id"":""Q61351""} ```",20.483715057373047
+luxwort-1948-06-04-a-i0050,1184,1231,stellvertretenden Ministerpräsidenten Tsaldaris,Q728875,PER,Q728875,Konstantinos Tsaldaris,"```json { ""wikipedia_page"": ""Konstantinos Tsaldaris"", ""wikidata_id"": ""Q728875"" } ```",15.51784610748291
+luxwort-1948-07-09-a-i0038,29,34,Paris,Q90,LOC,Q90,Paris,,22.691213607788086
+luxwort-1948-07-09-a-i0038,388,412,Flughafen von Le Bourget,Q738719,LOC,Q738719,Flughafen Le Bourget,,26.59649085998535
+luxwort-1948-07-09-a-i0038,479,487,C. G. T.,Q1125638,ORG,Q1125638,CGT,,29.708059310913086
+luxwort-1948-07-09-a-i0038,555,605,Confédération Française des Travailleurs Chrétiens,Q1125610,ORG,Q1125610,CFTC,,31.1392822265625
+luxwort-1948-07-09-a-i0038,842,850,C. G. T.,Q1125638,ORG,Q1125638,CGT,,27.926895141601562
+luxwort-1948-11-11-a-i0044,231,243,Stadt Berlin,Q64,LOC,Q64,Berlin,"```json { ""wikipedia_page"": ""Berlin"", ""wikidata_id"": ""Q64"" } ```",19.934593200683594
+luxwort-1948-11-11-a-i0044,271,285,englische Zone,Q55306,LOC,Q55306,Britische Besatzungszone,"Based on the provided text and the list of candidates, the entity mentioned between the [ENT] tags is likely referring to the ""English zone."" Therefore, the most appropriate Wikidata entity is: ```json {""wikipedia_page"":""Britische Besatzungszone"", ""wikidata_id"":""Q55306""} ```",18.504642486572266
+tageblatt-1918-04-23-a-i0010,988,998,Frankreich,Q142,LOC,Q142,Frankreich,,21.402217864990234
+tageblatt-1918-04-23-a-i0010,1605,1611,London,Q84,LOC,Q84,London,,22.785131454467773
+tageblatt-1918-04-23-a-i0010,1628,1641,New Statesman,Q1566255,PROD,Q1566255,New Statesman,,22.501815795898438
+tageblatt-1918-04-23-a-i0010,1955,1965,Hazebrouck,Q11131,LOC,Q11131,Hazebrouck,,22.454181671142578
+tageblatt-1918-04-23-a-i0010,2490,2496,Reuter,Q130879,ORG,Q130879,Reuters,"{""wikipedia_page"":""Reuters"",""wikidata_id"":""Q130879""}",13.026737213134766
+tageblatt-1918-04-23-a-i0010,2820,2826,Amiens,Q41604,LOC,Q41604,Amiens,,21.98340606689453
+tageblatt-1918-04-23-a-i0010,3025,3036,Bernancourt,NIL,LOC,NIL,Bernancourt,no,0
+tageblatt-1918-04-23-a-i0010,3072,3077,Somme,Q37646,LOC,Q37646,Somme,,24.03672981262207
+tageblatt-1918-04-23-a-i0010,3154,3159,Paris,Q90,LOC,Q90,Paris,,22.290830612182617
+tageblatt-1918-04-23-a-i0010,3242,3252,Alliierten,Q215669,ORG,Q215669,Alliierte des Ersten Weltkrieges,"Based on the analysis of the provided text, the entity mentioned within the [ENT] tags is most likely referring to the ""Alliierte des Ersten Weltkrieges"". This is based on the context of the text discussing a war council of the Allies during World War I. Here is the JSON formatted answer: ```json {""wikipedia_page"": ""Alliierte des Ersten Weltkrieges"", ""wikidata_id"": ""Q215669""} ```",18.377384185791016
+tageblatt-1918-04-23-a-i0010,3322,3329,Balfour,Q19008,PER,Q19008,Arthur Balfour,,26.464019775390625
+tageblatt-1918-04-23-a-i0010,3362,3379,Generale Perfhing,Q272383,PER,Q272383,John J. Pershing,"Based on the provided text and candidates, the entities mentioned between the [ENT] tags are ""John J. Pershing"" and ""General."" Among the provided candidates, the entity ""John J. Pershing"" matches the text. The corresponding Wikipedia page title and Wikidata ID are: ```json {""wikipedia_page"":""John J. Pershing"", ""wikidata_id"":""Q272383""} ```",17.44331932067871
+tageblatt-1918-04-23-a-i0010,3721,3727,Amiens,Q41604,LOC,Q41604,Amiens,,21.98036766052246
+tageblatt-1918-04-23-a-i0010,3801,3806,Lille,Q648,LOC,Q648,Lille,"```json {""wikipedia_page"": ""Lille"", ""wikidata_id"": ""Q648""} ```",20.587125778198242
+tageblatt-1918-04-23-a-i0010,3962,3983,Oberbefehlshaber Foch,Q192615,PER,Q192615,Ferdinand Foch,"Based on the input text, the entity mentioned between [ENT] tags is ""Foch"". The most appropriate Wikidata entity from the given list of candidates is ""Ferdinand Foch"". ```json { ""wikipedia_page"": ""Ferdinand Foch"", ""wikidata_id"": ""Q192615"" } ```",19.97757339477539
+tageblatt-1918-04-23-a-i0010,4047,4105,"Barzini, dem Kriegsberichterstatter des Cmriere della Sera",Q3839317,PER,Q3839317,Luigi Barzini,"```json {""wikipedia_page"":""Luigi Barzini"", ""wikidata_id"":""Q3839317""} ```",11.618127822875977
+tageblatt-1918-04-23-a-i0010,4399,4427,Nieuwe Notterdamsche Courant,Q1989439,PROD,Q1989439,Nieuwe Rotterdamsche Courant,,23.78278923034668
+tageblatt-1918-04-23-a-i0010,4470,4485,Daily Chronicle,Q74707,PROD,Q74707,,,21.719501495361328
+tageblatt-1918-04-23-a-i0010,4670,4680,Frankreich,Q142,LOC,Q142,Frankreich,"```json { ""wikipedia_page"": ""Frankreich"", ""wikidata_id"": ""Q142"" } ```",19.766578674316406
+tageblatt-1918-04-23-a-i0010,4860,4869,Radcliffe,Q3375218,PER,Q3375218,Percy Radcliffe,"```json { ""wikipedia_page"": ""Percy Radcliffe"", ""wikidata_id"": ""Q3375218"" } ```",18.61994743347168
+tageblatt-1918-04-23-a-i0010,5003,5012,Excelsior,NIL,PROD,NIL,Excelsior,no,0
+tageblatt-1918-04-23-a-i0010,5358,5365,Marokko,Q1028,LOC,Q1028,Marokko,"```json { ""wikipedia_page"": ""Marokko"", ""wikidata_id"": ""Q1028"" } ```",20.566442489624023
+tageblatt-1918-04-23-a-i0010,5396,5416,Präsidenten Poincars,Q191974,PER,Q191974,Raymond Poincaré,"Based on the provided text and candidate list, the entity mentioned between the [ENT] tags is ""Raymond Poincaré"". Therefore, the corresponding Wikipedia page title and Wikidata ID are: ```json {""wikipedia_page"":""Raymond Poincaré"", ""wikidata_id"":""Q191974""} ```",13.73278522491455
+tageblatt-1918-04-23-a-i0010,5478,5483,Fochs,Q192615,PER,Q192615,Ferdinand Foch,"Based on the input text and the provided list of candidates, the most appropriate Wikidata entity for the entity tagged with [ENT] is ""Ferdinand Foch"". Here is the JSON-formatted answer: ```json {""wikipedia_page"":""Ferdinand Foch"", ""wikidata_id"":""Q192615""} ```",19.47645378112793
+tageblatt-1918-06-14-a-i0004,50,55,Noyon,Q49831,LOC,Q49831,Noyon,,26.413171768188477
+tageblatt-1918-06-14-a-i0004,225,232,Nenauls,NIL,LOC,NIL,Nenauls,```json {} ```,0
+tageblatt-1918-06-14-a-i0004,766,781,Daily Telegraph,Q192621,PROD,Q192621,The Daily Telegraph,,29.87967872619629
+tageblatt-1918-06-14-a-i0004,1299,1309,Montdidier,Q74308,LOC,Q74308,Montdidier,"Based on the input text and the provided list of candidates, the entity mentioned between the [ENT] tags is ""Montdidier"". The most appropriate Wikidata entity from the list of candidates is: ```json {""wikipedia_page"": ""Montdidier"", ""wikidata_id"": ""Q74308""} ```",14.832147598266602
+tageblatt-1918-06-14-a-i0004,2245,2255,Montdidier,Q74308,LOC,Q74308,Montdidier,"```json {""wikipedia_page"": ""Montdidier"", ""wikidata_id"": ""Q74308""} ```",16.90106201171875
+tageblatt-1918-06-14-a-i0004,2345,2350,Temps,Q639137,PROD,Q639137,Le Temps,"Based on the provided input text and the list of candidates, the entity mentioned between the [ENT] tags is ""Le Temps"". Therefore, the corresponding Wikipedia page title and Wikidata ID of the selected entity are: ```json {""wikipedia_page"":""Le Temps"", ""wikidata_id"":""Q639137""} ```",14.686141967773438
+tageblatt-1918-06-14-a-i0004,2866,2878,Gustav Herve,Q764182,PER,Q764182,Gustave Hervé,,34.68689727783203
+tageblatt-1918-06-14-a-i0004,3163,3169,Calais,Q6454,LOC,Q6454,Calais,"Based on the provided text and list of candidates, the most appropriate Wikidata entity for the entity tagged with [ENT] is ""Calais"". ```json {""wikipedia_page"":""Calais"", ""wikidata_id"":""Q6454""} ```",18.283039093017578
+tageblatt-1918-06-14-a-i0004,3174,3180,Ämiens,Q41604,LOC,Q41604,Amiens,"```json {""wikipedia_page"":""Amiens"", ""wikidata_id"":""Q41604""} ```",15.485448837280273
+tageblatt-1918-06-14-a-i0004,3978,3983,Paris,Q90,LOC,Q90,Paris,,22.472177505493164
+tageblatt-1918-06-14-a-i0004,4110,4115,Paris,Q90,LOC,Q90,Paris,,22.78737449645996
+tageblatt-1918-06-14-a-i0004,4204,4210,Europa,Q46,LOC,Q46,Europa,,22.766159057617188
+tageblatt-1918-06-14-a-i0004,4271,4282,Frankreichs,Q142,LOC,Q142,Frankreich,"```json {""wikipedia_page"":""Frankreich"", ""wikidata_id"":""Q142""} ```",18.031394958496094
+tageblatt-1918-06-14-a-i0004,4472,4477,Paris,Q90,LOC,Q90,Paris,"Based on the input text, the entity ""Paris"" appears to be a city, and the context suggests it is the city of Paris, France. Therefore, the most appropriate Wikidata entity from the list of candidates is the one with Wikidata ID ""Q90"" and the Wikipedia page title ""Paris"". Here is the JSON-formatted answer: ```json {""wikipedia_page"":""Paris"", ""wikidata_id"":""Q90""} ```",18.619266510009766
+tageblatt-1918-06-14-a-i0004,4571,4577,Reuter,Q130879,PROD,Q130879,Reuters,"```json {""wikipedia_page"":""Reuters"",""wikidata_id"":""Q130879""} ```",19.06308364868164
+tageblatt-1918-06-14-a-i0004,4589,4599,Washington,Q61,LOC,Q61,"Washington, D.C.",,23.117877960205078
+tageblatt-1918-06-14-a-i0004,4732,4742,Frankreich,Q142,LOC,Q142,Frankreich,"{ ""wikipedia_page"": ""Frankreich"", ""wikidata_id"": ""Q142"" }",20.4017276763916
+tageblatt-1928-02-15-a-i0018,0,5,Paris,Q90,LOC,Q90,Paris,,21.462411880493164
+tageblatt-1928-02-15-a-i0018,718,742,Generalgouverneurs Steeg,Q717905,PER,Q717905,Théodore Steeg,"The text contains the entity ""Generalgouverneur Steeg"". Based on the provided list of candidates, the most appropriate Wikidata entity is: - Wikipedia Page: ""Théodore Steeg"" - Wikidata ID: ""Q717905"" Here is the JSON response: ```json {""wikipedia_page"":""Théodore Steeg"", ""wikidata_id"":""Q717905""} ```",15.062979698181152
+tageblatt-1928-02-15-a-i0018,894,899,Paris,Q90,LOC,Q90,Paris,,21.78853988647461
+tageblatt-1928-02-15-a-i0018,969,976,Laeasze,NIL,PER,NIL,Laeasze,no,0
+tageblatt-1928-02-15-a-i0018,1043,1049,Berlin,Q64,LOC,Q64,Berlin,"Based on the provided text and candidates, the entity mentioned between the [ENT] tags is ""Berlin"". The most appropriate Wikidata entity is: ```json { ""wikipedia_page"": ""Berlin"", ""wikidata_id"": ""Q64"" } ```",19.411836624145508
+tageblatt-1928-02-15-a-i0018,1067,1085,Berliner Tageblatt,Q455014,PROD,Q455014,Berliner Tageblatt,,32.30754089355469
+tageblatt-1928-02-15-a-i0018,1098,1107,Wiesbaden,Q1721,LOC,Q1721,Wiesbaden,,29.00444221496582
+tageblatt-1928-02-15-a-i0018,1142,1159,Frankfurt am Main,Q1794,LOC,Q1794,Frankfurt am Main,,27.03338623046875
+tageblatt-1928-02-15-a-i0018,1218,1229,Saarbrücken,Q1724,LOC,Q1724,Saarbrücken,,24.35068130493164
+tageblatt-1928-02-15-a-i0018,1621,1629,Butarest,Q19660,LOC,Q19660,Bukarest," Based on the input text, the entity mentioned between the [ENT] tags is ""Butarest"". The most appropriate Wikidata entity from the provided list of candidates is: ```json {""wikipedia_page"": ""Bukarest"", ""wikidata_id"": ""Q19660""} ```",17.52141761779785
+tageblatt-1928-02-15-a-i0018,1781,1787,London,Q84,LOC,Q84,London,,23.394168853759766
+tageblatt-1928-02-15-a-i0018,1818,1825,NewYork,Q60,LOC,Q60,New York City,,24.125429153442383
+tageblatt-1928-02-15-a-i0018,2074,2082,Plunlett,Q5081605,PER,Q5081605,Charles Peshall Plunkett,"Based on the provided input text and the list of candidates, the entity mentioned between the [ENT] tags is ""Plunkeii"". Given the context and the list of candidates, the most appropriate Wikidata entity is: ```json {""wikipedia_page"":""Charles Peshall Plunkett"", ""wikidata_id"":""Q5081605""} ```",12.798096656799316
+tageblatt-1928-05-09-a-i0020,263,270,Belgien,Q31,LOC,Q31,Belgien,,21.53092384338379
+tageblatt-1928-05-09-a-i0020,351,358,Belgien,Q31,LOC,Q31,Belgien,"Based on the provided input text and list of candidates, the entity mentioned between the [ENT] tags is ""Belgien"". The most appropriate Wikidata entity from the list of candidates is: ```json {""wikipedia_page"":""Belgien"", ""wikidata_id"":""Q31""} ```",21.253257751464844
+tageblatt-1928-05-09-a-i0020,1437,1451,Jules Le Ieune,Q2550037,PER,Q2550037,Jules Lejeune,,28.070363998413086
+tageblatt-1928-05-09-a-i0020,2571,2582,Epaminondas,Q190436,PER,Q190436,Epaminondas,,26.33761978149414
+tageblatt-1928-05-09-a-i0020,2672,2679,LeuKtra,NIL,PER,NIL,LeuKtra,No.,0
+tageblatt-1928-05-09-a-i0020,2684,2691,Montima,NIL,PER,NIL,Montima,no,0
+tageblatt-1928-05-09-a-i0020,3202,3212,Luxemburgs,Q32,LOC,Q32,Luxemburg,,23.02592658996582
+tageblatt-1938-08-05-a-i0057,232,241,Litwinows,Q310100,PER,Q310100,Maxim Maximowitsch Litwinow,,25.406219482421875
+tageblatt-1938-08-05-a-i0057,370,381,Sowjetunion,Q15180,LOC,Q15180,Sowjetunion,,26.43875503540039
+tageblatt-1938-08-05-a-i0057,579,585,Stalin,Q855,PER,Q855,Josef Stalin,"```json { ""wikipedia_page"": ""Josef Stalin"", ""wikidata_id"": ""Q855"" } ```",20.033239364624023
+tageblatt-1938-11-08-a-i0056,21,37,Tschechoslowakei,Q33946,LOC,Q33946,Tschechoslowakei,,25.819984436035156
+tageblatt-1938-11-08-a-i0056,81,85,Prag,Q1085,LOC,Q1085,Prag,,25.940853118896484
+tageblatt-1938-11-08-a-i0056,253,261,Budapest,Q1781,LOC,Q1781,Budapest,,27.143754959106445
+tageblatt-1938-11-08-a-i0056,304,312,Budapest,Q1781,LOC,Q1781,Budapest,,23.895618438720703
+tageblatt-1938-11-08-a-i0056,314,320,London,Q84,LOC,Q84,London,,25.74063491821289
+tageblatt-1938-11-08-a-i0056,392,400,Daily SS,Q210534,ORG,Q210534,Daily Mail,"```json { ""wikipedia_page"": ""Daily Mail"", ""wikidata_id"": ""Q210534"" } ```",13.319289207458496
+tageblatt-1938-11-08-a-i0056,416,424,Budapest,Q1781,LOC,Q1781,Budapest,,26.289411544799805
+tageblatt-1938-11-08-a-i0056,556,572,Tschechoslowakei,Q33946,LOC,Q33946,Tschechoslowakei,,28.252613067626953
+tageblatt-1938-11-08-a-i0056,634,642,Warschau,Q270,LOC,Q270,Warschau,,25.394704818725586
+tageblatt-1938-11-08-a-i0056,677,681,"Pra""",Q1085,LOC,Q1085,Prag,"To disambiguate the entity mentioned between the [ENT] tags, we need to analyze the context and select the most appropriate Wikidata entity from the given list of candidates. The provided text mentions the word ""Pra"" in the context of the Polish ambassador in Prague. Given the candidates, the most appropriate Wikidata entity is ""Prag"", which is the capital of the Czech Republic. Here is the JSON-formatted answer: ```json {""wikipedia_page"":""Prag"", ""wikidata_id"":""Q1085""} ```",16.54172134399414
+tageblatt-1938-11-08-a-i0056,707,715,Warschau,Q270,LOC,Q270,Warschau,,29.188270568847656
+tageblatt-1938-11-08-a-i0056,800,818,Tschecho. slowakei,Q33946,LOC,Q33946,Tschechoslowakei,,25.19252586364746
+tageblatt-1938-11-08-a-i0056,840,856,Tschechoslowakei,Q33946,LOC,Q33946,Tschechoslowakei,,26.484771728515625
+tageblatt-1938-11-08-a-i0056,905,928,Sudetendeutschen Partei,Q678584,ORG,Q678584,Sudetendeutsche Partei,,35.95928192138672
+tageblatt-1938-11-08-a-i0056,1193,1216,sudetendeutschen Partei,Q678584,ORG,Q678584,Sudetendeutsche Partei,,34.90726089477539
+tageblatt-1938-11-08-a-i0056,1604,1612,Neuwirth,Q12019026,PER,Q12019026,Hans Neuwirth,,27.733734130859375
+tageblatt-1938-11-08-a-i0056,1621,1636,Senator Kröazot,NIL,PER,NIL,Senator Kröazot,no,0
+tageblatt-1938-11-08-a-i0056,1713,1726,Sudetengebiet,Q194242,LOC,Q194242,Sudetenland,"Based on the input text and the provided list of candidates, the entity mentioned between the [ENT] tags is ""Sudetengebiet"". The most appropriate Wikidata entity from the given list of candidates is: ```json {""wikipedia_page"": ""Sudetenland"", ""wikidata_id"": ""Q194242""} ```",21.331789016723633
+tageblatt-1948-07-29-a-i0034,42,49,Belgrad,Q3711,LOC,Q3711,Belgrad,,30.015974044799805
+tageblatt-1948-07-29-a-i0034,77,92,Minister Djilas,Q153909,PER,Q153909,Milovan Đilas,"Based on the provided text and the list of candidates, the most appropriate Wikidata entity for the entity mentioned in the [ENT] tags is Milovan Đilas. Here is the JSON-formatted answer: ```json { ""wikipedia_page"": ""Milovan Đilas"", ""wikidata_id"": ""Q153909"" } ```",14.688726425170898
+tageblatt-1948-07-29-a-i0034,527,560,russischen kommunistischen Partei,Q79854,ORG,Q79854,Kommunistische Partei der Sowjetunion,,29.346628189086914
+tageblatt-1948-07-29-a-i0034,591,623,jugoslawischen kommunist. Partei,Q641691,ORG,Q641691,Bund der Kommunisten Jugoslawiens,,25.095584869384766
+tageblatt-1948-07-29-a-i0034,650,659,Marxismus,Q7264,PROD,Q7264,Marxismus,,25.82250213623047
+tageblatt-1948-07-29-a-i0034,664,674,Leninismus,Q155059,PROD,Q155059,Leninismus,,28.78555679321289
+tageblatt-1948-07-29-a-i0034,899,936,jugoslawische kommunistische Par- tei,Q641691,ORG,Q641691,Bund der Kommunisten Jugoslawiens,,22.23710823059082
+tageblatt-1948-07-29-a-i0034,1200,1208,Albanien,Q222,LOC,Q222,Albanien,"Based on the input text and the provided list of candidates, the entity mentioned between the [ENT] tags is likely referring to the historical state of Albanien. The most appropriate Wikidata entity from the given list is: ```json {""wikipedia_page"": ""Albanien"", ""wikidata_id"": ""Q222""} ```",20.546810150146484
+tageblatt-1948-07-29-a-i0034,1305,1315,Bulgariens,Q219,LOC,Q219,Bulgarien,"Based on the input text and the provided list of candidates, the entity mentioned between the [ENT] tags is likely referring to ""Bulgarien"" or ""Bulgarisch"" as they are the only entities related to Bulgaria or its language. Both entities are present in the list of candidates and match the context. Given the context, the most appropriate Wikidata entity to select is ""Bulgarien"" (Wikidata ID: Q219), as it is a state in Southeast Europe and fits the context of the text. Here is the JSON-formatted answer: ```json { ""wikipedia_page"": ""Bulgarien"", ""wikidata_id"": ""Q219"" } ```",19.150482177734375
+tageblatt-1948-07-29-a-i0034,1320,1329,Albaniens,Q222,LOC,Q222,Albanien,"```json { ""wikipedia_page"": ""Albanien"", ""wikidata_id"": ""Q222"" } ```",19.173768997192383
+tageblatt-1948-07-29-a-i0034,1492,1501,Marxismus,Q7264,PROD,Q7264,Marxismus,,27.35991096496582
+tageblatt-1948-07-29-a-i0034,1510,1520,Leninismus,Q155059,PROD,Q155059,Leninismus,,27.79293441772461

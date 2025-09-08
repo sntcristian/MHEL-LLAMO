@@ -1,0 +1,636 @@
+doc_id,start_pos,end_pos,surface,gt_id,type,identifier,title,answer,score
+EXP-1798-01-04-a-i0005,41,63,Charlotte née Bourgoin,NIL,PER,Q75317700,Charlotte de Bourbon,,24.346643447875977
+EXP-1798-01-04-a-i0005,74,87,Joseph Digiez,NIL,PER,Q3185851,Joseph de Lévis-Gaudiez,,30.440139770507812
+EXP-1798-01-04-a-i0005,92,108,Maurice Bourgoin,NIL,PER,Q5583761,Maurice Bourguin,,28.732677459716797
+EXP-1798-01-04-a-i0005,210,224,Conseil d'Etat,NIL,ORG,Q769657,Conseil d'État,,23.135080337524414
+EXP-1798-01-04-a-i0005,343,365,Jean-Baptiste Bourgoin,NIL,PER,Q106301283,Jean-Baptiste-François de Bourgeon,,29.993371963500977
+EXP-1798-01-04-a-i0005,1142,1176,Frédéric-Henri _Lequin de Fleurier,NIL,PER,Q3092505,Félix Lequien,,23.971765518188477
+EXP-1798-01-04-a-i0005,1183,1202,Marie-Louise Meuron,NIL,PER,Q3292670,Marie Louise Mignot,,26.557435989379883
+EXP-1798-01-04-a-i0005,1249,1258,Alexandre,NIL,PER,Q2833898,Alexandre Méchin,,22.58196258544922
+EXP-1798-01-04-a-i0005,1262,1284,Louise -Rosalio Lequin,NIL,PER,Q1647537,Louise-Félicité de Kéralio,,26.393260955810547
+EXP-1798-01-04-a-i0005,1504,1525,Frédéric Henri Lequin,NIL,PER,Q21369851,Louis Henri René Dequin,,23.40509796142578
+EXP-1798-01-04-a-i0005,1675,1689,Val de-Travers,Q70526,LOC,NIL,Val de-Travers,no,0
+EXP-1798-02-15-a-i0004,74,83,Neuchatel,Q69345,LOC,NIL,Neuchatel,no,0
+EXP-1798-02-15-a-i0004,1996,2045,"Jean-Frédéric Borel, maître charpentier à Couve t",NIL,PER,Q18578258,Antoine-Charles-Thérèse Borel,"```json { ""wikipedia_page"": ""Jean-Frédéric Borel"", ""wikidata_id"": ""Q18578258"" } ```",17.163970947265625
+EXP-1798-02-15-a-i0004,3043,3051,Chaumont,Q1068390,LOC,Q193880,Chaumont,"```json {""wikipedia_page"":""Chaumont"", ""wikidata_id"":""Q193880""} ```",18.781917572021484
+EXP-1798-02-15-a-i0004,3558,3594,"M. le greffier Péter, son secrétaire",NIL,PER,Q80687,secrétaire,"```json {""wikipedia_page"":""secrétaire"", ""wikidata_id"":""Q80687""} ```",9.373659133911133
+EXP-1808-09-01-a-i0001,1088,1102,Chaux-de Fonds,Q68124,LOC,NIL,Chaux-de Fonds,No.,0
+EXP-1808-09-01-a-i0001,1228,1233,Jacob,NIL,PER,Q3159045,Jacques Guay,"{""wikipedia_page"":""Jacques Jacob Guye"", ""wikidata_id"":""Q3159045""}",17.7403507232666
+EXP-1808-09-01-a-i0001,1242,1253,Jaques Guye,NIL,PER,Q3158382,Jacques Boyé,,23.33294677734375
+EXP-1808-09-01-a-i0001,1259,1268,Verrières,Q69807,LOC,NIL,Verrières,"```json { ""wikipedia_page"": """", ""wikidata_id"": """" } ```",0
+EXP-1808-09-01-a-i0001,1425,1434,Verrières,Q69807,LOC,Q780175,Verrières,"{ ""wikipedia_page"": ""Verrières"", ""wikidata_id"": ""Q780175"" }",14.389975547790527
+EXP-1808-09-01-a-i0001,1768,1777,Verrières,Q69807,LOC,NIL,Verrières,no,0
+EXP-1808-09-01-a-i0001,1954,2022,"M. Charles-Guillaume Bonvêpre, membre du Grand-Conseil et hôpitalier",NIL,PER,Q2958101,Charles-Guillaume de Maupeou,"```json { ""wikipedia_page"": ""Charles-Guillaume de Maupeou"", ""wikidata_id"": ""Q2958101"" } ```",13.117376327514648
+EXP-1808-09-01-a-i0001,2899,2910,Henri Favre,NIL,PER,Q2510810,Henri-Louis Favre,,23.823402404785156
+EXP-1808-09-01-a-i0001,2915,2922,Villard,NIL,LOC,Q696499,Villard-de-Lans,"```json { ""wikipedia_page"": ""Villard-de-Lans"", ""wikidata_id"": ""Q696499"" } ```",17.361520767211914
+EXP-1808-09-01-a-i0001,2938,2960,Jeanne-Marie née Morel,NIL,PER,Q1535197,Jean-Marie Morel,,22.094188690185547
+EXP-1808-09-01-a-i0001,2971,2988,Jean-Daniel Favre,NIL,PER,Q3171959,Jean Fabre,,24.40005874633789
+EXP-1808-09-01-a-i0001,3502,3520,Marianne Perrenoud,NIL,PER,Q5998156,Marie Dénarnaud,,22.028980255126953
+EXP-1808-09-01-a-i0001,3571,3588,Judith née Jaquet,NIL,PER,Q2733546,Judith de Bretagne,"{ ""wikipedia_page"": ""Judith de Bretagne"", ""wikidata_id"": ""Q2733546"" }",18.706497192382812
+EXP-1808-09-01-a-i0001,4678,4687,la _Sagoe,Q68532,LOC,NIL,la _Sagoe,no,0
+EXP-1808-09-01-a-i0001,5173,5180,Yveidon,Q63946,LOC,NIL,Yveidon,no,0
+EXP-1808-09-01-a-i0001,5988,5997,Colombier,Q70339,LOC,Q1011965,Colombier,,27.34648895263672
+EXP-1808-09-01-a-i0001,6175,6184,Colombier,Q70339,LOC,Q1011965,Colombier,,23.422483444213867
+EXP-1808-09-01-a-i0001,6284,6299,M. ne Charrière,NIL,PER,Q315020,Henri Charrière,"Based on the provided input text and candidate list, the entities marked with [ENT] tags are likely referring to ""Charrière"" and ""ne Charrière"" as they appear in the text. Given the list of candidates, the most appropriate Wikidata entity for ""Charrière"" would be ""Henri Charrière"", as it is the only candidate with ""Charrière"" in the name that is a person. For ""ne Charrière"", while the exact match is not available, ""Chartrier-Ferrière"" is the closest candidate available in the list. Here is the JSON output: ```json { ""wikipedia_page"": ""Henri Charrière"", ""wikidata_id"": ""Q315020"" } ``` Since ""ne Charrière"" does not have a direct match and ""Chartrier-Ferrière"" is the closest available option, we include it as well: ```json { ""wikipedia_page"": ""Henri Charrière"", ""wikidata_id"": ""Q315020"", ""wikipedia_page_ne_Charriere"": ""Chartrier-Ferrière"", ""wikidata_id_ne_Charriere"": ""Q177495"" } ",8.35191535949707
+EXP-1808-09-01-a-i0001,6324,6333,Colombier,Q70339,LOC,Q1011965,Colombier,,22.166034698486328
+EXP-1808-09-01-a-i0001,6388,6392,Bôle,Q70472,LOC,NIL,Bôle,No,0
+EXP-1808-09-01-a-i0001,6396,6405,Colombier,Q70339,LOC,Q1011965,Colombier,,22.838481903076172
+EXP-1808-09-01-a-i0001,6557,6566,Chatenaya,NIL,LOC,Q838698,Châtenay,,22.63803482055664
+EXP-1808-09-01-a-i0001,6657,6670,Jean Confesse,NIL,PER,Q24478688,affaire Seznec,,24.780864715576172
+EXP-1808-09-01-a-i0001,7516,7522,Bevaix,Q68700,LOC,Q174257,Beauvais,,26.010082244873047
+EXP-1808-09-01-a-i0001,7560,7583,"J. -J. PERNET, greffier",NIL,PER,Q3173905,Jean Pernet,"Based on the provided text, the entities mentioned are [ENT] J. -J. PERNET, greffier [ENT]. Within the list of candidates, the most appropriate Wikidata entity for ""J. -J. PERNET"" is ""Jean Pernet"" with Wikidata ID Q3173905. The entity ""greffier"" matches with the Wikidata entity ""greffier"" with Wikidata ID Q641208. Here is the JSON response: ```json {""wikipedia_page"":""Jean Pernet"", ""wikidata_id"":""Q3173905""} ```",14.411057472229004
+EXP-1828-06-12-a-i0001,182,197,Samuel Huguenin,NIL,PER,Q3510132,Sébastien Huguenet I,,26.018985748291016
+EXP-1828-06-12-a-i0001,340,363,deJusticeduditColombier,Q70339,LOC,NIL,deJusticeduditColombier,no,0
+EXP-1828-06-12-a-i0001,561,571,Neuveville,Q69476,LOC,Q142490,Neuville,"Based on the provided text and the list of candidates, the entity mentioned between the [ENT] tags is most likely ""Neufville"" from Switzerland. Therefore, the corresponding Wikipedia page title and Wikidata ID are: ```json {""wikipedia_page"": ""Neufville"", ""wikidata_id"": ""Q142490""} ```",18.565067291259766
+EXP-1828-06-12-a-i0001,744,752,Fribourg,Q36378,LOC,NIL,Fribourg,no,0
+EXP-1828-06-12-a-i0001,2499,2562,"Al. Freudenreich, lieutenant d'Avoyer de la Préfecture de Berne",NIL,PER,Q20988145,famille Freudenreich,"Based on the input text and the list of candidates, the entities within the [ENT] tags are ""Al. Freudenreich"" and ""Alb. Freudenreich"". Since ""Freudenreich"" is a common family name, it is not clear which specific entity is referred to in the text. However, if we assume that the name refers to a person, the most appropriate Wikidata entity from the provided list of candidates would be ""famille Freudenreich"" (Q20988145), as it is a family name and is listed as an organization (ORG) with no specific date. Therefore, the JSON response would be: ```json {""wikipedia_page"":""famille Freudenreich"", ""wikidata_id"":""Q20988145""} ```",16.971717834472656
+EXP-1828-06-12-a-i0001,2620,2637,"signéKocH, avocat",NIL,PER,Q40348,avocat ou avocate,"```json { ""wikipedia_page"": ""avocat ou avocate"", ""wikidata_id"": ""Q40348"" } ```",8.50967788696289
+EXP-1828-06-12-a-i0001,5187,5207,"J- HARTMANN, notaire",NIL,PER,Q189010,notaire,"```json {""wikipedia_page"": ""notaire"", ""wikidata_id"": ""Q189010""} ```",14.114540100097656
+EXP-1828-06-12-a-i0001,5291,5321,AL le Comte Louis de Pourtalès,Q60107781,PER,NIL,AL le Comte Louis de Pourtalès,No,0
+EXP-1828-06-12-a-i0001,5327,5332,Ponts,Q68617,LOC,NIL,Ponts,```json {} ```,0
+EXP-1828-06-12-a-i0001,5649,5654,Ponts,Q68617,LOC,NIL,Ponts,no,0
+EXP-1828-06-12-a-i0001,5932,5941,Corcelles,Q67862,LOC,Q275356,Corcelles,,27.03957748413086
+EXP-1828-06-12-a-i0001,6108,6143,"Aîons d'Ivernois, conseiller d'Etat",NIL,PER,Q3090391,Étienne Maynon d'Invault," Based on the provided text and list of candidates, the entity mentioned between the [ENT] tags in the sentence: ""Ensuite des ordres du Gouvernement, [ENT] Aîons d'Ivernois, conseiller d'Etat [ENT] et régisseur de la recettedeFontaine-André, exposera à l'enchère, au plaid de St. Biaise, le Vendredi 13 Juin courant, les deux dîmes en grains de Voëns et d'Enges, qui dépendent de cette recette, et cela aux conditions qui seront lues avant l'enchère."" The most appropriate Wikidata entity is: ```json {""wikipedia_page"":""Étienne Maynon d'Invault"", ""wikidata_id"":""Q3090391""} ```",11.073013305664062
+EXP-1828-06-12-a-i0001,6222,6232,St. Biaise,Q70424,LOC,NIL,St. Biaise,no,0
+EXP-1828-06-12-a-i0001,6291,6296,Voëns,Q70424,LOC,Q838515,Vongnes,"```json { ""wikipedia_page"": ""Vongnes"", ""wikidata_id"": ""Q838515"" } ```",13.627347946166992
+EXP-1828-06-12-a-i0001,6524,6536,Liechtenhann,NIL,PER,Q1451459,Lichtenhain,"Based on the text provided, the entity mentioned within the [ENT] tags appears to be ""Liechtenhann"". After analyzing the given list of candidates, the most appropriate match for the entity ""Liechtenhann"" is: ```json { ""wikipedia_page"": ""Lichtenhain"", ""wikidata_id"": ""Q1451459"" } ``` This selection is based on the name similarity and the context of the text.",12.870665550231934
+EXP-1828-06-12-a-i0001,7456,7461,Globe,Q7736796,PROD,NIL,Globe,```json {} ```,0
+EXP-1828-06-12-a-i0001,7468,7485,Revue britannique,Q28790553,PROD,NIL,Revue britannique,No,0
+EXP-1828-06-12-a-i0001,7643,7653,Arrowsmith,Q301678,PER,NIL,Arrowsmith,```json {} ```,0
+EXP-1828-06-12-a-i0001,7735,7744,Brockhaus,Q62851,PER,Q78371,Hermann Brockhaus,"Given the input text and the list of candidates, the entity mentioned between the [ENT] tags, ""Brockhaus"", is most appropriately disambiguated to the Wikidata entity ""Hermann Brockhaus"". Here is the JSON-formatted answer: ```json { ""wikipedia_page"": ""Hermann Brockhaus"", ""wikidata_id"": ""Q78371"" } ```",19.9078369140625
+EXP-1828-06-12-a-i0001,7795,7801,LeSage,Q267962,PER,Q116201,Georges-Louis Le Sage,"Based on the provided text and the list of candidates, the entity mentioned between the [ENT] tags is ""Le Sage"". The most appropriate Wikidata entity for this is: ```json {""wikipedia_page"":""Georges-Louis Le Sage"", ""wikidata_id"":""Q116201""} ```",21.726369857788086
+EXP-1828-06-12-a-i0001,8370,8377,J. Dorn,NIL,PER,Q2976699,Claude-François Jore,"```json {""wikipedia_page"": ""Claude-François Jore"", ""wikidata_id"": ""Q2976699""} ```",12.33156967163086
+EXP-1828-06-12-a-i0001,9315,9320,Chine,Q29520,LOC,NIL,Chine,```json {} ```,0
+EXP-1828-06-12-a-i0001,9753,9761,Florence,Q2044,LOC,NIL,Florence,no,0
+EXP-1828-06-12-a-i0001,9876,9904,"Em. Alatthey, bottier du Roi",NIL,PER,Q2871488,Auguste de Talhouët-Roy,"Based on the provided input text and the list of candidates, the entity mentioned between the [ENT] tags, ""Al. Alatthey, bottier du Roi"", matches most closely with the candidate: ```json {""wikipedia_page"":""Auguste de Talhouët-Roy"", ""wikidata_id"":""Q2871488""} ```",14.323664665222168
+EXP-1828-06-12-a-i0001,9986,9991,Paris,Q90,LOC,NIL,Paris,no,0
+EXP-1828-06-12-a-i0001,10288,10310,"AI "" -Jeanrenaud-Racle",NIL,PER,Q18222092,René Ravenel,"```json {""wikipedia_page"":""René Ravenel"", ""wikidata_id"":""Q18222092""} ```",8.479089736938477
+EXP-1828-06-12-a-i0001,10338,10342,Inde,Q668,LOC,NIL,Inde,no,0
+EXP-1828-06-12-a-i0001,10962,10969,Palerme,Q2656,LOC,Q1018128,Palermo,"```json {""wikipedia_page"":""Palermo"", ""wikidata_id"":""Q1018128""} ```",14.134075164794922
+EXP-1828-06-12-a-i0001,11481,11494,Samuel Dubois,NIL,PER,Q3483472,Sieur Dubois,,23.27880859375
+EXP-1828-06-12-a-i0001,11498,11507,Colombier,Q70339,LOC,NIL,Colombier,```json {} ```,0
+EXP-1828-06-12-a-i0001,11569,11578,Vaumarcus,Q70467,LOC,NIL,Vaumarcus,```json {} ```,0
+EXP-1828-06-12-a-i0001,12143,12150,Cologne,Q365,LOC,NIL,Cologne,no,0
+EXP-1828-06-12-a-i0001,12225,12232,Alaille,Q536450,ORG,NIL,Alaille,no,0
+EXP-1828-06-12-a-i0001,12360,12378,AI. DeLuzc-De-Luze,NIL,PER,Q11964889,Cognac De Luze,"Based on the input text provided, the entity mentioned between the [ENT] tags is ""C. Steiner, maison de [ENT] AI. DeLuzc-De-Luze [ENT], près la Croix-du-marché, six chaises-, deux tabourets, un lit et une table."" The most appropriate Wikidata entity from the provided list of candidates is ""Cognac De Luze"" with the Wikipedia page title ""Cognac De Luze"" and the Wikidata ID ""Q11964889"". Therefore, the JSON response is: ```json {""wikipedia_page"": ""Cognac De Luze"", ""wikidata_id"": ""Q11964889""} ```",16.24680519104004
+EXP-1858-05-08-a-i0001,183,209,citoyen Jaques-Henri Favre,NIL,PER,Q923619,Jules Favre,"{ ""wikipedia_page"": ""Jules Favre"", ""wikidata_id"": ""Q923619"" }",17.017993927001953
+EXP-1858-05-08-a-i0001,1382,1398,Charles-Frédéric,NIL,PER,Q1065442,Charles Friderich,"Based on the provided text and list of candidates, it is clear that the entity mentioned between the [ENT] tags is ""Charles-Frédéric"". The most appropriate Wikidata entity from the given list of candidates is ""Charles Friderich"" (Wikidata ID: Q1065442). Therefore, the JSON-formatted answer is: ```json {""wikipedia_page"": ""Charles Friderich"", ""wikidata_id"": ""Q1065442""} ```",12.95925235748291
+EXP-1858-05-08-a-i0001,3669,3677,de-Fonds,Q68124,LOC,NIL,de-Fonds,```json {} ```,0
+EXP-1858-05-08-a-i0001,3921,3949,"citoyen Simon Fournier, chef",NIL,PER,Q5,être humain,"Based on the input text and the provided list of candidates, the entity tagged with [ENT] is most likely associated with the Wikidata ID Q5 and the Wikipedia page title 'être humain'. The text mentions ""citoyen Simon Fournier,"" suggesting it refers to a human individual. ```json {""wikipedia_page"": ""être humain"", ""wikidata_id"": ""Q5""} ```",9.938117980957031
+EXP-1858-05-08-a-i0001,4072,4080,Fournier,NIL,PER,Q21494576,Fournier,,22.172271728515625
+EXP-1868-04-22-a-i0042,15,30,Grande-Bretagne,Q145,LOC,Q23666,Grande-Bretagne,,25.114778518676758
+EXP-1868-04-22-a-i0042,33,88,"Sir Strafford Norlhcole, secrétaire d'Elat des colonies",Q332650,PER,NIL,"Sir Strafford Norlhcole, secrétaire d'Elat des colonies",no,0
+EXP-1868-04-22-a-i0042,299,346,"général Slaveley, commandant la seconde colonne",Q5082648,PER,NIL,"général Slaveley, commandant la seconde colonne",```json {} ```,0
+EXP-1868-04-22-a-i0042,531,538,Magdala,Q2279371,LOC,NIL,Magdala,```json {} ```,0
+EXP-1868-04-22-a-i0042,647,654,Magdala,Q2279371,LOC,NIL,Magdala,```json {} ```,0
+EXP-1868-04-22-a-i0042,799,807,àSalford,Q1142118,LOC,NIL,àSalford,```json {} ``` None of the candidates seem to match the entity tagged with [ENT] in the text.,0
+EXP-1868-04-22-a-i0042,968,975,Salford,Q1142118,LOC,NIL,Salford,```json {} ```,0
+EXP-1868-04-22-a-i0042,1003,1009,France,Q142,LOC,NIL,France,```json {} ```,0
+EXP-1868-04-22-a-i0042,1284,1299,vallée du Rhône,Q2747791,LOC,Q602,Rhône,,23.21628761291504
+EXP-1868-04-22-a-i0042,1511,1516,Berne,Q11911,LOC,Q2326511,Ville et république de Berne,"```json { ""wikipedia_page"": ""Ville et république de Berne"", ""wikidata_id"": ""Q2326511"" } ```",15.476494789123535
+EXP-1868-04-22-a-i0042,1805,1813,Amérique,Q828,LOC,NIL,Amérique,no,0
+EXP-1868-04-22-a-i0042,2266,2281,VUnion libérale,NIL,PROD,Q3047755,Union libérale,"Based on the provided text, the entity mentioned between the [ENT] tags is ""Union libérale"". From the list of candidates, the appropriate Wikidata entity is: ```json { ""wikipedia_page"": ""Union libérale"", ""wikidata_id"": ""Q3047755"" } ```",9.869513511657715
+EXP-1868-04-22-a-i0042,2937,2959,M. le professeur Desor,NIL,PER,Q84445,Pierre Jean Édouard Desor,"```json { ""wikipedia_page"": ""Pierre Jean Édouard Desor"", ""wikidata_id"": ""Q84445"" } ```",11.374547004699707
+EXP-1868-04-22-a-i0042,3120,3136,l'Union libérale,NIL,PROD,Q17172636,Union libérale,"```json { ""wikipedia_page"": ""Union libérale"", ""wikidata_id"": ""Q17172636"" } ```",14.42605972290039
+EXP-1868-04-22-a-i0042,3450,3472,district du Val-de-Ruz,Q661256,LOC,NIL,district du Val-de-Ruz,no,0
+EXP-1868-04-22-a-i0042,3906,3919,Fontainemclon,Q68544,LOC,Q1163953,Fontaine-Milon,,23.74382781982422
+EXP-1868-04-22-a-i0042,4077,4084,Môliers,NIL,LOC,Q184883,Moulins,,25.363609313964844
+EXP-1878-02-14-a-i0050,67,76,St-Pierre,Q12512,LOC,NIL,St-Pierre,No,0
+EXP-1878-02-14-a-i0050,1227,1231,ROKE,Q220,LOC,NIL,ROKE,no,0
+EXP-1878-02-14-a-i0050,1250,1281,"eardinai-eamerlingue, Mgr Pecei",Q43922,PER,Q1343858,Enrico Pea,"Based on the analysis of the input text, the entity mentioned between the [ENT] tags is ""Mgr Pecei."" The most appropriate Wikidata entity from the provided list of candidates is: ```json { ""wikipedia_page"": ""Mgr Pecei"", ""wikidata_id"": ""Q1343858"" } ```",11.128096580505371
+EXP-1878-02-14-a-i0050,2318,2330,Morning-Post,Q1750567,PROD,NIL,Morning-Post,No,0
+EXP-1878-02-14-a-i0050,2355,2373,empereur Guillaume,Q150652,PER,Q2677,Guillaume II,"```json { ""wikipedia_page"": ""Guillaume II"", ""wikidata_id"": ""Q2677"" } ```",20.5689754486084
+EXP-1878-02-14-a-i0050,2402,2411,Reichstag,Q160208,ORG,NIL,Reichstag,```json {} ```,0
+EXP-1878-02-14-a-i0050,2699,2705,Russie,Q34266,LOC,NIL,Russie,```json {} ```,0
+EXP-1878-02-14-a-i0050,2712,2719,Turquie,Q43,LOC,NIL,Turquie,```json {} ```,0
+EXP-1878-02-14-a-i0050,3204,3210,Berlin,Q64,LOC,NIL,Berlin,"```json {} ``` The entity ""Berlin"" is a well-known city but the exact context in the provided text is not making it a clear choice among the given candidates. Given the text mentions ""Le prince Gortschakoff a envoyé aux ambassadeurs russes à [ENT] Berlin [ENT], Vienne, Londres, Paris et Rome en date du 10 février,"" it's clear the intention is to refer to the city of Berlin, but the candidates do not include the diplomatic context. Therefore, none of the candidates match with high confidence the entity tagged with [ENT].",0
+EXP-1878-02-14-a-i0050,3238,3242,Rome,Q220,LOC,NIL,Rome,"```json {""wikipedia_page"":"""", ""wikidata_id"":""""} ```",0
+EXP-1878-02-14-a-i0050,4053,4070,grand duc Nicolas,Q160869,PER,Q130734,Nicolas Ier de Russie,"```json {""wikipedia_page"":""Nicolas I de Russie"",""wikidata_id"":""Q130734""} ```",17.73299217224121
+EXP-1918-09-10-a-i0035,736,742,Suisse,Q39,LOC,NIL,Suisse,no,0
+EXP-1918-09-10-a-i0035,1827,1840,Echo de Grèce,NIL,PROD,Q1062944,Voix de la Grèce,"Based on the provided input text and the list of candidates, the entity mentioned between the [ENT] tags (""Echo de Grèce"") can be disambiguated as follows: ```json {""wikipedia_page"":""Echo de Grèce"", ""wikidata_id"":""Q1062944""} ```",15.503247261047363
+EXP-1918-09-10-a-i0035,2481,2492,Jnnod-Bloch,Q3188436,PER,Q3170801,Jean Blot,"```json { ""wikipedia_page"": ""Jean Bloch"", ""wikidata_id"": ""Q3170801"" } ```",18.580917358398438
+EXP-1918-09-10-a-i0035,2537,2543,Suisse,NIL,PROD,Q39,Suisse,"```json {""wikipedia_page"": ""Suisse"", ""wikidata_id"": ""Q39""} ```",16.96878433227539
+EXP-1918-09-10-a-i0035,2803,2812,Allemagne,Q183,LOC,Q43287,Empire allemand,"```json { ""wikipedia_page"": ""Empire allemand"", ""wikidata_id"": ""Q43287"" } ```",14.172235488891602
+EXP-1918-09-10-a-i0035,2957,3001,"Metallum, société anonyme avec siège à Berne",NIL,ORG,Q1728061,,"Based on the input text, the entity mentioned between the [ENT] tags is ""Metallum."" From the list of candidates, the most appropriate Wikidata entity corresponding to ""Metallum"" is: ```json {""wikipedia_page"":"""", ""wikidata_id"":""Q1728061""} ```",13.644290924072266
+EXP-1918-09-10-a-i0035,3067,3075,A. E. G.,Q158276,ORG,NIL,A. E. G.,no,0
+EXP-1918-09-10-a-i0035,3079,3085,Berlin,Q31910791,LOC,NIL,Berlin,no,0
+EXP-1918-09-10-a-i0035,3992,3997,Bloch,Q3188436,PER,NIL,Bloch,No,0
+EXP-1918-09-10-a-i0035,4179,4187,M. Bloch,Q3188436,PER,NIL,M. Bloch,No.,0
+EXP-1918-09-10-a-i0035,4503,4511,M. Bloch,Q3188436,PER,Q156585,Marc Bloch,,24.52602767944336
+EXP-1918-09-10-a-i0035,4590,4598,C. F. F.,Q83835,ORG,NIL,C. F. F.,no,0
+EXP-1918-09-10-a-i0035,5544,5554,Decauville,Q240681,ORG,Q17073548,Voitures automobiles Decauville,"```json { ""wikipedia_page"": ""Voitures automobiles Decauville"", ""wikidata_id"": ""Q17073548"" } ```",10.144548416137695
+EXP-1918-09-10-a-i0035,5908,5918,Decauville,Q240681,ORG,NIL,Decauville,```json {} ```,0
+EXP-1918-09-10-a-i0035,5925,5931,Suisse,Q39,LOC,NIL,Suisse,no,0
+EXP-1918-09-10-a-i0035,7444,7452,FRIBOURG,Q25621447,LOC,Q36378,Fribourg,,27.07772445678711
+EXP-1918-09-10-a-i0035,7705,7712,Liberté,NIL,PROD,Q1303632,La Liberté,"```json {""wikipedia_page"":""La Liberté"", ""wikidata_id"":""Q1303632""} ```",8.291935920715332
+EXP-1918-09-10-a-i0035,8190,8197,Hongrie,Q28,LOC,NIL,Hongrie,"```json {""wikipedia_page"":"""", ""wikidata_id"":""""} ```",0
+EXP-1918-09-10-a-i0035,8634,8685,"M. Henri Fazy, président du Conseil d'Etat genevois",Q3131072,PER,NIL,"M. Henri Fazy, président du Conseil d'Etat genevois",no,0
+EXP-1918-09-10-a-i0035,8724,8750,"M. Willemin, jeune radical",NIL,PER,Q78075287,Jacques Louis Willemin,"``` { ""wikipedia_page"": ""Jacques Louis Willemin"", ""wikidata_id"": ""Q78075287"" } ```",15.560140609741211
+EXP-1918-12-13-a-i0061,91,103,Zurcher Post,NIL,ORG,Q614803,La Poste suisse,"```json { ""wikipedia_page"": ""La Poste suisse"", ""wikidata_id"": ""Q614803"" } ```",11.852686882019043
+EXP-1918-12-13-a-i0061,144,162,Chambres fédérales,Q684719,ORG,Q517449,Chambre des députés,,23.592336654663086
+EXP-1918-12-13-a-i0061,418,443,Conseil national M. Cossy,Q2156773,PER,Q676078,Conseil national,"```json { ""wikipedia_page"": ""Conseil national"", ""wikidata_id"": ""Q676078"" } ```",16.380937576293945
+EXP-1918-12-13-a-i0061,922,930,M. Ryser,Q18633299,PER,NIL,M. Ryser,no,0
+EXP-1918-12-13-a-i0061,932,944,Jura bernois,Q70,LOC,NIL,Jura bernois,```json {} ```,0
+EXP-1918-12-13-a-i0061,1167,1176,M. Hirter,Q1641554,PER,Q5392722,Hans Hirter,"```json {""wikipedia_page"":""Hans Hirter"", ""wikidata_id"":""Q5392722""} ```",19.51645278930664
+EXP-1918-12-13-a-i0061,1178,1183,Berne,Q70,LOC,NIL,Berne,no,0
+EXP-1918-12-13-a-i0061,1564,1577,Confédération,Q170156,LOC,NIL,Confédération,no,0
+EXP-1918-12-13-a-i0061,2268,2274,Muller,NIL,PER,Q63838,Friedrich-Wilhelm Müller,"Based on the provided text and candidates, the most appropriate Wikidata entity for the entity mentioned between the [ENT] tags is ""Friedrich-Wilhelm Müller"". Here is the JSON-formatted answer: ```json {""wikipedia_page"":""Friedrich-Wilhelm Müller"", ""wikidata_id"":""Q63838""} ```",14.01041030883789
+EXP-1918-12-13-a-i0061,2289,2300,bolchévisme,Q571627,PROD,Q83372,bolchevik,,24.616262435913086
+EXP-1918-12-13-a-i0061,2462,2469,Soleure,Q68965,LOC,NIL,Soleure,```json {} ```,0
+EXP-1918-12-13-a-i0061,2548,2555,Soleure,Q68965,LOC,NIL,Soleure,no,0
+EXP-1918-12-13-a-i0061,2562,2569,Granges,Q68420,LOC,Q1424750,Granges,"Based on the input text, the entity mentioned between the [ENT] tags is ""Granges"". The most appropriate Wikidata entity from the provided list of candidates is: ```json {""wikipedia_page"":""Granges"", ""wikidata_id"":""Q1424750""} ```",13.875737190246582
+EXP-1918-12-13-a-i0061,2713,2723,M. Reymond,Q3302675,PER,Q4392628,Jean-Émile Reymond,,22.26024627685547
+EXP-1918-12-13-a-i0061,3516,3523,M. Musv,Q674180,PER,Q19296072,Max Muss,"Based on the input text provided and the list of candidates, the entity mentioned within the [ENT] tags, ""M. Musv"", matches with the candidate ""Max Muss"". Here is the JSON response: ```json { ""wikipedia_page"": ""Max Muss"", ""wikidata_id"": ""Q19296072"" } ```",16.588518142700195
+EXP-1918-12-13-a-i0061,3575,3581,Russie,Q159,LOC,Q2305208,Russie soviétique,"```json { ""wikipedia_page"": ""Russie soviétique"", ""wikidata_id"": ""Q2305208"" } ```",13.559762954711914
+EXP-1918-12-13-a-i0061,3983,3992,M. Graber,Q120363,PER,NIL,M. Graber,```json {} ```,0
+EXP-1918-12-13-a-i0061,4030,4037,M. Musy,Q674180,PER,NIL,M. Musy,no,0
+EXP-1928-05-29-a-i0007,43,70,Feuille d'Avig de Neuchâtel,Q646229,PROD,NIL,Feuille d'Avig de Neuchâtel,```json {} ```,0
+EXP-1928-05-29-a-i0007,96,103,Kellogg,Q193009,PER,NIL,Kellogg,```json {} ```,0
+EXP-1928-05-29-a-i0007,116,121,Havas,Q516033,ORG,Q2826560,Agence Havas,"{""wikipedia_page"":""Agence Havas"", ""wikidata_id"":""Q2826560""} Explanation: The entity ""Havas"" mentioned between the [ENT] tags in the text refers to the ""Agence Havas"" from the list of candidates.",9.740655899047852
+EXP-1928-05-29-a-i0007,181,191,M. Kellogg,Q193009,PER,NIL,M. Kellogg,```json {} ```,0
+EXP-1928-05-29-a-i0007,1013,1023,M. Kellogg,Q193009,PER,NIL,M. Kellogg,no,0
+EXP-1928-05-29-a-i0007,1069,1074,Havas,Q516033,ORG,NIL,Havas,```json {} ```,0
+EXP-1928-05-29-a-i0007,1594,1604,Georges II,Q152935,PER,NIL,Georges II,no,0
+EXP-1928-05-29-a-i0007,1614,1624,Constantin,Q152099,PER,Q151773,Constantin II de Grèce,"Given the input text and the list of candidates, the entity ""Constantin II"" appears to be the most fitting choice. The text discusses the return of Georges II, and ""Constantin II"" is the father of Georges II. Here is the JSON response: ```json {""wikipedia_page"":""Constantin II de Grèce"", ""wikidata_id"":""Q151773""} ```",15.975910186767578
+EXP-1928-05-29-a-i0007,1797,1819,Szen _ -f _ o. tl. ard,Q604516,LOC,NIL,Szen _ -f _ o. tl. ard,no,0
+EXP-1928-05-29-a-i0007,1823,1831,BELGRADE,Q3711,LOC,NIL,BELGRADE,no,0
+EXP-1928-05-29-a-i0007,1837,1842,Havas,Q516033,ORG,NIL,Havas,no.,0
+EXP-1928-05-29-a-i0007,1890,1897,Novosti,Q1192921,PROD,Q7065072,Novosti AD,"Based on the provided input text and the list of candidates, the entity mentioned between the [ENT] tags is ""Novosti"". Here is the JSON-formatted answer: ```json {""wikipedia_page"":""Novosti AD"", ""wikidata_id"":""Q7065072""} ```",18.154052734375
+EXP-1928-05-29-a-i0007,2472,2477,Havas,Q516033,ORG,Q2826560,Agence Havas,"```json {""wikipedia_page"":""Agence Havas"",""wikidata_id"":""Q2826560""} ```",14.105329513549805
+EXP-1928-05-29-a-i0007,2547,2552,lande,Q55,LOC,Q12563,Landes,"Based on the given text and the list of candidates, the entity mentioned between the [ENT] tags ""lande [ENT] -Uruguay"" most likely refers to the ""Landes"" department in France. Therefore, the corresponding Wikipedia page title and Wikidata ID are: ```json { ""wikipedia_page"": ""Landes"", ""wikidata_id"": ""Q12563"" } ```",8.864653587341309
+EXP-1928-05-29-a-i0007,2553,2560,Uruguay,Q77,LOC,Q134916,équipe d'Uruguay de football,,22.387592315673828
+EXP-1928-05-29-a-i0007,2918,2932,Silésie BERLIN,Q64,LOC,Q81720,Silésie,"```json { ""wikipedia_page"": ""Silésie"", ""wikidata_id"": ""Q81720"" } ```",18.009244918823242
+EXP-1928-05-29-a-i0007,2938,2943,Wolff,Q552226,ORG,NIL,Wolff,no,0
+EXP-1928-05-29-a-i0007,3045,3056,Reichenbach,Q157462,LOC,NIL,Reichenbach,```json {} ```,0
+EXP-1928-05-29-a-i0007,3060,3071,Schweitnitz,Q387396,LOC,NIL,Schweitnitz,```json {} ```,0
+EXP-1928-05-29-a-i0007,3385,3396,Schweitnitz,Q387396,LOC,Q884127,Schweinitz,"```json {""wikipedia_page"":""Schweinitz"", ""wikidata_id"":""Q884127""} ```",19.074460983276367
+EXP-1928-05-29-a-i0007,3738,3743,Wolff,Q552226,ORG,Q16739609,Volker Wolff,"Based on the given candidates and the context, the most appropriate Wikidata entity for the mentioned [ENT] tags is ""Volker Wolff"" (journaliste allemand). Here is the JSON-formatted answer: ```json {""wikipedia_page"":""Volker Wolff"", ""wikidata_id"":""Q16739609""} ```",13.356973648071289
+EXP-1928-05-29-a-i0007,3832,3845,ville de Sala,Q930262,LOC,NIL,ville de Sala,no,0
+EXP-1928-05-29-a-i0007,4243,4251,Toujquet,Q323164,LOC,NIL,Toujquet,no,0
+EXP-1928-05-29-a-i0007,4253,4258,PARIS,Q90,LOC,NIL,PARIS,```json {} ```,0
+EXP-1928-05-29-a-i0007,4289,4300,_Tbu * quet,Q323164,LOC,NIL,_Tbu * quet,no,0
+EXP-1928-05-29-a-i0007,4369,4379,Mme Wilson,Q5460813,PER,NIL,Mme Wilson,"```json {""wikipedia_page"":"""", ""wikidata_id"":""""} ```",0
+EXP-1928-05-29-a-i0007,4400,4405,Truay,Q206539,LOC,Q5489,Troyes,,22.352115631103516
+EXP-1928-05-29-a-i0007,4711,4716,Avala,Q31530751,ORG,NIL,Avala,no,0
+EXP-1928-05-29-a-i0007,5059,5064,Havas,Q516033,ORG,NIL,Havas,no,0
+EXP-1928-05-29-a-i0007,5119,5170,"M. César Aseltra, ancien lieutenant-colonel italien",NIL,PER,Q5202590,César Mayoral,"{""wikipedia_page"": ""César Mayoral"", ""wikidata_id"": ""Q5202590""}",8.865901947021484
+EXP-1928-05-29-a-i0007,5289,5296,Wilkins,Q577806,PER,NIL,Wilkins,```json {} ```,0
+EXP-1928-05-29-a-i0007,5300,5307,Eielson,Q2938873,PER,NIL,Eielson,```json {} ```,0
+EXP-1928-05-29-a-i0007,5338,5343,Havas,Q516033,ORG,NIL,Havas,no,0
+EXP-1928-05-29-a-i0007,5352,5369,aviateur. Wilkins,Q577806,PER,NIL,aviateur. Wilkins,no,0
+EXP-1928-05-29-a-i0007,5373,5380,EielsOn,Q2938873,PER,NIL,EielsOn,No,0
+EXP-1928-05-29-a-i0007,5535,5544,Chantoung,Q43407,LOC,NIL,Chantoung,no,0
+EXP-1928-05-29-a-i0007,5557,5562,Havas,Q516033,ORG,NIL,Havas,```json {} ```,0
+EXP-1928-05-29-a-i0007,5620,5627,Londres,Q84,LOC,NIL,Londres,```json {} ```,0
+EXP-1928-05-29-a-i0007,5644,5649,Tokio,Q1490,LOC,NIL,Tokio,```json {} ```,0
+EXP-1928-05-29-a-i0007,5779,5788,Chantoung,Q43407,LOC,Q59100,Shantou,"```json { ""wikipedia_page"": ""Shantou"", ""wikidata_id"": ""Q59100"" } ```",12.292864799499512
+EXP-1928-05-29-a-i0007,5905,5913,S. < LN.,Q38130,ORG,NIL,S. < LN.,no,0
+EXP-1928-05-29-a-i0007,6564,6572,Mohammed,Q9458,PER,Q5837762,Mohammed,"```json {""wikipedia_page"":""Mohammed"", ""wikidata_id"":""Q5837762""} ```",10.886012077331543
+EXP-1928-08-15-a-i0065,622,629,THALWIL,Q68959,LOC,NIL,THALWIL,no,0
+EXP-1928-08-15-a-i0065,663,671,Gattikon,Q22631161,LOC,NIL,Gattikon,no,0
+EXP-1928-08-15-a-i0065,1039,1045,WAENGI,Q68177,LOC,NIL,WAENGI,```json {} ```,0
+EXP-1928-08-15-a-i0065,1181,1190,Thurgovie,Q12713,LOC,NIL,Thurgovie,no,0
+EXP-1928-08-15-a-i0065,1388,1392,MURI,Q69011,LOC,NIL,MURI,no,0
+EXP-1928-08-15-a-i0065,1468,1472,Bùnz,Q366169,LOC,NIL,Bùnz,no,0
+EXP-1928-08-15-a-i0065,1677,1684,Neudorf,Q7149,LOC,Q1979393,Neudorf,"```json {""wikipedia_page"":""Neudorf"", ""wikidata_id"":""Q1979393""} ```",12.67136001586914
+EXP-1928-08-15-a-i0065,2230,2243,Sièrre SIERRE,Q68297,LOC,NIL,Sièrre SIERRE,no,0
+EXP-1928-08-15-a-i0065,2548,2574,"Mgr Biéler, évêque de Sion",Q15621564,PER,Q3471053,Samuel Biéler,"```json {""wikipedia_page"": ""Samuel Biéler"", ""wikidata_id"": ""Q3471053""} ```",18.346065521240234
+EXP-1928-08-15-a-i0065,2665,2676,M. Troillet,NIL,PER,Q94816415,Maurice Troillet,,28.864166259765625
+EXP-1928-08-15-a-i0065,3219,3225,Signal,Q22389485,LOC,NIL,Signal,```json {} ```,0
+GDL-1798-07-18-a-i0001,0,21,RÉPUBLIQUE HELVÉTIQUE,Q39,LOC,NIL,RÉPUBLIQUE HELVÉTIQUE,```json {} ```,0
+GDL-1798-07-18-a-i0001,203,213,Directoire,Q219817,ORG,NIL,Directoire,```json {} ```,0
+GDL-1798-07-18-a-i0001,1128,1136,Secretan,Q2612972,PER,NIL,Secretan,```json {} ```,0
+GDL-1798-07-18-a-i0001,1157,1166,Bourgeois,NIL,PER,Q217706,Léon Bourgeois,"```json { ""wikipedia_page"": ""Léon Bourgeois"", ""wikidata_id"": ""Q217706"" } ``` The context mentions ""Secretan, Ca * rrard, Huffi, [ENT] Bourgeois [ENT] & Haas attaq-iîa'rfif tour-à-tour les articles 2,3, & 4 du rapport de la comtmiffion, & distinguent la première partie de là féconde ; V * Celui qui ofe infultet aux couleurs nationales eft un agitateur ^ un perturbateur de la paix publique. Celui par contre qui ne porte pas la Cocarde, peut pécher par ignorance * pâi négligence ou par oubli. — L'un mérite d'être ctifitenu par le châtiment ; loutre doit être ramené par la douceur * — Si un citoyen refufe de porter Ja cocarde nationale t peut-ê"" where ""Bourgeois"" is likely referring to the person and not the class or a song title. Therefore, the most appropriate Wikidata entity is ""Léon Bourgeois"".",11.338138580322266
+GDL-1818-03-13-a-i0005,107,140,S. E. M. l'avoyer de V / aueville,Q117863,PER,NIL,S. E. M. l'avoyer de V / aueville,no,0
+GDL-1818-03-13-a-i0005,229,254,M. le baron V ^ n Berchem,NIL,PER,Q3853087,Max van Berchem,"Based on the provided text and list of candidates, the entity mentioned between the [ENT] tags is ""Max van Berchem."" Therefore, the JSON object is as follows: ```json { ""wikipedia_page"": ""Max van Berchem"", ""wikidata_id"": ""Q3853087"" } ```",10.541959762573242
+GDL-1818-03-13-a-i0005,1619,1641,M. le conseiller Luthy,Q23061106,PER,Q20724022,Jules Lauth,"Based on the input text and the provided list of candidates, the entity mentioned in the text within the [ENT] tags is ""Luthy"". The most appropriate Wikidata entity from the list of candidates that matches ""Luthy"" is ""Jules Lauth"". Here is the JSON response: ```json { ""wikipedia_page"": ""Jules Lauth"", ""wikidata_id"": ""Q20724022"" } ```",11.648612976074219
+GDL-1818-03-13-a-i0005,1838,1852,canton de Bâle,Q660776,LOC,Q12172,canton de Bâle-Ville,,24.27320671081543
+GDL-1818-03-13-a-i0005,1903,1910,Lucerne,Q12121,LOC,NIL,Lucerne,no,0
+GDL-1818-03-13-a-i0005,1917,1922,Berne,Q11911,LOC,NIL,Berne,No,0
+GDL-1818-03-13-a-i0005,1929,1937,lWrgovic,Q11972,LOC,NIL,lWrgovic,```json {} ```,0
+GDL-1818-03-13-a-i0005,2169,2177,St. Gall,Q12746,LOC,Q25607,Saint-Gall,,22.936336517333984
+GDL-1818-03-13-a-i0005,2647,2656,Thurgovie,Q12713,LOC,NIL,Thurgovie,```json {} ```,0
+GDL-1818-03-13-a-i0005,2803,2809,Genève,Q11917,LOC,Q71,Genève,"Based on the provided input text and candidate list, the entity mentioned between [ENT] tags is ""Genève"". The most appropriate Wikidata entity from the given list is: ```json {""wikipedia_page"":""Genève"", ""wikidata_id"":""Q71""} ```",21.238834381103516
+GDL-1818-03-13-a-i0005,3070,3074,Bâ'e,Q660776,LOC,NIL,Bâ'e,no,0
+GDL-1818-03-13-a-i0005,4754,4771,général Koskiusko,Q191479,PER,NIL,général Koskiusko,No,0
+GDL-1818-03-13-a-i0005,5529,5537,Hambourg,Q1055,LOC,NIL,Hambourg,no,0
+GDL-1818-08-04-a-i0002,0,6,France,Q142,LOC,NIL,France,```json {} ```,0
+GDL-1818-08-04-a-i0002,99,108,Vitrolles,Q961254,LOC,Q205709,Vitrolles,"```json { ""wikipedia_page"": ""Vitrolles"", ""wikidata_id"": ""Q205709"" } ```",16.78324317932129
+GDL-1818-08-04-a-i0002,274,294,générai ChapecUlaine,NIL,PER,Q3132244,Henri de Cathelineau,"Based on the provided text and candidates, the most appropriate Wikidata entity for the entity mentioned between the [ENT] tags ""générai ChapecUlaine"" is ""Henri de Cathelineau"". Therefore, the answer is: ```json {""wikipedia_page"": ""Henri de Cathelineau"", ""wikidata_id"": ""Q3132244""} ```",14.705305099487305
+GDL-1818-08-04-a-i0002,732,752,MM. de Chatetubriant,Q49767,PER,Q43034057,Geoffroy Louis de Chateaubriand,"```json {""wikipedia_page"":""Geoffroy Louis de Chateaubriand"", ""wikidata_id"":""Q43034057""} ```",18.218666076660156
+GDL-1818-08-04-a-i0002,754,764,Dubouchage,Q3288135,PER,Q3309508,Michel Dubocage,,24.88127899169922
+GDL-1818-08-04-a-i0002,766,776,Fitzjaraes,Q3580080,PER,NIL,Fitzjaraes,no,0
+GDL-1818-08-04-a-i0002,779,787,Polignac,Q350613,PER,Q1247737,Melchior de Polignac,,23.252197265625
+GDL-1818-08-04-a-i0002,918,987,"M. de Chabrol, ancien « fcii oMiïhonévBes ^ ûeV'OBCren prévôt de Lyon",Q2966514,PER,NIL,"M. de Chabrol, ancien « fcii oMiïhonévBes ^ ûeV'OBCren prévôt de Lyon",no,0
+GDL-1818-08-04-a-i0002,1255,1261,Calais,Q6454,LOC,NIL,Calais,```json {} ```,0
+GDL-1818-08-04-a-i0002,1276,1285,Cambridge,Q350,LOC,NIL,Cambridge,```json {} ```,0
+GDL-1818-08-04-a-i0002,1297,1301,Kent,Q67479626,LOC,Q158258,Edward de Kent,"Based on the provided text and candidate list, the [ENT] tags refer to the ""duc de Kent"" and ""duc de Clarence"". The most appropriate Wikidata entity for ""duc de Kent"" is ""Edward de Kent"" (Edward Augustus, Duke of Kent and Strathearn). Here is the JSON-formatted answer: ```json {""wikipedia_page"":""Edward de Kent"", ""wikidata_id"":""Q158258""} ```",7.041268348693848
+GDL-1818-08-04-a-i0002,1314,1322,Clarence,NIL,LOC,Q1264532,duc de Clarence,"```json { ""wikipedia_page"": ""duc de Clarence"", ""wikidata_id"": ""Q1264532"" } ```",8.608070373535156
+GDL-1818-08-04-a-i0002,1327,1342,journal de Lyon,NIL,PROD,Q3223737,Le Journal de Saône-et-Loire,"``` { ""wikipedia_page"": ""Le Journal de Saône-et-Loire"", ""wikidata_id"": ""Q3223737"" } ```",19.399513244628906
+GDL-1818-08-04-a-i0002,1388,1397,Vcrmaison,Q1385472,LOC,NIL,Vcrmaison,```json {} ```,0
+GDL-1818-08-04-a-i0002,2448,2468,commune- de Marsannè,Q659785,LOC,NIL,commune- de Marsannè,```json {} ```,0
+GDL-1818-08-04-a-i0002,3386,3392,Pétion,Q353464,PER,NIL,Pétion,```json {} ```,0
+GDL-1818-08-04-a-i0002,3527,3539,Chris-'tophe,Q353458,PER,NIL,Chris-'tophe,No,0
+GDL-1818-08-04-a-i0002,3727,3732,Boyer,Q449421,PER,NIL,Boyer,no,0
+GDL-1818-08-04-a-i0002,3736,3781,"M ^ le cardinal duc de Bayane, pair de France",Q1080412,PER,NIL,"M ^ le cardinal duc de Bayane, pair de France",no,0
+GDL-1818-08-04-a-i0002,3948,3955,Pie Vil,Q124754,PER,NIL,Pie Vil,no,0
+GDL-1818-08-04-a-i0002,4048,4060,aie de Corse,Q22011067,LOC,NIL,aie de Corse,```json {} ```,0
+GDL-1818-08-04-a-i0002,4097,4104,Aiaccio,Q40104,LOC,NIL,Aiaccio,```json {} ```,0
+GDL-1818-08-04-a-i0002,4348,4354,France,Q142,LOC,NIL,France,"```json {""wikipedia_page"":"""", ""wikidata_id"":""""} ```",0
+GDL-1818-08-04-a-i0002,4398,4403,Corse,Q22011067,LOC,NIL,Corse,```json {} ```,0
+GDL-1828-07-04-a-i0008,0,7,ESPAGNE,Q3399982,LOC,Q29,Espagne,"```json { ""wikipedia_page"": ""Espagne"", ""wikidata_id"": ""Q29"" } ```",8.111306190490723
+GDL-1828-07-04-a-i0008,77,83,Oporto,Q36433,LOC,NIL,Oporto,no.,0
+GDL-1828-07-04-a-i0008,169,179,don Miguel,Q310790,PER,NIL,don Miguel,```json {} ```,0
+GDL-1828-07-04-a-i0008,226,231,Beira,NIL,LOC,Q814828,Beira,"```json {""wikipedia_page"":""Beira"", ""wikidata_id"":""Q814828""} ```",12.126954078674316
+GDL-1828-07-04-a-i0008,392,398,Oporto,Q36433,LOC,NIL,Oporto,```json {} ```,0
+GDL-1828-07-04-a-i0008,556,568,général Fons,NIL,PER,Q3173400,Jean Marie Noël Delisle de Falcon de Saint-Geniès,"Based on the provided text, the entity mentioned between the [ENT] tags is ""general Fons"". From the list of candidates, the most appropriate Wikidata entity is ""Jean Marie Noël Delisle de Falcon de Saint-Geniès"". Here is the JSON-formatted answer: ```json {""wikipedia_page"":""Jean Marie Noël Delisle de Falcon de Saint-Geniès"", ""wikidata_id"":""Q3173400""} ```",15.813956260681152
+GDL-1828-07-04-a-i0008,791,799,Portugal,Q45670,LOC,Q45,Portugal,"```json {""wikipedia_page"":""Portugal"", ""wikidata_id"":""Q45""} ```",20.08997344970703
+GDL-1828-07-04-a-i0008,890,901,curé Mérino,Q9029811,PER,Q2620298,Jerónimo Merino,"Based on the input text and the provided list of candidates, I have disambiguated the entity mentioned between the [ENT] tags, which is ""Merino"". The most appropriate Wikidata entity from the given list of candidates is: ```json {""wikipedia_page"": ""Jerónimo Merino"", ""wikidata_id"": ""Q2620298""} ```",13.520936965942383
+GDL-1828-07-04-a-i0008,1066,1074,Portugal,Q45670,LOC,Q45,Portugal,,22.01906967163086
+GDL-1828-07-04-a-i0008,1385,1393,Portugal,Q45670,LOC,Q45,Portugal,"Based on the provided text and the list of candidates, the most appropriate Wikidata entity for the entity mentioned between the [ENT] tags is: ```json {""wikipedia_page"":""Portugal"", ""wikidata_id"":""Q45""} ```",21.803268432617188
+GDL-1828-07-04-a-i0008,1400,1406,FRANCE,Q142,LOC,NIL,FRANCE,```json {} ```,0
+GDL-1828-07-04-a-i0008,1567,1573,France,Q142,LOC,NIL,France,no,0
+GDL-1828-07-04-a-i0008,1682,1693,M. Salverte,Q3061110,PER,NIL,M. Salverte,"""no""",0
+GDL-1828-07-04-a-i0008,2993,3004,M. de Conny,Q20926228,PER,NIL,M. de Conny,no,0
+GDL-1828-07-04-a-i0008,4664,4680,M. Blanche .-nay,NIL,PER,Q15967319,Pahin de La Blancherie,"Based on the provided input text, the entity mentioned between the [ENT] tags is ""M. Blanche.-nay [ENT] entr'autres, sujet anglais, a été grièvement blessé en rentrant chez lui le soir."" The candidate from the list that best matches this entity is ""Pahin de La Blancherie"". Here is the JSON-formatted answer: ```json {""wikipedia_page"":""Pahin de La Blancherie"", ""wikidata_id"":""Q15967319""} ```",7.44594669342041
+GDL-1838-05-15-a-i0002,0,7,AFRIQUE,Q15,LOC,Q27381,Afrique du Nord,"```json {""wikipedia_page"": ""Afrique du Nord"", ""wikidata_id"": ""Q27381""} ```",15.819967269897461
+GDL-1838-05-15-a-i0002,52,61,deBelidah,Q216990,LOC,NIL,deBelidah,```json {} ```,0
+GDL-1838-05-15-a-i0002,969,989,plaine de la Melidja,NIL,LOC,Q18923505,Plaine de la Medjana,"Based on the given input text and the list of candidates, the most appropriate Wikidata entity for the [ENT] tags is: ```json {""wikipedia_page"":""Plaine de la Medjana"", ""wikidata_id"":""Q18923505""} ```",13.323993682861328
+GDL-1848-07-04-a-i0001,0,20,CONFÉDÉRATION SUISSE,Q39,LOC,Q684719,Assemblée fédérale suisse,"```json { ""wikipedia_page"": ""Confédération suisse"", ""wikidata_id"": ""Q684719"" } ```",14.817126274108887
+GDL-1848-07-04-a-i0001,22,39,DIÈTE l'ÉDÉIlA LE,Q250641,ORG,NIL,DIÈTE l'ÉDÉIlA LE,"Based on the provided text and list of candidates, the entities mentioned between the [ENT] tags are ""DIÈTE l'ÉDÉIlA LE"" and ""Neuchâld SI."" These terms are not present in the list of candidates. Therefore, no Wikidata entity could be disambiguated with high confidence. The JSON response is: ```json {} ```",0
+GDL-1848-07-04-a-i0001,389,422,Neuchâld SI. Gonzalve-Petitpierre,Q78068340,PER,Q69345,Neuchâtel,"Based on the input text and the list of candidates, the entity mentioned between [ENT] tags is ""Neuchâld SI. Gonzalve-Petitpierre"". The most appropriate Wikidata entity from the given list of candidates is ""Neuchâtel"". Therefore, the JSON-formatted answer is: ```json {""wikipedia_page"":""Neuchâtel"", ""wikidata_id"":""Q69345""} ```",16.470821380615234
+GDL-1848-07-04-a-i0001,1746,1752,Tessin,Q31008,LOC,Q3592370,Étienne Tassin,,22.879043579101562
+GDL-1848-07-04-a-i0001,2283,2289,Zurich,Q11943,LOC,Q72,Zurich,,22.063112258911133
+GDL-1848-07-04-a-i0001,2541,2547,Suisse,Q39,LOC,NIL,Suisse,```json {} ```,0
+GDL-1848-07-04-a-i0001,2577,2583,Europe,Q46,LOC,NIL,Europe,no,0
+GDL-1848-07-04-a-i0001,2609,2615,Luceme,Q12121,LOC,NIL,Luceme,no,0
+GDL-1848-07-04-a-i0001,2732,2743,fiàle-ville,Q12172,LOC,NIL,fiàle-ville,```json {} ```,0
+GDL-1848-07-04-a-i0001,2944,2952,Scliwylz,Q12433,LOC,NIL,Scliwylz,no,0
+GDL-1848-07-04-a-i0001,3009,3015,Glatis,Q63912,LOC,Q3102777,Georges Glatz,"```json { ""wikipedia_page"": ""Georges Glatz"", ""wikidata_id"": ""Q3102777"" } ```",16.986818313598633
+GDL-1848-07-04-a-i0001,3112,3118,Genève,Q11917,LOC,Q71,Genève,"```json { ""wikipedia_page"": ""Genève"", ""wikidata_id"": ""Q71"" } ```",14.49746322631836
+GDL-1848-07-04-a-i0001,3120,3130,M. Aimeras,Q2643720,PER,Q3379212,Philippe Alméras,"{""wikipedia_page"":""Philippe Alméras"", ""wikidata_id"":""Q3379212""}",19.11067008972168
+GDL-1848-07-04-a-i0001,3530,3536,Genève,Q11917,LOC,NIL,Genève,no,0
+GDL-1848-07-04-a-i0001,3743,3747,fond,Q12771,LOC,NIL,fond,no,0
+GDL-1848-07-04-a-i0001,4166,4172,Suisse,Q39,LOC,NIL,Suisse,no,0
+GDL-1848-07-04-a-i0001,4392,4398,Palais,Q834,LOC,NIL,Palais,No.,0
+GDL-1848-07-04-a-i0001,4436,4441,Berne,Q11911,ORG,NIL,Berne,no,0
+GDL-1848-07-04-a-i0001,4724,4730,Zurich,Q11943,LOC,Q72,Zurich,"Based on the provided input text, the entities marked by [ENT] are ""Zurich"" and ""Schwytz"". The list of candidates includes the following relevant entities: - 'canton de Zurich' with Wikidata ID 'Q11943' - 'Zurich' with Wikidata ID 'Q72' - 'canton de Schwytz' with Wikidata ID 'Q12433' - 'Schwytz' with Wikidata ID 'Q68155' Given these matches, the most appropriate Wikidata entities for ""Zurich"" and ""Schwytz"" are: - ""Zurich"" with Wikidata ID 'Q72' and Wikipedia page title 'Zurich' - ""Schwytz"" with Wikidata ID 'Q68155' and Wikipedia page title 'Schwytz' Therefore, the JSON answer is: ```json { ""wikipedia_page"": ""Zurich"", ""wikidata_id"": ""Q72"" }, { ""wikipedia_page"": ""Schwytz"", ""wikidata_id"": ""Q68155"" } ",21.46602439880371
+GDL-1848-07-04-a-i0001,4732,4739,Solaire,Q11929,LOC,NIL,Solaire,```json {} ```,0
+GDL-1848-07-04-a-i0001,4781,4788,Gerièue,Q11917,LOC,NIL,Gerièue,no,0
+GDL-1848-07-04-a-i0001,4836,4842,Glaris,Q11922,LOC,NIL,Glaris,no,0
+GDL-1848-07-04-a-i0001,4844,4850,Luceme,Q12121,LOC,Q4191,Lucerne,"```json { ""wikipedia_page"": ""Lucerne"", ""wikidata_id"": ""Q4191"" } ```",12.957837104797363
+GDL-1848-07-04-a-i0001,4870,4880,Bàle-ville,Q12172,LOC,Q78,Bâle,"Based on the provided text and list of candidates, the entity mentioned between the [ENT] tags is ""Bâle-ville"". The most appropriate Wikidata entity from the given list is: ```json {""wikipedia_page"": ""Bâle"", ""wikidata_id"": ""Q78""} ```",20.9420223236084
+GDL-1848-07-04-a-i0001,4913,4920,Schwylz,Q12433,LOC,NIL,Schwylz,no,0
+GDL-1848-07-04-a-i0001,5254,5264,Bàle-ville,Q12172,LOC,NIL,Bàle-ville,no,0
+GDL-1848-07-04-a-i0001,5266,5271,Berne,Q11911,LOC,Q70,Berne,"```json { ""wikipedia_page"": ""Berne"", ""wikidata_id"": ""Q70"" } ```",19.315479278564453
+GDL-1848-07-04-a-i0001,5283,5288,Berne,Q11911,LOC,NIL,Berne,no,0
+GDL-1848-07-04-a-i0001,5615,5621,Europe,Q46,LOC,NIL,Europe,no,0
+GDL-1848-07-04-a-i0001,5940,5945,Cornu,Q69007,LOC,Q68819,Cornol,"```json { ""wikipedia_page"": ""Cornol"", ""wikidata_id"": ""Q68819"" } ```",15.27983283996582
+GDL-1848-07-04-a-i0001,6476,6481,Tyrol,Q16543832,LOC,NIL,Tyrol,```json {} ```,0
+GDL-1848-07-04-a-i0001,7166,7220,"M. Albertmi de Ponte, président du gouvernement actuel",Q42314535,PER,NIL,"M. Albertmi de Ponte, président du gouvernement actuel",no,0
+GDL-1848-07-04-a-i0001,7701,7706,BERNE,Q11911,LOC,Q70,Berne,,24.923442840576172
+GDL-1848-07-04-a-i0001,7783,7789,Vororl,Q687312,ORG,Q38981,Vorarlberg,"Based on the analysis of the input text and the provided list of candidates, the entity mentioned between the [ENT] tags in the text is ""Vorarlberg"". Therefore, the JSON-formatted answer is: ```json {""wikipedia_page"":""Vorarlberg"", ""wikidata_id"":""Q38981""} ```",13.660966873168945
+GDL-1848-07-04-a-i0001,7955,7976,M. le comte lleinhart,Q15968796,PER,NIL,M. le comte lleinhart,```json {} ```,0
+GDL-1848-07-04-a-i0001,8155,8159,Saxe,Q153015,LOC,Q1202,Saxe,"```json { ""wikipedia_page"": ""Saxe"", ""wikidata_id"": ""Q1202"" } ```",18.753211975097656
+GDL-1848-07-04-a-i0001,8181,8187,Suisse,Q39,LOC,NIL,Suisse,no,0
+GDL-1848-07-04-a-i0001,8284,8294,M. Eénélon,NIL,PER,Q50845184,Michel Éon,"```json { ""wikipedia_page"": ""Michel Éon"", ""wikidata_id"": ""Q50845184"" } ```",12.835830688476562
+GDL-1848-07-04-a-i0001,8298,8307,M. Thiard,Q789734,PER,NIL,M. Thiard,"```json {""wikipedia_page"": """", ""wikidata_id"": """"} ```",0
+GDL-1848-07-04-a-i0001,8359,8367,FIUBOUKG,Q12640,LOC,NIL,FIUBOUKG,no,0
+GDL-1848-07-04-a-i0001,9283,9290,JNeyruz,Q66466,LOC,NIL,JNeyruz,no,0
+GDL-1848-07-04-a-i0001,9743,9812,"Castela, membre du conseil d'Etat et directeur de la police cantonale",Q15621773,PER,Q15727952,Nicolas-Antoine-Xavier Castella de Berlens,"Based on the provided text and candidates, the most appropriate Wikidata entity for the entity tagged with [ENT] is: - **Wikipedia Page**: Nicolas-Antoine-Xavier Castella de Berlens - **Wikidata ID**: Q15727952 Therefore, the JSON output is: ```json {""wikipedia_page"":""Nicolas-Antoine-Xavier Castella de Berlens"", ""wikidata_id"":""Q15727952""} ```",15.136711120605469
+GDL-1848-07-04-a-i0001,9838,9867,"M. Thorin, préfet de Fribourg",Q15663331,PER,Q3588273,Émile-Ambroise Thirion,"{""wikipedia_page"":""Émile-Ambroise Thirion"", ""wikidata_id"":""Q3588273""}",13.14360237121582
+GDL-1848-07-04-a-i0001,9898,9912,conseil d'Etat,Q2717001,ORG,NIL,conseil d'Etat,No.,0
+GDL-1848-07-04-a-i0001,10223,10245,district de la St-Gine,Q645585,LOC,NIL,district de la St-Gine,```json {} ```,0
+GDL-1848-07-04-a-i0001,10798,10812,conseil d'Elat,Q2717001,ORG,NIL,conseil d'Elat,No.,0
+GDL-1848-07-04-a-i0001,11169,11175,GENÈVE,Q11917,LOC,Q71,Genève,,25.645652770996094
+GDL-1848-07-04-a-i0001,11441,11447,Tessin,Q31008,LOC,Q12724,canton du Tessin,"```json { ""wikipedia_page"": ""canton du Tessin"", ""wikidata_id"": ""Q12724"" } ```",21.819812774658203
+GDL-1848-07-04-a-i0001,11617,11623,Vienne,Q1741,LOC,NIL,Vienne,```json {} ```,0
+GDL-1848-07-04-a-i0001,11697,11703,Glaris,Q11922,LOC,NIL,Glaris,```json {} ```,0
+GDL-1848-07-04-a-i0001,11850,11856,Vienne,Q1741,LOC,NIL,Vienne,```json {} ```,0
+GDL-1848-07-04-a-i0001,11862,11868,Zurich,Q11943,LOC,Q72,Zurich,"Based on the input text and the provided list of candidates, the most appropriate Wikidata entity for the entity tagged with [ENT] in the text is: ```json {""wikipedia_page"":""Zurich"", ""wikidata_id"":""Q72""} ```",21.588768005371094
+GDL-1848-07-04-a-i0001,11952,11959,Lucerne,Q12121,LOC,NIL,Lucerne,```json {} ```,0
+GDL-1848-07-04-a-i0001,12090,12097,Schwylz,Q12433,LOC,Q68155,Schwytz,"```json { ""wikipedia_page"": ""Schwytz"", ""wikidata_id"": ""Q68155"" } ```",17.475038528442383
+GDL-1848-07-04-a-i0001,12118,12161,redoutédesbaleliersdulae des Quatre-Cantons,Q14381,LOC,NIL,redoutédesbaleliersdulae des Quatre-Cantons,"Based on the input text and the provided list of candidates, the entity mentioned between the [ENT] tags is: 1. **""[ENT] Fœhn[ENT]""** After analyzing the candidates, the most appropriate Wikidata entity that matches the mentioned entity is: - **""Fœhn""** (Wikipedia page: ""Foehn"" and Wikidata ID: Q399767) So the JSON output will be: ```json {""wikipedia_page"": ""Foehn"", ""wikidata_id"": ""Q399767""} ```",0
+GDL-1848-07-04-a-i0001,12208,12228,vallée de la Jluotha,Q66069,LOC,Q675178,vallée de Joux,"```json { ""wikipedia_page"": ""vallée de Joux"", ""wikidata_id"": ""Q675178"" } ```",11.790093421936035
+GDL-1848-07-04-a-i0001,12430,12515,"Henri Zschokke, cet aimable et infatigable écrivain, l'ami et l'instituteur du peuple",Q66207,PER,NIL,"Henri Zschokke, cet aimable et infatigable écrivain, l'ami et l'instituteur du peuple",No.,0
+GDL-1848-07-04-a-i0001,12587,12595,LAESANMÎ,Q807,LOC,NIL,LAESANMÎ,no,0
+GDL-1848-07-04-a-i0001,12704,12715,M. Fornerod,Q116978,PER,NIL,M. Fornerod,```json {} ```,0
+GDL-1848-07-04-a-i0001,12719,12733,conseil d'Elat,Q662792,ORG,Q97365855,Conseil départemental d'Alsace,"```json { ""wikipedia_page"": ""Conseil départemental d'Alsace"", ""wikidata_id"": ""Q97365855"" } ```",14.167613983154297
+GDL-1848-07-04-a-i0001,12876,12892,canton de VpûdV',Q12771,LOC,NIL,canton de VpûdV',```json {} ```,0
+GDL-1848-07-04-a-i0001,13169,13175,France,Q142,LOC,NIL,France,no,0
+GDL-1848-07-04-a-i0001,13885,13891,France,Q142,LOC,NIL,France,no,0
+GDL-1848-10-03-a-i0001,22,27,BERNE,Q11911,LOC,Q70,Berne,,24.014619827270508
+GDL-1848-10-03-a-i0001,372,378,Zurich,Q11943,LOC,NIL,Zurich,no,0
+GDL-1848-10-03-a-i0001,380,390,Bàle-ville,Q12172,LOC,NIL,Bàle-ville,no,0
+GDL-1848-10-03-a-i0001,788,800,Trachselwald,Q661104,LOC,NIL,Trachselwald,```json {} ```,0
+GDL-1848-10-03-a-i0001,805,811,Signau,Q661807,LOC,Q67289,Signau,"```json { ""wikipedia_page"": ""Signau"", ""wikidata_id"": ""Q67289"" } ```",17.09234619140625
+GDL-1848-10-03-a-i0001,818,829,Konolfingen,Q661300,LOC,NIL,Konolfingen,no,0
+GDL-1848-10-03-a-i0001,859,896,Emmenthal MM. l'ancien avoyer Neubaus,Q1732469,PER,NIL,Emmenthal MM. l'ancien avoyer Neubaus,no,0
+GDL-1848-10-03-a-i0001,902,924,conseillers Oehsenbein,Q558011,PER,NIL,conseillers Oehsenbein,```json {} ```,0
+GDL-1848-10-03-a-i0001,1105,1112,Seeland,Q691156,LOC,Q660822,arrondissement administratif du Seeland,"{ ""wikipedia_page"": ""arrondissement administratif du Seeland"", ""wikidata_id"": ""Q660822"" }",15.50416088104248
+GDL-1848-10-03-a-i0001,1280,1297,conseil des Etats,Q609037,ORG,NIL,conseil des Etats,```json {} ```,0
+GDL-1848-10-03-a-i0001,1360,1379,hôtel de la Monnaie,NIL,LOC,Q1728061,,,26.46442413330078
+GDL-1848-10-03-a-i0001,1405,1411,Zurich,Q11943,LOC,Q72,Zurich,"```json {""wikipedia_page"":""Zurich"", ""wikidata_id"":""Q72""} ```",20.629135131835938
+GDL-1848-10-03-a-i0001,1438,1445,Sl-Gall,Q12746,LOC,NIL,Sl-Gall,no,0
+GDL-1848-10-03-a-i0001,1535,1541,Tessin,Q31008,LOC,Q12724,canton du Tessin,"```json {""wikipedia_page"":""canton du Tessin"", ""wikidata_id"":""Q12724""} ```",20.83061408996582
+GDL-1848-10-03-a-i0001,1596,1630,MM. les anciens landammann Abyberg,Q1311183,PER,NIL,MM. les anciens landammann Abyberg,```json {} ```,0
+GDL-1848-10-03-a-i0001,1634,1642,Holdener,Q21294690,PER,Q21294689,Fridolin Holdener,"Based on the provided text and the list of candidates, the entity mentioned between the [ENT] tags is ""Holdener"". The closest match from the list of candidates is: ```json { ""wikipedia_page"": ""Fridolin Holdener"", ""wikidata_id"": ""Q21294689"" } ```",12.308741569519043
+GDL-1848-10-03-a-i0001,1647,1654,Schwyiz,Q12433,LOC,Q68155,Schwytz,"Based on the provided text and the list of candidates, the entity mentioned between the [ENT] tags is ""Schwytz"". The corresponding Wikipedia page title and Wikidata ID are: ```json { ""wikipedia_page"": ""Schwytz"", ""wikidata_id"": ""Q68155"" } ```",15.162534713745117
+GDL-1848-10-03-a-i0001,2105,2112,Païenne,Q2656,LOC,NIL,Païenne,no,0
+GDL-1848-10-03-a-i0001,3308,3319,rue Giudeca,Q21167359,LOC,NIL,rue Giudeca,```json {} ```,0
+GDL-1848-10-03-a-i0001,3346,3368,deux villages de Gazzi,Q2183964,LOC,NIL,deux villages de Gazzi,```json {} ```,0
+GDL-1848-10-03-a-i0001,3375,3383,Conlessa,Q490808,LOC,NIL,Conlessa,no,0
+GDL-1848-10-03-a-i0001,3417,3424,Calania,Q1903,LOC,NIL,Calania,no,0
+GDL-1848-10-03-a-i0001,3490,3506,ville de Messine,Q13666,LOC,NIL,ville de Messine,```json {} ```,0
+GDL-1848-10-03-a-i0001,4550,4555,Berne,Q11911,LOC,Q70,Berne,,27.896408081054688
+GDL-1848-10-03-a-i0001,4638,4643,Berne,Q11911,LOC,Q70,Berne," { ""wikipedia_page"": ""Berne"", ""wikidata_id"": ""Q70"" }",21.37264633178711
+GDL-1848-10-03-a-i0001,4925,4931,Suisse,Q39,LOC,NIL,Suisse,no,0
+GDL-1848-10-03-a-i0001,5189,5250,"organe de l'envoyé du pouvoir central germanique, M. lïaveaux",Q1448649,PER,NIL,"organe de l'envoyé du pouvoir central germanique, M. lïaveaux",no.,0
+GDL-1848-10-03-a-i0001,5973,5982,Lombardie,Q1210,LOC,Q209857,royaume de Lombardie-Vénétie,"```json { ""wikipedia_page"": ""royaume de Lombardie-Vénétie"", ""wikidata_id"": ""Q209857"" } ```",15.019994735717773
+GDL-1848-10-03-a-i0001,6161,6167,Tessin,Q31008,LOC,NIL,Tessin,```json {} ```,0
+GDL-1848-10-03-a-i0001,7258,7264,Konitz,Q64058,LOC,NIL,Konitz,```json {} ```,0
+GDL-1848-10-03-a-i0001,7311,7321,Ochsenbein,Q558011,PER,NIL,Ochsenbein,```json {} ```,0
+GDL-1848-10-03-a-i0001,7330,7340,Imobersteg,NIL,PER,Q18626136,Jakob Imobersteg,"```json { ""wikipedia_page"": ""Jakob Imobersteg"", ""wikidata_id"": ""Q18626136"" } ```",17.995040893554688
+GDL-1848-10-03-a-i0001,7574,7595,ancien avoyer Neuhaus,Q1732469,PER,Q3052526,Emmanuel-Michel-Bertrand-Gaspard Neuhaus,"```json { ""wikipedia_page"": ""Emmanuel-Michel-Bertrand-Gaspard Neuhaus"", ""wikidata_id"": ""Q3052526"" } ```",10.287511825561523
+GDL-1848-10-03-a-i0001,7973,7977,Jura,Q12755,LOC,NIL,Jura,no,0
+GDL-1848-10-03-a-i0001,8217,8303,"M. Migy, juge d'appel, ancien commissaire fédéral dans le canton d'Uri et de Neuchàtel",Q2061299,PER,NIL,"M. Migy, juge d'appel, ancien commissaire fédéral dans le canton d'Uri et de Neuchàtel",no,0
+GDL-1858-07-12-a-i0002,22,28,FRANGE,Q142,LOC,NIL,FRANGE,no,0
+GDL-1858-07-12-a-i0002,65,72,Gazette,Q3099751,PROD,Q2306879,La Gazette,"Based on the input text and the provided list of candidates, the entity mentioned in the [ENT] tags is ""Gazette."" The most appropriate Wikidata entity from the given list of candidates is: ```json {""wikipedia_page"":""La Gazette"", ""wikidata_id"":""Q2306879""} ```",17.941640853881836
+GDL-1858-07-12-a-i0002,230,240,Angleterre,Q21,LOC,NIL,Angleterre,no,0
+GDL-1858-07-12-a-i0002,254,264,Cher bourg,Q3667188,LOC,Q160199,Cherbourg-Octeville,,22.366878509521484
+GDL-1858-07-12-a-i0002,381,390,Cherbourg,Q3667188,LOC,Q160199,Cherbourg-Octeville,,25.20883560180664
+GDL-1858-07-12-a-i0002,552,557,Paris,Q90,LOC,NIL,Paris,```json {} ```,0
+GDL-1858-07-12-a-i0002,605,615,Angleterre,Q21,LOC,NIL,Angleterre,no,0
+GDL-1858-07-12-a-i0002,722,728,France,Q142,LOC,NIL,France,no,0
+GDL-1858-07-12-a-i0002,1470,1485,Lord Malmesbury,Q321003,PER,Q333555,James Harris,"```json { ""wikipedia_page"": ""James Harris"", ""wikidata_id"": ""Q333555"" } ```",21.94879150390625
+GDL-1858-07-12-a-i0002,1536,1544,Malakoff,Q128764,LOC,NIL,Malakoff,no,0
+GDL-1858-07-12-a-i0002,1632,1654,M le comte de Walewski,Q435375,PER,Q2848798,André Walewski,"```json {""wikipedia_page"":""André Walewski"", ""wikidata_id"":""Q2848798""} ```",11.489725112915039
+GDL-1858-07-12-a-i0002,1730,1748,château d'Eliolles,Q81711098,LOC,Q1103953,Étiolles,"Based on the input text and the list of candidates, the most appropriate Wikidata entity for the entity tagged with [ENT] is: ```json {""wikipedia_page"":""Étiolles"", ""wikidata_id"":""Q1103953""} ```",14.857666969299316
+GDL-1858-07-12-a-i0002,2740,2748,Moldavie,Q18366588,LOC,Q10957559,principauté de Moldavie,"```json { ""wikipedia_page"": ""principauté de Moldavie"", ""wikidata_id"": ""Q10957559"" } ```",20.833290100097656
+GDL-1858-07-12-a-i0002,2755,2763,Valachie,Q171393,LOC,Q389004,principauté de Valachie,,22.040788650512695
+GDL-1858-07-12-a-i0002,3313,3335,Morning des Adoerliser,Q6912784,PROD,NIL,Morning des Adoerliser,no,0
+GDL-1858-07-12-a-i0002,3439,3448,Galignani,Q6219202,PER,NIL,Galignani,no,0
+GDL-1858-07-12-a-i0002,3847,3856,Jérusalem,Q1218,LOC,NIL,Jérusalem,```json {} ```,0
+GDL-1858-07-12-a-i0002,4242,4247,Japon,Q17,LOC,NIL,Japon,```json {} ```,0
+GDL-1858-07-12-a-i0002,4318,4343,Duprez Mme Von-den-Heusel,Q30505075,PER,NIL,Duprez Mme Von-den-Heusel,no,0
+GDL-1858-07-12-a-i0002,4373,4393,Mme Miolhan-Carvalbo,Q1630239,PER,NIL,Mme Miolhan-Carvalbo,no,0
+GDL-1858-07-12-a-i0002,4463,4471,Moniteur,Q1410997,PROD,Q3224741,Le Moniteur de Seine-et-Marne,"Based on the input text and the provided list of candidates, the most appropriate Wikidata entity for the [ENT] Moniteur [ENT] is: ```json { ""wikipedia_page"": ""Le Moniteur de Seine-et-Marne"", ""wikidata_id"": ""Q3224741"" } ```",14.12053108215332
+GDL-1858-07-12-a-i0002,4830,4841,M. Delangle,Q329134,PER,NIL,M. Delangle,no,0
+GDL-1868-10-24-a-i0010,55,62,GAZETTE,Q3099751,PROD,Q2306879,La Gazette,"Based on the given text and the list of candidates, the entity mentioned between the [ENT] tags is ""Gazette"". The most appropriate Wikidata entity from the given list is: ```json {""wikipedia_page"":""La Gazette"", ""wikidata_id"":""Q2306879""} ```",15.51890754699707
+GDL-1868-10-24-a-i0010,2366,2381,Conslitutionnel,Q3221742,PROD,NIL,Conslitutionnel,no,0
+GDL-1868-10-24-a-i0010,3183,3191,Lanterne,Q3209961,PROD,Q16652151,La Lanterne,"```json { ""wikipedia_page"": ""La Lanterne"", ""wikidata_id"": ""Q16652151"" } ```",15.186376571655273
+GDL-1868-10-24-a-i0010,3364,3375,M. Walewski,Q435375,PER,NIL,M. Walewski,no,0
+GDL-1868-10-24-a-i0010,4572,4577,Paris,Q90,LOC,NIL,Paris,no,0
+GDL-1868-10-24-a-i0010,5761,5769,Moniteur,Q1410997,PROD,Q1815103,Journal officiel de la République française,"```json {""wikipedia_page"":""Journal officiel de la République française"", ""wikidata_id"":""Q1815103""} ```",11.427234649658203
+GDL-1868-10-24-a-i0010,5825,5847,Bulletin international,NIL,PROD,Q27791873,,,22.081920623779297
+GDL-1868-10-24-a-i0010,5911,5918,Bavière,Q154195,LOC,Q980,Bavière,"```json { ""wikipedia_page"": ""Bavière"", ""wikidata_id"": ""Q980"" } ```",19.883358001708984
+GDL-1868-10-24-a-i0010,6125,6131,Prusse,Q918723,LOC,Q27306,royaume de Prusse,"```json {""wikipedia_page"":""royaume de Prusse"", ""wikidata_id"":""Q27306""} ```",17.926677703857422
+GDL-1868-10-24-a-i0010,6507,6522,Diable à Quatre,NIL,PROD,Q3222292,Le Diable à quatre,"Based on the input text and the list of candidates, the most appropriate Wikidata entity for the entity tagged with [ENT] is: ```json {""wikipedia_page"": ""Le Diable à quatre"", ""wikidata_id"": ""Q3222292""} ```",14.667789459228516
+GDL-1868-10-24-a-i0010,6601,6617,M. Jules Richard,Q4182026,PER,Q3106477,Gilles Richard,,26.17142677307129
+GDL-1868-10-24-a-i0010,6867,6883,M. Jules Richard,Q4182026,PER,NIL,M. Jules Richard,no,0
+GDL-1868-10-24-a-i0010,6909,6925,M. Jules Richard,Q4182026,PER,Q726779,Jules Richard,"Based on the text provided, the entity mentioned between the [ENT] tags is likely referring to ""Jules Richard,"" who is a mathematician and has been imprisoned for a press offense. The most appropriate Wikidata entity from the given list of candidates is: - Wikipedia page: Jules Richard - Wikidata ID: Q726779 ```json {""wikipedia_page"": ""Jules Richard"", ""wikidata_id"": ""Q726779""} ```",21.920034408569336
+GDL-1868-10-24-a-i0010,7068,7083,Diable à Quatre,NIL,PROD,Q3222292,Le Diable à quatre,,22.771595001220703
+GDL-1868-10-24-a-i0010,7689,7697,Lanterne,Q3209961,PROD,NIL,Lanterne,no,0
+GDL-1868-10-24-a-i0010,7701,7707,Italie,Q172579,LOC,Q38,Italie,"```json { ""wikipedia_page"": ""Italie"", ""wikidata_id"": ""Q38"" } ```",21.067291259765625
+GDL-1868-10-24-a-i0010,7714,7739,Gazetta militare italiana,NIL,PROD,Q371338,Gazzetta Ufficiale della Repubblica Italiana,,24.95536231994629
+GDL-1868-10-24-a-i0010,8298,8306,Cagliari,Q1897,LOC,NIL,Cagliari,No,0
+GDL-1868-10-24-a-i0010,8308,8314,Prusse,Q918723,LOC,Q27306,royaume de Prusse,"```json {""wikipedia_page"":""Royaume de Prusse"", ""wikidata_id"":""Q27306""} ```",19.204702377319336
+GDL-1868-10-24-a-i0010,8330,8336,Berlin,Q64,LOC,NIL,Berlin,"""no""",0
+GDL-1868-10-24-a-i0010,8340,8344,Nord,NIL,PROD,Q27479,Europe du Nord,"Based on the context provided in the text and the list of candidates, the most appropriate Wikidata entity for the entity mentioned between the [ENT] tags is: {""wikipedia_page"": ""Europe du Nord"", ""wikidata_id"": ""Q27479""} This selection is based on the common usage of ""Europe du Nord"" in historical texts related to the region of interest.",13.309366226196289
+GDL-1868-10-24-a-i0010,8516,8522,Prusse,Q918723,LOC,NIL,Prusse,no,0
+GDL-1868-10-24-a-i0010,8597,8618,district de Gumbinnen,Q897050,LOC,Q553008,district de Gumbinnen,"The entity ""district de Gumbinnen"" is mentioned. Based on the provided list of candidates, the most appropriate Wikidata entity is: {""wikipedia_page"":""district de Gumbinnen"", ""wikidata_id"":""Q553008""}",14.364605903625488
+GDL-1868-10-24-a-i0010,8866,8872,Prusse,Q918723,LOC,Q27306,royaume de Prusse,"```json {""wikipedia_page"":""royaume de Prusse"", ""wikidata_id"":""Q27306""} ```",17.795276641845703
+GDL-1868-10-24-a-i0010,8910,8921,Nouvelliste,Q3345294,PROD,NIL,Nouvelliste,```json {} ```,0
+GDL-1868-10-24-a-i0010,9085,9093,Autriche,Q28513,LOC,Q40,Autriche,"```json { ""wikipedia_page"": ""Autriche"", ""wikidata_id"": ""Q40"" } ```",16.540435791015625
+GDL-1868-10-24-a-i0010,9562,9570,Autriche,Q28513,LOC,Q40,Autriche,"```json { ""wikipedia_page"": ""Autriche"", ""wikidata_id"": ""Q40"" } ```",20.380170822143555
+GDL-1868-10-24-a-i0010,9729,9737,Gallicie,Q180086,LOC,NIL,Gallicie,no,0
+GDL-1868-10-24-a-i0010,10205,10220,comte de Taaffe,Q550748,PER,Q7026281,Nicholas Taaffe,"Based on the provided text and candidates, the entity mentioned between the [ENT] tags is ""comte de Taaffe"". The most appropriate Wikidata entity from the given list of candidates is: ```json {""wikipedia_page"": ""Nicholas Taaffe"", ""wikidata_id"": ""Q7026281""} ```",13.53629207611084
+GDL-1868-10-24-a-i0010,10311,10317,Europe,Q46,LOC,NIL,Europe,no,0
+GDL-1868-10-24-a-i0010,10324,10352,Chambre des députés de Peslh,Q648716,ORG,Q320265,Chambre des députés,,24.802520751953125
+GDL-1868-10-24-a-i0010,10462,10469,M. Deak,Q508823,PER,NIL,M. Deak,no,0
+GDL-1868-10-24-a-i0010,10504,10512,M. Tisza,Q254737,PER,NIL,M. Tisza,The disambiguated entity is: ```json {} ```,0
+GDL-1868-10-24-a-i0010,10579,10585,Presse,Q3211911,PROD,Q689934,Die Presse,,22.14986801147461
+GDL-1868-10-24-a-i0010,10959,10965,Bohême,Q39193,LOC,NIL,Bohême,no,0
+GDL-1868-10-24-a-i0010,11447,11454,Espagne,Q3399982,LOC,Q29,Espagne,"Based on the provided input text and the list of candidates, the entity mentioned between the [ENT] tags is ""Espagne"". The most appropriate Wikidata entity from the list of candidates for this entity is: ```json {""wikipedia_page"": ""Espagne"", ""wikidata_id"": ""Q29""} ```",21.144092559814453
+GDL-1868-10-24-a-i0010,11600,11611,île de Cuba,Q241,LOC,NIL,île de Cuba,no,0
+GDL-1868-10-24-a-i0010,11674,11681,Espagne,Q3399982,LOC,Q29,Espagne,,22.18741798400879
+GDL-1878-12-20-a-i0026,609,631,tunnel de la Cornallaz,NIL,LOC,Q107059388,tunnel de la Cornallaz,,27.388126373291016
+GDL-1878-12-20-a-i0026,709,726,gare de Chexbi'es,NIL,LOC,Q5846029,gare de Chambésy,,24.54987144470215
+GDL-1878-12-20-a-i0026,880,896,gare de Chexbres,NIL,LOC,Q15964085,Chexbres-Village,,27.673259735107422
+GDL-1878-12-20-a-i0026,1076,1081,Broyé,Q2926348,LOC,Q870065,Broye,,22.14506721496582
+GDL-1878-12-20-a-i0026,1156,1165,Palézieux,Q689254,LOC,Q5552050,Palézieux,,28.819026947021484
+GDL-1878-12-20-a-i0026,1318,1327,Palézieux,Q689254,LOC,Q5552050,Palézieux,,28.951465606689453
+GDL-1878-12-20-a-i0026,1493,1508,vallée du Rhône,Q2747791,LOC,NIL,vallée du Rhône,```json {} ```,0
+GDL-1878-12-20-a-i0026,2035,2046,le Bouveret,Q675700,LOC,Q12174805,Le Bouveret,"```json { ""wikipedia_page"": ""Le Bouveret"", ""wikidata_id"": ""Q12174805"" } ```",18.040870666503906
+GDL-1878-12-20-a-i0026,2185,2191,Valais,Q834,LOC,NIL,Valais,```json {} ```,0
+GDL-1878-12-20-a-i0026,2309,2315,Jougne,Q923421,LOC,NIL,Jougne,```json {} ```,0
+GDL-1878-12-20-a-i0026,2401,2406,Paris,Q90,LOC,NIL,Paris,no,0
+GDL-1888-12-07-a-i0003,10,16,PAÏU 8,Q90,LOC,NIL,PAÏU 8,```json {} ```,0
+GDL-1888-12-07-a-i0003,55,60,Paris,Q90,LOC,NIL,Paris,no,0
+GDL-1888-12-07-a-i0003,92,102,M. Auffray,Q13080924,PER,Q3083856,François Auffray,,22.691370010375977
+GDL-1888-12-07-a-i0003,160,169,M. Wilson,Q3014816,PER,NIL,M. Wilson,```json {} ```,0
+GDL-1888-12-07-a-i0003,846,878,M. Auffray. monarchiste clérical,Q13080924,PER,NIL,M. Auffray. monarchiste clérical,"```json { ""wikipedia_page"": """", ""wikidata_id"": """" } ```",0
+GDL-1888-12-07-a-i0003,1052,1062,M. Auffray,Q13080924,PER,Q3083856,François Auffray,,22.71227264404297
+GDL-1888-12-07-a-i0003,1064,1075,M. Michelin,Q3131641,PER,NIL,M. Michelin,No,0
+GDL-1888-12-07-a-i0003,2418,2428,M. Auffray,Q13080924,PER,Q3083856,François Auffray,,26.162635803222656
+GDL-1888-12-07-a-i0003,2454,2462,Ardennes,Q3164,LOC,NIL,Ardennes,No,0
+GDL-1888-12-07-a-i0003,2495,2507,comte Dillon,Q2865079,PER,Q446058,Arthur Dillon,"Based on the provided input text and the list of candidates, the most appropriate Wikidata entity for the [ENT] tags is ""Arthur Dillon"" with Wikidata ID ""Q446058"". Therefore, the JSON-formatted answer is: ```json {""wikipedia_page"":""Arthur Dillon"", ""wikidata_id"":""Q446058""} ```",20.013566970825195
+GDL-1888-12-07-a-i0003,2516,2521,Somme,Q12770,LOC,NIL,Somme,no,0
+GDL-1888-12-07-a-i0003,2897,2907,M. Auffray,Q13080924,PER,Q3083856,François Auffray,,27.664003372192383
+GDL-1888-12-07-a-i0003,2979,2988,M. Wilson,Q3014816,PER,NIL,M. Wilson,no,0
+GDL-1888-12-07-a-i0003,3568,3577,M. Wilson,Q3014816,PER,NIL,M. Wilson,```json {} ```,0
+GDL-1888-12-07-a-i0003,3918,3924,Baudin,NIL,PER,Q2993834,Pierre Baudin,"```json {""wikipedia_page"":""Pierre Baudin"", ""wikidata_id"":""Q2993834""} ```",21.11318588256836
+GDL-1888-12-07-a-i0003,3958,3963,Seine,Q1142326,LOC,NIL,Seine,no,0
+GDL-1898-06-27-a-i0011,147,177,"M. Hirter, conseiller national",Q1641554,PER,NIL,"M. Hirter, conseiller national",no,0
+GDL-1898-06-27-a-i0011,1184,1188,Rhin,Q21198444,LOC,Q584,Rhin,,28.81616973876953
+GDL-1898-06-27-a-i0011,1766,1777,Tourtemagne,Q70054,LOC,Q15075778,Loutremange,,24.563629150390625
+GDL-1898-06-27-a-i0011,2070,2076,Loèche,Q69590,LOC,NIL,Loèche,no,0
+GDL-1898-06-27-a-i0011,2498,2504,Barret,NIL,PER,Q2976951,Claude Barret,"```json {""wikipedia_page"":""Claude Barret"", ""wikidata_id"":""Q2976951""} ```",14.599427223205566
+GDL-1898-06-27-a-i0011,2555,2561,Calame,NIL,PER,Q60802982,Charles Calame,"```json {""wikipedia_page"": ""Charles Calame"", ""wikidata_id"": ""Q60802982""} ```",15.823383331298828
+GDL-1898-06-27-a-i0011,2591,2597,Genoud,NIL,PER,Q321908,Genod,"``` { ""wikipedia_page"": ""Genoud"", ""wikidata_id"": ""Q321908"" } ```",20.37281036376953
+GDL-1898-06-27-a-i0011,2627,2634,Terrier,NIL,PER,Q16679344,Terrier,"```json { ""wikipedia_page"": ""Terrier"", ""wikidata_id"": ""Q16679344"" } ```",15.074185371398926
+GDL-1908-06-09-a-i0014,160,166,D Wolf,NIL,PER,Q2831646,Albert Wolf,"Based on the input text, the entity mentioned between the [ENT] tags is ""D Wolf"". Among the provided candidates, the most appropriate Wikidata entity is: ```json {""wikipedia_page"":""Albert Wolf"", ""wikidata_id"":""Q2831646""} ```",17.78336524963379
+GDL-1908-06-09-a-i0014,758,765,Bernina,Q23013963,LOC,Q277177,ligne de la Bernina,"```json { ""wikipedia_page"": ""ligne de la Bernina"", ""wikidata_id"": ""Q277177"" } ```",17.84821128845215
+GDL-1908-06-09-a-i0014,1117,1156,Société suisse des facteurs de dépêches,NIL,ORG,Q614803,La Poste suisse,"To disambiguate the entity mentioned between the [ENT] tags, we must carefully analyze the text and match it with the provided list of candidates. The text mentions ""Société suisse des facteurs de dépêches,"" which is not explicitly listed in the JSON list of candidates. However, based on the context, it suggests an entity related to postal or telegraphic services. Given the available candidates, the closest match is ""La Poste suisse"" (wikidata_id: Q614803), which is an organization responsible for the distribution of mail and other postal services, including telegraphs. Here is the JSON-formatted response: ```json {""wikipedia_page"":""La Poste suisse"",""wikidata_id"":""Q614803""} ```",18.016368865966797
+GDL-1908-06-09-a-i0014,1664,1669,Righi,Q15291,LOC,NIL,Righi,```json {} ```,0
+GDL-1908-06-09-a-i0014,1688,1694,Pilate,Q15265,LOC,NIL,Pilate,no,0
+GDL-1908-06-09-a-i0014,3104,3110,Prusse,Q918723,LOC,Q38872,Prusse,,23.19322395324707
+GDL-1918-05-16-a-i0086,0,6,DoiwaE,Q3588286,PER,NIL,DoiwaE,no,0
+GDL-1918-05-16-a-i0086,221,231,Montdidier,Q21970,LOC,Q74308,Montdidier,"```json { ""wikipedia_page"": ""Montdidier"", ""wikidata_id"": ""Q74308"" } ```",18.661117553710938
+GDL-1918-05-16-a-i0086,241,251,Montdidier,Q21970,LOC,NIL,Montdidier,no,0
+GDL-1918-05-16-a-i0086,383,391,llaiïïea,Q584297,LOC,NIL,llaiïïea,no,0
+GDL-1918-05-16-a-i0086,445,449,Avre,Q739893,LOC,NIL,Avre,no,0
+GDL-1918-05-16-a-i0086,805,811,BofUot,Q711896,LOC,NIL,BofUot,```json {} ```,0
+GDL-1918-05-16-a-i0086,892,908,Ohomin-des-Damos,Q1069359,LOC,NIL,Ohomin-des-Damos,No.,0
+GDL-1918-05-16-a-i0086,994,1000,BoveHe,Q583114,LOC,NIL,BoveHe,```json {} ```,0
+GDL-1918-05-16-a-i0086,1189,1195,Bobecq,Q469871,LOC,Q685648,Mobecq,,22.470157623291016
+GDL-1918-05-16-a-i0086,1437,1444,Kemnraï,Q1024880,LOC,Q990173,Clairmarais,"```json {""wikipedia_page"":""Clairmarais"",""wikidata_id"":""Q990173""} ```",13.819022178649902
+GDL-1918-05-16-a-i0086,1446,1453,Londres,Q84,LOC,NIL,Londres,no,0
+GDL-1918-05-16-a-i0086,1492,1500,lieu ter,Q130879,ORG,NIL,lieu ter,no,0
+GDL-1918-05-16-a-i0086,1567,1575,Flandres,Q234,LOC,NIL,Flandres,no,0
+GDL-1918-05-16-a-i0086,3035,3040,Somme,Q12770,LOC,Q132568,bataille de la Somme,"{""wikipedia_page"":""bataille de la Somme"", ""wikidata_id"":""Q132568""}",21.39943504333496
+GDL-1918-05-16-a-i0086,3047,3053,Verdun,Q1368088,LOC,Q130847,bataille de Verdun,"```json { ""wikipedia_page"": ""bataille de Verdun"", ""wikidata_id"": ""Q130847"" } ```",18.40721893310547
+GDL-1918-05-16-a-i0086,3128,3136,Flandres,Q234,LOC,Q36769,Flandre française,"```json { ""wikipedia_page"": ""Flandre française"", ""wikidata_id"": ""Q36769"" } ```",20.21999740600586
+GDL-1918-05-16-a-i0086,3777,3786,La Olytte,Q921682,LOC,NIL,La Olytte,no,0
+GDL-1918-05-16-a-i0086,3940,3946,Kemmel,Q209541,LOC,NIL,Kemmel,```json {} ```,0
+GDL-1918-05-16-a-i0086,4270,4276,Kemmel,Q209541,LOC,Q1024880,Kemmel,"```json {""wikipedia_page"": ""Kemmel"", ""wikidata_id"": ""Q1024880""} ```",15.599201202392578
+GDL-1918-05-16-a-i0086,4395,4398,Lys,Q208493,LOC,NIL,Lys,```json {} ```,0
+GDL-1918-05-16-a-i0086,4405,4423,canal de La Bassée,Q1032668,LOC,Q375776,La Bassée,"{ ""wikipedia_page"": ""La Bassée"", ""wikidata_id"": ""Q375776"" }",16.747966766357422
+GDL-1918-05-16-a-i0086,4552,4557,Somme,Q1736061,LOC,Q37646,Somme,"```json { ""wikipedia_page"": ""Somme"", ""wikidata_id"": ""Q37646"" } ```",19.4404239654541
+GDL-1918-05-16-a-i0086,4618,4622,Bray,Q251119,LOC,NIL,Bray,no,0
+GDL-1918-05-16-a-i0086,4625,4631,Conbie,Q71469,LOC,NIL,Conbie,```json {} ```,0
+GDL-1918-05-16-a-i0086,4835,4852,VJMers-Bretonneux,Q677163,LOC,NIL,VJMers-Bretonneux,```json {} ```,0
+GDL-1918-05-16-a-i0086,4875,4879,Luoe,Q3265095,LOC,Q279370,Loue,"Based on the provided text and list of candidates, the most appropriate Wikidata entity for [ENT] is ""Loue"" (Wikidata ID: Q279370, Wikipedia page title: Loue). ```json {""wikipedia_page"": ""Loue"", ""wikidata_id"": ""Q279370""} ```",21.511682510375977
+GDL-1918-05-16-a-i0086,4888,4892,Avre,Q739893,LOC,Q476475,Avre,,22.221572875976562
+GDL-1918-05-16-a-i0086,5010,5016,Castel,Q2941347,LOC,NIL,Castel,"""no""",0
+GDL-1918-05-16-a-i0086,5257,5263,Calais,Q6454,LOC,NIL,Calais,```json {} ```,0
+GDL-1918-05-16-a-i0086,5440,5451,Monte Corno,Q31655103,LOC,NIL,Monte Corno,no,0
+GDL-1918-05-16-a-i0086,5666,5671,Borne,Q220,LOC,NIL,Borne,No,0
+GDL-1918-05-16-a-i0086,5871,5877,Genova,Q71,LOC,NIL,Genova,```json {} ```,0
+GDL-1918-05-16-a-i0086,5951,5962,Monte Corno,Q31655103,LOC,NIL,Monte Corno,no,0
+GDL-1918-05-16-a-i0086,5974,5982,Valknnsa,Q327644,LOC,NIL,Valknnsa,no,0
+GDL-1918-05-16-a-i0086,6609,6615,Kemmel,Q1024880,LOC,NIL,Kemmel,no,0
+GDL-1928-12-01-a-i0015,332,340,Le Temps,Q639137,PROD,Q673324,Le Temps,,24.838529586791992
+GDL-1928-12-01-a-i0015,548,553,Chine,Q29520,LOC,NIL,Chine,no,0
+GDL-1928-12-01-a-i0015,576,583,Afrique,Q15,LOC,NIL,Afrique,no,0
+GDL-1928-12-01-a-i0015,1059,1065,Berlin,Q64,LOC,NIL,Berlin,no,0
+GDL-1928-12-01-a-i0015,1534,1543,Allemagne,Q183,LOC,NIL,Allemagne,```json {} ```,0
+GDL-1928-12-01-a-i0015,1715,1721,Berlin,Q64,LOC,NIL,Berlin,```json {} ```,0
+GDL-1928-12-01-a-i0015,2294,2299,Dawes,Q184565,PER,NIL,Dawes,```json {} ```,0
+GDL-1928-12-01-a-i0015,2346,2355,Allemagne,Q183,LOC,NIL,Allemagne,no,0
+GDL-1928-12-01-a-i0015,2500,2509,Allemagne,Q183,LOC,NIL,Allemagne,```json {} ```,0
+GDL-1928-12-01-a-i0015,2576,2582,Berlin,Q64,LOC,NIL,Berlin,```json {} ```,0
+GDL-1928-12-01-a-i0015,2592,2597,Paris,Q90,LOC,NIL,Paris,no,0
+GDL-1928-12-01-a-i0015,2703,2709,Harvey,Q93128,PER,NIL,Harvey,"""No""",0
+GDL-1938-04-22-a-i0048,133,139,Italie,Q38,LOC,NIL,Italie,no,0
+GDL-1938-04-22-a-i0048,183,198,Grande-Bretagne,Q161885,LOC,Q23666,Grande-Bretagne,,27.218595504760742
+GDL-1938-04-22-a-i0048,390,396,Italie,Q38,LOC,NIL,Italie,no,0
+GDL-1938-10-12-a-i0095,49,54,Paris,Q90,LOC,NIL,Paris,no,0
+GDL-1938-10-12-a-i0095,112,118,Europe,Q46,LOC,NIL,Europe,no,0
+GDL-1938-10-12-a-i0095,199,209,Sarrebruck,Q1724,LOC,Q127089,Sarrebruck,"```json { ""wikipedia_page"": ""Sarrebruck"", ""wikidata_id"": ""Q127089"" } ```",13.854676246643066
+GDL-1938-10-12-a-i0095,294,303,Allemagne,Q183,LOC,NIL,Allemagne,```json {} ```,0
+GDL-1938-10-12-a-i0095,498,504,Italie,Q38,LOC,NIL,Italie,no,0
+GDL-1938-10-12-a-i0095,845,855,Sarrebruck,Q1724,LOC,NIL,Sarrebruck,```json {} ```,0
+GDL-1938-10-12-a-i0095,1039,1043,Rome,Q220,LOC,NIL,Rome,```json {} ```,0
+GDL-1938-10-12-a-i0095,1455,1467,Méditerranée,Q4918,LOC,NIL,Méditerranée,no,0
+GDL-1948-07-15-a-i0035,266,277,rue du Midi,NIL,LOC,Q3452448,rue du Midi,,28.036951065063477
+GDL-1948-07-15-a-i0035,284,304,carrefour du Tilleul,NIL,LOC,Q20669830,place Henri-Rol-Tanguy,"```json { ""wikipedia_page"": ""place Henri-Rol-Tanguy"", ""wikidata_id"": ""Q20669830"" } ```",18.383926391601562
+GDL-1948-07-15-a-i0035,703,720,Temple du Cloître,NIL,LOC,Q107118261,cloître Notre-Dame de Chartres,"```json { ""wikipedia_page"": ""Cloître Notre-Dame de Chartres"", ""wikidata_id"": ""Q107118261"" } ```",15.897283554077148
+GDL-1948-07-15-a-i0035,1162,1167,C. P.,NIL,PER,Q3001384,CM1,"Based on the input text and the provided JSON list of candidates, the entity tagged with [ENT] is likely to be ""CP"" which stands for ""championnat scolaire"". The most appropriate Wikidata entity from the provided candidates is ""CP"" with the Wikipedia page ""CM1"" and Wikidata ID ""Q3001384"". Here is the JSON-formatted answer: ```json { ""wikipedia_page"": ""CM1"", ""wikidata_id"": ""Q3001384"" } ```",3.9553487300872803
+GDL-1948-07-15-a-i0035,1825,1836,R. Deladoey,NIL,PER,Q3174396,Jean Roidot-Déléage,,24.32123565673828
+GDL-1948-07-15-a-i0035,1862,1875,C. Chevillard,NIL,PER,Q1029147,Camille Chevillard,,31.828567504882812
+GDL-1948-07-15-a-i0035,1894,1902,H. Cross,NIL,PER,Q3132707,Henry Cros,,22.162843704223633
+GDL-1948-07-15-a-i0035,1974,1988,J. Oberhaensli,NIL,PER,Q12949133,Jeanne Rousselois,,22.393142700195312
+GDL-1948-07-15-a-i0035,2006,2009,BEX,Q52261,LOC,NIL,BEX,No.,0
+GDL-1948-07-15-a-i0035,2149,2156,Soutier,NIL,PER,Q3168682,Jean-Paul Sauthier,"After analyzing the input text and the provided candidates, the most appropriate Wikidata entity for the entity tagged by [ENT] tags is ""Jean-Paul Sauthier"". This entity is a player of hockey on grass who was born in 1942, which fits the context of the article. Here is the JSON-formatted response: ```json {""wikipedia_page"":""Jean-Paul Sauthier"", ""wikidata_id"":""Q3168682""} ```",15.203704833984375
+GDL-1948-07-15-a-i0035,2158,2164,Favrod,NIL,PER,Q19629148,Maxime Favrod,"Based on the provided text, the entity mentioned between the [ENT] tags is ""Favrod"". After examining the list of candidates, the most appropriate Wikidata entity for ""Favrod"" is: ```json {""wikipedia_page"":""Maxime Favrod"", ""wikidata_id"":""Q19629148""} ```",18.39508819580078
+GDL-1948-07-15-a-i0035,2183,2215,"premier des candidats, M. Buitin",NIL,PER,Q3309089,Michel Boutin,"```json { ""wikipedia_page"": ""Michel Boutin"", ""wikidata_id"": ""Q3309089"" } ```",10.918850898742676
+GDL-1948-07-15-a-i0035,2379,2387,Tavalles,NIL,LOC,Q1353747,vallée de Tavannes,,29.258893966674805
+GDL-1948-07-15-a-i0035,2447,2466,Chapelle des Posses,NIL,LOC,Q937599,La Chapelle-des-Pots,"Based on the provided input text, the entity mentioned within the [ENT] tags is ""Chapelle des Posses"". Among the provided list of candidates, the most appropriate Wikidata entity is: ``` { ""wikipedia_page"": ""La Chapelle-des-Pots"", ""wikidata_id"": ""Q937599"" } ``` Thus, the JSON output is: ```json { ""wikipedia_page"": ""La Chapelle-des-Pots"", ""wikidata_id"": ""Q937599"" } ```",18.364879608154297
+GDL-1948-07-15-a-i0035,2490,2500,M. Reymond,NIL,PER,Q1605991,Henri Reymond,"Based on the provided input text and the list of candidates, the entity mentioned between the [ENT] tags is likely to be 'Henri Reymond' ('architecte à La Tour de Peilz'). The most appropriate Wikidata entity from the given list of candidates for this entity is: ```json { ""wikipedia_page"": ""Henri Reymond"", ""wikidata_id"": ""Q1605991"" } ```",14.634040832519531
+GDL-1948-07-15-a-i0035,2566,2589,M. le syndic Sollberger,Q2960241,PER,NIL,M. le syndic Sollberger,no,0
+GDL-1948-07-15-a-i0035,2624,2631,Solalex,Q27849991,LOC,NIL,Solalex,No.,0
+GDL-1948-07-15-a-i0035,2925,2959,Société de développement de Renens,NIL,ORG,Q69745,Renens,"```json {""wikipedia_page"":""Renens"", ""wikidata_id"":""Q69745""} ```",19.591886520385742
+GDL-1948-07-15-a-i0035,3024,3033,Chavannes,Q22485060,LOC,Q52704,Chavannes-le-Chêne,,26.703554153442383
+GDL-1948-07-15-a-i0035,3036,3051,Clardon Antoine,NIL,PER,Q2853687,Antoine Blatin,,25.405349731445312
+GDL-1948-07-15-a-i0035,3064,3069,Moraz,NIL,PER,Q124580,René Morax,"```json { ""wikipedia_page"": ""René Morax"", ""wikidata_id"": ""Q124580"" } ```",15.31810474395752
+GDL-1948-07-15-a-i0035,3071,3079,Crissier,Q57121,LOC,NIL,Crissier,```json {} ```,0
+GDL-1948-07-15-a-i0035,3095,3103,Christin,NIL,PER,Q1063395,Charles-Gabriel-Frédéric Christin,"Based on the input text and the list of candidates, the disambiguated entity mentioned between the [ENT] tags is: ```json {""wikipedia_page"":""Charles-Gabriel-Frédéric Christin"", ""wikidata_id"":""Q1063395""} ```",14.47678279876709
+GDL-1948-07-15-a-i0035,3141,3156,Arthur Miéville,NIL,PER,Q78066642,Adrien Miéville,,25.027904510498047
+GDL-1948-07-15-a-i0035,3174,3180,Renens,Q69745,LOC,Q647,Rennes,,29.020565032958984
+GDL-1948-07-15-a-i0035,3231,3240,Chavannes,Q22485060,LOC,Q1168879,Chevannes,,26.031341552734375
+GDL-1948-07-15-a-i0035,3252,3260,Crissier,Q57121,LOC,NIL,Crissier,No.,0
+GDL-1948-07-15-a-i0035,3264,3270,Renens,Q69745,LOC,Q647,Rennes,,27.814002990722656
+GDL-1948-07-15-a-i0035,3418,3424,Renens,Q69745,LOC,Q647,Rennes,,26.30830955505371
+GDL-1948-12-11-a-i0039,27,36,Châtelard,Q1809798,LOC,Q861652,Châtelard,,30.28832244873047
+GDL-1948-12-11-a-i0039,63,72,Châtelard,Q1809798,LOC,Q861652,Châtelard,,29.28440284729004
+GDL-1948-12-11-a-i0039,716,725,Châtelard,Q1809798,LOC,Q861652,Châtelard,"Based on the input text and the provided list of candidates, the most appropriate Wikidata entity for the entity tagged with [ENT] in the text appears to be: ```json {""wikipedia_page"":""Châtelard"", ""wikidata_id"":""Q861652""} ``` The context in the text mentions ""commune française du département de la Creuse,"" which matches the description of the candidate listed as ""Châtelard"" in the JSON list of candidates.",20.992876052856445
+GDL-1948-12-11-a-i0039,930,944,Conseil d'Etat,Q662792,ORG,Q769657,Conseil d'État,"Based on the input text, the entity [ENT] Conseil d'État [ENT] likely refers to the French Conseil d'État. Among the provided candidates, the most appropriate Wikidata entity is: ```json {""wikipedia_page"": ""Conseil d'État"", ""wikidata_id"": ""Q769657""} ```",17.991769790649414
+GDL-1958-07-29-a-i0071,146,159,Confédération,Q39,LOC,NIL,Confédération,no,0
+GDL-1968-05-30-a-i0128,1034,1058,"Aile-, magne occidentale",Q713750,LOC,NIL,"Aile-, magne occidentale",no,0
+GDL-1968-05-30-a-i0128,1137,1139,Ap,Q40469,ORG,NIL,Ap,```json {} ```,0
+GDL-1968-11-02-a-i0267,792,798,Morand,Q272,PER,Q15268944,Eugène Morand,,25.682355880737305
+GDL-1968-11-02-a-i0267,2698,2710,Schlumberger,Q322520,PER,Q704218,Gustave Schlumberger,,29.321062088012695
+GDL-1968-11-02-a-i0267,2930,2942,Schlumberger,Q322520,PER,Q704218,Gustave Schlumberger,,28.657583236694336
+GDL-1968-11-02-a-i0267,3326,3329,NRF,Q616067,ORG,NIL,NRF,```json {} ```,0
+GDL-1968-11-02-a-i0267,3435,3440,Ramuz,Q123635,PER,NIL,Ramuz,no,0
+GDL-1968-11-02-a-i0267,3839,3853,Euscbio Martin,NIL,PER,Q2889235,Eusebio Pérez Martín,"Given the input text and the list of candidates, the entity mentioned between the [ENT] tags is ""Euscbio Martin"". Based on the provided candidates, the most appropriate Wikidata entity for ""Euscbio Martin"" is: ```json { ""wikipedia_page"": ""Eusebio Pérez Martín"", ""wikidata_id"": ""Q2889235"" } ``` Thus, the JSON-formatted answer is: ```json { ""wikipedia_page"": ""Eusebio Pérez Martín"", ""wikidata_id"": ""Q2889235"" } ```",20.65897560119629
+GDL-1968-11-02-a-i0267,4500,4514,Eusebio Martin,NIL,PER,Q16031392,,,25.541975021362305
+GDL-1968-11-02-a-i0267,4818,4870,"M. Gonzalo Arias, fonctionnaire de ! Unesco, à Paris",Q3699081,PER,NIL,"M. Gonzalo Arias, fonctionnaire de ! Unesco, à Paris",no,0
+GDL-1968-11-02-a-i0267,6766,6785,France Albin-Michel,Q2831889,PER,Q2190366,Éditions Albin Michel,"```json {""wikipedia_page"":""Éditions Albin Michel"", ""wikidata_id"":""Q2190366""} ```",19.73354148864746
+GDL-1968-11-02-a-i0267,6917,6932,Israélien Agnon,Q133042,PER,NIL,Israélien Agnon,no,0
+GDL-1968-11-02-a-i0267,7275,7297,Municipalité de Thonon,NIL,ORG,Q28942567,Thonon Agglomération,,29.600505828857422
+GDL-1968-11-02-a-i0267,7579,7599,Municipalité de Caen,NIL,ORG,Q41185,Caen,,28.95174217224121
+GDL-1968-11-02-a-i0267,8049,8058,Normandie,Q18677875,LOC,Q15878,Normandie,,25.046863555908203
+GDL-1968-11-02-a-i0267,8331,8349,Gazette littéraire,NIL,PROD,Q3099770,Gazette littéraire de l'Europe,"Based on the provided text, the entity mentioned between the [ENT] tags is likely the ""Gazette littéraire"". Among the given candidates, the closest match is: - ""Gazette littéraire de l'Europe"" JSON response: ```json {""wikipedia_page"":""Gazette littéraire de l'Europe"", ""wikidata_id"":""Q3099770""} ```",19.247222900390625
+GDL-1968-11-02-a-i0267,8606,8611,Paris,Q90,LOC,Q857276,musée d'Art moderne de Paris,"```json { ""wikipedia_page"": ""musée d'Art moderne de Paris"", ""wikidata_id"": ""Q857276"" } ```",13.851924896240234
+GDL-1968-11-02-a-i0267,8626,8643,Galerie Sonnabend,NIL,ORG,Q531499,Ileana Sonnabend,,22.722436904907227
+GDL-1968-11-02-a-i0267,8911,8917,Maeght,Q2742485,ORG,Q1435689,Fondation Maeght,,23.244892120361328
+GDL-1968-11-02-a-i0267,8933,8948,Galerie Speyers,NIL,ORG,Q87671134,Kunstverein Speyer,,23.490217208862305
+GDL-1968-11-02-a-i0267,9525,9530,Seine,Q1471,LOC,NIL,Seine,no,0
+GDL-1978-06-23-a-i0197,414,420,Israël,Q801,LOC,NIL,Israël,```json {} ```,0
+GDL-1978-06-23-a-i0197,521,534,Proche-Orient,Q7204,LOC,Q48214,Proche-Orient,,32.635345458984375
+GDL-1978-06-23-a-i0197,752,767,Louis Wiznitzer,NIL,PER,Q16744989,Luis Kemnitzer,,26.821067810058594
+GDL-1978-06-23-a-i0197,1537,1590,"M. Holding Carter, porte-parole du Département d'Etat",Q5875974,PER,Q17279657,porte-parole du département d'État des États-Unis,"```json { ""wikipedia_page"": ""porte-parole du département d'État des États-Unis"", ""wikidata_id"": ""Q17279657"" } ```",16.18428611755371
+GDL-1978-06-23-a-i0197,1716,1769,"M. Javits, sénateur de New York juif et pro-israèlien",Q1875906,PER,NIL,"M. Javits, sénateur de New York juif et pro-israèlien",```json {} ```,0
+GDL-1978-06-23-a-i0197,2346,2350,Gaza,Q39760,LOC,Q47492,Gaza,,26.281389236450195
+GDL-1978-06-23-a-i0197,2365,2371,Israël,Q801,LOC,NIL,Israël,```json {} ```,0
+GDL-1988-07-08-a-i0186,55,58,ATS,Q430109,ORG,Q108408357,Admission sur titre,"Based on the provided text, the entity mentioned between the [ENT] tags is likely ""Autorisation de travail"" (Work permit). Among the provided candidates, the closest match is ""Admission sur titre"" (Admission based on title). Here is the JSON-formatted answer: ```json {""wikipedia_page"":""Admission sur titre"", ""wikidata_id"":""Q108408357""} ```",9.059357643127441
+IMP-1908-10-03-a-i0027,22,28,FRANCE,Q142,LOC,NIL,FRANCE,"```json {""wikipedia_page"":"""", ""wikidata_id"":""""} ```",0
+IMP-1908-10-03-a-i0027,535,543,Guillard,NIL,PER,Q3262105,Louis Guillard," { ""wikipedia_page"": ""Louis Guillard"", ""wikidata_id"": ""Q3262105"" }",11.12266731262207
+IMP-1908-10-03-a-i0027,1094,1101,Reindel,NIL,PER,Q1461675,Friedrich Reindel," { ""wikipedia_page"": ""Friedrich Reindel"", ""wikidata_id"": ""Q1461675"" }",17.681175231933594
+IMP-1908-10-03-a-i0027,1314,1323,Allemagne,Q183,LOC,NIL,Allemagne,no,0
+IMP-1908-10-03-a-i0027,1367,1376,Br eslasi,Q1799,LOC,NIL,Br eslasi,no,0
+IMP-1908-10-03-a-i0027,1408,1415,Reindel,NIL,PER,Q1461675,Friedrich Reindel,"```json { ""wikipedia_page"": ""Friedrich Reindel"", ""wikidata_id"": ""Q1461675"" } ```",16.68637466430664
+IMP-1908-10-03-a-i0027,1467,1476,Hambour'g,Q1055,LOC,NIL,Hambour'g,no,0
+IMP-1908-10-03-a-i0027,1757,1763,RUSSIE,Q159,LOC,NIL,RUSSIE,no,0
+IMP-1908-10-03-a-i0027,1852,1859,Bosdani,NIL,LOC,Q15710469,Bostane,"{""wikipedia_page"":""Bostane"", ""wikidata_id"":""Q15710469""}",12.496220588684082
+IMP-1908-10-03-a-i0027,5835,5891,"M !. Pierpont Morgan, le célèbre milliarc aire américain",Q54168,PER,NIL,"M !. Pierpont Morgan, le célèbre milliarc aire américain",No,0
+IMP-1908-10-03-a-i0027,5999,6024,baron James de Rothschild,Q6128825,PER,Q922667,James de Rothschild,"Based on the input text and the provided list of candidates, the entity mentioned between the [ENT] tags is most likely James de Rothschild. Here is the JSON-formatted answer: ```json {""wikipedia_page"":""James de Rothschild"", ""wikidata_id"":""Q922667""} ```",19.486980438232422
+IMP-1938-09-23-a-i0145,140,164,Prague La Chaux-de-Fonds,Q68124,LOC,Q1085,Prague,"```json { ""wikipedia_page"": ""Prague"", ""wikidata_id"": ""Q1085"" } ```",13.774693489074707
+IMP-1938-09-23-a-i0145,398,404,Berlin,Q64,LOC,NIL,Berlin,no,0
+IMP-1938-09-23-a-i0145,651,657,Prague,Q1085,LOC,Q748211,Vieille Ville de Prague,"```json {""wikipedia_page"":""Vieille Ville de Prague"", ""wikidata_id"":""Q748211""} ```",10.928942680358887
+IMP-1938-09-23-a-i0145,884,889,Reich,Q7318,LOC,Q960541,Reich,"Based on the provided text and the list of candidates, the entity mentioned between the [ENT] tags is ""Reich"". The most appropriate Wikidata entity from the given list of candidates for this context is: ```json {""wikipedia_page"": ""Reich"", ""wikidata_id"": ""Q960541""} ```",13.89773178100586
+IMP-1938-09-23-a-i0145,943,949,Prague,Q1085,LOC,NIL,Prague,```json {} ```,0
+IMP-1938-09-23-a-i0145,1072,1078,Hitler,Q352,PER,NIL,Hitler,```json {} ```,0
+IMP-1938-09-23-a-i0145,1518,1535,chancelier Hitler,Q352,PER,NIL,chancelier Hitler,no,0
+IMP-1938-09-23-a-i0145,2229,2237,Varsovie,Q270,LOC,NIL,Varsovie,```json {} ```,0
+IMP-1938-09-23-a-i0145,3021,3027,Epoque,Q63171281,PROD,Q112206500,L'Époque,"```json {""wikipedia_page"":""L'Époque"", ""wikidata_id"":""Q112206500""} ```",10.278185844421387
+IMP-1938-09-23-a-i0145,3151,3157,Europe,Q46,LOC,Q466039,Europe continentale,"Based on the given input text and the list of candidates, the most appropriate Wikidata entity for the entity tagged with [ENT] is ""Europe continentale"". This entity is the most relevant as it refers to the continent of Europe, which is mentioned in the context of the text. Here is the JSON response: ```json {""wikipedia_page"":""Europe continentale"", ""wikidata_id"":""Q466039""} ```",13.234106063842773
+IMP-1938-09-23-a-i0145,3319,3325,Berlin,Q64,LOC,NIL,Berlin,no,0
+IMP-1938-09-23-a-i0145,3396,3401,Paris,Q90,LOC,NIL,Paris,"""no""",0
+IMP-1938-09-23-a-i0145,3486,3492,Europe,Q46,LOC,Q1320053,Europe sous domination nazie,"Based on the input text and the provided list of candidates, the most appropriate Wikidata entity corresponding to the entity tagged with [ENT] is: ```json {""wikipedia_page"":""Europe sous domination nazie"", ""wikidata_id"":""Q1320053""} ```",12.424224853515625
+IMP-1938-09-23-a-i0145,3905,3910,Reich,Q7318,ORG,Q960541,Reich,"The entity mentioned between the [ENT] tags is ""Reich."" This term is frequently used in historical contexts to refer to the German Empire or Reich. Based on the context provided and the list of candidates, the most appropriate Wikidata entity is: ```json {""wikipedia_page"": ""Reich"", ""wikidata_id"": ""Q960541""} ```",13.661967277526855
+IMP-1938-09-23-a-i0145,4003,4011,Roumanie,Q218,LOC,NIL,Roumanie,```json {} ```,0
+IMP-1938-09-23-a-i0145,4294,4297,P..,NIL,PER,Q3384204,Pierre Broussain,"Based on the input text and the provided list of candidates, the entity mentioned between the [ENT] tags appears to be ""Pierre Broussain"". Therefore, the selected Wikidata entity is: ```json {""wikipedia_page"":""Pierre Broussain"", ""wikidata_id"":""Q3384204""} ```",5.2308502197265625
+IMP-1958-02-28-a-i0106,225,240,M. Paul Chaudet,Q118284,PER,Q43510162,Claude Pahud,,27.39002227783203
+IMP-1958-02-28-a-i0106,684,713,Département militaire fédéral,NIL,ORG,Q667135,"département fédéral de la défense, de la protection de la population et des sports",,28.32516860961914
+IMP-1958-02-28-a-i0106,1004,1014,M. Chaudet,Q118284,PER,Q3309719,Michel Gaudet,,22.962961196899414
+IMP-1958-02-28-a-i0106,1218,1244,Conseiller fédéral Chaudet,Q118284,PER,Q1065124,Charles Juillard,,24.0967960357666
+IMP-1958-02-28-a-i0106,1573,1602,Département militaire fédéral,NIL,ORG,Q667135,"département fédéral de la défense, de la protection de la population et des sports",,26.489334106445312
+IMP-1958-02-28-a-i0106,1626,1676,Conseiller d'Etat et aux Etats Jean-Louis Barrelet,NIL,PER,Q96261376,Jean-Louis Barrelet,"Based on the input text provided, the entity mentioned between the [ENT] tags is likely Jean-Louis Barrelet. Out of the given candidates, the most appropriate match is: ```json {""wikipedia_page"": ""Jean-Louis Barrelet"", ""wikidata_id"": ""Q96261376""} ```",21.08940887451172
+IMP-1958-02-28-a-i0106,1680,1720,"M. Jules Favre, vice-président de l'ANEP",NIL,PER,Q420444,Gouvernement Alain Juppé II,"```json {""wikipedia_page"":""Gouvernement Alain Juppé II"", ""wikidata_id"":""Q420444""} ```",15.428895950317383
+IMP-1988-12-30-a-i0015,0,11,Marie-Laure,NIL,PER,Q109044425,Marie-Laure,"```json {""wikipedia_page"":""Marie-Laure"", ""wikidata_id"":""Q109044425""} ```",18.339223861694336
+IMP-1988-12-30-a-i0015,122,134,Méditerranée,Q155552,LOC,NIL,Méditerranée,```json {} ```,0
+IMP-1988-12-30-a-i0015,191,241,groupe palestinien dissident Fatah-CR d'Abou Nidal,Q1638579,ORG,NIL,groupe palestinien dissident Fatah-CR d'Abou Nidal,no,0
+IMP-1988-12-30-a-i0015,268,279,Marie-Laure,NIL,PER,Q109044425,Marie-Laure,"```json {""wikipedia_page"": ""Marie-Laure"", ""wikidata_id"": ""Q109044425""} ```",17.17051124572754
+IMP-1988-12-30-a-i0015,283,291,Virginie,NIL,PER,Q18589835,Nadia Khiari,,23.940645217895508
+IMP-1988-12-30-a-i0015,704,734,agence de presse libyenne Jana,Q1163812,ORG,Q192283,agence de presse,,25.202043533325195
+IMP-1988-12-30-a-i0015,966,976,M. Bouvier,Q3270771,PER,NIL,M. Bouvier,no,0
+IMP-1988-12-30-a-i0015,1002,1020,Jacqueline Valente,NIL,PER,Q22210048,Jacqueline Cadet,,31.891088485717773
+IMP-1988-12-30-a-i0015,1589,1609,Mme Brigitte Valente,NIL,PER,Q3087834,Frigide Barjot,,24.96627426147461
+IMP-1988-12-30-a-i0015,1793,1796,ats,Q430109,ORG,NIL,ats,no,0
+IMP-1998-07-23-a-i0080,109,145,"président palestinien, Yasser Arafat",Q34211,PER,Q2336111,président de l'Autorité palestinienne,,24.021320343017578
+IMP-2008-04-28-a-i0239,236,241,Pékin,Q956,LOC,Q8567,Jeux olympiques d'été de 2008,"```json { ""wikipedia_page"": ""Jeux olympiques d'été de 2008"", ""wikidata_id"": ""Q8567"" } ```",16.760848999023438
+IMP-2008-04-28-a-i0239,273,285,Stade Genève,NIL,ORG,Q215295,Stade de Genève,,27.047393798828125
+IMP-2008-04-28-a-i0239,386,394,Breuleux,Q68086,LOC,NIL,Breuleux,```json {} ```,0
+IMP-2008-04-28-a-i0239,672,678,Suisse,Q39,LOC,NIL,Suisse,no,0
+IMP-2008-04-28-a-i0239,763,782,Kényan Daid Mandago,Q936612,PER,NIL,Kényan Daid Mandago,"{ ""wikipedia_page"": ""Daid Mandago"", ""wikidata_id"": ""Q1325701"" }",0
+IMP-2008-04-28-a-i0239,810,835,compatriote Wilfred Kigen,Q351451,PER,NIL,compatriote Wilfred Kigen,no,0
+IMP-2008-04-28-a-i0239,1118,1143,compatriotes Duncan Kibet,Q922817,PER,NIL,compatriotes Duncan Kibet,no,0
+IMP-2008-04-28-a-i0239,1163,1187,Roumaine Luminata Talpos,NIL,PER,Q1117558,Luminița Talpoș,"Based on the analysis of the input text, the entity mentioned between the [ENT] tags is ""Luminata Talpos"". The most appropriate Wikidata entity from the provided list of candidates is: ```json {""wikipedia_page"":""Luminița Talpoș"", ""wikidata_id"":""Q1117558""} ```",21.85161590576172
+IMP-2008-04-28-a-i0239,1249,1265,si STÉPHANE JOLY,Q2360344,PER,NIL,si STÉPHANE JOLY,no,0
+IMP-2008-10-17-a-i0019,1336,1342,Suisse,Q39,LOC,NIL,Suisse,no,0
+IMP-2008-10-17-a-i0019,1535,1541,Suisse,Q39,LOC,Q7659143,Switzerland,"```json { ""wikipedia_page"": ""Switzerland"", ""wikidata_id"": ""Q7659143"" } ```",10.411473274230957
+IMP-2008-10-17-a-i0019,2086,2089,BNS,Q597394,ORG,Q309195,Banque des règlements internationaux,,22.173351287841797
+IMP-2008-10-17-a-i0019,2322,2325,BNS,Q597394,ORG,Q66344,banque centrale,,22.834686279296875

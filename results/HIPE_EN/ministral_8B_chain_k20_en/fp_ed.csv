@@ -1,0 +1,205 @@
+doc_id,start_pos,end_pos,surface,gt_id,type,identifier,title,answer,score
+sn83030483-1790-01-02-a-i0004,7,15,VIRGINIA,Q64358128,LOC,NIL,VIRGINIA,no,0
+sn83030483-1790-01-02-a-i0004,61,69,NEW-YORK,Q60,LOC,NIL,NEW-YORK,no,0
+sn83030483-1790-01-02-a-i0004,227,242,Uni¬ ted Stares,Q30,LOC,NIL,Uni¬ ted Stares,no,0
+sn83030483-1790-02-10-a-i0002,0,19,PRESIDENT SULL IVAN,Q886420,PER,NIL,PRESIDENT SULL IVAN,No,0
+sn83030483-1790-02-10-a-i0002,43,49,Senate,Q1525949,ORG,NIL,Senate,no,0
+sn83030483-1790-02-10-a-i0002,1420,1433,United States,Q30,LOC,NIL,United States,no,0
+sn83030483-1790-02-10-a-i0002,1593,1606,Federal Court,Q194907,ORG,NIL,Federal Court,```json {} ```,0
+sn83030483-1790-02-10-a-i0002,3097,3124,Senate of the United States,Q66096,ORG,NIL,Senate of the United States,```json {} ```,0
+sn83030483-1790-02-10-a-i0002,3495,3510,New- Hampfttire,Q759,LOC,Q1617382,Province of New Hampshire,"```json { ""wikipedia_page"": ""Province of New Hampshire"", ""wikidata_id"": ""Q1617382"" } ```",16.20800018310547
+sn83030483-1790-02-10-a-i0002,4081,4094,JOHN SULLIVAN,Q886420,PER,NIL,JOHN SULLIVAN,```json {} ```,0
+sn83030483-1790-03-03-a-i0004,53,63,ofBruffels,Q239,LOC,NIL,ofBruffels,no,0
+sn83030483-1790-03-03-a-i0004,491,506,General D’Alton,Q3934904,PER,NIL,General D’Alton,"Based on the provided text and the given list of candidates, the entities mentioned between the [ENT] tags are ""General D'Alton"" and ""General D'Alton"". Given the list of candidates: - ""Alexandre d'Alton"" (Q2834153) - ""Charles de Batz-Castelmore d'Artagnan"" (Q744183) - ""Eduard d'Alton"" (Q1290536) - ""Richard d'Alton"" (Q3934904) - ""Osip Francevič Dolon"" (Q4165092) - ""Louis François d'Arlandes de Salton"" (Q3261951) - ""George Douglas, 1st Earl of Dumbarton"" (Q5538593) - ""Jacques-Antoine-Adrien Delort"" (Q3157863) - ""Adam Dollard des Ormeaux"" (Q1748172) - ""Jean-François Delort de Gléon"" (Q3165570) - ""Frank Dalton"" (Q5486143) ",0
+sn83030483-1790-03-03-a-i0004,616,630,Benden-D’Aloft,NIL,PER,Q5986008,Ichabod Alden,"{""wikipedia_page"":""Ichabod Alden"", ""wikidata_id"":""Q5986008""}",12.522526741027832
+sn83030483-1790-03-03-a-i0004,735,750,General D’Alton,Q3934904,PER,Q2834153,Alexandre d'Alton,"```json { ""wikipedia_page"": ""Alexandre d'Alton"", ""wikidata_id"": ""Q2834153"" } ```",20.38577651977539
+sn83030483-1790-03-03-a-i0004,884,894,Bafleville,NIL,LOC,Q211684,Barfleur,"```json {""wikipedia_page"": ""Barfleur"", ""wikidata_id"": ""Q211684""} ```",13.368359565734863
+sn83030483-1790-03-03-a-i0004,1597,1601,Park,Q1892311,LOC,NIL,Park,```json {} ```,0
+sn83030483-1790-03-03-a-i0004,1610,1625,Pal¬ ace Royale,Q635307,LOC,Q329948,Palais-Royal,"Based on the provided input text and the list of candidates, the entity mentioned between the [ENT] tags, which is ""Pal¬ ace Royale [ENT]"", is likely to be the ""Palais-Royal"". Here is the corresponding JSON object: ```json {""wikipedia_page"": ""Palais-Royal"", ""wikidata_id"": ""Q329948""} ```",13.203330993652344
+sn83030483-1790-03-03-a-i0004,1746,1753,D’Alton,Q3934904,PER,Q2834153,Alexandre d'Alton,"```json {""wikipedia_page"": ""Alexandre d'Alton"", ""wikidata_id"": ""Q2834153""} ```",21.270862579345703
+sn83030483-1790-03-03-a-i0004,2002,2016,Porte de Namur,Q3399071,LOC,Q2153197,Porte de Namur/Naamsepoort metro station,"```json { ""wikipedia_page"": ""Porte de Namur/Naamsepoort metro station"", ""wikidata_id"": ""Q2153197"" } ```",16.33635139465332
+sn84026272-1800-07-09-a-i0003,8,36,Gazstte of the Unites States,Q1496634,PROD,NIL,Gazstte of the Unites States,No.,0
+sn84026272-1800-07-09-a-i0003,53,106,"THOMAS JEFFERSON, Vise President of the Unit.! States",Q11812,PER,NIL,"THOMAS JEFFERSON, Vise President of the Unit.! States",no,0
+sn84026272-1800-07-09-a-i0003,3502,3510,Virginia,Q1370,LOC,Q878942,Governor of Virginia,"Based on the input text and the provided candidates, the entity between the [ENT] tags is likely ""Governor of Virginia"". This is the only candidate that fits the context of the text, which discusses the governor's role and actions. ```json {""wikipedia_page"":""Governor of Virginia"",""wikidata_id"":""Q878942""} ```",14.069637298583984
+sn84026272-1800-07-09-a-i0003,4255,4263,COLUMBUS,NIL,PER,Q7322,Christopher Columbus,"```json {""wikipedia_page"":""Christopher Columbus"", ""wikidata_id"":""Q7322""} ```",17.267229080200195
+sn84026272-1800-10-16-a-i0001,0,24,District of Pennsylvania,Q7163624,LOC,Q7163169,Penn District,"Based on the input text and the provided list of candidates, the most appropriate Wikidata entity for the entity tagged as [ENT] District of Pennsylvania is ""District of Pennsylvania"" with the following details: ```json {""wikipedia_page"": ""District of Pennsylvania"", ""wikidata_id"": ""Q7163169""} ```",19.371463775634766
+sn84026272-1800-10-16-a-i0001,164,183,Alexan¬ der Addison,NIL,PER,Q25184130,Alexander Addison,"Based on the input text and the given list of candidates, the most appropriate Wikidata entity for the entity tagged with [ENT] is: ```json {""wikipedia_page"":""Alexander Addison"", ""wikidata_id"":""Q25184130""} ```",22.769298553466797
+sn84026272-1800-10-16-a-i0001,438,459,State of Pennsylvania,Q7603789,ORG,Q1400,Pennsylvania,"Based on the provided text and the list of candidates, the entity mentioned between the [ENT] tags is clearly referring to the ""State of Pennsylvania."" This entity matches with the candidate with the Wikipedia page ""Pennsylvania"" and Wikidata ID ""Q1400."" Here is the JSON object with the selected entity: ```json {""wikipedia_page"": ""Pennsylvania"", ""wikidata_id"": ""Q1400""} ```",28.242826461791992
+sn84026272-1800-10-16-a-i0001,516,624,"Alexander Addison, President of the Courts of Common Pleas of me Fifth Cir¬ cuit of the State of Pennlylvann",Q25184130,PER,NIL,"Alexander Addison, President of the Courts of Common Pleas of me Fifth Cir¬ cuit of the State of Pennlylvann",```json {} ```,0
+sn84026272-1800-10-16-a-i0001,655,686,Congress of the Uni¬ ted States,Q11268,ORG,NIL,Congress of the Uni¬ ted States,no,0
+sn84026272-1800-10-16-a-i0001,998,1019,"Mr, Dobson Bookseller",NIL,PER,Q13440730,Thomas Dobson,"{ ""wikipedia_page"": ""Thomas Dobson"", ""wikidata_id"": ""Q13440730"" }",15.166824340820312
+sn84026272-1800-12-27-a-i0002,464,470,Fiance,Q142,LOC,NIL,Fiance,No,0
+sn84026272-1800-12-27-a-i0002,817,821,OTTO,NIL,PER,Q150512,Otto II,"```json { ""wikipedia_page"": ""Otto II"", ""wikidata_id"": ""Q150512"" } ```",4.528416633605957
+sn82014385-1810-01-06-a-i0001,297,307,Christiana,Q11103025,LOC,NIL,Christiana,```json {} ```,0
+sn82014385-1810-01-06-a-i0001,355,368,Turnpike road,NIL,LOC,Q269949,highway,"Based on the provided text and the list of candidates, the most appropriate Wikidata entity for the entities mentioned between the [ENT] tags appears to be: - ""highway"" This is because the text mentions ""Turnpike road,"" which is a type of highway. Therefore, the JSON response would be: ```json {""wikipedia_page"":""highway"", ""wikidata_id"":""Q269949""} ```",18.543663024902344
+sn82014385-1810-01-06-a-i0001,386,398,Gap Ta¬ vern,NIL,LOC,Q692032,Gap,"Based on the analysis of the input text and the given list of candidates, the entities mentioned within the [ENT] tags are likely referring to geographical locations. Specifically, the text mentions ""Gap"" and ""Cumberland Gap."" From the list of candidates, the most appropriate entity for ""Gap"" is the ""Gap"" in Lancaster County, Pennsylvania, United States, and for ""Cumberland Gap,"" it is the ""Cumberland Gap"" in the Cumberland Mountains. Therefore, the disambiguated entities are: ```json {""wikipedia_page"": ""Gap"", ""wikidata_id"": ""Q692032""} ``` and ```json {""wikipedia_page"": ""Cumberland Gap"", ""wikidata_id"": ""Q2796951""} ```",12.989070892333984
+sn82014385-1810-01-06-a-i0001,615,632,state of Delaware,Q1393,LOC,NIL,state of Delaware,no,0
+sn82014385-1810-01-06-a-i0001,1145,1155,Wilmington,Q174224,LOC,Q949651,Wilmington,"```json {""wikipedia_page"":""Wilmington"",""wikidata_id"":""Q949651""} ```",18.706071853637695
+sn82014385-1810-01-06-a-i0001,1226,1236,Wilmington,Q174224,LOC,NIL,Wilmington,no,0
+sn82014385-1810-04-04-a-i0003,19,33,Captain Taylor,NIL,PER,Q5083062,Charles Tyler,"```json { ""wikipedia_page"": ""Charles Tyler"", ""wikidata_id"": ""Q5083062"" } ```",13.376008987426758
+sn82014385-1810-04-04-a-i0003,69,81,Philadelphia,Q1345,LOC,NIL,Philadelphia,no,0
+sn82014385-1810-04-04-a-i0003,98,103,Cadiz,Q15682,LOC,NIL,Cadiz,no,0
+sn82014385-1810-04-04-a-i0003,256,266,Port Maria,Q203040,LOC,NIL,Port Maria,no,0
+sn82014385-1810-04-04-a-i0003,553,564,king Joseph,Q7726,PER,NIL,king Joseph,no,0
+sn82014385-1810-04-04-a-i0003,619,624,Cadiz,Q15682,LOC,NIL,Cadiz,no,0
+sn82014385-1810-04-04-a-i0003,684,693,Cadiz Bay,NIL,LOC,Q662059,Bay of Cádiz,"```json {""wikipedia_page"":""Bay of Cádiz"",""wikidata_id"":""Q662059""} ```",27.202417373657227
+sn82014385-1810-04-04-a-i0003,893,898,Cadiz,Q15682,LOC,NIL,Cadiz,No,0
+sn82014385-1810-04-14-a-i0004,2021,2030,Mr. Vance,NIL,PER,Q8019675,William Van Duzer Lawrence,"```json {""wikipedia_page"":""William Van Duzer Lawrence"", ""wikidata_id"":""Q8019675""} ```",10.455510139465332
+sn82014385-1810-04-14-a-i0004,2032,2049,178 Market-street,NIL,LOC,Q570717,1818 Market Street,"Based on the provided input text and the list of candidates, the entity mentioned between the [ENT] tags is ""178 Market-street"". The most appropriate Wikidata entity from the given list of candidates is: ```json { ""wikipedia_page"": ""1818 Market Street"", ""wikidata_id"": ""Q570717"" } ```",14.572991371154785
+sn82014385-1810-04-14-a-i0004,2231,2255,"Market street, Baltimore",NIL,LOC,Q6770743,Market Street,"Here is the disambiguated entity: ```json {""wikipedia_page"":""Market Street"", ""wikidata_id"":""Q6770743""} ```",12.250120162963867
+sn82014385-1810-05-30-a-i0001,150,163,United States,Q30,LOC,NIL,United States,no,0
+sn82014385-1810-05-30-a-i0001,469,482,United Stares,Q30,LOC,NIL,United Stares,no,0
+sn82014385-1810-05-30-a-i0001,1833,1846,United Slates,Q30,LOC,NIL,United Slates,no,0
+sn82014385-1810-05-30-a-i0001,2931,2984,"J. B. Varnum, Speaker of the House of Representatives",Q1706673,PER,Q1702002,John Varnum,"Here is the disambiguated entity and the corresponding Wikipedia page title and Wikidata ID based on the provided text and list of candidates: ```json {""wikipedia_page"":""John Varnum"", ""wikidata_id"":""Q1702002""} ```",26.731843948364258
+sn83026170-1820-05-25-a-i0003,104,120,Tho¬ mas Shields,NIL,PER,Q7794494,Thomas Todhunter Shields,"Based on the provided input text, the entity mentioned between the [ENT] tags is likely ""Thomas Shields"". This entity corresponds to the Wikidata ID ""Q7794494"" and the Wikipedia page ""Thomas Todhunter Shields"". ```json {""wikipedia_page"":""Thomas Todhunter Shields"", ""wikidata_id"":""Q7794494""} ```",18.866661071777344
+sn83026170-1820-05-25-a-i0003,196,206,Alexandria,Q88,LOC,NIL,Alexandria,no,0
+sn83026170-1820-06-07-a-i0002,0,7,IRELAXD,Q57695350,LOC,NIL,IRELAXD,no,0
+sn83026170-1820-09-09-a-i0004,29,48,THE AMERICA* FARMER,NIL,PROD,Q4743740,American Farmer," { ""wikipedia_page"": ""American Farmer"", ""wikidata_id"": ""Q4743740"" }",19.200881958007812
+sn83026170-1820-09-09-a-i0004,75,90,AMERICAN FARMER,NIL,PROD,Q4743740,American Farmer,"{""wikipedia_page"":""American Farmer"", ""wikidata_id"":""Q4743740""}",21.04906463623047
+sn83026170-1820-09-09-a-i0004,619,634,American Farmer,NIL,PROD,Q4743740,American Farmer,"```json {""wikipedia_page"":""American Farmer"", ""wikidata_id"":""Q4743740""} ```",18.234216690063477
+sn83026170-1820-09-09-a-i0004,1252,1261,Baltimore,Q5092,LOC,NIL,Baltimore,```json {} ```,0
+sn83026170-1820-09-09-a-i0004,1908,1959,Memoirs of ihe Agricultural Society of Philadelphia,NIL,PROD,Q3237022,Letters from an American Farmer,"```json {""wikipedia_page"":""Letters from an American Farmer"", ""wikidata_id"":""Q3237022""} ```",17.228120803833008
+sn83026170-1820-09-09-a-i0004,2071,2086,American Farmer,NIL,PROD,Q4743740,American Farmer,"```json {""wikipedia_page"":""American Farmer"", ""wikidata_id"":""Q4743740""} ```",17.75261116027832
+sn83026170-1820-09-09-a-i0004,2262,2276,Unit ;d States,Q30,LOC,NIL,Unit ;d States,no,0
+sn83026170-1820-09-09-a-i0004,2519,2532,United States,Q30,LOC,NIL,United States,```json {} ```,0
+sn83026170-1820-09-09-a-i0004,2706,2727,Agricultural Soci ety,NIL,ORG,Q17027757,United States Agricultural Society,"Based on the input text and the list of candidates, it is reasonable to assume that the entity tagged with [ENT] is referring to an agricultural society. The most appropriate candidate from the list is: ```json {""wikipedia_page"": ""United States Agricultural Society"", ""wikidata_id"": ""Q17027757""} ```",15.89643669128418
+sn83026170-1820-09-09-a-i0004,2746,2754,Maryland,Q1391,LOC,Q32486,Eastern Shore of Maryland,"```json { ""wikipedia_page"": ""Eastern Shore of Maryland"", ""wikidata_id"": ""Q32486"" } ```",16.046409606933594
+sn83026170-1820-09-09-a-i0004,2855,2868,United States,Q30,LOC,NIL,United States,```json {} ```,0
+sn83026170-1820-09-09-a-i0004,3103,3113,ROB. MOORE,NIL,PER,Q7052903,Norman W. Moore,"Based on the provided text and candidates, the most appropriate Wikidata entity for the entity tagged with [ENT] ROB. MOORE is: **Norman W. Moore** ```json {""wikipedia_page"": ""Norman W. Moore"", ""wikidata_id"": ""Q7052903""} ```",9.23270320892334
+sn83020874-1830-02-03-a-i0003,372,380,New York,Q60,LOC,NIL,New York,no,0
+sn83020874-1830-02-03-a-i0003,396,405,New Haven,NIL,LOC,Q49145,New Haven,"```json {""wikipedia_page"":""New Haven"", ""wikidata_id"":""Q49145""} ```",24.260883331298828
+sn83020874-1830-02-03-a-i0003,410,418,Hartford,NIL,LOC,Q33486,Hartford,"```json { ""wikipedia_page"": ""Hartford"", ""wikidata_id"": ""Q33486"" } ```",27.295379638671875
+sn83020874-1830-02-03-a-i0003,625,651,Committee on Indian Adairs,Q7891269,ORG,NIL,Committee on Indian Adairs,no,0
+sn83020874-1830-03-03-a-i0004,0,10,Washington,Q61,LOC,NIL,Washington,no,0
+sn83020874-1830-03-03-a-i0004,218,227,New- York,Q60,LOC,NIL,New- York,no,0
+sn84020750-1840-02-08-a-i0002,9,28,Chariest- n Mercury,Q5084157,PROD,NIL,Chariest- n Mercury,no,0
+sn84020750-1840-02-08-a-i0002,744,756,Messrs. Clay,NIL,PER,Q319630,Henry Clay,"Based on the provided text and list of candidates, the entity mentioned between the [ENT] tags ([ENT] Messrs. Clay [ENT]) is ""Henry Clay"". Here is the JSON object with the corresponding Wikipedia page title and Wikidata ID: ```json {""wikipedia_page"":""Henry Clay"", ""wikidata_id"":""Q319630""} ```",9.435657501220703
+sn84020750-1840-02-08-a-i0002,797,801,Clay,NIL,PER,Q319630,Henry Clay,"```json { ""wikipedia_page"": ""Henry Clay"", ""wikidata_id"": ""Q319630"" } ```",12.527714729309082
+sn84020750-1840-07-04-a-i0001,9,37,Otmndagiia (N. A .) Standard,Q7757854,PROD,NIL,Otmndagiia (N. A .) Standard,"""no""",0
+sn84020750-1840-07-04-a-i0001,457,471,Gen. Ilarrisou,Q11869,PER,NIL,Gen. Ilarrisou,no,0
+sn84020750-1840-07-04-a-i0001,499,516,Louisville Legion,NIL,ORG,Q21187928,Louisiana Legion,"Based on the provided text and list of candidates, the most appropriate Wikidata entity for the entity tagged as [ENT] ""Louisville Legion"" is not directly listed among the candidates. However, considering the context and the date of the text, the entity most likely refers to a local militia or military unit related to Louisville. The closest match from the provided list is ""Louisville Legion"" (Q21187928), although it might not be as specific or well-documented. Here's the JSON-formatted result: ```json {""wikipedia_page"":""Louisville Legion"", ""wikidata_id"":""Q21187928""} ```",18.382781982421875
+sn84020750-1840-07-04-a-i0001,1010,1031,Western State Journal,Q7663027,PROD,Q8027325,Wisconsin State Journal,"Based on the input text and the given list of candidates, the most appropriate Wikidata entity for the [ENT] tags is: ```json {""wikipedia_page"":""Wisconsin State Journal"", ""wikidata_id"":""Q8027325""} ```",21.335647583007812
+sn84020750-1840-07-04-a-i0001,1250,1265,Mr. Yan ! Buren,Q11820,PER,NIL,Mr. Yan ! Buren,no,0
+sn84020750-1840-07-18-a-i0001,1156,1170,Penn¬ sylvania,Q1400,LOC,NIL,Penn¬ sylvania,```json {} ```,0
+sn84020750-1840-07-18-a-i0001,7670,7681,Pensylvania,Q1400,LOC,Q739627,Pennsylvania State University,"Given the input text and the list of candidates, the entity mentioned between the [ENT] tags is ""Pensylvania"". The most appropriate Wikidata entity from the list of candidates is ""Pennsylvania State University"" (Q739627). ```json {""wikipedia_page"":""Pennsylvania State University"",""wikidata_id"":""Q739627""} ```",13.515101432800293
+sn84020750-1840-07-18-a-i0001,7902,7914,Pencj-lrnnia,Q1400,LOC,NIL,Pencj-lrnnia,No.,0
+sn84020750-1840-07-18-a-i0001,8274,8286,Pennsylvania,Q1400,LOC,NIL,Pennsylvania,```json {} ```,0
+sn84020750-1840-07-18-a-i0001,8746,8778,democratic party of Pennsylvania,Q7163696,ORG,NIL,democratic party of Pennsylvania,```json {} ```,0
+sn84020750-1840-07-18-a-i0001,9575,9607,democratic party of Pennsylvania,Q7163696,ORG,NIL,democratic party of Pennsylvania,```json {} ```,0
+sn84020750-1840-08-15-a-i0001,49,74,"Elizabeth Cita’ Co., A'a.",Q3688168,LOC,NIL,"Elizabeth Cita’ Co., A'a.",no,0
+sn84020750-1840-08-15-a-i0001,96,121,"Elisabeth City County, Ea",Q3688168,LOC,NIL,"Elisabeth City County, Ea",no,0
+sn84020750-1840-08-15-a-i0001,560,576,General Harrison,Q11869,PER,NIL,General Harrison,no,0
+sn84020750-1840-08-15-a-i0001,793,813,District of Columbia,Q61,LOC,NIL,District of Columbia,```json {} ```,0
+sn84020750-1840-08-15-a-i0001,1061,1079,United States Bank,Q2263849,ORG,NIL,United States Bank,no,0
+sn84020750-1840-08-15-a-i0001,1382,1394,NIr Poinsett,Q723956,PER,NIL,NIr Poinsett,```json {} ```,0
+sn84020750-1840-08-15-a-i0001,1490,1502,Nlr Harrison,Q11869,PER,Q42889387,John Harrison,"```json {""wikipedia_page"":""John Harrison"", ""wikidata_id"":""Q42889387""} ```",15.880115509033203
+sn84020750-1840-08-15-a-i0001,1599,1604,South,Q81931,LOC,Q49042,Southern United States,"Based on the provided text and the list of candidates, the most appropriate Wikidata entity for the [ENT] tags is ""Southern United States"". JSON answer: ```json {""wikipedia_page"":""Southern United States"", ""wikidata_id"":""Q49042""} ```",14.839213371276855
+sn84020750-1840-08-15-a-i0001,1754,1805,"A. G. HUDGINS, M. D. THOMAS JONES, J. P. J. A. CARY",NIL,PER,Q880970,John Albion Andrew,"Based on the input text and the provided JSON list of candidates, the entity [ENT] in the text corresponds to ""A. G. HUDGINS"" and ""J. P. J. A. CARY."" The most appropriate Wikidata entity for these names is ""John Albion Andrew."" Here is the JSON-formatted answer: ```json {""wikipedia_page"":""John Albion Andrew"",""wikidata_id"":""Q880970""} ```",11.515393257141113
+sn84020750-1840-08-15-a-i0001,1807,1856,"Hon. M. Van Blrln, President U. S. It 'asliington",Q61,LOC,NIL,"Hon. M. Van Blrln, President U. S. It 'asliington",```json {} ```,0
+sn85042404-1880-03-09-a-i0004,52,64,Steve Venard,NIL,PER,Q7610753,Stephen Venard,"```json { ""wikipedia_page"": ""Stephen Venard"", ""wikidata_id"": ""Q7610753"" } ```",31.46942901611328
+sn85042404-1880-03-09-a-i0004,862,868,Yenard,NIL,PER,Q1387082,Jean Errard,"```json {""wikipedia_page"":""Jean Errard"", ""wikidata_id"":""Q1387082""} ```",13.869406700134277
+sn85042404-1880-03-09-a-i0004,1825,1833,Ve¬ nard,NIL,PER,Q1144826,Vénérand,"```json { ""wikipedia_page"": ""Vénérand"", ""wikidata_id"": ""Q1144826"" } ```",8.527514457702637
+sn85042404-1880-05-04-a-i0002,444,452,Mr. Lees,NIL,PER,Q4101390,Charles Lees,"Based on the provided input text and the list of candidates, the entity mentioned between the [ENT] tags is ""Mr. Lees"". Among the candidates, the most appropriate match would be: ```json {""wikipedia_page"": ""Charles Lees"", ""wikidata_id"": ""Q4101390""} ```",10.047210693359375
+sn85042404-1880-05-04-a-i0002,465,478,Mr. McKechnie,NIL,PER,Q7347540,Robert McKechnie,"```json {""wikipedia_page"":""Robert McKechnie"", ""wikidata_id"":""Q7347540""} ```",16.164310455322266
+sn85042404-1880-05-04-a-i0002,1824,1838,Mrs. Shoemaker,NIL,PER,Q4889222,Benjamin Shoemaker,"Based on the provided text, the entity mentioned between [ENT] tags is ""Mrs. Shoemaker"". Comparing this with the list of candidates, the most appropriate Wikidata entity is ""Benjamin Shoemaker"" (Wikipedia page: ""Benjamin Shoemaker"", Wikidata ID: Q4889222). ```json {""wikipedia_page"":""Benjamin Shoemaker"", ""wikidata_id"":""Q4889222""} ```",12.580846786499023
+sn88068010-1890-02-13-a-i0003,105,122,Miss Nettie White,NIL,PER,Q64249940,Nettie L. White,"Based on the provided text and candidates, the most appropriate Wikidata entity for ""Nettie White"" is: ```json {""wikipedia_page"":""Nettie L. White"", ""wikidata_id"":""Q64249940""} ```",19.591121673583984
+sn88068010-1890-02-13-a-i0003,295,300,Robt.,NIL,PER,Q7350765,Robert W. Winn,"Based on the input text, the [ENT] tags refer to the name ""Robt. Winn."" After evaluating the list of candidates, the most appropriate match appears to be: ```json { ""wikipedia_page"": ""Robert W. Winn"", ""wikidata_id"": ""Q7350765"" } ```",9.171836853027344
+sn88068010-1890-04-17-a-i0003,259,268,Mr. Keene,NIL,PER,Q4888913,Benjamin Keene,"```json { ""wikipedia_page"": ""Benjamin Keene"", ""wikidata_id"": ""Q4888913"" } ```",14.257011413574219
+sn88068010-1890-04-17-a-i0003,523,540,Montgomery county,Q378527,LOC,Q485600,Montgomery County,"Based on the input text and the list of candidates, the entity mentioned between the [ENT] tags in the text is ""Montgomery County"". The most appropriate Wikidata entity from the given list of candidates is: ```json {""wikipedia_page"":""Montgomery County"", ""wikidata_id"":""Q485600""} ```",23.232141494750977
+sn88068010-1890-04-17-a-i0003,627,641,Lincoln county,Q484582,LOC,Q484150,Lincoln County,"Based on the provided input text and the list of candidates, the entity mentioned within the [ENT] tags is ""Lincoln County"". Therefore, the appropriate Wikidata entity is: ```json {""wikipedia_page"": ""Lincoln County"", ""wikidata_id"": ""Q484150""} ```",20.506113052368164
+sn88068010-1890-09-25-a-i0006,255,263,European,Q46,LOC,NIL,European,```json {} ```,0
+sn88068010-1890-09-25-a-i0006,304,313,Americans,Q828,LOC,Q846570,Americans,"To disambiguate the entity marked by [ENT] tags in the provided text, we need to analyze the context and select the most appropriate Wikidata entity from the given list of candidates. The text mentions ""Americans"" and ""Americas."" Given the context and the list of candidates, the most appropriate Wikidata entity for ""Americans"" is: - **""Americans""** (Wikipedia page: ""Americans"", Wikidata ID: ""Q846570"") Therefore, the JSON-formatted answer is: ```json {""wikipedia_page"": ""Americans"", ""wikidata_id"": ""Q846570""} ```",15.226479530334473
+sn88068010-1890-09-25-a-i0006,321,327,Africa,Q15,LOC,NIL,Africa,```json {} ```,0
+sn88068010-1890-09-25-a-i0006,332,341,Australia,Q3960,LOC,Q408,Australia,"{ ""wikipedia_page"": ""Australia"", ""wikidata_id"": ""Q408"" }",19.883804321289062
+sn88068010-1890-09-25-a-i0006,1128,1133,Paris,Q90,LOC,NIL,Paris,no,0
+sn86063397-1900-03-20-a-i0004,19,24,YUKON,Q6170492,LOC,NIL,YUKON,```json {} ```,0
+sn86063397-1900-03-20-a-i0004,551,558,America,Q30,LOC,Q49,North America,"```json {""wikipedia_page"": ""North America"", ""wikidata_id"": ""Q49""} ```",15.955253601074219
+sn86063397-1900-06-26-a-i0002,57,64,Chicago,Q1297,LOC,NIL,Chicago,no,0
+sn86063397-1900-06-26-a-i0002,66,78,Philadelphia,Q1345,LOC,NIL,Philadelphia,no,0
+sn86063397-1900-06-26-a-i0002,797,810,Colonel 'Dick,Q1066346,PER,Q5361737,Elisha C. Dick,"```json {""wikipedia_page"":""Elisha C. Dick"", ""wikidata_id"":""Q5361737""} ```",11.41597843170166
+sn86063397-1900-06-26-a-i0002,852,867,Chairman Ilanna,Q509441,PER,Q140686,chairperson,"```json { ""wikipedia_page"": ""Chairperson"", ""wikidata_id"": ""Q140686"" } ```",11.820211410522461
+sn86063397-1900-06-26-a-i0002,1136,1144,New York,Q60,LOC,NIL,New York,no,0
+sn86063397-1900-06-26-a-i0002,1244,1259,Sena¬ tor Scott,Q1966467,PER,NIL,Sena¬ tor Scott,```json {} ```,0
+sn86063397-1900-06-26-a-i0002,1429,1437,New York,Q1384,LOC,NIL,New York,no,0
+sn86063397-1900-06-26-a-i0002,1453,1470,Ckaii-innu Ilanna,Q509441,PER,NIL,Ckaii-innu Ilanna,"""no""",0
+sn86063397-1900-06-26-a-i0002,1620,1633,Joseph Manley,Q6284051,PER,Q20656742,Joseph M. Bailey,"```json {""wikipedia_page"": ""Joseph M. Bailey"", ""wikidata_id"": ""Q20656742""} ```",29.02492904663086
+sn86063397-1900-06-26-a-i0002,1642,1653,N. B. Scott,Q1966467,PER,NIL,N. B. Scott,```json {} ```,0
+sn86063397-1900-06-26-a-i0002,1670,1684,Harry I >. New,Q1586757,PER,NIL,Harry I >. New,no,0
+sn86063397-1900-06-26-a-i0002,1699,1714,George L. Slump,Q880826,PER,NIL,George L. Slump,```json {} ```,0
+sn86063397-1900-06-26-a-i0002,1716,1721,Idaho,Q1221,LOC,NIL,Idaho,no,0
+sn86063397-1900-06-26-a-i0002,1831,1845,"Can¬ ton, Ohio",Q491239,LOC,NIL,"Can¬ ton, Ohio",```json {} ```,0
+sn86063397-1900-06-26-a-i0002,1859,1864,HANNA,Q509441,PER,NIL,HANNA,no,0
+sn88085488-1910-02-18-a-i0006,33,54,Della Pringle company,NIL,ORG,Q18351054,Della Pringle,"```json {""wikipedia_page"": ""Della Pringle"", ""wikidata_id"": ""Q18351054""} ```",19.35688018798828
+sn88085488-1910-02-18-a-i0006,163,178,C. K. Van Auker,NIL,PER,Q18238211,Cecil Van Auker,"Based on the input text and the list of candidates, the entities mentioned between the [ENT] tags can be disambiguated as follows: 1. [ENT] C. K. Van Auker [ENT] The most appropriate Wikidata entity from the provided list is: - 'Cecil Van Auker', 'Q18238211' Therefore, the JSON-formatted answer is: ```json { ""wikipedia_page"": ""Cecil Van Auker"", ""wikidata_id"": ""Q18238211"" } ```",23.788671493530273
+sn88085488-1910-02-18-a-i0006,524,538,Lewis Morrison,Q6913937,PER,NIL,Lewis Morrison,No,0
+sn88085488-1910-02-18-a-i0006,580,592,Miss Pringle,Q18351054,PER,NIL,Miss Pringle,no,0
+sn88085488-1910-04-01-a-i0004,134,142,Scotland,Q22,LOC,NIL,Scotland,no,0
+sn88085488-1910-04-01-a-i0004,167,186,Quaker Oats Company,Q2699694,ORG,NIL,Quaker Oats Company,no,0
+sn88085488-1910-05-06-a-i0003,24,48,Washington State College,Q58297825,ORG,NIL,Washington State College,no,0
+sn88085488-1910-05-06-a-i0003,81,96,Whitman college,Q7996607,ORG,NIL,Whitman college,```json {} ```,0
+sn88085488-1910-05-06-a-i0003,210,218,W. S. C.,Q58297825,ORG,NIL,W. S. C.,no,0
+sn88085488-1910-05-06-a-i0003,262,275,State College,Q58297825,ORG,NIL,State College,```json {} ```,0
+sn88085488-1910-05-06-a-i0003,408,415,Whitman,Q7996607,ORG,NIL,Whitman,```json {} ```,0
+sn88085488-1910-05-06-a-i0003,431,437,Moscow,Q499927,LOC,NIL,Moscow,no,0
+sn88085488-1910-09-02-a-i0006,377,387,Tweed Amos,NIL,PER,Q1353450,William Magear Tweed,"Based on the provided text and the list of candidates, the entity [ENT] Tweed Amos [ENT] likely refers to ""William Magear Tweed."" This is inferred from the fact that William Magear Tweed, when mentioned in the context of the text, seems to be the most fitting candidate among the provided options due to the specific historical and political context. Here is the JSON-formatted response: ```json {""wikipedia_page"": ""William Magear Tweed"", ""wikidata_id"": ""Q1353450""} ```",19.14862823486328
+sn89058133-1920-01-08-a-i0001,249,256,Jackson,Q985409,LOC,Q28198,Jackson,"```json {""wikipedia_page"": ""Jackson"", ""wikidata_id"": ""Q28198""} ```",24.538715362548828
+sn89058133-1920-01-08-a-i0001,400,435,B. M. Johnson Manufacturing Company,NIL,ORG,Q6268362,Johnson Manufacturing Company,"Based on the input text and the provided list of candidates, the most appropriate Wikidata entity for the entity mentioned between the [ENT] tags is: ```json {""wikipedia_page"": ""Johnson Manufacturing Company"", ""wikidata_id"": ""Q6268362""} ```",18.376710891723633
+sn89058133-1920-01-08-a-i0001,702,713,Mr. Johnson,NIL,PER,Q4890584,Benton Johnson,"Based on the provided text and the list of candidates, the entity mentioned between the [ENT] tags, ""Mr. Johnson"", can be disambiguated with the following Wikidata entity: ```json {""wikipedia_page"":""Benton Johnson"",""wikidata_id"":""Q4890584""} ```",13.459887504577637
+sn89058133-1920-01-08-a-i0001,941,954,Jack- son Sun,Q4051135,PROD,NIL,Jack- son Sun,No.,0
+sn89058133-1920-01-29-a-i0007,45,96,"Tom Scarlett, Circuit Court Clerk for Putnam County",NIL,PER,Q7817881,Tom Tullett,"```json { ""wikipedia_page"": ""Thomas Tullett"", ""wikidata_id"": ""Q7817881"" } ``` Given the context and the list of candidates, the most appropriate Wikidata entity for the entity tagged with [ENT] in the provided text is ""Thomas Tullett"".",19.549942016601562
+sn89058133-1920-01-29-a-i0007,297,307,Cookeville,Q2456192,LOC,NIL,Cookeville,```json {} ```,0
+sn89058133-1920-01-29-a-i0007,395,408,Putnam County,Q495045,LOC,NIL,Putnam County,```json {} ```,0
+sn89058133-1920-01-29-a-i0007,410,419,Tennessee,Q1509,LOC,NIL,Tennessee,no,0
+sn89058133-1920-01-29-a-i0007,697,709,P. L. Ramsey,NIL,PER,Q2061782,Paul Ramsey,"Based on the input text and the provided list of candidates, the entity mentioned between the [ENT] tags is likely ""Paul L. Ramsey"". However, none of the provided candidates exactly match this name, but the closest match is ""Paul Ramsey"" (Q2061782) with the description ""American theologian (1913-1988)"". Here is the JSON-formatted response: ```json {""wikipedia_page"":""Paul Ramsey"", ""wikidata_id"":""Q2061782""} ```",24.72113037109375
+sn89058133-1920-01-29-a-i0007,791,812,"L. F. MILLER, Sheriff",NIL,PER,Q42534670,Lyle H. Miller,"Based on the provided input text, the entity mentioned between the [ENT] tags is ""L. F. MILLER"". Among the provided candidates, the most appropriate Wikidata entity is: ```json {""wikipedia_page"": ""Lyle H. Miller"", ""wikidata_id"": ""Q42534670""} ```",14.030158996582031
+sn89058133-1920-04-22-a-i0003,0,10,GAINESBORO,Q2057053,LOC,NIL,GAINESBORO,no,0
+sn89058133-1920-04-22-a-i0003,179,189,Cookeville,Q2456192,LOC,Q955589,Coalville,"```json {""wikipedia_page"":""Coalville"", ""wikidata_id"":""Q955589""} ```",17.991897583007812
+sn89058133-1920-04-22-a-i0003,687,693,Morgan,NIL,ORG,Q54168,J. P. Morgan,"Based on the analysis of the input text and the list of candidates provided, the entity mentioned between the [ENT] tags is ""Morgan"". The most appropriate Wikidata entity from the given list of candidates is: - Wikidata ID: Q54168 - Wikipedia Page Title: J. P. Morgan Therefore, the JSON-formatted answer is: ```json {""wikipedia_page"": ""J. P. Morgan"", ""wikidata_id"": ""Q54168""} ```",12.100801467895508
+sn89058133-1920-04-22-a-i0003,772,784,Cooke¬ ville,Q2456192,LOC,NIL,Cooke¬ ville,no,0
+sn89058133-1920-04-22-a-i0003,977,989,Lon Morelock,NIL,PER,Q7611435,Sterling L. Morelock,"Based on the provided text and candidate list, the entity ""Lon Morelock"" can be disambiguated as: ```json { ""wikipedia_page"": ""Sterling L. Morelock"", ""wikidata_id"": ""Q7611435"" } ```",13.848488807678223
+sn89058133-1920-04-22-a-i0003,1290,1296,France,Q142,LOC,NIL,France,No,0
+sn89058133-1920-04-22-a-i0003,1357,1367,Ralph Wirt,NIL,PER,Q1244572,William Wirt,"```json {""wikipedia_page"":""William Wirt"",""wikidata_id"":""Q1244572""} ```",27.453411102294922
+sn89058133-1920-04-22-a-i0003,1397,1417,Putnam County Herald,Q16995214,PROD,Q495045,Putnam County," { ""wikipedia_page"": ""Putnam County Herald"", ""wikidata_id"": ""Q495045"" }",25.493684768676758
+sn89058133-1920-04-22-a-i0003,1464,1470,Herald,Q16995214,PROD,Q16995218,Herald-Star,"```json { ""wikipedia_page"": ""The Herald"", ""wikidata_id"": ""Q16995218"" } ```",14.470149993896484
+sn89058133-1920-04-22-a-i0003,1661,1671,Gainesboro,Q2057053,LOC,NIL,Gainesboro,```json {} ```,0
+sn89058133-1920-08-19-a-i0006,390,403,Putnam county,Q495045,LOC,Q115266,Putnam County,"Based on the provided text, the entity mentioned between the [ENT] tags is ""Putnam County."" From the JSON list of candidates, the most appropriate Wikidata entity is: - Wikipedia Page: ""Putnam County"" - Wikidata ID: ""Q115266"" Therefore, the JSON-formatted answer is: ```json {""wikipedia_page"": ""Putnam County"", ""wikidata_id"": ""Q115266""} ```",21.2672176361084
+sn89058133-1920-08-19-a-i0006,620,626,Herald,NIL,PROD,Q3179178,The Herald,"Based on the input text and the list of candidates, the entity mentioned between the [ENT] tags is: ```json { ""wikipedia_page"": ""The Herald"", ""wikidata_id"": ""Q3179178"" } ```",14.073417663574219
+sn83025812-1930-02-21-a-i0007,177,222,the United States Department of Agri¬ culture,Q501542,ORG,NIL,the United States Department of Agri¬ culture,```json {} ```,0
+sn83025812-1930-03-21-a-i0010,750,765,D. V. M. Buxton,Q745614,LOC,NIL,D. V. M. Buxton,no,0
+sn83025812-1930-03-21-a-i0010,803,816,Cane Hattcras,Q978032,LOC,NIL,Cane Hattcras,```json {} ```,0
+sn83025812-1930-03-21-a-i0010,818,829,Dare county,Q295787,LOC,NIL,Dare county,no,0
+sn83025812-1930-03-21-a-i0010,1282,1288,Buxton,Q745614,LOC,NIL,Buxton,```json {} ```,0
+sn83025812-1930-05-30-a-i0006,16,23,EDENTON,Q2028258,LOC,NIL,EDENTON,no,0
+sn83025812-1930-05-30-a-i0006,1756,1763,Edenton,Q2028258,LOC,NIL,Edenton,no,0
+sn83025812-1930-05-30-a-i0006,1829,1838,Uncle Gam,NIL,PER,Q184689,Uncle Sam,"```json { ""wikipedia_page"": ""Uncle Sam"", ""wikidata_id"": ""Q184689"" } ```",15.176801681518555
+sn92063852-1950-02-25-a-i0005,188,208,Theatre de Ver¬ dure,Q3527653,ORG,NIL,Theatre de Ver¬ dure,no,0
+sn92063852-1950-02-25-a-i0005,287,355,"His Excellency, Dumarsaix Estime, President of the Republic of Haiti",Q738355,PER,Q3290543,President of Haiti,"```json { ""wikipedia_page"": ""President of Haiti"", ""wikidata_id"": ""Q3290543"" } ``` The entity tagged with [ENT] in the text refers to ""His Excellency, Dumarsaix Estime, President of the Republic of Haiti"". The most appropriate Wikidata entity from the given list of candidates is ""President of Haiti"" with the Wikidata ID ""Q3290543"".",18.227327346801758
+sn92063852-1950-02-25-a-i0005,497,537,Fiist Lady of the Republic. Madam Estine,Q18926909,PER,NIL,Fiist Lady of the Republic. Madam Estine,no,0
+sn92063852-1950-02-25-a-i0005,721,737,Hatiau Jour- nal,NIL,PROD,Q5639733,Haitian Times,"```json {""wikipedia_page"":""Haitian Times"",""wikidata_id"":""Q5639733""} ```",22.837631225585938
+sn92063852-1950-02-25-a-i0005,822,835,Miss Mor¬ ris,NIL,PER,Q467787,Lady Ottoline Morrell,"```json {""wikipedia_page"":""Lady Ottoline Morrell"", ""wikidata_id"":""Q467787""} ```",8.156957626342773
+sn92063852-1950-02-25-a-i0005,862,877,Eugene Bioadnax,NIL,PER,Q945833,Eugene Aynsley Goossens,"Based on the input text and the given list of candidates, the entity mentioned between the [ENT] tags appears to be ""Eugene Bioadnax"". From the list of candidates, the most appropriate match is ""Eugene Aynsley Goossens"". Here is the corresponding JSON-formatted answer: ```json {""wikipedia_page"": ""Eugene Aynsley Goossens"", ""wikidata_id"": ""Q945833""} ```",21.508228302001953
+sn92063852-1950-08-26-a-i0008,0,13,Florida Court,Q3001105,ORG,Q501758,University of Florida,"```json {""wikipedia_page"": ""University of Florida"", ""wikidata_id"": ""Q501758""} ```",12.424446105957031
+sn92063852-1950-08-26-a-i0008,28,49,FLORIDA SUPREME Court,Q3001105,ORG,NIL,FLORIDA SUPREME Court,```json {} ```,0
+sn92063852-1950-08-26-a-i0008,342,354,Negro school,Q1430048,ORG,Q1620945,historically black colleges and universities,"Based on the provided text and list of candidates, the entity mentioned between the [ENT] tags is likely related to ""historically black colleges and universities"". Here is the JSON-formatted answer: ```json {""wikipedia_page"":""historically black colleges and universities"", ""wikidata_id"":""Q1620945""} ```",15.683432579040527
+sn92063852-1950-08-26-a-i0008,384,400,"white insti- ,Ut",Q501758,ORG,Q22909763,White Student Unions,"```json { ""wikipedia_page"": ""White Student Unions"", ""wikidata_id"": ""Q22909763"" } ```",10.323393821716309
+sn92063852-1950-08-26-a-i0008,1133,1142,Southland,Q49042,LOC,Q1156746,Southland,"{ ""wikipedia_page"": ""Southland"", ""wikidata_id"": ""Q1156746"" }",16.533262252807617
+sn92063852-1950-08-26-a-i0008,1211,1225,Texas Arkansas,Q1612,ORG,Q1439,Texas,"Based on the provided text and the list of candidates, the entities tagged with [ENT] are ""Texas"" and ""Arkansas"". Given the context and the list of candidates, the most appropriate Wikidata entities for these mentions are the states of Texas and Arkansas. Here is the JSON response: ```json { ""wikipedia_page"": ""Texas"", ""wikidata_id"": ""Q1439"" }, { ""wikipedia_page"": ""Arkansas"", ""wikidata_id"": ""Q1612"" } ```",18.147430419921875
+sn92063852-1950-08-26-a-i0008,1231,1239,Oklahoma,Q1649,ORG,NIL,Oklahoma,```json {} ```,0
+sn92063852-1950-08-26-a-i0008,1641,1648,Florida,Q812,LOC,NIL,Florida,no,0
+sn92063852-1950-08-26-a-i0008,2046,2067,Florida Supreme Court,Q3001105,ORG,NIL,Florida Supreme Court,no,0
+sn92063852-1950-08-26-a-i0008,2288,2295,Florida,Q812,LOC,NIL,Florida,"```json { ""wikipedia_page"": """", ""wikidata_id"": """" } ```",0
+sn92063852-1950-08-26-a-i0008,2333,2350,VS. Supreme Court,Q11201,ORG,NIL,VS. Supreme Court,"```json {""wikipedia_page"":"""",""wikidata_id"":""""} ```",0
+sn92063852-1950-09-23-a-i0018,0,17,Housewives League,NIL,ORG,Q4970077,British Housewives' League,"```json { ""wikipedia_page"": ""National Housewives League of America"", ""wikidata_id"": ""Q4970077"" } ```",18.448049545288086
+sn92063852-1950-09-23-a-i0018,38,46,Tuskegee,Q79718,LOC,Q1682329,Tuskegee University,"```json { ""wikipedia_page"": ""Tuskegee University"", ""wikidata_id"": ""Q1682329"" } ```",21.499515533447266
+sn92063852-1950-09-23-a-i0018,339,357,Mrs. E. R. Naggles,NIL,PER,Q55956171,Rebecca Nagle,"Based on the input text and the list of candidates, I will select the most appropriate Wikidata entity for the entity mentioned between the [ENT] tags. The entity mentioned is ""Mrs. E. R. Naggles"". From the list of candidates, the most appropriate Wikidata entity for ""Mrs. E. R. Naggles"" is ""Rebecca Nagle"" with the wikipedia page title ""Rebecca Nagle"" and Wikidata ID ""Q55956171"". Returning the following JSON object: ```json {""wikipedia_page"":""Rebecca Nagle"", ""wikidata_id"":""Q55956171""} ```",21.58920669555664
+sn92063852-1950-09-23-a-i0018,431,439,Tuskegee,Q79718,LOC,Q1682329,Tuskegee University,"```json {""wikipedia_page"":""Tuskegee University"",""wikidata_id"":""Q1682329""} ```",21.611534118652344
+sn92063852-1950-09-23-a-i0018,1060,1068,Business,NIL,ORG,Q6974564,National Negro Business League,"```json { ""wikipedia_page"": ""National Negro Business League"", ""wikidata_id"": ""Q6974564"" } ```",19.478668212890625
+sn92063852-1950-09-23-a-i0018,1236,1253,Housewives League,NIL,ORG,Q6971923,National Council of Negro Women,"{""wikipedia_page"":""National Council of Negro Women"", ""wikidata_id"":""Q6971923""}",18.658029556274414
+sn92063852-1950-09-23-a-i0018,1396,1414,Housewives Leagues,NIL,ORG,Q4970077,British Housewives' League,"Based on the provided text, the entity mentioned between the [ENT] tags is ""Housewives Leagues."" The most appropriate Wikidata entity from the given list of candidates is: ```json {""wikipedia_page"":""British Housewives' League"", ""wikidata_id"":""Q4970077""} ```",19.915508270263672
+sn92063852-1950-09-23-a-i0018,1556,1566,Mrs. Fuqua,NIL,PER,Q432991,Henry L. Fuqua,"```json { ""wikipedia_page"": ""Henry L. Fuqua"", ""wikidata_id"": ""Q432991"" } ```",16.747203826904297
+sn92063852-1950-09-23-a-i0018,1830,1848,"Birming¬ ham, Ala.",Q79867,LOC,NIL,"Birming¬ ham, Ala.",no,0
+sn91068761-1960-03-30-a-i0003,85,97,Hetiny Benny,Q5715142,ORG,NIL,Hetiny Benny,```json {} ```,0
+sn91068761-1960-03-30-a-i0003,883,897,North Carolina,Q1454,LOC,NIL,North Carolina,```json {} ```,0
+sn91068761-1960-03-30-a-i0003,1336,1350,North Atlantic,Q350134,LOC,NIL,North Atlantic,no,0
+sn91068761-1960-03-30-a-i0003,1404,1415,Billy Hooks,NIL,PER,Q4888830,Benjamin Hooks,"```json {""wikipedia_page"":""Benjamin Hooks"", ""wikidata_id"":""Q4888830""} ```",28.105024337768555
+sn91068761-1960-03-30-a-i0003,1417,1430,Roger Harwood,NIL,PER,Q7273366,R.J. Harwood,"```json {""wikipedia_page"":""R.J. Harwood"", ""wikidata_id"":""Q7273366""} ```",28.465360641479492
