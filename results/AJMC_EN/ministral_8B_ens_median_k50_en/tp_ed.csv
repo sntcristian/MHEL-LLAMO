@@ -1,0 +1,61 @@
+doc_id,start_pos,end_pos,surface,gt_id,type,identifier,title,answer,score
+cu31924087948174_0059,67,70,Od.,Q35160,WORK,Q35160,Odyssey,"```json { ""wikipedia_page"": ""Odyssey"", ""wikidata_id"": ""Q35160"" } ```",12.864590644836426
+cu31924087948174_0059,80,91,Hes. Theog.,Q156498,WORK,Q156498,Theogony,,0
+cu31924087948174_0059,365,369,Ajax,Q172725,PER,Q172725,Ajax the Great,"```json {""wikipedia_page"": ""Ajax the Great"", ""wikidata_id"": ""Q172725""} ```",19.00199317932129
+cu31924087948174_0059,1192,1196,Ajax,Q172725,PER,Q172725,Ajax the Great,,0
+cu31924087948174_0059,1377,1381,Ajax,Q172725,PER,Q172725,Ajax the Great,"```json { ""wikipedia_page"": ""Ajax the Great"", ""wikidata_id"": ""Q172725"" } ```",18.07391929626465
+cu31924087948174_0059,1432,1436,Zeus,Q34201,PER,Q34201,Zeus,,0
+cu31924087948174_0059,1475,1479,Zeus,Q34201,PER,Q34201,Zeus,,0
+cu31924087948174_0059,1988,1996,Odysseus,Q47231,PER,Q47231,Odysseus,,0
+cu31924087948174_0059,2021,2029,Sisyphus,Q102561,PER,Q102561,Sisyphus,,0
+cu31924087948174_0059,2381,2391,Erechtheus,Q301219,PER,Q301219,Erechtheus,,0
+cu31924087948174_0060,281,285,Ajax,Q172725,PER,Q172725,Ajax the Great,,0
+cu31924087948174_0060,302,310,Odysseus,Q47231,PER,Q47231,Odysseus,,0
+cu31924087948174_0060,405,409,Ajax,Q172725,PER,Q172725,Ajax the Great,,0
+cu31924087948174_0060,510,514,Ajax,Q172725,PER,Q172725,Ajax the Great,,0
+cu31924087948174_0061,273,277,Ajax,Q172725,PER,Q172725,Ajax the Great,"Based on the provided context and the list of candidates, the entity mentioned between the [ENT] tags is most likely referring to the ancient Greek hero Ajax, son of Telamon in Greek mythology. This is supported by the mention of ""Ajax"" in the text and the relevance of the historical context. Therefore, the disambiguated entity is: ```json {""wikipedia_page"": ""Ajax the Great"", ""wikidata_id"": ""Q172725""} ```",16.008378982543945
+cu31924087948174_0061,1073,1080,Salamis,Q202422,LOC,Q202422,Salamis Island,"```json { ""wikipedia_page"": ""Salamis Island"", ""wikidata_id"": ""Q202422"" } ```",18.863162994384766
+cu31924087948174_0061,1322,1326,Ajax,Q172725,PER,Q172725,Ajax the Great,"```json { ""wikipedia_page"": ""Ajax the Great"", ""wikidata_id"": ""Q172725"" } ```",18.116222381591797
+cu31924087948174_0061,1611,1615,Ajax,Q172725,PER,Q172725,Ajax the Great,,0
+cu31924087948174_0061,1744,1748,Ajax,Q172725,PER,Q172725,Ajax the Great,,0
+cu31924087948174_0061,2103,2113,Plat. Rep.,Q123397,WORK,Q123397,The Republic,"```json {""wikipedia_page"":""The Republic"", ""wikidata_id"":""Q123397""} ```",13.784093856811523
+cu31924087948174_0061,2349,2359,Triclinius,Q2987520,PER,Q2987520,Dimitrios Triclinius,"Here is the disambiguated entity based on the provided text. The most appropriate Wikidata entity from the list of candidates is selected. ```json {""wikipedia_page"": ""Dimitrios Triclinius"", ""wikidata_id"": ""Q2987520""} ```",19.580284118652344
+cu31924087948174_0062,90,94,Ajax,Q172725,PER,Q172725,Ajax the Great,"```json { ""wikipedia_page"": ""Ajax the Great"", ""wikidata_id"": ""Q172725"" } ```",7.77288293838501
+cu31924087948174_0075,789,797,Odysseus,Q47231,PER,Q47231,Odysseus,,0
+cu31924087948174_0075,1080,1088,Musgrave,Q7412249,PER,Q7412249,Samuel Musgrave,,0
+cu31924087948174_0075,1481,1485,Ajax,Q172725,PER,Q172725,Ajax the Great,,0
+cu31924087948174_0075,1537,1545,Achilles,Q41746,PER,Q41746,Achilles,,0
+cu31924087948174_0075,2023,2031,Odysseus,Q47231,PER,Q47231,Odysseus,,0
+cu31924087948174_0075,2046,2050,Ajax,Q172725,PER,Q172725,Ajax the Great,"Based on the provided text and the list of candidates, the entity mentioned between the [ENT] tags is ""Ajax"". Among the candidates, the most appropriate Wikidata entity for ""Ajax"" is ""Ajax, son of Telamon in Greek mythology"". Here is the JSON-formatted response: ```json {""wikipedia_page"":""Ajax the Great"", ""wikidata_id"":""Q172725""} ```",20.29071044921875
+cu31924087948174_0075,2095,2101,Trach.,Q945342,WORK,Q945342,Trachiniae,"Based on the provided text, I have disambiguated the entity mentioned between the [ENT] tags. The most appropriate Wikidata entity from the list of candidates for the entity tagged with [ENT] is Trach. [ENT] 131 foll. ἀλλ᾽ ἐπὶ πῆμα καὶ χαρὰ | πᾶσι κυκλοῦσιν, οἷον | ἄρκτον στροφάδες κέλευθοι. 384. Here is the JSON-formatted response: ```json {""wikipedia_page"":""Trachiniae"", ""wikidata_id"":""Q945342""} ```",10.426192283630371
+cu31924087948174_0075,2425,2429,Ajax,Q172725,PER,Q172725,Ajax the Great,"{""wikipedia_page"": ""Ajax the Great"", ""wikidata_id"": ""Q172725""}",18.31151008605957
+cu31924087948174_0075,2523,2529,Trach.,Q945342,WORK,Q945342,Trachiniae,"```json { ""wikipedia_page"": ""Trachiniae"", ""wikidata_id"": ""Q945342"" } ```",10.864021301269531
+cu31924087948174_0088,637,642,Phil.,Q1415903,WORK,Q1415903,Philoctetes,"```json {""wikipedia_page"": ""Philoctetes"", ""wikidata_id"": ""Q1415903""} ```",16.16656494140625
+cu31924087948174_0088,947,953,Lobeck,Q84734,PER,Q84734,Christian Lobeck,,0
+cu31924087948174_0088,1318,1324,Teucer,Q878184,PER,Q878184,Teucer,"{""wikipedia_page"":""Teucer"", ""wikidata_id"":""Q878184""}",16.741161346435547
+cu31924087948174_0088,1345,1349,Ajax,Q172725,PER,Q172725,Ajax the Great,"Given the input text and the list of candidates, I will analyze the entities marked by [ENT] tags and select the most appropriate Wikidata entity. After careful consideration, I have determined that the entity [ENT] Ajax [ENT] refers to the character from Greek mythology, Ajax the Great. The corresponding Wikidata ID is Q172725 and the Wikipedia page title is Ajax the Great. Here is the JSON response: ```json {""wikipedia_page"": ""Ajax the Great"", ""wikidata_id"": ""Q172725""} ```",17.225187301635742
+sophoclesplaysa05campgoog_0099,398,412,Dionys. Halic.,Q26204,PER,Q26204,Dionysius of Halicarnassus,,0
+sophoclesplaysa05campgoog_0099,635,650,Plat. Hipp. Ma.,Q634846,WORK,Q634846,Hippias Major,"```json {""wikipedia_page"": ""Hippias Major"", ""wikidata_id"": ""Q634846""} ```",15.461734771728516
+sophoclesplaysa05campgoog_0099,727,736,Herodotus,Q26825,PER,Q26825,Herodotus,,0
+sophoclesplaysa05campgoog_0099,738,748,Thucydides,Q41683,PER,Q41683,Thucydides,,0
+sophoclesplaysa05campgoog_0099,750,759,"Xenophon,",Q129772,PER,Q129772,Xenophon,,0
+sophoclesplaysa05campgoog_0099,797,800,Od.,Q35160,WORK,Q35160,Odyssey,"Based on the provided text, the entity tagged with [ENT] appears to be ""Odyssey"". Therefore, the most appropriate Wikidata entity from the list of candidates is ""Odyssey"" with Wikidata ID ""Q35160"". ```json { ""wikipedia_page"": ""Odyssey"", ""wikidata_id"": ""Q35160"" } ```",20.420217514038086
+sophoclesplaysa05campgoog_0099,854,864,Porphyrius,Q203445,PER,Q203445,Porphyry,,0
+sophoclesplaysa05campgoog_0099,1005,1010,Plato,Q859,PER,Q859,Plato,,0
+sophoclesplaysa05campgoog_0099,1070,1082,Apoll. Rhod.,Q192638,PER,Q192638,Apollonius of Rhodes,,0
+sophoclesplaysa05campgoog_0099,2022,2027,Iliad,Q8275,WORK,Q8275,Iliad,,0
+sophoclesplaysa05campgoog_0099,2139,2147,Eur. Ion,Q614607,WORK,Q614607,Ion,"```json { ""wikipedia_page"": ""Ion"", ""wikidata_id"": ""Q614607"" } ```",16.84739112854004
+sophoclesplaysa05campgoog_0099,2322,2330,Eur. fr.,NIL,WORK,NIL,Eur. fr.,"Based on the provided input text and the JSON list of candidates, the entity mentioned between the [ENT] tags is ""Eur. fr. 188. 4 σκάπτων, ἀρῶν γῆν, ποιμνίοις ἐπιστατῶν"". Upon analyzing the text, the term ""Eur."" refers to Euripides, a famous Greek tragedian. Therefore, the entity mentioned between the [ENT] tags is likely a work or fragment of Euripides. However, none of the provided candidates exactly match the entity mentioned. Therefore, the most appropriate response is: ```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+sophoclesplaysa05campgoog_0099,2454,2458,Ajax,Q172725,PER,Q172725,Ajax the Great,,0
+sophoclesplaysa05campgoog_0099,2489,2497,Odysseus,Q47231,PER,Q47231,Odysseus,,0
+sophoclesplaysa05campgoog_0099,2523,2527,Ajax,Q172725,PER,Q172725,Ajax the Great,"```json { ""wikipedia_page"": ""Ajax the Great"", ""wikidata_id"": ""Q172725"" } ```",19.916587829589844
+sophoclesplaysa05campgoog_0102,67,71,Ajax,Q172725,PER,Q172725,Ajax the Great,"Based on the context provided in the text, the reference mentioned between the [ENT] tags is ""Ajax."" The most appropriate Wikidata entity from the provided list of candidates is ""Ajax the Great."" Here is the JSON object with the corresponding Wikipedia page title and Wikidata ID: ```json { ""wikipedia_page"": ""Ajax the Great"", ""wikidata_id"": ""Q172725"" } ```",15.031576156616211
+sophoclesplaysa05campgoog_0102,1175,1184,Agamemnon,Q128176,PER,Q128176,Agamemnon,,0
+sophoclesplaysa05campgoog_0102,1189,1197,Menelais,Q171839,PER,Q171839,Menelaus,,0
+sophoclesplaysa05campgoog_0102,1204,1209,Pans.,Q192931,PER,Q192931,Pausanias,"```json { ""wikipedia_page"": ""Pausanias"", ""wikidata_id"": ""Q192931"" } ```",11.10892391204834
+sophoclesplaysa05campgoog_0102,1971,1974,Il.,Q8275,WORK,Q8275,Iliad,"Based on the input text, the entity mentioned between the [ENT] tags is ""Il. [ENT] 13. 77"". The most appropriate Wikidata entity from the list of candidates for this entity is ""Iliad"" (Wikidata ID: Q8275). Therefore, the JSON response is: ```json {""wikipedia_page"": ""Iliad"", ""wikidata_id"": ""Q8275""} ```",15.945466995239258
+sophoclesplaysa05campgoog_0102,2025,2034,Lycophron,Q432737,PER,Q432737,Lycophron,,0
+sophoclesplaysa05campgoog_0107,1180,1188,Odysseus,Q47231,PER,Q47231,Odysseus,,0
+sophoclesplaysa05campgoog_0107,1217,1221,Ajax,Q172725,PER,Q172725,Ajax the Great,"Based on the provided text and candidates, the entity ""Ajax"" is most likely referring to the mythological Greek figure. The most appropriate Wikidata entity is: ```json {""wikipedia_page"":""Ajax the Great"", ""wikidata_id"":""Q172725""} ```",18.660240173339844
+sophoclesplaysa05campgoog_0107,1508,1516,Odysseus,Q47231,PER,Q47231,Odysseus,,0
+sophoclesplaysa05campgoog_0107,1765,1773,Dem. or.,NIL,WORK,NIL,Dem. or.,"{""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""}",0

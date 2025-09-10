@@ -1,0 +1,30 @@
+doc_id,start_pos,end_pos,surface,gt_id,type,identifier,title,answer,score
+cu31924087948174_0059,67,70,Od.,Q35160,WORK,Q35160,Odyssey,"Based on the provided input text and the list of candidates, the entities mentioned between the `[ENT]` tags are ""Odyssey"" and ""ode."" After analyzing the context and the list of candidates, the most appropriate Wikidata entity for `[ENT]` in the input text is the ""Odyssey."" Thus, the correct Wikidata entity is: ```json {""wikipedia_page"": ""Odyssey"", ""wikidata_id"": ""Q35160""} ```",12.864590644836426
+cu31924087948174_0059,80,91,Hes. Theog.,Q156498,WORK,Q156498,Theogony,"```json { ""wikipedia_page"": ""Theogony"", ""wikidata_id"": ""Q156498"" } ```",22.323572158813477
+cu31924087948174_0059,365,369,Ajax,Q172725,PER,Q172725,Ajax the Great,"```json { ""wikipedia_page"": ""Ajax the Great"", ""wikidata_id"": ""Q172725"" } ```",19.00199317932129
+cu31924087948174_0059,1432,1436,Zeus,Q34201,PER,Q34201,Zeus,"```json {""wikipedia_page"":""Zeus"", ""wikidata_id"":""Q34201""} ```",21.105045318603516
+cu31924087948174_0059,1475,1479,Zeus,Q34201,PER,Q34201,Zeus,"Based on the provided input text and list of candidates, the entity mentioned between the [ENT] tags is ""Zeus"". From the list of candidates, the match is: ```json {""wikipedia_page"":""Zeus"", ""wikidata_id"":""Q34201""} ``` This corresponds to the Greek god of the sky and king of the gods.",25.217538833618164
+cu31924087948174_0059,2021,2029,Sisyphus,Q102561,PER,Q102561,Sisyphus,"Based on the provided text and the list of candidates, the entity mentioned between the [ENT] tags is ""Sisyphus"". The most appropriate Wikidata entity is: ```json {""wikipedia_page"":""Sisyphus"", ""wikidata_id"":""Q102561""} ```",28.29780387878418
+cu31924087948174_0059,2350,2359,Cleopatra,NIL,PER,NIL,Cleopatra,no,0
+cu31924087948174_0060,302,310,Odysseus,Q47231,PER,Q47231,Odysseus," { ""wikipedia_page"": ""Odysseus"", ""wikidata_id"": ""Q47231"" }",22.98387336730957
+cu31924087948174_0060,510,514,Ajax,Q172725,PER,Q172725,Ajax the Great,"```json { ""wikipedia_page"": ""Ajax the Great"", ""wikidata_id"": ""Q172725"" } ```",23.766679763793945
+cu31924087948174_0061,2349,2359,Triclinius,Q2987520,PER,Q2987520,Dimitrios Triclinius,"Based on the input text, the entity mentioned between the [ENT] tags is ""Triclinius."" Among the provided candidates, the most appropriate Wikidata entity is: ```json {""wikipedia_page"": ""Dimitrios Triclinius"", ""wikidata_id"": ""Q2987520""} ```",19.580284118652344
+cu31924087948174_0062,69,75,Lobeck,Q84734,PER,Q84734,Christian Lobeck,"```json {""wikipedia_page"":""Christian Lobeck"", ""wikidata_id"":""Q84734""} ```",15.15887451171875
+cu31924087948174_0075,2023,2031,Odysseus,Q47231,PER,Q47231,Odysseus,"```json {""wikipedia_page"":""Odysseus"", ""wikidata_id"":""Q47231""} ```",24.012189865112305
+cu31924087948174_0075,2046,2050,Ajax,Q172725,PER,Q172725,Ajax the Great,"{""wikipedia_page"": ""Ajax the Great"", ""wikidata_id"": ""Q172725""}",20.29071044921875
+cu31924087948174_0075,2425,2429,Ajax,Q172725,PER,Q172725,Ajax the Great,"{""wikipedia_page"":""Ajax the Great"", ""wikidata_id"":""Q172725""}",18.31151008605957
+cu31924087948174_0088,912,928,Dio Chrys. Orat.,NIL,WORK,NIL,Dio Chrys. Orat.,no,0
+cu31924087948174_0088,947,953,Lobeck,Q84734,PER,Q84734,Christian Lobeck,"The entity mentioned between the [ENT] tags in the input text is ""Lobeck"". The most appropriate Wikidata entity from the provided list of candidates that matches this entity is: ```json {""wikipedia_page"":""Christian Lobeck"", ""wikidata_id"":""Q84734""} ``` This selection is based on the context provided in the input text and the relevance of the entity's details to the historical text's content.",21.87030029296875
+sophoclesplaysa05campgoog_0099,750,759,"Xenophon,",Q129772,PER,Q129772,Xenophon,"``` { ""wikipedia_page"": ""Xenophon"", ""wikidata_id"": ""Q129772"" } ```",25.605777740478516
+sophoclesplaysa05campgoog_0099,891,897,Phrym.,NIL,WORK,NIL,Phrym.,no,0
+sophoclesplaysa05campgoog_0099,1070,1082,Apoll. Rhod.,Q192638,PER,Q192638,Apollonius of Rhodes,"```json {""wikipedia_page"": ""Apollonius of Rhodes"", ""wikidata_id"": ""Q192638""} ```",25.339275360107422
+sophoclesplaysa05campgoog_0099,2022,2027,Iliad,Q8275,WORK,Q8275,Iliad,"```json {""wikipedia_page"": ""Iliad"", ""wikidata_id"": ""Q8275""} ```",30.79993438720703
+sophoclesplaysa05campgoog_0099,2322,2330,Eur. fr.,NIL,WORK,NIL,Eur. fr.,no,0
+sophoclesplaysa05campgoog_0102,1175,1184,Agamemnon,Q128176,PER,Q128176,Agamemnon,"Based on the provided text, the entity mentioned between the [ENT] tags is ""Agamemnon"". The most appropriate Wikidata entity from the given list of candidates is ""Agamemnon"" (Q128176). ```json {""wikipedia_page"":""Agamemnon"", ""wikidata_id"":""Q128176""} ```",24.2496395111084
+sophoclesplaysa05campgoog_0102,1971,1974,Il.,Q8275,WORK,Q8275,Iliad,"Based on the input text and the provided list of candidates, the entity mentioned between the [ENT] tags, ""Il."", is most likely the Iliad, an epic poem attributed to Homer. Therefore, the corresponding Wikipedia page title and Wikidata ID are: ```json {""wikipedia_page"":""Iliad"", ""wikidata_id"":""Q8275""} ```",15.945466995239258
+sophoclesplaysa05campgoog_0102,2025,2034,Lycophron,Q432737,PER,Q432737,Lycophron,"{""wikipedia_page"":""Lycophron"",""wikidata_id"":""Q432737""}",29.571557998657227
+sophoclesplaysa05campgoog_0102,2168,2174,Athen.,NIL,PER,NIL,Athen.,no,0
+sophoclesplaysa05campgoog_0102,2428,2434,Thebes,Q11225429,LOC,Q11225429,Thebes,"Based on the provided context and the list of candidates, the most appropriate entity for Thebes mentioned in the text is: ```json {""wikipedia_page"": ""Thebes (ancient Greek city-state)"", ""wikidata_id"": ""Q11225429""} ```",15.603364944458008
+sophoclesplaysa05campgoog_0107,1508,1516,Odysseus,Q47231,PER,Q47231,Odysseus,"{""wikipedia_page"": ""Odysseus"", ""wikidata_id"": ""Q47231""}",27.00421714782715
+sophoclesplaysa05campgoog_0107,1765,1773,Dem. or.,NIL,WORK,NIL,Dem. or.,no,0
+sophoclesplaysa05campgoog_0107,1846,1849,or.,NIL,WORK,NIL,or.,no,0

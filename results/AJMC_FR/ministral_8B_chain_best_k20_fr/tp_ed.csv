@@ -1,0 +1,107 @@
+doc_id,start_pos,end_pos,surface,gt_id,type,identifier,title,answer,score
+lestragdiesdeso00tourgoog_0064,94,100,Homère,Q6691,PER,Q6691,Homère,,18.621667861938477
+lestragdiesdeso00tourgoog_0064,102,110,Euripide,Q48305,PER,Q48305,Euripide,,27.50162124633789
+lestragdiesdeso00tourgoog_0064,161,173,Iphig. Taur.,Q523227,WORK,Q523227,Iphigénie en Tauride,,17.0914306640625
+lestragdiesdeso00tourgoog_0064,211,219,Euripide,Q48305,PER,Q48305,Euripide,,26.535541534423828
+lestragdiesdeso00tourgoog_0064,350,356,Lobeck,Q84734,PER,Q84734,Christian Lobeck,,16.568389892578125
+lestragdiesdeso00tourgoog_0064,462,468,Laërte,Q748296,PER,Q748296,Laërte,,17.27619171142578
+lestragdiesdeso00tourgoog_0064,729,737,Andocide,Q391654,PER,Q391654,Andocide,,24.955522537231445
+lestragdiesdeso00tourgoog_0064,1249,1256,Eschine,Q317089,PER,Q317089,Eschine,,24.96474838256836
+lestragdiesdeso00tourgoog_0064,1258,1282,Discours contre Timurque,Q2995964,WORK,Q2995964,Contre Timarque,,20.544227600097656
+lestragdiesdeso00tourgoog_0067,276,281,Cnide,Q690575,LOC,Q690575,Cnide,,16.19046401977539
+lestragdiesdeso00tourgoog_0067,287,297,les Perses,Q788458,WORK,Q788458,Les Perses,,24.804683685302734
+lestragdiesdeso00tourgoog_0067,300,307,Eschyle,Q40939,PER,Q40939,Eschyle,,31.017459869384766
+lestragdiesdeso00tourgoog_0067,435,446,Schneidewin,Q70043,PER,Q70043,Friedrich Wilhelm Schneidewin,,27.070974349975586
+lestragdiesdeso00tourgoog_0067,729,737,fragment,NIL,WORK,NIL,fragment,```json {} ```,0
+lestragdiesdeso00tourgoog_0067,740,747,Eupolis,Q459517,PER,Q459517,Eupolis,,22.0192813873291
+lestragdiesdeso00tourgoog_0067,871,877,Lobeck,Q84734,PER,Q84734,Christian Lobeck,,22.83228302001953
+lestragdiesdeso00tourgoog_0067,1013,1024,"d’Aristote,",Q868,PER,Q868,Aristote,,17.01130485534668
+lestragdiesdeso00tourgoog_0067,1035,1046,Aristophane,Q43353,PER,Q43353,Aristophane,,29.87264633178711
+lestragdiesdeso00tourgoog_0067,1499,1507,Euripide,Q48305,PER,Q48305,Euripide,,25.036903381347656
+lestragdiesdeso00tourgoog_0067,1509,1526,Iphigénie & Aulis,Q1233770,WORK,Q1233770,Iphigénie à Aulis,,17.319406509399414
+lestragdiesdeso00tourgoog_0081,312,319,Athènes,Q1524,LOC,Q1524,Athènes,,25.463699340820312
+lestragdiesdeso00tourgoog_0089,474,480,Wunder,Q15438962,PER,Q15438962,Eduard Wunder,"```json {""wikipedia_page"":""Eduard Wunder"", ""wikidata_id"":""Q15438962""} ```",13.301916122436523
+lestragdiesdeso00tourgoog_0089,540,551,Schneidewin,Q70043,PER,Q70043,Friedrich Wilhelm Schneidewin,,25.436222076416016
+lestragdiesdeso00tourgoog_0089,642,648,Teucer,Q878184,PER,Q878184,Teucros,,19.321134567260742
+lestragdiesdeso00tourgoog_0089,651,658,Ménélas,Q171839,PER,Q171839,Ménélas,,17.428333282470703
+lestragdiesdeso00tourgoog_0097,29,36,Odyssée,Q35160,WORK,Q35160,Odyssée,,24.86775016784668
+lestragdiesdeso00tourgoog_0097,223,231,Eustathe,Q453465,PER,Q453465,Eustathe de Thessalonique,,21.913829803466797
+lestragdiesdeso00tourgoog_0097,652,661,"Hérodote,",Q26825,PER,Q26825,Hérodote,,23.188587188720703
+lestragdiesdeso00tourgoog_0097,732,741,Eurysacés,Q1378566,PER,Q1378566,Eurysacès,,23.65024757385254
+lestragdiesdeso00tourgoog_0097,903,909,Iliade,Q8275,WORK,Q8275,Iliade,,27.21435546875
+lestragdiesdeso00tourgoog_0097,1080,1087,Macrobe,Q313934,PER,Q313934,Macrobe,,17.477510452270508
+lestragdiesdeso00tourgoog_0097,1143,1150,Virgile,Q1398,PER,Q1398,Virgile,,33.4468994140625
+lestragdiesdeso00tourgoog_0097,1152,1158,Énéide,Q60220,WORK,Q60220,Énéide,,31.882104873657227
+lestragdiesdeso00tourgoog_0097,1614,1625,Schneidewin,Q70043,PER,Q70043,Friedrich Wilhelm Schneidewin,,19.139892578125
+lestragdiesdeso00tourgoog_0097,1660,1673,Trachiniennes,Q945342,WORK,Q945342,Les Trachiniennes,,18.288909912109375
+lestragdiesdeso00tourgoog_0097,1883,1894,Schneidewin,Q70043,PER,Q70043,Friedrich Wilhelm Schneidewin,,24.39043617248535
+lestragdiesdeso00tourgoog_0121,498,511,Schneidewin.],Q70043,PER,Q70043,Friedrich Wilhelm Schneidewin,,17.193265914916992
+lestragdiesdeso00tourgoog_0024,543,551,Gaisford,Q2424118,PER,Q2424118,Thomas Gaisford,,23.567398071289062
+lestragdiesdeso00tourgoog_0024,722,728,Oxford,Q34217,LOC,Q34217,Oxford,,24.45380401611328
+lestragdiesdeso00tourgoog_0024,810,817,Elmsley,Q7173848,PER,Q7173848,Peter Elmsley,,24.199941635131836
+lestragdiesdeso00tourgoog_0024,821,829,Gaisford,Q2424118,PER,Q2424118,Thomas Gaisford,,24.142805099487305
+lestragdiesdeso00tourgoog_0024,1003,1023,Démétrius Triclinius,Q2987520,PER,Q2987520,Démétrios Triclinios,,37.852359771728516
+lestragdiesdeso00tourgoog_0024,1204,1212,"Dindorf,",Q67533,PER,Q67533,Karl Wilhelm Dindorf,,16.45578384399414
+lestragdiesdeso00tourgoog_0024,1221,1232,Schneidewin,Q70043,PER,Q70043,Friedrich Wilhelm Schneidewin,,26.135101318359375
+lestragdiesdeso00tourgoog_0024,1247,1252,Nauck,Q95964,PER,Q95964,August Nauck,,22.349788665771484
+lestragdiesdeso00tourgoog_0024,1271,1282,Schneidewin,Q70043,PER,Q70043,Friedrich Wilhelm Schneidewin,,27.489498138427734
+lestragdiesdeso00tourgoog_0024,2061,2072,Schneidewin,Q70043,PER,Q70043,Friedrich Wilhelm Schneidewin,,24.26955795288086
+lestragdiesdeso00tourgoog_0025,419,425,Wunder,Q15438962,PER,Q15438962,Eduard Wunder,"```json {""wikipedia_page"":""Eduard Wunder"", ""wikidata_id"":""Q15438962""} ```",14.410176277160645
+lestragdiesdeso00tourgoog_0025,509,517,Sophocle,Q7235,PER,Q7235,Sophocle,,32.97855758666992
+lestragdiesdeso00tourgoog_0025,1529,1535,France,Q142,LOC,Q142,France,,23.3797664642334
+lestragdiesdeso00tourgoog_0025,1694,1702,Sophocle,Q7235,PER,Q7235,Sophocle,,32.59607696533203
+lestragdiesdeso00tourgoog_0025,1883,1891,Sophocle,Q7235,PER,Q7235,Sophocle,,24.711305618286133
+lestragdiesdeso00tourgoog_0025,1894,1902,Sophocle,Q7235,PER,Q7235,Sophocle,,23.466556549072266
+lestragdiesdeso00tourgoog_0138,366,374,Antigone,Q241077,WORK,Q241077,Antigone,,26.454910278320312
+lestragdiesdeso00tourgoog_0138,410,417,Eschyle,Q40939,PER,Q40939,Eschyle,,32.66692352294922
+lestragdiesdeso00tourgoog_0138,578,584,Eurip.,Q48305,PER,Q48305,Euripide,,26.526203155517578
+lestragdiesdeso00tourgoog_0138,616,624,Sophocl.,Q7235,PER,Q7235,Sophocle,,32.63554382324219
+lestragdiesdeso00tourgoog_0138,657,664,T. Liv.,Q2039,PER,Q2039,Tite-Live,,24.229299545288086
+lestragdiesdeso00tourgoog_0138,678,685,Lucret.,Q47154,PER,Q47154,Lucrèce,,21.43413543701172
+lestragdiesdeso00tourgoog_0138,779,785,Lobeck,Q84734,PER,Q84734,Christian Lobeck,"Based on the provided input text and the list of candidates, the entity mentioned between the [ENT] tags is ""Lobeck"". The most appropriate Wikidata entity from the list of candidates is ""Christian Lobeck"". Here is the JSON response: ```json {""wikipedia_page"":""Christian Lobeck"", ""wikidata_id"":""Q84734""} ```",13.861428260803223
+lestragdiesdeso00tourgoog_0138,910,921,Aristophane,Q43353,PER,Q43353,Aristophane,,30.309864044189453
+lestragdiesdeso00tourgoog_0138,923,934,"Chevaliers,",Q1215817,WORK,Q1215817,Les Cavaliers,,16.61960220336914
+lestragdiesdeso00tourgoog_0138,939,955,Thesmophoriazusæ,Q761731,WORK,Q761731,Les Thesmophories,,17.050376892089844
+lestragdiesdeso00tourgoog_0138,1060,1069,Thévcrite,Q219484,PER,Q219484,Théocrite,,26.582494735717773
+lestragdiesdeso00tourgoog_0138,1106,1117,Schneidewin,Q70043,PER,Q70043,Friedrich Wilhelm Schneidewin,,21.451644897460938
+lestragdiesdeso00tourgoog_0138,1383,1394,Schneidewin,Q70043,PER,Q70043,Friedrich Wilhelm Schneidewin,,21.152599334716797
+lestragdiesdeso00tourgoog_0061,86,94,Sophocle,Q7235,PER,Q7235,Sophocle,,35.53141403198242
+lestragdiesdeso00tourgoog_0061,903,911,Euripide,Q48305,PER,Q48305,Euripide,,29.288604736328125
+lestragdiesdeso00tourgoog_0061,1040,1048,Euripide,Q48305,PER,Q48305,Euripide,,25.676713943481445
+lestragdiesdeso00tourgoog_0061,1050,1057,Alceste,Q1246408,WORK,Q1246408,Alceste,,17.36126136779785
+lestragdiesdeso00tourgoog_0061,1114,1118,Neue,NIL,PER,NIL,Neue,no,0
+lestragdiesdeso00tourgoog_0061,1120,1131,Schneidewin,Q70043,PER,Q70043,Friedrich Wilhelm Schneidewin,"```json { ""wikipedia_page"": ""Friedrich Wilhelm Schneidewin"", ""wikidata_id"": ""Q70043"" } ```",13.524956703186035
+lestragdiesdeso00tourgoog_0061,1161,1171,OEdipe Roi,Q148643,WORK,Q148643,Œdipe roi,,21.022735595703125
+lestragdiesdeso00tourgoog_0061,1199,1209,Philoctète,Q1415903,WORK,Q1415903,Philoctète,,21.298458099365234
+lestragdiesdeso00tourgoog_0061,1269,1280,Schneidewin,Q70043,PER,Q70043,Friedrich Wilhelm Schneidewin,,19.001585006713867
+lestragdiesdeso00tourgoog_0061,1300,1311,Schneidewin,Q70043,PER,Q70043,Friedrich Wilhelm Schneidewin,,22.612884521484375
+lestragdiesdeso00tourgoog_0061,1391,1399,Trachin.,Q945342,WORK,Q945342,Les Trachiniennes,"Based on the provided text, the entity mentioned between the [ENT] tags is ""Trachin. [ENT] 4483."" which corresponds to the play ""Les Trachiniennes"" by Sophocle. Therefore, the JSON object would be: ```json { ""wikipedia_page"": ""Les Trachiniennes"", ""wikidata_id"": ""Q945342"" } ```",14.077909469604492
+lestragdiesdeso00tourgoog_0076,229,235,Antig.,Q241077,WORK,Q241077,Antigone,"```json {""wikipedia_page"": ""Antigone"", ""wikidata_id"": ""Q241077""} ```",11.375361442565918
+lestragdiesdeso00tourgoog_0076,589,595,Antig.,Q241077,WORK,Q241077,Antigone,"{ ""wikipedia_page"": ""Antigone"", ""wikidata_id"": ""Q241077"" }",8.053655624389648
+lestragdiesdeso00tourgoog_0076,888,893,Madv.,NIL,PER,NIL,Madv.,no,0
+lestragdiesdeso00tourgoog_0076,1269,1273,Ajax,Q172725,PER,Q172725,Ajax,,22.448196411132812
+lestragdiesdeso00tourgoog_0134,74,83,"Eustathe,",Q453465,PER,Q453465,Eustathe de Thessalonique,"Based on the provided text, the most appropriate Wikidata entity for the mention [ENT] Eustathe is ""Eustathe de Thessalonique"". Here is the JSON response: ```json {""wikipedia_page"": ""Eustathe de Thessalonique"", ""wikidata_id"": ""Q453465""} ```",15.058980941772461
+lestragdiesdeso00tourgoog_0134,272,284,Dis- cours V,NIL,WORK,NIL,Dis- cours V,no,0
+lestragdiesdeso00tourgoog_0134,302,310,Libanius,Q263892,PER,Q263892,Libanios,,21.25602912902832
+lestragdiesdeso00tourgoog_0134,357,363,Lobeck,Q84734,PER,Q84734,Christian Lobeck,"```json {""wikipedia_page"":""Christian Lobeck"", ""wikidata_id"":""Q84734""} ```",14.3865385055542
+lestragdiesdeso00tourgoog_0134,956,965,Plutarch.,Q41523,PER,Q41523,Plutarque,,21.788497924804688
+lestragdiesdeso00tourgoog_0134,1504,1510,Strab.,Q45936,PER,Q45936,Strabon,,19.7861385345459
+lestragdiesdeso00tourgoog_0134,1538,1543,Ælian,Q313782,PER,Q313782,Claude Élien,,19.560441970825195
+lestragdiesdeso00tourgoog_0154,77,84,Eschyle,Q40939,PER,Q40939,Eschyle,,24.694570541381836
+lestragdiesdeso00tourgoog_0154,86,92,Perses,Q788458,WORK,Q788458,Les Perses,,18.67929458618164
+lestragdiesdeso00tourgoog_0154,291,298,Eschyle,Q40939,PER,Q40939,Eschyle,,25.65534019470215
+lestragdiesdeso00tourgoog_0154,669,680,Schneidewin,Q70043,PER,Q70043,Friedrich Wilhelm Schneidewin,,26.31705665588379
+lestragdiesdeso00tourgoog_0142,311,319,Euripide,Q48305,PER,Q48305,Euripide,,26.20932388305664
+lestragdiesdeso00tourgoog_0142,472,483,Schneidevîu,Q70043,PER,Q70043,Friedrich Wilhelm Schneidewin,,16.512311935424805
+lestragdiesdeso00tourgoog_0142,531,544,Trachiniennes,Q945342,WORK,Q945342,Les Trachiniennes,,18.55206871032715
+lestragdiesdeso00tourgoog_0142,656,662,Homère,Q6691,PER,Q6691,Homère,,35.631858825683594
+lestragdiesdeso00tourgoog_0142,712,717,Pirée,Q58976,LOC,Q58976,Le Pirée,,22.586376190185547
+lestragdiesdeso00tourgoog_0142,754,761,Strabon,Q45936,PER,Q45936,Strabon,,32.07594680786133
+lestragdiesdeso00tourgoog_0142,827,834,Odyssée,Q35160,WORK,Q35160,Odyssée,,27.757863998413086
+lestragdiesdeso00tourgoog_0142,850,857,Virgile,Q1398,PER,Q1398,Virgile,,34.31816864013672
+lestragdiesdeso00tourgoog_0142,859,865,Énéide,Q60220,WORK,Q60220,Énéide,,29.929405212402344
+lestragdiesdeso00tourgoog_0142,995,1005,Philoctète,Q1415903,WORK,Q1415903,Philoctète,,29.541322708129883
+lestragdiesdeso00tourgoog_0142,1074,1088,"Trachiniennes,",Q945342,WORK,Q945342,Les Trachiniennes,,16.945995330810547
+lestragdiesdeso00tourgoog_0142,1094,1105,Schneidewin,Q70043,PER,Q70043,Friedrich Wilhelm Schneidewin,,21.12541961669922
+lestragdiesdeso00tourgoog_0142,1227,1235,Isocrate,Q221182,PER,Q221182,Isocrate,,35.916107177734375
+lestragdiesdeso00tourgoog_0142,1305,1316,Schneidewin,Q70043,PER,Q70043,Friedrich Wilhelm Schneidewin,,20.581998825073242

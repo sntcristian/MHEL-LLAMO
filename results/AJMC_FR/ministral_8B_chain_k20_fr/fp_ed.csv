@@ -1,0 +1,149 @@
+doc_id,start_pos,end_pos,surface,gt_id,type,identifier,title,answer,score
+lestragdiesdeso00tourgoog_0064,161,173,Iphig. Taur.,Q523227,WORK,NIL,Iphig. Taur.,```json {} ```,0
+lestragdiesdeso00tourgoog_0064,223,235,Phéniciennes,Q1233660,WORK,NIL,Phéniciennes,no,0
+lestragdiesdeso00tourgoog_0064,462,468,Laërte,Q748296,PER,Q2471533,Laërte,"```json {""wikipedia_page"":""Laërte"", ""wikidata_id"":""Q2471533""} ```",13.462610244750977
+lestragdiesdeso00tourgoog_0064,658,665,Ellendt,Q18411800,PER,Q18411557,Johann Ernst Ellendt,"```json {""wikipedia_page"":""Johann Ernst Ellendt"", ""wikidata_id"":""Q18411557""} ```",21.65277099609375
+lestragdiesdeso00tourgoog_0064,696,702,ϑυϊάλ5,Q1534037,PER,NIL,ϑυϊάλ5,No.,0
+lestragdiesdeso00tourgoog_0064,729,737,Andocide,Q391654,PER,NIL,Andocide,no,0
+lestragdiesdeso00tourgoog_0064,739,764,discours Sur les Mystères,Q87737021,WORK,NIL,discours Sur les Mystères,```json {} ```,0
+lestragdiesdeso00tourgoog_0064,1329,1333,Ajux,Q172725,PER,Q244212,Ajoux,"Based on the provided text, the entity mentioned between the [ENT] tags is ""Ajux Ajoux"". From the given list of candidates, the most appropriate Wikidata entity that matches this name is ""Ajoux"". Here is the JSON response: ```json {""wikipedia_page"": ""Ajoux"", ""wikidata_id"": ""Q244212""} ```",14.017461776733398
+lestragdiesdeso00tourgoog_0067,11,18,Ellendt,Q18411800,PER,Q2265847,Elland,"Based on the input text and the provided list of candidates, the entity mentioned between the [ENT] tags seems to be ""Ellendt"". Among the candidates, the most appropriate one is: - Elland Here is the JSON response: ```json {""wikipedia_page"": ""Elland"", ""wikidata_id"": ""Q2265847""} ``` The entity ""Elland"" appears to be a British locality, which matches the context given.",10.455548286437988
+lestragdiesdeso00tourgoog_0067,205,212,Linwood,NIL,PER,Q18668613,William Linwood,"```json {""wikipedia_page"": ""William Linwood"", ""wikidata_id"": ""Q18668613""} ```",18.009571075439453
+lestragdiesdeso00tourgoog_0067,217,242,hymne homérique à Apollon,Q3798932,WORK,NIL,hymne homérique à Apollon,no,0
+lestragdiesdeso00tourgoog_0067,251,264,"Lemnos,lcarie",Q209576,LOC,NIL,"Lemnos,lcarie",no,0
+lestragdiesdeso00tourgoog_0067,266,272,Nhodes,Q43048,LOC,NIL,Nhodes,"Based on the provided text and list of candidates, the entity mentioned between the [ENT] tags ""Nhodes"" does not match with any of the candidates in the list. Therefore, I will return an empty JSON object. ```json {} ```",0
+lestragdiesdeso00tourgoog_0067,287,297,les Perses,Q788458,WORK,NIL,les Perses,```json {} ```,0
+lestragdiesdeso00tourgoog_0067,300,307,Eschyle,Q40939,PER,NIL,Eschyle,no,0
+lestragdiesdeso00tourgoog_0067,608,613,Phil.,Q1415903,WORK,NIL,Phil.,```json {} ```,0
+lestragdiesdeso00tourgoog_0067,641,647,Rhésus,Q667750,WORK,Q3429322,Rhesus,"```json { ""wikipedia_page"": ""Rhesus"", ""wikidata_id"": ""Q3429322"" } ``` The entity mentioned between the [ENT] tags, ""Rhésus"" in this case, is disambiguated to the Wikidata entity ""Rhesus"" (Q3429322) which corresponds to a group of rock.",17.167186737060547
+lestragdiesdeso00tourgoog_0067,678,681,ſi.,Q8275,WORK,NIL,ſi.,no,0
+lestragdiesdeso00tourgoog_0067,1013,1024,"d’Aristote,",Q868,PER,NIL,"d’Aristote,",```json {} ```,0
+lestragdiesdeso00tourgoog_0067,1035,1046,Aristophane,Q43353,PER,NIL,Aristophane,no,0
+lestragdiesdeso00tourgoog_0067,1048,1058,Chevaliers,Q1215817,WORK,NIL,Chevaliers,```json {} ```,0
+lestragdiesdeso00tourgoog_0067,1093,1108,OEdipe ἃ Οοίοπε,Q294001,WORK,NIL,OEdipe ἃ Οοίοπε,no,0
+lestragdiesdeso00tourgoog_0067,1509,1526,Iphigénie & Aulis,Q1233770,WORK,NIL,Iphigénie & Aulis,```json {} ```,0
+lestragdiesdeso00tourgoog_0067,1783,1789,Wunder,Q15438962,PER,NIL,Wunder,"```json {""wikipedia_page"":"""", ""wikidata_id"":""""} ```",0
+lestragdiesdeso00tourgoog_0067,1949,1955,Wander,Q15438962,PER,NIL,Wander,no,0
+lestragdiesdeso00tourgoog_0081,312,319,Athènes,Q1524,LOC,NIL,Athènes,no,0
+lestragdiesdeso00tourgoog_0081,325,332,Électre,Q733444,WORK,NIL,Électre,no,0
+lestragdiesdeso00tourgoog_0081,478,486,OEd. Ro:,Q148643,WORK,Q14981671,Oros d'Alexandrie,"Based on the provided input text and list of candidates, the entity mentioned between the [ENT] tags is ""Oros d'Alexandrie"". Therefore, the corresponding Wikipedia page title and Wikidata ID are: ```json {""wikipedia_page"":""Oros d'Alexandrie"", ""wikidata_id"":""Q14981671""} ```",8.803712844848633
+lestragdiesdeso00tourgoog_0089,133,143,ΟΕ Δ. (οί.,Q294001,WORK,NIL,ΟΕ Δ. (οί.,no,0
+lestragdiesdeso00tourgoog_0089,171,183,ISehneidewin,Q70043,PER,NIL,ISehneidewin,No,0
+lestragdiesdeso00tourgoog_0089,474,480,Wunder,Q15438962,PER,NIL,Wunder,no,0
+lestragdiesdeso00tourgoog_0089,540,551,Schneidewin,Q70043,PER,NIL,Schneidewin,no,0
+lestragdiesdeso00tourgoog_0089,642,648,Teucer,Q878184,PER,NIL,Teucer,```json {} ```,0
+lestragdiesdeso00tourgoog_0089,893,900,Électre,Q733444,WORK,Q131651,Électre,"```json {""wikipedia_page"":""Électre"", ""wikidata_id"":""Q131651""} ```",17.9273624420166
+lestragdiesdeso00tourgoog_0089,970,981,Scbneidewin,Q70043,PER,NIL,Scbneidewin,no,0
+lestragdiesdeso00tourgoog_0089,1190,1198,"QEd, Roi",Q148643,WORK,NIL,"QEd, Roi",no,0
+lestragdiesdeso00tourgoog_0097,29,36,Odyssée,Q35160,WORK,Q3204415,L'Odyssée,"Based on the provided input text and the given list of candidates, the most appropriate Wikidata entity for the entity tagged with [ENT] is ""L'Odyssée"" (Q3204415) from the ""Livre d'Osée"" entry. ```json {""wikipedia_page"": ""L'Odyssée"", ""wikidata_id"": ""Q3204415""} ```",15.244505882263184
+lestragdiesdeso00tourgoog_0097,223,231,Eustathe,Q453465,PER,NIL,Eustathe,no,0
+lestragdiesdeso00tourgoog_0097,652,661,"Hérodote,",Q26825,PER,NIL,"Hérodote,",no,0
+lestragdiesdeso00tourgoog_0097,1067,1073,Attius,Q311287,PER,Q92594435,Caius Baebius Atticus,"```json { ""wikipedia_page"": ""Caius Baebius Atticus"", ""wikidata_id"": ""Q92594435"" } ```",25.003450393676758
+lestragdiesdeso00tourgoog_0097,1080,1087,Macrobe,Q313934,PER,NIL,Macrobe,no,0
+lestragdiesdeso00tourgoog_0097,1270,1278,Sophocle,Q11950683,PER,Q7235,Sophocle,"```json {""wikipedia_page"": ""Sophocle"", ""wikidata_id"": ""Q7235""} ```",32.52713394165039
+lestragdiesdeso00tourgoog_0097,1340,1347,ÆRacine,Q742,PER,NIL,ÆRacine,no,0
+lestragdiesdeso00tourgoog_0097,1496,1505,OEd. Col.,Q294001,WORK,NIL,OEd. Col.,"```json { ""wikipedia_page"": """", ""wikidata_id"": """" } ```",0
+lestragdiesdeso00tourgoog_0097,1660,1673,Trachiniennes,Q945342,WORK,NIL,Trachiniennes,no,0
+lestragdiesdeso00tourgoog_0097,1816,1824,»λίϊοοί.,Q1415903,WORK,NIL,»λίϊοοί.,no,0
+lestragdiesdeso00tourgoog_0097,1883,1894,Schneidewin,Q70043,PER,NIL,Schneidewin,no,0
+lestragdiesdeso00tourgoog_0097,1979,1986,Dindorf,Q67533,PER,NIL,Dindorf,no,0
+lestragdiesdeso00tourgoog_0121,410,417,Hermann,Q77616,PER,NIL,Hermann,no,0
+lestragdiesdeso00tourgoog_0121,421,428,Ellendt,Q18411557,PER,NIL,Ellendt,```json {} ```,0
+lestragdiesdeso00tourgoog_0121,467,480,OEd. à Colone,Q294001,WORK,Q5626,Eudes de Deuil,"Based on the input text and the provided list of candidates, the entity mentioned between the [ENT] tags is likely referring to ""Eudes de Deuil"". This is because the text mentions ""Eudes de Deuil"" (in French) and ""OEd."" which could be an abbreviation for ""Eudes de Deuil"" as per the list of candidates. The corresponding Wikidata ID and Wikipedia page title for this entity are: - Wikidata ID: Q5626 - Wikipedia Page Title: Eudes de Deuil Therefore, the JSON-formatted answer is: ```json {""wikipedia_page"": ""Eudes de Deuil"", ""wikidata_id"": ""Q5626""} ```",7.714082717895508
+lestragdiesdeso00tourgoog_0121,488,494,Wunder,Q15438962,PER,NIL,Wunder,no,0
+lestragdiesdeso00tourgoog_0121,498,511,Schneidewin.],Q70043,PER,NIL,Schneidewin.],no,0
+lestragdiesdeso00tourgoog_0121,542,550,Tecmesse,Q10796858,PER,Q3516977,Tecmesse,"```json {""wikipedia_page"":""Tecmesse"", ""wikidata_id"":""Q3516977""} ```",15.94774055480957
+lestragdiesdeso00tourgoog_0121,573,577,Ajax,Q172725,PER,NIL,Ajax,no,0
+lestragdiesdeso00tourgoog_0121,870,877,Élecrrc,Q733444,WORK,Q3587592,Électre,"```json {""wikipedia_page"": ""Électre"", ""wikidata_id"": ""Q3587592""} ```",9.680068016052246
+lestragdiesdeso00tourgoog_0024,532,539,Elmsley,Q7173848,PER,Q21491791,Elmsley,"```json { ""wikipedia_page"": ""Elmsley"", ""wikidata_id"": ""Q21491791"" } ```",20.21427345275879
+lestragdiesdeso00tourgoog_0024,722,728,Oxford,Q34217,LOC,Q34433,université d'Oxford,"{ ""wikipedia_page"": ""université d'Oxford"", ""wikidata_id"": ""Q34433"" }",20.66766357421875
+lestragdiesdeso00tourgoog_0024,732,749,Guillaume Dindorf,Q67533,PER,Q1539802,Gottlieb Immanuel Dindorf,"```json {""wikipedia_page"":""Gottlieb Immanuel Dindorf"", ""wikidata_id"":""Q1539802""} ```",28.099262237548828
+lestragdiesdeso00tourgoog_0024,810,817,Elmsley,Q7173848,PER,NIL,Elmsley,no,0
+lestragdiesdeso00tourgoog_0024,821,829,Gaisford,Q2424118,PER,NIL,Gaisford,```json {} ```,0
+lestragdiesdeso00tourgoog_0024,2083,2088,Nauck,Q95964,PER,Q15435206,Hugo Nauck,"```json { ""wikipedia_page"": ""Hugo Nauck"", ""wikidata_id"": ""Q15435206"" } ```",21.125459671020508
+lestragdiesdeso00tourgoog_0025,1014,1018,Rhin,Q21198444,LOC,NIL,Rhin,no,0
+lestragdiesdeso00tourgoog_0025,1473,1477,Neue,NIL,PER,Q124711,Christian Friedrich Neue,"```json { ""wikipedia_page"": ""Christian Friedrich Neue"", ""wikidata_id"": ""Q124711"" } ```",18.52309799194336
+lestragdiesdeso00tourgoog_0025,1602,1606,Neue,NIL,PER,Q124711,Christian Friedrich Neue,"```json { ""wikipedia_page"": ""Christian Friedrich Neue"", ""wikidata_id"": ""Q124711"" } ```",17.9420223236084
+lestragdiesdeso00tourgoog_0025,1883,1891,Sophocle,Q7235,PER,NIL,Sophocle,no,0
+lestragdiesdeso00tourgoog_0025,2008,2012,Neue,NIL,PER,Q124711,Christian Friedrich Neue,"Based on the provided text and the list of candidates, the entity mentioned between the [ENT] tags is ""Christian Friedrich Neue"". Therefore, the corresponding Wikipedia page title and Wikidata ID of the selected entity are: ```json {""wikipedia_page"":""Christian Friedrich Neue"", ""wikidata_id"":""Q124711""} ```",15.345009803771973
+lestragdiesdeso00tourgoog_0138,366,374,Antigone,Q241077,WORK,NIL,Antigone,```json {} ```,0
+lestragdiesdeso00tourgoog_0138,410,417,Eschyle,Q40939,PER,NIL,Eschyle,no,0
+lestragdiesdeso00tourgoog_0138,419,428,Agamemnon,Q3320792,WORK,NIL,Agamemnon,no,0
+lestragdiesdeso00tourgoog_0138,587,594,Androm.,Q512802,WORK,NIL,Androm.,no,0
+lestragdiesdeso00tourgoog_0138,600,607,Heracl.,Q1233835,WORK,Q41155,Héraclite,"```json { ""wikipedia_page"": ""Héraclite"", ""wikidata_id"": ""Q41155"" } ```",24.479379653930664
+lestragdiesdeso00tourgoog_0138,627,635,Trachin.,Q1049466,WORK,Q945342,Les Trachiniennes,"```json { ""wikipedia_page"": ""Les Trachiniennes"", ""wikidata_id"": ""Q945342"" } ```",17.803478240966797
+lestragdiesdeso00tourgoog_0138,657,664,T. Liv.,Q2039,PER,NIL,T. Liv.,```json {} ```,0
+lestragdiesdeso00tourgoog_0138,712,728,"Plutarch., Sull.",Q12902611,WORK,NIL,"Plutarch., Sull.",```json {} ```,0
+lestragdiesdeso00tourgoog_0138,738,750,Lu«cull.xv);,Q12902610,WORK,NIL,Lu«cull.xv);,no,0
+lestragdiesdeso00tourgoog_0138,762,769,Phænic.,Q1233660,WORK,NIL,Phænic.,no,0
+lestragdiesdeso00tourgoog_0138,779,785,Lobeck,Q84734,PER,NIL,Lobeck,no,0
+lestragdiesdeso00tourgoog_0138,910,921,Aristophane,Q43353,PER,NIL,Aristophane,```json {} ```,0
+lestragdiesdeso00tourgoog_0138,939,955,Thesmophoriazusæ,Q761731,WORK,NIL,Thesmophoriazusæ,```json {} ```,0
+lestragdiesdeso00tourgoog_0138,965,971,Wunder,Q15438962,PER,NIL,Wunder,no,0
+lestragdiesdeso00tourgoog_0138,1106,1117,Schneidewin,Q70043,PER,NIL,Schneidewin,no,0
+lestragdiesdeso00tourgoog_0138,1313,1320,Électre,Q733444,WORK,Q131651,Électre,"```json {""wikipedia_page"":""Électre"", ""wikidata_id"":""Q131651""} ```",15.142800331115723
+lestragdiesdeso00tourgoog_0138,1368,1375,Électre,Q733444,WORK,Q3587592,Électre,"```json { ""wikipedia_page"": ""Électre"", ""wikidata_id"": ""Q3587592"" } ```",11.464395523071289
+lestragdiesdeso00tourgoog_0061,86,94,Sophocle,Q7235,PER,NIL,Sophocle,```json {} ```,0
+lestragdiesdeso00tourgoog_0061,307,313,Antig.,Q241077,WORK,NIL,Antig.,no,0
+lestragdiesdeso00tourgoog_0061,410,418,Trachin.,Q945342,WORK,NIL,Trachin.,no,0
+lestragdiesdeso00tourgoog_0061,481,486,(4)αα,Q412341,WORK,NIL,(4)αα,```json {} ```,0
+lestragdiesdeso00tourgoog_0061,526,536,Ρλιίοοιέέε,Q1415903,WORK,NIL,Ρλιίοοιέέε,no,0
+lestragdiesdeso00tourgoog_0061,776,783,Électre,Q733444,WORK,NIL,Électre,no,0
+lestragdiesdeso00tourgoog_0061,870,876,Brunck,Q454469,PER,NIL,Brunck,no,0
+lestragdiesdeso00tourgoog_0061,913,928,Hercule furieux,Q1233835,WORK,NIL,Hercule furieux,No.,0
+lestragdiesdeso00tourgoog_0061,1040,1048,Euripide,Q48305,PER,NIL,Euripide,```json {} ```,0
+lestragdiesdeso00tourgoog_0061,1050,1057,Alceste,Q1246408,WORK,NIL,Alceste,No.,0
+lestragdiesdeso00tourgoog_0061,1114,1118,Neue,NIL,PER,Q124711,Christian Friedrich Neue,"Based on the input text, the entity mentioned between the [ENT] tags is ""Neue"", which matches with the candidate ""Christian Friedrich Neue"" from the list of candidates. Therefore, the corresponding Wikipedia page title and Wikidata ID are: ```json {""wikipedia_page"": ""Christian Friedrich Neue"", ""wikidata_id"": ""Q124711""} ```",11.283008575439453
+lestragdiesdeso00tourgoog_0061,1120,1131,Schneidewin,Q70043,PER,NIL,Schneidewin,```json {} ```,0
+lestragdiesdeso00tourgoog_0061,1161,1171,OEdipe Roi,Q148643,WORK,NIL,OEdipe Roi,no,0
+lestragdiesdeso00tourgoog_0061,1199,1209,Philoctète,Q1415903,WORK,NIL,Philoctète,No.,0
+lestragdiesdeso00tourgoog_0061,1269,1280,Schneidewin,Q70043,PER,NIL,Schneidewin,no,0
+lestragdiesdeso00tourgoog_0061,1300,1311,Schneidewin,Q70043,PER,NIL,Schneidewin,```json {} ```,0
+lestragdiesdeso00tourgoog_0061,1391,1399,Trachin.,Q945342,WORK,NIL,Trachin.,no,0
+lestragdiesdeso00tourgoog_0061,1496,1505,ΟΕ ώ. Roi,Q148643,WORK,NIL,ΟΕ ώ. Roi,no,0
+lestragdiesdeso00tourgoog_0061,1664,1672,Trachin.,Q945342,WORK,NIL,Trachin.,no,0
+lestragdiesdeso00tourgoog_0076,118,127,"OEd. Roi,",Q148643,WORK,NIL,"OEd. Roi,",no,0
+lestragdiesdeso00tourgoog_0076,229,235,Antig.,Q241077,WORK,NIL,Antig.,```json {} ```,0
+lestragdiesdeso00tourgoog_0076,291,295,4/ax,Q412341,WORK,NIL,4/ax,"```json { ""wikipedia_page"": """", ""wikidata_id"": """" } ```",0
+lestragdiesdeso00tourgoog_0076,445,454,OEd. Οοΐ.,Q294001,WORK,NIL,OEd. Οοΐ.,no,0
+lestragdiesdeso00tourgoog_0076,479,487,Philoct.,Q1415903,WORK,NIL,Philoct.,"""no""",0
+lestragdiesdeso00tourgoog_0076,550,559,"Οξά. Roi,",Q148643,WORK,NIL,"Οξά. Roi,",no,0
+lestragdiesdeso00tourgoog_0076,589,595,Antig.,Q241077,WORK,NIL,Antig.,```json {} ```,0
+lestragdiesdeso00tourgoog_0076,888,893,Madv.,NIL,PER,Q335371,Madhva,"```json {""wikipedia_page"": ""Madhva"", ""wikidata_id"": ""Q335371""} ```",9.65814208984375
+lestragdiesdeso00tourgoog_0076,1191,1199,"ΟΕά. οὶ,",Q148643,WORK,Q412341,Ajax,"Based on the input text and the list of candidates, the entity mentioned between the [ENT] tags is ""Ajax."" From the list of candidates, the most appropriate Wikidata entity for ""Ajax"" is: ```json { ""wikipedia_page"": ""Ajax"", ""wikidata_id"": ""Q412341"" } ```",7.723396301269531
+lestragdiesdeso00tourgoog_0134,74,83,"Eustathe,",Q453465,PER,NIL,"Eustathe,",```json {} ```,0
+lestragdiesdeso00tourgoog_0134,167,175,Aristide,Q354431,PER,NIL,Aristide,no,0
+lestragdiesdeso00tourgoog_0134,261,270,Ηϊπιέτίυ5,Q1406282,PER,NIL,Ηϊπιέτίυ5,```json {} ```,0
+lestragdiesdeso00tourgoog_0134,357,363,Lobeck,Q84734,PER,NIL,Lobeck,no,0
+lestragdiesdeso00tourgoog_0134,967,975,Cleomen.,Q87210068,WORK,Q44005,Cléomène Ier,"```json { ""wikipedia_page"": ""Cléomène Ier"", ""wikidata_id"": ""Q44005"" } ```",12.800948143005371
+lestragdiesdeso00tourgoog_0134,988,994,Lobeck,Q84734,PER,NIL,Lobeck,```json {} ```,0
+lestragdiesdeso00tourgoog_0134,1504,1510,Strab.,Q45936,PER,NIL,Strab.,no,0
+lestragdiesdeso00tourgoog_0134,1525,1528,id.,Q45936,PER,NIL,id.,"```json { ""wikipedia_page"": """", ""wikidata_id"": """" } ```",0
+lestragdiesdeso00tourgoog_0134,1538,1543,Ælian,Q313782,PER,NIL,Ælian,no,0
+lestragdiesdeso00tourgoog_0134,1547,1558,Var. Histor,Q26257556,WORK,NIL,Var. Histor,no,0
+lestragdiesdeso00tourgoog_0134,1595,1601,Lobeck,Q84734,PER,NIL,Lobeck,```json {} ```,0
+lestragdiesdeso00tourgoog_0154,27,41,Τηαολὲniegnoc.,Q945342,WORK,NIL,Τηαολὲniegnoc.,no,0
+lestragdiesdeso00tourgoog_0154,300,309,Prométhée,Q846870,WORK,Q83160,Prométhée,"```json {""wikipedia_page"": ""Prométhée"", ""wikidata_id"": ""Q83160""} ``` Given the context where the entity is mentioned in the text, the most appropriate Wikidata entity from the provided list is 'Prométhée' with the Wikidata ID 'Q83160'.",21.297521591186523
+lestragdiesdeso00tourgoog_0154,929,935,Ælect.,Q733444,WORK,NIL,Ælect.,```json {} ```,0
+lestragdiesdeso00tourgoog_0154,947,966,Euripid. Herc. fur.,Q1233835,WORK,NIL,Euripid. Herc. fur.,"""no""",0
+lestragdiesdeso00tourgoog_0154,976,985,[Wunder.],Q15438962,PER,NIL,[Wunder.],no,0
+lestragdiesdeso00tourgoog_0154,1030,1038,Musgrave,Q7412249,PER,NIL,Musgrave,no,0
+lestragdiesdeso00tourgoog_0142,77,83,Wunder,Q15438962,PER,NIL,Wunder,No.,0
+lestragdiesdeso00tourgoog_0142,207,214,Ἡοπιὲτε,Q6691,PER,NIL,Ἡοπιὲτε,no,0
+lestragdiesdeso00tourgoog_0142,223,227,Α͵αχ,Q172725,PER,NIL,Α͵αχ,no,0
+lestragdiesdeso00tourgoog_0142,229,234,Π|αάε,Q8275,WORK,NIL,Π|αάε,no,0
+lestragdiesdeso00tourgoog_0142,311,319,Euripide,Q48305,PER,NIL,Euripide,No.,0
+lestragdiesdeso00tourgoog_0142,321,333,Phéniciennes,Q1233660,WORK,NIL,Phéniciennes,no,0
+lestragdiesdeso00tourgoog_0142,472,483,Schneidevîu,Q70043,PER,NIL,Schneidevîu,"```json { ""wikipedia_page"": """", ""wikidata_id"": """" } ```",0
+lestragdiesdeso00tourgoog_0142,656,662,Homère,Q6691,PER,NIL,Homère,no,0
+lestragdiesdeso00tourgoog_0142,712,717,Pirée,Q58976,LOC,NIL,Pirée,no,0
+lestragdiesdeso00tourgoog_0142,754,761,Strabon,Q45936,PER,NIL,Strabon,```json {} ```,0
+lestragdiesdeso00tourgoog_0142,827,834,Odyssée,Q35160,WORK,NIL,Odyssée,No.,0
+lestragdiesdeso00tourgoog_0142,850,857,Virgile,Q1398,PER,NIL,Virgile,no,0
+lestragdiesdeso00tourgoog_0142,859,865,Énéide,Q60220,WORK,NIL,Énéide,no,0
+lestragdiesdeso00tourgoog_0142,995,1005,Philoctète,Q1415903,WORK,NIL,Philoctète,no,0
+lestragdiesdeso00tourgoog_0142,1074,1088,"Trachiniennes,",Q945342,WORK,NIL,"Trachiniennes,",no,0
+lestragdiesdeso00tourgoog_0142,1094,1105,Schneidewin,Q70043,PER,NIL,Schneidewin,no,0
+lestragdiesdeso00tourgoog_0142,1109,1116,Dindorf,Q67533,PER,NIL,Dindorf,```json {} ```,0
+lestragdiesdeso00tourgoog_0142,1227,1235,Isocrate,Q221182,PER,NIL,Isocrate,```json {} ```,0
+lestragdiesdeso00tourgoog_0142,1237,1244,Panatk.,Q87746403,WORK,NIL,Panatk.,no,0

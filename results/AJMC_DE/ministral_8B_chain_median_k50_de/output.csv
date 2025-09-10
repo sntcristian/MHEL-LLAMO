@@ -1,0 +1,170 @@
+doc_id,start_pos,end_pos,surface,gt_id,type,identifier,title,answer,score
+Wecklein1894_0008,11,20,Achilleus,Q41746,PER,NIL,Achilleus,```json {} ```,0
+Wecklein1894_0008,67,75,Odyſſeus,Q47231,PER,Q47231,Odysseus,,25.925090789794922
+Wecklein1894_0008,137,141,Aias,Q172725,PER,Q172725,Aias der Telamonier,,30.012048721313477
+Wecklein1894_0008,200,208,Odyſſeus,Q47231,PER,Q47231,Odysseus,,28.644758224487305
+Wecklein1894_0008,487,496,Sophokles,Q11950683,PER,Q7235,Sophokles,,36.655120849609375
+Wecklein1894_0008,501,509,Äſchylos,Q40939,PER,Q40939,Aischylos,,38.17756271362305
+Wecklein1894_0008,534,542,Θροῇσσαι,NIL,WORK,Q1216943,Die Troerinnen,,24.697603225708008
+Wecklein1894_0008,581,599,"Stüc>""OnJw» κοίσις",NIL,WORK,NIL,"Stüc>""OnJw» κοίσις",no,0
+Wecklein1894_0008,622,632,Σαλαμίνιαι,NIL,WORK,Q113157511,,,26.922487258911133
+Wecklein1894_0008,654,666,Ὅπλων κρίσις,NIL,WORK,Q30648004,Schlacht am Halys,,24.503440856933594
+Wecklein1894_0008,771,778,Θοῇσσαι,NIL,WORK,Q761731,Die Thesmophoriazusen,"Based on the input text and the provided list of candidates, the entity mentioned between the [ENT] tags ""Θοῇσσαι"" appears to refer to ""Die Thesmophoriazusen"". Therefore, the corresponding Wikipedia page title and Wikidata ID are: ```json {""wikipedia_page"": ""Die Thesmophoriazusen"", ""wikidata_id"": ""Q761731""} ```",19.348129272460938
+Wecklein1894_0008,878,882,Aias,Q172725,PER,Q172725,Aias der Telamonier,,24.158246994018555
+Wecklein1894_0008,897,906,Sophokles,Q11950683,PER,Q7235,Sophokles,,29.71571922302246
+Wecklein1894_0008,1015,1023,Odyſſeus,Q47231,PER,Q47231,Odysseus,,28.116397857666016
+Wecklein1894_0008,1059,1068,Sophokles,Q11950683,PER,Q7235,Sophokles,,31.043779373168945
+Wecklein1894_0008,1091,1099,Odyſſeus,Q47231,PER,Q47231,Odysseus,,26.475929260253906
+Wecklein1894_0008,1104,1108,Aias,Q172725,PER,Q172725,Aias der Telamonier,,26.080827713012695
+Wecklein1894_0008,1216,1220,Aias,Q172725,PER,Q12720143,Aias,"Based on the provided text and the list of candidates, the entity mentioned between the [ENT] tags is ""Aias"" (Ajax). The most appropriate Wikidata entity from the list of candidates is ""Aias"" itself. ```json {""wikipedia_page"":""Aias"", ""wikidata_id"":""Q12720143""} ```",19.606813430786133
+Wecklein1894_0008,1359,1363,Aias,Q172725,PER,Q172725,Aias der Telamonier,,23.06566047668457
+Wecklein1894_0008,1442,1450,Odyſſeus,Q47231,PER,Q47231,Odysseus,,25.21529769897461
+Wecklein1894_0008,1529,1533,Aias,Q172725,PER,Q172725,Aias der Telamonier,,23.228275299072266
+Wecklein1894_0008,1665,1674,Sophokles,Q11950683,PER,Q7235,Sophokles,,35.50690460205078
+Wecklein1894_0008,1707,1711,Aias,Q172725,PER,Q172725,Aias der Telamonier,,24.33295440673828
+Wecklein1894_0022,31,35,Ant.,Q241077,WORK,NIL,Ant.,no,0
+Wecklein1894_0022,289,294,Phil.,Q1415903,WORK,NIL,Phil.,no,0
+Wecklein1894_0022,723,729,Benob.,Q189699,PER,NIL,Benob.,No.,0
+Wecklein1894_0022,1077,1081,Ant.,Q241077,WORK,NIL,Ant.,No,0
+Wecklein1894_0022,1251,1254,Od.,Q35160,WORK,NIL,Od.,No.,0
+Wecklein1894_0022,1502,1511,Eur. Med.,Q286381,WORK,NIL,Eur. Med.,no,0
+Wecklein1894_0023,251,260,Eur. Hek.,Q1115611,WORK,NIL,Eur. Hek.,no,0
+Wecklein1894_0023,384,390,Eurip.,Q48305,PER,NIL,Eurip.,```json {} ```,0
+Wecklein1894_0023,631,635,Ant.,Q241077,WORK,Q44170,Ignatius von Antiochien,"Here's the JSON-formatted answer for the provided input text and list of candidates: ```json {""wikipedia_page"": ""Ignatius von Antiochien"", ""wikidata_id"": ""Q44170""} ``` The entity mentioned in the given text is ""Ignatius von Antiochien,"" which corresponds to the Wikidata ID ""Q44170"" and the Wikipedia page title ""Ignatius von Antiochien.""",9.43587875366211
+Wecklein1894_0023,759,767,Odyſſeus,Q47231,PER,Q47231,Odysseus,,28.985063552856445
+Wecklein1894_0023,841,845,Aias,Q172725,PER,Q172725,Aias der Telamonier,,25.788686752319336
+Wecklein1894_0023,852,860,Odyſſeus,Q47231,PER,Q47231,Odysseus,,27.072185516357422
+Wecklein1894_0023,1063,1074,Pind. Pyth.,Q3411444,WORK,Q3411444,,,21.738679885864258
+Wecklein1894_0023,1125,1131,Athena,Q37122,PER,Q37122,Athene,,24.21941375732422
+Wecklein1894_0023,1151,1155,Aias,Q172725,PER,Q172725,Aias der Telamonier,,28.18123435974121
+Wecklein1894_0023,1325,1329,Eur.,Q48305,PER,NIL,Eur.,No,0
+Wecklein1894_0031,185,189,Hom.,Q6691,PER,NIL,Hom.,"{ ""wikipedia_page"": """", ""wikidata_id"": """" }",0
+Wecklein1894_0031,368,373,Herm.,Q77616,PER,NIL,Herm.,no,0
+Wecklein1894_0031,401,404,Od.,Q35160,WORK,Q35160,Odyssee,"```json { ""wikipedia_page"": ""Odyssee"", ""wikidata_id"": ""Q35160"" } ```",10.56416130065918
+Wecklein1894_0039,53,58,Phil.,Q1415903,WORK,Q40634,Philologie,"```json { ""wikipedia_page"": ""Philologie"", ""wikidata_id"": ""Q40634"" } ```",15.570282936096191
+Wecklein1894_0039,301,311,Äſch. Cho.,Q11688406,WORK,NIL,Äſch. Cho.,no,0
+Wecklein1894_0039,481,489,Tekmeſſa,Q10796858,PER,NIL,Tekmeſſa,```json {} ```,0
+Wecklein1894_0039,529,533,Aias,Q172725,PER,Q172725,Aias der Telamonier,,25.280519485473633
+Wecklein1894_0039,660,667,Teukros,Q878184,PER,Q878184,Teukros,"```json {""wikipedia_page"":""Teukros"", ""wikidata_id"":""Q878184""} ```",19.673032760620117
+Wecklein1894_0039,693,697,Aias,Q172725,PER,Q172725,Aias der Telamonier,,26.176204681396484
+Wecklein1894_0039,747,754,Teukros,Q878184,PER,NIL,Teukros,no,0
+Wecklein1894_0039,1495,1500,Poll.,Q548104,PER,NIL,Poll.,```json {} ```,0
+Wecklein1894_0047,185,193,Odyſſeus,Q47231,PER,Q47231,Odysseus,,30.243005752563477
+Wecklein1894_0047,263,269,Trach.,Q945342,WORK,NIL,Trach.,no,0
+Wecklein1894_0047,688,692,Hom.,Q6691,PER,NIL,Hom.,no,0
+Wecklein1894_0047,1041,1050,Eur. Med.,Q286381,WORK,Q286381,Medea,"{""wikipedia_page"":""Medea"", ""wikidata_id"":""Q286381""}",12.535746574401855
+Wecklein1894_0047,1086,1090,Hom.,Q6691,PER,NIL,Hom.,```json {} ```,0
+sophokle1v3soph_0049,96,99,11.,Q8275,WORK,NIL,11.,"```json {""wikipedia_page"":"""", ""wikidata_id"":""""} ```",0
+sophokle1v3soph_0049,156,160,Aias,Q242319,PER,Q172725,Aias der Telamonier,,25.584510803222656
+sophokle1v3soph_0049,162,168,Oileus,Q975447,PER,Q975447,Oileus,,26.679046630859375
+sophokle1v3soph_0049,407,410,Od.,Q47231,PER,Q47231,Odysseus,"The input text contains references marked by [ENT] tags which need to be disambiguated into Wikidata entities. For this specific text with [ENT] tags, let's analyze the text and identify the appropriate Wikidata entities. The text mentions ""Odysseus"" between the [ENT] tags. The provided list of candidates includes: - ""Odysseus"" (Wikidata ID: Q47231) Based on the content of the text and the context, the most appropriate Wikidata entity for the [ENT] tags is ""Odysseus"". Therefore, the JSON response is: ```json {""wikipedia_page"": ""Odysseus"", ""wikidata_id"": ""Q47231""} ```",10.479023933410645
+sophokle1v3soph_0049,436,439,11.,Q8275,WORK,NIL,11.,no,0
+sophokle1v3soph_0049,622,626,Ant.,Q241077,WORK,NIL,Ant.,no,0
+sophokle1v3soph_0049,775,780,Soph.,Q11950683,PER,Q7235,Sophokles,"Based on the input text and the list of candidates, the most appropriate Wikidata entity for the entity ""Soph."" between the [ENT] tags is: ```json { ""wikipedia_page"": ""Sophokles"", ""wikidata_id"": ""Q7235"" } ```",16.859970092773438
+sophokle1v3soph_0049,876,881,O. R.,Q148643,WORK,NIL,O. R.,no,0
+sophokle1v3soph_0049,1068,1072,Ant.,Q241077,WORK,Q272006,Antaios,"Based on the provided text and the list of candidates, the most appropriate Wikidata entity corresponding to the [ENT] tags is ""Antaios"" from the Greek mythology. The relevant Wikipedia page title and Wikidata ID are: ```json {""wikipedia_page"":""Antaios"", ""wikidata_id"":""Q272006""} ```",9.50944709777832
+sophokle1v3soph_0049,1177,1185,Odysseus,Q47231,PER,Q47231,Odysseus,,28.733610153198242
+sophokle1v3soph_0049,1215,1219,Aias,Q172725,PER,Q172725,Aias der Telamonier,,22.89680290222168
+sophokle1v3soph_0049,1344,1350,Athene,Q37122,PER,Q37122,Athene,,23.93214988708496
+sophokle1v3soph_0049,1469,1472,Od.,Q47231,PER,Q47231,Odysseus,"{""wikipedia_page"":""Odysseus"", ""wikidata_id"":""Q47231""}",11.720965385437012
+sophokle1v3soph_0051,5,8,El.,Q733444,WORK,NIL,El.,no,0
+sophokle1v3soph_0051,328,331,Od.,Q47231,PER,Q7198,Ovid,"Based on the analysis of the input text, the entities mentioned between the [ENT] tags are ""Od."" and ""Od."" Given the list of candidates, the most appropriate Wikidata entities for ""Od."" and ""Od."" are: - ""Ovid"" (wikidata_id: Q7198, wikipedia_page: Ovid) Since both entities are likely referring to the same person, the response is: ```json {""wikipedia_page"":""Ovid"", ""wikidata_id"":""Q7198""} ```",14.105262756347656
+sophokle1v3soph_0051,509,513,Aias,Q172725,PER,NIL,Aias,no,0
+sophokle1v3soph_0051,1274,1278,Ant.,Q241077,WORK,NIL,Ant.,No,0
+Wecklein1894_0055,24,32,Odyſſeus,Q47231,PER,NIL,Odyſſeus,```json {} ```,0
+Wecklein1894_0055,296,300,Ant.,Q241077,WORK,NIL,Ant.,"Based on the provided text, the reference [ENT] does not appear to correspond to any of the candidates listed. As a result, the output will be an empty JSON object.",0
+Wecklein1894_0055,429,433,Hom.,Q6691,PER,NIL,Hom.,"Based on the provided input text, the entities within the [ENT] tags are ""Hom."" and ""Z 418."" The most appropriate Wikidata entity for ""Hom."" is ""Homer"" (Q6691), and for ""Z 418"" is ""Ilia"" (Q35160), but ""Z 418"" is not in the given list of candidates. Therefore, the response will be: ```json {} ```",0
+Wecklein1894_0055,576,580,Aias,Q172725,PER,Q172725,Aias der Telamonier,,26.470413208007812
+Wecklein1894_0055,607,615,Tekmeſſa,Q10796858,PER,NIL,Tekmeſſa,no,0
+Wecklein1894_0055,865,869,Hom.,Q6691,PER,NIL,Hom.,no,0
+Wecklein1894_0055,898,902,Aias,Q172725,PER,Q172725,Aias der Telamonier,,24.901397705078125
+Wecklein1894_0055,1074,1078,Ant.,Q241077,WORK,NIL,Ant.,no,0
+Wecklein1894_0055,1097,1101,Aias,Q172725,PER,Q172725,Aias der Telamonier,,27.878488540649414
+Wecklein1894_0063,4,12,Zaleukos,Q145090,PER,NIL,Zaleukos,No,0
+Wecklein1894_0063,14,19,Diod.,Q171241,PER,NIL,Diod.,no,0
+Wecklein1894_0063,34,47,Cic. de amic.,Q675210,WORK,Q675210,Laelius de amicitia,"```json { ""wikipedia_page"": ""De amicitia"", ""wikidata_id"": ""Q675210"" } ```",20.523971557617188
+Wecklein1894_0063,83,92,Eur. Hel.,Q1248812,WORK,NIL,Eur. Hel.,no,0
+Wecklein1894_0063,321,327,Öd. T.,Q148643,WORK,NIL,Öd. T.,no,0
+Wecklein1894_0063,594,598,Aias,Q172725,PER,Q172725,Aias der Telamonier,,23.867630004882812
+Wecklein1894_0063,725,728,El.,Q733444,WORK,NIL,El.,no,0
+Wecklein1894_0063,841,845,Aias,Q172725,PER,Q172725,Aias der Telamonier,,26.344043731689453
+Wecklein1894_0063,863,871,Tekmeſſa,Q10796858,PER,Q10796858,Tekmessa,,24.280946731567383
+Wecklein1894_0063,938,942,Aias,Q172725,PER,Q172725,Aias der Telamonier,,25.90303611755371
+Wecklein1894_0063,1028,1031,Pan,Q132582,PER,Q132582,Pan,,25.297483444213867
+Wecklein1894_0063,1036,1043,Apollon,Q37340,PER,Q37340,Apollon,,27.779428482055664
+Wecklein1894_0063,1157,1161,Aias,Q172725,PER,NIL,Aias,```json {} ```,0
+sophokle1v3soph_0067,47,52,Phil.,Q1415903,WORK,Q40634,Philologie,"Based on the input text and the provided list of candidates, the entity mentioned between the [ENT] tags is ""Philologie"". The most appropriate Wikidata entity from the given list of candidates is Wikidata entity with the ID ""Q40634"" and the Wikipedia page title ""Philologie"". ```json { ""wikipedia_page"": ""Philologie"", ""wikidata_id"": ""Q40634"" } ```",14.718876838684082
+sophokle1v3soph_0067,59,63,Ant.,Q241077,WORK,NIL,Ant.,no,0
+sophokle1v3soph_0067,105,113,Tekmessa,Q10796858,PER,NIL,Tekmessa,```json {} ```,0
+sophokle1v3soph_0067,122,126,Aias,Q172725,PER,NIL,Aias,```json {} ```,0
+sophokle1v3soph_0067,244,249,Phil.,Q1415903,WORK,NIL,Phil.,```json {} ```,0
+sophokle1v3soph_0067,461,465,Ant.,Q241077,WORK,Q179149,Antisthenes,"```json { ""wikipedia_page"": ""Antisthenes"", ""wikidata_id"": ""Q179149"" } ```",8.601678848266602
+sophokle1v3soph_0067,470,480,Aesch. Ag.,Q3320792,WORK,NIL,Aesch. Ag.,```json {} ```,0
+sophokle1v3soph_0067,512,514,1.,Q8275,WORK,NIL,1., no,0
+sophokle1v3soph_0067,533,537,Aias,Q172725,PER,NIL,Aias,```json {} ```,0
+sophokle1v3soph_0067,648,654,Ibykos,Q332802,PER,NIL,Ibykos,```json {} ```,0
+sophokle1v3soph_0067,851,855,Aias,Q172725,PER,Q172725,Aias der Telamonier,"Given the input text, the entity mentioned between the [ENT] tags is ""Aias"". From the provided list of candidates, the most appropriate Wikidata entity for ""Aias"" is: - Wikipedia Page: 'Aias der Telamonier' - Wikidata ID: 'Q172725' Here is the JSON object with the selected entity: ```json {""wikipedia_page"":""Aias der Telamonier"", ""wikidata_id"":""Q172725""} ```",21.04092788696289
+sophokle1v3soph_0067,974,978,Aias,Q172725,PER,Q172725,Aias der Telamonier,,21.928194046020508
+sophokle1v3soph_0067,1088,1094,Trach.,Q945342,WORK,NIL,Trach.,no,0
+sophokle1v3soph_0067,1100,1103,El.,Q733444,WORK,Q6536845,Elis,"Based on the input text and the provided list of candidates, the entity mentioned between the [ENT] tags is ""El"". Among the candidates, the most appropriate Wikidata entity for ""El"" is: ```json {""wikipedia_page"": ""Elis"", ""wikidata_id"": ""Q6536845""} ```",8.538930892944336
+sophokle1v3soph_0067,1166,1174,Tekmessa,Q10796858,PER,Q10796858,Tekmessa,,25.068313598632812
+sophokle1v3soph_0067,1254,1258,Aias,Q172725,PER,Q412341,Ajax,"```json { ""wikipedia_page"": ""Ajax"", ""wikidata_id"": ""Q412341"" } ```",17.916133880615234
+sophokle1v3soph_0067,1350,1358,Tekmessa,Q10796858,PER,Q10796858,Tekmessa,,21.895050048828125
+sophokle1v3soph_0067,1560,1575,Soph. Laocoont.,NIL,WORK,NIL,Soph. Laocoont.,no,0
+sophokle1v3soph_0075,342,347,Homer,Q6691,PER,Q6691,Homer,,24.877275466918945
+sophokle1v3soph_0075,466,472,Trach.,Q945342,WORK,NIL,Trach.,no,0
+sophokle1v3soph_0075,499,504,O. R.,Q148643,WORK,NIL,O. R.,No.,0
+sophokle1v3soph_0075,742,747,0. (.,Q294001,WORK,NIL,0. (.,no,0
+sophokle1v3soph_0075,829,832,Od.,Q47231,PER,Q47231,Odysseus,"Based on the provided text, the entities [ENT] seem to refer to ""Odysseus"" and ""Homer"". Given the list of candidates, the most appropriate Wikidata entities are ""Odysseus"" and ""Homer"". Here is the JSON-formatted answer: ```json {""wikipedia_page"": ""Odysseus"", ""wikidata_id"": ""Q47231""}, {""wikipedia_page"": ""Homer"", ""wikidata_id"": ""Q6691""} ```",12.656915664672852
+sophokle1v3soph_0075,865,870,Phil.,Q1415903,WORK,Q504771,Herennios Philon,"```json { ""wikipedia_page"": ""Herennios Philon"", ""wikidata_id"": ""Q504771"" } ```",14.310822486877441
+sophokle1v3soph_0075,924,928,Aias,Q172725,PER,Q172725,Aias der Telamonier,,26.325246810913086
+sophokle1v3soph_0075,970,978,Odysseus,Q35160,PER,Q47231,Odysseus,,26.115455627441406
+sophokle1v3soph_0075,981,988,Hermann,Q77616,PER,NIL,Hermann,no,0
+sophokle1v3soph_0075,1050,1053,Od.,Q35160,WORK,Q47231,Odysseus,"{ ""wikipedia_page"": ""Odysseus"", ""wikidata_id"": ""Q47231"" }",12.227553367614746
+sophokle1v3soph_0075,1084,1088,Ant.,Q241077,WORK,NIL,Ant.,"```json { ""wikipedia_page"": """", ""wikidata_id"": """" } ```",0
+sophokle1v3soph_0075,1180,1185,0. C.,Q294001,WORK,NIL,0. C.,no,0
+sophokle1v3soph_0075,1230,1238,Odysseus,Q35160,PER,Q47231,Odysseus,,25.174158096313477
+sophokle1v3soph_0075,1300,1304,Aias,Q172725,PER,Q172725,Aias der Telamonier,,22.645273208618164
+sophokle1v3soph_0075,1421,1426,O. R.,Q148643,WORK,NIL,O. R.,No.,0
+sophokle1v3soph_0075,1588,1591,Od.,Q47231,PER,NIL,Od.,no,0
+sophokle1v3soph_0075,1628,1636,Tekmessa,Q10796858,PER,Q10796858,Tekmessa,"```json {""wikipedia_page"":""Tekmessa"", ""wikidata_id"":""Q10796858""} ```",20.982908248901367
+sophokle1v3soph_0075,1795,1799,Aias,Q172725,PER,Q172725,Aias der Telamonier,"{""wikipedia_page"":""Aias der Telamonier"", ""wikidata_id"":""Q172725""}",12.095600128173828
+sophokle1v3soph_0075,1866,1874,Tekmessa,Q10796858,PER,Q10796858,Tekmessa,"```json {""wikipedia_page"":""Tekmessa"", ""wikidata_id"":""Q10796858""} ```",10.475322723388672
+sophokle1v3soph_0083,368,372,Atas,Q172725,PER,NIL,Atas,no,0
+sophokle1v3soph_0083,385,392,Teukros,Q878184,PER,NIL,Teukros,no,0
+sophokle1v3soph_0083,446,451,O. ἢ.,Q148643,WORK,NIL,O. ἢ.,No,0
+sophokle1v3soph_0083,485,493,BDindorf,Q67533,PER,NIL,BDindorf,no,0
+sophokle1v3soph_0083,563,569,Trach.,Q945342,WORK,NIL,Trach.,no,0
+sophokle1v3soph_0083,771,776,Phil.,Q1415903,WORK,NIL,Phil.,No,0
+sophokle1v3soph_0083,1104,1107,Il.,Q8275,WORK,Q8275,Ilias,"Based on the input text and the JSON list of candidates, the most appropriate Wikidata entity for the [ENT] tags is the ""Ilias"". Therefore, the JSON-formatted answer is: ```json {""wikipedia_page"":""Ilias"",""wikidata_id"":""Q8275""} ```",8.09223461151123
+sophokle1v3soph_0083,1249,1262,Aesch. Sieben,Q506546,WORK,Q40939,Aischylos,"```json {""wikipedia_page"": ""Aischylos"", ""wikidata_id"": ""Q40939""} ```",8.181652069091797
+sophokle1v3soph_0083,1301,1306,0. €.,Q294001,WORK,NIL,0. €.,no,0
+sophokle1v3soph_0083,1400,1405,Tekm.,Q10796858,PER,NIL,Tekm.,no,0
+sophokle1v3soph_0083,1435,1439,Aias,Q172725,PER,NIL,Aias,```json {} ```,0
+sophokle1v3soph_0083,1457,1461,Aias,Q172725,PER,Q412341,Ajax,"```json {""wikipedia_page"":""Ajax"", ""wikidata_id"":""Q412341""} ```",15.226814270019531
+sophokle1v3soph_0083,1496,1503,Teukros,Q878184,PER,Q878184,Teukros,"```json { ""wikipedia_page"": ""Teukros"", ""wikidata_id"": ""Q878184"" } ```",15.590167999267578
+sophokle1v3soph_0083,1579,1583,Ant.,Q241077,WORK,NIL,Ant.,```json {} ```,0
+sophokle1v3soph_0083,1592,1595,El.,Q733444,WORK,NIL,El.,no,0
+sophokle1v3soph_0092,70,74,Aias,Q172725,PER,Q172725,Aias der Telamonier,"```json {""wikipedia_page"":""Aias der Telamonier"", ""wikidata_id"":""Q172725""} ```",18.691242218017578
+sophokle1v3soph_0092,252,255,11.,Q8275,WORK,NIL,11.,"Based on the provided text and the list of candidates, the entity between the [ENT] tags is likely referring to the ""11. Jahrhundert"" (11th century). However, since the exact context is not clearly stated, and none of the candidates match exactly, we can't make a precise match with high confidence. Therefore, the best choice would be to return an empty JSON object. ```json {} ```",0
+sophokle1v3soph_0092,425,429,Aias,Q172725,PER,Q172725,Aias der Telamonier,,22.753124237060547
+sophokle1v3soph_0092,691,696,0. C.,Q294001,WORK,NIL,0. C.,"""no""",0
+sophokle1v3soph_0092,777,784,500. C.,Q294001,WORK,Q23610,500,"Based on the provided input text and the JSON list of candidates, the entity tagged with [ENT] 500 refers to the year 500 AD. The appropriate Wikidata ID and Wikipedia page title for this entity are: ```json {""wikipedia_page"": ""500"", ""wikidata_id"": ""Q23610""} ```",8.307058334350586
+sophokle1v3soph_0092,856,864,Eur. Ion,Q614607,WORK,NIL,Eur. Ion,```json {} ```,0
+sophokle1v3soph_0092,1043,1058,Eur. Herc. Fur.,Q1233835,WORK,NIL,Eur. Herc. Fur.,no,0
+sophokle1v3soph_0092,1164,1167,El.,Q733444,WORK,NIL,El.,No,0
+sophokle1v3soph_0092,1309,1312,El.,Q733444,WORK,NIL,El.,no,0
+sophokle1v3soph_0092,1497,1501,Ant.,Q241077,WORK,NIL,Ant.,```json {} ```,0
+sophokle1v3soph_0092,1531,1540,Sophokles,NIL,PER,Q7235,Sophokles,,30.087438583374023
+sophokle1v3soph_0092,1592,1597,O. C.,Q294001,WORK,Q916201,Oeconomische Encyclopädie,"Based on the analysis of the provided text and the list of candidates, the entity [ENT] O. C. appears to refer to ""Oeconomische Encyclopädie"" (Oeconomica Encyclopaedia) from the list of candidates. Therefore, the selected entity is: ```json {""wikipedia_page"":""Oeconomische Encyclopädie"", ""wikidata_id"":""Q916201""} ```",7.4225897789001465
+sophokle1v3soph_0092,1612,1617,Phil.,Q1415903,WORK,Q7235,Sophokles,"{""wikipedia_page"": ""Sophokles"", ""wikidata_id"": ""Q7235""}",12.723665237426758
+sophokle1v3soph_0092,1623,1629,O0. R.,Q148643,WORK,NIL,O0. R.,no,0
+sophokle1v3soph_0092,1635,1639,Ant.,Q241077,WORK,NIL,Ant.,```json {} ```,0
+sophokle1v3soph_0108,16,20,Ant.,Q241077,WORK,NIL,Ant.,no,0
+sophokle1v3soph_0108,77,82,Alhen,Q1524,LOC,NIL,Alhen,no,0
+sophokle1v3soph_0108,100,107,Pindars,Q134929,PER,Q134929,Pindar,,24.739103317260742
+sophokle1v3soph_0108,614,621,Hermann,Q77616,PER,NIL,Hermann,"```json {""wikipedia_page"":"""", ""wikidata_id"":""""} ```",0
+sophokle1v3soph_0108,642,644,A.,Q172725,PER,Q294923,Athenaios,"Based on the input text and the provided list of candidates, the entity mentioned between the [ENT] tags is ""Athenaios"". The corresponding Wikipedia page title and Wikidata ID is: {""wikipedia_page"":""Athenaios"", ""wikidata_id"":""Q294923""}",7.035375595092773
+sophokle1v3soph_0108,864,876,Aesch. Pers.,Q788458,WORK,NIL,Aesch. Pers.,no,0
+sophokle1v3soph_0108,945,951,Ennius,Q47130,PER,Q47130,Quintus Ennius,,24.72030258178711
+sophokle1v3soph_0108,1098,1102,Aias,Q172725,PER,NIL,Aias,```json {} ```,0
