@@ -1,5 +1,9 @@
 results/old
+results/DZ_IT
+results/AMD_IT
 test_data/old
+test_data/DZ_IT
+test_data/AMD_IT
 extra/
 bela_slurm.sh
 llm_slurm.sh
