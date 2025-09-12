@@ -1,338 +1,338 @@
-doc_id,start_pos,end_pos,surface,gt_id,type,identifier,title,answer,score
-hidden_test_de_1_sent2,1353,1357,Prag,Q1085,LOC,NIL,Prag,no,0
-hidden_test_de_1_sent2,1417,1421,Thun,Q79181,PER,NIL,Thun,no,0
-hidden_test_de_1_sent6,222,226,Thun,Q79181,PER,NIL,Thun,no,0
-hidden_test_de_1_sent6,330,334,Thun,Q79181,PER,Q80100750,Maximilian Graf von Thun und Hohenstein,Yes,16.888431549072266
-hidden_test_de_1_sent6,922,926,Thun,Q79181,PER,Q99693204,Graf Joseph von Thun und Hohenstein,Yes,17.859281539916992
-hidden_test_de_1_sent6,1166,1170,Thun,Q79181,PER,Q17455104,Maximilian Graf von Thun und Hohenstein,yes,15.290773391723633
-hidden_test_de_1_sent12,300,307,Golling,NIL,LOC,Q527800,Golling an der Salzach,yes,15.994821548461914
-hidden_test_de_1_sent12,539,547,Radstatt,Q260950,LOC,NIL,Radstatt,No.,0
-hidden_test_de_1_sent73,0,6,London,NIL,LOC,Q84,London,yes,13.057632446289062
-hidden_test_de_1_sent87,15,19,Wien,NIL,LOC,Q374336,Theater an der Wien,yes,19.00155258178711
-hidden_test_de_1_sent96,27,34,Amerika,NIL,LOC,Q828,Amerika,Yes,18.806991577148438
-hidden_test_de_1_sent97,38,51,Bruno Zappert,NIL,PER,Q31794012,Bruno Zappert,Yes,30.925952911376953
-hidden_test_de_1_sent101,5,10,Frank,NIL,PER,Q67239,Albert Bernhard Frank,yes,8.883308410644531
-hidden_test_de_1_sent144,109,117,Hainfeld,NIL,LOC,Q671275,Hainfeld,yes,25.61237335205078
-hidden_test_de_1_sent147,8,22,Franz Lütgenau,NIL,PER,Q1448138,Franz Lütgenau,yes,29.214122772216797
-hidden_test_de_1_sent153,4,22,Wilhelm Liebknecht,NIL,PER,Q20127,Wilhelm Liebknecht,yes,31.197811126708984
-hidden_test_de_1_sent154,110,114,Wien,NIL,LOC,Q1741,Wien,yes,21.335025787353516
-hidden_test_de_1_sent192,29,33,Wien,NIL,LOC,Q1741,Wien,yes,27.92399024963379
-hidden_test_de_1_sent194,59,63,Wien,NIL,LOC,Q1741,Wien,"""yes""",20.463869094848633
-hidden_test_de_1_sent194,84,88,Wien,NIL,LOC,Q1741,Wien,Yes.,15.640928268432617
-hidden_test_de_1_sent194,97,110,Franzensfeste,NIL,LOC,Q16609207,Bahnhof Franzensfeste,yes,16.109262466430664
-hidden_test_de_1_sent194,209,215,Leoben,NIL,LOC,Q485294,Leoben,yes,18.384183883666992
-hidden_test_de_1_sent195,108,117,Laxenburg,NIL,LOC,Q699437,Laxenburg,yes,19.600719451904297
-hidden_test_de_1_sent195,137,148,Potten¬dorf,NIL,LOC,Q661912,Pottendorf,"""yes""",14.109420776367188
-hidden_test_de_1_sent195,586,595,Laxenburg,NIL,LOC,Q699437,Laxenburg,"""yes""",16.915014266967773
-hidden_test_de_1_sent197,0,11,Leobersdorf,NIL,LOC,Q695339,Leobersdorf,yes,21.040422439575195
-hidden_test_de_1_sent197,64,70,Böslau,NIL,LOC,Q798800,Bad Vöslau,yes,17.727359771728516
-hidden_test_de_1_sent197,116,127,Leobersdorf,NIL,LOC,Q695339,Leobersdorf,yes,19.282207489013672
-hidden_test_de_1_sent197,139,149,Gutenstein,NIL,LOC,Q663658,Gutenstein,Yes,15.36989974975586
-hidden_test_de_1_sent197,204,213,Laxenburg,NIL,LOC,Q699437,Laxenburg,yes,23.632728576660156
-hidden_test_de_1_sent197,225,232,Mödling,NIL,LOC,Q277965,Mödling,yes,22.302831649780273
-hidden_test_de_1_sent197,544,550,Böslau,NIL,LOC,Q798800,Bad Vöslau,yes,15.640681266784668
-hidden_test_de_1_sent197,1238,1253,Kaltenleutgeben,NIL,LOC,Q665008,Kaltenleutgeben,Yes,17.150436401367188
-hidden_test_de_1_sent197,1294,1301,Mödling,NIL,LOC,Q277965,Mödling,yes,18.204185485839844
-hidden_test_de_1_sent197,1351,1357,Triest,NIL,LOC,Q546,Triest,yes,23.52787208557129
-hidden_test_de_1_sent197,1359,1374,Kaltenleutgeben,NIL,LOC,Q665008,Kaltenleutgeben,yes,17.25425910949707
-hidden_test_de_1_sent201,82,87,Basel,NIL,LOC,Q78,Basel,yes,23.73236846923828
-hidden_test_de_1_sent206,259,266,Rußland,NIL,LOC,Q159,Russland,Yes,26.751623153686523
-hidden_test_de_1_sent215,36,47,Josef Scheu,NIL,PER,Q109955,Georg Scheu,yes,13.443412780761719
-hidden_test_de_1_sent223,14,20,Olmütz,NIL,LOC,Q81137,Olmütz,yes,17.28805160522461
-hidden_test_de_1_sent237,37,41,Wien,NIL,LOC,Q1741,Wien,yes,11.288046836853027
-hidden_test_de_1_sent241,31,35,Wien,NIL,LOC,Q1741,Wien,yes,15.588979721069336
-hidden_test_de_1_sent247,43,49,Triest,NIL,LOC,Q546,Triest,yes,11.00147533416748
-hidden_test_de_1_sent249,23,29,Triest,NIL,LOC,Q546,Triest,yes,16.095195770263672
-hidden_test_de_1_sent254,35,39,Wien,NIL,LOC,Q1741,Wien,"""yes""",9.706374168395996
-hidden_test_de_1_sent260,69,73,Wien,NIL,LOC,Q1741,Wien,yes,13.195379257202148
-hidden_test_de_1_sent264,38,42,Wien,NIL,LOC,Q1741,Wien,yes,13.006321907043457
-hidden_test_de_1_sent283,50,54,Wien,NIL,LOC,Q1741,Wien,yes,15.502100944519043
-hidden_test_de_1_sent285,36,40,Wien,NIL,LOC,Q1741,Wien,yes,13.917428016662598
-hidden_test_de_1_sent293,99,103,Wien,NIL,LOC,Q1741,Wien,"""yes""",19.179269790649414
-hidden_test_de_1_sent297,54,58,Wien,NIL,LOC,Q1741,Wien,yes,12.666632652282715
-hidden_test_de_2_sent2,486,494,Bienerth,Q79052,PER,NIL,Bienerth,no,0
-hidden_test_de_2_sent2,2585,2590,Satan,Q35230,PER,NIL,Satan,no,0
-hidden_test_de_2_sent3,256,272,Avenue Friedland,NIL,LOC,Q2873916,Avenue de Friedland,"""yes""",20.78434181213379
-hidden_test_de_2_sent3,1910,1918,Himmels.,Q5694585,LOC,Q564,Hölle,"""yes""",9.634598731994629
-hidden_test_de_2_sent133,31,39,Pafitsch,Q313843,PER,NIL,Pafitsch,no,0
-hidden_test_de_2_sent137,803,813,Bulgariens,Q147909,LOC,Q219,Bulgarien,yes,23.23033332824707
-hidden_test_de_2_sent145,0,6,London,Q84,LOC,NIL,London,no,0
-hidden_test_de_2_sent149,60,71,Wilson Line,NIL,ORG,Q15057747,Thomas Wilson Sons & Co.,Yes,17.76116180419922
-hidden_test_de_2_sent151,0,8,New=York,Q1384,LOC,Q60,New York City,yes,30.17414665222168
-hidden_test_de_2_sent153,341,361,Rudolfs von Habsburg,Q76956,PER,Q152923,Rudolf von Österreich-Ungarn,yes,26.383169174194336
-hidden_test_de_2_sent170,58,78,Haa'eustein & Vogler,NIL,ORG,Q56322697,Haasenstein & Vogler,yes,22.317243576049805
-hidden_test_de_2_sent170,109,119,H. Schalek,NIL,PER,Q112264640,Henrich Schalck,Yes,25.303123474121094
-hidden_test_de_2_sent172,34,50,Sozialdemokratie,Q121254,ORG,Q179111,Sozialdemokratische Partei Österreichs,"""yes""",29.982135772705078
-hidden_test_de_2_sent185,0,12,Deutschland:,Q43287,LOC,NIL,Deutschland:,no,0
-hidden_test_de_2_sent189,52,71,V. Wien¬straße 89 A,NIL,LOC,Q1653842,Wiener Straße,Yes.,16.773164749145508
-hidden_test_de_2_sent197,243,251,Bienerth,Q79052,PER,NIL,Bienerth,no,0
-hidden_test_de_2_sent198,160,169,Bienerths,Q79052,PER,NIL,Bienerths,no,0
-hidden_test_de_2_sent198,1055,1063,Bienerth,Q79052,PER,NIL,Bienerth,no,0
-hidden_test_de_2_sent198,1355,1363,Bienerth,Q79052,PER,NIL,Bienerth,no,0
-hidden_test_de_2_sent205,339,343,Gott,Q825,PER,NIL,Gott,no,0
-hidden_test_de_2_sent205,1499,1507,Stürgkhs,Q78537,PER,NIL,Stürgkhs,No.,0
-hidden_test_de_2_sent205,2631,2647,Herrn v. Haerdtl,NIL,PER,Q12018502,Guido von Haerdtl,yes,13.242809295654297
-hidden_test_de_2_sent208,490,499,Favoriten,Q1398933,LOC,Q697548,Favoriten,yes,20.290536880493164
-hidden_test_de_2_sent209,96,113,Volksküchenverein,NIL,ORG,Q614084,Konsumgenossenschaft,Yes,16.667354583740234
-hidden_test_de_2_sent213,1165,1175,Kahlenberg,Q697119,LOC,NIL,Kahlenberg,no,0
-hidden_test_de_2_sent214,1087,1094,Rußland,Q34266,LOC,NIL,Rußland,no,0
-hidden_test_de_2_sent215,120,126,Ungarn,Q171150,LOC,Q28513,Österreich-Ungarn,yes,19.175514221191406
-hidden_test_de_2_sent215,934,967,Rothschildschen Nervenheilanstalt,NIL,ORG,Q1715258,Nathaniel Freiherr von Rothschild’sche Stiftung für Nervenkranke – Neurologisches Zentrum der Stadt Wien – Rosenhügel,yes,18.82744598388672
-hidden_test_de_2_sent215,1294,1302,Hofzeile,Q65238254,LOC,NIL,Hofzeile,no,0
-hidden_test_de_2_sent215,2075,2083,Hofzeile,Q65238254,LOC,Q113255530,Hofzeile,Yes,12.719062805175781
-hidden_test_de_2_sent271,2,11,Payerbach,NIL,LOC,Q676675,Payerbach,yes,17.165586471557617
-hidden_test_de_2_sent271,31,35,Güns,NIL,LOC,Q1030279,Güns,yes,10.097672462463379
-hidden_test_de_2_sent274,48,55,Kanizsa,NIL,LOC,Q14424,Nagykanizsa,yes,16.22197723388672
-hidden_test_de_2_sent274,73,86,Pakrácz=Lipik,NIL,LOC,Q396595,Lipik,yes,13.725679397583008
-hidden_test_de_2_sent277,2,8,Triest,NIL,LOC,Q546,Triest,yes,27.949615478515625
-hidden_test_de_2_sent277,63,71,Gonobitz,NIL,LOC,Q853751,Bezirk Gonobitz,Yes.,21.257652282714844
-hidden_test_de_2_sent277,85,92,Villach,NIL,LOC,Q483522,Villach,yes,25.259925842285156
-hidden_test_de_2_sent277,93,98,Bozen,NIL,LOC,Q6526,Bozen,yes,22.990436553955078
-hidden_test_de_2_sent277,100,105,Meran,NIL,LOC,Q131605,Meran,yes,27.300859451293945
-hidden_test_de_2_sent277,137,146,Wolfsberg,NIL,LOC,Q487527,Wolfsberg,"""yes""",25.824790954589844
-hidden_test_de_2_sent280,28,34,Stainz,NIL,LOC,Q685128,Stainz,Yes,21.66957664489746
-hidden_test_de_2_sent284,78,89,Vordernberg,NIL,LOC,Q876380,Vordernberg,yes,19.6921443939209
-hidden_test_de_2_sent292,8,14,Leoben,NIL,LOC,Q485294,Leoben,yes,18.29265785217285
-hidden_test_de_2_sent302,21,30,Banjaluka,NIL,LOC,Q131127,Banja Luka,yes,18.16360092163086
-hidden_test_de_2_sent306,61,66,Fiume,NIL,LOC,Q53171,Fiume Veneto,Yes,16.11265754699707
-hidden_test_de_2_sent307,0,8,Budapest,NIL,LOC,Q1781,Budapest,yes,21.26036262512207
-hidden_test_de_2_sent308,29,34,Meran,NIL,LOC,Q131605,Meran,yes,24.802642822265625
-hidden_test_de_2_sent308,36,40,Arco,NIL,LOC,Q138473,Arco,"""yes""",14.570395469665527
-hidden_test_de_2_sent312,2,8,Triest,NIL,LOC,Q546,Triest,yes,24.84090232849121
-hidden_test_de_2_sent312,10,14,Görz,NIL,LOC,Q692946,Grafschaft Görz und Gradisca,"""yes""",16.10380744934082
-hidden_test_de_2_sent312,106,115,Wolfsberg,NIL,LOC,Q487527,Wolfsberg,yes,23.28900718688965
-hidden_test_de_2_sent312,116,121,Meran,NIL,LOC,Q131605,Meran,"""yes""",23.976240158081055
-hidden_test_de_2_sent312,167,174,Köflach,NIL,LOC,Q550434,Köflach,"""yes""",21.172569274902344
-hidden_test_de_2_sent315,2,8,Triest,NIL,LOC,Q546,Triest,yes,20.08344268798828
-hidden_test_de_2_sent315,34,38,Görz,NIL,LOC,Q692946,Grafschaft Görz und Gradisca,Yes.,15.759193420410156
-hidden_test_de_2_sent315,46,51,Agram,NIL,LOC,Q1435,Zagreb,"""yes""",15.531113624572754
-hidden_test_de_2_sent316,91,97,Leoben,NIL,LOC,Q485294,Leoben,yes,25.183338165283203
-hidden_test_de_2_sent320,14,27,Pakrácz=Lipik,NIL,LOC,Q398115,Pakrac,Yes,10.408283233642578
-hidden_test_de_2_sent324,2,14,Steinamanger,NIL,LOC,Q328325,Steinmetz,yes,6.1307477951049805
-hidden_test_de_2_sent328,2,8,Triest,NIL,LOC,Q546,Triest,yes,28.783220291137695
-hidden_test_de_2_sent328,54,59,Fiume,NIL,LOC,Q53171,Fiume Veneto,yes,16.322877883911133
-hidden_test_de_2_sent328,61,67,Sissek,NIL,LOC,Q192119,Sisak,yes,20.399978637695312
-hidden_test_de_2_sent328,101,105,Arco,NIL,LOC,Q138473,Arco,yes,20.992603302001953
-hidden_test_de_2_sent328,114,124,Inns¬bruck,NIL,LOC,Q1735,Innsbruck,yes,23.633808135986328
-hidden_test_de_2_sent328,126,136,Klagenfurt,NIL,LOC,Q41753,Klagenfurt am Wörthersee,yes,24.834327697753906
-hidden_test_de_2_sent328,151,157,Leoben,NIL,LOC,Q485294,Leoben,yes,23.7628116607666
-hidden_test_de_2_sent341,2,8,Triest,NIL,LOC,Q546,Triest,yes,22.762048721313477
-hidden_test_de_2_sent341,62,73,Radkersburg,NIL,LOC,Q698465,Bad Radkersburg,Yes.,17.96122932434082
-hidden_test_de_2_sent341,84,88,Wies,NIL,LOC,Q672707,Wies,yes,17.77642822265625
-hidden_test_de_2_sent341,97,108,Vordernberg,NIL,LOC,Q876380,Vordernberg,yes,20.385650634765625
-hidden_test_de_2_sent349,19,26,Neuberg,NIL,LOC,Q695342,Neuberg an der Mürz,yes,12.54284381866455
-hidden_test_de_2_sent353,2,10,Sarajevo,NIL,LOC,Q11194,Sarajevo,yes,18.40764617919922
-hidden_test_de_2_sent357,21,28,Rovigno,NIL,LOC,Q5316,Rovinj,yes,23.080717086791992
-hidden_test_de_2_sent361,2,9,Venedig,NIL,LOC,Q641,Venedig,yes,18.91777229309082
-hidden_test_de_2_sent361,90,96,Aslenz,NIL,LOC,Q551751,Alsenz,Yes,18.899721145629883
-hidden_test_de_2_sent362,155,162,Marburg,NIL,LOC,Q3869,Marburg,Yes,19.951337814331055
-hidden_test_de_2_sent370,823,831,Vereines,Q1125001,ORG,NIL,Vereines,no,0
-hidden_test_de_7_sent1,181,194,Rudolf Wagner,NIL,PER,Q1420438,Rudolf Wagner,yes,32.83477020263672
-hidden_test_de_7_sent2,8,41,illustr. Monatsschrift „Bergland“,NIL,PROD,Q17575969,"Illustrierte österreichische Alpenzeitung für Tirol, Vorarlberg, Salzburg, Oberösterreich, Steiermark, Kärnten, Krain u. d. Occupationsgebiet",Yes,12.283671379089355
-hidden_test_de_7_sent17,8,17,B 22=4=29,NIL,LOC,Q795111,B-Netz,yes,12.1860990524292
-hidden_test_de_7_sent22,84,104,Vaterländische Front,Q695482,ORG,NIL,Vaterländische Front,no,0
-hidden_test_de_7_sent31,139,156,Heeresministerium,Q872173,ORG,Q702383,Heeresministerium,yes,19.672794342041016
-hidden_test_de_7_sent31,248,259,Ministerrat,NIL,ORG,Q48753862,Bayerischer Ministerrat,yes,16.20662498474121
-hidden_test_de_7_sent31,330,358,militärischenAssistenzkörper,Q55694738,ORG,NIL,militärischenAssistenzkörper,no,0
-hidden_test_de_7_sent31,795,807,Schutz¬korps,Q1454936,ORG,NIL,Schutz¬korps,No,0
-hidden_test_de_7_sent87,176,212,"Innsbruck, Maria-Theresien-Straße 21",Q647485,LOC,NIL,"Innsbruck, Maria-Theresien-Straße 21",no,0
-hidden_test_de_7_sent93,136,151,A. Sachsenheims,NIL,ORG,Q61920,Sachsenheim,yes,19.412166595458984
-hidden_test_de_8_sent17,50,58,Dürnbach,Q673446,LOC,Q54667851,Dürnbach,yes,25.189983367919922
-hidden_test_de_8_sent17,310,314,Wien,Q1741,LOC,NIL,Wien,"""no""",0
-hidden_test_de_8_sent19,319,340,"Wien, Nußdorferstraße",NIL,LOC,Q89779506,Nussdorfer Straße,yes,17.64834976196289
-hidden_test_de_8_sent25,81,87,Berlin,Q64,LOC,NIL,Berlin,No.,0
-hidden_test_de_8_sent51,44,52,Debrezin,Q79880,LOC,NIL,Debrezin,no,0
-hidden_test_de_8_sent54,67,74,Amerika,Q828,LOC,NIL,Amerika,no,0
-hidden_test_de_8_sent60,58,63,Leach,NIL,PER,Q472470,William Elford Leach,yes,15.048491477966309
-hidden_test_de_8_sent345,0,28,WEIGL'S VARIÉTÉDREHER - PARK,NIL,LOC,Q1494927,Viktor Weigelt,yes,12.385180473327637
-hidden_test_de_8_sent345,160,171,Oesterreich,Q28513,LOC,NIL,Oesterreich,no,0
-hidden_test_de_8_sent400,17,32,VerlagOtto & Co,NIL,ORG,Q112940406,Otto Einzelgesellschaft,yes,19.83678436279297
-hidden_test_de_8_sent403,0,43,Oesterreichische Waffenfabriks-Gesellschaft,NIL,ORG,Q306012,Österreichische Waffenfabriks-Gesellschaft,Yes.,23.204172134399414
-hidden_test_de_8_sent403,117,149,"Wien, I., WollzeileFilderstr. 63",NIL,LOC,Q1741,Wien,"""yes""",13.636726379394531
-hidden_test_de_8_sent409,288,329,"Jakob Rothbergen1. Bez., Stephansplatz 9.",Q701662,LOC,NIL,"Jakob Rothbergen1. Bez., Stephansplatz 9.",No.,0
-hidden_test_de_8_sent418,17,31,Kronen=Zeitung,Q644103,PROD,NIL,Kronen=Zeitung,no,0
-hidden_test_de_8_sent435,8,22,Gottlieb Voith,NIL,PER,Q126944,Voith,Yes,25.442798614501953
-hidden_test_de_10_sent1,88,97,Bul¬& Co.,NIL,ORG,Q1004175,Bull,Yes.,15.805651664733887
-hidden_test_de_10_sent4,197,204,Leipzig,Q2079,LOC,NIL,Leipzig,No.,0
-hidden_test_de_10_sent5,3,10,Dresden,Q1731,LOC,NIL,Dresden,no,0
-hidden_test_de_10_sent5,82,88,Berlin,Q64,LOC,NIL,Berlin,No,0
-hidden_test_de_10_sent16,6,14,Preussen,Q38872,LOC,NIL,Preussen,no,0
-hidden_test_de_10_sent38,5,15,Frankreich,Q70802,LOC,Q142,Frankreich,Yes,17.9696102142334
-hidden_test_de_10_sent40,5,18,Auguste Ammel,NIL,PER,Q15407118,Auguste Allmer,Yes,20.32923126220703
-hidden_test_de_10_sent40,85,93,A. Havas,Q516033,ORG,NIL,A. Havas,No.,0
-hidden_test_de_10_sent43,5,13,Spa¬nien,Q497777,LOC,Q29,Spanien,yes,12.779439926147461
-hidden_test_de_10_sent54,29,51,Brasilien Buenos-Ayres,Q1486,LOC,NIL,Brasilien Buenos-Ayres,No,0
-hidden_test_de_10_sent63,58,64,Europa,Q46,LOC,NIL,Europa,no,0
-hidden_test_de_10_sent97,31,42,Nordamerika,Q49,LOC,NIL,Nordamerika,no,0
-hidden_test_de_10_sent97,275,285,Frankreich,Q58296,LOC,Q142,Frankreich,Yes.,22.35572052001953
-hidden_test_de_10_sent100,625,633,St. Paul,Q231699,ORG,NIL,St. Paul,No.,0
-hidden_test_de_10_sent100,1021,1029,Veronica,Q196653,PER,Q608632,Schweißtuch der Veronika,Yes.,7.169122695922852
-hidden_test_de_10_sent108,32,41,St. Peter,Q12512,LOC,NIL,St. Peter,No.,0
-hidden_test_de_10_sent108,717,738,Ferdinand Gregorovius,Q61425,PER,NIL,Ferdinand Gregorovius,No,0
-hidden_test_de_10_sent108,818,867,"Nepot des Papstes, Peter Gae¬tani Graf v. Caserta",Q134646,PER,Q890269,Kardinalnepot,Yes.,15.157964706420898
-hidden_test_de_10_sent109,136,159,Basiliken von St. Peter,Q12512,ORG,Q231699,Sankt Paul vor den Mauern,yes,14.740985870361328
-hidden_test_de_10_sent127,2840,2854,Jesus Christus,Q302,PER,Q51666,Jesus von Nazaret,yes,22.46683120727539
-hidden_test_de_10_sent127,3060,3067,Preußen,Q27306,LOC,NIL,Preußen,no,0
-hidden_test_de_10_sent262,270,275,Lissa,Q203767,LOC,Q22692636,Lissa,"""yes""",14.348526954650879
-hidden_test_de_10_sent265,94,104,Hohe Warte,Q876564,LOC,Q1623563,Hohe Warte,yes,17.80509376525879
-hidden_test_de_10_sent275,4,14,Anglo=Bank,Q1418039,ORG,NIL,Anglo=Bank,no,0
-hidden_test_de_10_sent282,38,48,Anglo=Bank,Q1418039,ORG,NIL,Anglo=Bank,"""No.""",0
-hidden_test_de_10_sent285,130,141,Franco=Bank,NIL,ORG,Q806950,Banque de France,yes,17.25715446472168
-hidden_test_de_10_sent290,3,12,Unionbank,Q63437767,ORG,NIL,Unionbank,no,0
-hidden_test_de_10_sent291,20,41,Hypothekar=Rentenbank,NIL,ORG,Q2082294,Pfandbriefbank,yes,18.17852783203125
-hidden_test_de_10_sent304,144,149,Paris,Q90,LOC,NIL,Paris,no,0
-hidden_test_de_10_sent324,30,37,Breslau,Q1799,LOC,NIL,Breslau,no,0
-hidden_test_de_10_sent327,81,90,Unionbank,Q63437767,ORG,NIL,Unionbank,no,0
-hidden_test_de_10_sent332,71,81,Staatsbahn,NIL,ORG,Q2324835,Staatsbahn,yes,17.21818733215332
-hidden_test_de_10_sent348,3,19,Wiener Unionbank,Q63437767,ORG,NIL,Wiener Unionbank,No.,0
-hidden_test_de_10_sent352,1106,1116,österreich,Q533534,LOC,NIL,österreich,no,0
-hidden_test_de_10_sent352,1162,1172,Staatsbahn,NIL,ORG,Q2324835,Staatsbahn,"""yes""",20.66705322265625
-hidden_test_de_10_sent367,61,90,Lemberg=Czernowitz=Jassy Bahn,Q772253,ORG,NIL,Lemberg=Czernowitz=Jassy Bahn,No,0
-hidden_test_de_10_sent380,86,93,Italien,Q172579,LOC,Q38,Italien,yes,27.430191040039062
-hidden_test_de_10_sent394,5,12,Heisler,NIL,PER,Q5701070,Heisler,Yes.,9.914588928222656
-hidden_test_de_10_sent397,4,8,Wüst,NIL,PER,Q105803,Eduard Wüst,yes,4.384851455688477
-hidden_test_de_10_sent399,26,40,von Bauernfeld,Q78865,PER,NIL,von Bauernfeld,no,0
-hidden_test_de_10_sent400,29,37,Lewinsky,Q1707508,PER,Q1822056,Lewinski,yes,21.899539947509766
-hidden_test_de_10_sent401,4,14,Baumeister,NIL,PER,Q1340643,Baumeister,yes,24.612993240356445
-hidden_test_de_10_sent405,1,23,K. k. Hof-Operntheater,Q209937,LOC,Q56296864,Hofoper,"""yes""",14.759132385253906
-hidden_test_de_10_sent407,24,33,E. Scribe,Q319261,PER,NIL,E. Scribe,no,0
-hidden_test_de_10_sent407,68,77,Meyerbeer,Q105237,PER,NIL,Meyerbeer,no,0
-hidden_test_de_10_sent411,0,13,Vasco de Gama,Q7328,PER,NIL,Vasco de Gama,no,0
-hidden_test_de_10_sent421,0,20,Wiener Stadt-Theater,Q43436391,LOC,Q2569106,Wiener Stadttheater,yes,25.55173110961914
-hidden_test_de_10_sent424,0,29,"Elisabeth, Königin vonEngland",Q179876,LOC,Q7207,Elisabeth I.,Yes,28.14775276184082
-hidden_test_de_10_sent432,5,13,Brückner,NIL,PER,Q64836,Wilhelm Brückner,"""yes""",13.075706481933594
-hidden_test_de_10_sent433,4,11,Möhring,NIL,PER,Q77457,Paul Heinrich Gerhard Möhring,yes,17.484477996826172
-hidden_test_de_10_sent439,27,33,Matras,Q1705232,PER,Q171495,Matratze,yes,9.092905044555664
-hidden_test_de_10_sent449,25,31,Senger,Q23061647,PER,NIL,Senger,no,0
-hidden_test_de_10_sent453,27,34,Pertera,NIL,PER,Q69321618,Pedro Perera,"""yes""",16.88491439819336
-hidden_test_de_10_sent465,118,126,A. Berla,Q15432075,PER,NIL,A. Berla,no,0
-hidden_test_de_10_sent473,0,11,CIRCUS RENZ,Q60583150,LOC,Q1092984,Circus Renz,yes,19.86553955078125
-hidden_test_de_10_sent473,12,40,"Leopoldstadt, Circusgasse 44",NIL,LOC,Q259120,Leopoldstadt,yes,17.49321746826172
-hidden_test_de_10_sent487,0,7,Rußland,Q34266,LOC,NIL,Rußland,no,0
-hidden_test_de_10_sent488,0,19,Pianoforte - Fabrik,Q697519,ORG,NIL,Pianoforte - Fabrik,No.,0
-hidden_test_de_11_sent4,75,97,Ministeriums desInnern,Q358589,ORG,Q3113889,Ministerium des Inneren,"""yes""",17.533851623535156
-hidden_test_de_11_sent4,503,522,Abgeordneten Kaftan,Q13427235,PER,NIL,Abgeordneten Kaftan,No.,0
-hidden_test_de_11_sent4,532,537,Funke,Q13423870,PER,Q1827073,Linus Funke,yes,18.977344512939453
-hidden_test_de_11_sent4,924,942,Abgeordnete Schorn,Q21685564,PER,Q1040503,Carl Schorn,yes,19.26407814025879
-hidden_test_de_11_sent4,1160,1166,Schorn,Q21685564,PER,NIL,Schorn,no,0
-hidden_test_de_11_sent10,118,127,Wilbrandt,Q67953,PER,NIL,Wilbrandt,no,0
-hidden_test_de_11_sent17,11,19,Rutowski,NIL,PER,Q9354806,Tadeusz Rutowski,Yes.,15.61142349243164
-hidden_test_de_11_sent25,149,198,SchlesischeBuchdruckerei vormals S. Schottlaender,NIL,ORG,Q108799485,Schlesische Buchdruckerei,yes,26.464128494262695
-hidden_test_de_11_sent27,43,57,Friedrich Beck,NIL,PER,Q1458365,Friedrich Beck,yes,31.048120498657227
-hidden_test_de_11_sent27,139,151,"Wien, Graben",Q699937,LOC,NIL,"Wien, Graben",no,0
-hidden_test_de_11_sent28,158,175,Dr. Eduard Bacher,Q89426,PER,NIL,Dr. Eduard Bacher,no,0
-hidden_test_de_11_sent28,298,340,Pittener Papierfabriks=Actien=Gesellschaft,NIL,ORG,Q18712715,,yes,17.298200607299805
-hidden_test_de_12_sent3,161,181,Grafen Jaroslaw Thun,Q15735108,PER,NIL,Grafen Jaroslaw Thun,No.,0
-hidden_test_de_12_sent3,205,225,Freiherrn v. Baratta,NIL,PER,Q1338119,Freiherr,Yes,13.466133117675781
-hidden_test_de_12_sent10,90,109,WienerLandesgericht,NIL,ORG,Q15825118,Landesgericht für Zivilrechtssachen Wien,yes,27.19621467590332
-hidden_test_de_12_sent14,129,148,Gießhübl=Sauerbrunn,Q1019975,LOC,Q645500,Bad Sauerbrunn,yes,19.83832359313965
-hidden_test_de_12_sent14,197,219,Gräfenberg=Frei¬waldau,Q954611,LOC,Q502597,Gräfenberg,"""yes""",22.135284423828125
-hidden_test_de_12_sent16,50,61,Reichenhall,Q487971,LOC,NIL,Reichenhall,No,0
-hidden_test_de_12_sent16,108,117,Semmering,Q659891,LOC,Q63600,Semmering-Pass,yes,19.130231857299805
-hidden_test_de_12_sent16,211,221,Zuckmantel,Q207222,LOC,NIL,Zuckmantel,no,0
-hidden_test_de_12_sent21,142,167,Marien¬bader Aerzteverein,NIL,ORG,Q523469,Marienbad,yes,23.04826545715332
-hidden_test_de_12_sent24,90,104,Vinzenz Goller,Q2527262,PER,NIL,Vinzenz Goller,no,0
-hidden_test_de_12_sent24,180,194,Johann Diebold,NIL,PER,Q28916380,Johann Baptist Diebold,"""yes""",31.74325180053711
-hidden_test_de_12_sent25,7,41,altkatholischen St. Salvatorkirche,Q784184,ORG,Q15843839,Salvatorkirche,yes,11.538166046142578
-hidden_test_de_12_sent29,175,182,Newyork,Q60,LOC,NIL,Newyork,no,0
-hidden_test_de_12_sent30,60,67,Newyork,Q60,LOC,NIL,Newyork,"""no""",0
-hidden_test_de_12_sent30,144,151,Ehrlich,Q57089,PER,NIL,Ehrlich,no,0
-hidden_test_de_13_sent0,676,695,Otto ErichHartleben,Q76279,PER,NIL,Otto ErichHartleben,no,0
-hidden_test_de_13_sent2,16,40,deutschnationalen Partei,Q158227,ORG,Q16943719,Deutschnationale Partei,yes,14.662790298461914
-hidden_test_de_13_sent2,45,54,Hugenberg,Q65121,PER,NIL,Hugenberg,no,0
-hidden_test_de_13_sent2,183,188,Krupp,Q679201,ORG,NIL,Krupp,no,0
-hidden_test_de_13_sent4,68,85,Hugenberg=Konzern,Q1287475,ORG,NIL,Hugenberg=Konzern,no,0
-hidden_test_de_13_sent4,254,257,Ufa,Q41468,ORG,NIL,Ufa,No.,0
-hidden_test_de_13_sent6,317,342,deutsch¬nationalen Partei,Q158227,ORG,NIL,deutsch¬nationalen Partei,No,0
-hidden_test_de_13_sent7,99,105,Klönne,Q1947969,PER,NIL,Klönne,no,0
-hidden_test_de_13_sent7,618,643,volkskonservative“ Partei,Q548022,ORG,NIL,volkskonservative“ Partei,No.,0
-hidden_test_de_13_sent19,60,67,Zentrum,Q157537,ORG,NIL,Zentrum,no,0
-hidden_test_de_13_sent20,10,26,Kabinett Brüning,Q449726,ORG,Q449685,Kabinett Brüning I,yes,20.974597930908203
-hidden_test_de_13_sent40,209,220,Jugoslawien,Q191077,LOC,NIL,Jugoslawien,No.,0
-hidden_test_de_13_sent47,422,439,Fritz=Lichtschein,Q31092103,PER,Q30075142,Fritz Lichtstein,yes,19.801511764526367
-hidden_test_de_13_sent48,38,43,Brünn,Q14960,LOC,NIL,Brünn,no,0
-hidden_test_de_13_sent49,128,133,Krems,Q667328,LOC,NIL,Krems,No.,0
-hidden_test_de_13_sent53,52,61,Hohe Wand,Q21859871,LOC,Q20190899,Hohe Wand,yes,19.445646286010742
-hidden_test_de_13_sent54,13,23,Winzendorf,Q672292,LOC,NIL,Winzendorf,No,0
-hidden_test_de_13_sent54,86,98,Nordostkante,NIL,LOC,Q455208,Planspitze,"""yes""",10.837393760681152
-hidden_test_de_13_sent58,227,245,I. Kärntnerring 10,NIL,LOC,Q699947,Kärntner Straße,yes,23.6472225189209
-hidden_test_de_13_sent73,22,28,Ungarn,Q171150,LOC,Q28,Ungarn,Yes,11.507688522338867
-hidden_test_de_13_sent75,0,31,Austro-Ungarische Handelskammer,NIL,ORG,Q28513,Österreich-Ungarn,yes,15.290997505187988
-hidden_test_de_13_sent76,287,298,öster¬reich,Q518101,LOC,NIL,öster¬reich,No,0
-hidden_test_de_13_sent80,31,40,Dr. Tausk,NIL,PER,Q662634,Viktor Tausk,yes,24.144472122192383
-hidden_test_de_13_sent80,272,281,Dr. Spath,NIL,PER,Q21485915,Franz Spath,yes,19.77649688720703
-hidden_test_de_13_sent80,647,660,Grazer Klinik,Q1798169,ORG,NIL,Grazer Klinik,no,0
-hidden_test_de_13_sent83,21,38,Oberlandesgericht,Q15837274,ORG,Q452543,Oberlandesgericht,yes,5.794778347015381
-hidden_test_de_13_sent85,0,10,Korneuburg,Q659841,LOC,NIL,Korneuburg,no,0
-hidden_test_de_13_sent85,65,90,Kreisgerichtes Korneuburg,Q66149329,ORG,NIL,Kreisgerichtes Korneuburg,no,0
-hidden_test_de_13_sent88,48,67,OberstenGerichtshof,Q876935,ORG,NIL,OberstenGerichtshof,no,0
-hidden_test_de_13_sent88,233,251,Landesgericht Graz,Q42341692,ORG,Q16268999,Oberlandesgericht Graz,"""yes""",32.358314514160156
-hidden_test_de_13_sent92,151,169,Landesgericht Graz,Q42341692,ORG,Q38044976,Landesgericht für Strafsachen Graz,yes,34.25669860839844
-hidden_test_de_13_sent93,4,23,Oberste Gerichtshof,NIL,ORG,Q876935,Oberster Gerichtshof,yes,19.331377029418945
-hidden_test_de_13_sent95,112,117,Maria,Q345,PER,NIL,Maria,no,0
-hidden_test_de_13_sent95,247,258,Franz Witt:,Q95918,PER,NIL,Franz Witt:,no,0
-hidden_test_de_13_sent96,0,38,Altkatholische St. = Salvator = Kirche,Q784184,LOC,Q5169816,Altkatholische Kirche,yes,18.36880874633789
-hidden_test_de_13_sent109,71,82,Premier Oil,NIL,ORG,Q7240331,Premier Oil,"""yes""",26.574207305908203
-hidden_test_de_13_sent116,18,32,oberösterreich,Q41967,LOC,NIL,oberösterreich,no,0
-hidden_test_de_13_sent120,58,63,Tiwag,Q1271744,ORG,NIL,Tiwag,No,0
-hidden_test_de_13_sent132,47,57,österreich,Q518101,LOC,NIL,österreich,no,0
-hidden_test_de_13_sent152,248,253,China,Q13426199,LOC,Q29520,China,yes,18.111404418945312
-hidden_test_de_13_sent157,0,7,Newyork,Q60,LOC,NIL,Newyork,no,0
-hidden_test_de_13_sent157,153,160,Newyork,Q60,LOC,NIL,Newyork,No,0
-hidden_test_de_13_sent163,43,67,Revuebühne Moulin Rouge:,Q1750632,LOC,NIL,Revuebühne Moulin Rouge:,no,0
-hidden_test_de_13_sent165,63,66,Inn,Q14369,LOC,NIL,Inn,No,0
-hidden_test_de_13_sent165,135,139,Wels,Q178582,LOC,NIL,Wels,no,0
-hidden_test_de_13_sent165,141,146,Traun,Q664341,LOC,Q250907,Traunsee,yes,16.994293212890625
-hidden_test_de_13_sent165,220,225,Donau,Q1653,LOC,NIL,Donau,no,0
-hidden_test_de_13_sent167,40,49,Semmering,Q659891,LOC,NIL,Semmering,No,0
-hidden_test_de_13_sent167,184,193,Gargellen,Q1494233,LOC,NIL,Gargellen,no,0
-hidden_test_de_13_sent172,225,232,Annette,NIL,PER,Q4769132,Annette de la Renta,"""yes""",10.860551834106445
-hidden_test_de_13_sent176,269,276,Annette,NIL,PER,Q91602,Annette von Aretin,yes,14.701395988464355
-hidden_test_de_13_sent186,0,12,Pablo Casals,Q208537,PER,NIL,Pablo Casals,no,0
-hidden_test_de_13_sent188,339,344,Ysaye,Q312857,PER,NIL,Ysaye,No.,0
-hidden_test_de_13_sent188,588,596,Alphonso,Q18363,PER,NIL,Alphonso,No,0
-hidden_test_de_13_sent190,491,507,Königin Viktoria,Q9439,PER,NIL,Königin Viktoria,No,0
-hidden_test_de_13_sent191,714,724,Petersburg,Q656,LOC,NIL,Petersburg,no,0
-hidden_test_de_13_sent192,0,6,Casals,Q208537,PER,NIL,Casals,No,0
-hidden_test_de_13_sent211,118,129,Tri = Ergon,NIL,ORG,Q22674713,Tri-Ergon Photo-Electro-Records,"""yes""",12.467245101928711
-hidden_test_de_13_sent218,186,190,Ruth,NIL,PER,Q95678304,Ruth Warren,Yes,9.646623611450195
-hidden_test_de_13_sent218,354,359,Weeks,NIL,PER,Q6535548,Levi Weeks,yes,13.593745231628418
-hidden_test_de_13_sent233,120,126,Borden,NIL,PER,Q128655,Robert Borden,yes,19.158933639526367
-hidden_test_de_13_sent250,190,195,Harry,NIL,PER,Q128655,Robert Borden,yes,10.026803016662598
-hidden_test_de_13_sent253,99,105,Vienna,Q686826,ORG,NIL,Vienna,no,0
-hidden_test_de_13_sent253,116,123,Mailand,Q490,LOC,NIL,Mailand,no,0
-hidden_test_de_13_sent253,142,149,Austria,Q131209,ORG,NIL,Austria,no,0
-hidden_test_de_13_sent254,18,28,Ambrosiana,Q631,ORG,Q815611,Biblioteca Ambrosiana,yes,15.301507949829102
-hidden_test_de_13_sent255,324,332,Wortmann,Q915696,PER,Q17376035,Dietrich Wortmann,yes,22.637378692626953
-hidden_test_de_13_sent255,364,368,Wien,Q1741,LOC,NIL,Wien,no,0
-hidden_test_de_13_sent259,95,105,österreich,Q518101,LOC,Q40,Österreich,yes,27.228742599487305
-hidden_test_de_13_sent262,54,62,Viktoria,NIL,ORG,Q289779,AC Viktoria Wien,yes,17.41806983947754
-hidden_test_de_13_sent262,334,342,B. A. C.,Q461162,ORG,NIL,B. A. C.,"""no""",0
-hidden_test_de_13_sent265,4,14,österreich,Q518101,LOC,NIL,österreich,No.,0
-hidden_test_de_13_sent269,16,27,Oesterreich,Q518101,LOC,Q28513,Österreich-Ungarn,yes,25.574220657348633
-hidden_test_de_13_sent270,77,83,Ungarn,Q600018,LOC,NIL,Ungarn,no,0
-hidden_test_de_13_sent272,228,245,Prater=Hauptallee,Q1248317,LOC,Q264752,Prater,"""yes""",22.237157821655273
-hidden_test_de_13_sent273,105,115,Hauptallee,Q1248317,LOC,NIL,Hauptallee,no,0
-hidden_test_de_13_sent278,407,424,Tschecho¬slowakei,Q140359,LOC,Q33946,Tschechoslowakei,Yes,24.429363250732422
-hidden_test_de_13_sent287,80,87,Italien,Q48742118,LOC,Q38,Italien,yes,21.899946212768555
-hidden_test_de_13_sent287,354,361,Bugatti,Q27401,ORG,NIL,Bugatti,no,0
-hidden_test_de_13_sent287,513,523,Alfa=Romeo,Q26921,ORG,NIL,Alfa=Romeo,no,0
-hidden_test_de_13_sent287,555,596,Tschechoslowakei Ing. Wilfried Proskowetz,Q55859180,PER,Q33946,Tschechoslowakei,yes,21.368289947509766
-hidden_test_de_13_sent287,675,682,Bugatti,Q27401,ORG,NIL,Bugatti,No,0
-hidden_test_de_13_sent287,777,784,Bugatti,Q27401,ORG,Q2308012,Bugatti Automobiles,yes,26.586475372314453
-hidden_test_de_13_sent288,139,149,Tom Bullus,Q2439558,PER,NIL,Tom Bullus,No.,0
-hidden_test_de_13_sent288,310,316,Reheis,NIL,PER,Q1353045,Erich Reheis,yes,18.467641830444336
-hidden_test_de_13_sent293,4,14,österreich,Q518101,LOC,Q40,Österreich,yes,26.668476104736328
-hidden_test_de_13_sent295,20,35,Robert Kronfeld,Q86279,PER,NIL,Robert Kronfeld,no,0
-hidden_test_de_13_sent295,39,43,Wien,Q1741,LOC,NIL,Wien,no,0
-hidden_test_de_13_sent295,203,213,österreich,Q518101,LOC,Q40,Österreich,Yes,24.93267059326172
-hidden_test_de_13_sent300,22,26,Wien,Q1741,LOC,NIL,Wien,no,0
-hidden_test_de_13_sent300,112,152,Verband der Jagd= und Wurftaubenschützen,NIL,ORG,Q1204958,Deutscher Jagdverband,yes,30.30167007446289
-hidden_test_de_13_sent300,516,555,Landeshauptmann und Bürgermeister Seitz,Q84254,PER,NIL,Landeshauptmann und Bürgermeister Seitz,No,0
-hidden_test_de_13_sent300,574,581,Belgien,Q31,LOC,NIL,Belgien,"""no""",0
-hidden_test_de_13_sent300,617,625,Schweden,Q34,LOC,NIL,Schweden,no,0
-hidden_test_de_13_sent300,636,643,Spanien,Q178038,LOC,Q29,Spanien,yes,18.488977432250977
-hidden_test_de_13_sent303,12,19,Carnera,Q325449,PER,NIL,Carnera,no,0
-hidden_test_de_13_sent304,237,244,Italien,Q48742118,LOC,Q38,Italien,yes,18.23206901550293
-hidden_test_de_13_sent305,80,87,Carnera,Q325449,PER,NIL,Carnera,no,0
-hidden_test_de_13_sent315,336,345,Wien Graz,Q13298,LOC,Q2101708,Polizeidirektion Wien,yes,13.864709854125977
+doc_id,start_pos,end_pos,surface,gt_id,type,identifier,title,answer,score
+hidden_test_de_1_sent2,1353,1357,Prag,Q1085,LOC,NIL,Prag,no,0
+hidden_test_de_1_sent2,1417,1421,Thun,Q79181,PER,NIL,Thun,no,0
+hidden_test_de_1_sent6,222,226,Thun,Q79181,PER,NIL,Thun,no,0
+hidden_test_de_1_sent6,330,334,Thun,Q79181,PER,Q80100750,Maximilian Graf von Thun und Hohenstein,Yes,16.888431549072266
+hidden_test_de_1_sent6,922,926,Thun,Q79181,PER,Q99693204,Graf Joseph von Thun und Hohenstein,Yes,17.859281539916992
+hidden_test_de_1_sent6,1166,1170,Thun,Q79181,PER,Q17455104,Maximilian Graf von Thun und Hohenstein,yes,15.290773391723633
+hidden_test_de_1_sent12,300,307,Golling,NIL,LOC,Q527800,Golling an der Salzach,yes,15.994821548461914
+hidden_test_de_1_sent12,539,547,Radstatt,Q260950,LOC,NIL,Radstatt,No.,0
+hidden_test_de_1_sent73,0,6,London,NIL,LOC,Q84,London,yes,13.057632446289062
+hidden_test_de_1_sent87,15,19,Wien,NIL,LOC,Q374336,Theater an der Wien,yes,19.00155258178711
+hidden_test_de_1_sent96,27,34,Amerika,NIL,LOC,Q828,Amerika,Yes,18.806991577148438
+hidden_test_de_1_sent97,38,51,Bruno Zappert,NIL,PER,Q31794012,Bruno Zappert,Yes,30.925952911376953
+hidden_test_de_1_sent101,5,10,Frank,NIL,PER,Q67239,Albert Bernhard Frank,yes,8.883308410644531
+hidden_test_de_1_sent144,109,117,Hainfeld,NIL,LOC,Q671275,Hainfeld,yes,25.61237335205078
+hidden_test_de_1_sent147,8,22,Franz Lütgenau,NIL,PER,Q1448138,Franz Lütgenau,yes,29.214122772216797
+hidden_test_de_1_sent153,4,22,Wilhelm Liebknecht,NIL,PER,Q20127,Wilhelm Liebknecht,yes,31.197811126708984
+hidden_test_de_1_sent154,110,114,Wien,NIL,LOC,Q1741,Wien,yes,21.335025787353516
+hidden_test_de_1_sent192,29,33,Wien,NIL,LOC,Q1741,Wien,yes,27.92399024963379
+hidden_test_de_1_sent194,59,63,Wien,NIL,LOC,Q1741,Wien,"""yes""",20.463869094848633
+hidden_test_de_1_sent194,84,88,Wien,NIL,LOC,Q1741,Wien,Yes.,15.640928268432617
+hidden_test_de_1_sent194,97,110,Franzensfeste,NIL,LOC,Q16609207,Bahnhof Franzensfeste,yes,16.109262466430664
+hidden_test_de_1_sent194,209,215,Leoben,NIL,LOC,Q485294,Leoben,yes,18.384183883666992
+hidden_test_de_1_sent195,108,117,Laxenburg,NIL,LOC,Q699437,Laxenburg,yes,19.600719451904297
+hidden_test_de_1_sent195,137,148,Potten¬dorf,NIL,LOC,Q661912,Pottendorf,"""yes""",14.109420776367188
+hidden_test_de_1_sent195,586,595,Laxenburg,NIL,LOC,Q699437,Laxenburg,"""yes""",16.915014266967773
+hidden_test_de_1_sent197,0,11,Leobersdorf,NIL,LOC,Q695339,Leobersdorf,yes,21.040422439575195
+hidden_test_de_1_sent197,64,70,Böslau,NIL,LOC,Q798800,Bad Vöslau,yes,17.727359771728516
+hidden_test_de_1_sent197,116,127,Leobersdorf,NIL,LOC,Q695339,Leobersdorf,yes,19.282207489013672
+hidden_test_de_1_sent197,139,149,Gutenstein,NIL,LOC,Q663658,Gutenstein,Yes,15.36989974975586
+hidden_test_de_1_sent197,204,213,Laxenburg,NIL,LOC,Q699437,Laxenburg,yes,23.632728576660156
+hidden_test_de_1_sent197,225,232,Mödling,NIL,LOC,Q277965,Mödling,yes,22.302831649780273
+hidden_test_de_1_sent197,544,550,Böslau,NIL,LOC,Q798800,Bad Vöslau,yes,15.640681266784668
+hidden_test_de_1_sent197,1238,1253,Kaltenleutgeben,NIL,LOC,Q665008,Kaltenleutgeben,Yes,17.150436401367188
+hidden_test_de_1_sent197,1294,1301,Mödling,NIL,LOC,Q277965,Mödling,yes,18.204185485839844
+hidden_test_de_1_sent197,1351,1357,Triest,NIL,LOC,Q546,Triest,yes,23.52787208557129
+hidden_test_de_1_sent197,1359,1374,Kaltenleutgeben,NIL,LOC,Q665008,Kaltenleutgeben,yes,17.25425910949707
+hidden_test_de_1_sent201,82,87,Basel,NIL,LOC,Q78,Basel,yes,23.73236846923828
+hidden_test_de_1_sent206,259,266,Rußland,NIL,LOC,Q159,Russland,Yes,26.751623153686523
+hidden_test_de_1_sent215,36,47,Josef Scheu,NIL,PER,Q109955,Georg Scheu,yes,13.443412780761719
+hidden_test_de_1_sent223,14,20,Olmütz,NIL,LOC,Q81137,Olmütz,yes,17.28805160522461
+hidden_test_de_1_sent237,37,41,Wien,NIL,LOC,Q1741,Wien,yes,11.288046836853027
+hidden_test_de_1_sent241,31,35,Wien,NIL,LOC,Q1741,Wien,yes,15.588979721069336
+hidden_test_de_1_sent247,43,49,Triest,NIL,LOC,Q546,Triest,yes,11.00147533416748
+hidden_test_de_1_sent249,23,29,Triest,NIL,LOC,Q546,Triest,yes,16.095195770263672
+hidden_test_de_1_sent254,35,39,Wien,NIL,LOC,Q1741,Wien,"""yes""",9.706374168395996
+hidden_test_de_1_sent260,69,73,Wien,NIL,LOC,Q1741,Wien,yes,13.195379257202148
+hidden_test_de_1_sent264,38,42,Wien,NIL,LOC,Q1741,Wien,yes,13.006321907043457
+hidden_test_de_1_sent283,50,54,Wien,NIL,LOC,Q1741,Wien,yes,15.502100944519043
+hidden_test_de_1_sent285,36,40,Wien,NIL,LOC,Q1741,Wien,yes,13.917428016662598
+hidden_test_de_1_sent293,99,103,Wien,NIL,LOC,Q1741,Wien,"""yes""",19.179269790649414
+hidden_test_de_1_sent297,54,58,Wien,NIL,LOC,Q1741,Wien,yes,12.666632652282715
+hidden_test_de_2_sent2,486,494,Bienerth,Q79052,PER,NIL,Bienerth,no,0
+hidden_test_de_2_sent2,2585,2590,Satan,Q35230,PER,NIL,Satan,no,0
+hidden_test_de_2_sent3,256,272,Avenue Friedland,NIL,LOC,Q2873916,Avenue de Friedland,"""yes""",20.78434181213379
+hidden_test_de_2_sent3,1910,1918,Himmels.,Q5694585,LOC,Q564,Hölle,"""yes""",9.634598731994629
+hidden_test_de_2_sent133,31,39,Pafitsch,Q313843,PER,NIL,Pafitsch,no,0
+hidden_test_de_2_sent137,803,813,Bulgariens,Q147909,LOC,Q219,Bulgarien,yes,23.23033332824707
+hidden_test_de_2_sent145,0,6,London,Q84,LOC,NIL,London,no,0
+hidden_test_de_2_sent149,60,71,Wilson Line,NIL,ORG,Q15057747,Thomas Wilson Sons & Co.,Yes,17.76116180419922
+hidden_test_de_2_sent151,0,8,New=York,Q1384,LOC,Q60,New York City,yes,30.17414665222168
+hidden_test_de_2_sent153,341,361,Rudolfs von Habsburg,Q76956,PER,Q152923,Rudolf von Österreich-Ungarn,yes,26.383169174194336
+hidden_test_de_2_sent170,58,78,Haa'eustein & Vogler,NIL,ORG,Q56322697,Haasenstein & Vogler,yes,22.317243576049805
+hidden_test_de_2_sent170,109,119,H. Schalek,NIL,PER,Q112264640,Henrich Schalck,Yes,25.303123474121094
+hidden_test_de_2_sent172,34,50,Sozialdemokratie,Q121254,ORG,Q179111,Sozialdemokratische Partei Österreichs,"""yes""",29.982135772705078
+hidden_test_de_2_sent185,0,12,Deutschland:,Q43287,LOC,NIL,Deutschland:,no,0
+hidden_test_de_2_sent189,52,71,V. Wien¬straße 89 A,NIL,LOC,Q1653842,Wiener Straße,Yes.,16.773164749145508
+hidden_test_de_2_sent197,243,251,Bienerth,Q79052,PER,NIL,Bienerth,no,0
+hidden_test_de_2_sent198,160,169,Bienerths,Q79052,PER,NIL,Bienerths,no,0
+hidden_test_de_2_sent198,1055,1063,Bienerth,Q79052,PER,NIL,Bienerth,no,0
+hidden_test_de_2_sent198,1355,1363,Bienerth,Q79052,PER,NIL,Bienerth,no,0
+hidden_test_de_2_sent205,339,343,Gott,Q825,PER,NIL,Gott,no,0
+hidden_test_de_2_sent205,1499,1507,Stürgkhs,Q78537,PER,NIL,Stürgkhs,No.,0
+hidden_test_de_2_sent205,2631,2647,Herrn v. Haerdtl,NIL,PER,Q12018502,Guido von Haerdtl,yes,13.242809295654297
+hidden_test_de_2_sent208,490,499,Favoriten,Q1398933,LOC,Q697548,Favoriten,yes,20.290536880493164
+hidden_test_de_2_sent209,96,113,Volksküchenverein,NIL,ORG,Q614084,Konsumgenossenschaft,Yes,16.667354583740234
+hidden_test_de_2_sent213,1165,1175,Kahlenberg,Q697119,LOC,NIL,Kahlenberg,no,0
+hidden_test_de_2_sent214,1087,1094,Rußland,Q34266,LOC,NIL,Rußland,no,0
+hidden_test_de_2_sent215,120,126,Ungarn,Q171150,LOC,Q28513,Österreich-Ungarn,yes,19.175514221191406
+hidden_test_de_2_sent215,934,967,Rothschildschen Nervenheilanstalt,NIL,ORG,Q1715258,Nathaniel Freiherr von Rothschild’sche Stiftung für Nervenkranke – Neurologisches Zentrum der Stadt Wien – Rosenhügel,yes,18.82744598388672
+hidden_test_de_2_sent215,1294,1302,Hofzeile,Q65238254,LOC,NIL,Hofzeile,no,0
+hidden_test_de_2_sent215,2075,2083,Hofzeile,Q65238254,LOC,Q113255530,Hofzeile,Yes,12.719062805175781
+hidden_test_de_2_sent271,2,11,Payerbach,NIL,LOC,Q676675,Payerbach,yes,17.165586471557617
+hidden_test_de_2_sent271,31,35,Güns,NIL,LOC,Q1030279,Güns,yes,10.097672462463379
+hidden_test_de_2_sent274,48,55,Kanizsa,NIL,LOC,Q14424,Nagykanizsa,yes,16.22197723388672
+hidden_test_de_2_sent274,73,86,Pakrácz=Lipik,NIL,LOC,Q396595,Lipik,yes,13.725679397583008
+hidden_test_de_2_sent277,2,8,Triest,NIL,LOC,Q546,Triest,yes,27.949615478515625
+hidden_test_de_2_sent277,63,71,Gonobitz,NIL,LOC,Q853751,Bezirk Gonobitz,Yes.,21.257652282714844
+hidden_test_de_2_sent277,85,92,Villach,NIL,LOC,Q483522,Villach,yes,25.259925842285156
+hidden_test_de_2_sent277,93,98,Bozen,NIL,LOC,Q6526,Bozen,yes,22.990436553955078
+hidden_test_de_2_sent277,100,105,Meran,NIL,LOC,Q131605,Meran,yes,27.300859451293945
+hidden_test_de_2_sent277,137,146,Wolfsberg,NIL,LOC,Q487527,Wolfsberg,"""yes""",25.824790954589844
+hidden_test_de_2_sent280,28,34,Stainz,NIL,LOC,Q685128,Stainz,Yes,21.66957664489746
+hidden_test_de_2_sent284,78,89,Vordernberg,NIL,LOC,Q876380,Vordernberg,yes,19.6921443939209
+hidden_test_de_2_sent292,8,14,Leoben,NIL,LOC,Q485294,Leoben,yes,18.29265785217285
+hidden_test_de_2_sent302,21,30,Banjaluka,NIL,LOC,Q131127,Banja Luka,yes,18.16360092163086
+hidden_test_de_2_sent306,61,66,Fiume,NIL,LOC,Q53171,Fiume Veneto,Yes,16.11265754699707
+hidden_test_de_2_sent307,0,8,Budapest,NIL,LOC,Q1781,Budapest,yes,21.26036262512207
+hidden_test_de_2_sent308,29,34,Meran,NIL,LOC,Q131605,Meran,yes,24.802642822265625
+hidden_test_de_2_sent308,36,40,Arco,NIL,LOC,Q138473,Arco,"""yes""",14.570395469665527
+hidden_test_de_2_sent312,2,8,Triest,NIL,LOC,Q546,Triest,yes,24.84090232849121
+hidden_test_de_2_sent312,10,14,Görz,NIL,LOC,Q692946,Grafschaft Görz und Gradisca,"""yes""",16.10380744934082
+hidden_test_de_2_sent312,106,115,Wolfsberg,NIL,LOC,Q487527,Wolfsberg,yes,23.28900718688965
+hidden_test_de_2_sent312,116,121,Meran,NIL,LOC,Q131605,Meran,"""yes""",23.976240158081055
+hidden_test_de_2_sent312,167,174,Köflach,NIL,LOC,Q550434,Köflach,"""yes""",21.172569274902344
+hidden_test_de_2_sent315,2,8,Triest,NIL,LOC,Q546,Triest,yes,20.08344268798828
+hidden_test_de_2_sent315,34,38,Görz,NIL,LOC,Q692946,Grafschaft Görz und Gradisca,Yes.,15.759193420410156
+hidden_test_de_2_sent315,46,51,Agram,NIL,LOC,Q1435,Zagreb,"""yes""",15.531113624572754
+hidden_test_de_2_sent316,91,97,Leoben,NIL,LOC,Q485294,Leoben,yes,25.183338165283203
+hidden_test_de_2_sent320,14,27,Pakrácz=Lipik,NIL,LOC,Q398115,Pakrac,Yes,10.408283233642578
+hidden_test_de_2_sent324,2,14,Steinamanger,NIL,LOC,Q328325,Steinmetz,yes,6.1307477951049805
+hidden_test_de_2_sent328,2,8,Triest,NIL,LOC,Q546,Triest,yes,28.783220291137695
+hidden_test_de_2_sent328,54,59,Fiume,NIL,LOC,Q53171,Fiume Veneto,yes,16.322877883911133
+hidden_test_de_2_sent328,61,67,Sissek,NIL,LOC,Q192119,Sisak,yes,20.399978637695312
+hidden_test_de_2_sent328,101,105,Arco,NIL,LOC,Q138473,Arco,yes,20.992603302001953
+hidden_test_de_2_sent328,114,124,Inns¬bruck,NIL,LOC,Q1735,Innsbruck,yes,23.633808135986328
+hidden_test_de_2_sent328,126,136,Klagenfurt,NIL,LOC,Q41753,Klagenfurt am Wörthersee,yes,24.834327697753906
+hidden_test_de_2_sent328,151,157,Leoben,NIL,LOC,Q485294,Leoben,yes,23.7628116607666
+hidden_test_de_2_sent341,2,8,Triest,NIL,LOC,Q546,Triest,yes,22.762048721313477
+hidden_test_de_2_sent341,62,73,Radkersburg,NIL,LOC,Q698465,Bad Radkersburg,Yes.,17.96122932434082
+hidden_test_de_2_sent341,84,88,Wies,NIL,LOC,Q672707,Wies,yes,17.77642822265625
+hidden_test_de_2_sent341,97,108,Vordernberg,NIL,LOC,Q876380,Vordernberg,yes,20.385650634765625
+hidden_test_de_2_sent349,19,26,Neuberg,NIL,LOC,Q695342,Neuberg an der Mürz,yes,12.54284381866455
+hidden_test_de_2_sent353,2,10,Sarajevo,NIL,LOC,Q11194,Sarajevo,yes,18.40764617919922
+hidden_test_de_2_sent357,21,28,Rovigno,NIL,LOC,Q5316,Rovinj,yes,23.080717086791992
+hidden_test_de_2_sent361,2,9,Venedig,NIL,LOC,Q641,Venedig,yes,18.91777229309082
+hidden_test_de_2_sent361,90,96,Aslenz,NIL,LOC,Q551751,Alsenz,Yes,18.899721145629883
+hidden_test_de_2_sent362,155,162,Marburg,NIL,LOC,Q3869,Marburg,Yes,19.951337814331055
+hidden_test_de_2_sent370,823,831,Vereines,Q1125001,ORG,NIL,Vereines,no,0
+hidden_test_de_7_sent1,181,194,Rudolf Wagner,NIL,PER,Q1420438,Rudolf Wagner,yes,32.83477020263672
+hidden_test_de_7_sent2,8,41,illustr. Monatsschrift „Bergland“,NIL,PROD,Q17575969,"Illustrierte österreichische Alpenzeitung für Tirol, Vorarlberg, Salzburg, Oberösterreich, Steiermark, Kärnten, Krain u. d. Occupationsgebiet",Yes,12.283671379089355
+hidden_test_de_7_sent17,8,17,B 22=4=29,NIL,LOC,Q795111,B-Netz,yes,12.1860990524292
+hidden_test_de_7_sent22,84,104,Vaterländische Front,Q695482,ORG,NIL,Vaterländische Front,no,0
+hidden_test_de_7_sent31,139,156,Heeresministerium,Q872173,ORG,Q702383,Heeresministerium,yes,19.672794342041016
+hidden_test_de_7_sent31,248,259,Ministerrat,NIL,ORG,Q48753862,Bayerischer Ministerrat,yes,16.20662498474121
+hidden_test_de_7_sent31,330,358,militärischenAssistenzkörper,Q55694738,ORG,NIL,militärischenAssistenzkörper,no,0
+hidden_test_de_7_sent31,795,807,Schutz¬korps,Q1454936,ORG,NIL,Schutz¬korps,No,0
+hidden_test_de_7_sent87,176,212,"Innsbruck, Maria-Theresien-Straße 21",Q647485,LOC,NIL,"Innsbruck, Maria-Theresien-Straße 21",no,0
+hidden_test_de_7_sent93,136,151,A. Sachsenheims,NIL,ORG,Q61920,Sachsenheim,yes,19.412166595458984
+hidden_test_de_8_sent17,50,58,Dürnbach,Q673446,LOC,Q54667851,Dürnbach,yes,25.189983367919922
+hidden_test_de_8_sent17,310,314,Wien,Q1741,LOC,NIL,Wien,"""no""",0
+hidden_test_de_8_sent19,319,340,"Wien, Nußdorferstraße",NIL,LOC,Q89779506,Nussdorfer Straße,yes,17.64834976196289
+hidden_test_de_8_sent25,81,87,Berlin,Q64,LOC,NIL,Berlin,No.,0
+hidden_test_de_8_sent51,44,52,Debrezin,Q79880,LOC,NIL,Debrezin,no,0
+hidden_test_de_8_sent54,67,74,Amerika,Q828,LOC,NIL,Amerika,no,0
+hidden_test_de_8_sent60,58,63,Leach,NIL,PER,Q472470,William Elford Leach,yes,15.048491477966309
+hidden_test_de_8_sent345,0,28,WEIGL'S VARIÉTÉDREHER - PARK,NIL,LOC,Q1494927,Viktor Weigelt,yes,12.385180473327637
+hidden_test_de_8_sent345,160,171,Oesterreich,Q28513,LOC,NIL,Oesterreich,no,0
+hidden_test_de_8_sent400,17,32,VerlagOtto & Co,NIL,ORG,Q112940406,Otto Einzelgesellschaft,yes,19.83678436279297
+hidden_test_de_8_sent403,0,43,Oesterreichische Waffenfabriks-Gesellschaft,NIL,ORG,Q306012,Österreichische Waffenfabriks-Gesellschaft,Yes.,23.204172134399414
+hidden_test_de_8_sent403,117,149,"Wien, I., WollzeileFilderstr. 63",NIL,LOC,Q1741,Wien,"""yes""",13.636726379394531
+hidden_test_de_8_sent409,288,329,"Jakob Rothbergen1. Bez., Stephansplatz 9.",Q701662,LOC,NIL,"Jakob Rothbergen1. Bez., Stephansplatz 9.",No.,0
+hidden_test_de_8_sent418,17,31,Kronen=Zeitung,Q644103,PROD,NIL,Kronen=Zeitung,no,0
+hidden_test_de_8_sent435,8,22,Gottlieb Voith,NIL,PER,Q126944,Voith,Yes,25.442798614501953
+hidden_test_de_10_sent1,88,97,Bul¬& Co.,NIL,ORG,Q1004175,Bull,Yes.,15.805651664733887
+hidden_test_de_10_sent4,197,204,Leipzig,Q2079,LOC,NIL,Leipzig,No.,0
+hidden_test_de_10_sent5,3,10,Dresden,Q1731,LOC,NIL,Dresden,no,0
+hidden_test_de_10_sent5,82,88,Berlin,Q64,LOC,NIL,Berlin,No,0
+hidden_test_de_10_sent16,6,14,Preussen,Q38872,LOC,NIL,Preussen,no,0
+hidden_test_de_10_sent38,5,15,Frankreich,Q70802,LOC,Q142,Frankreich,Yes,17.9696102142334
+hidden_test_de_10_sent40,5,18,Auguste Ammel,NIL,PER,Q15407118,Auguste Allmer,Yes,20.32923126220703
+hidden_test_de_10_sent40,85,93,A. Havas,Q516033,ORG,NIL,A. Havas,No.,0
+hidden_test_de_10_sent43,5,13,Spa¬nien,Q497777,LOC,Q29,Spanien,yes,12.779439926147461
+hidden_test_de_10_sent54,29,51,Brasilien Buenos-Ayres,Q1486,LOC,NIL,Brasilien Buenos-Ayres,No,0
+hidden_test_de_10_sent63,58,64,Europa,Q46,LOC,NIL,Europa,no,0
+hidden_test_de_10_sent97,31,42,Nordamerika,Q49,LOC,NIL,Nordamerika,no,0
+hidden_test_de_10_sent97,275,285,Frankreich,Q58296,LOC,Q142,Frankreich,Yes.,22.35572052001953
+hidden_test_de_10_sent100,625,633,St. Paul,Q231699,ORG,NIL,St. Paul,No.,0
+hidden_test_de_10_sent100,1021,1029,Veronica,Q196653,PER,Q608632,Schweißtuch der Veronika,Yes.,7.169122695922852
+hidden_test_de_10_sent108,32,41,St. Peter,Q12512,LOC,NIL,St. Peter,No.,0
+hidden_test_de_10_sent108,717,738,Ferdinand Gregorovius,Q61425,PER,NIL,Ferdinand Gregorovius,No,0
+hidden_test_de_10_sent108,818,867,"Nepot des Papstes, Peter Gae¬tani Graf v. Caserta",Q134646,PER,Q890269,Kardinalnepot,Yes.,15.157964706420898
+hidden_test_de_10_sent109,136,159,Basiliken von St. Peter,Q12512,ORG,Q231699,Sankt Paul vor den Mauern,yes,14.740985870361328
+hidden_test_de_10_sent127,2840,2854,Jesus Christus,Q302,PER,Q51666,Jesus von Nazaret,yes,22.46683120727539
+hidden_test_de_10_sent127,3060,3067,Preußen,Q27306,LOC,NIL,Preußen,no,0
+hidden_test_de_10_sent262,270,275,Lissa,Q203767,LOC,Q22692636,Lissa,"""yes""",14.348526954650879
+hidden_test_de_10_sent265,94,104,Hohe Warte,Q876564,LOC,Q1623563,Hohe Warte,yes,17.80509376525879
+hidden_test_de_10_sent275,4,14,Anglo=Bank,Q1418039,ORG,NIL,Anglo=Bank,no,0
+hidden_test_de_10_sent282,38,48,Anglo=Bank,Q1418039,ORG,NIL,Anglo=Bank,"""No.""",0
+hidden_test_de_10_sent285,130,141,Franco=Bank,NIL,ORG,Q806950,Banque de France,yes,17.25715446472168
+hidden_test_de_10_sent290,3,12,Unionbank,Q63437767,ORG,NIL,Unionbank,no,0
+hidden_test_de_10_sent291,20,41,Hypothekar=Rentenbank,NIL,ORG,Q2082294,Pfandbriefbank,yes,18.17852783203125
+hidden_test_de_10_sent304,144,149,Paris,Q90,LOC,NIL,Paris,no,0
+hidden_test_de_10_sent324,30,37,Breslau,Q1799,LOC,NIL,Breslau,no,0
+hidden_test_de_10_sent327,81,90,Unionbank,Q63437767,ORG,NIL,Unionbank,no,0
+hidden_test_de_10_sent332,71,81,Staatsbahn,NIL,ORG,Q2324835,Staatsbahn,yes,17.21818733215332
+hidden_test_de_10_sent348,3,19,Wiener Unionbank,Q63437767,ORG,NIL,Wiener Unionbank,No.,0
+hidden_test_de_10_sent352,1106,1116,österreich,Q533534,LOC,NIL,österreich,no,0
+hidden_test_de_10_sent352,1162,1172,Staatsbahn,NIL,ORG,Q2324835,Staatsbahn,"""yes""",20.66705322265625
+hidden_test_de_10_sent367,61,90,Lemberg=Czernowitz=Jassy Bahn,Q772253,ORG,NIL,Lemberg=Czernowitz=Jassy Bahn,No,0
+hidden_test_de_10_sent380,86,93,Italien,Q172579,LOC,Q38,Italien,yes,27.430191040039062
+hidden_test_de_10_sent394,5,12,Heisler,NIL,PER,Q5701070,Heisler,Yes.,9.914588928222656
+hidden_test_de_10_sent397,4,8,Wüst,NIL,PER,Q105803,Eduard Wüst,yes,4.384851455688477
+hidden_test_de_10_sent399,26,40,von Bauernfeld,Q78865,PER,NIL,von Bauernfeld,no,0
+hidden_test_de_10_sent400,29,37,Lewinsky,Q1707508,PER,Q1822056,Lewinski,yes,21.899539947509766
+hidden_test_de_10_sent401,4,14,Baumeister,NIL,PER,Q1340643,Baumeister,yes,24.612993240356445
+hidden_test_de_10_sent405,1,23,K. k. Hof-Operntheater,Q209937,LOC,Q56296864,Hofoper,"""yes""",14.759132385253906
+hidden_test_de_10_sent407,24,33,E. Scribe,Q319261,PER,NIL,E. Scribe,no,0
+hidden_test_de_10_sent407,68,77,Meyerbeer,Q105237,PER,NIL,Meyerbeer,no,0
+hidden_test_de_10_sent411,0,13,Vasco de Gama,Q7328,PER,NIL,Vasco de Gama,no,0
+hidden_test_de_10_sent421,0,20,Wiener Stadt-Theater,Q43436391,LOC,Q2569106,Wiener Stadttheater,yes,25.55173110961914
+hidden_test_de_10_sent424,0,29,"Elisabeth, Königin vonEngland",Q179876,LOC,Q7207,Elisabeth I.,Yes,28.14775276184082
+hidden_test_de_10_sent432,5,13,Brückner,NIL,PER,Q64836,Wilhelm Brückner,"""yes""",13.075706481933594
+hidden_test_de_10_sent433,4,11,Möhring,NIL,PER,Q77457,Paul Heinrich Gerhard Möhring,yes,17.484477996826172
+hidden_test_de_10_sent439,27,33,Matras,Q1705232,PER,Q171495,Matratze,yes,9.092905044555664
+hidden_test_de_10_sent449,25,31,Senger,Q23061647,PER,NIL,Senger,no,0
+hidden_test_de_10_sent453,27,34,Pertera,NIL,PER,Q69321618,Pedro Perera,"""yes""",16.88491439819336
+hidden_test_de_10_sent465,118,126,A. Berla,Q15432075,PER,NIL,A. Berla,no,0
+hidden_test_de_10_sent473,0,11,CIRCUS RENZ,Q60583150,LOC,Q1092984,Circus Renz,yes,19.86553955078125
+hidden_test_de_10_sent473,12,40,"Leopoldstadt, Circusgasse 44",NIL,LOC,Q259120,Leopoldstadt,yes,17.49321746826172
+hidden_test_de_10_sent487,0,7,Rußland,Q34266,LOC,NIL,Rußland,no,0
+hidden_test_de_10_sent488,0,19,Pianoforte - Fabrik,Q697519,ORG,NIL,Pianoforte - Fabrik,No.,0
+hidden_test_de_11_sent4,75,97,Ministeriums desInnern,Q358589,ORG,Q3113889,Ministerium des Inneren,"""yes""",17.533851623535156
+hidden_test_de_11_sent4,503,522,Abgeordneten Kaftan,Q13427235,PER,NIL,Abgeordneten Kaftan,No.,0
+hidden_test_de_11_sent4,532,537,Funke,Q13423870,PER,Q1827073,Linus Funke,yes,18.977344512939453
+hidden_test_de_11_sent4,924,942,Abgeordnete Schorn,Q21685564,PER,Q1040503,Carl Schorn,yes,19.26407814025879
+hidden_test_de_11_sent4,1160,1166,Schorn,Q21685564,PER,NIL,Schorn,no,0
+hidden_test_de_11_sent10,118,127,Wilbrandt,Q67953,PER,NIL,Wilbrandt,no,0
+hidden_test_de_11_sent17,11,19,Rutowski,NIL,PER,Q9354806,Tadeusz Rutowski,Yes.,15.61142349243164
+hidden_test_de_11_sent25,149,198,SchlesischeBuchdruckerei vormals S. Schottlaender,NIL,ORG,Q108799485,Schlesische Buchdruckerei,yes,26.464128494262695
+hidden_test_de_11_sent27,43,57,Friedrich Beck,NIL,PER,Q1458365,Friedrich Beck,yes,31.048120498657227
+hidden_test_de_11_sent27,139,151,"Wien, Graben",Q699937,LOC,NIL,"Wien, Graben",no,0
+hidden_test_de_11_sent28,158,175,Dr. Eduard Bacher,Q89426,PER,NIL,Dr. Eduard Bacher,no,0
+hidden_test_de_11_sent28,298,340,Pittener Papierfabriks=Actien=Gesellschaft,NIL,ORG,Q18712715,,yes,17.298200607299805
+hidden_test_de_12_sent3,161,181,Grafen Jaroslaw Thun,Q15735108,PER,NIL,Grafen Jaroslaw Thun,No.,0
+hidden_test_de_12_sent3,205,225,Freiherrn v. Baratta,NIL,PER,Q1338119,Freiherr,Yes,13.466133117675781
+hidden_test_de_12_sent10,90,109,WienerLandesgericht,NIL,ORG,Q15825118,Landesgericht für Zivilrechtssachen Wien,yes,27.19621467590332
+hidden_test_de_12_sent14,129,148,Gießhübl=Sauerbrunn,Q1019975,LOC,Q645500,Bad Sauerbrunn,yes,19.83832359313965
+hidden_test_de_12_sent14,197,219,Gräfenberg=Frei¬waldau,Q954611,LOC,Q502597,Gräfenberg,"""yes""",22.135284423828125
+hidden_test_de_12_sent16,50,61,Reichenhall,Q487971,LOC,NIL,Reichenhall,No,0
+hidden_test_de_12_sent16,108,117,Semmering,Q659891,LOC,Q63600,Semmering-Pass,yes,19.130231857299805
+hidden_test_de_12_sent16,211,221,Zuckmantel,Q207222,LOC,NIL,Zuckmantel,no,0
+hidden_test_de_12_sent21,142,167,Marien¬bader Aerzteverein,NIL,ORG,Q523469,Marienbad,yes,23.04826545715332
+hidden_test_de_12_sent24,90,104,Vinzenz Goller,Q2527262,PER,NIL,Vinzenz Goller,no,0
+hidden_test_de_12_sent24,180,194,Johann Diebold,NIL,PER,Q28916380,Johann Baptist Diebold,"""yes""",31.74325180053711
+hidden_test_de_12_sent25,7,41,altkatholischen St. Salvatorkirche,Q784184,ORG,Q15843839,Salvatorkirche,yes,11.538166046142578
+hidden_test_de_12_sent29,175,182,Newyork,Q60,LOC,NIL,Newyork,no,0
+hidden_test_de_12_sent30,60,67,Newyork,Q60,LOC,NIL,Newyork,"""no""",0
+hidden_test_de_12_sent30,144,151,Ehrlich,Q57089,PER,NIL,Ehrlich,no,0
+hidden_test_de_13_sent0,676,695,Otto ErichHartleben,Q76279,PER,NIL,Otto ErichHartleben,no,0
+hidden_test_de_13_sent2,16,40,deutschnationalen Partei,Q158227,ORG,Q16943719,Deutschnationale Partei,yes,14.662790298461914
+hidden_test_de_13_sent2,45,54,Hugenberg,Q65121,PER,NIL,Hugenberg,no,0
+hidden_test_de_13_sent2,183,188,Krupp,Q679201,ORG,NIL,Krupp,no,0
+hidden_test_de_13_sent4,68,85,Hugenberg=Konzern,Q1287475,ORG,NIL,Hugenberg=Konzern,no,0
+hidden_test_de_13_sent4,254,257,Ufa,Q41468,ORG,NIL,Ufa,No.,0
+hidden_test_de_13_sent6,317,342,deutsch¬nationalen Partei,Q158227,ORG,NIL,deutsch¬nationalen Partei,No,0
+hidden_test_de_13_sent7,99,105,Klönne,Q1947969,PER,NIL,Klönne,no,0
+hidden_test_de_13_sent7,618,643,volkskonservative“ Partei,Q548022,ORG,NIL,volkskonservative“ Partei,No.,0
+hidden_test_de_13_sent19,60,67,Zentrum,Q157537,ORG,NIL,Zentrum,no,0
+hidden_test_de_13_sent20,10,26,Kabinett Brüning,Q449726,ORG,Q449685,Kabinett Brüning I,yes,20.974597930908203
+hidden_test_de_13_sent40,209,220,Jugoslawien,Q191077,LOC,NIL,Jugoslawien,No.,0
+hidden_test_de_13_sent47,422,439,Fritz=Lichtschein,Q31092103,PER,Q30075142,Fritz Lichtstein,yes,19.801511764526367
+hidden_test_de_13_sent48,38,43,Brünn,Q14960,LOC,NIL,Brünn,no,0
+hidden_test_de_13_sent49,128,133,Krems,Q667328,LOC,NIL,Krems,No.,0
+hidden_test_de_13_sent53,52,61,Hohe Wand,Q21859871,LOC,Q20190899,Hohe Wand,yes,19.445646286010742
+hidden_test_de_13_sent54,13,23,Winzendorf,Q672292,LOC,NIL,Winzendorf,No,0
+hidden_test_de_13_sent54,86,98,Nordostkante,NIL,LOC,Q455208,Planspitze,"""yes""",10.837393760681152
+hidden_test_de_13_sent58,227,245,I. Kärntnerring 10,NIL,LOC,Q699947,Kärntner Straße,yes,23.6472225189209
+hidden_test_de_13_sent73,22,28,Ungarn,Q171150,LOC,Q28,Ungarn,Yes,11.507688522338867
+hidden_test_de_13_sent75,0,31,Austro-Ungarische Handelskammer,NIL,ORG,Q28513,Österreich-Ungarn,yes,15.290997505187988
+hidden_test_de_13_sent76,287,298,öster¬reich,Q518101,LOC,NIL,öster¬reich,No,0
+hidden_test_de_13_sent80,31,40,Dr. Tausk,NIL,PER,Q662634,Viktor Tausk,yes,24.144472122192383
+hidden_test_de_13_sent80,272,281,Dr. Spath,NIL,PER,Q21485915,Franz Spath,yes,19.77649688720703
+hidden_test_de_13_sent80,647,660,Grazer Klinik,Q1798169,ORG,NIL,Grazer Klinik,no,0
+hidden_test_de_13_sent83,21,38,Oberlandesgericht,Q15837274,ORG,Q452543,Oberlandesgericht,yes,5.794778347015381
+hidden_test_de_13_sent85,0,10,Korneuburg,Q659841,LOC,NIL,Korneuburg,no,0
+hidden_test_de_13_sent85,65,90,Kreisgerichtes Korneuburg,Q66149329,ORG,NIL,Kreisgerichtes Korneuburg,no,0
+hidden_test_de_13_sent88,48,67,OberstenGerichtshof,Q876935,ORG,NIL,OberstenGerichtshof,no,0
+hidden_test_de_13_sent88,233,251,Landesgericht Graz,Q42341692,ORG,Q16268999,Oberlandesgericht Graz,"""yes""",32.358314514160156
+hidden_test_de_13_sent92,151,169,Landesgericht Graz,Q42341692,ORG,Q38044976,Landesgericht für Strafsachen Graz,yes,34.25669860839844
+hidden_test_de_13_sent93,4,23,Oberste Gerichtshof,NIL,ORG,Q876935,Oberster Gerichtshof,yes,19.331377029418945
+hidden_test_de_13_sent95,112,117,Maria,Q345,PER,NIL,Maria,no,0
+hidden_test_de_13_sent95,247,258,Franz Witt:,Q95918,PER,NIL,Franz Witt:,no,0
+hidden_test_de_13_sent96,0,38,Altkatholische St. = Salvator = Kirche,Q784184,LOC,Q5169816,Altkatholische Kirche,yes,18.36880874633789
+hidden_test_de_13_sent109,71,82,Premier Oil,NIL,ORG,Q7240331,Premier Oil,"""yes""",26.574207305908203
+hidden_test_de_13_sent116,18,32,oberösterreich,Q41967,LOC,NIL,oberösterreich,no,0
+hidden_test_de_13_sent120,58,63,Tiwag,Q1271744,ORG,NIL,Tiwag,No,0
+hidden_test_de_13_sent132,47,57,österreich,Q518101,LOC,NIL,österreich,no,0
+hidden_test_de_13_sent152,248,253,China,Q13426199,LOC,Q29520,China,yes,18.111404418945312
+hidden_test_de_13_sent157,0,7,Newyork,Q60,LOC,NIL,Newyork,no,0
+hidden_test_de_13_sent157,153,160,Newyork,Q60,LOC,NIL,Newyork,No,0
+hidden_test_de_13_sent163,43,67,Revuebühne Moulin Rouge:,Q1750632,LOC,NIL,Revuebühne Moulin Rouge:,no,0
+hidden_test_de_13_sent165,63,66,Inn,Q14369,LOC,NIL,Inn,No,0
+hidden_test_de_13_sent165,135,139,Wels,Q178582,LOC,NIL,Wels,no,0
+hidden_test_de_13_sent165,141,146,Traun,Q664341,LOC,Q250907,Traunsee,yes,16.994293212890625
+hidden_test_de_13_sent165,220,225,Donau,Q1653,LOC,NIL,Donau,no,0
+hidden_test_de_13_sent167,40,49,Semmering,Q659891,LOC,NIL,Semmering,No,0
+hidden_test_de_13_sent167,184,193,Gargellen,Q1494233,LOC,NIL,Gargellen,no,0
+hidden_test_de_13_sent172,225,232,Annette,NIL,PER,Q4769132,Annette de la Renta,"""yes""",10.860551834106445
+hidden_test_de_13_sent176,269,276,Annette,NIL,PER,Q91602,Annette von Aretin,yes,14.701395988464355
+hidden_test_de_13_sent186,0,12,Pablo Casals,Q208537,PER,NIL,Pablo Casals,no,0
+hidden_test_de_13_sent188,339,344,Ysaye,Q312857,PER,NIL,Ysaye,No.,0
+hidden_test_de_13_sent188,588,596,Alphonso,Q18363,PER,NIL,Alphonso,No,0
+hidden_test_de_13_sent190,491,507,Königin Viktoria,Q9439,PER,NIL,Königin Viktoria,No,0
+hidden_test_de_13_sent191,714,724,Petersburg,Q656,LOC,NIL,Petersburg,no,0
+hidden_test_de_13_sent192,0,6,Casals,Q208537,PER,NIL,Casals,No,0
+hidden_test_de_13_sent211,118,129,Tri = Ergon,NIL,ORG,Q22674713,Tri-Ergon Photo-Electro-Records,"""yes""",12.467245101928711
+hidden_test_de_13_sent218,186,190,Ruth,NIL,PER,Q95678304,Ruth Warren,Yes,9.646623611450195
+hidden_test_de_13_sent218,354,359,Weeks,NIL,PER,Q6535548,Levi Weeks,yes,13.593745231628418
+hidden_test_de_13_sent233,120,126,Borden,NIL,PER,Q128655,Robert Borden,yes,19.158933639526367
+hidden_test_de_13_sent250,190,195,Harry,NIL,PER,Q128655,Robert Borden,yes,10.026803016662598
+hidden_test_de_13_sent253,99,105,Vienna,Q686826,ORG,NIL,Vienna,no,0
+hidden_test_de_13_sent253,116,123,Mailand,Q490,LOC,NIL,Mailand,no,0
+hidden_test_de_13_sent253,142,149,Austria,Q131209,ORG,NIL,Austria,no,0
+hidden_test_de_13_sent254,18,28,Ambrosiana,Q631,ORG,Q815611,Biblioteca Ambrosiana,yes,15.301507949829102
+hidden_test_de_13_sent255,324,332,Wortmann,Q915696,PER,Q17376035,Dietrich Wortmann,yes,22.637378692626953
+hidden_test_de_13_sent255,364,368,Wien,Q1741,LOC,NIL,Wien,no,0
+hidden_test_de_13_sent259,95,105,österreich,Q518101,LOC,Q40,Österreich,yes,27.228742599487305
+hidden_test_de_13_sent262,54,62,Viktoria,NIL,ORG,Q289779,AC Viktoria Wien,yes,17.41806983947754
+hidden_test_de_13_sent262,334,342,B. A. C.,Q461162,ORG,NIL,B. A. C.,"""no""",0
+hidden_test_de_13_sent265,4,14,österreich,Q518101,LOC,NIL,österreich,No.,0
+hidden_test_de_13_sent269,16,27,Oesterreich,Q518101,LOC,Q28513,Österreich-Ungarn,yes,25.574220657348633
+hidden_test_de_13_sent270,77,83,Ungarn,Q600018,LOC,NIL,Ungarn,no,0
+hidden_test_de_13_sent272,228,245,Prater=Hauptallee,Q1248317,LOC,Q264752,Prater,"""yes""",22.237157821655273
+hidden_test_de_13_sent273,105,115,Hauptallee,Q1248317,LOC,NIL,Hauptallee,no,0
+hidden_test_de_13_sent278,407,424,Tschecho¬slowakei,Q140359,LOC,Q33946,Tschechoslowakei,Yes,24.429363250732422
+hidden_test_de_13_sent287,80,87,Italien,Q48742118,LOC,Q38,Italien,yes,21.899946212768555
+hidden_test_de_13_sent287,354,361,Bugatti,Q27401,ORG,NIL,Bugatti,no,0
+hidden_test_de_13_sent287,513,523,Alfa=Romeo,Q26921,ORG,NIL,Alfa=Romeo,no,0
+hidden_test_de_13_sent287,555,596,Tschechoslowakei Ing. Wilfried Proskowetz,Q55859180,PER,Q33946,Tschechoslowakei,yes,21.368289947509766
+hidden_test_de_13_sent287,675,682,Bugatti,Q27401,ORG,NIL,Bugatti,No,0
+hidden_test_de_13_sent287,777,784,Bugatti,Q27401,ORG,Q2308012,Bugatti Automobiles,yes,26.586475372314453
+hidden_test_de_13_sent288,139,149,Tom Bullus,Q2439558,PER,NIL,Tom Bullus,No.,0
+hidden_test_de_13_sent288,310,316,Reheis,NIL,PER,Q1353045,Erich Reheis,yes,18.467641830444336
+hidden_test_de_13_sent293,4,14,österreich,Q518101,LOC,Q40,Österreich,yes,26.668476104736328
+hidden_test_de_13_sent295,20,35,Robert Kronfeld,Q86279,PER,NIL,Robert Kronfeld,no,0
+hidden_test_de_13_sent295,39,43,Wien,Q1741,LOC,NIL,Wien,no,0
+hidden_test_de_13_sent295,203,213,österreich,Q518101,LOC,Q40,Österreich,Yes,24.93267059326172
+hidden_test_de_13_sent300,22,26,Wien,Q1741,LOC,NIL,Wien,no,0
+hidden_test_de_13_sent300,112,152,Verband der Jagd= und Wurftaubenschützen,NIL,ORG,Q1204958,Deutscher Jagdverband,yes,30.30167007446289
+hidden_test_de_13_sent300,516,555,Landeshauptmann und Bürgermeister Seitz,Q84254,PER,NIL,Landeshauptmann und Bürgermeister Seitz,No,0
+hidden_test_de_13_sent300,574,581,Belgien,Q31,LOC,NIL,Belgien,"""no""",0
+hidden_test_de_13_sent300,617,625,Schweden,Q34,LOC,NIL,Schweden,no,0
+hidden_test_de_13_sent300,636,643,Spanien,Q178038,LOC,Q29,Spanien,yes,18.488977432250977
+hidden_test_de_13_sent303,12,19,Carnera,Q325449,PER,NIL,Carnera,no,0
+hidden_test_de_13_sent304,237,244,Italien,Q48742118,LOC,Q38,Italien,yes,18.23206901550293
+hidden_test_de_13_sent305,80,87,Carnera,Q325449,PER,NIL,Carnera,no,0
+hidden_test_de_13_sent315,336,345,Wien Graz,Q13298,LOC,Q2101708,Polizeidirektion Wien,yes,13.864709854125977

@@ -1,0 +1,72 @@
+doc_id,start_pos,end_pos,surface,gt_id,type,identifier,title,answer,score
+cu31924087948174_0059,67,70,Od.,Q35160,WORK,Q35160,Odyssey,"```json {""wikipedia_page"":""Odyssey"", ""wikidata_id"":""Q35160""} ```",12.864590644836426
+cu31924087948174_0059,80,91,Hes. Theog.,Q156498,WORK,Q156498,Theogony,"```json {""wikipedia_page"": ""Theogony"", ""wikidata_id"": ""Q156498""} ```",22.323572158813477
+cu31924087948174_0059,365,369,Ajax,Q172725,PER,Q172725,Ajax the Great,"```json {""wikipedia_page"":""Ajax the Great"", ""wikidata_id"":""Q172725""} ```",19.00199317932129
+cu31924087948174_0059,587,598,Plat. Soph.,Q471715,WORK,Q471715,Sophist,"```json {""wikipedia_page"":""Sophist"", ""wikidata_id"":""Q471715""} ```",19.306884765625
+cu31924087948174_0059,1192,1196,Ajax,Q172725,PER,Q172725,Ajax the Great,"```json {""wikipedia_page"": ""Ajax the Great"", ""wikidata_id"": ""Q172725""} ```",20.714929580688477
+cu31924087948174_0059,1432,1436,Zeus,Q34201,PER,Q34201,Zeus,"```json { ""wikipedia_page"": ""Zeus"", ""wikidata_id"": ""Q34201"" } ```",21.105045318603516
+cu31924087948174_0059,1475,1479,Zeus,Q34201,PER,Q34201,Zeus,"```json {""wikipedia_page"": ""Zeus"", ""wikidata_id"": ""Q34201""} ```",25.217538833618164
+cu31924087948174_0059,1988,1996,Odysseus,Q47231,PER,Q47231,Odysseus,"```json {""wikipedia_page"":""Odysseus"", ""wikidata_id"":""Q47231""} ```",30.869333267211914
+cu31924087948174_0059,2021,2029,Sisyphus,Q102561,PER,Q102561,Sisyphus,"```json {""wikipedia_page"":""Sisyphus"", ""wikidata_id"":""Q102561""} ```",28.29780387878418
+cu31924087948174_0059,2350,2359,Cleopatra,NIL,PER,NIL,Cleopatra,no,0
+cu31924087948174_0059,2381,2391,Erechtheus,Q301219,PER,Q301219,Erechtheus,"```json {""wikipedia_page"":""Erechtheus"", ""wikidata_id"":""Q301219""} ```",25.59130859375
+cu31924087948174_0060,281,285,Ajax,Q172725,PER,Q172725,Ajax the Great,"```json {""wikipedia_page"":""Ajax the Great"", ""wikidata_id"":""Q172725""} ```",21.112430572509766
+cu31924087948174_0060,302,310,Odysseus,Q47231,PER,Q47231,Odysseus,"```json {""wikipedia_page"": ""Odysseus"", ""wikidata_id"": ""Q47231""} ```",22.98387336730957
+cu31924087948174_0060,405,409,Ajax,Q172725,PER,Q172725,Ajax the Great,"```json {""wikipedia_page"":""Ajax the Great"", ""wikidata_id"":""Q172725""} ```",20.859905242919922
+cu31924087948174_0060,510,514,Ajax,Q172725,PER,Q172725,Ajax the Great,"```json { ""wikipedia_page"": ""Ajax the Great"", ""wikidata_id"": ""Q172725"" } ```",23.766679763793945
+cu31924087948174_0060,892,912,Shak. Ant. and Cleo.,Q606830,WORK,Q606830,Antony and Cleopatra,"```json {""wikipedia_page"":""Antony and Cleopatra"", ""wikidata_id"":""Q606830""} ```",10.129362106323242
+cu31924087948174_0061,113,117,Ajax,Q172725,PER,Q172725,Ajax the Great,"```json {""wikipedia_page"":""Ajax the Great"", ""wikidata_id"":""Q172725""} ```",8.588157653808594
+cu31924087948174_0061,243,251,Tecmessa,Q10796858,PER,Q10796858,Tecmessa,"```json {""wikipedia_page"": ""Tecmessa"", ""wikidata_id"": ""Q10796858""} ```",18.27185821533203
+cu31924087948174_0061,273,277,Ajax,Q172725,PER,Q172725,Ajax the Great,"```json {""wikipedia_page"": ""Ajax the Great"", ""wikidata_id"": ""Q172725""} ```",16.008378982543945
+cu31924087948174_0061,1073,1080,Salamis,Q202422,LOC,Q202422,Salamis Island,"```json {""wikipedia_page"":""Salamis Island"", ""wikidata_id"":""Q202422""} ```",18.863162994384766
+cu31924087948174_0061,1322,1326,Ajax,Q172725,PER,Q172725,Ajax the Great,"```json {""wikipedia_page"":""Ajax the Great"", ""wikidata_id"":""Q172725""} ```",18.116222381591797
+cu31924087948174_0061,1611,1615,Ajax,Q172725,PER,Q172725,Ajax the Great,"```json {""wikipedia_page"": ""Ajax the Great"", ""wikidata_id"": ""Q172725""} ```",22.277938842773438
+cu31924087948174_0061,1744,1748,Ajax,Q172725,PER,Q172725,Ajax the Great,"```json {""wikipedia_page"":""Ajax the Great"", ""wikidata_id"":""Q172725""} ```",22.409666061401367
+cu31924087948174_0061,2349,2359,Triclinius,Q2987520,PER,Q2987520,Dimitrios Triclinius,"```json {""wikipedia_page"":""Dimitrios Triclinius"", ""wikidata_id"":""Q2987520""} ```",19.580284118652344
+cu31924087948174_0062,69,75,Lobeck,Q84734,PER,Q84734,Christian Lobeck,"```json {""wikipedia_page"":""Christian Lobeck"", ""wikidata_id"":""Q84734""} ```",15.15887451171875
+cu31924087948174_0062,90,94,Ajax,Q172725,PER,Q172725,Ajax the Great,"```json {""wikipedia_page"":""Ajax the Great"", ""wikidata_id"":""Q172725""} ```",7.77288293838501
+cu31924087948174_0062,600,608,Tecmessa,Q10796858,PER,Q10796858,Tecmessa,"```json {""wikipedia_page"": ""Tecmessa"", ""wikidata_id"": ""Q10796858""} ```",17.463829040527344
+cu31924087948174_0075,135,138,Od.,Q35160,WORK,Q35160,Odyssey,"```json {""wikipedia_page"":""Odyssey"", ""wikidata_id"":""Q35160""} ```",13.580032348632812
+cu31924087948174_0075,789,797,Odysseus,Q47231,PER,Q47231,Odysseus,"```json { ""wikipedia_page"": ""Odysseus"", ""wikidata_id"": ""Q47231"" } ```",27.237428665161133
+cu31924087948174_0075,1177,1180,Od.,Q35160,WORK,Q35160,Odyssey,"```json {""wikipedia_page"": ""Odyssey"", ""wikidata_id"": ""Q35160""} ```",18.857757568359375
+cu31924087948174_0075,1481,1485,Ajax,Q172725,PER,Q172725,Ajax the Great,"```json {""wikipedia_page"":""Ajax the Great"", ""wikidata_id"":""Q172725""} ```",21.270519256591797
+cu31924087948174_0075,1537,1545,Achilles,Q41746,PER,Q41746,Achilles,"```json {""wikipedia_page"": ""Achilles"", ""wikidata_id"": ""Q41746""} ```",27.116552352905273
+cu31924087948174_0075,2023,2031,Odysseus,Q47231,PER,Q47231,Odysseus,"```json {""wikipedia_page"": ""Odysseus"", ""wikidata_id"": ""Q47231""} ```",24.012189865112305
+cu31924087948174_0075,2046,2050,Ajax,Q172725,PER,Q172725,Ajax the Great,"```json {""wikipedia_page"": ""Ajax the Great"", ""wikidata_id"": ""Q172725""} ```",20.29071044921875
+cu31924087948174_0075,2095,2101,Trach.,Q945342,WORK,Q945342,Trachiniae,"```json {""wikipedia_page"":""Trachiniae"", ""wikidata_id"":""Q945342""} ```",10.426192283630371
+cu31924087948174_0075,2425,2429,Ajax,Q172725,PER,Q172725,Ajax the Great,"```json {""wikipedia_page"":""Ajax the Great"", ""wikidata_id"":""Q172725""} ```",18.31151008605957
+cu31924087948174_0075,2523,2529,Trach.,Q945342,WORK,Q945342,Trachiniae,"```json {""wikipedia_page"": ""Trachiniae"", ""wikidata_id"": ""Q945342""} ```",10.864021301269531
+cu31924087948174_0088,947,953,Lobeck,Q84734,PER,Q84734,Christian Lobeck,"```json {""wikipedia_page"":""Christian Lobeck"", ""wikidata_id"":""Q84734""} ```",21.87030029296875
+cu31924087948174_0088,1318,1324,Teucer,Q878184,PER,Q878184,Teucer,"```json {""wikipedia_page"":""Teucer"", ""wikidata_id"":""Q878184""} ```",16.741161346435547
+cu31924087948174_0088,1345,1349,Ajax,Q172725,PER,Q172725,Ajax the Great,"```json {""wikipedia_page"": ""Ajax the Great"", ""wikidata_id"": ""Q172725""} ```",17.225187301635742
+sophoclesplaysa05campgoog_0099,282,288,Aesch.,Q40939,PER,Q40939,Aeschylus,"```json {""wikipedia_page"":""Aeschylus"", ""wikidata_id"":""Q40939""} ```",20.107948303222656
+sophoclesplaysa05campgoog_0099,398,412,Dionys. Halic.,Q26204,PER,Q26204,Dionysius of Halicarnassus,"```json {""wikipedia_page"":""Dionysius of Halicarnassus"", ""wikidata_id"":""Q26204""} ```",25.308433532714844
+sophoclesplaysa05campgoog_0099,727,736,Herodotus,Q26825,PER,Q26825,Herodotus,"```json {""wikipedia_page"":""Herodotus"", ""wikidata_id"":""Q26825""} ```",31.219329833984375
+sophoclesplaysa05campgoog_0099,738,748,Thucydides,Q41683,PER,Q41683,Thucydides,"```json {""wikipedia_page"":""Thucydides"", ""wikidata_id"":""Q41683""} ```",31.61752700805664
+sophoclesplaysa05campgoog_0099,750,759,"Xenophon,",Q129772,PER,Q129772,Xenophon,"```json {""wikipedia_page"":""Xenophon"", ""wikidata_id"":""Q129772""} ```",25.605777740478516
+sophoclesplaysa05campgoog_0099,797,800,Od.,Q35160,WORK,Q35160,Odyssey,"```json {""wikipedia_page"":""Odyssey"", ""wikidata_id"":""Q35160""} ```",20.420217514038086
+sophoclesplaysa05campgoog_0099,883,889,Lobeck,Q84734,PER,Q84734,Christian Lobeck,"```json {""wikipedia_page"": ""Christian Lobeck"", ""wikidata_id"": ""Q84734""} ```",23.176448822021484
+sophoclesplaysa05campgoog_0099,891,897,Phrym.,NIL,WORK,NIL,Phrym.,No.,0
+sophoclesplaysa05campgoog_0099,1005,1010,Plato,Q859,PER,Q859,Plato,"```json {""wikipedia_page"":""Plato"", ""wikidata_id"":""Q859""} ```",35.0084228515625
+sophoclesplaysa05campgoog_0099,1012,1017,Crat.,Q1347394,WORK,Q1347394,Cratylus,"```json {""wikipedia_page"":""Cratylus"", ""wikidata_id"":""Q1347394""} ```",20.261917114257812
+sophoclesplaysa05campgoog_0099,1070,1082,Apoll. Rhod.,Q192638,PER,Q192638,Apollonius of Rhodes,"```json {""wikipedia_page"":""Apollonius of Rhodes"", ""wikidata_id"":""Q192638""} ```",25.339275360107422
+sophoclesplaysa05campgoog_0099,2022,2027,Iliad,Q8275,WORK,Q8275,Iliad,"```json {""wikipedia_page"":""Iliad"", ""wikidata_id"":""Q8275""} ```",30.79993438720703
+sophoclesplaysa05campgoog_0099,2139,2147,Eur. Ion,Q614607,WORK,Q614607,Ion,"```json {""wikipedia_page"": ""Ion"", ""wikidata_id"": ""Q614607""} ```",16.84739112854004
+sophoclesplaysa05campgoog_0099,2322,2330,Eur. fr.,NIL,WORK,NIL,Eur. fr.,No.,0
+sophoclesplaysa05campgoog_0099,2454,2458,Ajax,Q172725,PER,Q172725,Ajax the Great,"```json {""wikipedia_page"":""Ajax the Great"", ""wikidata_id"":""Q172725""} ```",24.12882423400879
+sophoclesplaysa05campgoog_0099,2489,2497,Odysseus,Q47231,PER,Q47231,Odysseus,"```json {""wikipedia_page"": ""Odysseus"", ""wikidata_id"": ""Q47231""} ```",30.77728271484375
+sophoclesplaysa05campgoog_0099,2523,2527,Ajax,Q172725,PER,Q172725,Ajax the Great,"```json {""wikipedia_page"":""Ajax the Great"", ""wikidata_id"":""Q172725""} ```",19.916587829589844
+sophoclesplaysa05campgoog_0102,67,71,Ajax,Q172725,PER,Q172725,Ajax the Great,"```json {""wikipedia_page"":""Ajax the Great"", ""wikidata_id"":""Q172725""} ```",15.031576156616211
+sophoclesplaysa05campgoog_0102,1175,1184,Agamemnon,Q128176,PER,Q128176,Agamemnon,"```json {""wikipedia_page"": ""Agamemnon"", ""wikidata_id"": ""Q128176""} ```",24.2496395111084
+sophoclesplaysa05campgoog_0102,1189,1197,Menelais,Q171839,PER,Q171839,Menelaus,"```json {""wikipedia_page"":""Menelaus"", ""wikidata_id"":""Q171839""} ```",25.747102737426758
+sophoclesplaysa05campgoog_0102,1204,1209,Pans.,Q192931,PER,Q192931,Pausanias,"```json {""wikipedia_page"": ""Pausanias"", ""wikidata_id"": ""Q192931""} ```",11.10892391204834
+sophoclesplaysa05campgoog_0102,1971,1974,Il.,Q8275,WORK,Q8275,Iliad,"```json { ""wikipedia_page"": ""Iliad"", ""wikidata_id"": ""Q8275"" } ```",15.945466995239258
+sophoclesplaysa05campgoog_0102,2025,2034,Lycophron,Q432737,PER,Q432737,Lycophron,"```json {""wikipedia_page"":""Lycophron"", ""wikidata_id"":""Q432737""} ```",29.571557998657227
+sophoclesplaysa05campgoog_0102,2190,2202,frag. adesp.,NIL,WORK,NIL,frag. adesp.,no,0
+sophoclesplaysa05campgoog_0102,2428,2434,Thebes,Q11225429,LOC,Q11225429,Thebes,"```json {""wikipedia_page"":""Thebes"", ""wikidata_id"":""Q11225429""} ```",15.603364944458008
+sophoclesplaysa05campgoog_0107,1180,1188,Odysseus,Q47231,PER,Q47231,Odysseus,"```json {""wikipedia_page"":""Odysseus"", ""wikidata_id"":""Q47231""} ```",25.739534378051758
+sophoclesplaysa05campgoog_0107,1217,1221,Ajax,Q172725,PER,Q172725,Ajax the Great,"```json {""wikipedia_page"":""Ajax the Great"", ""wikidata_id"":""Q172725""} ```",18.660240173339844
+sophoclesplaysa05campgoog_0107,1508,1516,Odysseus,Q47231,PER,Q47231,Odysseus,"```json {""wikipedia_page"":""Odysseus"", ""wikidata_id"":""Q47231""} ```",27.00421714782715
+sophoclesplaysa05campgoog_0107,1765,1773,Dem. or.,NIL,WORK,NIL,Dem. or.,No.,0
+sophoclesplaysa05campgoog_0107,1846,1849,or.,NIL,WORK,NIL,or.,No.,0
+sophoclesplaysa05campgoog_0107,1859,1871,Plat. Phleo.,Q220972,WORK,Q220972,Philebus,"```json {""wikipedia_page"": ""Philebus"", ""wikidata_id"": ""Q220972""} ```",14.6373872756958

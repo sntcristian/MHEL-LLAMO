@@ -1,0 +1,158 @@
+doc_id,start_pos,end_pos,surface,gt_id,type,identifier,title,answer,score
+sn83030483-1790-01-02-a-i0004,7,15,VIRGINIA,Q64358128,LOC,Q1370,Virginia,"```json {""wikipedia_page"":""Virginia"", ""wikidata_id"":""Q1370""} ```",15.88766098022461
+sn83030483-1790-01-02-a-i0004,967,1000,RICHARD HENRY LEE WILLIAM GRAYSON,NIL,PER,Q82027769,Henry Gerald Richardson,,0
+sn83030483-1790-02-10-a-i0002,0,19,PRESIDENT SULL IVAN,Q886420,PER,NIL,PRESIDENT SULL IVAN,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+sn83030483-1790-02-10-a-i0002,3549,3562,United States,Q30,LOC,Q48525,Federal Government of the United States,"```json {""wikipedia_page"": ""Federal Government of the United States"", ""wikidata_id"": ""Q48525""} ```",13.725398063659668
+sn83030483-1790-02-10-a-i0002,4081,4094,JOHN SULLIVAN,Q886420,PER,Q16029260,John Sullivan,"```json {""wikipedia_page"":""John Sullivan"", ""wikidata_id"":""Q16029260""} ```",14.248373031616211
+sn83030483-1790-03-03-a-i0004,53,63,ofBruffels,Q239,LOC,Q2567094,Bruff,"```json {""wikipedia_page"": ""Bruff"", ""wikidata_id"": ""Q2567094""} ```",10.310385704040527
+sn83030483-1790-03-03-a-i0004,232,240,Brufiels,Q239,LOC,NIL,Brufiels,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+sn83030483-1790-03-03-a-i0004,491,506,General D’Alton,Q3934904,PER,Q2834153,Alexandre d'Alton,,0
+sn83030483-1790-03-03-a-i0004,616,630,Benden-D’Aloft,NIL,PER,Q298237,Benedict Arnold,"```json {""wikipedia_page"": ""Benedict Arnold"", ""wikidata_id"": ""Q298237""} ```",12.102311134338379
+sn83030483-1790-03-03-a-i0004,701,715,Grand Pa¬ lace,NIL,LOC,Q215429,Grand-Place,"```json { ""wikipedia_page"": ""Grand-Place"", ""wikidata_id"": ""Q215429"" } ```",11.780529975891113
+sn83030483-1790-03-03-a-i0004,735,750,General D’Alton,Q3934904,PER,Q1290536,Eduard d'Alton,"```json {""wikipedia_page"":""Eduard d'Alton"", ""wikidata_id"":""Q1290536""} ```",16.78583526611328
+sn83030483-1790-03-03-a-i0004,884,894,Bafleville,NIL,LOC,Q211684,Barfleur,"```json {""wikipedia_page"":""Barfleur"", ""wikidata_id"":""Q211684""} ```",13.368359565734863
+sn83030483-1790-03-03-a-i0004,1120,1132,great market,Q215429,LOC,Q3139696,Grote Markt,"```json {""wikipedia_page"":""Grote Markt"", ""wikidata_id"":""Q3139696""} ```",7.123965740203857
+sn83030483-1790-03-03-a-i0004,1597,1601,Park,Q1892311,LOC,NIL,Park,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+sn83030483-1790-03-03-a-i0004,1610,1625,Pal¬ ace Royale,Q635307,LOC,Q329948,Palais-Royal,"```json { ""wikipedia_page"": ""Palais-Royal"", ""wikidata_id"": ""Q329948"" } ```",13.203330993652344
+sn83030483-1790-03-03-a-i0004,1746,1753,D’Alton,Q3934904,PER,Q2834153,Alexandre d'Alton,,0
+sn84026272-1800-07-09-a-i0003,108,114,Philad,NIL,LOC,Q1345,Philadelphia,"```json {""wikipedia_page"":""Philadelphia"",""wikidata_id"":""Q1345""} ```",14.15122127532959
+sn84026272-1800-07-09-a-i0003,3502,3510,Virginia,Q1370,LOC,Q878942,Governor of Virginia,"```json { ""wikipedia_page"": ""Governor of Virginia"", ""wikidata_id"": ""Q878942"" } ```",14.069637298583984
+sn84026272-1800-07-09-a-i0003,4255,4263,COLUMBUS,NIL,PER,Q7322,Christopher Columbus,"```json {""wikipedia_page"":""Christopher Columbus"", ""wikidata_id"":""Q7322""} ```",17.267229080200195
+sn84026272-1800-10-16-a-i0001,0,24,District of Pennsylvania,Q7163624,LOC,Q1428625,list of counties in Pennsylvania,,0
+sn84026272-1800-10-16-a-i0001,164,183,Alexan¬ der Addison,NIL,PER,Q25184130,Alexander Addison,,0
+sn84026272-1800-10-16-a-i0001,438,459,State of Pennsylvania,Q7603789,ORG,Q1400,Pennsylvania,,0
+sn84026272-1800-10-16-a-i0001,998,1019,"Mr, Dobson Bookseller",NIL,PER,Q13440730,Thomas Dobson,"```json {""wikipedia_page"":""Thomas Dobson"", ""wikidata_id"":""Q13440730""} ```",15.166824340820312
+sn84026272-1800-12-27-a-i0002,464,470,Fiance,Q142,LOC,Q5446309,Fiant,"```json {""wikipedia_page"":""Fiant"", ""wikidata_id"":""Q5446309""} ```",5.5732197761535645
+sn82014385-1810-01-06-a-i0001,355,368,Turnpike road,NIL,LOC,Q2174748,Turner Turnpike,"```json {""wikipedia_page"": ""Turner Turnpike"", ""wikidata_id"": ""Q2174748""} ```",16.18075180053711
+sn82014385-1810-01-06-a-i0001,386,398,Gap Ta¬ vern,NIL,LOC,Q692032,Gap,"```json {""wikipedia_page"":""Gap"", ""wikidata_id"":""Q692032""} ```",12.989070892333984
+sn82014385-1810-01-06-a-i0001,402,411,Lancaster,NIL,LOC,Q505941,Lancaster County,"```json { ""wikipedia_page"": ""Lancaster"", ""wikidata_id"": ""Q505941"" } ```",16.812564849853516
+sn82014385-1810-01-06-a-i0001,1145,1155,Wilmington,Q174224,LOC,NIL,Wilmington,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+sn82014385-1810-01-06-a-i0001,1226,1236,Wilmington,Q174224,LOC,Q659400,Wilmington,"```json {""wikipedia_page"":""Wilmington, North Carolina"", ""wikidata_id"":""Q659400""} ```",17.282316207885742
+sn82014385-1810-04-04-a-i0003,19,33,Captain Taylor,NIL,PER,Q16230514,William Taylor,"```json {""wikipedia_page"":""William Taylor"", ""wikidata_id"":""Q16230514""} ```",12.3110933303833
+sn82014385-1810-04-04-a-i0003,684,693,Cadiz Bay,NIL,LOC,Q117157,Gulf of Cádiz,,0
+sn82014385-1810-04-04-a-i0003,719,724,Iliea,NIL,LOC,Q25201207,Ilha de Elia,"```json {""wikipedia_page"":""Ilha de Elia"", ""wikidata_id"":""Q25201207""} ```",14.137161254882812
+sn82014385-1810-04-04-a-i0003,850,856,Purvis,NIL,PER,Q41752069,John Child Purvis,"```json {""wikipedia_page"":""John Child Purvis"", ""wikidata_id"":""Q41752069""} ```",20.49401092529297
+sn82014385-1810-04-14-a-i0004,2032,2049,178 Market-street,NIL,LOC,Q6770758,Market Street Historic District,"```json { ""wikipedia_page"": ""Market Street Historic District"", ""wikidata_id"": ""Q6770758"" } ```",14.609708786010742
+sn82014385-1810-04-14-a-i0004,2231,2255,"Market street, Baltimore",NIL,LOC,Q6770666,Market Center,"```json { ""wikipedia_page"": ""Market Center"", ""wikidata_id"": ""Q6770666"" } ```",12.178471565246582
+sn82014385-1810-05-30-a-i0001,2931,2984,"J. B. Varnum, Speaker of the House of Representatives",Q1706673,PER,Q1702002,John Varnum,,0
+sn83026170-1820-05-25-a-i0003,196,206,Alexandria,Q88,LOC,Q87,Alexandria,,0
+sn83026170-1820-06-07-a-i0002,0,7,IRELAXD,Q57695350,LOC,NIL,IRELAXD,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+sn83026170-1820-06-07-a-i0002,13,24,Cork papers,NIL,PROD,Q5170771,Cork Constitution,"```json {""wikipedia_page"": ""Cork Constitution"", ""wikidata_id"": ""Q5170771""} ```",14.563338279724121
+sn83026170-1820-09-09-a-i0004,1908,1959,Memoirs of ihe Agricultural Society of Philadelphia,NIL,PROD,Q5773954,Historical Society of Pennsylvania,"```json { ""wikipedia_page"": ""Historical Society of Pennsylvania"", ""wikidata_id"": ""Q5773954"" } ```",17.589399337768555
+sn83026170-1820-09-09-a-i0004,2071,2086,American Farmer,NIL,PROD,Q4743740,American Farmer,"```json { ""wikipedia_page"": ""American Farmer"", ""wikidata_id"": ""Q4743740"" } ```",17.75261116027832
+sn83026170-1820-09-09-a-i0004,2403,2417,Governor Lloyd,NIL,PER,Q537226,Edward Lloyd,"```json {""wikipedia_page"": ""Edward Lloyd"", ""wikidata_id"": ""Q537226""} ```",15.85566234588623
+sn83020874-1830-02-03-a-i0003,0,9,NEWECHOTA,Q7007061,LOC,NIL,NEWECHOTA,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+sn83020874-1830-02-03-a-i0003,396,405,New Haven,NIL,LOC,Q49145,New Haven,,0
+sn83020874-1830-02-03-a-i0003,410,418,Hartford,NIL,LOC,Q33486,Hartford,,0
+sn83020874-1830-02-03-a-i0003,625,651,Committee on Indian Adairs,Q7891269,ORG,NIL,Committee on Indian Adairs,"```json {""wikipedia_page"":""United States House Committee on Indian Affairs"", ""wikidata_id"":""NIL""} ```",0
+sn84020750-1840-02-08-a-i0002,9,28,Chariest- n Mercury,Q5084157,PROD,NIL,Chariest- n Mercury,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+sn84020750-1840-02-08-a-i0002,744,756,Messrs. Clay,NIL,PER,Q319630,Henry Clay,"```json { ""wikipedia_page"": ""Henry Clay"", ""wikidata_id"": ""Q319630"" } ```",9.435657501220703
+sn84020750-1840-02-08-a-i0002,761,769,Walk¬ er,NIL,PER,Q196401,William Walker,"```json {""wikipedia_page"":""William Walker"", ""wikidata_id"":""Q196401""} ```",7.585518836975098
+sn84020750-1840-02-08-a-i0002,797,801,Clay,NIL,PER,Q319630,Henry Clay,"```json { ""wikipedia_page"": ""Henry Clay"", ""wikidata_id"": ""Q319630"" } ```",12.527714729309082
+sn84020750-1840-07-04-a-i0001,9,37,Otmndagiia (N. A .) Standard,Q7757854,PROD,Q666494,Evening Standard,"```json { ""wikipedia_page"": ""Evening Standard"", ""wikidata_id"": ""Q666494"" } ```",11.47598934173584
+sn84020750-1840-07-04-a-i0001,499,516,Louisville Legion,NIL,ORG,Q43668,Louisville,"```json { ""wikipedia_page"": ""Louisville"", ""wikidata_id"": ""Q43668"" } ```",16.68297004699707
+sn84020750-1840-07-04-a-i0001,1010,1031,Western State Journal,Q7663027,PROD,Q8027325,Wisconsin State Journal,,0
+sn84020750-1840-07-18-a-i0001,5,22,the Pennsylvanian,NIL,PROD,Q2475732,Province of Pennsylvania,"```json {""wikipedia_page"":""Province of Pennsylvania"", ""wikidata_id"":""Q2475732""} ```",7.339473247528076
+sn84020750-1840-07-18-a-i0001,7670,7681,Pensylvania,Q1400,LOC,Q2475732,Province of Pennsylvania,"```json {""wikipedia_page"":""Province of Pennsylvania"", ""wikidata_id"":""Q2475732""} ```",16.944149017333984
+sn84020750-1840-07-18-a-i0001,7902,7914,Pencj-lrnnia,Q1400,LOC,Q2475732,Province of Pennsylvania,"```json {""wikipedia_page"": ""Province of Pennsylvania"", ""wikidata_id"": ""Q2475732""} ```",14.53215503692627
+sn84020750-1840-07-18-a-i0001,9734,9750,DAVID It. PORTER,NIL,PER,Q558188,David Porter,"```json {""wikipedia_page"":""David Porter"", ""wikidata_id"":""Q558188""} ```",18.231443405151367
+sn84020750-1840-08-15-a-i0001,1061,1079,United States Bank,Q2263849,ORG,Q7863438,Bank of America Private Bank,,0
+sn84020750-1840-08-15-a-i0001,1599,1604,South,Q81931,LOC,Q49042,Southern United States,"```json {""wikipedia_page"":""Southern United States"", ""wikidata_id"":""Q49042""} ```",14.839213371276855
+sn84020750-1840-08-15-a-i0001,1739,1752,JOHN I?. CARY,NIL,PER,Q11869,William Henry Harrison,"```json {""wikipedia_page"":""William Henry Harrison"", ""wikidata_id"":""Q11869""} ```",11.421460151672363
+sn84020750-1840-08-15-a-i0001,1807,1856,"Hon. M. Van Blrln, President U. S. It 'asliington",Q61,LOC,NIL,"Hon. M. Van Blrln, President U. S. It 'asliington","```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+sn85042404-1880-01-27-a-i0004,356,370,Peter Auberton,NIL,PER,Q102253002,Col. Peter Atherton,"```json {""wikipedia_page"":""Col. Peter Atherton"", ""wikidata_id"":""Q102253002""} ```",19.863449096679688
+sn85042404-1880-01-27-a-i0004,1197,1212,Stutsman county,Q511498,LOC,NIL,Stutsman county,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+sn85042404-1880-03-09-a-i0004,52,64,Steve Venard,NIL,PER,Q7610753,Stephen Venard,,0
+sn85042404-1880-03-09-a-i0004,123,135,"Nevada, Col.",NIL,LOC,Q1227,Nevada,,0
+sn85042404-1880-03-09-a-i0004,229,235,Yenard,NIL,PER,Q7610753,Stephen Venard,"```json { ""wikipedia_page"": ""Stephen Venard"", ""wikidata_id"": ""Q7610753"" } ```",18.4771785736084
+sn85042404-1880-03-09-a-i0004,951,957,Venard,NIL,PER,Q3426664,René Menard,"```json { ""wikipedia_page"": ""René Menard"", ""wikidata_id"": ""Q3426664"" } ```",14.137383460998535
+sn85042404-1880-03-09-a-i0004,1825,1833,Ve¬ nard,NIL,PER,Q7610753,Stephen Venard,"```json {""wikipedia_page"":""Stephen Venard"", ""wikidata_id"":""Q7610753""} ```",8.105602264404297
+sn88068010-1890-02-13-a-i0003,29,46,Stur¬ geon Lendcr,NIL,PROD,Q1024250,The Star-Ledger,"```json {""wikipedia_page"":""The Star-Ledger"", ""wikidata_id"":""Q1024250""} ```",12.875161170959473
+sn88068010-1890-02-13-a-i0003,141,154,Miss White.at,NIL,PER,Q64249940,Nettie L. White,"```json { ""wikipedia_page"": ""Nettie L. White"", ""wikidata_id"": ""Q64249940"" } ```",9.962645530700684
+sn88068010-1890-02-13-a-i0003,778,785,Charles,NIL,PER,Q2958359,Charles,"```json {""wikipedia_page"":""Charles"", ""wikidata_id"":""Q2958359""} ```",8.592729568481445
+sn88068010-1890-04-17-a-i0003,4,35,firm of Geo. D. Barnard iSr Co.,NIL,ORG,Q783794,company,"```json {""wikipedia_page"":""company"", ""wikidata_id"":""Q783794""} ```",9.818199157714844
+sn88068010-1890-04-17-a-i0003,523,540,Montgomery county,Q378527,LOC,Q487572,Montgomery County,,0
+sn88068010-1890-04-17-a-i0003,627,641,Lincoln county,Q484582,LOC,Q507230,Lincoln County,,0
+sn88068010-1890-09-25-a-i0006,332,341,Australia,Q3960,LOC,Q408,Australia,"```json { ""wikipedia_page"": ""Australia"", ""wikidata_id"": ""Q408"" } ```",19.883804321289062
+sn86063397-1900-03-20-a-i0004,19,24,YUKON,Q6170492,LOC,Q2009,Yukon,"```json {""wikipedia_page"":""Yukon"", ""wikidata_id"":""Q2009""} ```",14.940123558044434
+sn86063397-1900-03-20-a-i0004,551,558,America,Q30,LOC,Q944857,Northwestern United States,"```json {""wikipedia_page"":""Northwestern United States"", ""wikidata_id"":""Q944857""} ```",12.527803421020508
+sn86063397-1900-06-26-a-i0002,797,810,Colonel 'Dick,Q1066346,PER,NIL,Colonel 'Dick,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+sn86063397-1900-06-26-a-i0002,852,867,Chairman Ilanna,Q509441,PER,Q140686,chairperson,"```json {""wikipedia_page"":""chairperson"", ""wikidata_id"":""Q140686""} ```",11.820211410522461
+sn86063397-1900-06-26-a-i0002,1244,1259,Sena¬ tor Scott,Q1966467,PER,NIL,Sena¬ tor Scott,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+sn86063397-1900-06-26-a-i0002,1278,1294,George Wls- woll,NIL,PER,Q5545776,George Washington Wilson,,0
+sn86063397-1900-06-26-a-i0002,1453,1470,Ckaii-innu Ilanna,Q509441,PER,NIL,Ckaii-innu Ilanna,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+sn86063397-1900-06-26-a-i0002,1670,1684,Harry I >. New,Q1586757,PER,Q1607334,Henry U. Johnson,"```json {""wikipedia_page"": ""Henry U. Johnson"", ""wikidata_id"": ""Q1607334""} ```",10.145660400390625
+sn86063397-1900-06-26-a-i0002,1859,1864,HANNA,Q509441,PER,NIL,HANNA,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+sn88085488-1910-02-18-a-i0006,33,54,Della Pringle company,NIL,ORG,Q3614050,Old American Company,"```json {""wikipedia_page"":""Old American Company"", ""wikidata_id"":""Q3614050""} ```",15.235373497009277
+sn88085488-1910-02-18-a-i0006,163,178,C. K. Van Auker,NIL,PER,Q18238211,Cecil Van Auker,,0
+sn88085488-1910-02-18-a-i0006,580,592,Miss Pringle,Q18351054,PER,Q5409770,Eunice Pringle,,0
+sn88085488-1910-04-01-a-i0004,9,22,Great Britian,Q23666,LOC,Q31683708,,,0
+sn88085488-1910-05-06-a-i0003,24,48,Washington State College,Q58297825,ORG,Q597236,Washington State University,,0
+sn88085488-1910-05-06-a-i0003,210,218,W. S. C.,Q58297825,ORG,Q7972233,Washington State Cougars baseball,"```json {""wikipedia_page"": ""Washington State Cougars baseball"", ""wikidata_id"": ""Q7972233""} ```",19.081859588623047
+sn88085488-1910-05-06-a-i0003,262,275,State College,Q58297825,ORG,NIL,State College,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+sn88085488-1910-05-06-a-i0003,431,437,Moscow,Q499927,LOC,Q649,Moscow,,0
+sn88085488-1910-09-02-a-i0006,328,339,Clerk Henry,NIL,PER,Q738142,clerk,"```json { ""wikipedia_page"": ""clerk"", ""wikidata_id"": ""Q738142"" } ```",12.878571510314941
+sn88085488-1910-09-02-a-i0006,377,387,Tweed Amos,NIL,PER,Q7795720,Thompson Dorfman Sweatman,,0
+sn89058133-1920-01-08-a-i0001,0,21,B. M. JOHNSON MFG. CO,NIL,ORG,Q113101479,Smith-Johnson Steamship Corporation,"```json { ""wikipedia_page"": ""Smith-Johnson Steamship Corporation"", ""wikidata_id"": ""Q113101479"" } ```",11.739511489868164
+sn89058133-1920-01-08-a-i0001,111,130,Benton M. John¬ son,NIL,PER,Q4890584,Benton Johnson,,0
+sn89058133-1920-01-08-a-i0001,249,256,Jackson,Q985409,LOC,Q28198,Jackson,,0
+sn89058133-1920-01-08-a-i0001,400,435,B. M. Johnson Manufacturing Company,NIL,ORG,Q6268362,Johnson Manufacturing Company,"```json {""wikipedia_page"":""Johnson Manufacturing Company"", ""wikidata_id"":""Q6268362""} ```",18.376710891723633
+sn89058133-1920-01-08-a-i0001,583,600,Benton M. Johnson,NIL,PER,Q16893806,Ben Johnson,,0
+sn89058133-1920-01-08-a-i0001,702,713,Mr. Johnson,NIL,PER,Q4890584,Benton Johnson,"```json {""wikipedia_page"":""Benton Johnson"", ""wikidata_id"":""Q4890584""} ```",13.459887504577637
+sn89058133-1920-01-29-a-i0007,492,504,J. R. Watson,NIL,PER,Q6290307,Joshua Watson,,0
+sn89058133-1920-01-29-a-i0007,645,661,D. Ritten¬ berry,NIL,PER,Q52159152,Edward Manning Ruttenber,"```json { ""wikipedia_page"": ""Edward Manning Ruttenber"", ""wikidata_id"": ""Q52159152"" } ```",10.074141502380371
+sn89058133-1920-01-29-a-i0007,697,709,P. L. Ramsey,NIL,PER,Q2061782,Paul Ramsey,,0
+sn89058133-1920-04-22-a-i0003,548,571,R. P. Morgan Produce Co,NIL,ORG,Q6104364,J.S. Morgan & Co.,"```json { ""wikipedia_page"": ""J.S. Morgan & Co."", ""wikidata_id"": ""Q6104364"" } ```",15.673921585083008
+sn89058133-1920-04-22-a-i0003,977,989,Lon Morelock,NIL,PER,Q37566898,Morelock,"``` {""wikipedia_page"":""Morelock"", ""wikidata_id"":""Q37566898""} ```",14.224522590637207
+sn89058133-1920-04-22-a-i0003,1238,1249,Bob Maggart,NIL,PER,Q888121,Bob McGrath,,0
+sn89058133-1920-04-22-a-i0003,1357,1367,Ralph Wirt,NIL,PER,Q1244572,William Wirt,,0
+sn89058133-1920-04-22-a-i0003,1397,1417,Putnam County Herald,Q16995214,PROD,Q495045,Putnam County,,0
+sn89058133-1920-04-22-a-i0003,1464,1470,Herald,Q16995214,PROD,Q5732602,Herald & Tribune,"```json { ""wikipedia_page"": ""Herald & Tribune"", ""wikidata_id"": ""Q5732602"" } ```",14.020989418029785
+sn89058133-1920-04-22-a-i0003,1529,1543,Mansfield Judd,NIL,PER,Q15728870,John Mansfield,,0
+sn89058133-1920-08-19-a-i0006,52,58,Herald,NIL,PROD,Q7739416,The Herald and Weekly Times,"```json {""wikipedia_page"":""The Herald and Weekly Times"", ""wikidata_id"":""Q7739416""} ```",7.646187782287598
+sn89058133-1920-08-19-a-i0006,390,403,Putnam county,Q495045,LOC,Q506531,Putnam County,,0
+sn83025812-1930-03-21-a-i0010,598,608,C. P. Gray,NIL,PER,Q7150983,Paul Gray,,0
+sn83025812-1930-03-21-a-i0010,630,643,Buxton school,NIL,ORG,Q5003281,Buxton School,,0
+sn83025812-1930-03-21-a-i0010,703,714,E. P. White,NIL,PER,Q18910877,Emerson Elbridge White,,0
+sn83025812-1930-03-21-a-i0010,750,765,D. V. M. Buxton,Q745614,LOC,NIL,D. V. M. Buxton,"```json {""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL""} ```",0
+sn83025812-1930-03-21-a-i0010,803,816,Cane Hattcras,Q978032,LOC,NIL,Cane Hattcras,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+sn83025812-1930-03-21-a-i0010,1282,1288,Buxton,Q745614,LOC,Q1072836,Buxton,"```json {""wikipedia_page"":""Buxton"", ""wikidata_id"":""Q1072836""} ```",13.59648323059082
+sn83025812-1930-05-30-a-i0006,394,423,District Supervisor of Census,NIL,ORG,Q5280577,Director of the United States Census Bureau,"```json {""wikipedia_page"":""Director of the United States Census Bureau"", ""wikidata_id"":""Q5280577""} ```",16.22278594970703
+sn83025812-1930-05-30-a-i0006,1105,1133,District Supervisor's office,NIL,ORG,Q17570607,General Post Office,"```json {""wikipedia_page"":""General Post Office"", ""wikidata_id"":""Q17570607""} ```",10.9670991897583
+sn83025812-1930-05-30-a-i0006,1458,1465,Edcnton,Q2028258,LOC,Q1616997,Edlington,,0
+sn83025812-1930-05-30-a-i0006,1573,1580,Edenton,Q2028258,LOC,Q1616997,Edlington,,0
+sn83025812-1930-05-30-a-i0006,1829,1838,Uncle Gam,NIL,PER,Q184689,Uncle Sam,"```json {""wikipedia_page"":""Uncle Sam"", ""wikidata_id"":""Q184689""} ```",15.176801681518555
+sn92063852-1950-02-25-a-i0005,49,68,Ruth Morris soprano,NIL,PER,Q7367987,Rose and Ottilie Sutro,,0
+sn92063852-1950-02-25-a-i0005,287,355,"His Excellency, Dumarsaix Estime, President of the Republic of Haiti",Q738355,PER,Q3290543,President of Haiti,"```json {""wikipedia_page"": ""President of Haiti"", ""wikidata_id"": ""Q3290543""} ```",18.227327346801758
+sn92063852-1950-02-25-a-i0005,497,537,Fiist Lady of the Republic. Madam Estine,Q18926909,PER,NIL,Fiist Lady of the Republic. Madam Estine,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+sn92063852-1950-02-25-a-i0005,721,737,Hatiau Jour- nal,NIL,PROD,Q3118980,Le Matin,,0
+sn92063852-1950-02-25-a-i0005,822,835,Miss Mor¬ ris,NIL,PER,Q547700,Mrs. Miller,"```json {""wikipedia_page"":""Mrs. Miller"", ""wikidata_id"":""Q547700""} ```",8.306783676147461
+sn92063852-1950-02-25-a-i0005,862,877,Eugene Bioadnax,NIL,PER,Q7243811,Prince Ananias,,0
+sn92063852-1950-08-26-a-i0008,252,289,Florida A. & M. College for Ne- groes,Q1430048,ORG,Q5461515,Florida Memorial University,,0
+sn92063852-1950-08-26-a-i0008,342,354,Negro school,Q1430048,ORG,Q1620945,historically black colleges and universities,"```json {""wikipedia_page"":""historically black colleges and universities"", ""wikidata_id"":""Q1620945""} ```",15.683432579040527
+sn92063852-1950-08-26-a-i0008,384,400,"white insti- ,Ut",Q501758,ORG,Q49078,White Americans,"```json { ""wikipedia_page"": ""White Americans"", ""wikidata_id"": ""Q49078"" } ```",10.459836959838867
+sn92063852-1950-08-26-a-i0008,1133,1142,Southland,Q49042,LOC,Q864007,Deep South,"```json {""wikipedia_page"":""Deep South"", ""wikidata_id"":""Q864007""} ```",12.987528800964355
+sn92063852-1950-08-26-a-i0008,2288,2295,Florida,Q812,LOC,Q123199,Florida Senate,"```json { ""wikipedia_page"": ""Florida Senate"", ""wikidata_id"": ""Q123199"" } ```",7.419308185577393
+sn92063852-1950-09-23-a-i0018,0,17,Housewives League,NIL,ORG,Q25060561,American Woman's League,"```json { ""wikipedia_page"": ""American Woman's League"", ""wikidata_id"": ""Q25060561"" } ```",18.23253059387207
+sn92063852-1950-09-23-a-i0018,51,90,National Housewives Lea¬ gue of America,NIL,ORG,Q6971949,National Council of Women of the United States,,0
+sn92063852-1950-09-23-a-i0018,237,290,"Mrs. Chris¬ tina Fuqua, president of De¬ troit. Mich.",NIL,PER,Q6929873,Mrs. Sam Houston House,"```json {""wikipedia_page"":""Mrs. Sam Houston House"", ""wikidata_id"":""Q6929873""} ```",15.34431266784668
+sn92063852-1950-09-23-a-i0018,318,337,Mrs. Mattie S. Bibb,NIL,PER,Q22958043,Mary Bibb,,0
+sn92063852-1950-09-23-a-i0018,339,357,Mrs. E. R. Naggles,NIL,PER,Q4792417,Arliss Sturgulewski,,0
+sn92063852-1950-09-23-a-i0018,416,427,the Leagu.e,NIL,ORG,Q6970640,National Association of Colored Women's Clubs,"```json {""wikipedia_page"":""National Association of Colored Women's Clubs"", ""wikidata_id"":""Q6970640""} ```",11.532931327819824
+sn92063852-1950-09-23-a-i0018,463,484,Mrs. Willie M. Miller,NIL,PER,Q16012478,Lillian Miller,,0
+sn92063852-1950-09-23-a-i0018,490,506,Mrs. A. R Ashley,NIL,PER,Q28839352,Arthur Ashley,"```json {""wikipedia_page"": ""Arthur Ashley"", ""wikidata_id"": ""Q28839352""} ```",20.21063804626465
+sn92063852-1950-09-23-a-i0018,540,550,the League,NIL,ORG,Q6974091,National Liberal League,"```json {""wikipedia_page"":""National Liberal League"", ""wikidata_id"":""Q6974091""} ```",9.23454475402832
+sn92063852-1950-09-23-a-i0018,588,598,the League,NIL,ORG,Q65071367,Phillis Wheatley Club,"```json {""wikipedia_page"":""Phillis Wheatley Club"", ""wikidata_id"":""Q65071367""} ```",8.967842102050781
+sn92063852-1950-09-23-a-i0018,967,981,Horace Sudduth,NIL,PER,Q58826070,Margaret Ashmore Sudduth,,0
+sn92063852-1950-09-23-a-i0018,1060,1068,Business,NIL,ORG,Q5001817,Business Women's Club,"```json {""wikipedia_page"":""Business Women's Club"",""wikidata_id"":""Q5001817""} ```",16.71656036376953
+sn92063852-1950-09-23-a-i0018,1073,1090,Housewives League,NIL,ORG,Q4970077,British Housewives' League,,0
+sn92063852-1950-09-23-a-i0018,1396,1414,Housewives Leagues,NIL,ORG,Q4970077,British Housewives' League,"```json {""wikipedia_page"":""British Housewives' League"", ""wikidata_id"":""Q4970077""} ```",19.915508270263672
+sn92063852-1950-09-23-a-i0018,1887,1911,Mrs. Freddvo S Henderson,NIL,PER,Q43276058,Freddye Scarborough Henderson,,0
+sn91068761-1960-03-30-a-i0003,85,97,Hetiny Benny,Q5715142,ORG,NIL,Hetiny Benny,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+sn91068761-1960-03-30-a-i0003,271,283,Marvin Lewis,NIL,PER,Q665659,Marvin Lewis,,0
+sn91068761-1960-03-30-a-i0003,417,449,North Carolina Kgg Associa¬ tion,NIL,ORG,Q24534487,North Carolina Growers Association,"```json {""wikipedia_page"":""North Carolina Growers Association"", ""wikidata_id"":""Q24534487""} ```",18.952131271362305
+sn91068761-1960-03-30-a-i0003,1336,1350,North Atlantic,Q350134,LOC,Q97,Atlantic Ocean,,0
+sn91068761-1960-03-30-a-i0003,1404,1415,Billy Hooks,NIL,PER,Q4909353,Bill Hawks,,0
+sn91068761-1960-03-30-a-i0003,1417,1430,Roger Harwood,NIL,PER,Q5605715,Greg Hoard,,0
+sn91068761-1960-03-30-a-i0003,1432,1443,Claud Hooks,NIL,PER,Q25753816,Claud Hancox,,0
+sn91068761-1960-03-30-a-i0003,1449,1464,Evunder Arnette,NIL,PER,Q109267228,Everett Nourse,,0

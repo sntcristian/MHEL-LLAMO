@@ -1,99 +1,99 @@
-doc_id,start_pos,end_pos,surface,gt_id,type,identifier,title,answer,score
-cu31924087948174_0022,75,80,Jahnl,Q66001,PER,Q1567581,Hadrianus Junius,"{ ""wikipedia_page"": ""Hadrianus Junius"", ""wikidata_id"": ""Q1567581"" }",10.837301254272461
-cu31924087948174_0059,54,57,1].,Q8275,WORK,NIL,1].,"""no""",0
-cu31924087948174_0059,67,70,Od.,Q35160,WORK,NIL,Od.,```json {} ```,0
-cu31924087948174_0059,249,252,1].,Q8275,WORK,NIL,1].,"Based on the provided text and candidates, the entities [ENT] are ""Ajax"" and ""Ajax could not be himself"". The closest matching candidate from the list is ""Ajax"" in the context of the text. ```json {""wikipedia_page"": ""Ajax (mythology)"", ""wikidata_id"": ""Q1289764""} ```",0
-cu31924087948174_0059,587,598,Plat. Soph.,Q471715,WORK,Q273668,Apology,,19.83189582824707
-cu31924087948174_0059,810,814,Ant.,Q241077,WORK,NIL,Ant.,no,0
-cu31924087948174_0059,980,992,Aesch. Pers.,Q788458,WORK,NIL,Aesch. Pers.,no,0
-cu31924087948174_0059,1043,1046,Ag.,Q3320792,WORK,NIL,Ag.,"```json { ""wikipedia_page"": """", ""wikidata_id"": """" } ```",0
-cu31924087948174_0059,1377,1381,Ajax,Q172725,PER,NIL,Ajax,no,0
-cu31924087948174_0059,1484,1491,Phoebus,Q3382132,PER,Q183281,Phoebe,,19.00194549560547
-cu31924087948174_0059,2066,2075,Sophocles,Q11950683,PER,Q7235,Sophocles,,33.509681701660156
-cu31924087948174_0059,2160,2165,Phil.,Q1415903,WORK,Q189597,Philo of Alexandria,"```json {""wikipedia_page"":""Philo of Alexandria"", ""wikidata_id"":""Q189597""} ```",12.439898490905762
-cu31924087948174_0059,2314,2318,Ant.,Q241077,WORK,NIL,Ant.,no,0
-cu31924087948174_0059,2350,2359,Cleopatra,NIL,PER,Q635,Cleopatra,,21.13123321533203
-cu31924087948174_0060,88,95,Hermann,Q77616,PER,NIL,Hermann,No.,0
-cu31924087948174_0060,1166,1177,Eur. Phoen.,Q1233660,WORK,NIL,Eur. Phoen.,```json {} ```,0
-cu31924087948174_0060,2365,2368,11.,Q8275,WORK,NIL,11.,"{ ""wikipedia_page"": """", ""wikidata_id"": """" }",0
-cu31924087948174_0061,113,117,Ajax,Q172725,PER,NIL,Ajax,no,0
-cu31924087948174_0061,147,156,Oed. Tyr.,Q148643,WORK,NIL,Oed. Tyr.,"{""wikipedia_page"": ""Oedipus Rex"", ""wikidata_id"": ""Q28098""}",0
-cu31924087948174_0061,243,251,Tecmessa,Q10796858,PER,Q3516977,Tecmessa,,18.962539672851562
-cu31924087948174_0061,273,277,Ajax,Q172725,PER,Q412341,Ajax,"{ ""wikipedia_page"": ""Ajax"", ""wikidata_id"": ""Q412341"" }",16.066226959228516
-cu31924087948174_0061,985,989,O.T.,Q148643,WORK,NIL,O.T.,"""no""",0
-cu31924087948174_0061,1073,1080,Salamis,Q202422,LOC,Q767089,Salamis,,18.88319206237793
-cu31924087948174_0061,1126,1135,"Tecmessa,",Q10796858,PER,Q3516977,Tecmessa,"```json {""wikipedia_page"": ""Tecmessa"", ""wikidata_id"": ""Q3516977""} ```",13.992656707763672
-cu31924087948174_0061,1322,1326,Ajax,Q172725,PER,NIL,Ajax,```json {} ```,0
-cu31924087948174_0061,1619,1622,Il.,NIL,WORK,Q8275,Iliad,"Based on the provided text and the list of candidates, the most appropriate Wikidata entity for the entities tagged with [ENT] is the ""Iliad"" (Q8275). ```json {""wikipedia_page"":""Iliad"", ""wikidata_id"":""Q8275""} ```",11.167954444885254
-cu31924087948174_0061,1872,1876,Ant.,Q241077,WORK,NIL,Ant.,"Given the input text and the list of candidates, the entity mentioned between the [ENT] tags is ""Ant. 420, 1"". However, none of the candidates in the list match this entity with high confidence. Therefore, the response is: ```json {} ```",0
-cu31924087948174_0061,1989,2001,Aesch. Prom.,Q846870,WORK,NIL,Aesch. Prom.,no,0
-cu31924087948174_0061,2103,2113,Plat. Rep.,Q123397,WORK,NIL,Plat. Rep.,```json {} ```,0
-cu31924087948174_0062,600,608,Tecmessa,Q10796858,PER,Q3516977,Tecmessa,"```json { ""wikipedia_page"": ""Tecmessa"", ""wikidata_id"": ""Q3516977"" } ```",17.952499389648438
-cu31924087948174_0062,737,746,"Eur, Hec.",Q1115611,WORK,NIL,"Eur, Hec.",no,0
-cu31924087948174_0062,787,791,"Alc,",Q1246408,WORK,NIL,"Alc,",no,0
-cu31924087948174_0062,918,926,Pind. P.,Q3411444,WORK,Q134929,Pindar,"```json { ""wikipedia_page"": ""Pindar"", ""wikidata_id"": ""Q134929"" } ```",9.266938209533691
-cu31924087948174_0075,135,138,Od.,Q35160,WORK,Q6691,Homer,"```json { ""wikipedia_page"": ""Homer"", ""wikidata_id"": ""Q6691"" } ```",11.418717384338379
-cu31924087948174_0075,830,835,Phil.,Q1415903,WORK,NIL,Phil.,No,0
-cu31924087948174_0075,1423,1433,Aesch. Ag.,Q3320792,WORK,NIL,Aesch. Ag.,"""no""",0
-cu31924087948174_0075,1637,1646,Sophocles,Q11950683,PER,Q7235,Sophocles,,26.73190689086914
-cu31924087948174_0075,1692,1699,Schndw.,Q70043,PER,NIL,Schndw.,no,0
-cu31924087948174_0075,2523,2529,Trach.,Q945342,WORK,NIL,Trach.,```json {} ```,0
-cu31924087948174_0085,23,27,Ajax,Q172725,PER,NIL,Ajax,```json {} ```,0
-cu31924087948174_0088,637,642,Phil.,Q1415903,WORK,NIL,Phil.,```json {} ```,0
-cu31924087948174_0088,912,928,Dio Chrys. Orat.,NIL,WORK,Q334457,Dio Chrysostom,,19.818016052246094
-cu31924087948174_0088,1047,1053,Trach.,Q945342,WORK,NIL,Trach.,no,0
-cu31924087948174_0088,1318,1324,Teucer,Q878184,PER,NIL,Teucer,No,0
-cu31924087948174_0088,1345,1349,Ajax,Q172725,PER,NIL,Ajax,no,0
-cu31924087948174_0088,1599,1607,Pind. N.,Q27214182,WORK,NIL,Pind. N.,no,0
-sophoclesplaysa05campgoog_0099,82,87,O. T.,Q148643,WORK,NIL,O. T.,No.,0
-sophoclesplaysa05campgoog_0099,282,288,Aesch.,Q40939,PER,Q317089,Aeschines,,23.139795303344727
-sophoclesplaysa05campgoog_0099,290,293,Ag.,Q3320792,WORK,Q1752691,Agathinus,"```json { ""wikipedia_page"": ""Agathinus"", ""wikidata_id"": ""Q1752691"" } ```",9.695162773132324
-sophoclesplaysa05campgoog_0099,304,308,Eur.,Q48305,PER,Q380826,Aelius Herodianus,,18.300973892211914
-sophoclesplaysa05campgoog_0099,310,313,El.,Q540161,WORK,Q35329,Elymian,"Based on the provided text and the list of candidates, the entity mentioned between the [ENT] tags is ""Elymian"". The Wikidata ID for ""Elymian"" is Q35329, and the Wikipedia page title is ""Elymian"". ```json {""wikipedia_page"":""Elymian"", ""wikidata_id"":""Q35329""} ```",11.60197639465332
-sophoclesplaysa05campgoog_0099,426,443,De Comp. Verborum,Q42188444,WORK,Q23641771,De verborum significatione,,20.828275680541992
-sophoclesplaysa05campgoog_0099,617,621,Her.,Q26825,PER,Q746583,Histories,"```json { ""wikipedia_page"": ""Histories"", ""wikidata_id"": ""Q746583"" } ```",15.289728164672852
-sophoclesplaysa05campgoog_0099,883,889,Lobeck,Q84734,PER,Q1429802,Justus Florian Lobeck,,24.131711959838867
-sophoclesplaysa05campgoog_0099,905,914,Hierocles,Q1355265,PER,Q1282682,Hierocles,,27.497135162353516
-sophoclesplaysa05campgoog_0099,934,944,Slob. For.,Q107029507,WORK,NIL,Slob. For.,No,0
-sophoclesplaysa05campgoog_0099,1012,1017,Crat.,Q1347394,WORK,Q1335321,Critias,,22.448022842407227
-sophoclesplaysa05campgoog_0099,1217,1222,O. T.,Q148643,WORK,NIL,O. T.,no,0
-sophoclesplaysa05campgoog_0099,1229,1232,Ph.,Q1415903,WORK,NIL,Ph.,No,0
-sophoclesplaysa05campgoog_0099,1531,1534,P .,Q1415903,WORK,NIL,P .,No.,0
-sophoclesplaysa05campgoog_0099,1568,1580,Aesch. P. P.,Q846870,WORK,NIL,Aesch. P. P.,no,0
-sophoclesplaysa05campgoog_0099,1713,1718,O. C.,Q294001,WORK,Q430486,Oxford Classical Dictionary,"Based on the given input text and list of candidates, the entity mentioned between the [ENT] tags is likely to be ""Oxford Classical Dictionary"". Therefore, the JSON answer is: ```json {""wikipedia_page"":""Oxford Classical Dictionary"", ""wikidata_id"":""Q430486""} ```",12.46402359008789
-sophoclesplaysa05campgoog_0099,1725,1728,Tr.,Q945342,WORK,NIL,Tr.,No.,0
-sophoclesplaysa05campgoog_0099,1789,1794,Anmi.,Q241077,WORK,Q12898761,Antoninus Immè,"{""wikipedia_page"": ""Antoninus Immè"", ""wikidata_id"": ""Q12898761""}",10.571666717529297
-sophoclesplaysa05campgoog_0099,1868,1875,Ten. H.,Q674638,WORK,NIL,Ten. H.,no,0
-sophoclesplaysa05campgoog_0099,2139,2147,Eur. Ion,Q614607,WORK,Q380826,Aelius Herodianus,,18.20343589782715
-sophoclesplaysa05campgoog_0099,2259,2270,Aesch. Prs.,Q788458,WORK,NIL,Aesch. Prs.,No.,0
-sophoclesplaysa05campgoog_0099,2299,2310,Eur. Helen.,Q614607,WORK,Q380826,Aelius Herodianus,,18.900344848632812
-sophoclesplaysa05campgoog_0099,2612,2617,Galea,Q8778,PER,NIL,Galea,no,0
-sophoclesplaysa05campgoog_0099,2626,2630,Κuhn,Q97582,PER,Q110707,Johannes von Kuhn,,20.138885498046875
-sophoclesplaysa05campgoog_0099,2826,2830,Ant.,Q241077,WORK,Q47130,Ennius,"The entity between the [ENT] tags, ""Ant."" appears to be a reference to a specific person or figure. Given the context of the text and the list of candidates provided, the closest match appears to be ""Ennius"" (Q47130), a Roman writer and poet. Here is the JSON-formatted answer: ```json { ""wikipedia_page"": ""Ennius"", ""wikidata_id"": ""Q47130"" } ```",8.299378395080566
-sophoclesplaysa05campgoog_0099,2974,2977,Ph.,Q1415903,WORK,NIL,Ph.,```json {} ```,0
-sophoclesplaysa05campgoog_0099,3003,3006,Of.,Q35160,WORK,Q3997224,English translations of Homer,"Based on the provided text and list of candidates, the entity [ENT] appears to refer to ""English translations of Homer"". This is inferred from the context where it is mentioned alongside references to Homer's works. Therefore, the JSON response is: ```json {""wikipedia_page"":""English translations of Homer"", ""wikidata_id"":""Q3997224""} ```",5.29500675201416
-sophoclesplaysa05campgoog_0102,100,103,Ph.,Q1415903,WORK,NIL,Ph.,No,0
-sophoclesplaysa05campgoog_0102,242,245,Ph.,Q1415903,WORK,Q189597,Philo of Alexandria,"Based on the context and the list of candidates, the entity mentioned in the input text within the [ENT] tags most likely refers to ""Philo of Alexandria"". Therefore, the JSON object is: ```json { ""wikipedia_page"": ""Philo of Alexandria"", ""wikidata_id"": ""Q189597"" } ```",11.43420696258545
-sophoclesplaysa05campgoog_0102,373,376,Ph.,Q1415903,WORK,Q189597,Philo of Alexandria,"```json { ""wikipedia_page"": ""Philo of Alexandria"", ""wikidata_id"": ""Q189597"" } ```",11.00794792175293
-sophoclesplaysa05campgoog_0102,387,390,El.,Q540161,WORK,NIL,El.,no,0
-sophoclesplaysa05campgoog_0102,430,434,Her.,Q26825,PER,NIL,Her.,no,0
-sophoclesplaysa05campgoog_0102,475,480,Q. T.,Q148643,WORK,Q193769,Quintilian,"Based on the input text and the provided list of candidates, the entity mentioned within the [ENT] tags is ""Quintilian."" Therefore, the corresponding Wikidata entity is: ```json {""wikipedia_page"": ""Quintilian"", ""wikidata_id"": ""Q193769""} ```",9.055710792541504
-sophoclesplaysa05campgoog_0102,813,816,Ph.,Q1415903,WORK,NIL,Ph.,no,0
-sophoclesplaysa05campgoog_0102,1007,1010,Tr.,Q945342,WORK,NIL,Tr.,```json {} ```,0
-sophoclesplaysa05campgoog_0102,1056,1059,El.,Q733444,WORK,NIL,El.,```json {} ```,0
-sophoclesplaysa05campgoog_0102,1100,1104,O.C.,Q294001,WORK,NIL,O.C.,"```json { ""wikipedia_page"": """", ""wikidata_id"": """" } ```",0
-sophoclesplaysa05campgoog_0102,1204,1209,Pans.,Q192931,PER,NIL,Pans.,"""no""",0
-sophoclesplaysa05campgoog_0102,1907,1911,O.C.,Q294001,WORK,NIL,O.C.,```json {} ```,0
-sophoclesplaysa05campgoog_0102,1971,1974,Il.,Q8275,WORK,NIL,Il.,no,0
-sophoclesplaysa05campgoog_0102,2168,2174,Athen.,NIL,PER,Q1467610,National Library of Greece,"Based on the provided text and the list of candidates, the most appropriate Wikidata entity for the entity tagged with [ENT] in the text appears to be ""National Library of Greece"". ```json {""wikipedia_page"":""National Library of Greece"", ""wikidata_id"":""Q1467610""} ```",12.056153297424316
-sophoclesplaysa05campgoog_0102,2388,2393,O. T.,Q148643,WORK,NIL,O. T.,"Based on the input text and the list of candidates, the entity mentioned between the [ENT] tags, ""O. T."", does not have a match in the provided list of candidates with high confidence. Therefore, the JSON response is: ```json {} ```",0
-sophoclesplaysa05campgoog_0102,2428,2434,Thebes,Q11225429,LOC,Q5760,Thebes,,18.6480770111084
-sophoclesplaysa05campgoog_0102,2436,2439,El.,Q733444,WORK,NIL,El.,no,0
-sophoclesplaysa05campgoog_0107,241,245,Aπt.,Q241077,WORK,NIL,Aπt.,No,0
-sophoclesplaysa05campgoog_0107,291,301,Eur. F. T.,Q523227,WORK,NIL,Eur. F. T.,no,0
-sophoclesplaysa05campgoog_0107,376,381,O. C.,Q294001,WORK,NIL,O. C.,no,0
-sophoclesplaysa05campgoog_0107,406,414,Pind. P.,Q3411444,WORK,NIL,Pind. P.,No.,0
-sophoclesplaysa05campgoog_0107,909,913,O. T,Q148643,WORK,NIL,O. T,No.,0
-sophoclesplaysa05campgoog_0107,978,989,Eur. Suppl.,Q672319,WORK,NIL,Eur. Suppl.,No,0
-sophoclesplaysa05campgoog_0107,1713,1718,O. 7T,Q148643,WORK,NIL,O. 7T,no,0
-sophoclesplaysa05campgoog_0107,1859,1871,Plat. Phleo.,Q220972,WORK,Q859,Plato,"Based on the provided text and candidates, the entities [ENT] Plat. Phleo. and [ENT] p- 43 refer to Plato and his works respectively. The most appropriate candidates from the list are: - Plato (Wikidata ID: Q859, Wikipedia Page: Plato) - The Consolation of Philosophy (Wikidata ID: Q861927, Wikipedia Page: The Consolation of Philosophy) Returning the JSON: ```json { ""wikipedia_page"": ""Plato"", ""wikidata_id"": ""Q859"" } ``` This disambiguation takes into account the context and the candidates provided.",16.783353805541992
+doc_id,start_pos,end_pos,surface,gt_id,type,identifier,title,answer,score
+cu31924087948174_0022,75,80,Jahnl,Q66001,PER,Q1567581,Hadrianus Junius,"{ ""wikipedia_page"": ""Hadrianus Junius"", ""wikidata_id"": ""Q1567581"" }",10.837301254272461
+cu31924087948174_0059,54,57,1].,Q8275,WORK,NIL,1].,"""no""",0
+cu31924087948174_0059,67,70,Od.,Q35160,WORK,NIL,Od.,```json {} ```,0
+cu31924087948174_0059,249,252,1].,Q8275,WORK,NIL,1].,"Based on the provided text and candidates, the entities [ENT] are ""Ajax"" and ""Ajax could not be himself"". The closest matching candidate from the list is ""Ajax"" in the context of the text. ```json {""wikipedia_page"": ""Ajax (mythology)"", ""wikidata_id"": ""Q1289764""} ```",0
+cu31924087948174_0059,587,598,Plat. Soph.,Q471715,WORK,Q273668,Apology,,19.83189582824707
+cu31924087948174_0059,810,814,Ant.,Q241077,WORK,NIL,Ant.,no,0
+cu31924087948174_0059,980,992,Aesch. Pers.,Q788458,WORK,NIL,Aesch. Pers.,no,0
+cu31924087948174_0059,1043,1046,Ag.,Q3320792,WORK,NIL,Ag.,"```json { ""wikipedia_page"": """", ""wikidata_id"": """" } ```",0
+cu31924087948174_0059,1377,1381,Ajax,Q172725,PER,NIL,Ajax,no,0
+cu31924087948174_0059,1484,1491,Phoebus,Q3382132,PER,Q183281,Phoebe,,19.00194549560547
+cu31924087948174_0059,2066,2075,Sophocles,Q11950683,PER,Q7235,Sophocles,,33.509681701660156
+cu31924087948174_0059,2160,2165,Phil.,Q1415903,WORK,Q189597,Philo of Alexandria,"```json {""wikipedia_page"":""Philo of Alexandria"", ""wikidata_id"":""Q189597""} ```",12.439898490905762
+cu31924087948174_0059,2314,2318,Ant.,Q241077,WORK,NIL,Ant.,no,0
+cu31924087948174_0059,2350,2359,Cleopatra,NIL,PER,Q635,Cleopatra,,21.13123321533203
+cu31924087948174_0060,88,95,Hermann,Q77616,PER,NIL,Hermann,No.,0
+cu31924087948174_0060,1166,1177,Eur. Phoen.,Q1233660,WORK,NIL,Eur. Phoen.,```json {} ```,0
+cu31924087948174_0060,2365,2368,11.,Q8275,WORK,NIL,11.,"{ ""wikipedia_page"": """", ""wikidata_id"": """" }",0
+cu31924087948174_0061,113,117,Ajax,Q172725,PER,NIL,Ajax,no,0
+cu31924087948174_0061,147,156,Oed. Tyr.,Q148643,WORK,NIL,Oed. Tyr.,"{""wikipedia_page"": ""Oedipus Rex"", ""wikidata_id"": ""Q28098""}",0
+cu31924087948174_0061,243,251,Tecmessa,Q10796858,PER,Q3516977,Tecmessa,,18.962539672851562
+cu31924087948174_0061,273,277,Ajax,Q172725,PER,Q412341,Ajax,"{ ""wikipedia_page"": ""Ajax"", ""wikidata_id"": ""Q412341"" }",16.066226959228516
+cu31924087948174_0061,985,989,O.T.,Q148643,WORK,NIL,O.T.,"""no""",0
+cu31924087948174_0061,1073,1080,Salamis,Q202422,LOC,Q767089,Salamis,,18.88319206237793
+cu31924087948174_0061,1126,1135,"Tecmessa,",Q10796858,PER,Q3516977,Tecmessa,"```json {""wikipedia_page"": ""Tecmessa"", ""wikidata_id"": ""Q3516977""} ```",13.992656707763672
+cu31924087948174_0061,1322,1326,Ajax,Q172725,PER,NIL,Ajax,```json {} ```,0
+cu31924087948174_0061,1619,1622,Il.,NIL,WORK,Q8275,Iliad,"Based on the provided text and the list of candidates, the most appropriate Wikidata entity for the entities tagged with [ENT] is the ""Iliad"" (Q8275). ```json {""wikipedia_page"":""Iliad"", ""wikidata_id"":""Q8275""} ```",11.167954444885254
+cu31924087948174_0061,1872,1876,Ant.,Q241077,WORK,NIL,Ant.,"Given the input text and the list of candidates, the entity mentioned between the [ENT] tags is ""Ant. 420, 1"". However, none of the candidates in the list match this entity with high confidence. Therefore, the response is: ```json {} ```",0
+cu31924087948174_0061,1989,2001,Aesch. Prom.,Q846870,WORK,NIL,Aesch. Prom.,no,0
+cu31924087948174_0061,2103,2113,Plat. Rep.,Q123397,WORK,NIL,Plat. Rep.,```json {} ```,0
+cu31924087948174_0062,600,608,Tecmessa,Q10796858,PER,Q3516977,Tecmessa,"```json { ""wikipedia_page"": ""Tecmessa"", ""wikidata_id"": ""Q3516977"" } ```",17.952499389648438
+cu31924087948174_0062,737,746,"Eur, Hec.",Q1115611,WORK,NIL,"Eur, Hec.",no,0
+cu31924087948174_0062,787,791,"Alc,",Q1246408,WORK,NIL,"Alc,",no,0
+cu31924087948174_0062,918,926,Pind. P.,Q3411444,WORK,Q134929,Pindar,"```json { ""wikipedia_page"": ""Pindar"", ""wikidata_id"": ""Q134929"" } ```",9.266938209533691
+cu31924087948174_0075,135,138,Od.,Q35160,WORK,Q6691,Homer,"```json { ""wikipedia_page"": ""Homer"", ""wikidata_id"": ""Q6691"" } ```",11.418717384338379
+cu31924087948174_0075,830,835,Phil.,Q1415903,WORK,NIL,Phil.,No,0
+cu31924087948174_0075,1423,1433,Aesch. Ag.,Q3320792,WORK,NIL,Aesch. Ag.,"""no""",0
+cu31924087948174_0075,1637,1646,Sophocles,Q11950683,PER,Q7235,Sophocles,,26.73190689086914
+cu31924087948174_0075,1692,1699,Schndw.,Q70043,PER,NIL,Schndw.,no,0
+cu31924087948174_0075,2523,2529,Trach.,Q945342,WORK,NIL,Trach.,```json {} ```,0
+cu31924087948174_0085,23,27,Ajax,Q172725,PER,NIL,Ajax,```json {} ```,0
+cu31924087948174_0088,637,642,Phil.,Q1415903,WORK,NIL,Phil.,```json {} ```,0
+cu31924087948174_0088,912,928,Dio Chrys. Orat.,NIL,WORK,Q334457,Dio Chrysostom,,19.818016052246094
+cu31924087948174_0088,1047,1053,Trach.,Q945342,WORK,NIL,Trach.,no,0
+cu31924087948174_0088,1318,1324,Teucer,Q878184,PER,NIL,Teucer,No,0
+cu31924087948174_0088,1345,1349,Ajax,Q172725,PER,NIL,Ajax,no,0
+cu31924087948174_0088,1599,1607,Pind. N.,Q27214182,WORK,NIL,Pind. N.,no,0
+sophoclesplaysa05campgoog_0099,82,87,O. T.,Q148643,WORK,NIL,O. T.,No.,0
+sophoclesplaysa05campgoog_0099,282,288,Aesch.,Q40939,PER,Q317089,Aeschines,,23.139795303344727
+sophoclesplaysa05campgoog_0099,290,293,Ag.,Q3320792,WORK,Q1752691,Agathinus,"```json { ""wikipedia_page"": ""Agathinus"", ""wikidata_id"": ""Q1752691"" } ```",9.695162773132324
+sophoclesplaysa05campgoog_0099,304,308,Eur.,Q48305,PER,Q380826,Aelius Herodianus,,18.300973892211914
+sophoclesplaysa05campgoog_0099,310,313,El.,Q540161,WORK,Q35329,Elymian,"Based on the provided text and the list of candidates, the entity mentioned between the [ENT] tags is ""Elymian"". The Wikidata ID for ""Elymian"" is Q35329, and the Wikipedia page title is ""Elymian"". ```json {""wikipedia_page"":""Elymian"", ""wikidata_id"":""Q35329""} ```",11.60197639465332
+sophoclesplaysa05campgoog_0099,426,443,De Comp. Verborum,Q42188444,WORK,Q23641771,De verborum significatione,,20.828275680541992
+sophoclesplaysa05campgoog_0099,617,621,Her.,Q26825,PER,Q746583,Histories,"```json { ""wikipedia_page"": ""Histories"", ""wikidata_id"": ""Q746583"" } ```",15.289728164672852
+sophoclesplaysa05campgoog_0099,883,889,Lobeck,Q84734,PER,Q1429802,Justus Florian Lobeck,,24.131711959838867
+sophoclesplaysa05campgoog_0099,905,914,Hierocles,Q1355265,PER,Q1282682,Hierocles,,27.497135162353516
+sophoclesplaysa05campgoog_0099,934,944,Slob. For.,Q107029507,WORK,NIL,Slob. For.,No,0
+sophoclesplaysa05campgoog_0099,1012,1017,Crat.,Q1347394,WORK,Q1335321,Critias,,22.448022842407227
+sophoclesplaysa05campgoog_0099,1217,1222,O. T.,Q148643,WORK,NIL,O. T.,no,0
+sophoclesplaysa05campgoog_0099,1229,1232,Ph.,Q1415903,WORK,NIL,Ph.,No,0
+sophoclesplaysa05campgoog_0099,1531,1534,P .,Q1415903,WORK,NIL,P .,No.,0
+sophoclesplaysa05campgoog_0099,1568,1580,Aesch. P. P.,Q846870,WORK,NIL,Aesch. P. P.,no,0
+sophoclesplaysa05campgoog_0099,1713,1718,O. C.,Q294001,WORK,Q430486,Oxford Classical Dictionary,"Based on the given input text and list of candidates, the entity mentioned between the [ENT] tags is likely to be ""Oxford Classical Dictionary"". Therefore, the JSON answer is: ```json {""wikipedia_page"":""Oxford Classical Dictionary"", ""wikidata_id"":""Q430486""} ```",12.46402359008789
+sophoclesplaysa05campgoog_0099,1725,1728,Tr.,Q945342,WORK,NIL,Tr.,No.,0
+sophoclesplaysa05campgoog_0099,1789,1794,Anmi.,Q241077,WORK,Q12898761,Antoninus Immè,"{""wikipedia_page"": ""Antoninus Immè"", ""wikidata_id"": ""Q12898761""}",10.571666717529297
+sophoclesplaysa05campgoog_0099,1868,1875,Ten. H.,Q674638,WORK,NIL,Ten. H.,no,0
+sophoclesplaysa05campgoog_0099,2139,2147,Eur. Ion,Q614607,WORK,Q380826,Aelius Herodianus,,18.20343589782715
+sophoclesplaysa05campgoog_0099,2259,2270,Aesch. Prs.,Q788458,WORK,NIL,Aesch. Prs.,No.,0
+sophoclesplaysa05campgoog_0099,2299,2310,Eur. Helen.,Q614607,WORK,Q380826,Aelius Herodianus,,18.900344848632812
+sophoclesplaysa05campgoog_0099,2612,2617,Galea,Q8778,PER,NIL,Galea,no,0
+sophoclesplaysa05campgoog_0099,2626,2630,Κuhn,Q97582,PER,Q110707,Johannes von Kuhn,,20.138885498046875
+sophoclesplaysa05campgoog_0099,2826,2830,Ant.,Q241077,WORK,Q47130,Ennius,"The entity between the [ENT] tags, ""Ant."" appears to be a reference to a specific person or figure. Given the context of the text and the list of candidates provided, the closest match appears to be ""Ennius"" (Q47130), a Roman writer and poet. Here is the JSON-formatted answer: ```json { ""wikipedia_page"": ""Ennius"", ""wikidata_id"": ""Q47130"" } ```",8.299378395080566
+sophoclesplaysa05campgoog_0099,2974,2977,Ph.,Q1415903,WORK,NIL,Ph.,```json {} ```,0
+sophoclesplaysa05campgoog_0099,3003,3006,Of.,Q35160,WORK,Q3997224,English translations of Homer,"Based on the provided text and list of candidates, the entity [ENT] appears to refer to ""English translations of Homer"". This is inferred from the context where it is mentioned alongside references to Homer's works. Therefore, the JSON response is: ```json {""wikipedia_page"":""English translations of Homer"", ""wikidata_id"":""Q3997224""} ```",5.29500675201416
+sophoclesplaysa05campgoog_0102,100,103,Ph.,Q1415903,WORK,NIL,Ph.,No,0
+sophoclesplaysa05campgoog_0102,242,245,Ph.,Q1415903,WORK,Q189597,Philo of Alexandria,"Based on the context and the list of candidates, the entity mentioned in the input text within the [ENT] tags most likely refers to ""Philo of Alexandria"". Therefore, the JSON object is: ```json { ""wikipedia_page"": ""Philo of Alexandria"", ""wikidata_id"": ""Q189597"" } ```",11.43420696258545
+sophoclesplaysa05campgoog_0102,373,376,Ph.,Q1415903,WORK,Q189597,Philo of Alexandria,"```json { ""wikipedia_page"": ""Philo of Alexandria"", ""wikidata_id"": ""Q189597"" } ```",11.00794792175293
+sophoclesplaysa05campgoog_0102,387,390,El.,Q540161,WORK,NIL,El.,no,0
+sophoclesplaysa05campgoog_0102,430,434,Her.,Q26825,PER,NIL,Her.,no,0
+sophoclesplaysa05campgoog_0102,475,480,Q. T.,Q148643,WORK,Q193769,Quintilian,"Based on the input text and the provided list of candidates, the entity mentioned within the [ENT] tags is ""Quintilian."" Therefore, the corresponding Wikidata entity is: ```json {""wikipedia_page"": ""Quintilian"", ""wikidata_id"": ""Q193769""} ```",9.055710792541504
+sophoclesplaysa05campgoog_0102,813,816,Ph.,Q1415903,WORK,NIL,Ph.,no,0
+sophoclesplaysa05campgoog_0102,1007,1010,Tr.,Q945342,WORK,NIL,Tr.,```json {} ```,0
+sophoclesplaysa05campgoog_0102,1056,1059,El.,Q733444,WORK,NIL,El.,```json {} ```,0
+sophoclesplaysa05campgoog_0102,1100,1104,O.C.,Q294001,WORK,NIL,O.C.,"```json { ""wikipedia_page"": """", ""wikidata_id"": """" } ```",0
+sophoclesplaysa05campgoog_0102,1204,1209,Pans.,Q192931,PER,NIL,Pans.,"""no""",0
+sophoclesplaysa05campgoog_0102,1907,1911,O.C.,Q294001,WORK,NIL,O.C.,```json {} ```,0
+sophoclesplaysa05campgoog_0102,1971,1974,Il.,Q8275,WORK,NIL,Il.,no,0
+sophoclesplaysa05campgoog_0102,2168,2174,Athen.,NIL,PER,Q1467610,National Library of Greece,"Based on the provided text and the list of candidates, the most appropriate Wikidata entity for the entity tagged with [ENT] in the text appears to be ""National Library of Greece"". ```json {""wikipedia_page"":""National Library of Greece"", ""wikidata_id"":""Q1467610""} ```",12.056153297424316
+sophoclesplaysa05campgoog_0102,2388,2393,O. T.,Q148643,WORK,NIL,O. T.,"Based on the input text and the list of candidates, the entity mentioned between the [ENT] tags, ""O. T."", does not have a match in the provided list of candidates with high confidence. Therefore, the JSON response is: ```json {} ```",0
+sophoclesplaysa05campgoog_0102,2428,2434,Thebes,Q11225429,LOC,Q5760,Thebes,,18.6480770111084
+sophoclesplaysa05campgoog_0102,2436,2439,El.,Q733444,WORK,NIL,El.,no,0
+sophoclesplaysa05campgoog_0107,241,245,Aπt.,Q241077,WORK,NIL,Aπt.,No,0
+sophoclesplaysa05campgoog_0107,291,301,Eur. F. T.,Q523227,WORK,NIL,Eur. F. T.,no,0
+sophoclesplaysa05campgoog_0107,376,381,O. C.,Q294001,WORK,NIL,O. C.,no,0
+sophoclesplaysa05campgoog_0107,406,414,Pind. P.,Q3411444,WORK,NIL,Pind. P.,No.,0
+sophoclesplaysa05campgoog_0107,909,913,O. T,Q148643,WORK,NIL,O. T,No.,0
+sophoclesplaysa05campgoog_0107,978,989,Eur. Suppl.,Q672319,WORK,NIL,Eur. Suppl.,No,0
+sophoclesplaysa05campgoog_0107,1713,1718,O. 7T,Q148643,WORK,NIL,O. 7T,no,0
+sophoclesplaysa05campgoog_0107,1859,1871,Plat. Phleo.,Q220972,WORK,Q859,Plato,"Based on the provided text and candidates, the entities [ENT] Plat. Phleo. and [ENT] p- 43 refer to Plato and his works respectively. The most appropriate candidates from the list are: - Plato (Wikidata ID: Q859, Wikipedia Page: Plato) - The Consolation of Philosophy (Wikidata ID: Q861927, Wikipedia Page: The Consolation of Philosophy) Returning the JSON: ```json { ""wikipedia_page"": ""Plato"", ""wikidata_id"": ""Q859"" } ``` This disambiguation takes into account the context and the candidates provided.",16.783353805541992

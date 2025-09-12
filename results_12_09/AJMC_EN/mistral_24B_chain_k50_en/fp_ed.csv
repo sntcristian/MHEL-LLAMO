@@ -1,0 +1,81 @@
+doc_id,start_pos,end_pos,surface,gt_id,type,identifier,title,answer,score
+cu31924087948174_0022,75,80,Jahnl,Q66001,PER,Q68062,Johannes Vahlen,"```json {""wikipedia_page"":""Johannes Vahlen"", ""wikidata_id"":""Q68062""} ```",10.604969024658203
+cu31924087948174_0059,54,57,1].,Q8275,WORK,NIL,1].,no.,0
+cu31924087948174_0059,249,252,1].,Q8275,WORK,NIL,1].,No.,0
+cu31924087948174_0059,810,814,Ant.,Q241077,WORK,NIL,Ant.,no,0
+cu31924087948174_0059,980,992,Aesch. Pers.,Q788458,WORK,NIL,Aesch. Pers.,no,0
+cu31924087948174_0059,1043,1046,Ag.,Q3320792,WORK,NIL,Ag.,No,0
+cu31924087948174_0059,1377,1381,Ajax,Q172725,PER,NIL,Ajax,No.,0
+cu31924087948174_0059,1484,1491,Phoebus,Q3382132,PER,Q37340,Apollo,"```json {""wikipedia_page"":""Apollo"", ""wikidata_id"":""Q37340""} ```",17.520896911621094
+cu31924087948174_0059,2066,2075,Sophocles,Q11950683,PER,Q7235,Sophocles,"```json {""wikipedia_page"":""Sophocles"", ""wikidata_id"":""Q7235""} ```",33.509681701660156
+cu31924087948174_0059,2160,2165,Phil.,Q1415903,WORK,NIL,Phil.,No.,0
+cu31924087948174_0059,2314,2318,Ant.,Q241077,WORK,NIL,Ant.,no,0
+cu31924087948174_0060,88,95,Hermann,Q77616,PER,NIL,Hermann,no,0
+cu31924087948174_0060,1166,1177,Eur. Phoen.,Q1233660,WORK,Q20551962,list of plays by Euripides,"```json {""wikipedia_page"":""list of plays by Euripides"", ""wikidata_id"":""Q20551962""} ```",13.59428596496582
+cu31924087948174_0060,2365,2368,11.,Q8275,WORK,NIL,11.,no.,0
+cu31924087948174_0061,147,156,Oed. Tyr.,Q148643,WORK,NIL,Oed. Tyr.,"```json { ""wikipedia_page"": """", ""wikidata_id"": """" } ```",0
+cu31924087948174_0061,985,989,O.T.,Q148643,WORK,NIL,O.T.,No.,0
+cu31924087948174_0061,1126,1135,"Tecmessa,",Q10796858,PER,Q3516977,Tecmessa,"```json {""wikipedia_page"":""Tecmessa"", ""wikidata_id"":""Q3516977""} ```",13.992656707763672
+cu31924087948174_0061,1619,1622,Il.,NIL,WORK,Q8275,Iliad,"```json {""wikipedia_page"": ""Iliad"", ""wikidata_id"": ""Q8275""} ```",11.167954444885254
+cu31924087948174_0061,1872,1876,Ant.,Q241077,WORK,Q947576,Valerius Antias,"```json {""wikipedia_page"":""Valerius Antias"", ""wikidata_id"":""Q947576""} ```",11.30044174194336
+cu31924087948174_0061,1989,2001,Aesch. Prom.,Q846870,WORK,NIL,Aesch. Prom.,no,0
+cu31924087948174_0061,2103,2113,Plat. Rep.,Q123397,WORK,NIL,Plat. Rep.,no.,0
+cu31924087948174_0062,737,746,"Eur, Hec.",Q1115611,WORK,NIL,"Eur, Hec.",No.,0
+cu31924087948174_0062,787,791,"Alc,",Q1246408,WORK,Q212872,Alcaeus of Mytilene,"```json {""wikipedia_page"": ""Alcaeus of Mytilene"", ""wikidata_id"": ""Q212872""} ```",6.571758270263672
+cu31924087948174_0062,918,926,Pind. P.,Q3411444,WORK,Q134929,Pindar,"```json {""wikipedia_page"":""Pindar"", ""wikidata_id"":""Q134929""} ```",9.266938209533691
+cu31924087948174_0075,830,835,Phil.,Q1415903,WORK,NIL,Phil.,no,0
+cu31924087948174_0075,1080,1088,Musgrave,Q7412249,PER,NIL,Musgrave,no,0
+cu31924087948174_0075,1423,1433,Aesch. Ag.,Q3320792,WORK,NIL,Aesch. Ag.,no,0
+cu31924087948174_0075,1637,1646,Sophocles,Q11950683,PER,Q7235,Sophocles,"```json {""wikipedia_page"":""Sophocles"", ""wikidata_id"":""Q7235""} ```",26.73190689086914
+cu31924087948174_0075,1692,1699,Schndw.,Q70043,PER,NIL,Schndw.,no,0
+cu31924087948174_0085,23,27,Ajax,Q172725,PER,NIL,Ajax,No.,0
+cu31924087948174_0088,637,642,Phil.,Q1415903,WORK,NIL,Phil.,No.,0
+cu31924087948174_0088,912,928,Dio Chrys. Orat.,NIL,WORK,Q334457,Dio Chrysostom,"```json {""wikipedia_page"":""Dio Chrysostom"", ""wikidata_id"":""Q334457""} ```",19.818016052246094
+cu31924087948174_0088,1047,1053,Trach.,Q945342,WORK,NIL,Trach.,no,0
+cu31924087948174_0088,1599,1607,Pind. N.,Q27214182,WORK,Q134929,Pindar,"```json {""wikipedia_page"":""Pindar"", ""wikidata_id"":""Q134929""} ```",12.189159393310547
+sophoclesplaysa05campgoog_0099,82,87,O. T.,Q148643,WORK,NIL,O. T.,No.,0
+sophoclesplaysa05campgoog_0099,290,293,Ag.,Q3320792,WORK,NIL,Ag.,no,0
+sophoclesplaysa05campgoog_0099,304,308,Eur.,Q48305,PER,NIL,Eur.,no,0
+sophoclesplaysa05campgoog_0099,310,313,El.,Q540161,WORK,NIL,El.,no,0
+sophoclesplaysa05campgoog_0099,426,443,De Comp. Verborum,Q42188444,WORK,NIL,De Comp. Verborum,no,0
+sophoclesplaysa05campgoog_0099,617,621,Her.,Q26825,PER,NIL,Her.,no,0
+sophoclesplaysa05campgoog_0099,635,650,Plat. Hipp. Ma.,Q634846,WORK,NIL,Plat. Hipp. Ma.,no.,0
+sophoclesplaysa05campgoog_0099,854,864,Porphyrius,Q203445,PER,NIL,Porphyrius,no.,0
+sophoclesplaysa05campgoog_0099,905,914,Hierocles,Q1355265,PER,Q248840,Hierocles of Alexandria,"```json {""wikipedia_page"": ""Hierocles of Alexandria"", ""wikidata_id"": ""Q248840""} ```",25.777101516723633
+sophoclesplaysa05campgoog_0099,934,944,Slob. For.,Q107029507,WORK,NIL,Slob. For.,no,0
+sophoclesplaysa05campgoog_0099,1217,1222,O. T.,Q148643,WORK,NIL,O. T.,no,0
+sophoclesplaysa05campgoog_0099,1229,1232,Ph.,Q1415903,WORK,Q52166,Phaedrus,"```json {""wikipedia_page"":""Phaedrus"", ""wikidata_id"":""Q52166""} ```",7.348326206207275
+sophoclesplaysa05campgoog_0099,1531,1534,P .,Q1415903,WORK,NIL,P .,No,0
+sophoclesplaysa05campgoog_0099,1568,1580,Aesch. P. P.,Q846870,WORK,Q317089,Aeschines,"```json {""wikipedia_page"": ""Aeschines"", ""wikidata_id"": ""Q317089""} ```",11.376433372497559
+sophoclesplaysa05campgoog_0099,1713,1718,O. C.,Q294001,WORK,NIL,O. C.,no,0
+sophoclesplaysa05campgoog_0099,1725,1728,Tr.,Q945342,WORK,NIL,Tr.,no,0
+sophoclesplaysa05campgoog_0099,1789,1794,Anmi.,Q241077,WORK,NIL,Anmi.,No,0
+sophoclesplaysa05campgoog_0099,1868,1875,Ten. H.,Q674638,WORK,NIL,Ten. H.,no,0
+sophoclesplaysa05campgoog_0099,2259,2270,Aesch. Prs.,Q788458,WORK,Q317089,Aeschines,"```json {""wikipedia_page"":""Aeschines"", ""wikidata_id"":""Q317089""} ```",15.444402694702148
+sophoclesplaysa05campgoog_0099,2299,2310,Eur. Helen.,Q614607,WORK,Q1248812,Helen,"```json {""wikipedia_page"": ""Helen"", ""wikidata_id"": ""Q1248812""} ```",16.830881118774414
+sophoclesplaysa05campgoog_0099,2612,2617,Galea,Q8778,PER,NIL,Galea,no.,0
+sophoclesplaysa05campgoog_0099,2626,2630,Κuhn,Q97582,PER,NIL,Κuhn,no,0
+sophoclesplaysa05campgoog_0099,2826,2830,Ant.,Q241077,WORK,NIL,Ant.,no,0
+sophoclesplaysa05campgoog_0099,2974,2977,Ph.,Q1415903,WORK,NIL,Ph.,no,0
+sophoclesplaysa05campgoog_0099,3003,3006,Of.,Q35160,WORK,NIL,Of.,No.,0
+sophoclesplaysa05campgoog_0102,100,103,Ph.,Q1415903,WORK,NIL,Ph.,no,0
+sophoclesplaysa05campgoog_0102,242,245,Ph.,Q1415903,WORK,NIL,Ph.,no,0
+sophoclesplaysa05campgoog_0102,373,376,Ph.,Q1415903,WORK,Q555862,Phaedrus,"```json {""wikipedia_page"":""Phaedrus"", ""wikidata_id"":""Q555862""} ```",10.231782913208008
+sophoclesplaysa05campgoog_0102,387,390,El.,Q540161,WORK,NIL,El.,No.,0
+sophoclesplaysa05campgoog_0102,430,434,Her.,Q26825,PER,NIL,Her.,no,0
+sophoclesplaysa05campgoog_0102,475,480,Q. T.,Q148643,WORK,NIL,Q. T.,no,0
+sophoclesplaysa05campgoog_0102,813,816,Ph.,Q1415903,WORK,NIL,Ph.,no.,0
+sophoclesplaysa05campgoog_0102,1007,1010,Tr.,Q945342,WORK,Q172048,Terence,"```json {""wikipedia_page"":""Terence"", ""wikidata_id"":""Q172048""} ```",8.839591979980469
+sophoclesplaysa05campgoog_0102,1056,1059,El.,Q733444,WORK,NIL,El.,No.,0
+sophoclesplaysa05campgoog_0102,1100,1104,O.C.,Q294001,WORK,NIL,O.C.,No,0
+sophoclesplaysa05campgoog_0102,1907,1911,O.C.,Q294001,WORK,NIL,O.C.,No,0
+sophoclesplaysa05campgoog_0102,2168,2174,Athen.,NIL,PER,Q294923,Athenaeus,"```json {""wikipedia_page"":""Athenaeus"", ""wikidata_id"":""Q294923""} ```",17.011754989624023
+sophoclesplaysa05campgoog_0102,2388,2393,O. T.,Q148643,WORK,NIL,O. T.,no.,0
+sophoclesplaysa05campgoog_0102,2436,2439,El.,Q733444,WORK,NIL,El.,no,0
+sophoclesplaysa05campgoog_0107,241,245,Aπt.,Q241077,WORK,NIL,Aπt.,No,0
+sophoclesplaysa05campgoog_0107,291,301,Eur. F. T.,Q523227,WORK,NIL,Eur. F. T.,no,0
+sophoclesplaysa05campgoog_0107,376,381,O. C.,Q294001,WORK,NIL,O. C.,no,0
+sophoclesplaysa05campgoog_0107,406,414,Pind. P.,Q3411444,WORK,Q134929,Pindar,"```json {""wikipedia_page"":""Pindar"", ""wikidata_id"":""Q134929""} ```",12.479124069213867
+sophoclesplaysa05campgoog_0107,909,913,O. T,Q148643,WORK,NIL,O. T,no.,0
+sophoclesplaysa05campgoog_0107,978,989,Eur. Suppl.,Q672319,WORK,NIL,Eur. Suppl.,no,0
+sophoclesplaysa05campgoog_0107,1713,1718,O. 7T,Q148643,WORK,NIL,O. 7T,no.,0

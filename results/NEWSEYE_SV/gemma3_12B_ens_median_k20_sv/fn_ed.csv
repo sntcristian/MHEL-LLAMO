@@ -85,7 +85,6 @@ hidden_test_sv_2,kooperationsföreningen Labor,5087,5115,ORG,NIL
 hidden_test_sv_2,La.bor,5281,5287,ORG,NIL
 hidden_test_sv_2,fru EsterMalmgren,5484,5501,PER,NIL
 hidden_test_sv_2,afdelnings-kontoret i Mariehamn,5547,5578,LOC,NIL
-hidden_test_sv_2,frökea Ester Sundblom,5628,5649,PER,NIL
 hidden_test_sv_2,aflidne bankdirektörenA. F. Björkman,5778,5814,PER,NIL
 hidden_test_sv_2,Handelsföreningens,5857,5875,ORG,NIL
 hidden_test_sv_2,konsul G.L. Söderström,5903,5925,PER,NIL
@@ -164,7 +163,6 @@ hidden_test_sv_6,norra Kina,5065,5075,LOC,NIL
 hidden_test_sv_6,huvudstadsprovinsenTsjili,5089,5114,LOC,NIL
 hidden_test_sv_6,Hoangn,5189,5195,LOC,NIL
 hidden_test_sv_6,till vissgrad frisinnade Tsjngtsjitungs,5379,5418,PER,NIL
-hidden_test_sv_6,odugliga Pekingregeringen,5536,5561,ORG,NIL
 hidden_test_sv_6,Pekingregeringen,5874,5890,ORG,NIL
 hidden_test_sv_6,Kina,6130,6134,LOC,Q29520
 hidden_test_sv_7,försäkringsinspektören d:r Aug. Ramsay,2329,2367,PER,NIL
@@ -211,7 +209,6 @@ hidden_test_sv_10,Elimä,579,584,LOC,Q1000113
 hidden_test_sv_10,Sundholm,611,619,PER,NIL
 hidden_test_sv_10,kassör Nordling,651,666,PER,NIL
 hidden_test_sv_10,Fiskars,671,678,LOC,Q3503204
-hidden_test_sv_10,Wahlström,703,712,PER,NIL
 hidden_test_sv_10,hotel Wilhelms=bad,727,745,ORG,Q18662881
 hidden_test_sv_10,lektor Nordenskjöld,747,766,PER,NIL
 hidden_test_sv_10,Ewois,771,776,LOC,Q11859204
@@ -219,6 +216,7 @@ hidden_test_sv_10,hotel de Po=ste,780,795,ORG,NIL
 hidden_test_sv_10,handl. Humerus,797,811,PER,NIL
 hidden_test_sv_10,fru Engblom,824,835,PER,NIL
 hidden_test_sv_10,hotel Freden,847,859,ORG,NIL
+hidden_test_sv_10,vice kr:länsm. Holmgren,861,884,PER,NIL
 hidden_test_sv_10,hrr:ne Mannström,895,911,PER,NIL
 hidden_test_sv_10,T:hus,924,929,LOC,Q202158
 hidden_test_sv_10,Lindén,933,939,PER,NIL
@@ -240,7 +238,6 @@ hidden_test_sv_10,T:fors,1206,1212,LOC,Q40840
 hidden_test_sv_10,S. Magasinsgtn 5,1213,1229,LOC,NIL
 hidden_test_sv_10,Wöråpastorat,1398,1410,ORG,NIL
 hidden_test_sv_10,T:fors,1611,1617,LOC,Q40840
-hidden_test_sv_10,T:fors,1900,1906,LOC,Q40840
 hidden_test_sv_11,Gostinni-Dwor,631,644,LOC,Q3052597
 hidden_test_sv_11,Stora Bazaren,652,665,LOC,NIL
 hidden_test_sv_11,Gostinni-Dwor,1698,1711,LOC,Q3052597
@@ -253,7 +250,6 @@ hidden_test_sv_11,Mischa,4789,4795,PER,NIL
 hidden_test_sv_11,Mischas,4814,4821,PER,NIL
 hidden_test_sv_11,Mischas,4844,4851,PER,NIL
 hidden_test_sv_11,Mascha,4896,4902,PER,NIL
-hidden_test_sv_11,Mischas,5004,5011,PER,NIL
 hidden_test_sv_11,nya Alexanders-bezaren,5121,5143,LOC,NIL
 hidden_test_sv_11,Mischa,5197,5203,PER,NIL
 hidden_test_sv_11,grannens Agrafisna,5223,5241,PER,NIL
@@ -272,7 +268,6 @@ hidden_test_sv_12,Komorn,1101,1107,LOC,Q625154
 hidden_test_sv_12,Ferdinand V.,1390,1402,PER,Q183579
 hidden_test_sv_12,Ferdinand V.,1410,1422,PER,Q183579
 hidden_test_sv_12,Schwartzenberg=Stadions,1620,1643,LOC,NIL
-hidden_test_sv_12,Ryßland,2169,2176,LOC,Q34266
 hidden_test_sv_12,Öst. Lloyd,2405,2415,PROD,NIL
 hidden_test_sv_12,Siebenbürgens,2478,2491,LOC,Q39473
 hidden_test_sv_12,Guerazzi,2662,2670,LOC,Q518925

@@ -1,0 +1,82 @@
+doc_id,start_pos,end_pos,surface,gt_id,type,identifier,title,answer,score
+Wecklein1894_0008,487,496,Sophokles,Q11950683,PER,Q7235,Sophokles,,0
+Wecklein1894_0008,534,542,Θροῇσσαι,NIL,WORK,Q1216943,Die Troerinnen,,0
+Wecklein1894_0008,581,599,"Stüc>""OnJw» κοίσις",NIL,WORK,Q1216139,Die Schutzflehenden,"```json {""wikipedia_page"":""Die Schutzflehenden"", ""wikidata_id"":""Q1216139""} ```",13.325203895568848
+Wecklein1894_0008,622,632,Σαλαμίνιαι,NIL,WORK,Q113157511,,,0
+Wecklein1894_0008,654,666,Ὅπλων κρίσις,NIL,WORK,Q30648004,Schlacht am Halys,,0
+Wecklein1894_0008,771,778,Θοῇσσαι,NIL,WORK,Q1216943,Die Troerinnen,"```json {""wikipedia_page"":""Die Troerinnen"", ""wikidata_id"":""Q1216943""} ```",20.1666316986084
+Wecklein1894_0008,897,906,Sophokles,Q11950683,PER,Q7235,Sophokles,,0
+Wecklein1894_0008,1059,1068,Sophokles,Q11950683,PER,Q7235,Sophokles,,0
+Wecklein1894_0008,1665,1674,Sophokles,Q11950683,PER,Q7235,Sophokles,,0
+Wecklein1894_0022,31,35,Ant.,Q241077,WORK,NIL,Ant.,"``` {""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL""} ```",0
+Wecklein1894_0022,289,294,Phil.,Q1415903,WORK,Q40634,Philologie,"```json {""wikipedia_page"":""Philologie"", ""wikidata_id"":""Q40634""} ```",13.501768112182617
+Wecklein1894_0022,723,729,Benob.,Q189699,PER,Q3816169,Eugène Benoist,"```json {""wikipedia_page"":""Eugène Benoist"", ""wikidata_id"":""Q3816169""} ```",12.9942626953125
+Wecklein1894_0022,1077,1081,Ant.,Q241077,WORK,Q294923,Athenaios,"```json {""wikipedia_page"": ""Athenaios"", ""wikidata_id"": ""Q294923""} ```",10.615739822387695
+Wecklein1894_0022,1502,1511,Eur. Med.,Q286381,WORK,NIL,Eur. Med.,"```json { ""wikipedia_page"": ""Euripides"", ""wikidata_id"": ""Q73836"" } ```",0
+Wecklein1894_0023,251,260,Eur. Hek.,Q1115611,WORK,NIL,Eur. Hek.,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+Wecklein1894_0023,631,635,Ant.,Q241077,WORK,Q272006,Antaios,"```json {""wikipedia_page"":""Antaios"", ""wikidata_id"":""Q272006""} ```",9.082746505737305
+Wecklein1894_0023,1325,1329,Eur.,Q48305,PER,NIL,Eur.,"```json {""wikipedia_page"":""Euripides"", ""wikidata_id"":""Q6995""} ```",0
+Wecklein1894_0031,368,373,Herm.,Q77616,PER,Q436049,Hermias,"```json {""wikipedia_page"":""Hermias"", ""wikidata_id"":""Q436049""} ```",12.131162643432617
+Wecklein1894_0039,53,58,Phil.,Q1415903,WORK,NIL,Phil.,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+Wecklein1894_0039,301,311,Äſch. Cho.,Q11688406,WORK,NIL,Äſch. Cho.,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+Wecklein1894_0039,660,667,Teukros,Q878184,PER,Q1513788,Teukros,"```json { ""wikipedia_page"":""Teukros"", ""wikidata_id"":""Q1513788"" } ```",17.577260971069336
+Wecklein1894_0039,747,754,Teukros,Q878184,PER,Q1513788,Teukros,"```json {""wikipedia_page"":""Teukros"", ""wikidata_id"":""Q1513788""} ```",15.598075866699219
+sophokle1v3soph_0049,96,99,11.,Q8275,WORK,NIL,11.,"```json {""wikipedia_page"":"""",""wikidata_id"":""NIL""} ```",0
+sophokle1v3soph_0049,156,160,Aias,Q242319,PER,Q172725,Aias der Telamonier,,0
+sophokle1v3soph_0049,436,439,11.,Q8275,WORK,Q1658482,"Ilias, 11. Buch","```json {""wikipedia_page"":""Ilias, 11. Buch"", ""wikidata_id"":""Q1658482""} ```",4.750767230987549
+sophokle1v3soph_0049,775,780,Soph.,Q11950683,PER,Q7235,Sophokles,"```json { ""wikipedia_page"": ""Sophokles"", ""wikidata_id"": ""Q7235"" } ```",16.859970092773438
+sophokle1v3soph_0049,876,881,O. R.,Q148643,WORK,NIL,O. R.,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+sophokle1v3soph_0049,1068,1072,Ant.,Q241077,WORK,Q272006,Antaios,"```json {""wikipedia_page"": ""Antaios"", ""wikidata_id"": ""Q272006""} ```",9.50944709777832
+sophokle1v3soph_0051,5,8,El.,Q733444,WORK,Q1105969,Codex Eliensis,"```json {""wikipedia_page"":""Codex Eliensis"", ""wikidata_id"":""Q1105969""} ```",6.437738418579102
+sophokle1v3soph_0051,328,331,Od.,Q47231,PER,Q35160,Odyssee,"```json { ""wikipedia_page"": ""Odyssee"", ""wikidata_id"": ""Q35160"" } ```",14.679041862487793
+sophokle1v3soph_0051,1274,1278,Ant.,Q241077,WORK,Q582896,Antiquitas,"```json {""wikipedia_page"":""Antiquitas"",""wikidata_id"":""Q582896""} ```",6.195355415344238
+Wecklein1894_0055,296,300,Ant.,Q241077,WORK,Q272006,Antaios,"```json {""wikipedia_page"":""Antaios"", ""wikidata_id"":""Q272006""} ```",10.70645523071289
+Wecklein1894_0055,1074,1078,Ant.,Q241077,WORK,Q335560,Antiphon von Rhamnus,"```json {""wikipedia_page"":""Antiphon von Rhamnus"", ""wikidata_id"":""Q335560""} ```",7.758544921875
+Wecklein1894_0063,321,327,Öd. T.,Q148643,WORK,Q35160,Odyssee,"```json {""wikipedia_page"": ""Odyssee"", ""wikidata_id"": ""Q35160""} ```",11.431132316589355
+Wecklein1894_0063,725,728,El.,Q733444,WORK,Q8275,Ilias,"```json {""wikipedia_page"":""Ilias"", ""wikidata_id"":""Q8275""} ```",7.398914337158203
+sophokle1v3soph_0067,47,52,Phil.,Q1415903,WORK,NIL,Phil.,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+sophokle1v3soph_0067,59,63,Ant.,Q241077,WORK,Q272006,Antaios,"```json {""wikipedia_page"":""Antaios"", ""wikidata_id"":""Q272006""} ```",12.39222526550293
+sophokle1v3soph_0067,244,249,Phil.,Q1415903,WORK,NIL,Phil.,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+sophokle1v3soph_0067,461,465,Ant.,Q241077,WORK,Q272006,Antaios,"```json {""wikipedia_page"": ""Antaios"", ""wikidata_id"": ""Q272006""} ```",9.758856773376465
+sophokle1v3soph_0067,470,480,Aesch. Ag.,Q3320792,WORK,NIL,Aesch. Ag.,"```json {""wikipedia_page"":""Aeschylus"", ""wikidata_id"":""NIL""} ```",0
+sophokle1v3soph_0067,512,514,1.,Q8275,WORK,NIL,1.,"```json { ""wikipedia_page"": """", ""wikidata_id"": ""NIL"" } ```",0
+sophokle1v3soph_0067,1100,1103,El.,Q733444,WORK,Q1248812,Helena,"```json {""wikipedia_page"": ""Helena"", ""wikidata_id"": ""Q1248812""} ```",8.325956344604492
+sophokle1v3soph_0067,1560,1575,Soph. Laocoont.,NIL,WORK,Q7235,Sophokles,"```json {""wikipedia_page"":""Sophokles"", ""wikidata_id"":""Q7235""} ```",12.2384033203125
+sophokle1v3soph_0075,466,472,Trach.,Q945342,WORK,Q1057414,Trachis,"```json { ""wikipedia_page"": ""Trachis"", ""wikidata_id"": ""Q1057414"" } ```",11.537909507751465
+sophokle1v3soph_0075,499,504,O. R.,Q148643,WORK,NIL,O. R.,"```json {""wikipedia_page"": ""NIL"", ""wikidata_id"":""NIL""} ```",0
+sophokle1v3soph_0075,742,747,0. (.,Q294001,WORK,Q1829133,Liste der Abkürzungen antiker Autoren und Werktitel/O,"```json {""wikipedia_page"": ""Liste der Abkürzungen antiker Autoren und Werktitel/O"", ""wikidata_id"": ""Q1829133""} ```",4.036810398101807
+sophokle1v3soph_0075,865,870,Phil.,Q1415903,WORK,NIL,Phil.,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+sophokle1v3soph_0075,970,978,Odysseus,Q35160,PER,Q47231,Odysseus,,0
+sophokle1v3soph_0075,981,988,Hermann,Q77616,PER,Q68490,Hermann von Reichenau,"```json {""wikipedia_page"":""Hermann von Reichenau"", ""wikidata_id"":""Q68490""} ```",11.58575439453125
+sophokle1v3soph_0075,1050,1053,Od.,Q35160,WORK,Q47231,Odysseus,"```json {""wikipedia_page"":""Odysseus"", ""wikidata_id"":""Q47231""} ```",12.227553367614746
+sophokle1v3soph_0075,1084,1088,Ant.,Q241077,WORK,Q132100,Anterus,"```json {""wikipedia_page"": ""Anterus"", ""wikidata_id"": ""Q132100""} ```",7.3584184646606445
+sophokle1v3soph_0075,1180,1185,0. C.,Q294001,WORK,NIL,0. C.,"```json { ""wikipedia_page"": """", ""wikidata_id"": ""NIL"" } ```",0
+sophokle1v3soph_0075,1230,1238,Odysseus,Q35160,PER,Q47231,Odysseus,,0
+sophokle1v3soph_0075,1421,1426,O. R.,Q148643,WORK,Q35160,Odyssee,"```json {""wikipedia_page"":""Odyssee"", ""wikidata_id"":""Q35160""} ```",6.523137092590332
+sophokle1v3soph_0083,368,372,Atas,Q172725,PER,Q15816352,Atas,"```json {""wikipedia_page"": ""Atas"", ""wikidata_id"": ""Q15816352""} ```",14.075122833251953
+sophokle1v3soph_0083,385,392,Teukros,Q878184,PER,Q1513788,Teukros,"```json {""wikipedia_page"":""Teukros"", ""wikidata_id"":""Q1513788""} ```",17.262039184570312
+sophokle1v3soph_0083,446,451,O. ἢ.,Q148643,WORK,Q2008292,O (Interjektion),"```json {""wikipedia_page"": ""O (Interjektion)"", ""wikidata_id"": ""Q2008292""} ```",7.866553783416748
+sophokle1v3soph_0083,485,493,BDindorf,Q67533,PER,Q1874309,Ludwig Dindorf,"```json { ""wikipedia_page"": ""Ludwig Dindorf"", ""wikidata_id"": ""Q1874309"" } ```",18.712583541870117
+sophokle1v3soph_0083,771,776,Phil.,Q1415903,WORK,NIL,Phil.,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+sophokle1v3soph_0083,1249,1262,Aesch. Sieben,Q506546,WORK,Q40939,Aischylos,"```json {""wikipedia_page"":""Aischylos"", ""wikidata_id"":""Q40939""} ```",8.181652069091797
+sophokle1v3soph_0083,1301,1306,0. €.,Q294001,WORK,Q204,0,"```json {""wikipedia_page"": ""Zahl"", ""wikidata_id"": ""Q204""} ```",4.573806285858154
+sophokle1v3soph_0083,1400,1405,Tekm.,Q10796858,PER,NIL,Tekm.,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+sophokle1v3soph_0083,1435,1439,Aias,Q172725,PER,Q242319,Aias der Lokrer,"```json {""wikipedia_page"":""Aias der Lokrer"", ""wikidata_id"":""Q242319""} ```",16.076766967773438
+sophokle1v3soph_0083,1496,1503,Teukros,Q878184,PER,Q1513788,Teukros,"```json {""wikipedia_page"":""Teukros"", ""wikidata_id"":""Q1513788""} ```",13.6060152053833
+sophokle1v3soph_0083,1579,1583,Ant.,Q241077,WORK,NIL,Ant.,"```json {""wikipedia_page"": ""Antigonos von Karistos"", ""wikidata_id"": ""NIL""} ```",0
+sophokle1v3soph_0083,1592,1595,El.,Q733444,WORK,NIL,El.,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+sophokle1v3soph_0092,252,255,11.,Q8275,WORK,Q1658482,"Ilias, 11. Buch","```json {""wikipedia_page"":""Ilias, 11. Buch"", ""wikidata_id"":""Q1658482""} ```",4.081837177276611
+sophokle1v3soph_0092,691,696,0. C.,Q294001,WORK,NIL,0. C.,"```json { ""wikipedia_page"": """", ""wikidata_id"": ""NIL"" } ```",0
+sophokle1v3soph_0092,777,784,500. C.,Q294001,WORK,Q12899100,C.,"```json {""wikipedia_page"":""C."", ""wikidata_id"":""Q12899100""} ```",6.335058689117432
+sophokle1v3soph_0092,856,864,Eur. Ion,Q614607,WORK,Q504165,Ionisches Griechisch,"```json {""wikipedia_page"": ""Ionisches Griechisch"", ""wikidata_id"": ""Q504165""} ```",9.248092651367188
+sophokle1v3soph_0092,1043,1058,Eur. Herc. Fur.,Q1233835,WORK,Q167297,Codex Euricianus,"```json { ""wikipedia_page"": ""Codex Euricianus"", ""wikidata_id"": ""Q167297"" } ```",11.243724822998047
+sophokle1v3soph_0092,1164,1167,El.,Q733444,WORK,Q1248812,Helena,"```json {""wikipedia_page"":""Helena"", ""wikidata_id"":""Q1248812""} ```",6.341782569885254
+sophokle1v3soph_0092,1309,1312,El.,Q733444,WORK,Q1248812,Helena,"```json {""wikipedia_page"": ""Helena"", ""wikidata_id"": ""Q1248812""} ```",6.371167182922363
+sophokle1v3soph_0092,1531,1540,Sophokles,NIL,PER,Q7235,Sophokles,,0
+sophokle1v3soph_0092,1592,1597,O. C.,Q294001,WORK,Q119310,Johann Caspar von Orelli,"```json { ""wikipedia_page"": ""Johann Caspar von Orelli"", ""wikidata_id"": ""Q119310"" } ```",6.986063480377197
+sophokle1v3soph_0092,1612,1617,Phil.,Q1415903,WORK,NIL,Phil.,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+sophokle1v3soph_0092,1623,1629,O0. R.,Q148643,WORK,Q110363098,Opera Omnia,"```json {""wikipedia_page"":""Opera Omnia"", ""wikidata_id"":""Q110363098""} ```",7.071699619293213
+sophokle1v3soph_0092,1635,1639,Ant.,Q241077,WORK,NIL,Ant.,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+sophokle1v3soph_0108,16,20,Ant.,Q241077,WORK,NIL,Ant.,"```json {""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL""} ```",0
+sophokle1v3soph_0108,77,82,Alhen,Q1524,LOC,NIL,Alhen,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+sophokle1v3soph_0108,642,644,A.,Q172725,PER,NIL,A.,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0

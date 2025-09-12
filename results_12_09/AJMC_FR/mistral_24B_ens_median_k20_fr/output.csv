@@ -1,0 +1,201 @@
+doc_id,start_pos,end_pos,surface,gt_id,type,identifier,title,answer,score
+lestragdiesdeso00tourgoog_0064,94,100,Homère,Q6691,PER,Q6691,Homère,,0
+lestragdiesdeso00tourgoog_0064,102,110,Euripide,Q48305,PER,Q48305,Euripide,,0
+lestragdiesdeso00tourgoog_0064,161,173,Iphig. Taur.,Q523227,WORK,Q523227,Iphigénie en Tauride,"```json {""wikipedia_page"":""Iphigénie en Tauride"", ""wikidata_id"":""Q523227""} ```",17.0914306640625
+lestragdiesdeso00tourgoog_0064,211,219,Euripide,Q48305,PER,Q48305,Euripide,,0
+lestragdiesdeso00tourgoog_0064,223,235,Phéniciennes,Q1233660,WORK,Q1233660,Les Phéniciennes,"```json { ""wikipedia_page"": ""Les Phéniciennes"", ""wikidata_id"": ""Q1233660"" } ```",17.06334686279297
+lestragdiesdeso00tourgoog_0064,350,356,Lobeck,Q84734,PER,Q84734,Christian Lobeck,"```json { ""wikipedia_page"": ""Christian Lobeck"", ""wikidata_id"": ""Q84734"" } ```",16.568389892578125
+lestragdiesdeso00tourgoog_0064,462,468,Laërte,Q748296,PER,Q748296,Laërte,"```json {""wikipedia_page"":""Laërte"", ""wikidata_id"":""Q748296""} ```",17.27619171142578
+lestragdiesdeso00tourgoog_0064,658,665,Ellendt,Q18411800,PER,Q18411557,Johann Ernst Ellendt,,0
+lestragdiesdeso00tourgoog_0064,696,702,ϑυϊάλ5,Q1534037,PER,NIL,ϑυϊάλ5,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+lestragdiesdeso00tourgoog_0064,729,737,Andocide,Q391654,PER,Q391654,Andocide,,0
+lestragdiesdeso00tourgoog_0064,739,764,discours Sur les Mystères,Q87737021,WORK,NIL,discours Sur les Mystères,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+lestragdiesdeso00tourgoog_0064,1249,1256,Eschine,Q317089,PER,Q317089,Eschine,,0
+lestragdiesdeso00tourgoog_0064,1258,1282,Discours contre Timurque,Q2995964,WORK,Q2995964,Contre Timarque,,0
+lestragdiesdeso00tourgoog_0064,1329,1333,Ajux,Q172725,PER,Q172725,Ajax,"```json { ""wikipedia_page"": ""Ajax"", ""wikidata_id"": ""Q172725"" } ```",14.708311080932617
+lestragdiesdeso00tourgoog_0067,11,18,Ellendt,Q18411800,PER,NIL,Ellendt,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+lestragdiesdeso00tourgoog_0067,205,212,Linwood,NIL,PER,Q18668613,William Linwood,,0
+lestragdiesdeso00tourgoog_0067,217,242,hymne homérique à Apollon,Q3798932,WORK,Q215484,hymne olympique,,0
+lestragdiesdeso00tourgoog_0067,251,264,"Lemnos,lcarie",Q209576,LOC,Q192483,Lemnos,"```json {""wikipedia_page"":""Lemnos"", ""wikidata_id"":""Q192483""} ```",12.726658821105957
+lestragdiesdeso00tourgoog_0067,266,272,Nhodes,Q43048,LOC,Q43048,Rhodes,"```json { ""wikipedia_page"": ""Rhodes"", ""wikidata_id"": ""Q43048"" } ```",12.140798568725586
+lestragdiesdeso00tourgoog_0067,276,281,Cnide,Q690575,LOC,Q690575,Cnide,"```json {""wikipedia_page"":""Cnide"", ""wikidata_id"":""Q690575""} ```",16.19046401977539
+lestragdiesdeso00tourgoog_0067,287,297,les Perses,Q788458,WORK,Q788458,Les Perses,,0
+lestragdiesdeso00tourgoog_0067,300,307,Eschyle,Q40939,PER,Q40939,Eschyle,,0
+lestragdiesdeso00tourgoog_0067,435,446,Schneidewin,Q70043,PER,Q70043,Friedrich Wilhelm Schneidewin,,0
+lestragdiesdeso00tourgoog_0067,608,613,Phil.,Q1415903,WORK,Q504771,Philon de Byblos,,0
+lestragdiesdeso00tourgoog_0067,641,647,Rhésus,Q667750,WORK,Q1061782,Rhésos,,0
+lestragdiesdeso00tourgoog_0067,678,681,ſi.,Q8275,WORK,NIL,ſi.,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+lestragdiesdeso00tourgoog_0067,729,737,fragment,NIL,WORK,Q1440453,fragment,"```json {""wikipedia_page"":""fragment"", ""wikidata_id"":""Q1440453""} ```",12.527305603027344
+lestragdiesdeso00tourgoog_0067,740,747,Eupolis,Q459517,PER,Q459517,Eupolis,,0
+lestragdiesdeso00tourgoog_0067,871,877,Lobeck,Q84734,PER,Q84734,Christian Lobeck,,0
+lestragdiesdeso00tourgoog_0067,993,1010,Physiognomoniques,Q3303903,WORK,Q841933,physiognomonie,,0
+lestragdiesdeso00tourgoog_0067,1013,1024,"d’Aristote,",Q868,PER,NIL,"d’Aristote,","```json {""wikipedia_page"":""Physiognomoniques"", ""wikidata_id"":""NIL""} ```",0
+lestragdiesdeso00tourgoog_0067,1035,1046,Aristophane,Q43353,PER,Q43353,Aristophane,,0
+lestragdiesdeso00tourgoog_0067,1048,1058,Chevaliers,Q1215817,WORK,Q1056721,chevalerie,,0
+lestragdiesdeso00tourgoog_0067,1093,1108,OEdipe ἃ Οοίοπε,Q294001,WORK,Q130890,Œdipe,,0
+lestragdiesdeso00tourgoog_0067,1499,1507,Euripide,Q48305,PER,Q48305,Euripide,,0
+lestragdiesdeso00tourgoog_0067,1509,1526,Iphigénie & Aulis,Q1233770,WORK,Q1233770,Iphigénie à Aulis,"```json {""wikipedia_page"":""Iphigénie à Aulis"", ""wikidata_id"":""Q1233770""} ```",17.319406509399414
+lestragdiesdeso00tourgoog_0067,1783,1789,Wunder,Q15438962,PER,Q15438962,Eduard Wunder,"```json { ""wikipedia_page"": ""Eduard Wunder"", ""wikidata_id"": ""Q15438962"" } ```",11.152718544006348
+lestragdiesdeso00tourgoog_0067,1949,1955,Wander,Q15438962,PER,NIL,Wander,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+lestragdiesdeso00tourgoog_0081,312,319,Athènes,Q1524,LOC,Q1524,Athènes,,0
+lestragdiesdeso00tourgoog_0081,325,332,Électre,Q733444,WORK,Q131651,Électre,,0
+lestragdiesdeso00tourgoog_0081,478,486,OEd. Ro:,Q148643,WORK,Q44996,Oxford English Dictionary,"```json {""wikipedia_page"":""Oxford English Dictionary"", ""wikidata_id"":""Q44996""} ```",8.962345123291016
+lestragdiesdeso00tourgoog_0089,133,143,ΟΕ Δ. (οί.,Q294001,WORK,Q380826,Aelius Herodianus,"```json {""wikipedia_page"":""Aelius Herodianus"", ""wikidata_id"":""Q380826""} ```",8.254822731018066
+lestragdiesdeso00tourgoog_0089,171,183,ISehneidewin,Q70043,PER,Q666863,Joseph Ijsewijn,"```json { ""wikipedia_page"": ""Joseph Ijsewijn"", ""wikidata_id"": ""Q666863"" } ```",12.161478042602539
+lestragdiesdeso00tourgoog_0089,474,480,Wunder,Q15438962,PER,NIL,Wunder,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+lestragdiesdeso00tourgoog_0089,540,551,Schneidewin,Q70043,PER,Q70043,Friedrich Wilhelm Schneidewin,,0
+lestragdiesdeso00tourgoog_0089,642,648,Teucer,Q878184,PER,Q878184,Teucros,,0
+lestragdiesdeso00tourgoog_0089,651,658,Ménélas,Q171839,PER,Q171839,Ménélas,"```json {""wikipedia_page"":""Ménélas"", ""wikidata_id"":""Q171839""} ```",17.428333282470703
+lestragdiesdeso00tourgoog_0089,893,900,Électre,Q733444,WORK,Q131651,Électre,,0
+lestragdiesdeso00tourgoog_0089,970,981,Scbneidewin,Q70043,PER,Q70043,Friedrich Wilhelm Schneidewin,"```json {""wikipedia_page"":""Friedrich Wilhelm Schneidewin"", ""wikidata_id"":""Q70043""} ```",10.289529800415039
+lestragdiesdeso00tourgoog_0089,1190,1198,"QEd, Roi",Q148643,WORK,Q19760085,Le Livre au roi,"```json {""wikipedia_page"":""Le Livre au roi"", ""wikidata_id"":""Q19760085""} ```",6.348285675048828
+lestragdiesdeso00tourgoog_0097,29,36,Odyssée,Q35160,WORK,Q35160,Odyssée,,0
+lestragdiesdeso00tourgoog_0097,223,231,Eustathe,Q453465,PER,Q453465,Eustathe de Thessalonique,,0
+lestragdiesdeso00tourgoog_0097,652,661,"Hérodote,",Q26825,PER,Q26825,Hérodote,,0
+lestragdiesdeso00tourgoog_0097,732,741,Eurysacés,Q1378566,PER,Q1378566,Eurysacès,,0
+lestragdiesdeso00tourgoog_0097,903,909,Iliade,Q8275,WORK,Q8275,Iliade,,0
+lestragdiesdeso00tourgoog_0097,1067,1073,Attius,Q311287,PER,Q311733,Atticus,,0
+lestragdiesdeso00tourgoog_0097,1080,1087,Macrobe,Q313934,PER,Q313934,Macrobe,"```json { ""wikipedia_page"": ""Macrobe"", ""wikidata_id"": ""Q313934"" } ```",17.477510452270508
+lestragdiesdeso00tourgoog_0097,1143,1150,Virgile,Q1398,PER,Q1398,Virgile,,0
+lestragdiesdeso00tourgoog_0097,1152,1158,Énéide,Q60220,WORK,Q60220,Énéide,,0
+lestragdiesdeso00tourgoog_0097,1270,1278,Sophocle,Q11950683,PER,Q7235,Sophocle,,0
+lestragdiesdeso00tourgoog_0097,1340,1347,ÆRacine,Q742,PER,Q742,Jean Racine,"```json {""wikipedia_page"":""Jean Racine"", ""wikidata_id"":""Q742""} ```",13.39627742767334
+lestragdiesdeso00tourgoog_0097,1496,1505,OEd. Col.,Q294001,WORK,Q44996,Oxford English Dictionary,"```json {""wikipedia_page"":""Oxford English Dictionary"", ""wikidata_id"":""Q44996""} ```",11.232306480407715
+lestragdiesdeso00tourgoog_0097,1614,1625,Schneidewin,Q70043,PER,Q70043,Friedrich Wilhelm Schneidewin,,0
+lestragdiesdeso00tourgoog_0097,1660,1673,Trachiniennes,Q945342,WORK,Q945342,Les Trachiniennes,,0
+lestragdiesdeso00tourgoog_0097,1816,1824,»λίϊοοί.,Q1415903,WORK,Q465331,Ioniens,"```json {""wikipedia_page"":""Ioniens"", ""wikidata_id"":""Q465331""} ```",3.089106559753418
+lestragdiesdeso00tourgoog_0097,1883,1894,Schneidewin,Q70043,PER,Q70043,Friedrich Wilhelm Schneidewin,,0
+lestragdiesdeso00tourgoog_0097,1979,1986,Dindorf,Q67533,PER,Q1539802,Gottlieb Immanuel Dindorf,,0
+lestragdiesdeso00tourgoog_0121,410,417,Hermann,Q77616,PER,NIL,Hermann,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+lestragdiesdeso00tourgoog_0121,421,428,Ellendt,Q18411557,PER,Q454743,Johann Heinrich Alsted,"```json {""wikipedia_page"":""Johann Heinrich Alsted"", ""wikidata_id"":""Q454743""} ```",10.934629440307617
+lestragdiesdeso00tourgoog_0121,467,480,OEd. à Colone,Q294001,WORK,Q430486,Oxford Classical Dictionary,"```json {""wikipedia_page"":""Oxford Classical Dictionary"", ""wikidata_id"":""Q430486""} ```",8.457865715026855
+lestragdiesdeso00tourgoog_0121,488,494,Wunder,Q15438962,PER,Q15438962,Eduard Wunder,"```json {""wikipedia_page"":""Eduard Wunder"", ""wikidata_id"":""Q15438962""} ```",11.701133728027344
+lestragdiesdeso00tourgoog_0121,498,511,Schneidewin.],Q70043,PER,Q70043,Friedrich Wilhelm Schneidewin,"```json {""wikipedia_page"": ""Friedrich Wilhelm Schneidewin"", ""wikidata_id"": ""Q70043""} ```",17.193265914916992
+lestragdiesdeso00tourgoog_0121,542,550,Tecmesse,Q10796858,PER,Q3516977,Tecmesse,"```json {""wikipedia_page"": ""Tecmesse"", ""wikidata_id"": ""Q3516977""} ```",15.94774055480957
+lestragdiesdeso00tourgoog_0121,573,577,Ajax,Q172725,PER,Q172725,Ajax,"```json {""wikipedia_page"":""Ajax"", ""wikidata_id"":""Q172725""} ```",15.20469856262207
+lestragdiesdeso00tourgoog_0121,870,877,Élecrrc,Q733444,WORK,Q131651,Électre,"```json {""wikipedia_page"":""Électre"", ""wikidata_id"":""Q131651""} ```",8.920804977416992
+lestragdiesdeso00tourgoog_0024,532,539,Elmsley,Q7173848,PER,Q42887230,William Jackson Elmslie,,0
+lestragdiesdeso00tourgoog_0024,543,551,Gaisford,Q2424118,PER,Q2424118,Thomas Gaisford,,0
+lestragdiesdeso00tourgoog_0024,722,728,Oxford,Q34217,LOC,Q34217,Oxford,,0
+lestragdiesdeso00tourgoog_0024,732,749,Guillaume Dindorf,Q67533,PER,Q1539802,Gottlieb Immanuel Dindorf,,0
+lestragdiesdeso00tourgoog_0024,810,817,Elmsley,Q7173848,PER,Q7173848,Peter Elmsley,,0
+lestragdiesdeso00tourgoog_0024,821,829,Gaisford,Q2424118,PER,Q2424118,Thomas Gaisford,,0
+lestragdiesdeso00tourgoog_0024,1003,1023,Démétrius Triclinius,Q2987520,PER,Q2987520,Démétrios Triclinios,,0
+lestragdiesdeso00tourgoog_0024,1204,1212,"Dindorf,",Q67533,PER,Q67533,Karl Wilhelm Dindorf,"```json { ""wikipedia_page"": ""Karl Wilhelm Dindorf"", ""wikidata_id"": ""Q67533"" } ```",16.45578384399414
+lestragdiesdeso00tourgoog_0024,1221,1232,Schneidewin,Q70043,PER,Q70043,Friedrich Wilhelm Schneidewin,,0
+lestragdiesdeso00tourgoog_0024,1247,1252,Nauck,Q95964,PER,Q95964,August Nauck,,0
+lestragdiesdeso00tourgoog_0024,1271,1282,Schneidewin,Q70043,PER,Q70043,Friedrich Wilhelm Schneidewin,,0
+lestragdiesdeso00tourgoog_0024,2061,2072,Schneidewin,Q70043,PER,Q70043,Friedrich Wilhelm Schneidewin,,0
+lestragdiesdeso00tourgoog_0024,2083,2088,Nauck,Q95964,PER,Q15435206,Hugo Nauck,,0
+lestragdiesdeso00tourgoog_0025,419,425,Wunder,Q15438962,PER,Q15438962,Eduard Wunder,"```json {""wikipedia_page"":""Eduard Wunder"", ""wikidata_id"":""Q15438962""} ```",14.410176277160645
+lestragdiesdeso00tourgoog_0025,509,517,Sophocle,Q7235,PER,Q7235,Sophocle,,0
+lestragdiesdeso00tourgoog_0025,1014,1018,Rhin,Q21198444,LOC,Q584,Rhin,,0
+lestragdiesdeso00tourgoog_0025,1473,1477,Neue,NIL,PER,Q124711,Christian Friedrich Neue,,0
+lestragdiesdeso00tourgoog_0025,1529,1535,France,Q142,LOC,Q142,France,,0
+lestragdiesdeso00tourgoog_0025,1602,1606,Neue,NIL,PER,Q124711,Christian Friedrich Neue,,0
+lestragdiesdeso00tourgoog_0025,1694,1702,Sophocle,Q7235,PER,Q7235,Sophocle,,0
+lestragdiesdeso00tourgoog_0025,1883,1891,Sophocle,Q7235,PER,Q7235,Sophocle,,0
+lestragdiesdeso00tourgoog_0025,1894,1902,Sophocle,Q7235,PER,Q7235,Sophocle,,0
+lestragdiesdeso00tourgoog_0025,2008,2012,Neue,NIL,PER,Q124711,Christian Friedrich Neue,"```json { ""wikipedia_page"": ""Christian Friedrich Neue"", ""wikidata_id"": ""Q124711"" } ```",15.345009803771973
+lestragdiesdeso00tourgoog_0138,366,374,Antigone,Q241077,WORK,Q241077,Antigone,,0
+lestragdiesdeso00tourgoog_0138,410,417,Eschyle,Q40939,PER,Q40939,Eschyle,,0
+lestragdiesdeso00tourgoog_0138,419,428,Agamemnon,Q3320792,WORK,Q128176,Agamemnon,,0
+lestragdiesdeso00tourgoog_0138,578,584,Eurip.,Q48305,PER,Q48305,Euripide,,0
+lestragdiesdeso00tourgoog_0138,587,594,Androm.,Q512802,WORK,Q512802,Andromaque,"```json {""wikipedia_page"":""Andromaque"", ""wikidata_id"":""Q512802""} ```",15.839444160461426
+lestragdiesdeso00tourgoog_0138,600,607,Heracl.,Q1233835,WORK,Q41155,Héraclite,,0
+lestragdiesdeso00tourgoog_0138,616,624,Sophocl.,Q7235,PER,Q7235,Sophocle,,0
+lestragdiesdeso00tourgoog_0138,627,635,Trachin.,Q1049466,WORK,Q945342,Les Trachiniennes,"```json {""wikipedia_page"":""Les Trachiniennes"", ""wikidata_id"":""Q945342""} ```",17.803478240966797
+lestragdiesdeso00tourgoog_0138,657,664,T. Liv.,Q2039,PER,Q2039,Tite-Live,,0
+lestragdiesdeso00tourgoog_0138,678,685,Lucret.,Q47154,PER,Q47154,Lucrèce,,0
+lestragdiesdeso00tourgoog_0138,712,728,"Plutarch., Sull.",Q12902611,WORK,Q41523,Plutarque,,0
+lestragdiesdeso00tourgoog_0138,738,750,Lu«cull.xv);,Q12902610,WORK,Q242819,Lucullus,"```json {""wikipedia_page"":""Lucullus"", ""wikidata_id"":""Q242819""} ```",10.30893325805664
+lestragdiesdeso00tourgoog_0138,762,769,Phænic.,Q1233660,WORK,Q36734,phénicien,,0
+lestragdiesdeso00tourgoog_0138,779,785,Lobeck,Q84734,PER,Q84734,Christian Lobeck,"```json {""wikipedia_page"":""Christian Lobeck"", ""wikidata_id"":""Q84734""} ```",13.861428260803223
+lestragdiesdeso00tourgoog_0138,910,921,Aristophane,Q43353,PER,Q43353,Aristophane,,0
+lestragdiesdeso00tourgoog_0138,923,934,"Chevaliers,",Q1215817,WORK,Q1215817,Les Cavaliers,"```json {""wikipedia_page"":""Les Cavaliers"", ""wikidata_id"":""Q1215817""} ```",16.61960220336914
+lestragdiesdeso00tourgoog_0138,939,955,Thesmophoriazusæ,Q761731,WORK,Q761731,Les Thesmophories,"```json {""wikipedia_page"":""Les Thesmophories"", ""wikidata_id"":""Q761731""} ```",17.050376892089844
+lestragdiesdeso00tourgoog_0138,965,971,Wunder,Q15438962,PER,Q15438962,Eduard Wunder,"```json {""wikipedia_page"":""Eduard Wunder"", ""wikidata_id"":""Q15438962""} ```",11.962910652160645
+lestragdiesdeso00tourgoog_0138,1060,1069,Thévcrite,Q219484,PER,Q219484,Théocrite,,0
+lestragdiesdeso00tourgoog_0138,1106,1117,Schneidewin,Q70043,PER,Q70043,Friedrich Wilhelm Schneidewin,,0
+lestragdiesdeso00tourgoog_0138,1313,1320,Électre,Q733444,WORK,Q131651,Électre,"```json {""wikipedia_page"": ""Électre"", ""wikidata_id"": ""Q131651""} ```",15.142800331115723
+lestragdiesdeso00tourgoog_0138,1368,1375,Électre,Q733444,WORK,Q733444,Électre,"```json { ""wikipedia_page"": ""Électre"", ""wikidata_id"": ""Q733444"" } ```",9.04031753540039
+lestragdiesdeso00tourgoog_0138,1383,1394,Schneidewin,Q70043,PER,Q70043,Friedrich Wilhelm Schneidewin,,0
+lestragdiesdeso00tourgoog_0061,86,94,Sophocle,Q7235,PER,Q7235,Sophocle,,0
+lestragdiesdeso00tourgoog_0061,307,313,Antig.,Q241077,WORK,Q241077,Antigone,"```json {""wikipedia_page"":""Antigone"", ""wikidata_id"":""Q241077""} ```",13.028051376342773
+lestragdiesdeso00tourgoog_0061,410,418,Trachin.,Q945342,WORK,Q945342,Les Trachiniennes,"```json {""wikipedia_page"":""Les Trachiniennes"", ""wikidata_id"":""Q945342""} ```",14.631518363952637
+lestragdiesdeso00tourgoog_0061,481,486,(4)αα,Q412341,WORK,NIL,(4)αα,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+lestragdiesdeso00tourgoog_0061,526,536,Ρλιίοοιέέε,Q1415903,WORK,NIL,Ρλιίοοιέέε,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+lestragdiesdeso00tourgoog_0061,776,783,Électre,Q733444,WORK,Q131651,Électre,,0
+lestragdiesdeso00tourgoog_0061,870,876,Brunck,Q454469,PER,Q454469,Richard François Philippe Brunck,"```json {""wikipedia_page"":""Richard François Philippe Brunck"", ""wikidata_id"":""Q454469""} ```",11.62125015258789
+lestragdiesdeso00tourgoog_0061,903,911,Euripide,Q48305,PER,Q48305,Euripide,,0
+lestragdiesdeso00tourgoog_0061,913,928,Hercule furieux,Q1233835,WORK,Q3785162,Hercule furieux,,0
+lestragdiesdeso00tourgoog_0061,1040,1048,Euripide,Q48305,PER,Q48305,Euripide,,0
+lestragdiesdeso00tourgoog_0061,1050,1057,Alceste,Q1246408,WORK,Q320449,Alceste,"```json { ""wikipedia_page"": ""Alceste"", ""wikidata_id"": ""Q320449"" } ```",17.250030517578125
+lestragdiesdeso00tourgoog_0061,1114,1118,Neue,NIL,PER,Q124711,Christian Friedrich Neue,"```json {""wikipedia_page"":""Christian Friedrich Neue"", ""wikidata_id"":""Q124711""} ```",11.283008575439453
+lestragdiesdeso00tourgoog_0061,1120,1131,Schneidewin,Q70043,PER,Q70043,Friedrich Wilhelm Schneidewin,"```json {""wikipedia_page"":""Friedrich Wilhelm Schneidewin"", ""wikidata_id"":""Q70043""} ```",13.524956703186035
+lestragdiesdeso00tourgoog_0061,1161,1171,OEdipe Roi,Q148643,WORK,Q148643,Œdipe roi,,0
+lestragdiesdeso00tourgoog_0061,1199,1209,Philoctète,Q1415903,WORK,Q1415903,Philoctète,,0
+lestragdiesdeso00tourgoog_0061,1269,1280,Schneidewin,Q70043,PER,Q70043,Friedrich Wilhelm Schneidewin,,0
+lestragdiesdeso00tourgoog_0061,1300,1311,Schneidewin,Q70043,PER,Q70043,Friedrich Wilhelm Schneidewin,,0
+lestragdiesdeso00tourgoog_0061,1391,1399,Trachin.,Q945342,WORK,Q945342,Les Trachiniennes,"```json {""wikipedia_page"":""Les Trachiniennes"", ""wikidata_id"":""Q945342""} ```",14.077909469604492
+lestragdiesdeso00tourgoog_0061,1496,1505,ΟΕ ώ. Roi,Q148643,WORK,NIL,ΟΕ ώ. Roi,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+lestragdiesdeso00tourgoog_0061,1664,1672,Trachin.,Q945342,WORK,NIL,Trachin.,"```json {""wikipedia_page"":""Trachin."",""wikidata_id"":""NIL""} ```",0
+lestragdiesdeso00tourgoog_0076,118,127,"OEd. Roi,",Q148643,WORK,Q148643,Œdipe roi,"```json {""wikipedia_page"":""Œdipe roi"", ""wikidata_id"":""Q148643""} ```",9.260629653930664
+lestragdiesdeso00tourgoog_0076,229,235,Antig.,Q241077,WORK,Q241077,Antigone,"```json { ""wikipedia_page"": ""Antigone"", ""wikidata_id"": ""Q241077"" } ```",11.375361442565918
+lestragdiesdeso00tourgoog_0076,291,295,4/ax,Q412341,WORK,NIL,4/ax,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+lestragdiesdeso00tourgoog_0076,445,454,OEd. Οοΐ.,Q294001,WORK,Q44996,Oxford English Dictionary,"```json { ""wikipedia_page"": ""Oxford English Dictionary"", ""wikidata_id"": ""Q44996"" } ```",12.104061126708984
+lestragdiesdeso00tourgoog_0076,479,487,Philoct.,Q1415903,WORK,Q212827,Philoctète,"```json {""wikipedia_page"":""Philoctète"", ""wikidata_id"":""Q212827""} ```",12.031244277954102
+lestragdiesdeso00tourgoog_0076,509,517,Trachin.,Q945342,WORK,Q945342,Les Trachiniennes,"```json {""wikipedia_page"": ""Les Trachiniennes"", ""wikidata_id"": ""Q945342""} ```",10.057226181030273
+lestragdiesdeso00tourgoog_0076,550,559,"Οξά. Roi,",Q148643,WORK,Q822282,Oxford Latin Dictionary,"```json {""wikipedia_page"": ""Oxford Latin Dictionary"", ""wikidata_id"": ""Q822282""} ```",5.872386932373047
+lestragdiesdeso00tourgoog_0076,589,595,Antig.,Q241077,WORK,Q241077,Antigone,"```json { ""wikipedia_page"":""Antigone"", ""wikidata_id"":""Q241077"" } ```",8.053655624389648
+lestragdiesdeso00tourgoog_0076,888,893,Madv.,NIL,PER,Q335371,Madhva,"```json {""wikipedia_page"":""Madhva"", ""wikidata_id"":""Q335371""} ```",9.65814208984375
+lestragdiesdeso00tourgoog_0076,1191,1199,"ΟΕά. οὶ,",Q148643,WORK,NIL,"ΟΕά. οὶ,","```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+lestragdiesdeso00tourgoog_0076,1269,1273,Ajax,Q172725,PER,Q172725,Ajax,,0
+lestragdiesdeso00tourgoog_0134,74,83,"Eustathe,",Q453465,PER,Q453465,Eustathe de Thessalonique,"```json {""wikipedia_page"": ""Eustathe de Thessalonique"", ""wikidata_id"": ""Q453465""} ```",15.058980941772461
+lestragdiesdeso00tourgoog_0134,167,175,Aristide,Q354431,PER,Q294942,Aristide le Juste,,0
+lestragdiesdeso00tourgoog_0134,261,270,Ηϊπιέτίυ5,Q1406282,PER,Q210573,Hippias d'Élis,"```json {""wikipedia_page"":""Hippias d'Élis"", ""wikidata_id"":""Q210573""} ```",14.504079818725586
+lestragdiesdeso00tourgoog_0134,272,284,Dis- cours V,NIL,WORK,Q3030210,Discours préliminaire de l'Encyclopédie,"```json {""wikipedia_page"":""Discours préliminaire de l'Encyclopédie"", ""wikidata_id"":""Q3030210""} ```",10.188619613647461
+lestragdiesdeso00tourgoog_0134,302,310,Libanius,Q263892,PER,Q263892,Libanios,,0
+lestragdiesdeso00tourgoog_0134,312,318,Lettre,NIL,WORK,Q133492,lettre,"```json {""wikipedia_page"":""lettre"", ""wikidata_id"":""Q133492""} ```",15.939996719360352
+lestragdiesdeso00tourgoog_0134,357,363,Lobeck,Q84734,PER,Q84734,Christian Lobeck,"```json { ""wikipedia_page"": ""Christian Lobeck"", ""wikidata_id"": ""Q84734"" } ```",14.3865385055542
+lestragdiesdeso00tourgoog_0134,956,965,Plutarch.,Q41523,PER,Q41523,Plutarque,,0
+lestragdiesdeso00tourgoog_0134,967,975,Cleomen.,Q87210068,WORK,Q44005,Cléomène Ier,"```json { ""wikipedia_page"": ""Cléomène Ier"", ""wikidata_id"": ""Q44005"" } ```",12.800948143005371
+lestragdiesdeso00tourgoog_0134,988,994,Lobeck,Q84734,PER,Q84734,Christian Lobeck,"```json {""wikipedia_page"":""Christian Lobeck"", ""wikidata_id"":""Q84734""} ```",13.39452838897705
+lestragdiesdeso00tourgoog_0134,1504,1510,Strab.,Q45936,PER,Q45936,Strabon,,0
+lestragdiesdeso00tourgoog_0134,1525,1528,id.,Q45936,PER,Q951150,Ibid,"```json { ""wikipedia_page"": ""Ibid"", ""wikidata_id"": ""Q951150"" } ```",5.166114807128906
+lestragdiesdeso00tourgoog_0134,1538,1543,Ælian,Q313782,PER,Q313782,Claude Élien,,0
+lestragdiesdeso00tourgoog_0134,1547,1558,Var. Histor,Q26257556,WORK,Q206119,Varron,"```json {""wikipedia_page"": ""Varron"", ""wikidata_id"": ""Q206119""} ```",10.851656913757324
+lestragdiesdeso00tourgoog_0134,1595,1601,Lobeck,Q84734,PER,Q84734,Christian Lobeck,"```json {""wikipedia_page"":""Christian Lobeck"", ""wikidata_id"":""Q84734""} ```",11.985368728637695
+lestragdiesdeso00tourgoog_0154,27,41,Τηαολὲniegnoc.,Q945342,WORK,NIL,Τηαολὲniegnoc.,"```json { ""wikipedia_page"": """", ""wikidata_id"": ""NIL"" } ```",0
+lestragdiesdeso00tourgoog_0154,77,84,Eschyle,Q40939,PER,Q40939,Eschyle,,0
+lestragdiesdeso00tourgoog_0154,86,92,Perses,Q788458,WORK,Q788458,Les Perses,,0
+lestragdiesdeso00tourgoog_0154,291,298,Eschyle,Q40939,PER,Q40939,Eschyle,,0
+lestragdiesdeso00tourgoog_0154,300,309,Prométhée,Q846870,WORK,Q83160,Prométhée,,0
+lestragdiesdeso00tourgoog_0154,669,680,Schneidewin,Q70043,PER,Q70043,Friedrich Wilhelm Schneidewin,,0
+lestragdiesdeso00tourgoog_0154,929,935,Ælect.,Q733444,WORK,Q3587592,Électre,"```json {""wikipedia_page"":""Électre"", ""wikidata_id"":""Q3587592""} ```",13.94661808013916
+lestragdiesdeso00tourgoog_0154,947,966,Euripid. Herc. fur.,Q1233835,WORK,Q48305,Euripide,"```json {""wikipedia_page"":""Euripide"", ""wikidata_id"":""Q48305""} ```",13.513463973999023
+lestragdiesdeso00tourgoog_0154,976,985,[Wunder.],Q15438962,PER,NIL,[Wunder.],"```json {""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL""} ```",0
+lestragdiesdeso00tourgoog_0154,1030,1038,Musgrave,Q7412249,PER,NIL,Musgrave,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+lestragdiesdeso00tourgoog_0142,77,83,Wunder,Q15438962,PER,Q15438962,Eduard Wunder,"```json {""wikipedia_page"": ""Eduard Wunder"", ""wikidata_id"":""Q15438962""} ```",8.727621078491211
+lestragdiesdeso00tourgoog_0142,207,214,Ἡοπιὲτε,Q6691,PER,Q3781404,Diopeïthès,"```json { ""wikipedia_page"": ""Diopeïthès"", ""wikidata_id"": ""Q3781404"" } ```",11.96162223815918
+lestragdiesdeso00tourgoog_0142,223,227,Α͵αχ,Q172725,PER,Q191962,Achéens,"```json {""wikipedia_page"": ""Achéens"", ""wikidata_id"": ""Q191962""} ```",11.405008316040039
+lestragdiesdeso00tourgoog_0142,229,234,Π|αάε,Q8275,WORK,NIL,Π|αάε,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+lestragdiesdeso00tourgoog_0142,311,319,Euripide,Q48305,PER,Q48305,Euripide,,0
+lestragdiesdeso00tourgoog_0142,321,333,Phéniciennes,Q1233660,WORK,Q1233660,Les Phéniciennes,"```json {""wikipedia_page"":""Les Phéniciennes"", ""wikidata_id"":""Q1233660""} ```",15.805720329284668
+lestragdiesdeso00tourgoog_0142,414,420,Wunder,Q15438962,PER,Q15438962,Eduard Wunder,"```json {""wikipedia_page"":""Eduard Wunder"", ""wikidata_id"":""Q15438962""} ```",10.767024993896484
+lestragdiesdeso00tourgoog_0142,472,483,Schneidevîu,Q70043,PER,Q70043,Friedrich Wilhelm Schneidewin,"```json {""wikipedia_page"":""Friedrich Wilhelm Schneidewin"", ""wikidata_id"":""Q70043""} ```",16.512311935424805
+lestragdiesdeso00tourgoog_0142,531,544,Trachiniennes,Q945342,WORK,Q945342,Les Trachiniennes,,0
+lestragdiesdeso00tourgoog_0142,656,662,Homère,Q6691,PER,Q6691,Homère,,0
+lestragdiesdeso00tourgoog_0142,712,717,Pirée,Q58976,LOC,Q58976,Le Pirée,,0
+lestragdiesdeso00tourgoog_0142,754,761,Strabon,Q45936,PER,Q45936,Strabon,,0
+lestragdiesdeso00tourgoog_0142,827,834,Odyssée,Q35160,WORK,Q35160,Odyssée,,0
+lestragdiesdeso00tourgoog_0142,850,857,Virgile,Q1398,PER,Q1398,Virgile,,0
+lestragdiesdeso00tourgoog_0142,859,865,Énéide,Q60220,WORK,Q60220,Énéide,,0
+lestragdiesdeso00tourgoog_0142,995,1005,Philoctète,Q1415903,WORK,Q1415903,Philoctète,,0
+lestragdiesdeso00tourgoog_0142,1074,1088,"Trachiniennes,",Q945342,WORK,Q945342,Les Trachiniennes,"```json { ""wikipedia_page"": ""Les Trachiniennes"", ""wikidata_id"": ""Q945342"" } ```",16.945995330810547
+lestragdiesdeso00tourgoog_0142,1094,1105,Schneidewin,Q70043,PER,Q70043,Friedrich Wilhelm Schneidewin,,0
+lestragdiesdeso00tourgoog_0142,1109,1116,Dindorf,Q67533,PER,Q1539802,Gottlieb Immanuel Dindorf,,0
+lestragdiesdeso00tourgoog_0142,1165,1172,Dindorf,Q67533,PER,Q1539802,Gottlieb Immanuel Dindorf,"```json {""wikipedia_page"":""Gottlieb Immanuel Dindorf"", ""wikidata_id"":""Q1539802""} ```",16.93964385986328
+lestragdiesdeso00tourgoog_0142,1227,1235,Isocrate,Q221182,PER,Q221182,Isocrate,,0
+lestragdiesdeso00tourgoog_0142,1237,1244,Panatk.,Q87746403,WORK,Q3893205,Panégyrique,"```json { ""wikipedia_page"": ""Panégyrique"", ""wikidata_id"": ""Q3893205"" } ```",14.462451934814453
+lestragdiesdeso00tourgoog_0142,1305,1316,Schneidewin,Q70043,PER,Q70043,Friedrich Wilhelm Schneidewin,,0

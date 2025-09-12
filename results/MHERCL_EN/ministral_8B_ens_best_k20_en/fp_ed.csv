@@ -1,0 +1,1068 @@
+doc_id,start_pos,end_pos,surface,gt_id,type,identifier,title,answer,score
+document_000001.html,58,74,Lord Chamberlain,Q541755,PER,Q1355456,Lord Chamberlain,,22.85060691833496
+document_000003.html,0,10,Mr. Liddle,NIL,PER,Q649971,Henry Liddell,,20.34540557861328
+document_000008.html,0,16,Benzamin Rogenrs,Q18546476,PER,Q1627478,Rosencrantz and Guildenstern,,17.764148712158203
+document_000008.html,25,37,Peter Rogers,NIL,PER,Q17421747,Thomas Rogers,,30.379470825195312
+document_000009.html,95,110,Lefébure - Wély,Q546919,PER,Q38466132,Isaac-François Lefébure-Wely,,23.51831817626953
+document_000010.html,40,50,M. Beckers,NIL,PER,Q11192165,Becker's,,19.683372497558594
+document_000011.html,56,82,Dictionnaire des Musiciens,NIL,MISC,Q1422262,La Lettre du musicien,,29.318347930908203
+document_000013.html,29,39,Miss Orton,NIL,PER,Q6765247,Marion Hutton,"```json { ""wikipedia_page"": ""Marion Hutton"", ""wikidata_id"": ""Q6765247"" } ```",14.191840171813965
+document_000013.html,41,50,Miss Wale,NIL,PER,Q21033996,Wade Whaley,"```json { ""wikipedia_page"": ""Wade Whaley"", ""wikidata_id"": ""Q21033996"" } ```",13.97614574432373
+document_000013.html,56,69,Mr. Horniblow,NIL,PER,Q6239903,John Hornsby,,16.745861053466797
+document_000014.html,0,9,Mr. Mocre,Q315346,PER,Q1536275,Hans Mokre,"```json { ""wikipedia_page"": ""Hans Mokre"", ""wikidata_id"": ""Q1536275"" } ```",10.897356033325195
+document_000014.html,86,96,Mr. Bishop,Q1200639,PER,Q6913617,Morris Bishop,"```json { ""wikipedia_page"": ""Morris Bishop"", ""wikidata_id"": ""Q6913617"" } ```",10.358948707580566
+document_000015.html,2,5,Bow,NIL,PER,Q1273117,EBow,,19.26566505432129
+document_000015.html,12,21,E. Carper,NIL,PER,Q5342205,Edward Carbutt,,17.565746307373047
+document_000019.html,61,70,J. Thomas,Q1701921,PER,Q114289566,Jean Jacques Thomas,,18.912818908691406
+document_000019.html,0,10,F. J. Amor,NIL,PER,Q3081439,Francis J. Finn,,22.26245880126953
+document_000019.html,24,37,Walter Pettit,NIL,PER,Q105812497,Walter Pate,,23.181745529174805
+document_000019.html,39,47,F. Ralph,NIL,PER,Q1452750,Frederic Raphael,,16.963237762451172
+document_000019.html,49,59,P. Sainton,NIL,PER,Q151334,Philip Sainton,,25.826082229614258
+document_000019.html,72,80,A. White,NIL,PER,Q117088,Alain Campbell White,,16.03934097290039
+document_000020.html,41,56,Lefébure - Wély,Q546919,PER,Q38466132,Isaac-François Lefébure-Wely,,23.122825622558594
+document_000020.html,10,22,Andante in G,NIL,MISC,Q2633712,Andante in C for Flute and Orchestra,,19.859394073486328
+document_000021.html,137,144,Oedipus,NIL,MISC,Q56300388,Oedipus,,20.17258071899414
+document_000024.html,21,34,Musicat Timzs,Q1757371,ORG,Q16994660,Ibbs and Tillett,,16.367841720581055
+document_000025.html,27,41,Earl of Cawdor,Q6224952,PER,Q5325786,Earl Cawdor,,17.122753143310547
+document_000031.html,49,60,Louis Dien1,Q19900926,PER,Q3261730,Louis Dien,,21.644245147705078
+document_000031.html,23,31,SPINDLER,NIL,PER,Q57112,Oswald Spengler,,17.95911407470703
+document_000031.html,34,45,HUSARENRITT,NIL,MISC,Q14943748,Schinderhannes,"```json { ""wikipedia_page"": ""Husarenritt"", ""wikidata_id"": ""Q14943748"" } ```",13.25260066986084
+document_000032.html,43,51,Preciosa,NIL,MISC,Q1240094,Preciosa,,16.01546287536621
+document_000033.html,36,56,Fall'n is thy Throne,NIL,MISC,Q13424597,music of Game of Thrones,,18.057029724121094
+document_000035.html,45,62,Kennington - road,Q6390920,LOC,Q146696,Kennington,"```json { ""wikipedia_page"": ""Kennington"", ""wikidata_id"": ""Q146696"" } ```",14.23204517364502
+document_000036.html,0,6,Oakley,NIL,PER,Q7076839,Octavius Oakley,,27.042165756225586
+document_000037.html,111,119,Sirletti,Q102283903,PER,Q3771436,Giuseppe Sellitto,,23.15694808959961
+document_000037.html,121,127,Asioli,Q892563,PER,Q2920312,Annibale Zoilo,,22.925979614257812
+document_000037.html,133,140,Pollini,Q1351579,PER,Q160058,Maurizio Pollini,,25.475505828857422
+document_000039.html,0,15,Second Concerto,NIL,MISC,Q2991906,Violin Concerto No. 2,,16.391155242919922
+document_000039.html,49,71,Le pas de Polichinelle,NIL,MISC,Q3213607,La légende de Polichinelle,"```json { ""wikipedia_page"": ""La légende de Polichinelle"", ""wikidata_id"": ""Q3213607"" } ```",13.10399055480957
+document_000040.html,113,122,T. Howell,NIL,PER,Q3065958,John Thomas Howell,,27.418100357055664
+document_000041.html,0,6,Mr. G.,NIL,PER,Q6929403,Mr G,"```json { ""wikipedia_page"": ""Mr. G"", ""wikidata_id"": ""Q6929403"" } ```",5.738332271575928
+document_000043.html,23,35,Brooke House,NIL,LOC,Q42395824,Brooke House Nature Reserve,,21.02872085571289
+document_000043.html,190,202,Brooke House,NIL,LOC,Q20711858,Brook House,,19.36503028869629
+document_000043.html,153,166,Mr. Batchelor,NIL,PER,Q5073373,Chappell Batchelor,,16.570772171020508
+document_000044.html,39,58,Almen se non possio,NIL,MISC,Q5664231,,,19.924802780151367
+document_000048.html,101,111,Ipermestra,Q18600820,MISC,Q21099452,Ipermestra,,21.71243667602539
+document_000048.html,88,96,Antigono,NIL,MISC,Q18600822,Antigono,,20.672426223754883
+document_000048.html,159,175,court of Dresden,NIL,ORG,Q1718281,Royal theatre Dresden,,17.636489868164062
+document_000050.html,0,17,Mr. Duncan Finvay,NIL,PER,Q458658,"Edward Plunkett, 18th Baron of Dunsany",,19.832069396972656
+document_000050.html,49,78,Shaftesbury Park Lecture Hall,NIL,LOC,Q7457805,Sever Hall,,25.04974365234375
+document_000051.html,73,80,Martini,Q283651,PER,Q2831794,Alberto Martini,,18.901161193847656
+document_000052.html,38,46,Danaides,Q1751750,MISC,Q724907,Daughters of Danaus,,22.435522079467773
+document_000052.html,4,21,Bacchanalian Song,NIL,MISC,Q2878195,bacchanale,,20.510623931884766
+document_000054.html,8,17,Mrs. Wood,NIL,PER,Q2729480,Mrs. John Wood,"```json { ""wikipedia_page"": ""Mrs. John Wood"", ""wikidata_id"": ""Q2729480"" } ```",11.822738647460938
+document_000055.html,18,30,H. Hagemeyer,NIL,PER,Q1579996,Hans Hagemeyer,,27.0782470703125
+document_000055.html,44,57,12th Regiment,NIL,ORG,Q7042904,No. 12 Commando,,27.572675704956055
+document_000057.html,49,62,Dr. Kitchiner,NIL,PER,Q216129,Horatio Kitchener,,21.347030639648438
+document_000058.html,147,159,L’Abbe Guyon,Q2976789,PER,Q235098,Jeanne-Marie Bouvier de La Motte Guyon,,25.723670959472656
+document_000058.html,100,126,History of the East Indies,NIL,MISC,Q2227514,history of Southeast Asia,,29.239727020263672
+document_000059.html,46,62,Die Elfen Walzer,NIL,MISC,Q5877474,Hoheit tanzt Walzer,,17.170936584472656
+document_000060.html,35,42,Grisias,Q287344,PER,Q257768,Graeae,,17.02459144592285
+document_000062.html,131,144,Theatre Royal,Q7777436,LOC,Q1155331,His Majesty's Theatre,,25.87613868713379
+document_000063.html,57,75,La Divina Sapienza,NIL,MISC,Q3668898,Church of the Divine Wisdom,,24.042190551757812
+document_000065.html,64,68,Bart,NIL,PER,Q282019,baronet,,15.596291542053223
+document_000067.html,50,66,W. T. Freemantle,Q8019310,PER,Q7795085,Thomas Whittemore,,28.40407371520996
+document_000072.html,36,42,Walker,NIL,PER,Q6107402,J. W. Walker & Sons Ltd,,21.974199295043945
+document_000074.html,83,94,Chamberlain,Q541755,PER,Q6679028,Lord Chamberlain's Office,"```json { ""wikipedia_page"": ""Lord Chamberlain's Office"", ""wikidata_id"": ""Q6679028"" } ```",9.144433975219727
+document_000076.html,0,14,Cantate Domino,Q1326476,MISC,Q12360500,Cantate Domino,"```json { ""wikipedia_page"": ""Cantate Domino"", ""wikidata_id"": ""Q12360500"" } ```",11.579035758972168
+document_000076.html,19,34,Deus Misereatur,Q1689664,MISC,Q18649759,,"```json { ""wikipedia_page"": ""Deus Misereatur"", ""wikidata_id"": ""Q18649759"" } ```",11.290122032165527
+document_000079.html,52,76,District Musical Society,NIL,ORG,Q6519274,Leicestershire Schools Symphony Orchestra,,16.340360641479492
+document_000079.html,95,106,Public Hall,NIL,LOC,Q7257321,Public Auditorium,"```json { ""wikipedia_page"": ""Public Hall"", ""wikidata_id"": ""Q7257321"" } ```",12.71393871307373
+document_000080.html,27,42,Signor Liverati,Q3767573,PER,Q3830435,Leonardo Salviati,,28.66812515258789
+document_000080.html,1,7,Carron,NIL,MISC,Q170726,Enrico Caruso,"```json { ""wikipedia_page"": ""Enrico Caruso"", ""wikidata_id"": ""Q170726"" } ```",10.33656120300293
+document_000081.html,14,23,Jarnowick,Q1526160,PER,Q51438,Czarnków,,18.294055938720703
+document_000083.html,18,36,M. Joachim Hoffman,NIL,PER,Q60314462,Joachim Hoffmann,,33.15625762939453
+document_000084.html,7,28,Antient Concert Rooms,NIL,LOC,Q17510840,Concerts of Antient Music,,21.623226165771484
+document_000085.html,0,15,Musical Society,NIL,ORG,Q5025606,Cambridge University Musical Society,,26.039587020874023
+document_000087.html,0,24,The Philharmonic Society,Q1292443,ORG,Q5025492,Cambridge Philharmonic Society,,17.01378059387207
+document_000087.html,42,53,M. Schénche,NIL,PER,Q1720427,Mel Henke,,24.76930809020996
+document_000088.html,0,15,Mr. Kalkbrenner,Q170270,PER,Q372718,Christian Kalkbrenner,,26.359004974365234
+document_000089.html,1,22,Qui est Rex Gloriosus,NIL,MISC,Q5151285,Come Thou Almighty King,,18.906139373779297
+document_000092.html,117,137,Viscount Fitzwilliam,Q7325692,PER,Q8009134,"William Fitzwilliam, 4th Earl Fitzwilliam",,24.71826934814453
+document_000093.html,32,40,Mr. Hall,NIL,PER,Q5540460,"George Henry Hall, 1st Viscount Hall","```json { ""wikipedia_page"": ""George Henry Hall, 1st Viscount Hall"", ""wikidata_id"": ""Q5540460"" } ```",7.077399253845215
+document_000094.html,46,53,Norfolk,Q11991993,MISC,Q23109,Norfolk,,28.469741821289062
+document_000094.html,58,65,Norwich,Q11991993,MISC,Q130191,Norwich,,29.02862548828125
+document_000094.html,66,79,Musical Union,Q11991993,MISC,Q6739616,Making Music,,24.277912139892578
+document_000095.html,96,123,institution degli Orfanelli,NIL,ORG,Q16487516,Accademia degli Immobili,,17.040292739868164
+document_000099.html,1,11,La Cascina,NIL,MISC,Q11930977,La cascina,"```json { ""wikipedia_page"": ""La cascina"", ""wikidata_id"": ""Q11930977"" } ```",15.345236778259277
+document_000099.html,16,23,Statira,NIL,MISC,Q3968560,Statira,"```json { ""wikipedia_page"": ""Statira"", ""wikidata_id"": ""Q3968560"" } ```",12.365675926208496
+document_000099.html,33,49,La Conversazione,NIL,MISC,Q97145754,Conversazione,,17.693450927734375
+document_000099.html,51,60,Artaserse,NIL,MISC,Q11906722,Artaserse,"```json { ""wikipedia_page"": ""Artaserse"", ""wikidata_id"": ""Q11906722"" } ```",14.00503921508789
+document_000099.html,66,81,Alessandro nell,NIL,MISC,Q314765,Alessandro Stradella,"```json { ""wikipedia_page"": ""Alessandro Stradella"", ""wikidata_id"": ""Q314765"" } ```",12.666592597961426
+document_000100.html,103,124,Mr. Sterndale Bennett,Q201164,PER,Q17985840,Ernest Sterndale Bennett,,23.152236938476562
+document_000103.html,11,23,Ettore Fiori,Q55912552,PER,Q1967632,Ettore Fiorini,,34.62528610229492
+document_000103.html,25,38,Manuel Garcia,Q333183,PER,Q704645,Manuel García,,29.35545539855957
+document_000103.html,0,2,G.,NIl,PER,Q348459,George Benson,,18.593664169311523
+document_000103.html,3,9,Benson,NIL,PER,Q2897520,Bernard Benson,,23.718639373779297
+document_000103.html,40,51,P. Goldberg,NIL,PER,Q7150934,Paul Goldberger,,32.098731994628906
+document_000103.html,67,82,T. A. Wallworth,NIL,PER,Q711871,Arthur Walworth,,26.25278091430664
+document_000106.html,50,55,Prior,NIL,PER,Q830337,prior,,22.54122543334961
+document_000107.html,41,65,Grosvenor Choral Society,NIL,ORG,Q3445907,Royal Choral Society,,29.794347763061523
+document_000108.html,68,92,Charles V. et Dugueselin,NIL,MISC,Q2960713,Charles de Vandenesse,,17.1481876373291
+document_000110.html,125,140,Theodore Distin,Q76098551,PER,Q5282960,Distin family,,28.656715393066406
+document_000110.html,36,50,Agnes Drummond,NIL,PER,Q4766372,Ann Drummond-Grant,,29.46829605102539
+document_000110.html,52,68,Josephine Pulham,NIL,PER,Q17106618,Josephine Pullein-Thompson,,30.011741638183594
+document_000110.html,70,82,Marian Haigh,NIL,PER,Q18783923,Marianne Farningham,,32.689144134521484
+document_000110.html,84,100,Florence Wydford,NIL,PER,Q3080822,Frances Julia Wedgwood,,31.26253318786621
+document_000110.html,114,123,Henry Guy,NIL,PER,Q5722339,Henry Guy,,30.717056274414062
+document_000110.html,142,150,E. Stone,NIL,PER,Q5368754,Em Stone,,26.97785186767578
+document_000110.html,156,169,Thurley Beale,NIL,PER,Q1661518,Thurl Bailey,,29.915103912353516
+document_000111.html,105,144,Almanach général de tous les spectacles,Q3235618,MISC,Q3725045,Encyclopedia of Performing Arts,,21.99116325378418
+document_000113.html,0,9,Mrs. Shaw,Q3291051,PER,Q7648374,Susan Shaw,,17.351146697998047
+document_000114.html,1,43,Lives of the Professors of Gresham College,NIL,MISC,Q104880197,Singing class movement,,16.24469566345215
+document_000115.html,5,15,Saltarello,not in Wikidata,MISC,Q657047,saltarello,,17.76070785522461
+document_000117.html,0,10,Air Suisse,NIL,MISC,Q41672500,Henri Suisse,,15.972752571105957
+document_000117.html,20,47,Introduction and Variations,NIL,MISC,Q56298411,,,16.048641204833984
+document_000119.html,29,35,London,Q84,LOC,Q863397,London Philharmonic Orchestra,,23.028568267822266
+document_000123.html,123,132,Berthaume,NIL,PER,Q1452729,Frederic Lamond,,19.92329216003418
+document_000124.html,86,96,Cannobiano,Q3982039,LOC,Q3687222,Conservatorio Giovanni Battista Martini,,19.3306827545166
+document_000125.html,77,85,Don Juan,Q192039,MISC,Q210372,Don Juan,,23.50696563720703
+document_000126.html,64,82,James Epps and Co.,NIL,ORG,Q3191701,Jessops,,21.518451690673828
+document_000127.html,0,8,R. Smith,NIL,PER,Q54861188,R.R.R. Smith,,28.166309356689453
+document_000128.html,0,3,The,NIL,MISC,Q840407,enthusiasm,"```json { ""wikipedia_page"": ""enthusiasm"", ""wikidata_id"": ""Q840407"" } ```",9.940170288085938
+document_000128.html,4,14,Enthusiast,NIL,MISC,Q840407,enthusiasm,"```json { ""wikipedia_page"": ""enthusiasm"", ""wikidata_id"": ""Q840407"" } ```",13.091938018798828
+document_000128.html,48,65,F.W. Horn- castle,NIL,PER,Q6411719,King Horn,,18.3411865234375
+document_000129.html,85,94,Gasparini,Q446955,PER,Q3767340,Giovanni Gasparini,,28.180288314819336
+document_000129.html,99,104,Lotti,Q168345,PER,Q21449036,Lotti,,21.33856201171875
+document_000135.html,5,11,Adagio,NIL,MISC,Q482153,adagio,,18.796794891357422
+document_000136.html,23,53,Allegretto Scherzando con Brio,NIL,MISC,Q264315,Allegro barbaro,"```json { ""wikipedia_page"": ""Allegro barbaro"", ""wikidata_id"": ""Q264315"" } ```",11.372901916503906
+document_000137.html,57,73,Pio Glanchettini,Q18819786,PER,Q354947,Giovanni Legrenzi,,30.192611694335938
+document_000138.html,5,10,Fenzi,NIL,PER,Q4857142,Bansi Quinteros,"```json { ""wikipedia_page"": ""Fenzi"", ""wikidata_id"": ""Q4857142"" } ```",8.637421607971191
+document_000138.html,22,27,Guida,NIL,PER,Q5615412,"Guide, Mirandela","```json { ""wikipedia_page"": ""Guide, Mirandela"", ""wikidata_id"": ""Q5615412"" } ```",7.876743793487549
+document_000139.html,12,32,Studii of Palestrina,NIL,MISC,Q6612812,list of compositions by Giovanni Pierluigi da Palestrina,,17.73893165588379
+document_000140.html,25,30,Forde,NIL,PER,Q459146,Frank Forde,"```json { ""wikipedia_page"": ""Frank Forde"", ""wikidata_id"": ""Q459146"" } ```",9.57940673828125
+document_000142.html,60,67,Messiah,Q207732,MISC,Q51626,Messiah,,24.51447105407715
+document_000143.html,14,54,Counterpoint of the ancients and moderns,NIL,MISC,Q267863,quarrel of the Ancients and the Moderns,"```json { ""wikipedia_page"": ""quarrel of the Ancients and the Moderns"", ""wikidata_id"": ""Q267863"" } ```",14.712231636047363
+document_000144.html,0,15,Mr. Kalkbrenner,Q170270,PER,Q372718,Christian Kalkbrenner,,24.1170654296875
+document_000145.html,55,60,Pagin,Q516496,PER,Q3098745,Gaspard-Michel Pagani,,20.250520706176758
+document_000145.html,93,103,Van Malder,Q509130,PER,Q2690643,Joannes Malderus,,24.148290634155273
+document_000145.html,105,121,Dominico Ferrari,Q1237139,PER,Q70869606,Domingo Ferrari,,24.100147247314453
+document_000145.html,81,91,Gi- ardini,NIL,PER,Q18214045,Giorgio Bandini,,17.778228759765625
+document_000146.html,0,19,Roller and Blanchet,NIL,ORG,Q1108887,"Longman, Clementi & Co.",,16.873188018798828
+document_000147.html,41,50,Concordia,NIL,ORG,Q5158989,Concordia Summit,,17.055696487426758
+document_000147.html,60,69,J. Barney,NIL,PER,Q6259162,John Stewart Barney,,20.056245803833008
+document_000149.html,78,95,Hallfield - place,NIL,LOC,Q5642941,Hallfield,,20.61217498779297
+document_000151.html,58,75,trio of the Fates,NIL,MISC,Q2302504,Thriae,,17.855125427246094
+document_000155.html,33,46,Mr. H. Keeton,Q1438256,PER,Q5723227,"Henry Hopkinson, 1st Baron Colyton",,17.861572265625
+document_000156.html,19,29,Annie Albu,NIL,PER,Q96279060,Emily Albu,,33.4983024597168
+document_000156.html,31,42,Amy Aylward,NIL,PER,Q106688196,Amy Woolard,,37.73374557495117
+document_000156.html,44,56,Jessie Jones,NIL,PER,Q21062561,Jesse Joyce,,38.378753662109375
+document_000156.html,58,71,Agnes Larkcom,NIL,PER,Q394607,Agnes Nixon,,29.33196258544922
+document_000156.html,77,92,Marian Williams,NIL,PER,Q6762287,Marianne Williams,,31.22513771057129
+document_000158.html,30,36,Berliz,Q64,LOC,Q71808883,Berlize,,19.843318939208984
+document_000159.html,99,110,Mr. Clifton,Q6224338,PER,Q5133190,Clifton College,,16.38796615600586
+document_000159.html,112,122,Mr. Crouch,NIL,PER,Q16198117,Nathaniel Crouch,,17.75771141052246
+document_000159.html,124,137,Mr. Eavestaff,NIL,PER,Q15976246,Joseph Woodfall Ebsworth,,19.105485916137695
+document_000159.html,143,155,Mr. Banister,NIL,PER,Q3809065,John Bannister,,22.041423797607422
+document_000160.html,6,13,Barbaja,Q908235,PER,Q807310,Barbagia,,16.586063385009766
+document_000161.html,63,84,the Incantation Scene,NIL,MISC,Q111181983,Incantation and Dance,,16.261085510253906
+document_000162.html,102,114,Briderkizche,NIL,LOC,Q2034440,Brygidki,"```json { ""wikipedia_page"": ""Brygidki"", ""wikidata_id"": ""Q2034440"" } ```",14.858658790588379
+document_000163.html,0,6,Rachel,NIL,PER,Q6832998,"Rachel Russell, Baroness Russell","```json { ""wikipedia_page"": ""Rachel Russell, Baroness Russell"", ""wikidata_id"": ""Q6832998"" } ```",14.014961242675781
+document_000169.html,52,82,Charleston Presbyterian Church,NIL,LOC,Q4501931,Cathedral of Saint John the Baptist,,36.04911804199219
+document_000170.html,0,8,M. Spohr,Q57226,PER,Q4523467,Myron Schaeffer,,26.888246536254883
+document_000170.html,52,67,Pietra @ Albano,NIL,MISC,Q60229531,"Sant'Anna, Spello",,17.113603591918945
+document_000173.html,33,39,Mr. S.,NIL,PER,Q938785,Mr. Marcus,"```json { ""wikipedia_page"": ""Mr. Marcus"", ""wikidata_id"": ""Q938785"" } ```",6.12501335144043
+document_000176.html,42,53,Tor di Nona,Q3516772,LOC,Q7825282,Tor di Nona,,26.056396484375
+document_000177.html,0,8,Grazioli,Q1525873,PER,Q4013912,Virgilio Gozzoli,,25.624414443969727
+document_000183.html,39,49,John Parry,Q3399352,PER,Q6251987,John Parry Ddall,,32.309043884277344
+document_000183.html,26,34,Levassor,NIL,PER,Q3385954,Pierre Levassor,,21.25075912475586
+document_000184.html,39,53,Trinity Chapel,Q7842633,LOC,Q866896,Trinity Church,,30.444416046142578
+document_000186.html,107,115,Oratorio,NIL,MISC,Q85477,oratorio,"```json { ""wikipedia_page"": ""oratorio"", ""wikidata_id"": ""Q85477"" } ```",15.296674728393555
+document_000188.html,0,25,The Societa Filodramatica,NIL,ORG,Q3982023,Teatro La Fiaba,,24.86351203918457
+document_000189.html,66,85,Mademoiselle Sontag,Q64098,PER,Q152824,Susan Sontag,,18.007164001464844
+document_000190.html,73,81,Caffiaux,NIL,PER,Q55585567,Henri Caffiaux,,17.498207092285156
+document_000191.html,25,32,Antient,Q17510840,MISC,Q7713942,The Antient Concert,"```json { ""wikipedia_page"": ""The Antient Concert"", ""wikidata_id"": ""Q7713942"" } ```",12.564506530761719
+document_000191.html,4,16,Philharmonic,NIL,ORG,Q7183050,Philharmonic Society of Corfu,,15.92891788482666
+document_000192.html,0,6,Ramsay,Q654775,PER,Q18731064,"Sir James Ramsay, 10th Baronet",,30.356918334960938
+document_000194.html,38,71,National Training School of Music,Q55082727,ORG,Q6970750,National Association of Schools of Music,,25.236562728881836
+document_000195.html,50,59,Franconia,Q150907,LOC,Q142,France,,26.689682006835938
+document_000195.html,0,4,Zahn,NIL,PER,Q8064712,Zahnd,"```json { ""wikipedia_page"": ""Zahn"", ""wikidata_id"": ""Q8064712"" } ```",11.427444458007812
+document_000197.html,3,20,Mr. Willert Beale,Q7795125,PER,Q8003450,Willard Livingstone Beard,,21.13471221923828
+document_000198.html,0,9,Dr. Barry,NIL,PER,Q8009301,William Francis Barry,"```json { ""wikipedia_page"": ""William Francis Barry"", ""wikidata_id"": ""Q8009301"" } ```",11.812464714050293
+document_000198.html,170,177,Society,NIL,ORG,Q7552651,Society of St Wilfrid and St Hilda,"```json { ""wikipedia_page"": ""Society of St Wilfrid and St Hilda"", ""wikidata_id"": ""Q7552651"" } ```",7.233860492706299
+document_000203.html,34,43,S. Glover,NIL,PER,Q16065642,Stephen Glover,,20.134172439575195
+document_000204.html,59,71,Dr. Sullivan,NIL,PER,Q212692,Arthur Sullivan,"```json { ""wikipedia_page"": ""Arthur Sullivan"", ""wikidata_id"": ""Q212692"" } ```",12.200105667114258
+document_000205.html,55,74,Mr. William Laidlaw,Q8014247,PER,Q8009545,William G. Laidlaw,,27.757713317871094
+document_000205.html,2,18,Mr. Joseph Skeaf,NIL,PER,Q456527,Mitchell Sharp,,23.104816436767578
+document_000205.html,79,95,Mr. T. Armstrong,NIL,PER,Q7787133,Thomas Armstrong,,23.871694564819336
+document_000206.html,3,14,In Memoriam,NIL,MISC,Q21998556,In Memoriam,,18.65673065185547
+document_000209.html,80,97,Maestro del Fante,Q18416097,PER,Q60218142,Maestro del Farneto,,18.775806427001953
+document_000210.html,30,40,C. Novello,Q4322567,PER,Q5126032,Clara Novello Davies,,17.466882705688477
+document_000210.html,62,73,Alfred Shaw,Q3291051,PER,Q2835462,Alfred Shaw,,22.20356559753418
+document_000210.html,91,99,Phillips,NIL,PER,Q235346,Michelle Phillips,"```json { ""wikipedia_page"": ""Michelle Phillips"", ""wikidata_id"": ""Q235346"" } ```",11.822470664978027
+document_000210.html,110,116,Walton,NIL,PER,Q310939,William Walton,"```json { ""wikipedia_page"": ""William Walton"", ""wikidata_id"": ""Q310939"" } ```",11.146841049194336
+document_000210.html,122,134,J. Isherwood,NIL,PER,Q1510765,Joseph Isherwood,,19.229873657226562
+document_000213.html,38,77,Accompanying Harmonies to Psalter Noted,NIL,MISC,Q7852956,Tunes for Archbishop Parker's Psalter,,26.57818603515625
+document_000216.html,30,41,Mr. Griffin,NIL,PER,Q2111952,Professor Griff,,16.502321243286133
+document_000218.html,0,6,Weisse,NIL,PER,Q74773,Michael Weiße,,16.656444549560547
+document_000218.html,39,62,Chapel Royal of Prussia,NIL,ORG,Q170119,Berlin Palace,,24.0440731048584
+document_000220.html,0,18,Miss Minnie Curtis,NIL,PER,Q6868804,Minnie Gentry,,22.64442253112793
+document_000220.html,91,109,Miss Adeline Payel,NIL,PER,Q7123317,Paddie O'Neil,,26.158742904663086
+document_000220.html,114,128,Miss Kate Wild,NIL,PER,Q1735713,Kate Vaughan,,24.32074546813965
+document_000222.html,48,58,M. Chelard,Q924686,PER,Q313281,Michel Legrand,,22.008113861083984
+document_000223.html,0,17,Annie Butterworth,NIL,PER,Q435401,Patricia Wentworth,,31.885398864746094
+document_000223.html,19,33,Hannah Edouard,NIL,PER,Q1395828,Henrietta Edwards,,31.10544204711914
+document_000223.html,35,52,Marietta Phillips,NIL,PER,Q24004608,Margaret Phillips,,32.47411346435547
+document_000223.html,54,65,Marie Duval,NIL,PER,Q6781964,María Duval,,37.27841567993164
+document_000223.html,67,85,Mary Jane Williams,NIL,PER,Q6761282,Maria Jane Williams,,33.94649887084961
+document_000225.html,43,60,Hallfield - place,NIL,LOC,Q5642941,Hallfield,,19.76000213623047
+document_000226.html,71,90,Dr. H. J. Gauntlett,Q11925412,PER,Q108747907,Hughenna L. Gauntlett,,18.29535484313965
+document_000227.html,99,111,Fanny Steers,Q104234927,PER,Q98937741,Fanny Fields,,28.921775817871094
+document_000227.html,7,43,The streams that wind amid the hills,NIL,MISC,Q23307921,Songs from the Mountains,,22.684036254882812
+document_000228.html,70,79,Louis XIV,NIL,PER,Q7742,Louis XIV of France,,29.046785354614258
+document_000230.html,40,58,Memuirs of Rossini,NIL,MISC,Q42192185,Letters of a Russian Traveler,,17.688339233398438
+document_000234.html,0,7,Beasley,NIL,PER,Q7190236,Piaras Béaslaí,,17.966533660888672
+document_000234.html,9,26,Llewellyn Bagnall,NIL,PER,Q57239225,Lemuel Bagnall,,23.457496643066406
+document_000234.html,28,45,Alice Mary Curtis,NIL,PER,Q28163092,Marie Curtis,,27.821521759033203
+document_000234.html,47,58,nia Sheehan,NIL,PER,Q5161929,Connie Sheehan,,17.152435302734375
+document_000234.html,60,76,Johanna Ludovici,NIL,PER,Q3767598,Giovanni Ludovico della Rovere,,22.36016845703125
+document_000234.html,78,91,Beata Francis,NIL,PER,Q4802805,Betty Francisco,,20.610544204711914
+document_000235.html,71,88,Pontifical Chapel,NIL,LOC,Q145093,Apostolic Palace,,18.447240829467773
+document_000237.html,0,10,Lord Bacon,Q37388,PER,Q4993242,Ernst Bacon,,23.320524215698242
+document_000237.html,12,19,Addison,Q206384,PER,Q1699098,John Addison,,19.92121124267578
+document_000237.html,21,30,Dr. Brown,NIL,PER,Q2337004,Emmett Brown,,19.787445068359375
+document_000238.html,10,37,St. Mary - at - Hill Church,Q7594548,LOC,Q7401818,"Saint Mary's Church, Holyhead",,19.533382415771484
+document_000239.html,0,11,Mr. Weidner,NIL,PER,Q22955454,Wigbold Balthazar Weidner,,20.483684539794922
+document_000240.html,21,45,Catalogue of Manuscripts,NIL,MISC,Q21561323,NLW General Manuscripts,,26.520116806030273
+document_000241.html,39,46,Society,NIL,ORG,Q7447600,Selden Society,"```json { ""wikipedia_page"": ""Selden Society"", ""wikidata_id"": ""Q7447600"" } ```",9.430803298950195
+document_000241.html,84,98,Mr. F. N. Lohr,NIL,PER,Q15854073,Werner Lohr,,16.600454330444336
+document_000242.html,37,51,theatre Favart,Q872222,LOC,Q47419907,Salle Favart,,18.417098999023438
+document_000243.html,26,36,Mr. Brooke,NIL,PER,Q333889,"Henry Brooke, Baron Brooke of Cumnor","```json { ""wikipedia_page"": ""Henry Brooke, Baron Brooke of Cumnor"", ""wikidata_id"": ""Q333889"" } ```",8.301383972167969
+document_000245.html,34,41,Tartini,Q108555,PER,Q13498,Taranto,,20.35599708557129
+document_000246.html,50,56,Fenton,NIL,LOC,Q580766,Fenton,,19.47818374633789
+document_000246.html,58,66,Abesford,NIL,LOC,Q993164,Epsom,,16.353410720825195
+document_000248.html,4,8,York,Q42462,LOC,Q163,Yorkshire,,27.185293197631836
+document_000248.html,22,29,meeting,NIl,MISC,Q2761147,meeting,,28.639055252075195
+document_000249.html,2,26,Mrs. Mounsey Bartholomew,Q4766585,PER,Q20732676,Fanny Mary Katherine Bulkeley-Owen,,24.24196434020996
+document_000249.html,39,47,H. Smart,Q466189,PER,Q19985330,Herbert Smart,,26.73882293701172
+document_000249.html,66,81,Brinley Richard,Q4850963,PER,Q4968451,Brinley Richards,,27.153486251831055
+document_000249.html,28,37,J. Barnby,NIL,PER,Q5566022,Joseph Barnby,,29.774154663085938
+document_000250.html,0,6,Sontag,Q64098,PER,Q1449105,Franz Sontag,,16.305641174316406
+document_000250.html,26,34,Brussels,Q9005,LOC,Q240,Brussels-Capital Region,,24.190765380859375
+document_000251.html,43,67,La Sincerita trionphante,NIL,MISC,Q108044113,Love Triumphant,,18.350330352783203
+document_000253.html,29,45,Lord Chamberlain,Q541755,PER,Q1355456,Lord Chamberlain,,17.430315017700195
+document_000253.html,8,17,Mr. Hawes,NIL,PER,Q6222666,"John Bowes, 1st Baron Bowes",,16.444683074951172
+document_000254.html,0,10,Mr. Linley,Q5541748,PER,Q15458660,William Linley,,23.20952606201172
+document_000255.html,40,55,central Germany,Q524856,LOC,Q85869924,,,17.733734130859375
+document_000256.html,36,46,Sir Sidney,NIL,PER,Q315509,Philip Sidney,,20.574981689453125
+document_000257.html,4,39,London Gregorian Choral Association,NIL,ORG,Q6670826,London Symphony Chorus,,32.45112228393555
+document_000259.html,64,98,National Training School for Music,Q55082727,ORG,Q6970750,National Association of Schools of Music,,20.100875854492188
+document_000260.html,0,5,Grisi,Q287344,PER,Q2282309,Grisì,"```json { ""wikipedia_page"": ""Grisì"", ""wikidata_id"": ""Q2282309"" } ```",9.508566856384277
+document_000261.html,12,23,John Dobson,NIL,PER,Q6229555,John Dobson,,29.278059005737305
+document_000262.html,67,83,Societa Armonica,NIL,ORG,Q7181548,Phi Mu Alpha Sinfonia,,19.195079803466797
+document_000262.html,120,133,Mr. Armstrong,NIL,PER,Q2067323,Thomas Armstrong,,16.504135131835938
+document_000263.html,0,7,Tauride,NIL,MISC,Q687822,Iphigénie en Tauride,"```json { ""wikipedia_page"": ""Iphigénie en Tauride"", ""wikidata_id"": ""Q687822"" } ```",12.82153606414795
+document_000267.html,42,62,CHARLES JOSEPH FROST,Q94766323,PER,Q47183844,,,24.101001739501953
+document_000267.html,0,27,A COLLECTION OF ORGAN PIECE,NIL,MISC,Q6600418,list of compositions for organ,"```json { ""wikipedia_page"": ""list of compositions for organ"", ""wikidata_id"": ""Q6600418"" } ```",13.901309967041016
+document_000268.html,0,26,A Word or Two on the Flute,NIL,MISC,Q7314860,Requiem for a Wren,,19.866788864135742
+document_000268.html,31,42,N. W. James,NIL,PER,Q3778541,Nicholas Williams,,26.922119140625
+document_000270.html,24,35,Mrs. Bridge,NIL,PER,Q13511828,Ann Bridge,,16.287067413330078
+document_000270.html,37,53,Miss Pocklington,NIL,PER,Q7206466,Pocklington,,20.972631454467773
+document_000270.html,55,69,Miss E. Taylor,NIL,PER,Q4982177,Irene Taylor,,21.6538143157959
+document_000270.html,71,87,Mrs. Littlehales,NIL,PER,Q29602103,Littlehales,,17.814327239990234
+document_000270.html,93,112,Rev. G. C. Robinson,NIL,PER,Q7634777,Sugar Chile Robinson,,20.40191650390625
+document_000270.html,118,127,Mr. Fieid,NIL,PER,Q5721204,Henry Feyerabend,,17.38768196105957
+document_000272.html,13,30,Ciro riconosciuto,Q18325000,MISC,Q5770266,Ciro riconosciuto,,21.30556869506836
+document_000280.html,40,61,Chevalier de Lorraine,Q916954,PER,Q505101,Charles IV of Lorraine,"```json { ""wikipedia_page"": ""Charles IV of Lorraine"", ""wikidata_id"": ""Q505101"" } ```",11.512686729431152
+document_000281.html,51,60,Schneider,Q213906,PER,Q11955157,Wilhelm Schneider,"```json { ""wikipedia_page"": ""Wilhelm Schneider"", ""wikidata_id"": ""Q11955157"" } ```",8.87741756439209
+document_000281.html,62,67,Loewe,Q158899,PER,Q102511,Ludwig Loewe,"```json { ""wikipedia_page"": ""Ludwig Loewe"", ""wikidata_id"": ""Q102511"" } ```",12.914610862731934
+document_000282.html,0,5,Ferri,Q804749,PER,Q3742594,Ferdinando Ferri,,19.008268356323242
+document_000282.html,7,16,Matteucci,NIL,PER,Q3852214,Matteo Sassano,,20.088640213012695
+document_000283.html,0,18,Symphony in E flat,NIL,MISC,Q727255,Symphony in E-flat,"```json { ""wikipedia_page"": ""Symphony in E-flat"", ""wikidata_id"": ""Q727255"" } ```",13.334550857543945
+document_000284.html,22,37,Madame Caradori,Q16065895,PER,Q530319,Marie Carandini,"```json { ""wikipedia_page"": ""Marie Carandini"", ""wikidata_id"": ""Q530319"" } ```",13.74882698059082
+document_000284.html,42,64,Mademoiselle Brambilla,Q3847905,PER,Q570890,Princess Brambilla,,19.07046890258789
+document_000284.html,80,95,Signors Curioni,Q87346693,PER,Q3665397,Cesare Curioni,"```json { ""wikipedia_page"": ""Cesare Curioni"", ""wikidata_id"": ""Q3665397"" } ```",11.817774772644043
+document_000284.html,97,107,Pellegrini,NIL,PER,Q18402652,Julius Pellegrini,"```json { ""wikipedia_page"": ""Julius Pellegrini"", ""wikidata_id"": ""Q18402652"" } ```",12.070368766784668
+document_000284.html,113,118,Porto,NIL,PER,Q36433,Porto,"```json { ""wikipedia_page"": ""Porto"", ""wikidata_id"": ""Q36433"" } ```",9.309050559997559
+document_000284.html,122,134,Mr. A. Sapio,NIL,PER,Q3876090,Nico Sapio,"```json { ""wikipedia_page"": ""Nico Sapio"", ""wikidata_id"": ""Q3876090"" } ```",13.576390266418457
+document_000287.html,84,99,Rev. Mr. Liston,Q5724966,PER,Q715460,Robert Liston,"```json { ""wikipedia_page"": ""Robert Liston"", ""wikidata_id"": ""Q715460"" } ```",10.648676872253418
+document_000290.html,36,47,the Passion,Q237382,MISC,Q623306,Passion,"```json { ""wikipedia_page"": ""Passion"", ""wikidata_id"": ""Q623306"" } ```",11.246713638305664
+document_000291.html,0,6,Varesi,Q102075928,PER,Q6285,Varese,,22.549583435058594
+document_000292.html,52,57,Rebel,NIL,PER,Q954589,Jean-Féry Rebel,"```json { ""wikipedia_page"": ""Jean-Féry Rebel"", ""wikidata_id"": ""Q954589"" } ```",14.324859619140625
+document_000293.html,0,11,Mr. Latovur,NIL,PER,Q97453234,Almar Latour,"```json { ""wikipedia_page"": ""Almar Latour"", ""wikidata_id"": ""Q97453234"" } ```",10.447954177856445
+document_000294.html,30,46,Miss Edith Wynne,Q7422270,PER,Q19897870,Eithne Ní Uallacháin,,26.466182708740234
+document_000294.html,62,71,Mr. Lloyd,Q5344187,PER,Q23418901,Wendy Lloyd,,17.81528091430664
+document_000296.html,0,11,Antoine Law,NIL,PER,Q4775413,Antoine-Laurent Baudron,"```json { ""wikipedia_page"": ""Antoine-Laurent Baudron"", ""wikidata_id"": ""Q4775413"" } ```",9.419045448303223
+document_000297.html,46,56,Mr. Cowper,Q315537,PER,Q5612782,"William Cowper, 1st Earl Cowper",,17.738300323486328
+document_000298.html,0,12,Mr. J. Wylde,NIL,PER,Q6265019,John Wylde,,27.65872573852539
+document_000301.html,2,8,Jodran,NIL,PER,Q6170276,Yordano,,19.109365463256836
+document_000301.html,50,57,Soretti,NIL,PER,Q109322137,Sarettii,,16.81786346435547
+document_000302.html,14,22,M. Buium,NIL,PER,Q10334076,Muíbo Cury,,19.319822311401367
+document_000306.html,35,44,M. Simard,NIL,PER,Q1930683,Michel Chamillart,,25.216583251953125
+document_000308.html,65,77,Allan Ramsay,Q654775,PER,Q449460,Allan Ramsay,,44.6865234375
+document_000309.html,49,69,Dr. Clarke Whitfield,Q6226247,PER,Q60542719,Charles Richard Whitfield,,27.525135040283203
+document_000310.html,23,32,Miss Wood,NIL,PER,Q5209784,Daisy Wood,"```json { ""wikipedia_page"": ""Daisy Wood"", ""wikidata_id"": ""Q5209784"" } ```",12.198606491088867
+document_000310.html,56,63,Bowling,NIL,PER,Q3718742,Orbie Bowling,"```json { ""wikipedia_page"": ""Orbie Bowling"", ""wikidata_id"": ""Q3718742"" } ```",12.664084434509277
+document_000314.html,0,22,Gehring Jean Guillaume,NIL,PER,Q94282400,Johann Wilhelm Gehring,,29.906719207763672
+document_000316.html,74,92,Her Royal Highness,Q61328,PER,Q1252328,Royal Highness,,24.150861740112305
+document_000316.html,93,117,the Duchess of Cambridge,NIL,PER,Q152239,Queen Camilla,,26.320886611938477
+document_000317.html,38,64,the Italian Improvisiatori,Q6007897,MISC,Q3725916,Enrico Miglioranzi,,16.21738624572754
+document_000319.html,17,29,Boyton Smith,Q110136517,PER,Q111823005,Bolton Smith,,29.105493545532227
+document_000319.html,31,43,E. H. Thorne,Q5345615,PER,Q5379335,Enoch Thorne,,33.90009307861328
+document_000319.html,86,97,John Hullah,Q6253603,PER,Q7151419,Paul Hullah,,31.953943252563477
+document_000319.html,59,74,E. M. Delaborde,NIL,PER,Q4157016,Élie-Miriam Delaborde,,30.579910278320312
+document_000319.html,76,84,E. Silas,NIL,PER,Q21457521,Ellis Silas,,30.95486831665039
+document_000319.html,99,111,E. H. Turpin,NIL,PER,Q5339543,Edmund Hart Turpin,,34.01960754394531
+document_000319.html,113,123,Franz Nava,NIL,PER,Q108000781,Francesco Nava,,30.22966957092285
+document_000319.html,142,157,C. W. Lavington,NIL,PER,Q5126801,Clarence W. Wigington,,28.64754295349121
+document_000319.html,159,175,J. E. Richardson,NIL,PER,Q22019296,J. Edward Richardson,,30.642141342163086
+document_000319.html,177,192,R. Forsey Brion,NIL,PER,Q4974054,Bronson Ray,,26.69456672668457
+document_000319.html,198,209,J. Tilleard,NIL,PER,Q3180892,John Alexander Tilleard,,27.51151466369629
+document_000320.html,0,17,The Boylston Clab,NIL,ORG,Q10376659,Tea Club and Barrovian Society,,22.8541259765625
+document_000320.html,60,78,Mr Geos L. O3scoop,NIL,PER,Q16027025,John Glossop,,18.751419067382812
+document_000321.html,48,69,conservatory of Peris,Q463055,ORG,Q3401988,Saint Peris,"```json { ""wikipedia_page"": ""Saint Peris"", ""wikidata_id"": ""Q3401988"" } ```",8.19088363647461
+document_000323.html,46,74,Prince de la Tour d’Auvergne,Q3132295,PER,Q2053709,Charles Godefroy de La Tour d'Auvergne,"```json { ""wikipedia_page"": ""Charles Godefroy de La Tour d'Auvergne"", ""wikidata_id"": ""Q2053709"" } ```",13.578523635864258
+document_000323.html,80,98,Dake of Manchester,Q860041,PER,Q793583,"Charles Montagu, 1st Duke of Manchester","```json { ""wikipedia_page"": ""Charles Montagu, 1st Duke of Manchester"", ""wikidata_id"": ""Q793583"" } ```",13.210193634033203
+document_000323.html,100,108,Mr. Mure,NIL,PER,Q8015940,William Mure,"```json { ""wikipedia_page"": ""William Mure"", ""wikidata_id"": ""Q8015940"" } ```",13.893877983093262
+document_000324.html,73,82,Moscheles,Q159551,PER,Q55999,Felix Moscheles,,17.354522705078125
+document_000326.html,80,101,Miss Jennie H. Baxter,NIL,PER,Q16018588,Jeanne Ellison Shaffer,,19.337142944335938
+document_000327.html,0,2,J.,NIL,PER,Q6106849,J. R. Morgan,,21.260221481323242
+document_000327.html,7,16,C. Morgan,NIL,PER,Q1129523,C. Lloyd Morgan,,24.203977584838867
+document_000328.html,29,39,Mr. Braham,Q1699393,PER,Q7183267,Philip Braham,,21.270671844482422
+document_000329.html,69,97,Kidderminster Choral Society,NIL,ORG,Q5170684,Corinthian Chamber Orchestra,,27.80904769897461
+document_000331.html,37,51,Lupus - street,NIL,LOC,Q97738379,Dunlop Street,"```json { ""wikipedia_page"": ""Dunlop Street"", ""wikidata_id"": ""Q97738379"" } ```",12.645748138427734
+document_000331.html,68,84,Renfrew - street,NIL,LOC,Q65047325,Lost Street Names in Edinburgh,,18.179798126220703
+document_000332.html,0,13,Mr. De Beriot,Q385217,PER,Q1995861,Charles-Wilfrid de Bériot,,18.78530502319336
+document_000333.html,4,21,Fitzwilliam Music,Q1421448,MISC,Q1421440,Fitzwilliam Museum,,18.736820220947266
+document_000338.html,43,55,M. Tolbeeque,Q2871419,PER,Q65953188,Tom Verbeke,,23.11833953857422
+document_000339.html,25,39,Choral Society,NIL,ORG,Q3445907,Royal Choral Society,,16.42586326599121
+document_000341.html,74,83,C. Peters,NIL,PER,Q187520,Charles Sanders Peirce,"```json { ""wikipedia_page"": ""Charles Sanders Peirce"", ""wikidata_id"": ""Q187520"" } ```",13.213545799255371
+document_000341.html,85,97,H. Stanbrook,NIL,PER,Q5628005,H.R. Stoneback,,20.227832794189453
+document_000344.html,160,171,Lord Dudley,Q8019995,PER,Q548613,Edmund Dudley,,16.844144821166992
+document_000346.html,0,5,Cupis,Q1684628,PER,Q24934805,,,20.988466262817383
+document_000348.html,44,57,Covent Garden,Q55018,LOC,Q55019,Covent Garden,,31.50176239013672
+document_000348.html,61,71,Drury Lane,Q1756626,LOC,Q1261392,Drury Lane,,26.8726749420166
+document_000349.html,13,35,G. and W. B. Whittaker,Q19862364,ORG,Q5537524,George Byrom Whittaker,,24.076574325561523
+document_000349.html,41,51,Maria Lune,NIL,PER,Q405,Moon,,17.124317169189453
+document_000349.html,57,73,Clementi and Co.,NIL,ORG,Q16958761,Clements Worldwide,,16.68883514404297
+document_000353.html,48,57,Helmstadt,Q504431,LOC,Q314466,University of Helmstedt,,17.109514236450195
+document_000355.html,83,99,Academy of Music,Q4671497,ORG,Q1021290,music school,,18.969987869262695
+document_000356.html,0,26,The Merry Wives of Windsor,NIL,MISC,Q844836,The Merry Wives of Windsor,,26.125642776489258
+document_000357.html,0,12,Miss Alleyne,NIL,PER,Q20800601,The Seamstress,,16.47588348388672
+document_000357.html,27,36,Shakspere,Shakspere,PER,Q692,William Shakespeare,,22.781391143798828
+document_000358.html,154,168,Signer -Monari,Q3680460,PER,Q983061,Luciano Monari,"```json { ""wikipedia_page"": ""Luciano Monari"", ""wikidata_id"": ""Q983061"" } ```",11.068629264831543
+document_000361.html,34,44,Veisailles,Q621,LOC,Q2909101,Boisseilles,,21.222412109375
+document_000362.html,0,40,Three Grand Sonatas for the Piano F orte,NIL,MISC,Q903425,trio sonata,,20.677412033081055
+document_000365.html,4,21,Duke of Edinburgh,Q158143,PER,Q80976,"Prince Philip, Duke of Edinburgh",,23.650901794433594
+document_000366.html,117,122,Lucas,Q5080372,PER,Q1095478,Clarence Lucas,"```json { ""wikipedia_page"": ""Clarence Lucas"", ""wikidata_id"": ""Q1095478"" } ```",12.987667083740234
+document_000371.html,51,61,Rubinstein,Q87567,PER,Q183182,Arthur Rubinstein,,31.8150577545166
+document_000374.html,3,20,Pastoral Symphony,Q246433,MISC,Q110465630,,,20.226943969726562
+document_000377.html,23,41,Duke of Cumberland,Q162302,PER,Q378088,"Prince William, Duke of Cumberland",,27.469390869140625
+document_000378.html,37,50,Archbishop of,Q3048710,PER,Q1363910,Anglican Archbishop of York,,18.387250900268555
+document_000379.html,0,16,Mr. H. W. George,NIL,PER,Q44720690,William Wellesley,,26.505502700805664
+document_000380.html,46,66,Leopoldstadt theatre,Q255887,LOC,Q85776274,Leopoldstadt,,18.611276626586914
+document_000380.html,77,96,Der Leopard und der,NIL,MISC,Q25203613,My Leopold,,16.474061965942383
+document_000382.html,29,35,Gnecco,Q1121021,PER,Q5761941,Jimmy Gnecco,,20.696887969970703
+document_000385.html,3,28,Sona of the Roving Gypsey,NIL,MISC,Q17027085,Saga-Drøm,,16.553569793701172
+document_000387.html,85,110,Journal of Professor Voss,NIL,ORG,Q90626,Julius von Voss,,20.454757690429688
+document_000389.html,0,37,Variations on a favourite Russian Air,NIL,MISC,Q1517224,Variations for piano,,18.657854080200195
+document_000389.html,59,78,Brilliant Polonaise,NIL,MISC,Q60791972,"Polonaise de Concert, Op. 4",,21.258846282958984
+document_000392.html,52,59,Messiah,Q207732,MISC,Q51626,Messiah,,18.40696907043457
+document_000393.html,0,13,National Hymn,Q40807,MISC,Q23691,national anthem,,26.182483673095703
+document_000393.html,61,76,Prince of Wales,Q20875,PER,Q180729,Prince of Wales,,19.935894012451172
+document_000394.html,27,43,Achille in Sciro,Q18280239,MISC,Q8202887,Achille in Sciro,,24.861454010009766
+document_000394.html,2,17,Amore in Musica,NIL,MISC,Q11930179,L'amore in musica,,29.180152893066406
+document_000394.html,53,76,L’Ingannatore ingannato,NIL,MISC,Q585313,Il fortunato inganno,,25.842639923095703
+document_000394.html,86,97,J Olympiade,NIL,MISC,Q116903,Che originali!,,17.819807052612305
+document_000395.html,14,21,Clifton,Q2376216,LOC,Q5133138,Clifton,,22.61189842224121
+document_000395.html,0,9,Mr. Waite,NIL,PER,Q7177544,Peter Waite,,17.018571853637695
+document_000395.html,46,60,Mr. Millington,NIL,PER,Q28227691,Andrew Millington,"```json { ""wikipedia_page"": ""Andrew Millington"", ""wikidata_id"": ""Q28227691"" } ```",13.974067687988281
+document_000396.html,87,92,Baden,Q4100,LOC,Q6877935,Baden,,23.547122955322266
+document_000396.html,18,35,Catl August Weber,NIL,PER,Q154812,Carl Maria von Weber,,30.028587341308594
+document_000397.html,0,9,Dr. Sponr,Q57226,PER,Q12357347,stub list of British Esperantists,,17.946147918701172
+document_000398.html,151,165,Der Freischutz,Q156435,MISC,Q672789,Freischütz,"```json { ""wikipedia_page"": ""Freischütz"", ""wikidata_id"": ""Q672789"" } ```",13.84812068939209
+document_000400.html,21,30,Canticles,Q51670,MISC,Q1033831,canticle,,21.93943214416504
+document_000400.html,48,72,His Grace the Archbishop,Q377308,PER,Q1363910,Anglican Archbishop of York,"```json { ""wikipedia_page"": ""Anglican Archbishop of York"", ""wikidata_id"": ""Q1363910"" } ```",11.611735343933105
+document_000402.html,79,92,Musical World,Q115925788,MISC,Q3328486,Music World Corporation,,21.32720947265625
+document_000403.html,172,183,M. Quaranta,NIL,PER,Q112471292,Felice Quaranta,,22.421630859375
+document_000403.html,196,204,M. Eroff,NIL,PER,Q666643,Michel Béroff,,20.00913429260254
+document_000403.html,220,230,M. Fontana,NIL,PER,Q15731739,Marco Publio Fontana,,19.33792495727539
+document_000404.html,23,33,Magnificat,NIL,MISC,Q200809,Magnificat,,21.530261993408203
+document_000406.html,75,93,Salle des Concerts,NIL,LOC,Q3469854,,,25.544885635375977
+document_000406.html,95,108,Rue Siblequin,NIL,LOC,Q28952369,rue Boulbonne,,22.962392807006836
+document_000406.html,117,142,Sociélé Philharmonique de,NIL,ORG,Q25476426,,,20.551395416259766
+document_000408.html,45,55,Mr. Waters,Q16859200,PER,Q314926,John Waters,"```json { ""wikipedia_page"": ""John Waters"", ""wikidata_id"": ""Q314926"" } ```",11.476744651794434
+document_000410.html,16,29,Francis Fowke,NIL,PER,Q3378439,Francis Fowke,,32.38024139404297
+document_000410.html,39,51,Sir W. Jones,NIL,PER,Q8020627,"William Wynne-Jones, Baron Wynne-Jones",,20.34424591064453
+document_000412.html,2,15,Le Colporteur,NIL,MISC,Q1213976,Die Kolporteure,"```json { ""wikipedia_page"": ""Die Kolporteure"", ""wikidata_id"": ""Q1213976"" } ```",12.746013641357422
+document_000412.html,83,90,M. Gama,NIL,PER,Q16557664,Frederick Gamage,,17.72516632080078
+document_000413.html,66,80,Portland Hotel,NIL,LOC,Q7231953,Portland Hotel,,24.48752784729004
+document_000414.html,63,67,Hall,NIL,LOC,Q193639,Royal Albert Hall,"```json { ""wikipedia_page"": ""Royal Albert Hall"", ""wikidata_id"": ""Q193639"" } ```",6.525766372680664
+document_000417.html,31,38,America,Q30,LOC,Q828,Americas,,25.49686050415039
+document_000418.html,47,55,New Hall,NIL,LOC,Q5329825,Eastbourne Theatres,,22.08502769470215
+document_000418.html,71,104,Devonshire Park and Baths Company,NIL,ORG,Q5267874,Devonshire Park Theatre,,30.321025848388672
+document_000418.html,138,150,Skating Rink,NIL,LOC,Q1282870,ice rink,,20.222917556762695
+document_000419.html,19,55,West Central Organ School and Studio,NIL,ORG,Q5009212,CBSO Centre,,20.37627410888672
+document_000419.html,61,76,Vernon - street,NIL,LOC,Q979546,Vernon,"```json { ""wikipedia_page"": ""Vernon"", ""wikidata_id"": ""Q979546"" } ```",13.389071464538574
+document_000420.html,0,8,The Glee,NIL,MISC,Q663979,glee,,21.386573791503906
+document_000420.html,10,24,the Elf - King,NIL,MISC,Q82850,list of English monarchs,,18.021533966064453
+document_000421.html,4,12,Crociato,NIL,MISC,Q28076326,Giovanni Crociata,,16.78822135925293
+document_000421.html,65,78,Melographicon,NIL,MISC,Q6813515,melograph,"```json { ""wikipedia_page"": ""melograph"", ""wikidata_id"": ""Q6813515"" } ```",14.979496002197266
+document_000421.html,84,92,Mengozzi,NIL,PER,Q19998065,Bernardo Mengozzi,,19.451627731323242
+document_000422.html,2,9,Ly fair,NIL,MISC,Q201129,lyre,"```json { ""wikipedia_page"": ""lyre"", ""wikidata_id"": ""Q201129"" } ```",10.696022987365723
+document_000423.html,112,129,St. Benet - place,Q130590,LOC,Q2890677,St Benet's Hall,"```json { ""wikipedia_page"": ""St Benet's Hall"", ""wikidata_id"": ""Q2890677"" } ```",14.832992553710938
+document_000423.html,77,90,R. S. Jackson,NIL,PER,Q21540105,Lawrence Stanley Jackson,,20.437217712402344
+document_000424.html,87,104,chapel of Loretto,Q654996,LOC,Q2956557,Loretto Chapel,"```json { ""wikipedia_page"": ""Loretto Chapel"", ""wikidata_id"": ""Q2956557"" } ```",13.491412162780762
+document_000427.html,49,60,Mr. Novello,Q2526705,PER,Q16059897,Joseph Alfred Novello,,16.32220458984375
+document_000427.html,0,6,Book 8,NIL,MISC,Q2659438,N-Town Mystery Plays,"```json { ""wikipedia_page"": ""N-Town Mystery Plays"", ""wikidata_id"": ""Q2659438"" } ```",7.948567867279053
+document_000428.html,36,41,York.,Q1984708,LOC,Q60,New York City,,19.521501541137695
+document_000428.html,3,15,J. L. Peters,NIL,PER,Q1358609,James Lee Peters,,28.108600616455078
+document_000428.html,32,35,New,New,LOC,Q60,New York City,,22.861289978027344
+document_000429.html,0,6,Seguin,NIL,PER,Q975549,Seguin,,18.122892379760742
+document_000430.html,46,64,Duke of Cumberland,Q162302,PER,Q378088,"Prince William, Duke of Cumberland",,25.312728881835938
+document_000432.html,0,13,M. Le- vassor,Q3385954,PER,Q379992,Mikel Laboa,,21.819971084594727
+document_000434.html,0,24,The Banks of Allan Water,NIL,MISC,Q7715562,The Banks of Green Willow,,18.858795166015625
+document_000436.html,4,19,W. H.- Cummings,Q3827349,PER,Q8007368,William Cumming Henley,,19.150678634643555
+document_000440.html,41,62,Mass for Eight Voices,Q723790,MISC,Q6784039,Mass for Four Voices,,20.049985885620117
+document_000440.html,0,24,Quoniam tu sanctus solus,NIL,MISC,Q11588638,,,18.18893814086914
+document_000441.html,69,89,M. W. P. de C. Vrugt,NIL,PER,Q15884027,Willem Pasques de Chavonnes Vrugt,,22.882427215576172
+document_000441.html,111,120,M. Lafont,NIL,PER,Q517502,Charles Philippe Lafont,,25.12825584411621
+document_000442.html,0,7,Society,NIL,ORG,Q8425,society,,15.83829116821289
+document_000442.html,39,54,British Schools,NIL,ORG,Q4834944,BBC Schools,,16.46118927001953
+document_000443.html,0,7,Steiner,NIL,PER,Q1037954,Carl Friedrich Christian Steiner,,15.66417407989502
+document_000444.html,0,37,Three Easy Duets for Two Violoncellos,NIL,MISC,Q3540025,,,27.52496337890625
+document_000446.html,8,18,Magnificat,NIL,MISC,Q200809,Magnificat,,28.71156883239746
+document_000446.html,23,36,Nunc dimittis,NIL,MISC,Q725548,Nunc dimittis,,27.86305809020996
+document_000447.html,29,30,T,NIL,PER,Q9813,T,"```json { ""wikipedia_page"": ""T"", ""wikidata_id"": ""Q9813"" } ```",6.570344924926758
+document_000448.html,0,9,Battimore,Q5092,LOC,Q210077,baptistery,,21.63032341003418
+document_000449.html,83,97,GEorGE Norsury,NIL,PER,Q2371604,Jerome Horsey,,18.4344482421875
+document_000450.html,8,21,H. C. Sturton,NIL,PER,Q17554908,Church of Saint Stephen,,27.741941452026367
+document_000450.html,72,93,Morden College Chapel,NIL,LOC,Q6910808,Morden College,,30.2635555267334
+document_000451.html,124,144,Prince of Swartzburg,Q832878,PER,Q630163,Schwarzburg-Sondershausen,"```json { ""wikipedia_page"": ""Schwarzburg-Sondershausen"", ""wikidata_id"": ""Q630163"" } ```",11.207802772521973
+document_000453.html,109,117,St. Mark,Q172988,LOC,Q31966,Mark the Evangelist,,26.33938980102539
+document_000455.html,44,67,Memoir of Central India,NIL,MISC,Q1700959,John Malcolm,,22.931211471557617
+document_000457.html,16,28,Mrs. A. Shaw,NIL,PER,Q532873,Anna Howard Shaw,"```json { ""wikipedia_page"": ""Anna Howard Shaw"", ""wikidata_id"": ""Q532873"" } ```",12.210315704345703
+document_000457.html,30,41,Mr. Bennett,NIL,PER,Q7525911,"Sir Albert Bennett, 1st Baronet","```json { ""wikipedia_page"": ""Sir Albert Bennett, 1st Baronet"", ""wikidata_id"": ""Q7525911"" } ```",7.261724948883057
+document_000457.html,47,59,Mr. Phillips,NIL,PER,Q2218223,Samuel F. Phillips,"```json { ""wikipedia_page"": ""Samuel F. Phillips"", ""wikidata_id"": ""Q2218223"" } ```",5.4394612312316895
+document_000458.html,88,107,Il favore degli dei,NIL,MISC,Q11262920,Per la gloria d’adorarvi,,18.87156867980957
+document_000458.html,111,132,La Gloria degli amori,NIL,MISC,Q6455944,L'honestà negli amori,,22.144638061523438
+document_000458.html,136,143,Eraelea,NIL,MISC,Q56310826,,,17.934537887573242
+document_000459.html,0,14,Agnes Robinson,NIL,PER,Q18528665,Ellen Robinson,,19.449546813964844
+document_000459.html,16,31,Mrs. Carmichael,NIL,PER,Q481824,Amy Carmichael,"```json { ""wikipedia_page"": ""Amy Carmichael"", ""wikidata_id"": ""Q481824"" } ```",14.92165756225586
+document_000459.html,37,51,Messrs. Hobart,NIL,PER,Q7921181,"Vere Hobart, Lord Hobart","```json { ""wikipedia_page"": ""Vere Hobart, Lord Hobart"", ""wikidata_id"": ""Q7921181"" } ```",14.261911392211914
+document_000459.html,53,58,Peake,NIL,PER,Q4786474,Archibald Peake,"```json { ""wikipedia_page"": ""Archibald Peake"", ""wikidata_id"": ""Q4786474"" } ```",14.132564544677734
+document_000459.html,60,72,C. J. Lenton,NIL,PER,Q1248770,Alexander Keith Johnston,"```json { ""wikipedia_page"": ""C. J. Lenton"", ""wikidata_id"": ""Q1248770"" } ```",14.07861614227295
+document_000459.html,78,87,C. Wilson,NIL,PER,Q16029273,Charles Coker Wilson,"```json { ""wikipedia_page"": ""Charles Coker Wilson"", ""wikidata_id"": ""Q16029273"" } ```",13.712760925292969
+document_000460.html,100,114,Mr. Waddington,NIL,PER,Q18020437,Geoffrey Waddington,,18.319732666015625
+document_000461.html,26,36,MISS DOLBY,Q4164386,PER,NIL,MISS DOLBY,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",9.111117362976074
+document_000461.html,41,68,FELIX MENDELLSOAN BARTHOLDY,Q46096,PER,Q4882377,Belford Hendricks,,22.900524139404297
+document_000465.html,31,36,Costa,NIL,PER,Q7407351,Sam Costa,"```json { ""wikipedia_page"": ""Sam Costa"", ""wikidata_id"": ""Q7407351"" } ```",7.474132061004639
+document_000466.html,69,84,Haoway - street,NIL,LOC,Q5881814,Holloway Road,,16.837787628173828
+document_000466.html,114,146,Choruses in the Messiah as Duets,NIL,MISC,Q24911416,Song-Uttering Choirs,,20.739843368530273
+document_000467.html,32,42,Miss Paton,Q16888398,PER,NIL,Miss Paton,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",10.280232429504395
+document_000467.html,77,99,Mademoiselle Brambilla,Q3984276,PER,Q570890,Princess Brambilla,"```json { ""wikipedia_page"": ""Princess Brambilla"", ""wikidata_id"": ""Q570890"" } ```",12.02366828918457
+document_000468.html,5,17,Maid of Isla,NIL,MISC,Q3216037,Lady of the Island,,16.80689811706543
+document_000469.html,46,62,Jupiter Symphony,Q232367,MISC,Q261090,Symphony No. 7,,27.82779884338379
+document_000471.html,53,70,Marlborough Honse,Q565532,LOC,Q168159,Anglesey,,19.59080696105957
+document_000471.html,93,131,His Royal Highness the Prince of Wales,Q20875,PER,Q43274,Charles III,,20.847007751464844
+document_000471.html,20,44,South Wales Choral Union,NIL,ORG,Q65088714,Hallé Choir,,27.633726119995117
+document_000473.html,2,18,Pastoral Cantata,NIL,MISC,Q2936565,,,17.481355667114258
+document_000473.html,46,63,FREDERICK BaLpwin,NIL,PER,Q4570160,Elijah Coleman Bridgman,,25.494596481323242
+document_000474.html,19,29,Mrs. Barry,NIL,PER,Q1073330,The Barry Sisters,,17.013017654418945
+document_000474.html,31,42,Miss Little,NIL,PER,Q3372740,Pauline Little,"```json { ""wikipedia_page"": ""Pauline Little"", ""wikidata_id"": ""Q3372740"" } ```",14.094438552856445
+document_000474.html,47,64,Mr. Thomas Acland,NIL,PER,Q7529108,"Sir Thomas Dyke Acland, 11th Baronet",,20.587318420410156
+document_000475.html,33,47,O Cara Memoria,NIL,MISC,Q24886926,Dear Old Pal of Mine,,26.040311813354492
+document_000475.html,53,64,Jerome Paer,NIL,PER,Q533022,Ferdinando Paer,,30.955097198486328
+document_000476.html,0,7,Clifton,NIL,PER,Q1914570,Clifton Williams,,20.796131134033203
+document_000476.html,33,39,Coccia,NIL,PER,Q167242,Carlo Coccia,"```json { ""wikipedia_page"": ""Carlo Coccia"", ""wikidata_id"": ""Q167242"" } ```",13.542915344238281
+document_000476.html,42,45,Ero,NIL,MISC,Q3732431,Ero Rossi,"```json { ""wikipedia_page"": ""Ero Rossi"", ""wikidata_id"": ""Q3732431"" } ```",13.799861907958984
+document_000477.html,201,214,Jubel Cantata,NIL,MISC,Q11588579,,,22.394285202026367
+document_000478.html,0,6,Gloria,NIL,MISC,Q211979,Gloria in excelsis Deo,,16.499605178833008
+document_000478.html,7,9,in,NIL,MISC,Q211979,Gloria in excelsis Deo,"```json { ""wikipedia_page"": ""Gloria in excelsis Deo"", ""wikidata_id"": ""Q211979"" } ```",11.069070816040039
+document_000478.html,10,18,Excelsis,NIL,MISC,Q625143,ecstasy,,16.836898803710938
+document_000478.html,60,74,Mass Fantasias,NIL,MISC,Q4381032,list of masses by Wolfgang Amadeus Mozart,,21.400344848632812
+document_000478.html,81,87,Martha,NIL,PER,Q168488,Martha,"```json { ""wikipedia_page"": ""Martha"", ""wikidata_id"": ""Q168488"" } ```",10.894550323486328
+document_000480.html,54,67,opera of Dido,NIL,MISC,Q5274220,"Dido, Queen of Carthage","```json { ""wikipedia_page"": ""Dido, Queen of Carthage"", ""wikidata_id"": ""Q5274220"" } ```",13.673317909240723
+document_000481.html,22,36,Mrs. Batchelor,NIL,PER,Q5073373,Chappell Batchelor,,21.59800148010254
+document_000481.html,38,54,Miss E. Thompson,NIL,PER,Q15429972,Alfred Thompson,,28.106948852539062
+document_000481.html,64,75,G. Eagleton,NIL,PER,Q23041499,Granville George Algernon Egerton,,27.658082962036133
+document_000481.html,77,82,Hagan,NIL,PER,Q6238150,John Harvey Gahan,,22.287675857543945
+document_000481.html,84,97,F. O. Stevens,NIL,PER,Q5902153,Horace Stevens,,23.768558502197266
+document_000481.html,99,105,Wickes,NIL,PER,Q3372427,Paul Wickens,,22.64895248413086
+document_000481.html,111,125,Master Moorley,NIL,PER,Q6211440,Joe Morley,,27.814138412475586
+document_000483.html,78,91,G. Hargreaves,NIL,PER,Q3127437,Hargreaves Lansdown,,22.433454513549805
+document_000483.html,93,109,Knightley Grange,NIL,LOC,Q6422342,"Knightley, Staffordshire",,24.963844299316406
+document_000486.html,54,65,Massaniello,Q470773,MISC,Q735619,Masaniello,"```json { ""wikipedia_page"": ""Masaniello"", ""wikidata_id"": ""Q735619"" } ```",10.905366897583008
+document_000486.html,0,8,Mr. Wyke,NIL,PER,Q2274359,Edward Wyke Smith,"```json { ""wikipedia_page"": ""Edward Wyke Smith"", ""wikidata_id"": ""Q2274359"" } ```",13.875941276550293
+document_000488.html,11,38,St. Mary - at - Hiil Church,Q7594548,LOC,Q7401818,"Saint Mary's Church, Holyhead",,20.843107223510742
+document_000488.html,51,55,City,Q84,LOC,Q23311,City of London,,16.036144256591797
+document_000490.html,0,33,The Sun on the Lake shines serene,NIL,MISC,Q7641407,Sunshine & the Rain,,20.33031463623047
+document_000492.html,22,29,M. Amme,NIL,PER,Q295202,AMM,,28.16474723815918
+document_000493.html,10,24,Richard Clarke,NIL,PER,Q7324765,Richard Clarke,,31.982681274414062
+document_000494.html,68,78,Great Room,NIL,LOC,Q56479058,Albay Cathedral,,15.960101127624512
+document_000495.html,0,6,Braham,Q5231664,PER,Q1699393,John Braham,,19.327159881591797
+document_000496.html,34,52,Sir Fohn Stevenson,Q4442571,PER,Q22019495,"Sir Francis Vernon Thomson, 1st Baronet",,20.91889190673828
+document_000496.html,0,23,The Rose and the Lil ly,NIL,MISC,Q6466152,La fille aux cheveux de lin,,17.521642684936523
+document_000498.html,0,14,Walter j. kiey,NIL,PER,Q64031583,Walter A. Kelley,,20.008302688598633
+document_000498.html,33,72,Railway Clearing House Musical Society+,NIL,ORG,Q1240510,Railway Clearing House,,17.60935401916504
+document_000499.html,89,112,his Majesty the Emperor,Q76555,PER,Q181765,Holy Roman Emperor,"```json { ""wikipedia_page"": ""Holy Roman Emperor"", ""wikidata_id"": ""Q181765"" } ```",7.140852928161621
+document_000500.html,57,66,Dr. Spark,NIL,PER,Q7329173,Richard Sparks,,15.486591339111328
+document_000504.html,4,19,Greek Committee,Q2985590,ORG,Q12906357,Macedonian Committee,,17.237823486328125
+document_000506.html,0,10,Mr. Cramer,Q455212,PER,Q21493272,Cramer,"```json { ""wikipedia_page"": ""Cramer"", ""wikidata_id"": ""Q21493272"" } ```",9.468226432800293
+document_000507.html,21,29,Angelica,NIL,MISC,Q4762655,Angelica,,24.634437561035156
+document_000509.html,54,67,Messrs. Lewis,NIL,PER,Q16932574,Lewis & Co,"```json { ""wikipedia_page"": ""Lewis & Co"", ""wikidata_id"": ""Q16932574"" } ```",10.364569664001465
+document_000510.html,17,40,Joseph and his Brethren,Q3184458,MISC,Q6288174,Joseph and his Brethren,,23.190021514892578
+document_000511.html,60,69,Mr. Pixis,Q571716,PER,Q1144339,Pixie,"```json { ""wikipedia_page"": ""Mr. Pixis"", ""wikidata_id"": ""Q1144339"" } ```",8.404159545898438
+document_000514.html,2,19,The Wild Hyacinth,NIL,MISC,Q2570979,Wildwood Flower,,22.972946166992188
+document_000514.html,41,56,J. F. Walmisley,NIL,PER,Q18917555,Thomas Forbes Walmisley,,32.452728271484375
+document_000516.html,37,50,Thomas Haynes,Q7790528,PER,Q16008391,Thamon Hayes,,33.11333084106445
+document_000516.html,0,21,Songs from Fairy Land,NIL,MISC,Q3393169,Poems and Songs of Middle Earth,,22.821714401245117
+document_000519.html,4,13,Impromptu,Q7912616,MISC,Q852027,impromptu,,16.880796432495117
+document_000520.html,0,12,Mr. J. Jones,NIL,PER,Q125686,Jo Jones,,20.753807067871094
+document_000520.html,44,61,Mr. F. C. Watkins,NIL,PER,Q15990344,Frederick Watkins,,21.318527221679688
+document_000521.html,34,51,Count de Clermont,NIL,PER,Q911552,Counts of Clermont-en-Beauvaisis,,17.75442123413086
+document_000523.html,151,157,Ramsay,Q654775,PER,Q3938401,Robert Ramsey,,20.192415237426758
+document_000523.html,159,167,Hamilton,Q18671568,PER,Q178903,Alexander Hamilton,,17.175296783447266
+document_000523.html,169,176,Thomson,Q5545192,PER,Q555029,James Thomson,,18.1638126373291
+document_000523.html,197,205,Macneill,Q5696799,PER,Q7573063,Spancil Hill,,19.665815353393555
+document_000523.html,188,195,Skinner,NIL,PER,Q6258099,John Skinner,,24.241052627563477
+document_000523.html,213,223,Cunningham,NIL,PER,Q6227903,John Cunningham,,21.455772399902344
+document_000525.html,62,80,Countess of Althau,NIL,PER,Q83520,"Alethea Howard, Countess of Arundel","```json { ""wikipedia_page"": ""Alethea Howard, Countess of Arundel"", ""wikidata_id"": ""Q83520"" } ```",8.336909294128418
+document_000525.html,133,141,Endymion,NIL,MISC,Q5376698,Endymion,,20.277725219726562
+document_000527.html,0,5,Ebers,Q6231101,PER,Q1336001,Emil Ebers,,18.277132034301758
+document_000527.html,37,54,Letters to Garcia,NIL,MISC,Q614917,A Message to Garcia,,19.93886947631836
+document_000529.html,0,11,M. Barriere,Q726908,PER,Q81796,J. M. Barrie,,27.862857818603516
+document_000534.html,97,112,Mount of Olives,Q1087216,MISC,Q205976,Mount of Olives,,22.08932876586914
+document_000535.html,48,57,Mr. Parke,Q18757223,PER,Q18756860,John Parke,,18.475746154785156
+document_000537.html,0,8,Philidor,Q362339,PER,Q203229,François-André Danican Philidor,,23.30789566040039
+document_000539.html,0,14,La Prisonniere,NIL,MISC,Q576336,The Captive,,24.36896324157715
+document_000539.html,144,162,Theatre Montausier,NIL,LOC,Q3527521,Théâtre Montansier,,24.929447174072266
+document_000540.html,86,96,Mercadante,Q313980,PER,Q5995862,Marcelo Mercadante,,17.843475341796875
+document_000540.html,0,17,Mr. Joseph Calkin,NIL,PER,Q7512998,Signor Brocolini,,19.159311294555664
+document_000541.html,33,38,Court,NIL,ORG,Q1134237,royal court,"```json { ""wikipedia_page"": ""royal court"", ""wikidata_id"": ""Q1134237"" } ```",14.607065200805664
+document_000543.html,25,37,M. Siismayer,Q310518,PER,Q45426,Matthias Klostermayr,,18.561193466186523
+document_000543.html,74,83,Breitkopf,Q55902416,PER,Q100748,Bernhard Christoph Breitkopf,,19.73739242553711
+document_000543.html,88,95,Haertel,Q1419801,PER,Q316470,Johann Wilhelm Hertel,,15.507431030273438
+document_000545.html,6,10,Pope,NIL,PER,Q19546,pope,,20.964670181274414
+document_000547.html,272,291,Royal Italian Opera,Q55018,ORG,Q785522,Italian opera,,28.82896614074707
+document_000547.html,184,203,Italian Opera House,NIL,ORG,Q1050350,Teatro dell'Opera di Roma,,28.681507110595703
+document_000550.html,44,48,Jong,NIL,PER,Q192114,Jon Lord,"```json { ""wikipedia_page"": ""Jon Lord"", ""wikidata_id"": ""Q192114"" } ```",5.058892250061035
+document_000550.html,114,118,Jong,NIL,PER,Q192114,Jon Lord,"```json { ""wikipedia_page"": ""Jon Lord"", ""wikidata_id"": ""Q192114"" } ```",4.881615161895752
+document_000553.html,37,47,M. Jullien,Q660539,PER,Q48934340,Auguste Jullien,,18.050146102905273
+document_000553.html,0,8,Mr. Sams,NIL,PER,Q8018076,William Sams,,17.842782974243164
+document_000554.html,79,86,Messiah,Q207732,MISC,Q51626,Messiah,,20.660470962524414
+document_000557.html,85,111,Academie Royale de Musique,Q283339,ORG,Q2920855,Académie Royale de Musique,,29.299213409423828
+document_000558.html,0,17,Master Whitehouse,NIL,PER,Q40472702,Worthington Whitehouse,"```json { ""wikipedia_page"": ""Worthington Whitehouse"", ""wikidata_id"": ""Q40472702"" } ```",13.72642993927002
+document_000558.html,19,34,Mr. A. Marriott,NIL,PER,Q4708745,Alastair Marriott,,16.820209503173828
+document_000558.html,36,46,Mr. Mellor,NIL,PER,Q15990171,"Sir John Mellor, 1st Baronet","```json { ""wikipedia_page"": ""Sir John Mellor, 1st Baronet"", ""wikidata_id"": ""Q15990171"" } ```",9.690949440002441
+document_000558.html,52,58,Mr. O.,NIL,PER,Q172788,O. Henry,"```json { ""wikipedia_page"": ""O. Henry"", ""wikidata_id"": ""Q172788"" } ```",11.413700103759766
+document_000558.html,59,68,Christian,NIL,PER,Q4798260,Arthur Christian,"```json { ""wikipedia_page"": ""Arthur Christian"", ""wikidata_id"": ""Q4798260"" } ```",11.978952407836914
+document_000560.html,96,102,Rubini,Q941040,PER,Q3942161,Rubino Rubini,,24.693511962890625
+document_000560.html,125,133,Graziani,NIL,PER,Q4121399,Francesco Graziani,,24.727811813354492
+document_000560.html,149,156,Mariano,NIL,PER,Q2087642,Luis Mariano,,21.474699020385742
+document_000566.html,27,74,La vera idea delle Musicale Numeriche segnature,NIL,MISC,Q924223,"Madamina, il catalogo è questo","```json { ""wikipedia_page"": ""Madamina, il catalogo è questo"", ""wikidata_id"": ""Q924223"" } ```",14.790454864501953
+document_000567.html,11,18,Vestale,Q1622224,MISC,Q63065333,La Vestale,,17.22140121459961
+document_000568.html,7,16,E. Carper,NIL,PER,Q39389045,Edwin Salisbury Carman,"```json { ""wikipedia_page"": ""Edwin Salisbury Carman"", ""wikidata_id"": ""Q39389045"" } ```",14.763556480407715
+document_000569.html,126,142,The Temperaments,NIL,MISC,Q7735046,The Four Temperaments,,24.758350372314453
+document_000572.html,105,114,M. Huguot,NIL,PER,Q3287654,Marc-Antoine Huguet,,27.894573211669922
+document_000572.html,116,124,Frederic,NIL,PER,Q443012,Frédéric Nicolas Duvernoy,,30.24881935119629
+document_000573.html,23,41,Mademoiselle Pasta,Q240963,PER,Q28499074,,,17.584739685058594
+document_000576.html,17,31,Mr. Carmichael,NIL,PER,Q2641917,Alexander Carmichael,"```json { ""wikipedia_page"": ""Alexander Carmichael"", ""wikidata_id"": ""Q2641917"" } ```",12.639923095703125
+document_000576.html,123,135,Madeline Roe,NIL,PER,Q275276,Madlyn Rhue,,22.34088897705078
+document_000576.html,137,154,Miss Marie Ternan,NIL,PER,Q6762924,Marie Lorraine,,17.54058837890625
+document_000577.html,31,42,Alma Square,NIL,LOC,Q24039419,Alpha Square,,16.25988006591797
+document_000578.html,16,22,Stiick,Q2654296,MISC,Q10757660,Ständchen,"```json { ""wikipedia_page"": ""Ständchen"", ""wikidata_id"": ""Q10757660"" } ```",14.549250602722168
+document_000579.html,52,74,City of London College,NIL,ORG,Q193196,University College London,,26.034685134887695
+document_000580.html,37,52,Arthur O’ Leary,Q17984779,PER,Q69999548,Arthur A. O'Leary,,38.79827117919922
+document_000580.html,69,85,Brinley Richards,Q4850963,PER,Q4968451,Brinley Richards,,40.0785026550293
+document_000580.html,0,11,H. R. Eyers,NIL,PER,Q1606473,Henry Ayers,,41.45510482788086
+document_000580.html,13,26,Walter Fitton,NIL,PER,Q7965794,Walter Paton,,32.260013580322266
+document_000580.html,28,35,S. Kemp,NIL,PER,Q50059261,Sam Kemp,,30.721843719482422
+document_000580.html,54,67,Harold Thomas,NIL,PER,Q2662059,Harold Thomas,,34.305747985839844
+document_000580.html,107,117,T. Wingham,NIL,PER,Q7795241,Thomas Wingham,,31.174057006835938
+document_000583.html,30,48,Yorkshire Amateurs,NIL,ORG,Q8055718,Yorkshire Hussars,,24.97344398498535
+document_000586.html,55,62,Telford,NIL,PER,Q380875,Thomas Telford,,23.095212936401367
+document_000586.html,67,74,Telford,NIL,PER,Q380875,Thomas Telford,,21.857831954956055
+document_000590.html,0,9,Mr. Ebers,Q6231101,PER,Q62765,Georg Ebers,"```json { ""wikipedia_page"": ""Georg Ebers"", ""wikidata_id"": ""Q62765"" } ```",11.9805908203125
+document_000596.html,31,45,Trinity Church,Q5886537,LOC,Q59872526,St Stephen's Uniting Church,,22.147552490234375
+document_000596.html,0,17,C. Sydney Vinning,NIL,PER,Q6531196,Leslie Vining,,23.582685470581055
+document_000596.html,62,80,Leamington College,NIL,ORG,Q7311825,Remington College,,27.336305618286133
+document_000598.html,11,19,de Lucca,NIL,PER,Q13373,Lucca,"```json { ""wikipedia_page"": ""Lucca"", ""wikidata_id"": ""Q13373"" } ```",14.097620964050293
+document_000598.html,21,30,Valentini,NIL,PER,Q1528696,Giuseppe Valentini,,17.021604537963867
+document_000598.html,32,37,Dario,NIL,PER,Q958865,Dario Castello,"```json { ""wikipedia_page"": ""Dario Castello"", ""wikidata_id"": ""Q958865"" } ```",11.88266372680664
+document_000598.html,54,59,Cirio,NIL,PER,Q3749794,Francesco Cirio,"```json { ""wikipedia_page"": ""Francesco Cirio"", ""wikidata_id"": ""Q3749794"" } ```",11.656726837158203
+document_000598.html,64,71,Guarino,NIL,PER,Q323281,Guarino Guarini,"```json { ""wikipedia_page"": ""Guarino Guarini"", ""wikidata_id"": ""Q323281"" } ```",13.655043601989746
+document_000599.html,0,14,Signor Ganpini,NIL,PER,Q978901,Gil Cuppini,,21.507511138916016
+document_000601.html,16,57,Accompanying Harmonies to Brief Directory,NIL,MISC,Q12345830,,,22.925888061523438
+document_000603.html,46,54,Phillips,Q18671452,PER,Q506592,John Phillips,"```json { ""wikipedia_page"": ""John Phillips"", ""wikidata_id"": ""Q506592"" } ```",11.649955749511719
+document_000603.html,56,60,Hill,NIL,PER,Q1970611,Alfred Hill,"```json { ""wikipedia_page"": ""Alfred Hill"", ""wikidata_id"": ""Q1970611"" } ```",11.87378978729248
+document_000603.html,66,72,Severn,NIL,PER,Q5339815,Edmund Severn,,15.487804412841797
+document_000608.html,61,75,WitL1AM Ripcey,NIL,PER,Q108532527,James Ritchie & Son,,19.921689987182617
+document_000608.html,93,106,Parish Church,NIL,ORG,Q5116872,Church of England parish church,,16.99699592590332
+document_000609.html,27,39,Miss Bristow,NIL,PER,Q27978658,Mary Bristow,,18.83249282836914
+document_000609.html,41,57,Master Whitehead,NIL,PER,Q4723614,Alfred Whitehead,,19.809730529785156
+document_000609.html,59,75,Mr. R. R. Ambler,NIL,PER,Q1785802,Robert Armbruster,,22.960548400878906
+document_000609.html,81,90,Mr. Ellis,NIL,PER,Q20986588,"Jimmy \""Preacher\"" Ellis","```json { ""wikipedia_page"": ""Jimmy \\""Preacher\\"" Ellis"", ""wikidata_id"": ""Q20986588"" } ```",13.110241889953613
+document_000610.html,72,93,Stabat mater dolorosa,NIL,MISC,Q210080,Stabat Mater,,28.842342376708984
+document_000611.html,14,21,Morroni,NIL,PER,Q5915186,,,16.622398376464844
+document_000611.html,60,66,Sborgi,NIL,PER,Q472,Sofia,,17.995222091674805
+document_000614.html,57,70,Signor Garcia,NIL,PER,Q704645,Manuel García,"```json { ""wikipedia_page"": ""Manuel García"", ""wikidata_id"": ""Q704645"" } ```",6.4888916015625
+document_000614.html,101,109,Phillips,NIL,PER,Q422726,Thomas Phillips,"```json { ""wikipedia_page"": ""Thomas Phillips"", ""wikidata_id"": ""Q422726"" } ```",6.723638534545898
+document_000616.html,74,86,W. Eavestaff,NIL,PER,Q18117975,Alfred Westarp,,22.810800552368164
+document_000617.html,106,120,Mr. J. Barratt,NIL,PER,Q1992128,Walter Parratt,,20.96213150024414
+document_000617.html,141,156,Mr. Barraclough,NIL,PER,Q5717824,Henry Barraclough,,19.45771598815918
+document_000620.html,51,59,La Pieta,Q3687237,ORG,Q3687246,Conservatorio di S. Maria di Loreto,,17.539491653442383
+document_000620.html,79,96,Licéo Filarmonico,Q368820,ORG,Q3687224,Giuseppe Nicolini Conservatory,,17.64974021911621
+document_000630.html,0,28,Bolero for One or Two Voices,NIL,MISC,Q489913,bolero,,17.343210220336914
+document_000630.html,91,100,P. Verini,NIL,PER,Q170209,Vincenzo Bellini,,21.528337478637695
+document_000634.html,0,6,Morley,NIL,PER,Q6211440,Joe Morley,,21.29998016357422
+document_000634.html,31,42,Mr. Bentley,NIL,PER,Q6221604,John Bentley,,16.742345809936523
+document_000634.html,53,64,Mr. Housley,NIL,PER,Q5723281,Henry Houseley,,18.192195892333984
+document_000634.html,80,91,Mr. Kempton,NIL,PER,Q6137206,James Kempson,"```json { ""wikipedia_page"": ""James Kempson"", ""wikidata_id"": ""Q6137206"" } ```",13.94565486907959
+document_000637.html,69,74,Weber,Q154812,PER,Q241676,Noah Webster,,17.95069122314453
+document_000638.html,139,145,Greece,Q41,LOC,Q11772,Ancient Greece,,17.33378028869629
+document_000638.html,150,154,Rome,Q220,LOC,Q1747689,Ancient Rome,"```json { ""wikipedia_page"": ""Ancient Rome"", ""wikidata_id"": ""Q1747689"" } ```",14.9998197555542
+document_000640.html,53,67,Weekes and Co.,NIL,ORG,Q21450971,Weekes,,22.567800521850586
+document_000640.html,73,89,Hanover - street,NIL,LOC,Q1576686,Hanover Street,"```json { ""wikipedia_page"": ""Hanover Street"", ""wikidata_id"": ""Q1576686"" } ```",15.271734237670898
+document_000641.html,32,52,Copyright Commission,NIL,ORG,Q5169235,Copyright agency,,27.790054321289062
+document_000646.html,0,5,Furno,Q555808,PER,Q16556279,Flavio Furno,"```json { ""wikipedia_page"": ""Flavio Furno"", ""wikidata_id"": ""Q16556279"" } ```",8.68199634552002
+document_000649.html,0,2,B.,NIL,PER,Q1765120,Bachelor of Arts,"```json { ""wikipedia_page"": ""Bachelor of Arts"", ""wikidata_id"": ""Q1765120"" } ```",6.507420539855957
+document_000649.html,27,29,B.,NIL,PER,Q1765120,Bachelor of Arts,,23.955047607421875
+document_000649.html,47,49,B.,NIL,PER,Q1765120,Bachelor of Arts,,23.9898738861084
+document_000649.html,4,8,Oxon,NIL,PER,Q34433,University of Oxford,"```json { ""wikipedia_page"": ""University of Oxford"", ""wikidata_id"": ""Q34433"" } ```",10.91308307647705
+document_000649.html,11,25,W. J. Jennings,NIL,PER,Q110277722,Walter Jennings Jones,,27.179664611816406
+document_000649.html,33,45,T. C. Hatton,NIL,PER,Q42291373,T. Alan Hatton,,28.544246673583984
+document_000650.html,0,10,C. Gregory,NIL,PER,Q215644,Caspar René Gregory,,27.586645126342773
+document_000653.html,91,101,Mr. Taylor,NIL,PER,Q3155333,Baron Isidore Justin Séverin Taylor,"```json { ""wikipedia_page"": ""Baron Isidore Justin Séverin Taylor"", ""wikidata_id"": ""Q3155333"" } ```",9.152050971984863
+document_000655.html,32,41,Brunswick,Q2773,LOC,Q994135,Brunswick,,19.096139907836914
+document_000655.html,5,19,Retzel Antoine,NIL,PER,Q22245,Rettel,"```json { ""wikipedia_page"": ""Rettel"", ""wikidata_id"": ""Q22245"" } ```",7.300555229187012
+document_000656.html,71,85,Mr. John Parry,Q6251987,PER,Q6251980,John Parry,"```json { ""wikipedia_page"": ""John Parry"", ""wikidata_id"": ""Q6251980"" } ```",12.509896278381348
+document_000656.html,0,10,Miss Groom,NIL,PER,Q5610265,Groom of the Chamber,"```json { ""wikipedia_page"": ""Groom of the Chamber"", ""wikidata_id"": ""Q5610265"" } ```",9.997747421264648
+document_000656.html,12,23,Miss Flower,NIL,PER,Q19879830,Lucy Flower,"```json { ""wikipedia_page"": ""Lucy Flower"", ""wikidata_id"": ""Q19879830"" } ```",7.769232749938965
+document_000656.html,29,40,Miss Cubitt,NIL,PER,Q7561697,"Sonia Cubitt, Baroness Ashcombe","```json { ""wikipedia_page"": ""Sonia Cubitt, Baroness Ashcombe"", ""wikidata_id"": ""Q7561697"" } ```",10.760836601257324
+document_000656.html,42,51,Mr. White,NIL,PER,Q2533047,Mr. White,"```json { ""wikipedia_page"": ""Mr. White"", ""wikidata_id"": ""Q2533047"" } ```",7.5377655029296875
+document_000659.html,0,18,Mr. Henry Aldridge,NIL,PER,Q2057615,Henry Aldrich,,20.87018585205078
+document_000659.html,38,59,Philharmonic Concerts,NIL,MISC,Q1046309,Philharmonia Orchestra,,26.35565948486328
+document_000660.html,23,30,Solomon,Q1123627,MISC,Q37085,Solomon,,16.493135452270508
+document_000663.html,31,47,Louisa A. Turner,NIL,PER,Q52452945,Lucy Anne Rogers Butler,,36.11708450317383
+document_000663.html,49,62,Jane Whitaker,NIL,PER,Q1600687,"Janet Whitaker, Baroness Whitaker",,30.50986099243164
+document_000663.html,64,80,Constance Sarper,NIL,PER,Q931103,Susanna Centlivre,,26.868789672851562
+document_000663.html,82,95,Annie Bradley,NIL,PER,Q4768745,Anne Ridler,,31.07769775390625
+document_000663.html,97,118,Elizabeth L. Rothwell,NIL,PER,Q5363123,Elizabeth Lowell Putnam,,34.81367492675781
+document_000663.html,135,147,Fanny Boxell,NIL,PER,Q101071896,Annie Woodman Stocking Boyce,,26.44472885131836
+document_000665.html,88,114,Academie Royale de Musique,Q283339,ORG,Q2920855,Académie Royale de Musique,,27.095705032348633
+document_000667.html,18,34,Signor de Beguis,Q3770409,PER,Q3483472,Sieur Dubois,,18.3858699798584
+document_000669.html,36,51,String Quintett,Q3133298,MISC,Q111182004,List of string quintets by Wolfgang Amadeus Mozart,,31.167272567749023
+document_000669.html,90,103,Austrian Hymn,Q30562,MISC,Q3786081,,,32.28638458251953
+document_000669.html,105,112,Regondi,Q981612,PER,Q2134307,Raymundus Regondi,,23.767574310302734
+document_000670.html,29,40,L’Olimpiade,Q1225668,MISC,Q56316427,L'olimpiade,,24.24050521850586
+document_000670.html,45,55,Demofoonte,Q3022187,MISC,Q5802300,Demofoonte,,22.421186447143555
+document_000670.html,73,89,Giu riconosciuto,NIL,MISC,Q5770260,Ciro riconosciuto,"```json { ""wikipedia_page"": ""Ciro riconosciuto"", ""wikidata_id"": ""Q5770260"" } ```",13.916343688964844
+document_000670.html,108,118,La Liberta,NIL,MISC,Q17254561,,,18.934329986572266
+document_000671.html,12,22,Symphonyin,Q260957,MISC,Q9734,symphony,,24.103757858276367
+document_000671.html,23,24,A,Q260957,MISC,Q9659,A,,19.807899475097656
+document_000671.html,67,68,A,Q260957,MISC,Q1374708,George Alexander Macfarren,,20.643184661865234
+document_000671.html,24,25,",",Q260957,MISC,Q744346,A,,22.881900787353516
+document_000671.html,54,55,",",Q260957,MISC,Q231117,Symphony No. 4,"```json { ""wikipedia_page"": ""Symphony No. 7"", ""wikidata_id"": ""Q231117"" } ```",14.135143280029297
+document_000673.html,33,48,Catholic Clergy,Q1195138,ORG,Q17351675,Catholic priesthood,,25.734481811523438
+document_000674.html,30,38,Sgatelli,NIL,PER,Q3470372,Salvatore Agnelli,,26.388797760009766
+document_000676.html,39,45,Cramer,Q455212,PER,Q208296,Cromer,,15.81252384185791
+document_000677.html,33,48,Padrr Sabbatini,NIL,PER,Q5565522,Giuseppe Sabbatini,,19.623743057250977
+document_000682.html,18,35,Mrs. A. J. Sutton,NIL,PER,Q3931581,Alicia Ann Spottiswoode,,24.172130584716797
+document_000682.html,49,62,Madame Brooke,NIL,PER,Q2403883,Hillary Brooke,"```json { ""wikipedia_page"": ""Madame Brooke"", ""wikidata_id"": ""Q2403883"" } ```",11.35412311553955
+document_000682.html,89,105,Miss Julia Jones,NIL,PER,Q239240,Julia Jones,,24.136051177978516
+document_000682.html,107,118,Miss Taylor,NIL,PER,Q5372392,Emily Taylor,"```json { ""wikipedia_page"": ""Emily Taylor"", ""wikidata_id"": ""Q5372392"" } ```",10.325484275817871
+document_000682.html,120,131,Mr. Bywater,NIL,PER,Q6193978,Jim Bywater,"```json { ""wikipedia_page"": ""Jim Bywater"", ""wikidata_id"": ""Q6193978"" } ```",10.244441986083984
+document_000682.html,137,155,Mr. W. H. Phillips,NIL,PER,Q16026260,William Herbert Phillipps,,17.462514877319336
+document_000684.html,0,6,Haranc,NIL,PER,Q5669115,Harry Glantz,,18.56393051147461
+document_000688.html,52,66,Weekes and Co.,NIL,ORG,Q21450971,Weekes,,20.059551239013672
+document_000688.html,72,88,Hanover - street,NIL,LOC,Q1576686,Hanover Street,,16.094484329223633
+document_000691.html,147,165,Signor Santar elli,Q5565524,PER,Q323741,Antonio Santarelli,"```json { ""wikipedia_page"": ""Antonio Santarelli"", ""wikidata_id"": ""Q323741"" } ```",11.809527397155762
+document_000692.html,26,42,James Fitzgerald,NIL,PER,Q6133918,James FitzGerald,,28.43143653869629
+document_000694.html,27,35,Preciosa,NIL,MISC,Q3284750,Preciosa,"```json { ""wikipedia_page"": ""Preciosa"", ""wikidata_id"": ""Q3284750"" } ```",14.242417335510254
+document_000696.html,1,17,Scenes of horror,not in wikidata,MISC,Q16575965,horror fiction,"```json { ""wikipedia_page"": ""horror fiction"", ""wikidata_id"": ""Q16575965"" } ```",12.204828262329102
+document_000696.html,28,34,Storge,NIL,PER,Q1995866,storge,"```json { ""wikipedia_page"": ""storge"", ""wikidata_id"": ""Q1995866"" } ```",12.806591033935547
+document_000697.html,39,50,Exeter Hall,Q81173,ORG,Q5420121,Exeter Hall,,33.22891616821289
+document_000698.html,17,58,Cottage Divertimentos for the Piano Forte,NIL,MISC,Q7183128,Antony Corri,,18.751737594604492
+document_000699.html,96,119,Santa Maria ad Martyras,Q99309,LOC,Q18822496,St. Mary Battery,,18.1133975982666
+document_000701.html,41,53,J. Moscheles,Q159551,PER,Q1634462,Yos,,23.664203643798828
+document_000702.html,174,187,Duke - street,Q19461422,LOC,Q5312872,Duke Street,,24.091829299926758
+document_000702.html,110,127,Mr. Joseph Thomas,NIL,PER,Q24225592,Joe Thompson,,21.550540924072266
+document_000702.html,132,144,Finch - line,NIL,LOC,Q5449816,Finch Avenue,,19.0488338470459
+document_000702.html,156,168,M. W. Seguin,NIL,PER,Q109567531,,,18.13511848449707
+document_000703.html,27,29,M.,Q289996,PER,Q15458134,Nicolas Mori,,18.5234375
+document_000703.html,30,33,Ozi,Q289996,PER,Q7104137,Orsi Instrument Company,,22.12273406982422
+document_000704.html,9,23,Mr. Fitzgerald,NIL,PER,Q93354,F. Scott Fitzgerald,"```json { ""wikipedia_page"": ""F. Scott Fitzgerald"", ""wikidata_id"": ""Q93354"" } ```",14.457329750061035
+document_000705.html,63,76,Gaetano Greco,Q1339827,PER,Q3757012,Gaetano Grieco,,43.02387237548828
+document_000705.html,78,86,Albinoni,Q174606,PER,Q3607870,Albano Biondi,,26.14423942565918
+document_000707.html,4,20,Festival Anthems,NIL,MISC,Q60763958,English festivals,,22.515037536621094
+document_000707.html,54,63,Dr. Fowle,NIL,PER,Q16062429,Thomas Welbank Fowle,"```json { ""wikipedia_page"": ""Thomas Welbank Fowle"", ""wikidata_id"": ""Q16062429"" } ```",14.02225112915039
+document_000707.html,68,76,Eastgate,NIL,LOC,Q7988816,Westgate,,28.11874771118164
+document_000712.html,73,83,Drury Lane,Q1756626,LOC,Q1261392,Drury Lane,,23.444787979125977
+document_000712.html,0,9,the Déuce,NIL,MISC,Q40858652,Deuce,"```json { ""wikipedia_page"": ""Deuce"", ""wikidata_id"": ""Q40858652"" } ```",9.870933532714844
+document_000712.html,52,67,My Gragdniother,NIL,MISC,Q6929816,Mrs. McGrath,,17.07943344116211
+document_000713.html,69,93,Principes de Composition,NIL,MISC,Q2250943,composition school,,17.91990852355957
+document_000714.html,94,105,la sourdine,NIL,LOC,Q268009,Sourdun,"```json { ""wikipedia_page"": ""Sourdun"", ""wikidata_id"": ""Q268009"" } ```",10.382684707641602
+document_000714.html,197,208,Les Jardins,NIL,MISC,Q15242262,Les Délices,,22.180456161499023
+document_000716.html,0,13,Miss Sterling,NIL,PER,Q109657817,Magdalene Stirling,"```json { ""wikipedia_page"": ""Magdalene Stirling"", ""wikidata_id"": ""Q109657817"" } ```",9.313435554504395
+document_000717.html,52,81,the Honourable Richard Strutt,Q75270792,PER,Q15485284,Harry Stuart Goodhart-Rendel,,15.889665603637695
+document_000717.html,22,47,Church Orchestral Society,NIL,ORG,Q7374800,Royal School of Church Music,,23.43018913269043
+document_000719.html,233,257,National Training School,Q55082727,ORG,Q7374234,Royal Grammar School,,18.906312942504883
+document_000721.html,126,133,d’Angri,Q5358988,PER,Q3617690,Anna D'Angeri,"```json { ""wikipedia_page"": ""Anna D'Angeri"", ""wikidata_id"": ""Q3617690"" } ```",11.849599838256836
+document_000723.html,117,127,Konigstein,NIL,LOC,Q6783,Königstein,,20.900772094726562
+document_000725.html,108,120,Madame Grisi,Q287344,PER,Q287812,Carlotta Grisi,,15.956192016601562
+document_000725.html,143,152,Tamburini,Q605376,PER,Q3768201,Giovanni Tamburini,,21.82295799255371
+document_000725.html,268,272,Czar,Q130734,PER,Q40787,Nicholas II of Russia,"```json { ""wikipedia_page"": ""Nicholas II of Russia"", ""wikidata_id"": ""Q40787"" } ```",12.456645965576172
+document_000726.html,90,107,Mr. Frank Novello,NIL,PER,Q16059897,Joseph Alfred Novello,,17.47281265258789
+document_000726.html,134,139,Opera,NIL,ORG,Q1344,opera,,16.1074161529541
+document_000726.html,161,167,Taylor,NIL,PER,Q3155333,Baron Isidore Justin Séverin Taylor,"```json { ""wikipedia_page"": ""Baron Isidore Justin Séverin Taylor"", ""wikidata_id"": ""Q3155333"" } ```",14.939325332641602
+document_000727.html,26,43,London University,Q193196,ORG,Q170027,University of London,,32.321388244628906
+document_000727.html,62,78,Professor Morgan,Q208448,PER,Q5081341,Octavius Morgan,,28.12250328063965
+document_000727.html,350,356,Vanini,Q553128,PER,Q3266450,Vanina Vanini,,18.594179153442383
+document_000728.html,20,41,Church Choral Society,Q379124,ORG,Q11250823,church choir,,28.70821762084961
+document_000728.html,196,215,Musical Art Society,NIL,ORG,Q6941436,Music Arts School,,25.363277435302734
+document_000728.html,280,291,Mr. Dossert,NIL,PER,Q5293141,Don Messer,,16.45549964904785
+document_000728.html,306,329,Harlem Oratorio Society,NIL,ORG,Q7099927,Oratorio Society of New York,,30.701980590820312
+document_000729.html,112,120,Servilia,Q63534091,PER,Q232229,Servilia,"```json { ""wikipedia_page"": ""Servilia"", ""wikidata_id"": ""Q232229"" } ```",13.649439811706543
+document_000729.html,169,174,Annio,Q63534077,PER,Q1238392,Lucius Annius Arrianus,"```json { ""wikipedia_page"": ""Lucius Annius Arrianus"", ""wikidata_id"": ""Q1238392"" } ```",11.882061004638672
+document_000729.html,78,93,Signora Clarini,NIL,PER,Q79099,Caterina Cavalieri,,15.672901153564453
+document_000729.html,136,144,Graziani,NIL,PER,Q4121399,Francesco Graziani,,16.015979766845703
+document_000730.html,44,54,Dr. Crotch,Q718709,PER,Q1508184,George Robert Crotch,"```json { ""wikipedia_page"": ""George Robert Crotch"", ""wikidata_id"": ""Q1508184"" } ```",12.154168128967285
+document_000730.html,102,117,Madame Caradori,Q16065895,PER,Q530319,Marie Carandini,"```json { ""wikipedia_page"": ""Marie Carandini"", ""wikidata_id"": ""Q530319"" } ```",11.061266899108887
+document_000730.html,292,305,Miss Stephens,Q5052928,PER,Q20634975,Jane Stephens,"```json { ""wikipedia_page"": ""Jane Stephens"", ""wikidata_id"": ""Q20634975"" } ```",13.539487838745117
+document_000730.html,310,320,Miss Paton,Q16888398,PER,Q19650472,Micheline Patton,"```json { ""wikipedia_page"": ""Micheline Patton"", ""wikidata_id"": ""Q19650472"" } ```",12.688936233520508
+document_000730.html,188,197,Pavestine,NIL,MISC,Q849959,breeches role,"```json { ""wikipedia_page"": ""breeches role"", ""wikidata_id"": ""Q849959"" } ```",11.321470260620117
+document_000731.html,105,119,M. Paul Collin,Q3370911,PER,Q3394239,Polin,,28.391204833984375
+document_000731.html,58,79,La Naissance de Venus,NIL,MISC,Q151047,The Birth of Venus,,19.3990535736084
+document_000732.html,99,104,Braun,NIL,PER,Q354330,Braun,"```json { ""wikipedia_page"": ""Braun"", ""wikidata_id"": ""Q354330"" } ```",10.337528228759766
+document_000733.html,58,65,Gibbons,NIL,PER,Q18671031,Edward Gibbons,,22.379484176635742
+document_000733.html,70,75,Child,NIL,PER,Q2517093,Child Ballads,,23.35996437072754
+document_000734.html,0,9,John Bull,Q511463,PER,Q742971,John Bull,,23.482746124267578
+document_000735.html,190,200,Zingarelli,Q505202,PER,Q938208,Nicola Zingarelli,,23.089143753051758
+document_000735.html,319,328,Mrs. Shaw,Q3291051,PER,Q19185,George Bernard Shaw,,15.58336353302002
+document_000735.html,304,317,Miss Marshall,NIL,PER,Q105969651,Phyllis Marshall,,15.850992202758789
+document_000735.html,333,343,Mrs. Bushe,NIL,PER,Q15973708,Marguerite Bise,,17.104721069335938
+document_000736.html,226,255,Lieutenant - Colonel Perronet,Q4670375,PER,Q1685286,Jean-Rodolphe Perronet,,19.700693130493164
+document_000736.html,149,213,Instructions to my Daughter for Playing on the Enharmonic Guitar,NIL,MISC,Q3070666,Serenade for Strings,,16.91062355041504
+document_000738.html,51,64,Last Judgment,Q1218918,MISC,Q109827367,Das jüngste Gericht,,19.685461044311523
+document_000739.html,261,273,The Creation,Q163138,MISC,Q1456447,The Creation,,28.861713409423828
+document_000739.html,51,60,May Queen,NIL,MISC,Q479179,May Queen,,26.965726852416992
+document_000739.html,126,146,Oxford Street Chapel,NIL,LOC,Q5399801,Essex Street Chapel,,29.654178619384766
+document_000739.html,281,296,Mr. Joseph Kaye,NIL,PER,Q6284535,Joseph Kaye,,24.918195724487305
+document_000740.html,163,175,F. W. Riemar,NIL,PER,Q85393,Friedrich Wilhelm Riemer,,23.360231399536133
+document_000741.html,0,23,Madame Kraus - Wranisky,Q55895823,PER,Q25490387,,"```json { ""wikipedia_page"": ""Madame Kraus"", ""wikidata_id"": ""Q25490387"" } ```",12.082383155822754
+document_000741.html,48,62,Madame Seidler,Q6373188,PER,Q1896317,Maria Seidler,,16.58946418762207
+document_000742.html,18,38,Mademoiselle Lalande,Q3132487,PER,Q261082,Yolande of Valois,,23.12759017944336
+document_000743.html,4,18,Choral Society,NIL,ORG,Q3445907,Royal Choral Society,,30.14170265197754
+document_000743.html,54,64,Drill Hall,NIL,LOC,Q7731023,RADA Studios,,20.12506103515625
+document_000743.html,133,157,The Banner of St. George,NIL,MISC,Q25078135,St. George and the Dragon,,25.10646629333496
+document_000743.html,179,193,In Hammersbach,NIL,MISC,Q5505606,From the Bavarian Highlands,,22.75282859802246
+document_000743.html,237,258,Pomp and Circumstance,NIL,MISC,Q1141118,Pomp and Circumstance Marches,,20.67378807067871
+document_000743.html,170,175,March,NIL,MISC,Q6006749,Imperial March,,18.33246421813965
+document_000743.html,260,265,March,NIL,MISC,Q211025,march,,18.17777442932129
+document_000743.html,68,70,No,NIL,MISC,Q2996,November 2,,19.454687118530273
+document_000743.html,266,268,No,NIL,MISC,Q211025,march,,17.2352237701416
+document_000743.html,268,271,. 1,NIL,MISC,Q20587426,,,19.388648986816406
+document_000744.html,286,291,Orfeo,Q723776,MISC,Q724008,L'Orfeo,,23.324275970458984
+document_000744.html,387,410,grand * duke of Tuscany,Q151321,PER,Q154849,Grand Duchy of Tuscany,"```json { ""wikipedia_page"": ""Grand Duchy of Tuscany"", ""wikidata_id"": ""Q154849"" } ```",10.097555160522461
+document_000745.html,197,214,Mystéres de Parts,Q737501,MISC,Q624852,Essays,,19.048114776611328
+document_000746.html,34,51,Rev. H. A. Wilson,NIL,PER,Q18670626,Aaron Wilson,,22.92970848083496
+document_000746.html,149,163,Edward Ascough,NIL,PER,Q5341658,Edward Ayscu,,33.04757308959961
+document_000746.html,167,175,Wynthorp,NIL,LOC,Q3316008,Woolsthorpe Manor,,25.10420799255371
+document_000746.html,235,243,Wynthorp,NIL,LOC,Q3316008,Woolsthorpe Manor,,22.342641830444336
+document_000747.html,267,275,Griselda,Q97176620,MISC,Q1028221,Griselda,,21.6954402923584
+document_000747.html,0,13,Miss Marshall,NIL,PER,Q4693082,Agnes Marshall,"```json { ""wikipedia_page"": ""Agnes Marshall"", ""wikidata_id"": ""Q4693082"" } ```",14.79948902130127
+document_000747.html,75,79,faro,NIL,MISC,Q4481297,Faro,"```json { ""wikipedia_page"": ""Faro"", ""wikidata_id"": ""Q4481297"" } ```",13.492719650268555
+document_000747.html,86,96,Miss Birch,NIL,PER,Q7145466,Patricia Birch,,15.493561744689941
+document_000747.html,277,287,Miss Birch,NIL,PER,Q7145466,Patricia Birch,"```json { ""wikipedia_page"": ""Patricia Birch"", ""wikidata_id"": ""Q7145466"" } ```",14.891197204589844
+document_000748.html,191,210,Royal Italian Opera,Q55018,LOC,Q785522,Italian opera,,33.38344192504883
+document_000748.html,381,388,Colomba,NIL,MISC,Q11261217,O Colombina,,17.60275650024414
+document_000749.html,211,220,Jarnowick,Q1526160,PER,Q6149335,Jan Kurnakowicz,,19.691299438476562
+document_000750.html,27,32,Carey,Q1606590,PER,Q5134520,Clive Carey,,27.421539306640625
+document_000750.html,130,135,Carey,Q1606590,PER,Q5134520,Clive Carey,,28.777097702026367
+document_000750.html,237,242,Carey,Q1606590,PER,Q5134520,Clive Carey,,30.86827850341797
+document_000750.html,221,236,Musical Century,NIL,MISC,Q1763768,The Musical Quarterly,,28.258310317993164
+document_000751.html,91,98,Durante,Q2286657,PER,Q314221,Francesco Durante,,20.741416931152344
+document_000753.html,43,50,Jomelli,Q312891,PER,Q43763698,Jeanne Jomelli,,25.088001251220703
+document_000753.html,293,300,Jomelli,Q312891,PER,Q43763698,Jeanne Jomelli,,24.6699275970459
+document_000756.html,162,179,As the Hart pants,Q1192046,MISC,Q4802943,As Pants the Hart,,21.305824279785156
+document_000756.html,388,396,St. Paul,Q1429593,MISC,Q9200,Paul the Apostle,,21.77254867553711
+document_000756.html,400,406,Samson,Q1263593,MISC,Q25223351,Samson,,22.40285301208496
+document_000756.html,122,129,Loreley,NIL,MISC,Q14540816,The Lorelei,,21.185653686523438
+document_000756.html,132,142,98th Psalm,NIL,MISC,Q1326476,Psalm 98,,33.383270263671875
+document_000756.html,145,154,Ave Maria,NIL,MISC,Q42203,Hail Mary,,29.160795211791992
+document_000756.html,257,270,C. ]. Stevens,NIL,PER,Q1022442,C. C. Stevens,,20.6795711517334
+document_000756.html,418,432,Song of Miriam,NIL,MISC,Q16129901,,,27.811769485473633
+document_000757.html,77,92,Madame Sembrich,Q265698,PER,Q15965556,Deborah Sporcich,,16.60664176940918
+document_000757.html,159,178,Royai Italian Opera,Q55018,ORG,Q1592865,Rossini Opera Festival,,21.261781692504883
+document_000757.html,236,251,Signor Nicolini,Q3083329,PER,Q3746502,Flavio Nicolini,,16.215023040771484
+document_000757.html,253,267,Signor Marconi,Q5479431,PER,Q3951048,Saverio Marconi,,15.954567909240723
+document_000757.html,269,282,M. Soulacroix,Q5515856,PER,Q1931234,Frédéric Soulacroix,,19.35910415649414
+document_000757.html,284,302,Signor Mierzwinski,Q5986416,PER,Q263843,Erin Mielzynski,,16.231271743774414
+document_000757.html,304,318,Signor Cotogni,Q2562468,PER,Q64745223,Giuseppe Cogoni,,17.145431518554688
+document_000757.html,320,330,M. Devoyod,Q27928845,PER,NIL,M. Devoyod,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",13.69752025604248
+document_000757.html,94,113,Madame Maria Durand,NIL,PER,Q1714970,Jérémie Durand,,19.555692672729492
+document_000757.html,332,348,Signor De Reszké,NIL,PER,Q924545,Jean de Reszke,,17.942646026611328
+document_000757.html,350,362,Signor Monti,NIL,PER,Q342543,Vittorio Monti,"```json { ""wikipedia_page"": ""Vittorio Monti"", ""wikidata_id"": ""Q342543"" } ```",12.235684394836426
+document_000759.html,75,85,Mercadante,Q313980,PER,Q2885528,Louis Mérante,,19.808692932128906
+document_000759.html,20,40,Les Néces de Gamache,NIL,MISC,Q3234198,Les Noces de Gamache,,23.873741149902344
+document_000759.html,122,129,Sauvage,NIL,PER,Q3525549,Thomas Sauvage,,20.157878875732422
+document_000759.html,134,139,Dupin,NIL,PER,Q3131020,Henri Dupin,,21.222373962402344
+document_000762.html,221,226,Jacob,Q1339,PER,Q600211,Georg Jacobi,"```json { ""wikipedia_page"": ""Georg Jacobi"", ""wikidata_id"": ""Q600211"" } ```",12.231759071350098
+document_000763.html,68,74,Parker,NIL,PER,Q16932015,Parker Society,,17.148862838745117
+document_000763.html,74,87,’s Penny Post,NIL,ORG,Q16932015,Parker Society,,17.963459014892578
+document_000765.html,148,163,France Wusicale,Q3209228,ORG,Q142,France,"```json { ""wikipedia_page"": ""France"", ""wikidata_id"": ""Q142"" } ```",12.651127815246582
+document_000765.html,229,246,Gazelle AZusicale,Q3428721,ORG,Q1798834,La Gazelle,"```json { ""wikipedia_page"": ""La Gazelle"", ""wikidata_id"": ""Q1798834"" } ```",13.487123489379883
+document_000765.html,427,435,Paganini,Q66075,PER,Q3888914,Paganino Paganini,,18.983394622802734
+document_000765.html,107,116,M. Vivier,NIL,PER,Q56298690,Jean-Marie Vivier,,20.41745376586914
+document_000765.html,296,305,M. Vivier,NIL,PER,Q56298690,Jean-Marie Vivier,,20.91690444946289
+document_000766.html,164,199,Biographie Universelle de Musiciens,Q28007160,MISC,Q6054248,International Who's Who in Music,,17.7302303314209
+document_000767.html,78,96,Die sieben Midchen,NIL,MISC,Q111659774,"6 Lieder, Op. 7",,22.38838005065918
+document_000767.html,98,113,Das Hausgesinde,NIL,MISC,Q1168913,Domestic Servants,,22.7709903717041
+document_000767.html,115,130,Der Unsichibare,NIL,MISC,Q1197676,Der Unbestechliche,,20.331398010253906
+document_000767.html,132,149,Die Ochsenmenuett,NIL,MISC,Q25379117,,,19.21367073059082
+document_000767.html,151,178,Staberls Reise - abentheuer,NIL,MISC,Q1594893,,,18.232234954833984
+document_000769.html,145,160,Miss Zimmermann,Q4693137,PER,Q15434686,Margrit Zimmermann,,18.390274047851562
+document_000770.html,103,112,Mrs. Shaw,Q3291051,PER,Q1905056,Martin Shaw,,18.480472564697266
+document_000770.html,117,129,Mr. Phillips,Q18671452,PER,Q15429454,Adolf Philipp,,16.697202682495117
+document_000770.html,62,70,Stretton,NIL,PER,Q5585887,Gordon Stretton,,23.69113540649414
+document_000770.html,183,194,Mr. Manvers,NIL,PER,Q18600112,Johan Mengels Culverhouse,,18.670625686645508
+document_000771.html,19,29,Dr. Coward,Q5719907,PER,Q298388,Noël Coward,,19.034276962280273
+document_000771.html,4,17,Musical Union,NIL,ORG,Q6942600,Musicians' Union,"```json { ""wikipedia_page"": ""Musicians' Union"", ""wikidata_id"": ""Q6942600"" } ```",13.241086959838867
+document_000771.html,40,48,Creation,NIL,MISC,Q163138,The Creation,,18.524768829345703
+document_000771.html,175,183,Creation,NIL,MISC,Q163138,The Creation,,17.298391342163086
+document_000771.html,55,67,Choral Union,NIL,ORG,Q131186,choir,,16.841196060180664
+document_000771.html,69,80,Mr. Suckley,NIL,PER,Q7512998,Signor Brocolini,,20.15365219116211
+document_000771.html,118,145,St.-Cecilia Musical Society,NIL,ORG,Q7587478,St. Cecilia Society,,21.00277328491211
+document_000771.html,147,159,Mr. W. Brown,NIL,PER,Q18149658,William Brown,,16.853408813476562
+document_000772.html,168,179,Arthur Bent,NIL,PER,Q41546,Arthur Cleveland Bent,,30.195947647094727
+document_000772.html,181,198,Wallace Sutcliffe,NIL,PER,Q7966233,Walter Sutcliffe,,33.695068359375
+document_000772.html,245,257,Percy Kearne,NIL,PER,Q7167439,Percy Kahn,,34.670108795166016
+document_000772.html,259,270,Paul Ludwig,NIL,PER,Q47012593,Paul Ludwig,,33.94404602050781
+document_000772.html,276,290,Tennyson Werge,NIL,PER,Q4465901,Eben Tourjée,,30.46712303161621
+document_000774.html,122,131,M. Vivier,Q16947558,PER,Q2372650,Émile Vivier,,15.69616413116455
+document_000774.html,176,185,M. Vivier,Q16947558,PER,Q2372650,Émile Vivier,"```json { ""wikipedia_page"": ""Émile Vivier"", ""wikidata_id"": ""Q2372650"" } ```",14.262467384338379
+document_000777.html,50,73,La Ballade du Désespéré,NIL,MISC,Q56309552,,,20.760990142822266
+document_000777.html,126,145,Miss Gertrude Bevan,NIL,PER,Q6792887,Maurice Bevan,,21.69517707824707
+document_000777.html,150,170,Miss Ellen M. Bowick,NIL,PER,Q18085489,Jane Laurie Borthwick,,22.57351303100586
+document_000777.html,222,234,Edith Byford,NIL,PER,Q529571,Edith Baird,,28.420751571655273
+document_000777.html,254,269,Mabel E. Colyer,NIL,PER,Q445436,Evelyn Colyer,,28.294588088989258
+document_000778.html,88,93,Lucia,Q244209,MISC,Q6698147,Lucy,,20.25388526916504
+document_000778.html,74,82,Fra poco,NIL,MISC,Q2119740,poco a poco,"```json { ""wikipedia_page"": ""poco a poco"", ""wikidata_id"": ""Q2119740"" } ```",13.338408470153809
+document_000778.html,99,112,Tutto scielte,NIL,MISC,Q665214,tutti,"```json { ""wikipedia_page"": ""tutti"", ""wikidata_id"": ""Q665214"" } ```",12.880038261413574
+document_000779.html,27,34,Seasons,season,MISC,Q970337,The Seasons,,27.394399642944336
+document_000782.html,172,180,Vaughans,NIL,PER,Q111913560,The Vaughans,,20.16410255432129
+document_000782.html,182,190,Knyvetts,NIL,PER,Q18670866,Charles Knyvett,,21.5889835357666
+document_000782.html,222,234,Miss Bonwick,NIL,PER,Q18917480,Theodora Bonwick,,17.86418914794922
+document_000783.html,83,106,Capellmeister Steinbach,Q70648,PER,Q5371456,Emil Steinbach,,22.42007827758789
+document_000783.html,117,136,Meiningen orchestra,Q871671,ORG,Q881131,Meiningen Ensemble,,23.88486671447754
+document_000783.html,158,172,Musik - Verein,Q686720,LOC,Q694323,Gesellschaft der Musikfreunde,,16.97648048400879
+document_000786.html,146,157,Ii Barbiere,Q208659,MISC,Q738494,Henri Auguste Barbier,,17.823701858520508
+document_000786.html,0,15,Signora Cornega,NIL,PER,Q13562129,Corinne Morgan,,21.551090240478516
+document_000786.html,131,139,Una voce,NIL,MISC,Q50392878,Una voce poco fa,,16.88397789001465
+document_000787.html,38,56,Prince Es sterhdzy,Q597865,PER,Q835706,Prince of Asturias,"```json { ""wikipedia_page"": ""Prince of Asturias"", ""wikidata_id"": ""Q835706"" } ```",8.016130447387695
+document_000787.html,392,416,Church of the Augustines,Q693869,LOC,Q1424095,Basilica of Saint Augustine in Campo Marzio,,24.13938331604004
+document_000789.html,246,263,The Soldier tired,NIL,MISC,Q7729466,The Death of a Soldier,,19.886131286621094
+document_000791.html,61,66,Paris,Q90,LOC,Q277191,Orchestre Philharmonique de Paris,"```json { ""wikipedia_page"": ""Orchestre Philharmonique de Paris"", ""wikidata_id"": ""Q277191"" } ```",10.08020305633545
+document_000791.html,105,125,Philharmonic Soviety,Q1292443,ORG,Q1329573,Moscow Philharmonic Orchestra,,17.880346298217773
+document_000791.html,176,194,Messrs. Br oadwood,Q1699418,ORG,Q19282341,John Broadwood,"```json { ""wikipedia_page"": ""John Broadwood"", ""wikidata_id"": ""Q19282341"" } ```",11.859020233154297
+document_000792.html,53,63,Padetewski,Q191957,PER,Q16844512,Homage to Paderewski,,22.135236740112305
+document_000793.html,59,66,Tinctor,Q370512,PER,Q55126885,Johann Tinctor,,22.747201919555664
+document_000794.html,308,322,Herr Rosenthal,Q213772,PER,Q5672034,Harry Rosenthal,,22.23784065246582
+document_000794.html,218,238,Miss Esther Palliser,NIL,PER,Q67445159,Edith Palliser,,23.958019256591797
+document_000794.html,240,262,Madame Marian McKenzie,NIL,PER,Q6780222,Mary Mackenzie,,23.016279220581055
+document_000794.html,287,301,Douglas Powell,NIL,PER,Q5543509,George Posford,,29.52031707763672
+document_000796.html,22,29,Sanctus,NIL,MISC,Q215174,Sanctus,,19.990982055664062
+document_000796.html,67,81,Rev. Conductor,NIL,PER,Q3147441,rector,"```json { ""wikipedia_page"": ""rector"", ""wikidata_id"": ""Q3147441"" } ```",6.138303756713867
+document_000798.html,172,183,Mr. Pierson,Q97011,PER,Q559956,Martin Peerson,,18.931106567382812
+document_000798.html,186,195,Jerusalem,NIL,MISC,Q6185082,Jerusalem,,20.143648147583008
+document_000798.html,216,231,Israel Restored,NIL,MISC,Q18531021,William Richard Bexfield,,20.020549774169922
+document_000799.html,0,9,Mr. Moody,NIL,PER,Q5078814,Charles Harry Moody,,16.984416961669922
+document_000799.html,22,33,Dennis Park,NIL,LOC,Q56278791,Sconce and Devon Park,,26.595664978027344
+document_000799.html,85,100,Mr. G. W. Bates,NIL,PER,Q5512545,G. W. Briggs,,30.684417724609375
+document_000799.html,184,203,Mr. Westlake Morgan,NIL,PER,Q335819,William Maclagan,,30.839515686035156
+document_000800.html,242,247,Leeds,NIL,LOC,Q39121,Leeds,,24.474681854248047
+document_000800.html,317,337,Mendelssohn Concerto,NIL,MISC,Q1054060,Violin Concerto in E minor,,27.51943016052246
+document_000800.html,343,365,Madame Marian McKenzie,NIL,PER,Q6780219,Mary Mackenzie,,22.545421600341797
+document_000801.html,47,61,Angele Cordier,NIL,PER,Q465249,Annie Cordy,,27.76753807067871
+document_000801.html,245,252,Lagraye,NIL,PER,Q3300997,Maurice Lagrenée,,20.467721939086914
+document_000803.html,103,107,Urio,Q244231,LOC,Q48800757,Urio,,16.632186889648438
+document_000803.html,239,246,Te Deum,NIL,MISC,Q743376,Te Deum,,29.237995147705078
+document_000803.html,253,263,Magnificat,NIL,MISC,Q200809,Magnificat,,28.9915828704834
+document_000804.html,198,211,Beck Marshall,NIL,PER,Q4893407,Bernard Marshall,,19.48529815673828
+document_000806.html,212,225,Last Judgment,Q1218918,MISC,Q109827367,Das jüngste Gericht,,20.539093017578125
+document_000807.html,591,596,Spohr,Q57226,PER,Q113827,Franz von Schober,,18.325218200683594
+document_000807.html,153,162,Pacsicllé,NIL,PER,Q375998,Giovanni Pascoli,,19.26746368408203
+document_000807.html,514,523,Pacsicllé,NIL,PER,Q738001,Asprilio Pacelli,"```json { ""wikipedia_page"": ""Asprilio Pacelli"", ""wikidata_id"": ""Q738001"" } ```",12.600346565246582
+document_000807.html,544,549,Chert,NIL,PER,Q12003,Cher,"```json { ""wikipedia_page"": ""Cher"", ""wikidata_id"": ""Q12003"" } ```",8.467584609985352
+document_000808.html,381,394,Conservatoire,Q642258,ORG,Q184644,conservatory,,27.981779098510742
+document_000808.html,289,302,M. Dellepiane,NIL,PER,Q3723917,Emanuele Dellepiane,,28.559415817260742
+document_000813.html,0,11,Mr. DRESELr,Q96415095,PER,Q3732389,Ernst Christoph Dressler,"```json { ""wikipedia_page"": ""Ernst Christoph Dressler"", ""wikidata_id"": ""Q3732389"" } ```",8.076128959655762
+document_000813.html,193,197,Duet,NIL,MISC,Q109940,duet,,18.259279251098633
+document_000813.html,204,215,Spring Song,NIL,MISC,Q7580676,Spring Song,,19.0039119720459
+document_000813.html,232,237,Etude,NIL,MISC,Q207841,étude,,17.86672019958496
+document_000813.html,297,302,Etude,NIL,MISC,Q146917,Études,,18.729022979736328
+document_000813.html,266,288,Adagio from a Concerto,NIL,MISC,Q18163655,"Adagio and Rondo concertante in F major, D 487",,18.370319366455078
+document_000814.html,75,95,Barbiere di Siviglia,Q632743,MISC,Q208659,The Barber of Seville,,25.886131286621094
+document_000816.html,122,128,Pleyel,Q314019,PER,Q1474785,Pleyel et Cie,,26.99336814880371
+document_000816.html,115,120,Momrt,NIL,PER,Q4152106,Otto Gumprecht,,19.101253509521484
+document_000817.html,152,163,The Revenge,NIL,MISC,Q104856583,The Revenge,,24.145206451416016
+document_000817.html,0,3,The,NIL,MISC,Q239582,symphony orchestra,,18.263141632080078
+document_000817.html,191,194,The,NIL,MISC,Q19891975,Schubert's song cycles,,25.413230895996094
+document_000817.html,195,209,Song of Miriam,NIL,MISC,Q19891975,Schubert's song cycles,,24.3441162109375
+document_000818.html,1,27,Military Band Organisation,NIL,ORG,Q92617413,British military bands,,19.993165969848633
+document_000819.html,32,39,Holland,Q102911,LOC,Q55,Netherlands,,23.73874282836914
+document_000819.html,131,138,Holland,Q102911,LOC,Q55,Netherlands,,17.373180389404297
+document_000819.html,107,130,His Majesty the King of,Q154287,PER,Q3254688,list of monarchs of the Netherlands,,15.556758880615234
+document_000820.html,140,150,Portuguese,NIL,LOC,Q18642,Clérigos Church,"```json { ""wikipedia_page"": ""Clérigos Church"", ""wikidata_id"": ""Q18642"" } ```",12.3402099609375
+document_000822.html,106,128,Edinburgh Choral Union,NIL,ORG,Q12361261,Estonian Choral Association,,34.83782958984375
+document_000822.html,130,142,Mr. Kirkhope,NIL,PER,Q334035,Timothy Kirkhope,,23.08969497680664
+document_000822.html,149,159,Mr. Moonie,NIL,PER,Q7175932,Peter Mooney,,23.036483764648438
+document_000823.html,68,74,Aussig,Q156974,LOC,Q106238551,Außig,"```json { ""wikipedia_page"": ""Außig"", ""wikidata_id"": ""Q106238551"" } ```",13.05790901184082
+document_000824.html,153,164,His Majesty,Q130586,PER,Q669458,Majesty,,15.75388240814209
+document_000824.html,0,18,The favourite airs,NIL,MISC,Q178122,aria,"```json { ""wikipedia_page"": ""aria"", ""wikidata_id"": ""Q178122"" } ```",12.200250625610352
+document_000825.html,4,24,Rev. Wiliam Gostling,Q15994466,PER,Q3181623,John Gostling,,17.648256301879883
+document_000826.html,0,14,Madame Vestris,Q6696635,PER,Q30931730,,,18.347610473632812
+document_000828.html,4,13,Lamoureux,Q2735140,ORG,Q1065279,Charles Lamoureux,,24.163040161132812
+document_000828.html,126,144,Chansons de Miarka,NIL,MISC,Q3131015,Mazurkas,,17.69904136657715
+document_000829.html,194,201,Pinsuti,Q2974217,MISC,Q3839994,Luigi Pensuti,,19.67725944519043
+document_000829.html,102,119,Madame San Carolo,NIL,PER,Q52419435,Maria Carolina Salomè,,16.6093807220459
+document_000829.html,130,143,Bridal Chorus,NIL,MISC,Q1476098,Bridal Chorus,,23.767972946166992
+document_000831.html,55,62,M. Sons,NIL,PER,Q60830277,Maurice Sons,,16.437883377075195
+document_000832.html,126,135,Cambridge,Q35794,ORG,Q350,Cambridge,,25.304363250732422
+document_000834.html,44,59,Hymne au Soleil,NIL,MISC,Q107920238,Hymne au soleil,,20.788028717041016
+document_000834.html,101,115,Madame Collier,NIL,PER,Q6172049,Jeanne Collier,,21.9815673828125
+document_000834.html,155,184,Société de Musique d’Ensemble,NIL,ORG,Q2537853,Orchestre de la Société des Concerts du Conservatoire,,22.258413314819336
+document_000835.html,146,151,Abbey,Q5933,LOC,Q160742,abbey,,17.38332748413086
+document_000835.html,23,36,Mr. Schrieder,NIL,PER,Q1700436,John Henry Schröder,,19.784900665283203
+document_000835.html,92,113,Day of the Coronation,NIL,MISC,Q464122,coronation of the British monarch,,19.85093116760254
+document_000836.html,170,185,Mr. Monck Mason,NIL,PER,Q7792512,Thomas Monck Mason,,26.020977020263672
+document_000838.html,6,19,Miss Stephens,Q5052928,PER,Q20634975,Jane Stephens,"```json { ""wikipedia_page"": ""Jane Stephens"", ""wikidata_id"": ""Q20634975"" } ```",13.755032539367676
+document_000838.html,45,57,Drury - Lane,Q1756626,LOC,Q1261392,Drury Lane,,16.480579376220703
+document_000838.html,185,197,Drury - Lane,Q1756626,LOC,Q1261392,Drury Lane,,19.41884994506836
+document_000838.html,84,94,Dr. Crotch,Q718709,PER,Q1508184,George Robert Crotch,"```json { ""wikipedia_page"": ""George Robert Crotch"", ""wikidata_id"": ""Q1508184"" } ```",14.210786819458008
+document_000838.html,157,167,Dr. Crotch,Q718709,PER,Q1508184,George Robert Crotch,"```json { ""wikipedia_page"": ""George Robert Crotch"", ""wikidata_id"": ""Q1508184"" } ```",13.566303253173828
+document_000838.html,143,153,Miss Paton,Q16888398,PER,Q19650472,Micheline Patton,,16.403663635253906
+document_000838.html,97,106,Palestine,NIL,MISC,Q617602,Palestine,,18.390993118286133
+document_000839.html,94,102,Mr. Gaui,NIL,PER,Q16424871,Gaui,,18.987974166870117
+document_000840.html,13,18,Grisi,Q287812,PER,Q21452366,Grisi,,15.664738655090332
+document_000840.html,20,28,Persiani,Q2280304,PER,Q7756752,The Persian,,15.919214248657227
+document_000840.html,100,110,Mr. Lumley,Q2896159,PER,Q6245516,"John Lumley, 1st Baron Lumley",,16.53651237487793
+document_000841.html,94,108,Edward Ascough,NIL,PER,Q5341658,Edward Ayscu,,28.728845596313477
+document_000842.html,23,36,Mrs. Weichsel,Q5362421,PER,Q56487519,Marie Weißhappel,,17.72368812561035
+document_000842.html,68,75,C. Bach,Q106641,PER,Q5163501,Constance Bache,,27.834911346435547
+document_000844.html,122,135,Parish Church,Q2322532,LOC,Q317557,parish church,,31.547534942626953
+document_000844.html,25,39,Choral Service,NIL,MISC,Q131186,choir,,21.12990379333496
+document_000846.html,49,59,Mr. Newman,Q7348018,PER,Q1827266,Lionel Newman,,18.26580810546875
+document_000847.html,109,124,Signorina Barbi,Q3611669,PER,Q33048922,Blanche Hermine Barbot,,23.37198257446289
+document_000847.html,143,165,Madame Norman - Néruda,Q78938,PER,Q106784536,Jane Norman,,16.816972732543945
+document_000848.html,109,120,Dr. Bunnett,NIL,PER,Q16181333,Edward Bunnet,,19.059545516967773
+document_000848.html,135,148,Misses Lefroy,NIL,PER,Q5541641,George Lefroy,,19.47146987915039
+document_000848.html,153,170,Mr. Knyvet Wilson,NIL,PER,Q18670866,Charles Knyvett,,20.808256149291992
+document_000848.html,195,216,Miss Dorothea Whitley,NIL,PER,Q5298677,"Dorothy Wellesley, Duchess of Wellington",,26.65813636779785
+document_000849.html,139,146,Brabant,Q1122,LOC,Q159856,Duchy of Brabant,,27.817888259887695
+document_000849.html,0,13,J. Teinturier,NIL,PER,Q55126885,Johann Tinctor,,17.038101196289062
+document_000851.html,185,197,Philharmonic,Q856125,ORG,Q152222,Berlin Philharmonic,,25.266706466674805
+document_000851.html,16,36,Subscription Concert,NIL,MISC,Q97359092,Concerto competition,,18.68012809753418
+document_000851.html,44,63,Choral Union Series,NIL,MISC,Q6609420,list of choral symphonies,,22.58791732788086
+document_000851.html,134,151,Comedy - Overture,NIL,MISC,Q5151465,Comedy Overture,,19.165624618530273
+document_000852.html,162,179,Ciro riconosciuto,Q5770270,MISC,Q18325000,Ciro riconosciuto,,24.042430877685547
+document_000852.html,187,203,Achille in Siria,Q5702001,MISC,Q18280239,Achille in Sciro,,25.301464080810547
+document_000852.html,82,95,La Zingarella,NIL,MISC,Q464514,La zingara,,25.20383071899414
+document_000852.html,120,137,Jl Festo Teatrale,NIL,MISC,Q3743988,festa teatrale,,19.804737091064453
+document_000852.html,215,223,Vologeso,NIL,MISC,Q7940645,Vologeso,,21.226070404052734
+document_000853.html,111,119,Catalani,Q263405,PER,Q59346603,Alessandro Catalani,,20.50678253173828
+document_000854.html,28,47,Gewandhaus Concerts,Q519613,LOC,Q156515,Leipzig Gewandhaus Orchestra,,26.863412857055664
+document_000854.html,73,89,FErpinanp Ui1LER,Q213530,PER,Q364179,Fritz Reiner,"```json { ""wikipedia_page"": ""Fritz Reiner"", ""wikidata_id"": ""Q364179"" } ```",11.511423110961914
+document_000854.html,142,147,Rietz,Q63745,PER,Q2096389,Friedrich Reitz,,18.83364486694336
+document_000855.html,4,26,Keighley Musical Union,NIL,ORG,Q5025606,Cambridge University Musical Society,,26.016050338745117
+document_000855.html,170,178,Hereward,NIL,MISC,Q16066009,Harriet Auber,,18.307331085205078
+document_000857.html,38,64,Amateur Orchestral Society,NIL,ORG,Q11284860,amateur orchestra,,24.234375
+document_000857.html,94,110,Mr. Ralph Horner,NIL,PER,Q7287648,Ralph Horner,,20.4476261138916
+document_000857.html,127,138,Advent Hymn,NIL,MISC,Q12300621,Advent song,,24.336593627929688
+document_000858.html,164,189,Mr. George William Warren,Q20726537,PER,Q56277418,George Warren,,20.428621292114258
+document_000859.html,123,128,Graun,Q161208,PER,Q1497195,,,22.154455184936523
+document_000859.html,214,228,Dalla sua pace,Q192039,MISC,Q21012468,Solatia pacis,,20.45424461364746
+document_000859.html,131,142,Britannieus,NIL,MISC,Q1196012,Britannicus,,20.317224502563477
+document_000859.html,148,162,Herr Reichardt,NIL,PER,Q213742,Johann Friedrich Reichardt,,20.90450096130371
+document_000860.html,117,127,Gloucester,Q170497,LOC,Q262500,Gloucester Cathedral,,29.436845779418945
+document_000860.html,129,137,Hereford,Q204720,LOC,Q429379,Hereford Cathedral,,30.575672149658203
+document_000860.html,143,152,Worcester,Q1646181,LOC,Q1630367,Worcester Cathedral,,32.36601257324219
+document_000861.html,37,64,Nelson Excelsior Glee Union,NIL,ORG,Q1543757,United Grand Lodge of England,,23.316057205200195
+document_000861.html,70,92,Harrogate Glee Society,NIL,ORG,Q108365696,The Harrogate Club,,28.181787490844727
+document_000861.html,102,114,Apollo Choir,NIL,ORG,Q16203206,Apollo Club of Boston,,23.028823852539062
+document_000861.html,137,157,Reedyford Glee Union,NIL,ORG,Q7307876,Reg Vardy Band,,26.216550827026367
+document_000863.html,0,15,Mr. Arthur Bent,NIL,PER,Q41546,Arthur Cleveland Bent,,19.558170318603516
+document_000863.html,177,215,Concerto for two violins and orchestra,NIL,MISC,Q1094801,Concerto for Two Violins,,24.12015724182129
+document_000864.html,58,72,Mark Ilambourg,Q1900092,PER,Q101423809,Philip Rambow,,25.68334197998047
+document_000864.html,47,56,Dr. Bates,NIL,PER,Q14945544,Harry Bates,"```json { ""wikipedia_page"": ""Harry Bates"", ""wikidata_id"": ""Q14945544"" } ```",14.537395477294922
+document_000864.html,107,129,Norwich Choral Society,NIL,ORG,Q7063651,Nottingham Harmonic Society,,33.78387451171875
+document_000864.html,160,169,Trafalgar,NIL,MISC,Q1761288,Trafalgar Day,,19.335735321044922
+document_000865.html,0,13,Mr. Hepmonnpt,NIL,PER,Q193656,"Henry Temple, 3rd Viscount Palmerston",,18.89141273498535
+document_000866.html,0,18,Miss Katie Goopson,NIL,PER,Q5741662,"Hermione Cobbold, Baroness Cobbold",,15.577910423278809
+document_000867.html,115,120,Norma,Q320353,MISC,Q7051883,Norman,,16.88934326171875
+document_000867.html,83,96,Mary Morrison,NIL,MISC,Q6780382,Mary Morison,,25.94189453125
+document_000867.html,102,112,Mr. Wilson,NIL,PER,Q7984038,Wesley Wilson,"```json { ""wikipedia_page"": ""Wesley Wilson"", ""wikidata_id"": ""Q7984038"" } ```",14.134441375732422
+document_000867.html,126,140,Mr. John Parry,NIL,PER,Q6251980,John Parry,,29.44662094116211
+document_000867.html,143,154,Remembrance,NIL,MISC,Q7311630,Remember,,18.141206741333008
+document_000867.html,160,171,Mr. Ferrari,NIL,PER,Q6248626,John Michael Ferrari,,18.810258865356445
+document_000867.html,226,237,Mr. Manvers,NIL,PER,Q44561904,Huntley Trevor,,19.44902801513672
+document_000868.html,104,113,Mr. Parry,Q6251304,PER,Q6251980,John Parry,"```json { ""wikipedia_page"": ""John Parry"", ""wikidata_id"": ""Q6251980"" } ```",14.457229614257812
+document_000869.html,115,122,Vandyke,Q150679,PER,Q184634,Boudica,,20.31159210205078
+document_000869.html,0,11,Spagnoletti,NIL,PER,Q21655592,,,19.766721725463867
+document_000870.html,11,21,Revolution,NIL,MISC,Q184928,Russian Revolution of 1905,"```json { ""wikipedia_page"": ""Russian Revolution of 1905"", ""wikidata_id"": ""Q184928"" } ```",9.41188907623291
+document_000871.html,121,128,La Rota,NIL,PER,Q214665,Nino Rota,"```json { ""wikipedia_page"": ""Nino Rota"", ""wikidata_id"": ""Q214665"" } ```",15.202226638793945
+document_000871.html,130,142,Pasqua Rossi,NIL,PER,Q337599,Pasquale Rossi,,20.250757217407227
+document_000871.html,148,156,Ortolani,NIL,PER,Q3356826,Ortolano,,23.541919708251953
+document_000872.html,127,183,Belmonte und Constanzé or Die Entfithrung aus dem Serail,Q210711,MISC,Q4884441,Belmont und Constanze,,23.659305572509766
+document_000873.html,32,38,Oberon,Q690835,MISC,Q1139234,Oberon,,22.637088775634766
+document_000873.html,164,178,Madame Novello,Q4322567,PER,Q6762973,Marie Novello,,20.696182250976562
+document_000879.html,61,84,the company of Monsieur,NIL,ORG,Q1092777,Monsieur,,15.596570014953613
+document_000880.html,0,9,Scarlatti,Q167837,PER,Q183087,Alessandro Scarlatti,,36.573951721191406
+document_000880.html,64,79,Concerti grossi,Q2991921,MISC,Q210216,concerto grosso,,27.690778732299805
+document_000880.html,160,167,Jomelli,Q312891,PER,Q43763698,Jeanne Jomelli,,21.698060989379883
+document_000881.html,90,99,Sofonisba,NIL,MISC,Q3963990,Sophonisba,,18.0916690826416
+document_000881.html,155,161,Siface,NIL,MISC,Q1118036,Giovanni Francesco Grossi,,16.062044143676758
+document_000882.html,25,33,Cervetto,Q1364637,PER,Q1613323,Carlo Cervetto,,15.977478981018066
+document_000883.html,26,69,Society for the Cultivation of Danish Music,Q1761293,ORG,Q21855029,Sonning Foundation,,32.3913459777832
+document_000884.html,58,70,Quintet in C,Q17025624,MISC,Q19898162,Violin Concerto in C,,25.97667121887207
+document_000884.html,108,117,Mr. Burxe,NIL,PER,Q1869869,Lord Burgess,,16.413990020751953
+document_000885.html,146,155,Clapisson,Q1871594,PER,Q2853805,Antoine Clapisson,,18.719707489013672
+document_000885.html,7,12,Opera,NIL,ORG,Q1344,opera,"```json { ""wikipedia_page"": ""opera"", ""wikidata_id"": ""Q1344"" } ```",14.539401054382324
+document_000885.html,3,6,the,NIL,MISC,Q283339,Paris Opera,"```json { ""wikipedia_page"": ""Paris Opera"", ""wikidata_id"": ""Q283339"" } ```",11.975053787231445
+document_000885.html,25,28,the,NIL,MISC,Q263297,Le prophète,"```json { ""wikipedia_page"": ""Le prophète"", ""wikidata_id"": ""Q263297"" } ```",8.353594779968262
+document_000885.html,40,43,the,NIL,MISC,Q17628156,,"```json { ""wikipedia_page"": ""La Muette de Portici"", ""wikidata_id"": ""Q17628156"" } ```",6.855395793914795
+document_000885.html,58,61,the,NIL,MISC,Q244209,Lucia di Lammermoor,"```json { ""wikipedia_page"": ""Lucia di Lammermoor"", ""wikidata_id"": ""Q244209"" } ```",9.98213005065918
+document_000885.html,90,93,the,NIL,MISC,Q470773,La muette de Portici,"```json { ""wikipedia_page"": ""La muette de Portici"", ""wikidata_id"": ""Q470773"" } ```",8.256691932678223
+document_000885.html,44,55,fanchonette,NIL,MISC,Q786556,Fanchon,"```json { ""wikipedia_page"": ""Fanchon"", ""wikidata_id"": ""Q786556"" } ```",13.550851821899414
+document_000886.html,125,131,Cramer,Q455212,PER,Q5492728,Franz Cramer,,27.255998611450195
+document_000886.html,147,155,Cervetto,Q18529811,PER,Q1364637,Giacobbe Cervetto,,22.585094451904297
+document_000887.html,102,108,Psalms,NIL,MISC,Q41064,Psalms,,20.69395637512207
+document_000888.html,46,70,Gateshead Choral Society,NIL,ORG,Q2414046,The Glasshouse,,28.56568145751953
+document_000888.html,190,207,Mr. J. M. Preston,NIL,PER,Q6833613,Michael Preston,,21.924301147460938
+document_000891.html,74,79,Percy,Q712930,PER,Q6252552,John Percy,,21.105932235717773
+document_000892.html,151,169,Mr. Norman Salmond,Q5442324,PER,Q11037030,John Salmond,,24.985258102416992
+document_000892.html,79,88,Mr. Fould,NIL,PER,Q798663,John Foulds,,20.691211700439453
+document_000897.html,30,35,Reyer,Q516937,PER,Q1545603,Sophie Reyer,,19.80524253845215
+document_000897.html,93,101,Brussels,Q239,LOC,Q240,Brussels-Capital Region,,22.597612380981445
+document_000898.html,74,81,Athalie,Q19259756,MISC,Q353933,Adelaide,,22.960811614990234
+document_000898.html,7,27,New Jerusalem Church,NIL,LOC,Q5118016,Church of the New Jerusalem,,32.702117919921875
+document_000898.html,176,194,Mr. Wilfrid Davies,NIL,PER,Q3131948,Walford Davies,,24.04142951965332
+document_000902.html,0,11,Dr. Mainzer,NIL,PER,Q5443875,Ferdinand Mainzer,"```json { ""wikipedia_page"": ""Ferdinand Mainzer"", ""wikidata_id"": ""Q5443875"" } ```",13.619711875915527
+document_000902.html,473,484,Dr. Mainzer,NIL,PER,Q18327913,Joseph Mainzer,"```json { ""wikipedia_page"": ""Joseph Mainzer"", ""wikidata_id"": ""Q18327913"" } ```",13.242069244384766
+document_000902.html,285,301,Mr. Thomas Clegg,NIL,PER,Q60750814,Michael Clegg,,24.774871826171875
+document_000902.html,797,830,NORMAL MUSIC SCHOOL OF MANCHESTER,NIL,ORG,Q6670609,London Music Masters,,22.010587692260742
+document_000903.html,0,6,Sommer,NIL,PER,Q22278049,Zan Guerry,"```json { ""wikipedia_page"": ""Zan Guerry"", ""wikidata_id"": ""Q22278049"" } ```",9.058399200439453
+document_000903.html,24,39,Court of Vienna,NIL,ORG,Q2069586,King's Inns,,20.760122299194336
+document_000904.html,406,413,Feydeau,Q825805,LOC,Q61557606,Salle Feydeau,,17.001628875732422
+document_000907.html,105,119,Court Magazine,NIL,ORG,Q3817702,Chess magazine,,17.758657455444336
+document_000911.html,121,129,Hamerton,Q52498671,PER,Q2739449,Hamerton,,21.603429794311523
+document_000913.html,50,57,Naumann,Q213927,PER,Q727307,Naimans,"```json { ""wikipedia_page"": ""Naimans"", ""wikidata_id"": ""Q727307"" } ```",12.226694107055664
+document_000914.html,406,413,Hanover,Q164079,LOC,Q1715,Hanover,,21.314254760742188
+document_000915.html,57,69,Lord Paisley,Q3806590,PER,Q4707513,Alan Percy,,18.808000564575195
+document_000916.html,319,331,Herr Joachim,NIL,PER,Q159976,Joseph Joachim,"```json { ""wikipedia_page"": ""Joseph Joachim"", ""wikidata_id"": ""Q159976"" } ```",13.560539245605469
+document_000916.html,542,556,Miss Thudichum,NIL,PER,Q19513322,Karl Thudichum,"```json { ""wikipedia_page"": ""Karl Thudichum"", ""wikidata_id"": ""Q19513322"" } ```",11.733940124511719
+document_000917.html,0,23,Westmorland Scholarship,NIL,MISC,Q3643409,"William Palmer, 2nd Earl of Selborne",,17.473875045776367
+document_000920.html,171,190,Mademoiselle Bonini,NIL,PER,Q30693546,Madame Ponisi,,23.388935089111328
+document_000922.html,2,8,Wilson,Q6264502,PER,Q931286,Alexander Wilson,,18.91226577758789
+document_000923.html,14,25,John Bishop,NIL,PER,Q18530135,John Bishop,,30.18613052368164
+document_000923.html,65,81,Professor Taylor,NIL,PER,Q7794377,Thomas Taylor,"```json { ""wikipedia_page"": ""Thomas Taylor"", ""wikidata_id"": ""Q7794377"" } ```",12.069828033447266
+document_000925.html,92,110,Madame Rudersdorff,Q17575680,PER,Q102286411,Joseph Rudersdorff,,20.223371505737305
+document_000925.html,76,81,Medea,NIL,MISC,Q174278,Medea,,20.68039321899414
+document_000925.html,236,241,Saffo,NIL,MISC,Q2211491,Saffo,,16.809789657592773
+document_000925.html,344,355,150th Psalm,NIL,MISC,Q2508201,Psalm 150,,27.33765411376953
+document_000925.html,467,487,The Prayer of Nature,NIL,MISC,Q642014,The Rain Song,,18.14092445373535
+document_000926.html,0,10,Mr. Bishop,Q1200639,PER,Q875146,sysop,,16.226125717163086
+document_000927.html,122,129,Convent,NIL,LOC,Q1128397,convent,,20.246723175048828
+document_000927.html,130,143,of Maria Jhal,NIL,LOC,Q1896432,Wallfahrtskirche Maria Zell,,17.399852752685547
+document_000927.html,569,578,Henriette,NIL,PER,Q64626874,Henriette Henriot,"```json { ""wikipedia_page"": ""Henriette Henriot"", ""wikidata_id"": ""Q64626874"" } ```",10.212316513061523
