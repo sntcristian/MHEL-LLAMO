@@ -1,0 +1,284 @@
+doc_id,start_pos,end_pos,surface,gt_id,type,identifier,title,answer,score
+hidden_test_sv_1,303,317,RobertLydecken,NIL,PER,Q5950105,Robert Lichton,"```json {""wikipedia_page"": ""Robert Lichton"", ""wikidata_id"": ""Q5950105""} ```",19.98794937133789
+hidden_test_sv_1,405,432,"efterlämnad maka, född Wahl",NIL,PER,Q16650554,Olof Wahlgren,"```json {""wikipedia_page"": ""Olof Wahlgren"", ""wikidata_id"": ""Q16650554""} ```",6.98746919631958
+hidden_test_sv_1,473,535,"H. exc. ministerstatssek-reteraren, generallöjtnant W. vonDæhn",Q5614831,PER,Q12312936,Friedrich Detlev Heinrich von Dudden,"```json {""wikipedia_page"": ""Friedrich Detlev Heinrich von Dudden"", ""wikidata_id"": ""Q12312936""} ```",14.418375968933105
+hidden_test_sv_1,742,766,Handlanden K.A. Aaltonen,NIL,PER,Q5540615,Emil Aaltonen,"```json {""wikipedia_page"": ""Emil Aaltonen"", ""wikidata_id"": ""Q5540615""} ```",13.128690719604492
+hidden_test_sv_1,838,853,Viksbärg säteri,NIL,LOC,Q11901406,Viksberg gård (Pemar),"```json {""wikipedia_page"": ""Viksberg gård (Pemar)"", ""wikidata_id"": ""Q11901406""} ```",25.113975524902344
+hidden_test_sv_1,856,872,Hel-singe socken,Q127623,LOC,Q206564,Hälsingland,"```json {""wikipedia_page"": ""Hälsingland"", ""wikidata_id"": ""Q206564""} ```",24.459697723388672
+hidden_test_sv_1,891,923,Her-manstad kvart. II tomt n:o 1,NIL,LOC,Q139340,Hermanstad,"```json {""wikipedia_page"": ""Hermanstad"", ""wikidata_id"": ""Q139340""} ```",16.909591674804688
+hidden_test_sv_1,1605,1623,prinsessanTörnrosa,NIL,PER,Q11824,Törnrosa,"```json {""wikipedia_page"": ""Törnrosa"", ""wikidata_id"": ""Q11824""} ```",17.3621826171875
+hidden_test_sv_1,1625,1638,frk. Bergroth,NIL,PER,Q4456892,Kersti Bergroth-Matson,"```json {""wikipedia_page"": ""Kersti Bergroth-Matson"", ""wikidata_id"": ""Q4456892""} ```",12.921189308166504
+hidden_test_sv_1,1778,1798,psendony-men Alceste,NIL,PER,Q61002,pseudonym,"```json {""wikipedia_page"": ""pseudonym"", ""wikidata_id"": ""Q61002""} ```",12.676937103271484
+hidden_test_sv_1,2117,2129,Vilhelms-bad,Q18662881,LOC,Q1760456,Vilhelmina,"```json {""wikipedia_page"": ""Vilhelmina"", ""wikidata_id"": ""Q1760456""} ```",13.85926628112793
+hidden_test_sv_1,2187,2202,hrGregorowitsch,NIL,PER,Q3776508,Gregorio Gregorj,"```json {""wikipedia_page"": ""Gregorio Gregorj"", ""wikidata_id"": ""Q3776508""} ```",10.945819854736328
+hidden_test_sv_1,2431,2440,Sara-sate,Q204503,PER,Q4499874,Marie-Constance Sasse,"```json {""wikipedia_page"": ""Sara-sate"", ""wikidata_id"": ""Q4499874""} ```",15.069767951965332
+hidden_test_sv_1,2467,2475,Raja-nus,Q708902,PER,NIL,Raja-nus,no,0
+hidden_test_sv_1,2763,2775,Yrjö Veijola,Q17384831,PER,Q11900714,Veijon-Veikko,"```json {""wikipedia_page"": ""Veijon-Veikko"", ""wikidata_id"": ""Q11900714""} ```",28.29803466796875
+hidden_test_sv_1,2936,2978,"återgifvarne af hufvud-rollerna, fru Leino",NIL,PER,Q96473666,Inger Leino,"```json {""wikipedia_page"": ""Inger Leino"", ""wikidata_id"": ""Q96473666""} ```",8.736327171325684
+hidden_test_sv_1,3163,3217,bolagets värkställande di-rektör konsul G. A. Lindblom,NIL,PER,Q11860772,Gustaf Adolf Lindblom,"```json {""wikipedia_page"": ""Gustaf Adolf Lindblom"", ""wikidata_id"": ""Q11860772""} ```",17.142921447753906
+hidden_test_sv_1,3761,3766,Å. T.,Q11903297,PROD,NIL,Å. T.,no,0
+hidden_test_sv_1,3941,3954,Baltisch-port,Q204091,LOC,Q5660,Baltijsk,"```json {""wikipedia_page"": ""Baltijsk"", ""wikidata_id"": ""Q5660""} ```",14.704069137573242
+hidden_test_sv_1,4687,4707,Lappvikslastageplats,NIL,LOC,Q3069129,Lappviken,"```json {""wikipedia_page"": ""Lappviken"", ""wikidata_id"": ""Q3069129""} ```",21.83627700805664
+hidden_test_sv_1,4790,4802,Lappvikshamn,NIL,LOC,Q3069129,Lappviken,"```json {""wikipedia_page"": ""Lappviken"", ""wikidata_id"": ""Q3069129""} ```",22.7722110748291
+hidden_test_sv_1,5257,5287,Finska ång-fartygsaktiebolaget,NIL,ORG,Q1296313,Effoa,"```json {""wikipedia_page"": ""Effoa"", ""wikidata_id"": ""Q1296313""} ```",20.507387161254883
+hidden_test_sv_1,5440,5466,"make,garfvaren D. Suominen",NIL,PER,Q28720899,J. W. Suominen,"```json {""wikipedia_page"": ""J. W. Suominen"", ""wikidata_id"": ""Q28720899""} ```",12.728697776794434
+hidden_test_sv_1,5498,5504,Vibbl.,Q18662795,PROD,NIL,Vibbl.,no,0
+hidden_test_sv_1,5533,5563,aflidnekonsul Robert Lydecken:,NIL,PER,Q11852955,Arvid Lydecken,"```json {""wikipedia_page"": ""Arvid Lydecken"", ""wikidata_id"": ""Q11852955""} ```",10.959768295288086
+hidden_test_sv_1,5979,5990,Lyytikäinen,NIL,PER,Q11879952,Lyytikäinen,"```json {""wikipedia_page"": ""Lyytikäinen"", ""wikidata_id"": ""Q11879952""} ```",23.530651092529297
+hidden_test_sv_1,6017,6042,Robert Ferdinand Lydecken,NIL,PER,Q17382321,,"```json {""wikipedia_page"": """", ""wikidata_id"": ""Q17382321""} ```",26.290748596191406
+hidden_test_sv_1,6083,6098,Bœchmska skolan,NIL,ORG,Q10428882,Beskowska skolan,"```json {""wikipedia_page"": ""Beskowska skolan"", ""wikidata_id"": ""Q10428882""} ```",14.883140563964844
+hidden_test_sv_1,6106,6115,Ly-decken,NIL,PER,Q11879952,Lyytikäinen,"```json {""wikipedia_page"": ""Lyytikäinen"", ""wikidata_id"": ""Q11879952""} ```",16.456308364868164
+hidden_test_sv_1,6305,6321,W. BeckersWittwe,NIL,ORG,Q50909,AB Wilh. Becker,"```json {""wikipedia_page"": ""AB Wilh. Becker"", ""wikidata_id"": ""Q50909""} ```",14.2242431640625
+hidden_test_sv_1,6569,6577,Lydecken,NIL,PER,Q11852955,Arvid Lydecken,"```json {""wikipedia_page"": ""Arvid Lydecken"", ""wikidata_id"": ""Q11852955""} ```",18.972084045410156
+hidden_test_sv_1,6755,6778,handlanden Herman Stahl,NIL,PER,Q36325135,Herman von Stahl,"```json {""wikipedia_page"": ""Herman von Stahl"", ""wikidata_id"": ""Q36325135""} ```",13.654379844665527
+hidden_test_sv_1,6804,6809,Hangö,Q216790,LOC,Q8095839,Hangöbanan,"```json {""wikipedia_page"": ""Hangöbanan"", ""wikidata_id"": ""Q8095839""} ```",17.764238357543945
+hidden_test_sv_2,40,50,lm Fellman,Q11853353,PER,Q3450203,Isak Fellman,"```json {""wikipedia_page"": ""Isak Fellman"", ""wikidata_id"": ""Q3450203""} ```",11.126710891723633
+hidden_test_sv_2,118,132,Finlands Banks,NIL,ORG,Q194060,Finlands Bank,"```json {""wikipedia_page"": ""Finlands Bank"", ""wikidata_id"": ""Q194060""} ```",26.267534255981445
+hidden_test_sv_2,300,314,Finlands Banks,NIL,ORG,Q194060,Finlands Bank,"```json {""wikipedia_page"": ""Finlands Bank"", ""wikidata_id"": ""Q194060""} ```",23.828815460205078
+hidden_test_sv_2,354,363,Lm Bremer,NIL,PER,Q11891019,Robert Bremer,"```json {""wikipedia_page"": ""Robert Bremer"", ""wikidata_id"": ""Q11891019""} ```",16.9996395111084
+hidden_test_sv_2,398,408,hr Fellman,Q11853353,PER,Q5727693,Hjalmar Fellman,"```json {""wikipedia_page"": ""Hjalmar Fellman"", ""wikidata_id"": ""Q5727693""} ```",15.960057258605957
+hidden_test_sv_2,630,639,lmAvellan,NIL,PER,Q16164004,Carl Adam Avellan,"```json {""wikipedia_page"": ""Carl Adam Avellan"", ""wikidata_id"": ""Q16164004""} ```",16.00432586669922
+hidden_test_sv_2,793,801,Lm Perho,NIL,PER,Q11873713,Kustaa Perho,"```json {""wikipedia_page"": ""Kustaa Perho"", ""wikidata_id"": ""Q11873713""} ```",11.401001930236816
+hidden_test_sv_2,812,817,Värri,NIL,PER,Q11868738,Kaarle Wärri,"```json {""wikipedia_page"": ""Kaarle Wärri"", ""wikidata_id"": ""Q11868738""} ```",16.809476852416992
+hidden_test_sv_2,818,827,Teittinen,NIL,PER,Q11896802,Teittinen,"```json {""wikipedia_page"": ""Teittinen"", ""wikidata_id"": ""Q11896802""} ```",20.625215530395508
+hidden_test_sv_2,829,836,Forsman,NIL,PER,Q4355896,Jakob Oskar Forsman,"```json {""wikipedia_page"": ""Jakob Oskar Forsman"", ""wikidata_id"": ""Q4355896""} ```",20.58614730834961
+hidden_test_sv_2,838,849,Tensik-kala,NIL,PER,Q24556777,Töksinkallio,"```json {""wikipedia_page"": ""Töksinkallio"", ""wikidata_id"": ""Q24556777""} ```",17.623868942260742
+hidden_test_sv_2,899,909,lm Fieandt,NIL,PER,Q1523347,Johan Henrik Fieandt,"```json {""wikipedia_page"": ""Johan Henrik Fieandt"", ""wikidata_id"": ""Q1523347""} ```",14.514456748962402
+hidden_test_sv_2,911,920,Huopo-nen,Q11884211,PER,Q11851025,Alpo Noponen,"```json {""wikipedia_page"": ""Alpo Noponen"", ""wikidata_id"": ""Q11851025""} ```",17.218875885009766
+hidden_test_sv_2,932,940,Leppänen,NIL,PER,Q20252106,Pekka Leppänen,"```json {""wikipedia_page"": ""Pekka Leppänen"", ""wikidata_id"": ""Q20252106""} ```",18.50679588317871
+hidden_test_sv_2,943,952,Li-belits,Q608803,LOC,Q480221,Karol Libelt,"```json {""wikipedia_page"": ""Karol Libelt"", ""wikidata_id"": ""Q480221""} ```",14.363283157348633
+hidden_test_sv_2,955,961,Eklund,NIL,PER,Q5630079,Ludvig Eklund,"```json {""wikipedia_page"": ""Ludvig Eklund"", ""wikidata_id"": ""Q5630079""} ```",20.80596923828125
+hidden_test_sv_2,1568,1578,lm Meurman,Q3375788,PER,Q19703721,Jalmari Meurman,"```json {""wikipedia_page"": ""Jalmari Meurman"", ""wikidata_id"": ""Q19703721""} ```",11.624756813049316
+hidden_test_sv_2,2088,2099,Lm Punttala,NIL,PER,Q6058116,L.A. Puntila,"```json {""wikipedia_page"": ""L.A. Puntila"", ""wikidata_id"": ""Q6058116""} ```",13.428671836853027
+hidden_test_sv_2,2218,2224,Holmén,NIL,PER,Q5811232,Christian Holmén,"```json {""wikipedia_page"": ""Christian Holmén"", ""wikidata_id"": ""Q5811232""} ```",15.604669570922852
+hidden_test_sv_2,2288,2298,Lm Avellan,Q11856627,PER,Q11862396,Herman Avellan,"```json {""wikipedia_page"": ""Herman Avellan"", ""wikidata_id"": ""Q11862396""} ```",17.808828353881836
+hidden_test_sv_2,2300,2310,Kilpiäinen,NIL,PER,Q11871475,Kilpiäinen,"```json {""wikipedia_page"": ""Kilpiäinen"", ""wikidata_id"": ""Q11871475""} ```",19.921716690063477
+hidden_test_sv_2,2312,2321,Kak-kinen,NIL,PER,Q18681931,Kalkis,"```json {""wikipedia_page"": ""Kalkis"", ""wikidata_id"": ""Q18681931""} ```",15.331624031066895
+hidden_test_sv_2,2323,2332,Lindegren,NIL,PER,Q24018202,Lars Lindegren,"```json {""wikipedia_page"": ""Lars Lindegren"", ""wikidata_id"": ""Q24018202""} ```",21.053619384765625
+hidden_test_sv_2,2394,2402,Lm Aulin,NIL,PER,Q5594937,Adolf Aulin,"```json {""wikipedia_page"": ""Adolf Aulin"", ""wikidata_id"": ""Q5594937""} ```",18.990245819091797
+hidden_test_sv_2,2701,2711,Lm Fieandt,NIL,PER,Q824517,Rainer von Fieandt,"```json {""wikipedia_page"": ""Rainer von Fieandt"", ""wikidata_id"": ""Q824517""} ```",16.00628662109375
+hidden_test_sv_2,2726,2733,lmPerho,NIL,PER,Q11873713,Kustaa Perho,"```json {""wikipedia_page"": ""Kustaa Perho"", ""wikidata_id"": ""Q11873713""} ```",12.87511157989502
+hidden_test_sv_2,2971,2981,Lm Avellan,Q11856627,PER,Q16164004,Carl Adam Avellan,"```json {""wikipedia_page"": ""Carl Adam Avellan"", ""wikidata_id"": ""Q16164004""} ```",18.686967849731445
+hidden_test_sv_2,2995,3002,Bre-mer,NIL,PER,Q42393873,Carl Fredric Bremer,"```json {""wikipedia_page"": ""Carl Fredric Bremer"", ""wikidata_id"": ""Q42393873""} ```",22.76399040222168
+hidden_test_sv_2,3093,3107,lm Col-liander,NIL,PER,Q5610736,Carl Collander,"```json {""wikipedia_page"": ""Carl Collander"", ""wikidata_id"": ""Q5610736""} ```",15.83088493347168
+hidden_test_sv_2,3301,3311,Lm Avellan,Q11856627,PER,Q11862396,Herman Avellan,"```json {""wikipedia_page"": ""Herman Avellan"", ""wikidata_id"": ""Q11862396""} ```",22.162519454956055
+hidden_test_sv_2,3406,3419,lm Colliander,NIL,PER,Q5699147,Otto Immanuel Colliander,"```json {""wikipedia_page"": ""Otto Immanuel Colliander"", ""wikidata_id"": ""Q5699147""} ```",22.633934020996094
+hidden_test_sv_2,3471,3478,Lm Köni,NIL,PER,Q10552142,Könni,"```json {""wikipedia_page"": ""Könni"", ""wikidata_id"": ""Q10552142""} ```",19.714344024658203
+hidden_test_sv_2,3546,3555,Lm Bremer,NIL,PER,Q262145,Fredrika Bremer,"```json {""wikipedia_page"": ""Fredrika Bremer"", ""wikidata_id"": ""Q262145""} ```",21.248151779174805
+hidden_test_sv_2,3894,3909,Lm. F. Taskinen,NIL,PER,Q26449075,Vili Taskinen,"```json {""wikipedia_page"": ""Vili Taskinen"", ""wikidata_id"": ""Q26449075""} ```",15.346524238586426
+hidden_test_sv_2,4074,4083,Lm. Aulin,NIL,PER,Q5594937,Adolf Aulin,"```json {""wikipedia_page"": ""Adolf Aulin"", ""wikidata_id"": ""Q5594937""} ```",17.827800750732422
+hidden_test_sv_2,4205,4214,Lm. Laine,Q17382045,PER,Q18207042,Johannes Laine,"```json {""wikipedia_page"": ""Johannes Laine"", ""wikidata_id"": ""Q18207042""} ```",19.837635040283203
+hidden_test_sv_2,4287,4297,Lm. Slotte,Q6181110,PER,Q6181098,Alexander Slotte,"```json {""wikipedia_page"": ""Alexander Slotte"", ""wikidata_id"": ""Q6181098""} ```",20.23807716369629
+hidden_test_sv_2,4320,4332,Lm. Eriksson,NIL,PER,Q5716466,Halvar Eriksson,"```json {""wikipedia_page"": ""Halvar Eriksson"", ""wikidata_id"": ""Q5716466""} ```",18.123151779174805
+hidden_test_sv_2,4386,4395,Lm. Roiha,NIL,PER,Q11891111,Roiha,"```json {""wikipedia_page"": ""Roiha"", ""wikidata_id"": ""Q11891111""} ```",20.63139533996582
+hidden_test_sv_2,4397,4403,Hildén,NIL,PER,Q5392093,Henrik Hildén,"```json {""wikipedia_page"": ""Henrik Hildén"", ""wikidata_id"": ""Q5392093""} ```",20.658456802368164
+hidden_test_sv_2,4405,4412,Flygare,NIL,PER,Q64860301,Carl Flygare,"```json {""wikipedia_page"": ""Carl Flygare"", ""wikidata_id"": ""Q64860301""} ```",15.901905059814453
+hidden_test_sv_2,4443,4455,Lm. Punttala,NIL,PER,Q6058116,L.A. Puntila,"```json {""wikipedia_page"": ""L.A. Puntila"", ""wikidata_id"": ""Q6058116""} ```",19.80386734008789
+hidden_test_sv_2,4484,4496,Lm. Huoponen,Q11884211,PER,NIL,Lm. Huoponen,no,0
+hidden_test_sv_2,4512,4523,lm.Kokkonen,NIL,PER,Q4411307,Antti Kukkonen,"```json {""wikipedia_page"": ""Antti Kukkonen"", ""wikidata_id"": ""Q4411307""} ```",13.015332221984863
+hidden_test_sv_2,4612,4623,Lm. Toijala,NIL,PER,Q1850632,Toijala,"```json {""wikipedia_page"": ""Toijala"", ""wikidata_id"": ""Q1850632""} ```",19.085514068603516
+hidden_test_sv_2,4655,4668,lm. Erikssons,NIL,PER,Q5716639,Johannes Eriksson,"```json {""wikipedia_page"": ""Johannes Eriksson"", ""wikidata_id"": ""Q5716639""} ```",12.611284255981445
+hidden_test_sv_2,5087,5115,kooperationsföreningen Labor,NIL,ORG,Q1510161,Kooperativa Förbundet,"```json {""wikipedia_page"": ""Kooperativa Förbundet"", ""wikidata_id"": ""Q1510161""} ```",15.264532089233398
+hidden_test_sv_2,5484,5501,fru EsterMalmgren,NIL,PER,Q5973918,Ture Malmgren,"```json {""wikipedia_page"": ""Ture Malmgren"", ""wikidata_id"": ""Q5973918""} ```",13.090958595275879
+hidden_test_sv_2,5547,5578,afdelnings-kontoret i Mariehamn,NIL,LOC,Q48329,Mariehamn,"```json {""wikipedia_page"": ""Mariehamn"", ""wikidata_id"": ""Q48329""} ```",14.780416488647461
+hidden_test_sv_2,5628,5649,frökea Ester Sundblom,NIL,PER,Q98841458,Britha Sundström,"```json {""wikipedia_page"": ""Britha Sundström"", ""wikidata_id"": ""Q98841458""} ```",10.350759506225586
+hidden_test_sv_2,5778,5814,aflidne bankdirektörenA. F. Björkman,NIL,PER,Q11850582,Albert Björkman,"```json {""wikipedia_page"": ""Albert Björkman"", ""wikidata_id"": ""Q11850582""} ```",15.778936386108398
+hidden_test_sv_2,5857,5875,Handelsföreningens,NIL,ORG,Q10685854,Sveriges Allmänna Handelsförening,"```json {""wikipedia_page"": ""Sveriges Allmänna Handelsförening"", ""wikidata_id"": ""Q10685854""} ```",18.839481353759766
+hidden_test_sv_2,5903,5925,konsul G.L. Söderström,NIL,PER,Q85998080,,"```json {""wikipedia_page"": """", ""wikidata_id"": ""Q85998080""} ```",17.038471221923828
+hidden_test_sv_2,5936,5974,Nordiska ak-tiebankens förvaltningsråd,NIL,ORG,Q105931781,Nordiska Aktiebanken,"```json {""wikipedia_page"": ""Nordiska Aktiebanken"", ""wikidata_id"": ""Q105931781""} ```",21.599365234375
+hidden_test_sv_2,5986,6043,"t. f. föreståndaren för bankens kontor,löjtnant V. Nyberg",NIL,PER,Q2831434,Albert Nyberg,"```json {""wikipedia_page"": ""Albert Nyberg"", ""wikidata_id"": ""Q2831434""} ```",12.407211303710938
+hidden_test_sv_2,6054,6119,"stadsfull-mäktiges viceordförande, kommunalrå-det B. E. Hollmerus",NIL,PER,Q10677163,stadsfullmäktige,"```json {""wikipedia_page"": ""stadsfullmäktige"", ""wikidata_id"": ""Q10677163""} ```",15.853531837463379
+hidden_test_sv_2,6440,6456,mag. K. Grönlund,NIL,PER,Q11880620,Maj Granlund,"```json {""wikipedia_page"": ""Maj Granlund"", ""wikidata_id"": ""Q11880620""} ```",16.51658821105957
+hidden_test_sv_2,6466,6474,B. N. T.,Q11854518,PROD,NIL,B. N. T.,no,0
+hidden_test_sv_2,6476,6497,Lagman Ferd. Jusélius,Q17381212,PER,Q19818286,Gabriel Juslenius,"```json {""wikipedia_page"": ""Gabriel Juslenius"", ""wikidata_id"": ""Q19818286""} ```",13.337381362915039
+hidden_test_sv_2,6572,6577,Å. T.,Q11903297,PROD,NIL,Å. T.,no,0
+hidden_test_sv_2,7412,7440,Viborg arbetaren P.Pelkonens,NIL,PER,Q14657,Viborg,"```json {""wikipedia_page"": ""Viborg"", ""wikidata_id"": ""Q14657""} ```",14.966414451599121
+hidden_test_sv_2,7833,7841,Fagernäs,NIL,LOC,Q65196058,Fagranäs,"```json {""wikipedia_page"": ""Fagranäs"", ""wikidata_id"": ""Q65196058""} ```",19.450416564941406
+hidden_test_sv_2,7852,7861,Wästergåd,NIL,LOC,Q10717919,Västergård,"```json {""wikipedia_page"": ""Västergård"", ""wikidata_id"": ""Q10717919""} ```",15.441847801208496
+hidden_test_sv_2,7867,7922,Granham-marshemman i Fagernäs by af Snap-pertuna kapell,NIL,LOC,Q5595755,Granhammars slott,"```json {""wikipedia_page"": ""Granhammars slott"", ""wikidata_id"": ""Q5595755""} ```",19.97641372680664
+hidden_test_sv_2,7954,7973,hr Hjalmar Bäcklund,NIL,PER,Q27877581,Bäcklund,"```json {""wikipedia_page"": ""Bäcklund"", ""wikidata_id"": ""Q27877581""} ```",16.714397430419922
+hidden_test_sv_2,7979,8035,kommunalnämdsordföranden possessio-naten hr F. Björklund,NIL,PER,Q5577665,Gottfrid Björklund,"```json {""wikipedia_page"": ""Gottfrid Björklund"", ""wikidata_id"": ""Q5577665""} ```",14.394433975219727
+hidden_test_sv_2,8039,8044,"V. N,",Q18662793,PROD,NIL,"V. N,",no,0
+hidden_test_sv_2,8183,8188,V. N.,Q18662793,PROD,Q1372937,Nylands län,"```json {""wikipedia_page"": ""Nylands län"", ""wikidata_id"": ""Q1372937""} ```",4.461416244506836
+hidden_test_sv_3,245,255,Frankrikes,Q70802,LOC,Q142,Frankrike,"```json {""wikipedia_page"": ""Frankrike"", ""wikidata_id"": ""Q142""} ```",23.779251098632812
+hidden_test_sv_3,317,326,Frankrike,Q70802,LOC,Q142,Frankrike,"```json {""wikipedia_page"": ""Frankrike"", ""wikidata_id"": ""Q142""} ```",23.048486709594727
+hidden_test_sv_3,366,377,Frankri-kes,Q70802,LOC,Q142,Frankrike,"```json {""wikipedia_page"": ""Frankrike"", ""wikidata_id"": ""Q142""} ```",21.48874282836914
+hidden_test_sv_3,1035,1039,ZARA,NIL,LOC,Q3370,Zadar,"```json {""wikipedia_page"": ""Zadar"", ""wikidata_id"": ""Q3370""} ```",13.97581672668457
+hidden_test_sv_3,1852,1861,Armeniens,Q399,LOC,Q79797,armenier,"```json {""wikipedia_page"": ""armenier"", ""wikidata_id"": ""Q79797""} ```",18.81916618347168
+hidden_test_sv_3,2303,2317,Konstantinopel,Q406,LOC,Q16869,Konstantinopel,"```json {""wikipedia_page"": ""Konstantinopel"", ""wikidata_id"": ""Q16869""} ```",28.312517166137695
+hidden_test_sv_3,2496,2536,arme-niska patriarken Nerses Warjapetian,Q972099,PER,Q1941165,,"```json {""wikipedia_page"": """", ""wikidata_id"": ""Q1941165""} ```",18.203500747680664
+hidden_test_sv_3,2551,2557,Berlin,Q64,LOC,Q151423,Berlinkongressen,"```json {""wikipedia_page"": ""Berlinkongressen"", ""wikidata_id"": ""Q151423""} ```",19.547592163085938
+hidden_test_sv_3,2715,2721,Cypern,Q644636,LOC,Q229,Cypern,"```json {""wikipedia_page"": ""Cypern"", ""wikidata_id"": ""Q229""} ```",23.01728630065918
+hidden_test_sv_3,2749,2760,San Stefano,NIL,LOC,Q194113,Freden i San Stefano,"```json {""wikipedia_page"": ""Freden i San Stefano"", ""wikidata_id"": ""Q194113""} ```",16.145593643188477
+hidden_test_sv_3,2766,2772,Berlin,Q64,LOC,Q151423,Berlinkongressen,"```json {""wikipedia_page"": ""Berlinkongressen"", ""wikidata_id"": ""Q151423""} ```",14.495983123779297
+hidden_test_sv_3,4079,4086,Armenia,NIL,PROD,Q399,Armenien,"```json {""wikipedia_page"": ""Armenien"", ""wikidata_id"": ""Q399""} ```",18.924781799316406
+hidden_test_sv_3,4934,4942,Tur-kiet,Q43,LOC,Q12560,Osmanska riket,"```json {""wikipedia_page"": ""Osmanska riket"", ""wikidata_id"": ""Q12560""} ```",19.49912452697754
+hidden_test_sv_3,5714,5729,Konstanti-nopel,Q406,LOC,Q16869,Konstantinopel,"```json {""wikipedia_page"": ""Konstantinopel"", ""wikidata_id"": ""Q16869""} ```",23.085067749023438
+hidden_test_sv_3,5780,5791,Scharaf bey,NIL,PER,Q6054151,Şeref Bey,"```json {""wikipedia_page"": ""Şeref Bey"", ""wikidata_id"": ""Q6054151""} ```",19.45145606994629
+hidden_test_sv_3,8454,8470,dok-torinnan H:s,NIL,PER,Q14539055,Hanna Andersin,"```json {""wikipedia_page"": ""Hanna Andersin"", ""wikidata_id"": ""Q14539055""} ```",3.9384937286376953
+hidden_test_sv_3,9218,9232,bolaget Fennia,Q11859482,ORG,Q12314996,,"```json {""wikipedia_page"": """", ""wikidata_id"": ""Q12314996""} ```",13.016057014465332
+hidden_test_sv_3,9469,9483,bolaget Fennia,Q11859482,ORG,Q12314996,,"```json {""wikipedia_page"": """", ""wikidata_id"": ""Q12314996""} ```",11.068984031677246
+hidden_test_sv_4,173,187,Engelska kajen,Q588478,LOC,NIL,Engelska kajen,no,0
+hidden_test_sv_4,283,300,Rumjantseffmuseet,Q948457,ORG,Q4397365,,"```json {""wikipedia_page"": """", ""wikidata_id"": ""Q4397365""} ```",19.10104751586914
+hidden_test_sv_4,518,532,Paschkoffhuset,Q949402,LOC,NIL,Paschkoffhuset,no,0
+hidden_test_sv_4,559,578,Rumjant-seff-museet,Q948457,ORG,Q132783,Eremitaget,"```json {""wikipedia_page"": """", ""wikidata_id"": ""Q132783""} ```",17.993141174316406
+hidden_test_sv_4,1975,1984,Frankrike,Q70802,LOC,Q142,Frankrike,"```json {""wikipedia_page"": ""Frankrike"", ""wikidata_id"": ""Q142""} ```",20.10076141357422
+hidden_test_sv_4,2250,2270,Tidningen Paris Midi,Q3365121,PROD,Q2115162,Le Petit Journal,"```json {""wikipedia_page"": ""Le Petit Journal"", ""wikidata_id"": ""Q2115162""} ```",13.895812034606934
+hidden_test_sv_4,2304,2318,Nancy's Casino,NIL,LOC,Q1187828,Casino de Paris,"```json {""wikipedia_page"": ""Casino de Paris"", ""wikidata_id"": ""Q1187828""} ```",15.659754753112793
+hidden_test_sv_4,3568,3574,Casino,NIL,LOC,Q3481351,Casino,"```json {""wikipedia_page"": ""Casino"", ""wikidata_id"": ""Q3481351""} ```",14.440262794494629
+hidden_test_sv_4,3792,3798,Casino,NIL,LOC,Q133215,kasino,"```json {""wikipedia_page"": ""kasino"", ""wikidata_id"": ""Q133215""} ```",14.49571704864502
+hidden_test_sv_4,3819,3839,Lothringska ölhallen,NIL,LOC,Q12011826,Ølhallen,"```json {""wikipedia_page"": ""Ølhallen"", ""wikidata_id"": ""Q12011826""} ```",13.742537498474121
+hidden_test_sv_4,3929,3935,Casino,NIL,LOC,Q3481351,Casino,"```json {""wikipedia_page"": ""Casino"", ""wikidata_id"": ""Q3481351""} ```",13.428802490234375
+hidden_test_sv_4,4772,4781,Frankrike,Q70802,LOC,Q142,Frankrike,"```json {""wikipedia_page"": ""Frankrike"", ""wikidata_id"": ""Q142""} ```",23.148632049560547
+hidden_test_sv_4,4885,4893,Tyskland,Q43287,LOC,Q183,Tyskland,"```json {""wikipedia_page"": ""Tyskland"", ""wikidata_id"": ""Q183""} ```",19.783475875854492
+hidden_test_sv_5,172,180,Danmarks,Q35,LOC,Q756617,Konungariket Danmark,"```json {""wikipedia_page"": ""Konungariket Danmark"", ""wikidata_id"": ""Q756617""} ```",17.929636001586914
+hidden_test_sv_5,969,984,anstalten Düren,NIL,LOC,Q227691,tukthus,"```json {""wikipedia_page"": ""tukthus"", ""wikidata_id"": ""Q227691""} ```",10.450577735900879
+hidden_test_sv_5,1824,1868,poliskonstapeln iRaunistula Yrjö Oskar Toivo,NIL,PER,Q10636130,Poliskonstapel,"```json {""wikipedia_page"": ""Poliskonstapel"", ""wikidata_id"": ""Q10636130""} ```",17.43198585510254
+hidden_test_sv_5,1927,1932,Toivo,NIL,PER,Q280684,Toivo,"```json {""wikipedia_page"": ""Toivo"", ""wikidata_id"": ""Q280684""} ```",15.350337982177734
+hidden_test_sv_5,2169,2217,"Sudik Bjadredi-noff, hemma från Nischni-Nowgorod",NIL,PER,Q7830,Sudak,"```json {""wikipedia_page"": """", ""wikidata_id"": ""Q7830""} ```",15.446808815002441
+hidden_test_sv_5,2636,2643,Häfverö,NIL,LOC,Q20203283,Häverö,"```json {""wikipedia_page"": ""Häverö"", ""wikidata_id"": ""Q20203283""} ```",24.13603401184082
+hidden_test_sv_5,2645,2661,kapten Söderlund,NIL,PER,Q100722549,Carl Rudenschiöld,"```json {""wikipedia_page"": ""Carl Rudenschiöld"", ""wikidata_id"": ""Q100722549""} ```",14.599602699279785
+hidden_test_sv_5,2757,2763,Dragör,NIL,LOC,Q1255278,Dragør,"```json {""wikipedia_page"": ""Dragør"", ""wikidata_id"": ""Q1255278""} ```",22.30301856994629
+hidden_test_sv_6,2988,3008,tyska Nord-sjökusten,NIL,LOC,Q545,Östersjön,"```json {""wikipedia_page"": ""Östersjön"", ""wikidata_id"": ""Q545""} ```",14.319730758666992
+hidden_test_sv_6,4263,4278,F. N. B.Italien,Q172579,LOC,Q38,Italien,"```json {""wikipedia_page"": ""Italien"", ""wikidata_id"": ""Q38""} ```",10.221202850341797
+hidden_test_sv_6,4301,4309,Tyskland,Q43287,LOC,Q183,Tyskland,"```json {""wikipedia_page"": ""Tyskland"", ""wikidata_id"": ""Q183""} ```",19.24355697631836
+hidden_test_sv_6,4340,4348,F. N. B.,Q8095218,ORG,Q222751,Nota Bene,"```json {""wikipedia_page"": ""Nota Bene"", ""wikidata_id"": ""Q222751""} ```",12.363994598388672
+hidden_test_sv_6,4445,4453,ltaliens,Q172579,LOC,Q38,Italien,"```json {""wikipedia_page"": ""Italien"", ""wikidata_id"": ""Q38""} ```",21.040796279907227
+hidden_test_sv_6,4473,4481,Tyskland,Q43287,LOC,Q183,Tyskland,"```json {""wikipedia_page"": ""Tyskland"", ""wikidata_id"": ""Q183""} ```",22.831083297729492
+hidden_test_sv_6,4961,4967,Tsjili,NIL,LOC,Q2604022,Zhili,"```json {""wikipedia_page"": ""Zhili"", ""wikidata_id"": ""Q2604022""} ```",16.11410903930664
+hidden_test_sv_6,5065,5075,norra Kina,NIL,LOC,Q148,Kina,"```json {""wikipedia_page"": ""Kina"", ""wikidata_id"": ""Q148""} ```",14.27794361114502
+hidden_test_sv_6,5089,5114,huvudstadsprovinsenTsjili,NIL,LOC,Q2604022,Zhili,"```json {""wikipedia_page"": ""Zhili"", ""wikidata_id"": ""Q2604022""} ```",12.368815422058105
+hidden_test_sv_6,5333,5348,provinsen Hupch,Q46862,LOC,NIL,provinsen Hupch,no,0
+hidden_test_sv_6,5536,5561,odugliga Pekingregeringen,NIL,ORG,Q696242,Republiken Kina,"```json {""wikipedia_page"": ""Republiken Kina"", ""wikidata_id"": ""Q696242""} ```",9.70218276977539
+hidden_test_sv_6,5874,5890,Pekingregeringen,NIL,ORG,Q8733,Qingdynastin,"```json {""wikipedia_page"": ""Qingdynastin"", ""wikidata_id"": ""Q8733""} ```",12.69745922088623
+hidden_test_sv_6,6130,6134,Kina,Q29520,LOC,Q148,Kina,"```json {""wikipedia_page"": ""Kina"", ""wikidata_id"": ""Q148""} ```",18.243196487426758
+hidden_test_sv_7,2329,2367,försäkringsinspektören d:r Aug. Ramsay,NIL,PER,Q6163504,August Ramsay,"```json {""wikipedia_page"": ""August Ramsay"", ""wikidata_id"": ""Q6163504""} ```",12.324554443359375
+hidden_test_sv_7,3709,3743,arbetareföreningens iÅbo sparkassa,NIL,ORG,Q18689035,andelskassa,"```json {""wikipedia_page"": ""andelskassa"", ""wikidata_id"": ""Q18689035""} ```",17.571575164794922
+hidden_test_sv_7,4264,4311,Hel-singfors arbetareförenings kvinnoafdel-ning,NIL,ORG,Q18658952,Helsingfors arbetarförening,"```json {""wikipedia_page"": ""Helsingfors arbetarförening"", ""wikidata_id"": ""Q18658952""} ```",16.81710433959961
+hidden_test_sv_7,6359,6376,Kronoborgs komman,Q15839066,ORG,Q1789963,Kronoby,"```json {""wikipedia_page"": ""Kronoby"", ""wikidata_id"": ""Q1789963""} ```",16.038650512695312
+hidden_test_sv_7,6395,6412,Kronoborgs kommun,Q15839066,ORG,Q1789963,Kronoby,"```json {""wikipedia_page"": ""Kronoby"", ""wikidata_id"": ""Q1789963""} ```",18.446563720703125
+hidden_test_sv_7,6513,6521,Finlands,Q62633,LOC,Q33,Finland,"```json {""wikipedia_page"": ""Finland"", ""wikidata_id"": ""Q33""} ```",22.664508819580078
+hidden_test_sv_7,6678,6685,Finland,Q62633,LOC,Q33,Finland,"```json {""wikipedia_page"": ""Finland"", ""wikidata_id"": ""Q33""} ```",24.648698806762695
+hidden_test_sv_7,6994,7016,herrskapet v. Hert-zen,NIL,PER,Q11862462,Hertonäs gård,"```json {""wikipedia_page"": ""Hertonäs gård"", ""wikidata_id"": ""Q11862462""} ```",12.216825485229492
+hidden_test_sv_7,7058,7062,Suni,NIL,LOC,Q24539349,Suni,"```json {""wikipedia_page"": ""Suni"", ""wikidata_id"": ""Q24539349""} ```",14.668387413024902
+hidden_test_sv_7,7205,7221,domprostinnan H.,NIL,PER,Q6308672,domprost,"```json {""wikipedia_page"": ""domprost"", ""wikidata_id"": ""Q6308672""} ```",8.497962951660156
+hidden_test_sv_7,7665,7686,prot. d:r Ström-borgs,NIL,PER,Q62019007,Gustaf Julius Strömborg,"```json {""wikipedia_page"": ""Gustaf Julius Strömborg"", ""wikidata_id"": ""Q62019007""} ```",11.148924827575684
+hidden_test_sv_7,7886,7890,Bbl.,Q3364582,PROD,Q1004391,bulletin,"```json {""wikipedia_page"": ""bulletin"", ""wikidata_id"": ""Q1004391""} ```",4.3960723876953125
+hidden_test_sv_8,394,416,ge-neral Strantz' armé,Q4793075,ORG,Q313422,Tyska hären,"```json {""wikipedia_page"": ""Tyska hären"", ""wikidata_id"": ""Q313422""} ```",15.570028305053711
+hidden_test_sv_8,669,675,Verdun,Q154748,LOC,Q130847,Slaget vid Verdun,"```json {""wikipedia_page"": ""Slaget vid Verdun"", ""wikidata_id"": ""Q130847""} ```",16.917409896850586
+hidden_test_sv_8,1252,1259,Brabant,Q934274,LOC,Q848831,Brabant (provins),"```json {""wikipedia_page"": ""Brabant (provins)"", ""wikidata_id"": ""Q848831""} ```",13.145103454589844
+hidden_test_sv_8,1263,1269,Erbois,NIL,LOC,Q330888,Arbois,"```json {""wikipedia_page"": ""Arbois"", ""wikidata_id"": ""Q330888""} ```",13.331502914428711
+hidden_test_sv_8,1329,1335,Fleury,Q59254,LOC,Q145737,Fleury,"```json {""wikipedia_page"": ""Fleury"", ""wikidata_id"": ""Q145737""} ```",16.34372329711914
+hidden_test_sv_8,1339,1345,Charny,NIL,LOC,Q1060021,Charny-sur-Meuse,"```json {""wikipedia_page"": ""Charny-sur-Meuse"", ""wikidata_id"": ""Q1060021""} ```",14.828990936279297
+hidden_test_sv_8,1420,1427,Verduns,Q154748,LOC,Q130847,Slaget vid Verdun,"```json {""wikipedia_page"": ""Slaget vid Verdun"", ""wikidata_id"": ""Q130847""} ```",17.302278518676758
+hidden_test_sv_8,1450,1456,Fleury,Q59254,LOC,Q145737,Fleury,"```json {""wikipedia_page"": ""Fleury"", ""wikidata_id"": ""Q145737""} ```",15.629257202148438
+hidden_test_sv_8,1458,1464,Charny,NIL,LOC,Q1418532,Charny,"```json {""wikipedia_page"": ""Charny"", ""wikidata_id"": ""Q1418532""} ```",18.49810218811035
+hidden_test_sv_8,1682,1689,Brabant,NIL,LOC,Q159856,Brabant,"```json {""wikipedia_page"": ""Brabant"", ""wikidata_id"": ""Q159856""} ```",15.583653450012207
+hidden_test_sv_8,1781,1789,Beaumont,NIL,LOC,Q868110,Beaumont,"```json {""wikipedia_page"": ""Beaumont"", ""wikidata_id"": ""Q868110""} ```",14.272061347961426
+hidden_test_sv_8,1824,1830,Retsch,Q1419486,PROD,Q99053,Otto Reche,"```json {""wikipedia_page"": ""Otto Reche"", ""wikidata_id"": ""Q99053""} ```",14.779119491577148
+hidden_test_sv_9,4,33,kejserliga gardets musikkorps,NIL,ORG,Q2658598,Det Kongelige Kapel,"```json {""wikipedia_page"": ""Det Kongelige Kapel"", ""wikidata_id"": ""Q2658598""} ```",19.260337829589844
+hidden_test_sv_9,1717,1769,vice advokatfiskalen i Wasa hofrättE. von Willebrand,NIL,PER,Q98021802,Reinhold Alexander von Willebrand,"```json {""wikipedia_page"": ""Reinhold Alexander von Willebrand"", ""wikidata_id"": ""Q98021802""} ```",19.922710418701172
+hidden_test_sv_10,0,10,S:t P:burg,Q656,LOC,Q173882,Sankt Pauls-katedralen,"```json {""wikipedia_page"": ""Sankt Pauls-katedralen"", ""wikidata_id"": ""Q173882""} ```",6.0024919509887695
+hidden_test_sv_10,436,454,Öfwerste Appelberg,NIL,PER,Q5558249,Fredrik Appelberg,"```json {""wikipedia_page"": ""Fredrik Appelberg"", ""wikidata_id"": ""Q5558249""} ```",16.208572387695312
+hidden_test_sv_10,459,465,T:fors,Q40840,LOC,Q2062839,Storfors,"```json {""wikipedia_page"": ""Storfors"", ""wikidata_id"": ""Q2062839""} ```",15.030457496643066
+hidden_test_sv_10,466,482,kapten Blomström,NIL,PER,Q26241194,Anton Blom,"```json {""wikipedia_page"": ""Anton Blom"", ""wikidata_id"": ""Q26241194""} ```",13.923433303833008
+hidden_test_sv_10,484,495,rådman Malm,NIL,PER,Q708492,rådman,"```json {""wikipedia_page"": ""rådman"", ""wikidata_id"": ""Q708492""} ```",14.48111629486084
+hidden_test_sv_10,500,526,Jakobstadkonsulinnan Åberg,NIL,PER,Q1679567,Jakobstad,"```json {""wikipedia_page"": ""Jakobstad"", ""wikidata_id"": ""Q1679567""} ```",13.724737167358398
+hidden_test_sv_10,553,574,häradshöfd. Forselles,NIL,PER,Q3438766,häradshövding,"```json {""wikipedia_page"": ""häradshövding"", ""wikidata_id"": ""Q3438766""} ```",15.84990119934082
+hidden_test_sv_10,611,619,Sundholm,NIL,PER,Q6196075,Herman Sundholm,"```json {""wikipedia_page"": ""Herman Sundholm"", ""wikidata_id"": ""Q6196075""} ```",14.832720756530762
+hidden_test_sv_10,624,630,P:burg,Q656,LOC,Q180233,Björneborg,"```json {""wikipedia_page"": ""Björneborg"", ""wikidata_id"": ""Q180233""} ```",11.963717460632324
+hidden_test_sv_10,651,666,kassör Nordling,NIL,PER,Q388338,kassör,"```json {""wikipedia_page"": ""kassör"", ""wikidata_id"": ""Q388338""} ```",12.939007759094238
+hidden_test_sv_10,671,678,Fiskars,Q3503204,LOC,Q1241369,Fiskars,"```json {""wikipedia_page"": ""Fiskars"", ""wikidata_id"": ""Q1241369""} ```",14.847955703735352
+hidden_test_sv_10,703,712,Wahlström,NIL,PER,Q4990097,Charlotte Wahlström,"```json {""wikipedia_page"": ""Charlotte Wahlström"", ""wikidata_id"": ""Q4990097""} ```",18.610889434814453
+hidden_test_sv_10,727,745,hotel Wilhelms=bad,Q18662881,ORG,NIL,hotel Wilhelms=bad,no,0
+hidden_test_sv_10,747,766,lektor Nordenskjöld,NIL,PER,Q6014702,Carl Fredric Nordenskiöld den äldre,"```json {""wikipedia_page"": ""Carl Fredric Nordenskiöld den äldre"", ""wikidata_id"": ""Q6014702""} ```",15.98625659942627
+hidden_test_sv_10,771,776,Ewois,Q11859204,LOC,Q171800,Évreux,"```json {""wikipedia_page"": ""Évreux"", ""wikidata_id"": ""Q171800""} ```",12.578108787536621
+hidden_test_sv_10,780,795,hotel de Po=ste,NIL,ORG,Q1476690,Hôtel Saint-Pol,"```json {""wikipedia_page"": ""Hôtel Saint-Pol"", ""wikidata_id"": ""Q1476690""} ```",12.480432510375977
+hidden_test_sv_10,797,811,handl. Humerus,NIL,PER,Q5816990,Bonde Humerus,"```json {""wikipedia_page"": ""Bonde Humerus"", ""wikidata_id"": ""Q5816990""} ```",12.700368881225586
+hidden_test_sv_10,824,835,fru Engblom,NIL,PER,Q11849674,Abraham Engblom,"```json {""wikipedia_page"": ""Abraham Engblom"", ""wikidata_id"": ""Q11849674""} ```",14.352396011352539
+hidden_test_sv_10,847,859,hotel Freden,NIL,ORG,Q5256462,Den gyldene freden,"```json {""wikipedia_page"": ""Den gyldene freden"", ""wikidata_id"": ""Q5256462""} ```",14.961748123168945
+hidden_test_sv_10,861,884,vice kr:länsm. Holmgren,NIL,PER,Q5811536,Karl Holmgren,"```json {""wikipedia_page"": ""Karl Holmgren"", ""wikidata_id"": ""Q5811536""} ```",14.10629653930664
+hidden_test_sv_10,895,911,hrr:ne Mannström,NIL,PER,Q5975201,Karl Mannström,"```json {""wikipedia_page"": ""Karl Mannström"", ""wikidata_id"": ""Q5975201""} ```",10.000306129455566
+hidden_test_sv_10,924,929,T:hus,Q202158,LOC,Q10697331,Thuenska huset,"```json {""wikipedia_page"": ""Thuenska huset"", ""wikidata_id"": ""Q10697331""} ```",8.273028373718262
+hidden_test_sv_10,944,950,Thushy,Q214773,LOC,NIL,Thushy,no,0
+hidden_test_sv_10,952,969,skepparene Nyberg,NIL,PER,Q19366679,Nils Fredrik Rønnbeck,"```json {""wikipedia_page"": ""Nils Fredrik Rønnbeck"", ""wikidata_id"": ""Q19366679""} ```",13.451030731201172
+hidden_test_sv_10,1001,1007,P:burg,Q656,LOC,NIL,P:burg,no,0
+hidden_test_sv_10,1019,1038,fri=herrinnan Wrede,NIL,PER,Q38435479,Otto Wrede,"```json {""wikipedia_page"": ""Otto Wrede"", ""wikidata_id"": ""Q38435479""} ```",11.220956802368164
+hidden_test_sv_10,1043,1059,fröken von Essen,NIL,PER,Q435209,Siri von Essen,"```json {""wikipedia_page"": ""Siri von Essen"", ""wikidata_id"": ""Q435209""} ```",12.854129791259766
+hidden_test_sv_10,1064,1071,Kimi=to,Q425790,LOC,Q1628757,Kimitoön,"```json {""wikipedia_page"": ""Kimitoön"", ""wikidata_id"": ""Q1628757""} ```",13.202244758605957
+hidden_test_sv_10,1073,1090,Konstantinsgtn 16,NIL,LOC,Q18659900,Katarinegatan,"```json {""wikipedia_page"": ""Katarinegatan"", ""wikidata_id"": ""Q18659900""} ```",14.812601089477539
+hidden_test_sv_10,1092,1109,kapten Helsingius,NIL,PER,Q17380740,Gustaf Helsingius,"```json {""wikipedia_page"": ""Gustaf Helsingius"", ""wikidata_id"": ""Q17380740""} ```",13.463488578796387
+hidden_test_sv_10,1117,1132,Regeringsgtn 14,NIL,LOC,Q54758964,Regeringsgatan,"```json {""wikipedia_page"": ""Regeringsgatan"", ""wikidata_id"": ""Q54758964""} ```",16.318851470947266
+hidden_test_sv_10,1134,1153,sröknarne Jägerhorn,NIL,PER,Q10541634,Jägerhorn,"```json {""wikipedia_page"": ""Jägerhorn"", ""wikidata_id"": ""Q10541634""} ```",9.815520286560059
+hidden_test_sv_10,1158,1163,T:hus,Q202158,LOC,Q10697331,Thuenska huset,"```json {""wikipedia_page"": ""Thuenska huset"", ""wikidata_id"": ""Q10697331""} ```",12.04247760772705
+hidden_test_sv_10,1164,1181,N. Esplanadgtn 41,NIL,LOC,Q18661403,Norra Esplanaden,"```json {""wikipedia_page"": ""Norra Esplanaden"", ""wikidata_id"": ""Q18661403""} ```",16.868032455444336
+hidden_test_sv_10,1186,1201,fröken Bergroth,NIL,PER,Q16165109,Waldemar Bergroth,"```json {""wikipedia_page"": ""Waldemar Bergroth"", ""wikidata_id"": ""Q16165109""} ```",12.109761238098145
+hidden_test_sv_10,1398,1410,Wöråpastorat,NIL,ORG,Q2156306,Vörå,"```json {""wikipedia_page"": ""Vörå"", ""wikidata_id"": ""Q2156306""} ```",19.791942596435547
+hidden_test_sv_11,631,644,Gostinni-Dwor,Q3052597,LOC,Q2386997,Gostinyj dvor,"```json {""wikipedia_page"": ""Gostinyj dvor"", ""wikidata_id"": ""Q2386997""} ```",13.337347984313965
+hidden_test_sv_11,652,665,Stora Bazaren,NIL,LOC,Q65195941,Basaren,"```json {""wikipedia_page"": ""Basaren"", ""wikidata_id"": ""Q65195941""} ```",15.897628784179688
+hidden_test_sv_11,1698,1711,Gostinni-Dwor,Q3052597,LOC,Q4146501,,"```json {""wikipedia_page"": """", ""wikidata_id"": ""Q4146501""} ```",11.307754516601562
+hidden_test_sv_11,1845,1858,Gostinni-Dwor,Q3052597,LOC,NIL,Gostinni-Dwor,no,0
+hidden_test_sv_11,2006,2019,Gostinni-Dwor,Q3052597,LOC,Q7437958,,"```json {""wikipedia_page"": """", ""wikidata_id"": ""Q7437958""} ```",11.690774917602539
+hidden_test_sv_11,4698,4704,Mischa,NIL,PER,Q1472607,Masja,"```json {""wikipedia_page"": ""Masja"", ""wikidata_id"": ""Q1472607""} ```",10.391580581665039
+hidden_test_sv_11,4725,4735,sin Moscha,NIL,PER,Q1156071,Misja,"```json {""wikipedia_page"": ""Misja"", ""wikidata_id"": ""Q1156071""} ```",6.472639083862305
+hidden_test_sv_11,4737,4743,Mascha,NIL,PER,Q1472607,Masja,"```json {""wikipedia_page"": ""Masja"", ""wikidata_id"": ""Q1472607""} ```",9.263249397277832
+hidden_test_sv_11,4789,4795,Mischa,NIL,PER,Q18229299,Mischa,"```json {""wikipedia_page"": ""Mischa"", ""wikidata_id"": ""Q18229299""} ```",10.537847518920898
+hidden_test_sv_11,4814,4821,Mischas,NIL,PER,Q18229299,Mischa,"```json {""wikipedia_page"": ""Mischa"", ""wikidata_id"": ""Q18229299""} ```",8.049606323242188
+hidden_test_sv_11,4844,4851,Mischas,NIL,PER,Q2233184,Misha,"```json {""wikipedia_page"": ""Misha"", ""wikidata_id"": ""Q2233184""} ```",9.398462295532227
+hidden_test_sv_11,4896,4902,Mascha,NIL,PER,Q1472607,Masja,"```json {""wikipedia_page"": ""Masja"", ""wikidata_id"": ""Q1472607""} ```",11.115646362304688
+hidden_test_sv_11,5004,5011,Mischas,NIL,PER,Q1156071,Misja,"```json {""wikipedia_page"": ""Misja"", ""wikidata_id"": ""Q1156071""} ```",8.054337501525879
+hidden_test_sv_11,5121,5143,nya Alexanders-bezaren,NIL,LOC,Q4068202,,"```json {""wikipedia_page"": ""Q4068202"", ""wikidata_id"": ""Q4068202""} ```",6.975404262542725
+hidden_test_sv_11,5197,5203,Mischa,NIL,PER,Q18229299,Mischa,"```json {""wikipedia_page"": ""Mischa"", ""wikidata_id"": ""Q18229299""} ```",8.835037231445312
+hidden_test_sv_11,5260,5266,Mischa,NIL,PER,Q18229299,Mischa,"```json {""wikipedia_page"": ""Mischa"", ""wikidata_id"": ""Q18229299""} ```",8.787824630737305
+hidden_test_sv_12,9,30,Konung Victor Emanuel,Q168691,PER,Q175250,Viktor Emanuel I av Sardinien,"```json {""wikipedia_page"": ""Viktor Emanuel I av Sardinien"", ""wikidata_id"": ""Q175250""} ```",17.113739013671875
+hidden_test_sv_12,166,177,Öster=rikes,Q131964,LOC,Q40,Österrike,"```json {""wikipedia_page"": ""Österrike"", ""wikidata_id"": ""Q40""} ```",15.51394271850586
+hidden_test_sv_12,318,323,Parma,Q16228,LOC,Q165040,Parma och Piacenza,"```json {""wikipedia_page"": ""Parma och Piacenza"", ""wikidata_id"": ""Q165040""} ```",15.543304443359375
+hidden_test_sv_12,328,336,Piacenza,Q16243,LOC,Q13329,Piacenza,"```json {""wikipedia_page"": ""Piacenza"", ""wikidata_id"": ""Q13329""} ```",20.136934280395508
+hidden_test_sv_12,474,484,Österrikes,Q131964,LOC,Q40,Österrike,"```json {""wikipedia_page"": ""Österrike"", ""wikidata_id"": ""Q40""} ```",20.17662239074707
+hidden_test_sv_12,658,668,Österrikes,Q131964,LOC,Q40,Österrike,"```json {""wikipedia_page"": ""Österrike"", ""wikidata_id"": ""Q40""} ```",17.695293426513672
+hidden_test_sv_12,708,717,Österrike,Q131964,LOC,Q40,Österrike,"```json {""wikipedia_page"": ""Österrike"", ""wikidata_id"": ""Q40""} ```",18.915721893310547
+hidden_test_sv_12,781,785,Bems,NIL,PER,Q266339,Józef Bem,"```json {""wikipedia_page"": ""Józef Bem"", ""wikidata_id"": ""Q266339""} ```",16.485719680786133
+hidden_test_sv_12,1101,1107,Komorn,Q625154,LOC,Q210796,Komárno,"```json {""wikipedia_page"": ""Komárno"", ""wikidata_id"": ""Q210796""} ```",10.667951583862305
+hidden_test_sv_12,1390,1402,Ferdinand V.,Q183579,PER,Q406540,Ferdinand V,"```json {""wikipedia_page"": ""Ferdinand V"", ""wikidata_id"": ""Q406540""} ```",16.090017318725586
+hidden_test_sv_12,1410,1422,Ferdinand V.,Q183579,PER,Q406540,Ferdinand V,"```json {""wikipedia_page"": ""Ferdinand V"", ""wikidata_id"": ""Q406540""} ```",15.83281135559082
+hidden_test_sv_12,1620,1643,Schwartzenberg=Stadions,NIL,LOC,Q668150,Huset Schwarzenberg,"```json {""wikipedia_page"": ""Huset Schwarzenberg"", ""wikidata_id"": ""Q668150""} ```",10.40529727935791
+hidden_test_sv_12,2169,2176,Ryßland,Q34266,LOC,Q159,Ryssland,"```json {""wikipedia_page"": ""Ryssland"", ""wikidata_id"": ""Q159""} ```",18.408252716064453
+hidden_test_sv_12,2295,2306,Konstantins,Q8413,PER,NIL,Konstantins,no,0
+hidden_test_sv_12,2405,2415,Öst. Lloyd,NIL,PROD,Q922150,Pester Lloyd,"```json {""wikipedia_page"": ""Pester Lloyd"", ""wikidata_id"": ""Q922150""} ```",9.630850791931152
+hidden_test_sv_12,2662,2670,Guerazzi,Q518925,LOC,Q4013320,Vincenzo Guerrazzi,"```json {""wikipedia_page"": ""Vincenzo Guerrazzi"", ""wikidata_id"": ""Q4013320""} ```",18.41366958618164
+hidden_test_sv_12,2781,2795,Constantinopel,Q406,LOC,Q16869,Konstantinopel,"```json {""wikipedia_page"": ""Konstantinopel"", ""wikidata_id"": ""Q16869""} ```",24.369802474975586
+hidden_test_sv_12,3191,3261,"Predikanten å Skarpans fästning, vice PastorenMag. Henrik Johan Hjorth",NIL,PER,Q105658706,Benedictus Nicolai Hjort,"```json {""wikipedia_page"": ""Benedictus Nicolai Hjort"", ""wikidata_id"": ""Q105658706""} ```",15.649770736694336
+hidden_test_sv_13,177,199,Åblmanska gården N:o 5,NIL,LOC,Q104634037,Kvarteret Blåmannen,"```json {""wikipedia_page"": ""Kvarteret Blåmannen"", ""wikidata_id"": ""Q104634037""} ```",15.987045288085938
+hidden_test_sv_13,257,269,Nylandsgatan,Q18662573,LOC,Q27170703,Nylandsgatan,"```json {""wikipedia_page"": ""Nylandsgatan"", ""wikidata_id"": ""Q27170703""} ```",18.821514129638672
+hidden_test_sv_13,312,338,Riddaren Torsten Molanders,NIL,PER,Q10700412,Torsten Molander,"```json {""wikipedia_page"": ""Torsten Molander"", ""wikidata_id"": ""Q10700412""} ```",20.693065643310547
+hidden_test_sv_13,1128,1153,Åbo stads Auktionskammare,NIL,ORG,Q38511,Åbo,"```json {""wikipedia_page"": ""Åbo"", ""wikidata_id"": ""Q38511""} ```",19.74005699157715
+hidden_test_sv_13,1170,1188,"A. P. Forßman, f:d",NIL,PER,Q5737824,Per Forssman,"```json {""wikipedia_page"": ""Per Forssman"", ""wikidata_id"": ""Q5737824""} ```",15.52734661102295
+hidden_test_sv_13,1228,1245,J. W. Lillja & Co,NIL,ORG,Q5475639,Johan Wilhelm Lillja,"```json {""wikipedia_page"": ""Johan Wilhelm Lillja"", ""wikidata_id"": ""Q5475639""} ```",21.295562744140625
+hidden_test_sv_15,6,25,nya Tivoli-theatern,NIL,ORG,Q15713912,Stockholms Tivoli,"```json {""wikipedia_page"": ""Stockholms Tivoli"", ""wikidata_id"": ""Q15713912""} ```",22.65758514404297
+hidden_test_sv_15,268,275,Karelen,Q1069921,LOC,Q192273,Karelen,"```json {""wikipedia_page"": ""Karelen"", ""wikidata_id"": ""Q192273""} ```",21.583633422851562
+hidden_test_sv_15,357,363,Jokkas,Q1000117,LOC,Q512048,Jokkmokks kommun,"```json {""wikipedia_page"": ""Jokkmokks kommun"", ""wikidata_id"": ""Q512048""} ```",18.80721092224121
+hidden_test_sv_15,641,662,Sä-resniemi sacellani,NIL,ORG,Q11895753,Säräisniemi,"```json {""wikipedia_page"": ""Säräisniemi"", ""wikidata_id"": ""Q11895753""} ```",14.784322738647461
+hidden_test_sv_17,173,190,markis Torre-Arsa,Q4013258,PER,NIL,markis Torre-Arsa,no,0
+hidden_test_sv_17,291,298,Italien,Q172579,LOC,Q38,Italien,"```json {""wikipedia_page"": ""Italien"", ""wikidata_id"": ""Q38""} ```",24.117734909057617
+hidden_test_sv_17,391,397,Sverge,Q34,LOC,NIL,Sverge,"```json {""wikipedia_page"": ""Sverige"", ""wikidata_id"": ""Q34""} ```",0
+hidden_test_sv_17,527,534,Italien,Q172579,LOC,Q38,Italien,"```json {""wikipedia_page"": ""Italien"", ""wikidata_id"": ""Q38""} ```",21.46704864501953
+hidden_test_sv_17,601,609,Lappland,Q5700,LOC,Q212640,Lappland,"```json {""wikipedia_page"": ""Lappland"", ""wikidata_id"": ""Q212640""} ```",18.264169692993164
+hidden_test_sv_17,869,876,Italien,Q172579,LOC,Q38,Italien,"```json {""wikipedia_page"": ""Italien"", ""wikidata_id"": ""Q38""} ```",18.386137008666992
+hidden_test_sv_17,1039,1060,pånyttföd-da Italiens,Q172579,LOC,Q51122,Italiens enande,"```json {""wikipedia_page"": ""Italiens enande"", ""wikidata_id"": ""Q51122""} ```",7.84775447845459
+hidden_test_sv_17,1122,1129,Italien,Q172579,LOC,Q38,Italien,"```json {""wikipedia_page"": ""Italien"", ""wikidata_id"": ""Q38""} ```",20.348648071289062
+hidden_test_sv_17,1283,1305,kan-slisten C. Engdahl,NIL,PER,Q5711785,Carl Engdahl,"```json {""wikipedia_page"": ""Carl Engdahl"", ""wikidata_id"": ""Q5711785""} ```",16.595582962036133
+hidden_test_sv_17,1381,1391,Hr Engdahl,NIL,PER,Q5711785,Carl Engdahl,"```json {""wikipedia_page"": ""Carl Engdahl"", ""wikidata_id"": ""Q5711785""} ```",18.415699005126953
+hidden_test_sv_17,1580,1590,hr Engdahl,NIL,PER,Q5711785,Carl Engdahl,"```json {""wikipedia_page"": ""Carl Engdahl"", ""wikidata_id"": ""Q5711785""} ```",20.88294219970703
+hidden_test_sv_18,243,260,Seine lnféri-eure,Q12758,LOC,Q979470,Seine-et-Oise,"```json {""wikipedia_page"": ""Seine-et-Oise"", ""wikidata_id"": ""Q979470""} ```",16.1545352935791
+hidden_test_sv_19,1013,1028,Föreningsbanken,Q3070464,ORG,Q5511712,Föreningsbanken,"```json {""wikipedia_page"": ""Föreningsbanken"", ""wikidata_id"": ""Q5511712""} ```",15.153879165649414
+hidden_test_sv_20,35,45,Tönsb. Bl.,Q7862380,PROD,Q107392,Tønsbergs kommun,"```json {""wikipedia_page"": ""Tønsbergs kommun"", ""wikidata_id"": ""Q107392""} ```",9.203765869140625
+hidden_test_sv_20,337,347,Sandefjord,Q109005,LOC,Q13100072,Sandefjord,"```json {""wikipedia_page"": ""Sandefjord"", ""wikidata_id"": ""Q13100072""} ```",25.086570739746094
+hidden_test_sv_20,353,405,"qwinlig medicine studeran-de, fröken Maria Folkesson",NIL,PER,Q98841779,Maria Folkeson,"```json {""wikipedia_page"": ""Maria Folkeson"", ""wikidata_id"": ""Q98841779""} ```",13.793259620666504
+hidden_test_sv_20,498,505,Mot. T.,Q10589618,PROD,NIL,Mot. T.,no,0
+hidden_test_sv_20,596,616,skarprättaren Samson,NIL,PER,Q207651,bödel,"```json {""wikipedia_page"": ""bödel"", ""wikidata_id"": ""Q207651""} ```",9.949507713317871
+hidden_test_sv_20,745,778,staden Paris' historiskabibliotek,Q2901443,ORG,Q774570,Mazarine bibliotek,"```json {""wikipedia_page"": ""Mazarine bibliotek"", ""wikidata_id"": ""Q774570""} ```",12.287335395812988
+hidden_test_sv_20,919,925,Samson,NIL,PER,Q950418,Charles-Henri Sanson,"```json {""wikipedia_page"": ""Charles-Henri Sanson"", ""wikidata_id"": ""Q950418""} ```",11.984305381774902
+hidden_test_sv_20,987,1037,"kejsarrikets generalpostdirektör, grefweLa Walette",NIL,PER,Q71084,Första franska kejsardömet,"```json {""wikipedia_page"": ""Första franska kejsardömet"", ""wikidata_id"": ""Q71084""} ```",12.48438835144043
+hidden_test_sv_20,1187,1221,falskmyntaren PhilippeJean-Antoine,NIL,PER,Q124856,Joseph-Samuel Farinet,"```json {""wikipedia_page"": ""Joseph-Samuel Farinet"", ""wikidata_id"": ""Q124856""} ```",14.02283763885498
+hidden_test_sv_20,1369,1403,domstolen för skilsmessor i London,Q5178306,ORG,Q84,London,"```json {""wikipedia_page"": ""London"", ""wikidata_id"": ""Q84""} ```",13.077387809753418
+hidden_test_sv_20,1681,1711,hans swägerskamrs Ashton Dilke,NIL,PER,Q4806083,Ashton Wentworth Dilke,"```json {""wikipedia_page"": ""Ashton Wentworth Dilke"", ""wikidata_id"": ""Q4806083""} ```",15.879988670349121

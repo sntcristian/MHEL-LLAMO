@@ -1,0 +1,1054 @@
+doc_id,start_pos,end_pos,surface,gt_id,type,identifier,title,answer,score
+EXP-1798-01-04-a-i0005,41,63,Charlotte née Bourgoin,NIL,PER,NIL,Charlotte née Bourgoin,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+EXP-1798-01-04-a-i0005,74,87,Joseph Digiez,NIL,PER,NIL,Joseph Digiez,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+EXP-1798-01-04-a-i0005,92,108,Maurice Bourgoin,NIL,PER,NIL,Maurice Bourgoin,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+EXP-1798-01-04-a-i0005,343,365,Jean-Baptiste Bourgoin,NIL,PER,NIL,Jean-Baptiste Bourgoin,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+EXP-1798-01-04-a-i0005,498,506,Landeron,Q70204,LOC,Q70204,Le Landeron,"```json {""wikipedia_page"":""Le Landeron"", ""wikidata_id"":""Q70204""} ```",15.51573657989502
+EXP-1798-01-04-a-i0005,978,992,Val-de-Travers,Q70526,LOC,Q70526,Val-de-Travers,"``` {""wikipedia_page"":""Val-de-Travers"", ""wikidata_id"":""Q70526""} ```",23.30463218688965
+EXP-1798-01-04-a-i0005,1142,1176,Frédéric-Henri _Lequin de Fleurier,NIL,PER,NIL,Frédéric-Henri _Lequin de Fleurier,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+EXP-1798-01-04-a-i0005,1183,1202,Marie-Louise Meuron,NIL,PER,NIL,Marie-Louise Meuron,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+EXP-1798-01-04-a-i0005,1224,1238,Jouas Frédéric,NIL,PER,NIL,Jouas Frédéric,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+EXP-1798-01-04-a-i0005,1240,1247,Auguste,NIL,PER,NIL,Auguste,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+EXP-1798-01-04-a-i0005,1249,1258,Alexandre,NIL,PER,NIL,Alexandre,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+EXP-1798-01-04-a-i0005,1262,1284,Louise -Rosalio Lequin,NIL,PER,NIL,Louise -Rosalio Lequin,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+EXP-1798-01-04-a-i0005,1504,1525,Frédéric Henri Lequin,NIL,PER,NIL,Frédéric Henri Lequin,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+EXP-1798-02-15-a-i0004,74,83,Neuchatel,Q69345,LOC,Q69345,Neuchâtel,"```json {""wikipedia_page"":""Neuchâtel"", ""wikidata_id"":""Q69345""} ```",4.618776321411133
+EXP-1798-02-15-a-i0004,363,421,"Jean'""Fréderic / Stnuffer, meunier aux moulins de la Prise",NIL,PER,NIL,"Jean'""Fréderic / Stnuffer, meunier aux moulins de la Prise","```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+EXP-1798-02-15-a-i0004,659,672,sœurs _Gendre,NIL,PER,NIL,sœurs _Gendre,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+EXP-1798-02-15-a-i0004,735,747,Mlle. Eckard,NIL,PER,NIL,Mlle. Eckard,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+EXP-1798-02-15-a-i0004,753,768,rue des Moulins,NIL,LOC,NIL,rue des Moulins,"```json {""wikipedia_page"":""NIL"",""wikidata_id"":""NIL""} ```",0
+EXP-1798-02-15-a-i0004,838,855,demoiselle Eckard,NIL,PER,NIL,demoiselle Eckard,"```json { ""wikipedia_page"": """", ""wikidata_id"": ""NIL"" } ```",0
+EXP-1798-02-15-a-i0004,1900,1909,Neuchatel,Q69345,LOC,Q69345,Neuchâtel,"```json {""wikipedia_page"":""Neuchâtel"", ""wikidata_id"":""Q69345""} ```",24.020353317260742
+EXP-1798-02-15-a-i0004,2472,2501,sieur Quartier _^ instituteur,NIL,PER,NIL,sieur Quartier _^ instituteur,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+EXP-1798-02-15-a-i0004,3030,3039,Neuchatel,Q69345,LOC,Q69345,Neuchâtel,"```json {""wikipedia_page"":""Neuchâtel"", ""wikidata_id"":""Q69345""} ```",26.190427780151367
+EXP-1798-02-15-a-i0004,3133,3151,Jean Pierre Baxdet,NIL,PER,NIL,Jean Pierre Baxdet,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+EXP-1798-02-15-a-i0004,3444,3459,M. Henri Gigaud,NIL,PER,NIL,M. Henri Gigaud,"```json {""wikipedia_page"":"""",""wikidata_id"":""NIL""} ```",0
+EXP-1808-09-01-a-i0001,369,383,Chaux-de-Fonds,Q68124,LOC,Q68124,La Chaux-de-Fonds,"```json {""wikipedia_page"":""La Chaux-de-Fonds"", ""wikidata_id"":""Q68124""} ```",23.67177963256836
+EXP-1808-09-01-a-i0001,423,439,Henri Jean-Maire,NIL,PER,NIL,Henri Jean-Maire,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+EXP-1808-09-01-a-i0001,487,501,Chaùx-de-Fonds,Q68124,LOC,Q68124,La Chaux-de-Fonds,"```json { ""wikipedia_page"": ""La Chaux-de-Fonds"", ""wikidata_id"": ""Q68124"" } ```",21.836097717285156
+EXP-1808-09-01-a-i0001,645,661,Henri Jean-Maire,NIL,PER,NIL,Henri Jean-Maire,"```json { ""wikidata_id"": ""NIL"", ""wikipedia_page"": """" } ```",0
+EXP-1808-09-01-a-i0001,668,691,Reine née Robert-Nicoud,NIL,PER,NIL,Reine née Robert-Nicoud,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+EXP-1808-09-01-a-i0001,1088,1102,Chaux-de Fonds,Q68124,LOC,Q68124,La Chaux-de-Fonds,"```json {""wikipedia_page"": ""La Chaux-de-Fonds"", ""wikidata_id"": ""Q68124""} ```",21.197893142700195
+EXP-1808-09-01-a-i0001,1141,1150,Henriette,NIL,PER,NIL,Henriette,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+EXP-1808-09-01-a-i0001,1168,1217,sieur cap itaine-lieutenant Jaques Henri Boûrquin,NIL,PER,NIL,sieur cap itaine-lieutenant Jaques Henri Boûrquin,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+EXP-1808-09-01-a-i0001,1228,1233,Jacob,NIL,PER,NIL,Jacob,"```json {""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL""} ```",0
+EXP-1808-09-01-a-i0001,1304,1317,Cote-aux-Fées,Q68526,LOC,Q68526,La Côte-aux-Fées,"```json { ""wikipedia_page"": ""La Côte-aux-Fées"", ""wikidata_id"": ""Q68526"" } ```",20.332054138183594
+EXP-1808-09-01-a-i0001,1425,1434,Verrières,Q69807,LOC,Q69807,Les Verrières,"```json { ""wikipedia_page"": ""Les Verrières"", ""wikidata_id"": ""Q69807"" } ```",13.239503860473633
+EXP-1808-09-01-a-i0001,1468,1510,"M. Charles Cousandièr, "" maire du dit lieu",NIL,PER,NIL,"M. Charles Cousandièr, "" maire du dit lieu","```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+EXP-1808-09-01-a-i0001,1768,1777,Verrières,Q69807,LOC,Q69807,Les Verrières,"```json {""wikipedia_page"": ""Les Verrières"", ""wikidata_id"": ""Q69807""} ```",13.29002571105957
+EXP-1808-09-01-a-i0001,1865,1890,sieur Charles-Henri vêpre,NIL,PER,NIL,sieur Charles-Henri vêpre,"```json {""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL""} ```",0
+EXP-1808-09-01-a-i0001,1898,1931,demoiselle Julie-Valérie Bonvêpre,NIL,PER,NIL,demoiselle Julie-Valérie Bonvêpre,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+EXP-1808-09-01-a-i0001,1954,2022,"M. Charles-Guillaume Bonvêpre, membre du Grand-Conseil et hôpitalier",NIL,PER,NIL,"M. Charles-Guillaume Bonvêpre, membre du Grand-Conseil et hôpitalier","```json {""wikipedia_page"":""NIL"",""wikidata_id"":""NIL""} ```",0
+EXP-1808-09-01-a-i0001,2033,2057,damé Susanne Petitpierre,NIL,PER,NIL,damé Susanne Petitpierre,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+EXP-1808-09-01-a-i0001,2083,2092,Neuchatel,Q69345,LOC,Q69345,Neuchâtel,"```json {""wikipedia_page"": ""Neuchâtel"", ""wikidata_id"": ""Q69345""} ```",25.187211990356445
+EXP-1808-09-01-a-i0001,2366,2375,Neuchatel,Q69345,LOC,Q69345,Neuchâtel,"```json {""wikipedia_page"":""Neuchâtel"", ""wikidata_id"":""Q69345""} ```",28.008602142333984
+EXP-1808-09-01-a-i0001,2695,2704,Neuchatel,Q69345,LOC,Q69345,Neuchâtel,"```json {""wikipedia_page"":""Neuchâtel"", ""wikidata_id"":""Q69345""} ```",24.4897518157959
+EXP-1808-09-01-a-i0001,2750,2764,Jonas Bes 6 on,NIL,PER,NIL,Jonas Bes 6 on,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+EXP-1808-09-01-a-i0001,2768,2775,Engolon,Q70469,LOC,Q70469,Engollon,"```json {""wikipedia_page"":""Engollon"", ""wikidata_id"":""Q70469""} ```",16.096651077270508
+EXP-1808-09-01-a-i0001,2899,2910,Henri Favre,NIL,PER,NIL,Henri Favre,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+EXP-1808-09-01-a-i0001,2915,2922,Villard,NIL,LOC,NIL,Villard,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+EXP-1808-09-01-a-i0001,2938,2960,Jeanne-Marie née Morel,NIL,PER,NIL,Jeanne-Marie née Morel,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+EXP-1808-09-01-a-i0001,2971,2988,Jean-Daniel Favre,NIL,PER,NIL,Jean-Daniel Favre,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+EXP-1808-09-01-a-i0001,3313,3321,Valangin,Q70194,LOC,Q70194,Valangin,"```json { ""wikipedia_page"": ""Valangin"", ""wikidata_id"": ""Q70194"" } ```",23.976455688476562
+EXP-1808-09-01-a-i0001,3487,3495,Valangin,Q70194,LOC,Q70194,Valangin,"```json {""wikipedia_page"":""Valangin"", ""wikidata_id"":""Q70194""} ```",22.96281623840332
+EXP-1808-09-01-a-i0001,3502,3520,Marianne Perrenoud,NIL,PER,NIL,Marianne Perrenoud,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+EXP-1808-09-01-a-i0001,3525,3533,la Sagne,Q68532,LOC,Q68532,La Sagne,"```json {""wikipedia_page"":""La Sagne"", ""wikidata_id"":""Q68532""} ```",16.361892700195312
+EXP-1808-09-01-a-i0001,3648,3657,Neuchatel,Q69345,LOC,Q69345,Neuchâtel,"```json {""wikipedia_page"":""Neuchâtel"", ""wikidata_id"":""Q69345""} ```",19.637998580932617
+EXP-1808-09-01-a-i0001,4591,4600,Neuchatel,Q69345,LOC,Q69345,Neuchâtel,"```json { ""wikipedia_page"": ""Neuchâtel"", ""wikidata_id"": ""Q69345"" } ```",23.781213760375977
+EXP-1808-09-01-a-i0001,4791,4814,voitnrier Louis Floquet,NIL,PER,NIL,voitnrier Louis Floquet,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+EXP-1808-09-01-a-i0001,4920,4927,Yverdon,Q63946,LOC,Q63946,Yverdon-les-Bains,"```json {""wikipedia_page"":""Yverdon-les-Bains"", ""wikidata_id"":""Q63946""} ```",24.792964935302734
+EXP-1808-09-01-a-i0001,5173,5180,Yveidon,Q63946,LOC,Q63946,Yverdon-les-Bains,"```json {""wikipedia_page"":""Yverdon-les-Bains"", ""wikidata_id"":""Q63946""} ```",17.257333755493164
+EXP-1808-09-01-a-i0001,5232,5253,"F. COREVOïT, greffier",NIL,PER,NIL,"F. COREVOïT, greffier","```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+EXP-1808-09-01-a-i0001,5618,5641,M. le capitaine Jacobel,NIL,PER,NIL,M. le capitaine Jacobel,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+EXP-1808-09-01-a-i0001,6175,6184,Colombier,Q70339,LOC,Q70339,Colombier,"```json {""wikipedia_page"":""Colombier"", ""wikidata_id"":""Q70339""} ```",21.89289093017578
+EXP-1808-09-01-a-i0001,6284,6299,M. ne Charrière,NIL,PER,NIL,M. ne Charrière,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+EXP-1808-09-01-a-i0001,6388,6392,Bôle,Q70472,LOC,Q70472,Bôle,"```json {""wikipedia_page"":""Bôle"", ""wikidata_id"":""Q70472""} ```",18.957168579101562
+EXP-1808-09-01-a-i0001,6396,6405,Colombier,Q70339,LOC,Q70339,Colombier,"```json {""wikipedia_page"": ""Colombier"", ""wikidata_id"": ""Q70339""} ```",21.312532424926758
+EXP-1808-09-01-a-i0001,6504,6510,Preyla,NIL,LOC,NIL,Preyla,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+EXP-1808-09-01-a-i0001,6557,6566,Chatenaya,NIL,LOC,NIL,Chatenaya,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+EXP-1808-09-01-a-i0001,6628,6652,sieurs Jean-David Mauley,NIL,PER,NIL,sieurs Jean-David Mauley,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+EXP-1808-09-01-a-i0001,6657,6670,Jean Confesse,NIL,PER,NIL,Jean Confesse,"```json {""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL""} ```",0
+EXP-1808-09-01-a-i0001,6746,6761,Félix Tinembart,NIL,PER,NIL,Félix Tinembart,"```json {""wikipedia_page"": """", ""wikidata_id"": ""NIL""} ```",0
+EXP-1808-09-01-a-i0001,6906,6912,Bevaix,Q68700,LOC,Q68700,Bevaix,"```json {""wikipedia_page"":""Bevaix"", ""wikidata_id"":""Q68700""} ```",32.03187561035156
+EXP-1808-09-01-a-i0001,7044,7053,Neuchatel,Q69345,LOC,Q69345,Neuchâtel,"```json {""wikipedia_page"":""Neuchâtel"", ""wikidata_id"":""Q69345""} ```",28.054710388183594
+EXP-1808-09-01-a-i0001,7516,7522,Bevaix,Q68700,LOC,Q68700,Bevaix,"```json {""wikipedia_page"":""Bevaix"", ""wikidata_id"":""Q68700""} ```",25.669740676879883
+EXP-1808-09-01-a-i0001,7608,7614,M. Roy,NIL,PER,NIL,M. Roy,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+EXP-1828-06-12-a-i0001,38,95,"César d'Ivernois, conseiller d'Etat et maire de Colombier",NIL,PER,NIL,"César d'Ivernois, conseiller d'Etat et maire de Colombier","```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+EXP-1828-06-12-a-i0001,182,197,Samuel Huguenin,NIL,PER,NIL,Samuel Huguenin,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+EXP-1828-06-12-a-i0001,538,556,AL Fiançois. Racle,NIL,PER,NIL,AL Fiançois. Racle,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+EXP-1828-06-12-a-i0001,561,571,Neuveville,Q69476,LOC,Q69476,La Neuveville,"```json {""wikipedia_page"": ""La Neuveville"", ""wikidata_id"": ""Q69476""} ```",19.105894088745117
+EXP-1828-06-12-a-i0001,596,601,Berne,Q70,LOC,Q70,Berne,"```json {""wikipedia_page"":""Berne"", ""wikidata_id"":""Q70""} ```",24.8526611328125
+EXP-1828-06-12-a-i0001,720,739,Sivary père et Comp,NIL,PER,NIL,Sivary père et Comp,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+EXP-1828-06-12-a-i0001,744,752,Fribourg,Q36378,LOC,Q36378,Fribourg,"```json {""wikipedia_page"":""Fribourg"", ""wikidata_id"":""Q36378""} ```",21.173892974853516
+EXP-1828-06-12-a-i0001,756,762,Suisse,Q39,LOC,Q39,Suisse,"```json {""wikipedia_page"":""Suisse"", ""wikidata_id"":""Q39""} ```",18.278535842895508
+EXP-1828-06-12-a-i0001,972,977,Berne,Q70,LOC,Q70,Berne,"```json {""wikipedia_page"":""Berne"", ""wikidata_id"":""Q70""} ```",29.55694007873535
+EXP-1828-06-12-a-i0001,2167,2172,Berne,Q70,LOC,Q70,Berne,"```json {""wikipedia_page"":""Berne"", ""wikidata_id"":""Q70""} ```",26.120615005493164
+EXP-1828-06-12-a-i0001,2566,2571,Berne,Q70,LOC,Q70,Berne,"```json {""wikipedia_page"": ""Berne"", ""wikidata_id"": ""Q70""} ```",28.23395347595215
+EXP-1828-06-12-a-i0001,4472,4546,"lesecrétairc-de-viUe et président de la Commission de santé, G .-F. GALLOT",NIL,PER,NIL,"lesecrétairc-de-viUe et président de la Commission de santé, G .-F. GALLOT","```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+EXP-1828-06-12-a-i0001,4602,4656,M la grand baillive de Gingins-Chevilly née Pillichody,NIL,PER,NIL,M la grand baillive de Gingins-Chevilly née Pillichody,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+EXP-1828-06-12-a-i0001,4996,5004,St. Jean,NIL,LOC,NIL,St. Jean,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+EXP-1828-06-12-a-i0001,5697,5729,"M. de Aleuron, conseiller d'Etat",NIL,PER,NIL,"M. de Aleuron, conseiller d'Etat","```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+EXP-1828-06-12-a-i0001,5851,5860,Auvernier,Q70385,LOC,Q70385,Auvernier,"```json {""wikipedia_page"":""Auvernier"", ""wikidata_id"":""Q70385""} ```",25.088321685791016
+EXP-1828-06-12-a-i0001,6108,6143,"Aîons d'Ivernois, conseiller d'Etat",NIL,PER,NIL,"Aîons d'Ivernois, conseiller d'Etat","```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+EXP-1828-06-12-a-i0001,6222,6232,St. Biaise,Q70424,LOC,Q70424,Saint-Blaise,"```json {""wikipedia_page"":""Saint-Blaise"", ""wikidata_id"":""Q70424""} ```",14.960042953491211
+EXP-1828-06-12-a-i0001,6302,6307,Enges,Q68546,LOC,Q68546,Enges,"```json { ""wikipedia_page"": ""Enges"", ""wikidata_id"": ""Q68546"" } ```",13.305853843688965
+EXP-1828-06-12-a-i0001,6524,6536,Liechtenhann,NIL,PER,NIL,Liechtenhann,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+EXP-1828-06-12-a-i0001,6799,6807,Valangin,Q70194,LOC,Q70194,Valangin,"```json {""wikipedia_page"":""Valangin"", ""wikidata_id"":""Q70194""} ```",24.894296646118164
+EXP-1828-06-12-a-i0001,7795,7801,LeSage,Q267962,PER,Q267962,Alain-René Lesage,"```json {""wikipedia_page"":""Alain-René Lesage"", ""wikidata_id"":""Q267962""} ```",19.467878341674805
+EXP-1828-06-12-a-i0001,8314,8332,AL Jn .-Dl. Andrié,NIL,PER,NIL,AL Jn .-Dl. Andrié,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+EXP-1828-06-12-a-i0001,8866,8874,Mulhouse,Q79815,LOC,Q79815,Mulhouse,"```json {""wikipedia_page"":""Mulhouse"", ""wikidata_id"":""Q79815""} ```",23.317779541015625
+EXP-1828-06-12-a-i0001,9526,9542,Al Julie Steiner,NIL,PER,NIL,Al Julie Steiner,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+EXP-1828-06-12-a-i0001,9753,9761,Florence,Q2044,LOC,Q2044,Florence,"```json {""wikipedia_page"":""Florence"", ""wikidata_id"":""Q2044""} ```",17.419464111328125
+EXP-1828-06-12-a-i0001,9813,9827,M veuve Benoit,NIL,PER,NIL,M veuve Benoit,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+EXP-1828-06-12-a-i0001,9839,9857,Al. Aleuron-Perret,NIL,PER,NIL,Al. Aleuron-Perret,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+EXP-1828-06-12-a-i0001,9986,9991,Paris,Q90,LOC,Q90,Paris,"```json {""wikipedia_page"":""Paris"", ""wikidata_id"":""Q90""} ```",17.51508903503418
+EXP-1828-06-12-a-i0001,10288,10310,"AI "" -Jeanrenaud-Racle",NIL,PER,NIL,"AI "" -Jeanrenaud-Racle","```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+EXP-1828-06-12-a-i0001,10367,10386,Fanchette Philippin,NIL,PER,NIL,Fanchette Philippin,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+EXP-1828-06-12-a-i0001,10741,10755,"Marti, sellier",NIL,PER,NIL,"Marti, sellier","```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+EXP-1828-06-12-a-i0001,10792,10813,lithographie Gagnebin,NIL,ORG,NIL,lithographie Gagnebin,"```json {""wikipedia_page"":"""",""wikidata_id"":""NIL""} ```",0
+EXP-1828-06-12-a-i0001,10859,10866,Annonay,Q238366,LOC,Q238366,Annonay,"```json {""wikipedia_page"":""Annonay"", ""wikidata_id"":""Q238366""} ```",24.4564266204834
+EXP-1828-06-12-a-i0001,10962,10969,Palerme,Q2656,LOC,Q2656,Palerme,"```json {""wikipedia_page"":""Palerme"", ""wikidata_id"":""Q2656""} ```",21.118736267089844
+EXP-1828-06-12-a-i0001,10977,10989,Al Wittnauer,NIL,PER,NIL,Al Wittnauer,"```json {""wikipedia_page"":"""",""wikidata_id"":""NIL""} ```",0
+EXP-1828-06-12-a-i0001,11481,11494,Samuel Dubois,NIL,PER,NIL,Samuel Dubois,"```json {""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL""} ```",0
+EXP-1828-06-12-a-i0001,11498,11507,Colombier,Q70339,LOC,Q70339,Colombier,"```json {""wikipedia_page"": ""Colombier"", ""wikidata_id"": ""Q70339""} ```",20.14711570739746
+EXP-1828-06-12-a-i0001,11585,11608,M. Preud'homme-Favarger,NIL,PER,NIL,M. Preud'homme-Favarger,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+EXP-1828-06-12-a-i0001,12080,12100,AlAL Pettavel frères,NIL,PER,NIL,AlAL Pettavel frères,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+EXP-1828-06-12-a-i0001,12183,12187,Nice,Q33959,LOC,Q33959,Nice,"```json {""wikipedia_page"":""Nice"", ""wikidata_id"":""Q33959""} ```",21.878814697265625
+EXP-1828-06-12-a-i0001,12245,12250,Paris,Q90,LOC,Q90,Paris,"```json {""wikipedia_page"": ""Paris"", ""wikidata_id"": ""Q90""} ```",22.36800765991211
+EXP-1828-06-12-a-i0001,12338,12348,C. Steiner,NIL,PER,NIL,C. Steiner,"```json {""wikipedia_page"":"""",""wikidata_id"":""NIL""} ```",0
+EXP-1828-06-12-a-i0001,12360,12378,AI. DeLuzc-De-Luze,NIL,PER,NIL,AI. DeLuzc-De-Luze,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+EXP-1858-05-08-a-i0001,91,119,citoyen Aug. L'Ecuyer-Pœllon,NIL,PER,NIL,citoyen Aug. L'Ecuyer-Pœllon,"```json {""wikipedia_page"":"""",""wikidata_id"":""NIL""} ```",0
+EXP-1858-05-08-a-i0001,183,209,citoyen Jaques-Henri Favre,NIL,PER,NIL,citoyen Jaques-Henri Favre,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+EXP-1858-05-08-a-i0001,325,334,Neuchâtel,Q69345,LOC,Q69345,Neuchâtel,"```json {""wikipedia_page"":""Neuchâtel"", ""wikidata_id"":""Q69345""} ```",27.244739532470703
+EXP-1858-05-08-a-i0001,550,555,Locle,Q64093,LOC,Q64093,Le Locle,"```json {""wikipedia_page"": ""Le Locle"", ""wikidata_id"": ""Q64093""} ```",26.971128463745117
+EXP-1858-05-08-a-i0001,587,629,"citoyen Frédéric-Auguste Mathey, pierrisle",NIL,PER,NIL,"citoyen Frédéric-Auguste Mathey, pierrisle","```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+EXP-1858-05-08-a-i0001,644,649,Locle,Q64093,LOC,Q64093,Le Locle,"```json {""wikipedia_page"": ""Le Locle"", ""wikidata_id"": ""Q64093""} ```",25.162752151489258
+EXP-1858-05-08-a-i0001,725,730,Locle,Q64093,LOC,Q64093,Le Locle,"```json {""wikipedia_page"": ""Le Locle"", ""wikidata_id"": ""Q64093""} ```",25.072433471679688
+EXP-1858-05-08-a-i0001,1037,1042,Locle,Q64093,LOC,Q64093,Le Locle,"```json {""wikipedia_page"": ""Le Locle"", ""wikidata_id"": ""Q64093""} ```",24.333850860595703
+EXP-1858-05-08-a-i0001,1272,1314,citoyen L _' -Edouard Uuguenin-Witillcmiii,NIL,PER,NIL,citoyen L _' -Edouard Uuguenin-Witillcmiii,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+EXP-1858-05-08-a-i0001,1319,1324,Locle,Q64093,LOC,Q64093,Le Locle,"```json {""wikipedia_page"":""Le Locle"", ""wikidata_id"":""Q64093""} ```",26.049747467041016
+EXP-1858-05-08-a-i0001,1363,1368,Locle,Q64093,LOC,Q64093,Le Locle,"```json {""wikipedia_page"":""Le Locle"", ""wikidata_id"":""Q64093""} ```",25.764846801757812
+EXP-1858-05-08-a-i0001,1382,1398,Charles-Frédéric,NIL,PER,NIL,Charles-Frédéric,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+EXP-1858-05-08-a-i0001,1541,1546,Locle,Q64093,LOC,Q64093,Le Locle,"```json {""wikipedia_page"":""Le Locle"", ""wikidata_id"":""Q64093""} ```",28.020549774169922
+EXP-1858-05-08-a-i0001,1720,1766,citoyen Louis-Edouard Hugiieiiin-Wuilleiiii'fî,NIL,PER,NIL,citoyen Louis-Edouard Hugiieiiin-Wuilleiiii'fî,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+EXP-1858-05-08-a-i0001,1902,1907,Locle,Q64093,LOC,Q64093,Le Locle,"```json {""wikipedia_page"":""Le Locle"", ""wikidata_id"":""Q64093""} ```",28.0207462310791
+EXP-1858-05-08-a-i0001,2221,2252,citoyen Jules relet-Courvoisicr,NIL,PER,NIL,citoyen Jules relet-Courvoisicr,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+EXP-1858-05-08-a-i0001,2259,2264,Locle,Q64093,LOC,Q64093,Le Locle,"```json { ""wikipedia_page"": ""Le Locle"", ""wikidata_id"": ""Q64093"" } ```",24.46117401123047
+EXP-1858-05-08-a-i0001,2278,2321,"Philibert Pcrrelet, marchand de fournitures",NIL,PER,NIL,"Philibert Pcrrelet, marchand de fournitures","```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+EXP-1858-05-08-a-i0001,2336,2341,Locle,Q64093,LOC,Q64093,Le Locle,"```json {""wikipedia_page"":""Le Locle"", ""wikidata_id"":""Q64093""} ```",27.53668212890625
+EXP-1858-05-08-a-i0001,2484,2489,Locle,Q64093,LOC,Q64093,Le Locle,"```json {""wikipedia_page"":""Le Locle"", ""wikidata_id"":""Q64093""} ```",28.96321678161621
+EXP-1858-05-08-a-i0001,2663,2697,ciloyen Jules Perrelet-Courvoisicr,NIL,PER,NIL,ciloyen Jules Perrelet-Courvoisicr,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+EXP-1858-05-08-a-i0001,2832,2837,Locle,Q64093,LOC,Q64093,Le Locle,"```json { ""wikipedia_page"": ""Le Locle"", ""wikidata_id"": ""Q64093"" } ```",27.847381591796875
+EXP-1858-05-08-a-i0001,3052,3069,la Chaux-de-Fonds,Q68124,LOC,Q68124,La Chaux-de-Fonds,"```json {""wikipedia_page"": ""La Chaux-de-Fonds"", ""wikidata_id"":""Q68124""} ```",31.63059425354004
+EXP-1858-05-08-a-i0001,3311,3330,citoyen Ch. Bastide,NIL,PER,NIL,citoyen Ch. Bastide,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+EXP-1858-05-08-a-i0001,3425,3442,la Chaux-de-Fonds,Q68124,LOC,Q68124,La Chaux-de-Fonds,"```json {""wikipedia_page"": ""La Chaux-de-Fonds"", ""wikidata_id"": ""Q68124""} ```",27.89484977722168
+EXP-1858-05-08-a-i0001,3669,3677,de-Fonds,Q68124,LOC,Q68124,La Chaux-de-Fonds,"```json {""wikipedia_page"":""La Chaux-de-Fonds"", ""wikidata_id"":""Q68124""} ```",19.615856170654297
+EXP-1858-05-08-a-i0001,3850,3864,Chaux-de-Fonds,Q68124,LOC,Q68124,La Chaux-de-Fonds,"```json {""wikipedia_page"":""La Chaux-de-Fonds"", ""wikidata_id"":""Q68124""} ```",27.176551818847656
+EXP-1858-05-08-a-i0001,3979,3993,Chaux-de-Fonds,Q68124,LOC,Q68124,La Chaux-de-Fonds,"```json {""wikipedia_page"":""La Chaux-de-Fonds"", ""wikidata_id"":""Q68124""} ```",25.8674259185791
+EXP-1858-05-08-a-i0001,4072,4080,Fournier,NIL,PER,NIL,Fournier,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+EXP-1858-05-08-a-i0001,4167,4184,la Chaux-de-Fonds,Q68124,LOC,Q68124,La Chaux-de-Fonds,"```json {""wikipedia_page"":""La Chaux-de-Fonds"", ""wikidata_id"":""Q68124""} ```",24.225135803222656
+EXP-1858-05-08-a-i0001,4354,4371,la Chaux-de-Fonds,Q68124,LOC,Q68124,La Chaux-de-Fonds,"```json {""wikipedia_page"": ""La Chaux-de-Fonds"", ""wikidata_id"": ""Q68124""} ```",28.424148559570312
+EXP-1858-05-08-a-i0001,4612,4624,Brot-Dessous,Q70522,LOC,Q70522,Brot-Dessous,"```json {""wikipedia_page"": ""Brot-Dessous"", ""wikidata_id"": ""Q70522""} ```",17.346994400024414
+EXP-1858-05-08-a-i0001,4736,4742,Boudry,Q69507,LOC,Q69507,Boudry,"```json {""wikipedia_page"":""Boudry"", ""wikidata_id"":""Q69507""} ```",29.32759666442871
+EXP-1858-05-08-a-i0001,4972,5002,i toyen Henri-François Duvanel,NIL,PER,NIL,i toyen Henri-François Duvanel,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+EXP-1868-04-22-a-i0042,33,88,"Sir Strafford Norlhcole, secrétaire d'Elat des colonies",Q332650,PER,Q332650,Stafford Northcote,"```json {""wikipedia_page"":""Stafford Northcote"", ""wikidata_id"":""Q332650""} ```",12.600323677062988
+EXP-1868-04-22-a-i0042,100,117,sir Robert Napier,Q336474,PER,Q336474,Robert Napier,"```json {""wikipedia_page"":""Robert Napier"", ""wikidata_id"":""Q336474""} ```",20.53007698059082
+EXP-1868-04-22-a-i0042,299,346,"général Slaveley, commandant la seconde colonne",Q5082648,PER,Q5082648,Charles Staveley,"```json {""wikipedia_page"":""Charles Staveley"", ""wikidata_id"":""Q5082648""} ```",14.578855514526367
+EXP-1868-04-22-a-i0042,560,573,colonel Payre,NIL,PER,NIL,colonel Payre,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+EXP-1868-04-22-a-i0042,940,948,M Pocbin,NIL,PER,NIL,M Pocbin,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+EXP-1868-04-22-a-i0042,1003,1009,France,Q142,LOC,Q142,France,"```json { ""wikipedia_page"": ""France"", ""wikidata_id"": ""Q142"" } ```",19.915027618408203
+EXP-1868-04-22-a-i0042,1132,1139,Hérault,Q12545,LOC,Q12545,Hérault,"```json {""wikipedia_page"":""Hérault"", ""wikidata_id"":""Q12545""} ```",27.930484771728516
+EXP-1868-04-22-a-i0042,1146,1160,Montagne-Noire,Q1509963,LOC,Q1509963,Montagne Noire,"```json {""wikipedia_page"":""Montagne Noire"", ""wikidata_id"":""Q1509963""} ```",22.136783599853516
+EXP-1868-04-22-a-i0042,1191,1198,Avignon,Q6397,LOC,Q6397,Avignon,"```json {""wikipedia_page"": ""Avignon"", ""wikidata_id"": ""Q6397""} ```",30.23342514038086
+EXP-1868-04-22-a-i0042,1284,1299,vallée du Rhône,Q2747791,LOC,Q2747791,vallée du Rhône,"```json { ""wikipedia_page"": ""vallée du Rhône"", ""wikidata_id"": ""Q2747791"" } ```",23.00933074951172
+EXP-1868-04-22-a-i0042,1332,1340,Provence,Q101081,LOC,Q101081,Provence,"```json {""wikipedia_page"":""Provence"", ""wikidata_id"":""Q101081""} ```",23.1575984954834
+EXP-1868-04-22-a-i0042,1511,1516,Berne,Q11911,LOC,Q11911,canton de Berne,"```json { ""wikipedia_page"": ""canton de Berne"", ""wikidata_id"": ""Q11911"" } ```",21.90073585510254
+EXP-1868-04-22-a-i0042,1679,1685,Valais,Q834,LOC,Q834,canton du Valais,"```json {""wikipedia_page"":""canton du Valais"", ""wikidata_id"":""Q834""} ```",17.978801727294922
+EXP-1868-04-22-a-i0042,1771,1782,Haul-Valaîs,Q3128417,LOC,Q3128417,Haut-Valais,"```json {""wikipedia_page"":""Haut-Valais"", ""wikidata_id"":""Q3128417""} ```",16.370420455932617
+EXP-1868-04-22-a-i0042,1793,1797,Sion,Q68136,LOC,Q68136,Sion,"```json {""wikipedia_page"":""Sion"", ""wikidata_id"":""Q68136""} ```",18.88836669921875
+EXP-1868-04-22-a-i0042,1805,1813,Amérique,Q828,LOC,Q828,Amérique,"```json {""wikipedia_page"":""Amérique"", ""wikidata_id"":""Q828""} ```",16.678844451904297
+EXP-1868-04-22-a-i0042,1975,1987,Buénos-Ayrcs,Q1486,LOC,Q1486,Buenos Aires,"```json {""wikipedia_page"":""Buenos Aires"", ""wikidata_id"":""Q1486""} ```",15.730308532714844
+EXP-1868-04-22-a-i0042,1993,2003,Montevideo,Q1335,LOC,Q1335,Montevideo,"```json {""wikipedia_page"":""Montevideo"", ""wikidata_id"":""Q1335""} ```",25.547346115112305
+EXP-1868-04-22-a-i0042,2046,2061,Amérique du Sud,Q18,LOC,Q18,Amérique du Sud,"```json {""wikipedia_page"":""Amérique du Sud"", ""wikidata_id"":""Q18""} ```",23.541778564453125
+EXP-1868-04-22-a-i0042,2134,2143,NEUCHATEL,Q69345,LOC,Q69345,Neuchâtel,"```json {""wikipedia_page"":""Neuchâtel"", ""wikidata_id"":""Q69345""} ```",7.8083600997924805
+EXP-1868-04-22-a-i0042,2266,2281,VUnion libérale,NIL,PROD,NIL,VUnion libérale,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+EXP-1868-04-22-a-i0042,3050,3096,"M. Angus ! e Quartier-La Tente, démissionnaire",NIL,PER,NIL,"M. Angus ! e Quartier-La Tente, démissionnaire","```json {""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL""} ```",0
+EXP-1868-04-22-a-i0042,3450,3472,district du Val-de-Ruz,Q661256,LOC,Q661256,district du Val-de-Ruz,"```json {""wikipedia_page"": ""district du Val-de-Ruz"", ""wikidata_id"": ""Q661256""} ```",20.358150482177734
+EXP-1868-04-22-a-i0042,3527,3540,Fontainemelon,Q68544,LOC,Q68544,Fontainemelon,"```json { ""wikipedia_page"": ""Fontainemelon"", ""wikidata_id"": ""Q68544"" } ```",29.13672637939453
+EXP-1868-04-22-a-i0042,3906,3919,Fontainemclon,Q68544,LOC,Q68544,Fontainemelon,"```json {""wikipedia_page"": ""Fontainemelon"", ""wikidata_id"": ""Q68544""} ```",23.276132583618164
+EXP-1868-04-22-a-i0042,4061,4067,Areuse,Q111680,LOC,Q111680,Areuse,"```json {""wikipedia_page"":""Areuse"", ""wikidata_id"":""Q111680""} ```",27.261018753051758
+EXP-1868-04-22-a-i0042,4077,4084,Môliers,NIL,LOC,NIL,Môliers,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+EXP-1868-04-22-a-i0042,4101,4108,jeune R,NIL,PER,NIL,jeune R,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+EXP-1868-04-22-a-i0042,4364,4370,Areuse,Q111680,LOC,Q111680,Areuse,"```json {""wikipedia_page"":""Areuse"", ""wikidata_id"":""Q111680""} ```",18.20747947692871
+EXP-1878-02-14-a-i0050,21,25,ROME,Q220,LOC,Q220,Rome,"```json {""wikipedia_page"":""Rome"", ""wikidata_id"":""Q220""} ```",18.792821884155273
+EXP-1878-02-14-a-i0050,29,35,Pie IX,Q43720,PER,Q43720,Pie IX,"```json {""wikipedia_page"":""Pie IX"", ""wikidata_id"":""Q43720""} ```",29.378997802734375
+EXP-1878-02-14-a-i0050,1348,1352,Rome,Q220,LOC,Q220,Rome,"```json {""wikipedia_page"":""Rome"", ""wikidata_id"":""Q220""} ```",22.217744827270508
+EXP-1878-02-14-a-i0050,1406,1417,Saint-Siège,Q159583,ORG,Q159583,Saint-Siège,"```json { ""wikipedia_page"": ""Saint-Siège"", ""wikidata_id"": ""Q159583"" } ```",25.568601608276367
+EXP-1878-02-14-a-i0050,1507,1516,St-Pierre,Q12512,LOC,Q12512,basilique Saint-Pierre,"```json {""wikipedia_page"":""basilique Saint-Pierre"", ""wikidata_id"":""Q12512""} ```",24.938756942749023
+EXP-1878-02-14-a-i0050,1649,1655,Pie IX,Q43720,PER,Q43720,Pie IX,"```json {""wikipedia_page"":""Pie IX"", ""wikidata_id"":""Q43720""} ```",30.615703582763672
+EXP-1878-02-14-a-i0050,1707,1711,ROME,Q220,LOC,Q220,Rome,"```json {""wikipedia_page"":""Rome"", ""wikidata_id"":""Q220""} ```",24.5223445892334
+EXP-1878-02-14-a-i0050,1824,1828,Rome,Q220,LOC,Q220,Rome,"```json {""wikipedia_page"":""Rome"", ""wikidata_id"":""Q220""} ```",23.12076759338379
+EXP-1878-02-14-a-i0050,2059,2075,chapelle Sixtine,Q2943,LOC,Q2943,chapelle Sixtine,"```json { ""wikipedia_page"": ""chapelle Sixtine"", ""wikidata_id"": ""Q2943"" } ```",31.379772186279297
+EXP-1878-02-14-a-i0050,2077,2084,LONDRES,Q84,LOC,Q84,Londres,"```json {""wikipedia_page"":""Londres"", ""wikidata_id"":""Q84""} ```",25.439233779907227
+EXP-1878-02-14-a-i0050,2169,2183,Constantinople,Q16869,LOC,Q16869,Constantinople,"```json { ""wikipedia_page"": ""Constantinople"", ""wikidata_id"": ""Q16869"" } ```",26.758094787597656
+EXP-1878-02-14-a-i0050,2299,2313,Constantinople,Q16869,LOC,Q16869,Constantinople,"```json {""wikipedia_page"":""Constantinople"", ""wikidata_id"":""Q16869""} ```",25.956167221069336
+EXP-1878-02-14-a-i0050,2318,2330,Morning-Post,Q1750567,PROD,Q1750567,Morning Post,"```json { ""wikipedia_page"": ""Morning Post"", ""wikidata_id"": ""Q1750567"" } ```",21.491249084472656
+EXP-1878-02-14-a-i0050,2342,2348,Berlin,Q64,LOC,Q64,Berlin,"```json {""wikipedia_page"":""Berlin"", ""wikidata_id"":""Q64""} ```",20.847864151000977
+EXP-1878-02-14-a-i0050,2355,2373,empereur Guillaume,Q150652,PER,Q150652,Guillaume Ier,"```json {""wikipedia_page"":""Guillaume Ier"", ""wikidata_id"":""Q150652""} ```",19.876995086669922
+EXP-1878-02-14-a-i0050,2402,2411,Reichstag,Q160208,ORG,Q160208,Reichstag,"```json {""wikipedia_page"":""Reichstag"", ""wikidata_id"":""Q160208""} ```",21.587121963500977
+EXP-1878-02-14-a-i0050,2661,2675,Constantinople,Q16869,LOC,Q16869,Constantinople,"```json {""wikipedia_page"":""Constantinople"", ""wikidata_id"":""Q16869""} ```",25.13975715637207
+EXP-1878-02-14-a-i0050,2680,2688,Standard,Q666494,PROD,Q666494,Evening Standard,"```json {""wikipedia_page"":""Evening Standard"", ""wikidata_id"":""Q666494""} ```",14.294305801391602
+EXP-1878-02-14-a-i0050,2699,2705,Russie,Q34266,LOC,Q34266,Empire russe,"```json {""wikipedia_page"":""Empire russe"", ""wikidata_id"":""Q34266""} ```",16.70232582092285
+EXP-1878-02-14-a-i0050,2831,2837,Manche,Q34640,LOC,Q34640,Manche,"```json {""wikipedia_page"": ""Manche"", ""wikidata_id"": ""Q34640""} ```",23.360580444335938
+EXP-1878-02-14-a-i0050,2865,2874,Gibraltar,Q1410,LOC,Q1410,Gibraltar,"```json {""wikipedia_page"":""Gibraltar"", ""wikidata_id"":""Q1410""} ```",25.83039093017578
+EXP-1878-02-14-a-i0050,3004,3010,Levant,Q81483,LOC,Q81483,Levant,"```json {""wikipedia_page"":""Levant"", ""wikidata_id"":""Q81483""} ```",17.40966796875
+EXP-1878-02-14-a-i0050,3116,3130,ST-PéTEESBODEG,Q656,LOC,Q656,Saint-Pétersbourg,"```json { ""wikipedia_page"": ""Saint-Pétersbourg"", ""wikidata_id"": ""Q656"" } ```",12.505277633666992
+EXP-1878-02-14-a-i0050,3149,3168,prince Gortschakoff,Q327020,PER,Q327020,Alexandre Gortchakov,"```json { ""wikipedia_page"": ""Alexandre Gortchakov"", ""wikidata_id"": ""Q327020"" } ```",24.85418128967285
+EXP-1878-02-14-a-i0050,3204,3210,Berlin,Q64,LOC,Q64,Berlin,"```json {""wikipedia_page"":""Berlin"", ""wikidata_id"":""Q64""} ```",18.19536590576172
+EXP-1878-02-14-a-i0050,3212,3218,Vienne,Q1741,LOC,Q1741,Vienne,"```json {""wikipedia_page"":""Vienne"", ""wikidata_id"":""Q1741""} ```",22.645036697387695
+EXP-1878-02-14-a-i0050,3220,3227,Londres,Q84,LOC,Q84,Londres,"```json {""wikipedia_page"":""Londres"", ""wikidata_id"":""Q84""} ```",22.00461196899414
+EXP-1878-02-14-a-i0050,3229,3234,Paris,Q90,LOC,Q90,Paris,"```json {""wikipedia_page"":""Paris"", ""wikidata_id"":""Q90""} ```",18.20618438720703
+EXP-1878-02-14-a-i0050,3238,3242,Rome,Q220,LOC,Q220,Rome,"```json {""wikipedia_page"":""Rome"", ""wikidata_id"":""Q220""} ```",19.81312370300293
+EXP-1878-02-14-a-i0050,3368,3382,Constantinople,Q16869,LOC,Q16869,Constantinople,"```json {""wikipedia_page"": ""Constantinople"", ""wikidata_id"": ""Q16869""} ```",25.81482696533203
+EXP-1878-02-14-a-i0050,3695,3709,Constantinople,Q16869,LOC,Q16869,Constantinople,"```json {""wikipedia_page"":""Constantinople"", ""wikidata_id"":""Q16869""} ```",24.092004776000977
+EXP-1878-02-14-a-i0050,3915,3929,Constantinople,Q16869,LOC,Q16869,Constantinople,"```json {""wikipedia_page"":""Constantinople"", ""wikidata_id"":""Q16869""} ```",22.930452346801758
+EXP-1918-09-10-a-i0035,0,6,SUISSE,Q39,LOC,Q39,Suisse,"```json {""wikipedia_page"":""Suisse"", ""wikidata_id"":""Q39""} ```",9.661088943481445
+EXP-1918-09-10-a-i0035,234,251,canton de Schwytz,Q12433,LOC,Q12433,canton de Schwytz,"```json { ""wikipedia_page"": ""canton de Schwytz"", ""wikidata_id"": ""Q12433"" } ```",30.642745971679688
+EXP-1918-09-10-a-i0035,531,537,Suisse,Q39,LOC,Q39,Suisse,"```json {""wikipedia_page"":""Suisse"", ""wikidata_id"":""Q39""} ```",23.207263946533203
+EXP-1918-09-10-a-i0035,668,677,Allemagne,Q183,LOC,Q183,Allemagne,"```json {""wikipedia_page"":""Allemagne"", ""wikidata_id"":""Q183""} ```",20.369747161865234
+EXP-1918-09-10-a-i0035,736,742,Suisse,Q39,LOC,Q39,Suisse,"```json {""wikipedia_page"":""Suisse"", ""wikidata_id"":""Q39""} ```",20.116132736206055
+EXP-1918-09-10-a-i0035,1534,1539,Berne,Q70,LOC,Q70,Berne,"```json {""wikipedia_page"":""Berne"", ""wikidata_id"":""Q70""} ```",13.59479808807373
+EXP-1918-09-10-a-i0035,1666,1689,Lo Journal des Hellènes,NIL,PROD,NIL,Lo Journal des Hellènes,"```json {""wikipedia_page"":""NIL"",""wikidata_id"":""NIL""} ```",0
+EXP-1918-09-10-a-i0035,1827,1840,Echo de Grèce,NIL,PROD,NIL,Echo de Grèce,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+EXP-1918-09-10-a-i0035,2289,2305,Conseil National,Q676078,ORG,Q676078,Conseil national,"```json {""wikipedia_page"":""Conseil national"", ""wikidata_id"":""Q676078""} ```",24.663129806518555
+EXP-1918-09-10-a-i0035,2312,2327,Conseil fédéral,Q30917,ORG,Q30917,Conseil fédéral,"```json { ""wikipedia_page"": ""Conseil fédéral"", ""wikidata_id"": ""Q30917"" } ```",27.809646606445312
+EXP-1918-09-10-a-i0035,2453,2469,Conseil national,Q676078,ORG,Q676078,Conseil national,"```json {""wikipedia_page"":""Conseil national"", ""wikidata_id"":""Q676078""} ```",26.909889221191406
+EXP-1918-09-10-a-i0035,2499,2514,__ etall ___. —,NIL,ORG,NIL,__ etall ___. —,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+EXP-1918-09-10-a-i0035,2629,2640,Jules Bloch,Q3188436,PER,Q3188436,Jules Bloch,"```json { ""wikipedia_page"": ""Jules Bloch"", ""wikidata_id"": ""Q3188436"" } ```",27.779747009277344
+EXP-1918-09-10-a-i0035,2957,3001,"Metallum, société anonyme avec siège à Berne",NIL,ORG,NIL,"Metallum, société anonyme avec siège à Berne","```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+EXP-1918-09-10-a-i0035,3067,3075,A. E. G.,Q158276,ORG,Q158276,Allgemeine Elektricitäts-Gesellschaft,"```json { ""wikipedia_page"": ""Allgemeine Elektricitäts-Gesellschaft"", ""wikidata_id"": ""Q158276"" } ```",13.34813117980957
+EXP-1918-09-10-a-i0035,3361,3369,Metallum,NIL,ORG,NIL,Metallum,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+EXP-1918-09-10-a-i0035,3762,3776,M. de Rathenau,Q135645,PER,Q135645,Walther Rathenau,"```json {""wikipedia_page"":""Walther Rathenau"", ""wikidata_id"":""Q135645""} ```",20.51226043701172
+EXP-1918-09-10-a-i0035,3877,3890,M. Schulthess,Q118243,PER,Q118243,Edmund Schulthess,"```json { ""wikipedia_page"": ""Edmund Schulthess"", ""wikidata_id"": ""Q118243"" } ```",22.484725952148438
+EXP-1918-09-10-a-i0035,4118,4132,M. Jules Bloch,Q3188436,PER,Q3188436,Jules Bloch,"```json {""wikipedia_page"":""Jules Bloch"", ""wikidata_id"":""Q3188436""} ```",21.051189422607422
+EXP-1918-09-10-a-i0035,4417,4487,"M. Achille Rossé, ancien employé du département de l'économie publique",NIL,PER,NIL,"M. Achille Rossé, ancien employé du département de l'économie publique","```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+EXP-1918-09-10-a-i0035,4590,4598,C. F. F.,Q83835,ORG,Q83835,Chemins de fer fédéraux suisses,"```json {""wikipedia_page"":""Chemins de fer fédéraux suisses"", ""wikidata_id"":""Q83835""} ```",18.132230758666992
+EXP-1918-09-10-a-i0035,4633,4641,C. F. F.,Q83835,ORG,Q83835,Chemins de fer fédéraux suisses,"```json {""wikipedia_page"": ""Chemins de fer fédéraux suisses"", ""wikidata_id"": ""Q83835""} ```",25.791522979736328
+EXP-1918-09-10-a-i0035,4782,4797,Conseil fédéral,Q30917,ORG,Q30917,Conseil fédéral,"```json { ""wikipedia_page"": ""Conseil fédéral"", ""wikidata_id"": ""Q30917"" } ```",31.14240837097168
+EXP-1918-09-10-a-i0035,4872,4880,C. F. F.,Q83835,ORG,Q83835,Chemins de fer fédéraux suisses,"```json {""wikipedia_page"":""Chemins de fer fédéraux suisses"", ""wikidata_id"":""Q83835""} ```",25.259326934814453
+EXP-1918-09-10-a-i0035,4987,4993,Suisse,Q39,LOC,Q39,Suisse,"```json {""wikipedia_page"":""Suisse"", ""wikidata_id"":""Q39""} ```",22.023908615112305
+EXP-1918-09-10-a-i0035,5544,5554,Decauville,Q240681,ORG,Q240681,Decauville,"```json {""wikipedia_page"":""Decauville"", ""wikidata_id"":""Q240681""} ```",15.304821968078613
+EXP-1918-09-10-a-i0035,5908,5918,Decauville,Q240681,ORG,Q240681,Decauville,"```json {""wikipedia_page"":""Decauville"", ""wikidata_id"":""Q240681""} ```",19.039531707763672
+EXP-1918-09-10-a-i0035,5925,5931,Suisse,Q39,LOC,Q39,Suisse,"```json {""wikipedia_page"":""Suisse"", ""wikidata_id"":""Q39""} ```",17.854265213012695
+EXP-1918-09-10-a-i0035,6459,6468,Allemagne,Q183,LOC,Q183,Allemagne,"```json {""wikipedia_page"":""Allemagne"", ""wikidata_id"":""Q183""} ```",18.09822654724121
+EXP-1918-09-10-a-i0035,6827,6832,BERNE,Q70,LOC,Q70,Berne,"```json {""wikipedia_page"":""Berne"", ""wikidata_id"":""Q70""} ```",29.39495086669922
+EXP-1918-09-10-a-i0035,7056,7062,VALAIS,Q834,LOC,Q834,canton du Valais,"```json {""wikipedia_page"": ""canton du Valais"", ""wikidata_id"": ""Q834""} ```",21.168132781982422
+EXP-1918-09-10-a-i0035,7146,7153,Monthey,Q64051,LOC,Q64051,Monthey,"```json {""wikipedia_page"":""Monthey"", ""wikidata_id"":""Q64051""} ```",23.372507095336914
+EXP-1918-09-10-a-i0035,7159,7178,quatre frères Comte,NIL,PER,NIL,quatre frères Comte,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+EXP-1918-09-10-a-i0035,7543,7548,Bulle,Q68308,LOC,Q68308,Bulle,"```json {""wikipedia_page"":""Bulle"", ""wikidata_id"":""Q68308""} ```",28.854427337646484
+EXP-1918-09-10-a-i0035,8067,8090,"Mme veuve Gremaud, Riaz",NIL,PER,NIL,"Mme veuve Gremaud, Riaz","```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+EXP-1918-09-10-a-i0035,8389,8415,"M. Musy, conseiller d'Etat",Q674180,PER,Q674180,Jean-Marie Musy,"```json { ""wikipedia_page"": ""Jean-Marie Musy"", ""wikidata_id"": ""Q674180"" } ```",15.25015640258789
+EXP-1918-09-10-a-i0035,8540,8546,GENÈVE,Q71,LOC,Q71,Genève,"```json {""wikipedia_page"":""Genève"", ""wikidata_id"":""Q71""} ```",27.060396194458008
+EXP-1918-09-10-a-i0035,8617,8632,M. Ad. Lachenal,Q377118,PER,Q377118,Adrien Lachenal,"```json {""wikipedia_page"":""Adrien Lachenal"", ""wikidata_id"":""Q377118""} ```",24.92105484008789
+EXP-1918-09-10-a-i0035,9067,9073,Genève,Q71,LOC,Q71,Genève,"```json { ""wikipedia_page"": ""Genève"", ""wikidata_id"": ""Q71"" } ```",24.971099853515625
+EXP-1918-12-13-a-i0061,78,83,Berne,Q70,LOC,Q70,Berne,"```json {""wikipedia_page"":""Berne"", ""wikidata_id"":""Q70""} ```",20.699567794799805
+EXP-1918-12-13-a-i0061,91,103,Zurcher Post,NIL,ORG,NIL,Zurcher Post,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+EXP-1918-12-13-a-i0061,111,126,Conseil fédéral,Q30917,ORG,Q30917,Conseil fédéral,"```json {""wikipedia_page"": ""Conseil fédéral"", ""wikidata_id"": ""Q30917""} ```",24.536279678344727
+EXP-1918-12-13-a-i0061,144,162,Chambres fédérales,Q684719,ORG,Q684719,Assemblée fédérale suisse,"```json {""wikipedia_page"": ""Assemblée fédérale suisse"", ""wikidata_id"": ""Q684719""} ```",22.99169921875
+EXP-1918-12-13-a-i0061,297,312,Conseil fédéral,Q30917,ORG,Q30917,Conseil fédéral,"```json {""wikipedia_page"": ""Conseil fédéral"", ""wikidata_id"": ""Q30917""} ```",23.600011825561523
+EXP-1918-12-13-a-i0061,344,362,Chambres fédérales,Q684719,ORG,Q684719,Assemblée fédérale suisse,"```json { ""wikipedia_page"": ""Assemblée fédérale suisse"", ""wikidata_id"": ""Q684719"" } ```",18.826814651489258
+EXP-1918-12-13-a-i0061,445,449,Vaud,Q12771,LOC,Q12771,canton de Vaud,"```json {""wikipedia_page"": ""canton de Vaud"", ""wikidata_id"": ""Q12771""} ```",20.21997833251953
+EXP-1918-12-13-a-i0061,862,872,M. Huggler,NIL,PER,NIL,M. Huggler,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+EXP-1918-12-13-a-i0061,874,880,Zurich,Q72,LOC,Q72,Zurich,"```json {""wikipedia_page"":""Zurich"", ""wikidata_id"":""Q72""} ```",22.419204711914062
+EXP-1918-12-13-a-i0061,922,930,M. Ryser,Q18633299,PER,Q18633299,Émile Ryser,"```json { ""wikipedia_page"": ""Émile Ryser"", ""wikidata_id"": ""Q18633299"" } ```",19.95988655090332
+EXP-1918-12-13-a-i0061,991,1006,Conseil fédéral,Q30917,ORG,Q30917,Conseil fédéral,"```json {""wikipedia_page"":""Conseil fédéral"", ""wikidata_id"":""Q30917""} ```",27.39019775390625
+EXP-1918-12-13-a-i0061,1092,1108,Conseil national,Q676078,ORG,Q676078,Conseil national,"```json {""wikipedia_page"":""Conseil national"", ""wikidata_id"":""Q676078""} ```",23.665388107299805
+EXP-1918-12-13-a-i0061,1178,1183,Berne,Q70,LOC,Q70,Berne,"```json {""wikipedia_page"":""Berne"", ""wikidata_id"":""Q70""} ```",19.265188217163086
+EXP-1918-12-13-a-i0061,1237,1242,Berne,Q70,LOC,Q70,Berne,"```json {""wikipedia_page"":""Berne"", ""wikidata_id"":""Q70""} ```",24.573266983032227
+EXP-1918-12-13-a-i0061,1477,1493,Banque nationale,Q597394,ORG,Q597394,Banque nationale suisse,"```json { ""wikipedia_page"": ""Banque nationale suisse"", ""wikidata_id"": ""Q597394"" } ```",24.348743438720703
+EXP-1918-12-13-a-i0061,2113,2123,M. Platten,Q124088,PER,Q124088,Fritz Platten,"```json {""wikipedia_page"":""Fritz Platten"", ""wikidata_id"":""Q124088""} ```",18.84866714477539
+EXP-1918-12-13-a-i0061,2125,2131,Zurich,Q72,LOC,Q72,Zurich,"```json {""wikipedia_page"":""Zurich"", ""wikidata_id"":""Q72""} ```",21.511444091796875
+EXP-1918-12-13-a-i0061,2255,2264,MM. Grimm,Q115645,PER,Q115645,Robert Grimm,"```json {""wikipedia_page"":""Robert Grimm"", ""wikidata_id"":""Q115645""} ```",16.352441787719727
+EXP-1918-12-13-a-i0061,2268,2274,Muller,NIL,PER,NIL,Muller,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+EXP-1918-12-13-a-i0061,2443,2460,M. Jacques Schmid,Q994148,PER,Q994148,Jacques Schmid,"```json {""wikipedia_page"":""Jacques Schmid"", ""wikidata_id"":""Q994148""} ```",21.48162078857422
+EXP-1918-12-13-a-i0061,2462,2469,Soleure,Q68965,LOC,Q68965,Soleure,"```json {""wikipedia_page"": ""Soleure"", ""wikidata_id"": ""Q68965""} ```",14.914682388305664
+EXP-1918-12-13-a-i0061,2548,2555,Soleure,Q68965,LOC,Q68965,Soleure,"```json {""wikipedia_page"": ""Soleure"", ""wikidata_id"": ""Q68965""} ```",14.30064868927002
+EXP-1918-12-13-a-i0061,2562,2569,Granges,Q68420,LOC,Q68420,Granges,"```json {""wikipedia_page"": ""Granges"", ""wikidata_id"": ""Q68420""} ```",12.651857376098633
+EXP-1918-12-13-a-i0061,2725,2729,Vaud,Q12771,LOC,Q12771,canton de Vaud,"```json {""wikipedia_page"": ""canton de Vaud"", ""wikidata_id"": ""Q12771""} ```",18.94927978515625
+EXP-1918-12-13-a-i0061,3118,3134,M. Robert Schmid,NIL,PER,NIL,M. Robert Schmid,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+EXP-1918-12-13-a-i0061,3136,3142,Zurich,Q72,LOC,Q72,Zurich,"```json { ""wikipedia_page"": ""Zurich"", ""wikidata_id"": ""Q72"" } ```",23.94639015197754
+EXP-1918-12-13-a-i0061,3525,3533,Fribourg,Q36378,LOC,Q36378,Fribourg,"```json {""wikipedia_page"":""Fribourg"", ""wikidata_id"":""Q36378""} ```",21.249217987060547
+EXP-1918-12-13-a-i0061,3598,3605,Platten,Q124088,PER,Q124088,Fritz Platten,"```json {""wikipedia_page"":""Fritz Platten"", ""wikidata_id"":""Q124088""} ```",19.838687896728516
+EXP-1918-12-13-a-i0061,3822,3837,Conseil fédéral,Q30917,ORG,Q30917,Conseil fédéral,"```json {""wikipedia_page"":""Conseil fédéral"", ""wikidata_id"":""Q30917""} ```",18.431076049804688
+EXP-1918-12-13-a-i0061,4030,4037,M. Musy,Q674180,PER,Q674180,Jean-Marie Musy,"```json {""wikipedia_page"":""Jean-Marie Musy"", ""wikidata_id"":""Q674180""} ```",20.894968032836914
+EXP-1928-05-29-a-i0007,96,103,Kellogg,Q193009,PER,Q193009,Frank Billings Kellogg,"```json {""wikipedia_page"": ""Frank Billings Kellogg"", ""wikidata_id"": ""Q193009""} ```",14.721471786499023
+EXP-1928-05-29-a-i0007,105,110,PARIS,Q90,LOC,Q90,Paris,"```json { ""wikipedia_page"": ""Paris"", ""wikidata_id"": ""Q90"" } ```",15.145223617553711
+EXP-1928-05-29-a-i0007,156,170,Petit Parisien,Q831299,PROD,Q831299,Le Petit Parisien,"```json {""wikipedia_page"":""Le Petit Parisien"", ""wikidata_id"":""Q831299""} ```",24.795984268188477
+EXP-1928-05-29-a-i0007,181,191,M. Kellogg,Q193009,PER,Q193009,Frank Billings Kellogg,"```json {""wikipedia_page"":""Frank Billings Kellogg"", ""wikidata_id"":""Q193009""} ```",16.894975662231445
+EXP-1928-05-29-a-i0007,318,325,Kellogg,Q193009,PER,Q193009,Frank Billings Kellogg,"```json {""wikipedia_page"":""Frank Billings Kellogg"", ""wikidata_id"":""Q193009""} ```",14.684876441955566
+EXP-1928-05-29-a-i0007,1013,1023,M. Kellogg,Q193009,PER,Q193009,Frank Billings Kellogg,"```json {""wikipedia_page"":""Frank Billings Kellogg"", ""wikidata_id"":""Q193009""} ```",16.273366928100586
+EXP-1928-05-29-a-i0007,1042,1054,M. Venizelos,Q205545,PER,Q205545,Elefthérios Venizélos,"```json {""wikipedia_page"":""Elefthérios Venizélos"", ""wikidata_id"":""Q205545""} ```",29.04703712463379
+EXP-1928-05-29-a-i0007,1056,1063,LONDRES,Q84,LOC,Q84,Londres,"```json {""wikipedia_page"":""Londres"", ""wikidata_id"":""Q84""} ```",18.629779815673828
+EXP-1928-05-29-a-i0007,1084,1094,Daily Mail,Q210534,PROD,Q210534,Daily Mail,"```json { ""wikipedia_page"":""Daily Mail"", ""wikidata_id"":""Q210534"" } ```",28.860065460205078
+EXP-1928-05-29-a-i0007,1188,1200,M. Venizelos,Q205545,PER,Q205545,Elefthérios Venizélos,"```json {""wikipedia_page"":""Elefthérios Venizélos"", ""wikidata_id"":""Q205545""} ```",32.20077133178711
+EXP-1928-05-29-a-i0007,1412,1424,M. Venizelos,Q205545,PER,Q205545,Elefthérios Venizélos,"```json {""wikipedia_page"":""Elefthérios Venizélos"", ""wikidata_id"":""Q205545""} ```",29.21418571472168
+EXP-1928-05-29-a-i0007,1594,1604,Georges II,Q152935,PER,Q152935,Georges II,"```json {""wikipedia_page"":""Georges II"", ""wikidata_id"":""Q152935""} ```",20.844717025756836
+EXP-1928-05-29-a-i0007,1614,1624,Constantin,Q152099,PER,Q152099,Constantin Ier de Grèce,"```json {""wikipedia_page"":""Constantin Ier de Grèce"", ""wikidata_id"":""Q152099""} ```",18.60901641845703
+EXP-1928-05-29-a-i0007,1626,1638,M. Venizelos,Q205545,PER,Q205545,Elefthérios Venizélos,"```json {""wikipedia_page"":""Elefthérios Venizélos"", ""wikidata_id"":""Q205545""} ```",19.83231544494629
+EXP-1928-05-29-a-i0007,1823,1831,BELGRADE,Q3711,LOC,Q3711,Belgrade,"```json {""wikipedia_page"":""Belgrade"", ""wikidata_id"":""Q3711""} ```",21.717632293701172
+EXP-1928-05-29-a-i0007,1868,1876,Belgrade,Q3711,LOC,Q3711,Belgrade,"```json { ""wikipedia_page"": ""Belgrade"", ""wikidata_id"": ""Q3711"" } ```",30.00766944885254
+EXP-1928-05-29-a-i0007,1907,1913,Zagreb,Q1435,LOC,Q1435,Zagreb,"```json {""wikipedia_page"":""Zagreb"", ""wikidata_id"":""Q1435""} ```",24.72014617919922
+EXP-1928-05-29-a-i0007,1940,1948,Belgrade,Q3711,LOC,Q3711,Belgrade,"```json {""wikipedia_page"":""Belgrade"", ""wikidata_id"":""Q3711""} ```",28.32794189453125
+EXP-1928-05-29-a-i0007,2030,2038,Bulgarie,Q219,LOC,Q219,Bulgarie,"```json {""wikipedia_page"":""Bulgarie"", ""wikidata_id"":""Q219""} ```",25.21068572998047
+EXP-1928-05-29-a-i0007,2085,2090,Sofia,Q472,LOC,Q472,Sofia,"```json {""wikipedia_page"":""Sofia"", ""wikidata_id"":""Q472""} ```",25.322208404541016
+EXP-1928-05-29-a-i0007,2461,2466,PARIS,Q90,LOC,Q90,Paris,"```json {""wikipedia_page"":""Paris"", ""wikidata_id"":""Q90""} ```",23.157304763793945
+EXP-1928-05-29-a-i0007,2493,2507,Petit Parisien,Q831299,PROD,Q831299,Le Petit Parisien,"```json {""wikipedia_page"":""Le Petit Parisien"", ""wikidata_id"":""Q831299""} ```",28.971080780029297
+EXP-1928-05-29-a-i0007,2953,2970,Vossische Zeitung,Q675003,PROD,Q675003,Vossische Zeitung,"```json {""wikipedia_page"":""Vossische Zeitung"", ""wikidata_id"":""Q675003""} ```",25.043949127197266
+EXP-1928-05-29-a-i0007,3019,3026,Silésie,Q81720,LOC,Q81720,Silésie,"```json {""wikipedia_page"":""Silésie"",""wikidata_id"":""Q81720""} ```",24.41737174987793
+EXP-1928-05-29-a-i0007,3060,3071,Schweitnitz,Q387396,LOC,Q387396,Świdnica,"```json { ""wikipedia_page"": ""Świdnica"", ""wikidata_id"": ""Q387396"" } ```",20.59785270690918
+EXP-1928-05-29-a-i0007,3573,3586,Riesengebirge,Q214644,LOC,Q214644,Monts des Géants,"```json { ""wikipedia_page"": ""Monts des Géants"", ""wikidata_id"": ""Q214644"" } ```",23.98442268371582
+EXP-1928-05-29-a-i0007,3723,3732,STOCKHOLM,Q1754,LOC,Q1754,Stockholm,"```json {""wikipedia_page"":""Stockholm"", ""wikidata_id"":""Q1754""} ```",26.611234664916992
+EXP-1928-05-29-a-i0007,4243,4251,Toujquet,Q323164,LOC,Q323164,Le Touquet-Paris-Plage,"```json {""wikipedia_page"":""Le Touquet-Paris-Plage"", ""wikidata_id"":""Q323164""} ```",16.370250701904297
+EXP-1928-05-29-a-i0007,4253,4258,PARIS,Q90,LOC,Q90,Paris,"```json {""wikipedia_page"":""Paris"", ""wikidata_id"":""Q90""} ```",14.771615982055664
+EXP-1928-05-29-a-i0007,4697,4705,BELGRADE,Q3711,LOC,Q3711,Belgrade,"```json {""wikipedia_page"":""Belgrade"", ""wikidata_id"":""Q3711""} ```",26.6510066986084
+EXP-1928-05-29-a-i0007,4791,4799,Belgrade,Q3711,LOC,Q3711,Belgrade,"```json {""wikipedia_page"":""Belgrade"", ""wikidata_id"":""Q3711""} ```",27.738317489624023
+EXP-1928-05-29-a-i0007,4974,4982,Belgrade,Q3711,LOC,Q3711,Belgrade,"```json {""wikipedia_page"": ""Belgrade"", ""wikidata_id"": ""Q3711""} ```",26.163463592529297
+EXP-1928-05-29-a-i0007,5028,5053,Buenos-Ayres BUENOS-AYRES,Q1486,LOC,Q1486,Buenos Aires,"```json {""wikipedia_page"":""Buenos Aires"", ""wikidata_id"":""Q1486""} ```",26.007705688476562
+EXP-1928-05-29-a-i0007,5289,5296,Wilkins,Q577806,PER,Q577806,George Hubert Wilkins,"```json {""wikipedia_page"":""George Hubert Wilkins"", ""wikidata_id"":""Q577806""} ```",15.300092697143555
+EXP-1928-05-29-a-i0007,5310,5320,Copenhague,Q1748,LOC,Q1748,Copenhague,"```json {""wikipedia_page"":""Copenhague"", ""wikidata_id"":""Q1748""} ```",21.919958114624023
+EXP-1928-05-29-a-i0007,5322,5332,COPENHAGUE,Q1748,LOC,Q1748,Copenhague,"```json {""wikipedia_page"":""Copenhague"", ""wikidata_id"":""Q1748""} ```",26.75954246520996
+EXP-1928-05-29-a-i0007,5373,5380,EielsOn,Q2938873,PER,Q2938873,Carl Ben Eielson,"```json {""wikipedia_page"":""Carl Ben Eielson"", ""wikidata_id"":""Q2938873""} ```",10.349153518676758
+EXP-1928-05-29-a-i0007,5435,5439,Oslo,Q585,LOC,Q585,Oslo,"```json {""wikipedia_page"":""Oslo"", ""wikidata_id"":""Q585""} ```",26.198101043701172
+EXP-1928-05-29-a-i0007,5535,5544,Chantoung,Q43407,LOC,Q43407,Shandong,"```json { ""wikipedia_page"": ""Shandong"", ""wikidata_id"": ""Q43407"" } ```",13.805584907531738
+EXP-1928-05-29-a-i0007,5546,5551,PARIS,Q90,LOC,Q90,Paris,"```json { ""wikipedia_page"": ""Paris"", ""wikidata_id"": ""Q90"" } ```",21.512710571289062
+EXP-1928-05-29-a-i0007,5571,5584,Petit Journal,Q2115162,PROD,Q2115162,Le Petit Journal,"```json { ""wikipedia_page"": ""Le Petit Journal"", ""wikidata_id"": ""Q2115162"" } ```",15.868555068969727
+EXP-1928-05-29-a-i0007,5620,5627,Londres,Q84,LOC,Q84,Londres,"```json {""wikipedia_page"":""Londres"", ""wikidata_id"":""Q84""} ```",20.898757934570312
+EXP-1928-05-29-a-i0007,5644,5649,Tokio,Q1490,LOC,Q1490,Tokyo,"```json {""wikipedia_page"":""Tokyo"", ""wikidata_id"":""Q1490""} ```",20.6398868560791
+EXP-1928-05-29-a-i0007,5779,5788,Chantoung,Q43407,LOC,Q43407,Shandong,"```json {""wikipedia_page"":""Shandong"", ""wikidata_id"":""Q43407""} ```",15.462849617004395
+EXP-1928-05-29-a-i0007,5905,5913,S. < LN.,Q38130,ORG,Q38130,Société des Nations,"```json {""wikipedia_page"":""Société des Nations"", ""wikidata_id"":""Q38130""} ```",4.371676445007324
+EXP-1928-08-15-a-i0065,21,28,THALWIL,Q68959,LOC,Q68959,Thalwil,"```json {""wikipedia_page"":""Thalwil"", ""wikidata_id"":""Q68959""} ```",24.234668731689453
+EXP-1928-08-15-a-i0065,111,119,Gattikon,Q22631161,LOC,Q22631161,Gattikon,"```json {""wikipedia_page"":""Gattikon"", ""wikidata_id"":""Q22631161""} ```",22.673410415649414
+EXP-1928-08-15-a-i0065,129,136,Thalwil,Q68959,LOC,Q68959,Thalwil,"```json {""wikipedia_page"":""Thalwil"", ""wikidata_id"":""Q68959""} ```",30.061019897460938
+EXP-1928-08-15-a-i0065,317,333,frères Bretscher,NIL,PER,NIL,frères Bretscher,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+EXP-1928-08-15-a-i0065,622,629,THALWIL,Q68959,LOC,Q68959,Thalwil,"```json {""wikipedia_page"": ""Thalwil"", ""wikidata_id"": ""Q68959""} ```",15.046777725219727
+EXP-1928-08-15-a-i0065,663,671,Gattikon,Q22631161,LOC,Q22631161,Gattikon,"```json { ""wikipedia_page"": ""Gattikon"", ""wikidata_id"": ""Q22631161"" } ```",12.859774589538574
+EXP-1928-08-15-a-i0065,1039,1045,WAENGI,Q68177,LOC,Q68177,Wängi,"```json { ""wikipedia_page"": ""Wängi"", ""wikidata_id"": ""Q68177"" } ```",14.713866233825684
+EXP-1928-08-15-a-i0065,1136,1179,"M. Meier-Bâr, menuisier et ébéniste à Wângi",NIL,PER,NIL,"M. Meier-Bâr, menuisier et ébéniste à Wângi","```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+EXP-1928-08-15-a-i0065,1181,1190,Thurgovie,Q12713,LOC,Q12713,canton de Thurgovie,"```json {""wikipedia_page"":""canton de Thurgovie"", ""wikidata_id"":""Q12713""} ```",21.261165618896484
+EXP-1928-08-15-a-i0065,1468,1472,Bùnz,Q366169,LOC,Q366169,Bünz,"```json { ""wikipedia_page"": ""Bünz"", ""wikidata_id"": ""Q366169"" } ```",18.346227645874023
+EXP-1928-08-15-a-i0065,1477,1484,Argovie,Q11972,LOC,Q11972,canton d'Argovie,"```json { ""wikipedia_page"": ""canton d'Argovie"", ""wikidata_id"": ""Q11972"" } ```",22.90679931640625
+EXP-1928-08-15-a-i0065,1619,1626,LUCERNE,Q4191,LOC,Q4191,Lucerne,"```json {""wikipedia_page"":""Lucerne"", ""wikidata_id"":""Q4191""} ```",20.579730987548828
+EXP-1928-08-15-a-i0065,2012,2022,BREMGARTEN,Q64139,LOC,Q64139,Bremgarten AG,"```json {""wikipedia_page"":""Bremgarten AG"", ""wikidata_id"":""Q64139""} ```",24.644569396972656
+EXP-1928-08-15-a-i0065,2024,2031,Argovie,Q11972,LOC,Q11972,canton d'Argovie,"```json {""wikipedia_page"":""canton d'Argovie"", ""wikidata_id"":""Q11972""} ```",25.04753875732422
+EXP-1928-08-15-a-i0065,2058,2064,Bunzen,Q64784,LOC,Q64784,Bünzen,"```json {""wikipedia_page"": ""Bünzen"", ""wikidata_id"": ""Q64784""} ```",19.926280975341797
+EXP-1928-08-15-a-i0065,2230,2243,Sièrre SIERRE,Q68297,LOC,Q68297,Sierre,"{ ""wikipedia_page"": ""Sierre"", ""wikidata_id"": ""Q68297"" }",19.205476760864258
+EXP-1928-08-15-a-i0065,2400,2406,Sierre,Q68297,LOC,Q68297,Sierre,"```json {""wikipedia_page"":""Sierre"", ""wikidata_id"":""Q68297""} ```",23.98332405090332
+EXP-1928-08-15-a-i0065,2709,2745,"M. Gard, avocat, commissaire général",NIL,PER,NIL,"M. Gard, avocat, commissaire général","```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+EXP-1928-08-15-a-i0065,2788,2794,Sierre,Q68297,LOC,Q68297,Sierre,"```json {""wikipedia_page"":""Sierre"", ""wikidata_id"":""Q68297""} ```",22.825225830078125
+EXP-1928-08-15-a-i0065,2847,2853,Valais,Q834,LOC,Q834,canton du Valais,"```json {""wikipedia_page"":""canton du Valais"",""wikidata_id"":""Q834""} ```",21.19712257385254
+EXP-1928-08-15-a-i0065,2949,2964,Val d'Anniviers,Q672472,LOC,Q672472,val d'Anniviers,"```json {""wikipedia_page"": ""val d'Anniviers"", ""wikidata_id"": ""Q672472""} ```",28.75542640686035
+EXP-1928-08-15-a-i0065,2996,3019,municipalité de Vissoye,Q689112,LOC,Q689112,Vissoie,"```json {""wikipedia_page"":""Vissoie"", ""wikidata_id"":""Q689112""} ```",20.68328094482422
+EXP-1928-08-15-a-i0065,3044,3052,Grimentz,Q869551,LOC,Q869551,Grimentz,"```json {""wikipedia_page"": ""Grimentz"", ""wikidata_id"": ""Q869551""} ```",24.95207977294922
+EXP-1928-08-15-a-i0065,3074,3078,ORBE,Q68213,LOC,Q68213,Orbe,"```json {""wikipedia_page"":""Orbe"", ""wikidata_id"":""Q68213""} ```",12.591227531433105
+GDL-1798-07-18-a-i0001,203,213,Directoire,Q219817,ORG,Q219817,Directoire,"```json {""wikipedia_page"": ""Directoire"", ""wikidata_id"": ""Q219817""} ```",9.74210262298584
+GDL-1798-07-18-a-i0001,381,391,Directoire,Q219817,ORG,Q219817,Directoire,"```json {""wikipedia_page"":""Directoire"", ""wikidata_id"":""Q219817""} ```",12.73110580444336
+GDL-1798-07-18-a-i0001,1138,1148,Ca * rrard,NIL,PER,NIL,Ca * rrard,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+GDL-1798-07-18-a-i0001,1150,1155,Huffi,NIL,PER,NIL,Huffi,"```json {""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL""} ```",0
+GDL-1798-07-18-a-i0001,1157,1166,Bourgeois,NIL,PER,NIL,Bourgeois,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+GDL-1798-07-18-a-i0001,1169,1173,Haas,NIL,PER,NIL,Haas,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+GDL-1818-03-13-a-i0005,0,6,Suisse,Q39,LOC,Q39,Suisse,"```json {""wikipedia_page"": ""Suisse"", ""wikidata_id"": ""Q39""} ```",17.48554801940918
+GDL-1818-03-13-a-i0005,23,52,S. A. le prince ds Metternich,Q45662,PER,Q45662,Klemens Wenzel von Metternich,"```json {""wikipedia_page"":""Klemens Wenzel von Metternich"", ""wikidata_id"":""Q45662""} ```",8.529834747314453
+GDL-1818-03-13-a-i0005,63,69,Vienne,Q1741,LOC,Q1741,Vienne,"```json {""wikipedia_page"":""Vienne"", ""wikidata_id"":""Q1741""} ```",22.819015502929688
+GDL-1818-03-13-a-i0005,229,254,M. le baron V ^ n Berchem,NIL,PER,NIL,M. le baron V ^ n Berchem,"```json {""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL""} ```",0
+GDL-1818-03-13-a-i0005,1042,1047,Berne,Q70,LOC,Q70,Berne,"```json {""wikipedia_page"":""Berne"", ""wikidata_id"":""Q70""} ```",30.75849723815918
+GDL-1818-03-13-a-i0005,1378,1385,Trieste,Q546,LOC,Q546,Trieste,"```json {""wikipedia_page"":""Trieste"", ""wikidata_id"":""Q546""} ```",25.647058486938477
+GDL-1818-03-13-a-i0005,1387,1396,Marseille,Q23482,LOC,Q23482,Marseille,"```json {""wikipedia_page"": ""Marseille"", ""wikidata_id"": ""Q23482""} ```",22.276704788208008
+GDL-1818-03-13-a-i0005,1400,1408,Livourne,Q6761,LOC,Q6761,Livourne,"```json {""wikipedia_page"":""Livourne"", ""wikidata_id"":""Q6761""} ```",22.808399200439453
+GDL-1818-03-13-a-i0005,1676,1680,Bâle,Q78,LOC,Q78,Bâle,"```json {""wikipedia_page"":""Bâle"", ""wikidata_id"":""Q78""} ```",28.91655158996582
+GDL-1818-03-13-a-i0005,1838,1852,canton de Bâle,Q660776,LOC,Q660776,canton de Bâle,"```json {""wikipedia_page"": ""canton de Bâle"", ""wikidata_id"": ""Q660776""} ```",23.578536987304688
+GDL-1818-03-13-a-i0005,1903,1910,Lucerne,Q12121,LOC,Q12121,canton de Lucerne,"```json {""wikipedia_page"":""canton de Lucerne"", ""wikidata_id"":""Q12121""} ```",20.12005615234375
+GDL-1818-03-13-a-i0005,1917,1922,Berne,Q11911,LOC,Q11911,canton de Berne,"```json {""wikipedia_page"":""canton de Berne"", ""wikidata_id"":""Q11911""} ```",18.17914581298828
+GDL-1818-03-13-a-i0005,2169,2177,St. Gall,Q12746,LOC,Q12746,canton de Saint-Gall,"```json {""wikipedia_page"":""canton de Saint-Gall"", ""wikidata_id"":""Q12746""} ```",21.770065307617188
+GDL-1818-03-13-a-i0005,2647,2656,Thurgovie,Q12713,LOC,Q12713,canton de Thurgovie,"```json { ""wikipedia_page"": ""canton de Thurgovie"", ""wikidata_id"": ""Q12713"" } ```",17.390583038330078
+GDL-1818-03-13-a-i0005,3901,3907,France,Q142,LOC,Q142,France,"```json {""wikipedia_page"":""France"", ""wikidata_id"":""Q142""} ```",22.39570426940918
+GDL-1818-03-13-a-i0005,4685,4693,Varsovie,Q270,LOC,Q270,Varsovie,"```json {""wikipedia_page"":""Varsovie"", ""wikidata_id"":""Q270""} ```",26.27787208557129
+GDL-1818-03-13-a-i0005,4699,4706,Soleure,Q68965,LOC,Q68965,Soleure,"```json { ""wikipedia_page"": ""Soleure"", ""wikidata_id"": ""Q68965"" } ```",18.823444366455078
+GDL-1818-03-13-a-i0005,4754,4771,général Koskiusko,Q191479,PER,Q191479,Tadeusz Kościuszko,"```json {""wikipedia_page"": ""Tadeusz Kościuszko"", ""wikidata_id"": ""Q191479""} ```",18.732025146484375
+GDL-1818-03-13-a-i0005,4787,4791,Bâle,Q78,LOC,Q78,Bâle,"```json {""wikipedia_page"":""Bâle"", ""wikidata_id"":""Q78""} ```",23.436359405517578
+GDL-1818-03-13-a-i0005,4823,4828,Suède,Q34,LOC,Q34,Suède,"```json {""wikipedia_page"":""Suède"", ""wikidata_id"":""Q34""} ```",14.041007995605469
+GDL-1818-03-13-a-i0005,5529,5537,Hambourg,Q1055,LOC,Q1055,Hambourg,"```json {""wikipedia_page"":""Hambourg"", ""wikidata_id"":""Q1055""} ```",18.4265079498291
+GDL-1818-03-13-a-i0005,5565,5571,Genève,Q71,LOC,Q71,Genève,"```json {""wikipedia_page"": ""Genève"", ""wikidata_id"": ""Q71""} ```",15.965242385864258
+GDL-1818-08-04-a-i0002,8,13,PARIS,Q90,LOC,Q90,Paris,"```json {""wikipedia_page"":""Paris"", ""wikidata_id"":""Q90""} ```",16.42728614807129
+GDL-1818-08-04-a-i0002,274,294,générai ChapecUlaine,NIL,PER,NIL,générai ChapecUlaine,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+GDL-1818-08-04-a-i0002,507,516,Bonaparte,Q517,PER,Q517,Napoléon Ier,"```json {""wikipedia_page"":""Napoléon Ier"", ""wikidata_id"":""Q517""} ```",21.214111328125
+GDL-1818-08-04-a-i0002,754,764,Dubouchage,Q3288135,PER,Q3288135,Marc Joseph de Gratet Dubouchage,"```json {""wikipedia_page"": ""Marc Joseph de Gratet Dubouchage"", ""wikidata_id"": ""Q3288135""} ```",22.513927459716797
+GDL-1818-08-04-a-i0002,779,787,Polignac,Q350613,PER,Q350613,Jules de Polignac,"```json {""wikipedia_page"":""Jules de Polignac"", ""wikidata_id"":""Q350613""} ```",22.38036346435547
+GDL-1818-08-04-a-i0002,877,888,-jH. Canuel,Q3484236,PER,Q3484236,Simon Canuel,"```json {""wikipedia_page"":""Simon Canuel"", ""wikidata_id"":""Q3484236""} ```",13.985579490661621
+GDL-1818-08-04-a-i0002,1255,1261,Calais,Q6454,LOC,Q6454,Calais,"```json {""wikipedia_page"":""Calais"", ""wikidata_id"":""Q6454""} ```",19.28028678894043
+GDL-1818-08-04-a-i0002,1327,1342,journal de Lyon,NIL,PROD,NIL,journal de Lyon,"```json { ""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL"" } ```",0
+GDL-1818-08-04-a-i0002,2448,2468,commune- de Marsannè,Q659785,LOC,Q659785,Marsanne,"```json {""wikipedia_page"":""Marsanne"", ""wikidata_id"":""Q659785""} ```",15.754278182983398
+GDL-1818-08-04-a-i0002,2470,2475,Drôme,Q3364,LOC,Q3364,Drôme,"```json {""wikipedia_page"":""Drôme"", ""wikidata_id"":""Q3364""} ```",26.737579345703125
+GDL-1818-08-04-a-i0002,3286,3294,St. Malo,Q163108,LOC,Q163108,Saint-Malo,"```json { ""wikipedia_page"": ""Saint-Malo"", ""wikidata_id"": ""Q163108"" } ```",20.181198120117188
+GDL-1818-08-04-a-i0002,3386,3392,Pétion,Q353464,PER,Q353464,Alexandre Pétion,"```json {""wikipedia_page"": ""Alexandre Pétion"", ""wikidata_id"": ""Q353464""} ```",10.85460376739502
+GDL-1818-08-04-a-i0002,3527,3539,Chris-'tophe,Q353458,PER,Q353458,Henri Christophe,"```json {""wikipedia_page"":""Henri Christophe"", ""wikidata_id"":""Q353458""} ```",9.95346736907959
+GDL-1818-08-04-a-i0002,3727,3732,Boyer,Q449421,PER,Q449421,Jean-Pierre Boyer,"```json {""wikipedia_page"":""Jean-Pierre Boyer"", ""wikidata_id"":""Q449421""} ```",13.609123229980469
+GDL-1818-08-04-a-i0002,3824,3829,Paris,Q90,LOC,Q90,Paris,"```json {""wikipedia_page"":""Paris"", ""wikidata_id"":""Q90""} ```",17.13456916809082
+GDL-1818-08-04-a-i0002,3948,3955,Pie Vil,Q124754,PER,Q124754,Pie VII,"```json {""wikipedia_page"":""Pie VII"", ""wikidata_id"":""Q124754""} ```",16.364938735961914
+GDL-1818-08-04-a-i0002,4097,4104,Aiaccio,Q40104,LOC,Q40104,Ajaccio,"```json {""wikipedia_page"": ""Ajaccio"", ""wikidata_id"": ""Q40104""} ```",20.538095474243164
+GDL-1818-08-04-a-i0002,4348,4354,France,Q142,LOC,Q142,France,"```json {""wikipedia_page"": ""France"", ""wikidata_id"": ""Q142""} ```",19.176359176635742
+GDL-1828-07-04-a-i0008,9,15,MADRID,Q2807,LOC,Q2807,Madrid,"```json {""wikipedia_page"":""Madrid"",""wikidata_id"":""Q2807""} ```",13.579484939575195
+GDL-1828-07-04-a-i0008,77,83,Oporto,Q36433,LOC,Q36433,Porto,"```json {""wikipedia_page"":""Porto"", ""wikidata_id"":""Q36433""} ```",15.220247268676758
+GDL-1828-07-04-a-i0008,169,179,don Miguel,Q310790,PER,Q310790,Michel Ier de Portugal,"```json { ""wikipedia_page"": ""Michel Ier de Portugal"", ""wikidata_id"": ""Q310790"" } ```",15.134769439697266
+GDL-1828-07-04-a-i0008,392,398,Oporto,Q36433,LOC,Q36433,Porto,"```json {""wikipedia_page"": ""Porto"", ""wikidata_id"": ""Q36433""} ```",17.118087768554688
+GDL-1828-07-04-a-i0008,406,413,Coïmbre,Q45412,LOC,Q45412,Coimbra,"```json { ""wikipedia_page"": ""Coimbra"", ""wikidata_id"": ""Q45412"" } ```",24.215421676635742
+GDL-1828-07-04-a-i0008,556,568,général Fons,NIL,PER,NIL,général Fons,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+GDL-1828-07-04-a-i0008,968,978,ddn Miguel,Q310790,PER,Q310790,Michel Ier de Portugal,"```json {""wikipedia_page"": ""Michel Ier de Portugal"", ""wikidata_id"": ""Q310790""} ```",14.167360305786133
+GDL-1828-07-04-a-i0008,1400,1406,FRANCE,Q142,LOC,Q142,France,"```json { ""wikipedia_page"": ""France"", ""wikidata_id"": ""Q142"" } ```",18.525012969970703
+GDL-1828-07-04-a-i0008,2606,2612,Suisse,Q39,LOC,Q39,Suisse,"```json { ""wikipedia_page"": ""Suisse"", ""wikidata_id"": ""Q39"" } ```",19.72646713256836
+GDL-1828-07-04-a-i0008,2890,2896,France,Q142,LOC,Q142,France,"```json {""wikipedia_page"":""France"", ""wikidata_id"":""Q142""} ```",19.518468856811523
+GDL-1828-07-04-a-i0008,2993,3004,M. de Conny,Q20926228,PER,Q20926228,Félix de Conny,"```json {""wikipedia_page"":""Félix de Conny"", ""wikidata_id"":""Q20926228""} ```",16.12626838684082
+GDL-1828-07-04-a-i0008,3602,3610,Helvétie,Q39,LOC,Q39,Suisse,"```json {""wikipedia_page"":""Suisse"", ""wikidata_id"":""Q39""} ```",19.5926513671875
+GDL-1828-07-04-a-i0008,4101,4110,MARSEILLE,Q23482,LOC,Q23482,Marseille,"```json {""wikipedia_page"":""Marseille"", ""wikidata_id"":""Q23482""} ```",20.377811431884766
+GDL-1828-07-04-a-i0008,4235,4242,Navarin,Q238440,LOC,Q238440,bataille de Navarin,"```json {""wikipedia_page"":""bataille de Navarin"", ""wikidata_id"":""Q238440""} ```",16.19606590270996
+GDL-1828-07-04-a-i0008,4454,4461,Biserte,Q189546,LOC,Q189546,Bizerte,"```json {""wikipedia_page"":""Bizerte"", ""wikidata_id"":""Q189546""} ```",21.878061294555664
+GDL-1828-07-04-a-i0008,4664,4680,M. Blanche .-nay,NIL,PER,NIL,M. Blanche .-nay,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+GDL-1838-05-15-a-i0002,52,61,deBelidah,Q216990,LOC,Q216990,Blida,"```json {""wikipedia_page"":""Blida"", ""wikidata_id"":""Q216990""} ```",16.945804595947266
+GDL-1838-05-15-a-i0002,139,153,maréchal Valée,Q1743317,PER,Q1743317,Sylvain Charles Valée,"```json {""wikipedia_page"":""Sylvain Charles Valée"", ""wikidata_id"":""Q1743317""} ```",23.884458541870117
+GDL-1838-05-15-a-i0002,221,228,Bélidah,Q216990,LOC,Q216990,Blida,"```json {""wikipedia_page"":""Blida"", ""wikidata_id"":""Q216990""} ```",22.4615421295166
+GDL-1838-05-15-a-i0002,562,569,Bélidah,Q216990,LOC,Q216990,Blida,"```json {""wikipedia_page"":""Blida"", ""wikidata_id"":""Q216990""} ```",22.10979461669922
+GDL-1838-05-15-a-i0002,969,989,plaine de la Melidja,NIL,LOC,NIL,plaine de la Melidja,"```json { ""wikipedia_page"": ""Plaine de la Melidja"", ""wikidata_id"": ""NIL"" } ```",0
+GDL-1848-07-04-a-i0001,1873,1880,Argovie,Q11972,LOC,Q11972,canton d'Argovie,"```json {""wikipedia_page"": ""canton d'Argovie"", ""wikidata_id"": ""Q11972""} ```",23.93759536743164
+GDL-1848-07-04-a-i0001,2127,2144,conseil des Etals,Q609037,ORG,Q609037,Conseil des États,"```json {""wikipedia_page"":""Conseil des États"", ""wikidata_id"":""Q609037""} ```",14.642696380615234
+GDL-1848-07-04-a-i0001,2577,2583,Europe,Q46,LOC,Q46,Europe,"```json {""wikipedia_page"":""Europe"", ""wikidata_id"":""Q46""} ```",21.51877784729004
+GDL-1848-07-04-a-i0001,3530,3536,Genève,Q11917,LOC,Q11917,canton de Genève,"```json {""wikipedia_page"":""canton de Genève"", ""wikidata_id"":""Q11917""} ```",17.605390548706055
+GDL-1848-07-04-a-i0001,3668,3675,Grisons,Q11925,LOC,Q11925,canton des Grisons,"```json { ""wikipedia_page"": ""canton des Grisons"", ""wikidata_id"": ""Q11925"" } ```",18.799856185913086
+GDL-1848-07-04-a-i0001,3777,3791,canton de Vaud,Q12771,LOC,Q12771,canton de Vaud,"```json {""wikipedia_page"":""canton de Vaud"", ""wikidata_id"":""Q12771""} ```",27.503795623779297
+GDL-1848-07-04-a-i0001,4084,4094,Sonderbund,Q672595,ORG,Q672595,Sonderbund,"```json {""wikipedia_page"":""Sonderbund"", ""wikidata_id"":""Q672595""} ```",20.393321990966797
+GDL-1848-07-04-a-i0001,4166,4172,Suisse,Q39,LOC,Q39,Suisse,"```json { ""wikipedia_page"": ""Suisse"", ""wikidata_id"": ""Q39"" } ```",19.24651336669922
+GDL-1848-07-04-a-i0001,4333,4342,Thurgovie,Q12713,LOC,Q12713,canton de Thurgovie,"```json {""wikipedia_page"":""canton de Thurgovie"", ""wikidata_id"":""Q12713""} ```",21.12940788269043
+GDL-1848-07-04-a-i0001,4436,4441,Berne,Q11911,ORG,Q11911,canton de Berne,"```json {""wikipedia_page"": ""canton de Berne"", ""wikidata_id"": ""Q11911""} ```",21.530345916748047
+GDL-1848-07-04-a-i0001,4724,4730,Zurich,Q11943,LOC,Q11943,canton de Zurich,"```json {""wikipedia_page"":""canton de Zurich"", ""wikidata_id"":""Q11943""} ```",21.82878303527832
+GDL-1848-07-04-a-i0001,4732,4739,Solaire,Q11929,LOC,Q11929,canton de Soleure,"```json {""wikipedia_page"":""canton de Soleure"", ""wikidata_id"":""Q11929""} ```",13.665077209472656
+GDL-1848-07-04-a-i0001,4741,4753,Schaff Iwtme,Q12697,LOC,Q12697,canton de Schaffhouse,"```json {""wikipedia_page"":""canton de Schaffhouse"", ""wikidata_id"":""Q12697""} ```",16.544391632080078
+GDL-1848-07-04-a-i0001,4755,4762,St-Gall,Q12746,LOC,Q12746,canton de Saint-Gall,"```json {""wikipedia_page"":""canton de Saint-Gall"", ""wikidata_id"":""Q12746""} ```",22.66264533996582
+GDL-1848-07-04-a-i0001,4764,4771,Argovie,Q11972,LOC,Q11972,canton d'Argovie,"```json { ""wikipedia_page"": ""canton d'Argovie"", ""wikidata_id"": ""Q11972"" } ```",22.982757568359375
+GDL-1848-07-04-a-i0001,4773,4779,Valais,Q834,LOC,Q834,canton du Valais,"```json {""wikipedia_page"":""canton du Valais"", ""wikidata_id"":""Q834""} ```",21.229883193969727
+GDL-1848-07-04-a-i0001,4790,4799,Thurgovie,Q12713,LOC,Q12713,canton de Thurgovie,"```json { ""wikipedia_page"": ""canton de Thurgovie"", ""wikidata_id"": ""Q12713"" } ```",23.923629760742188
+GDL-1848-07-04-a-i0001,4801,4809,Gri sons,Q11925,LOC,Q11925,canton des Grisons,"```json {""wikipedia_page"": ""canton des Grisons"", ""wikidata_id"": ""Q11925""} ```",18.776296615600586
+GDL-1848-07-04-a-i0001,4811,4824,Baie campagne,Q12146,LOC,Q12146,canton de Bâle-Campagne,"```json {""wikipedia_page"":""canton de Bâle-Campagne"", ""wikidata_id"":""Q12146""} ```",13.569718360900879
+GDL-1848-07-04-a-i0001,4826,4834,Fribourg,Q12640,LOC,Q12640,canton de Fribourg,"```json {""wikipedia_page"":""canton de Fribourg"", ""wikidata_id"":""Q12640""} ```",24.092350006103516
+GDL-1848-07-04-a-i0001,4836,4842,Glaris,Q11922,LOC,Q11922,canton de Glaris,"```json {""wikipedia_page"":""canton de Glaris"", ""wikidata_id"":""Q11922""} ```",19.85442543029785
+GDL-1848-07-04-a-i0001,4844,4850,Luceme,Q12121,LOC,Q12121,canton de Lucerne,"```json {""wikipedia_page"": ""canton de Lucerne"", ""wikidata_id"": ""Q12121""} ```",14.859906196594238
+GDL-1848-07-04-a-i0001,4854,4857,Zug,Q11933,LOC,Q11933,canton de Zoug,"```json {""wikipedia_page"":""canton de Zoug"", ""wikidata_id"":""Q11933""} ```",21.281137466430664
+GDL-1848-07-04-a-i0001,4859,4868,Neuchâlel,Q12738,LOC,Q12738,canton de Neuchâtel,"```json {""wikipedia_page"":""canton de Neuchâtel"", ""wikidata_id"":""Q12738""} ```",24.095317840576172
+GDL-1848-07-04-a-i0001,4884,4888,Vaud,Q12771,LOC,Q12771,canton de Vaud,"```json {""wikipedia_page"":""canton de Vaud"", ""wikidata_id"":""Q12771""} ```",21.830068588256836
+GDL-1848-07-04-a-i0001,4913,4920,Schwylz,Q12433,LOC,Q12433,canton de Schwytz,"```json {""wikipedia_page"":""canton de Schwytz"", ""wikidata_id"":""Q12433""} ```",19.350990295410156
+GDL-1848-07-04-a-i0001,4949,4952,Uri,Q12404,LOC,Q12404,canton d'Uri,"```json {""wikipedia_page"":""canton d'Uri"", ""wikidata_id"":""Q12404""} ```",19.84316635131836
+GDL-1848-07-04-a-i0001,4954,4965,Unlerwalden,Q214069,LOC,Q214069,Canton d'Unterwald,"```json {""wikipedia_page"": ""Canton d'Unterwald"", ""wikidata_id"": ""Q214069""} ```",16.638818740844727
+GDL-1848-07-04-a-i0001,4969,4988,Appenzell-intérieur,Q12094,LOC,Q12094,canton d'Appenzell Rhodes-Intérieures,"```json {""wikipedia_page"":""canton d'Appenzell Rhodes-Intérieures"", ""wikidata_id"":""Q12094""} ```",25.424104690551758
+GDL-1848-07-04-a-i0001,5180,5185,Berne,Q11911,LOC,Q11911,canton de Berne,"```json { ""wikipedia_page"": ""canton de Berne"", ""wikidata_id"": ""Q11911"" } ```",24.79004669189453
+GDL-1848-07-04-a-i0001,5254,5264,Bàle-ville,Q12172,LOC,Q12172,canton de Bâle-Ville,"```json {""wikipedia_page"": ""canton de Bâle-Ville"", ""wikidata_id"": ""Q12172""} ```",19.871366500854492
+GDL-1848-07-04-a-i0001,5266,5271,Berne,Q11911,LOC,Q11911,canton de Berne,"```json {""wikipedia_page"":""canton de Berne"", ""wikidata_id"":""Q11911""} ```",19.87088966369629
+GDL-1848-07-04-a-i0001,5275,5281,Genève,Q11917,LOC,Q11917,canton de Genève,"```json {""wikipedia_page"":""canton de Genève"", ""wikidata_id"":""Q11917""} ```",17.53312873840332
+GDL-1848-07-04-a-i0001,5283,5288,Berne,Q11911,LOC,Q11911,canton de Berne,"```json {""wikipedia_page"":""canton de Berne"", ""wikidata_id"":""Q11911""} ```",20.800209045410156
+GDL-1848-07-04-a-i0001,5615,5621,Europe,Q46,LOC,Q46,Europe,"```json {""wikipedia_page"":""Europe"", ""wikidata_id"":""Q46""} ```",19.960838317871094
+GDL-1848-07-04-a-i0001,5666,5672,Suisse,Q39,LOC,Q39,Suisse,"```json { ""wikipedia_page"": ""Suisse"", ""wikidata_id"": ""Q39"" } ```",20.572437286376953
+GDL-1848-07-04-a-i0001,5931,5938,GRISONS,Q11925,LOC,Q11925,canton des Grisons,"```json {""wikipedia_page"":""canton des Grisons"", ""wikidata_id"":""Q11925""} ```",15.217850685119629
+GDL-1848-07-04-a-i0001,6491,6501,Luinbardie,Q1210,LOC,Q1210,Lombardie,"```json {""wikipedia_page"":""Lombardie"", ""wikidata_id"":""Q1210""} ```",14.177197456359863
+GDL-1848-07-04-a-i0001,7460,7464,Rhin,Q584,LOC,Q584,Rhin,"```json {""wikipedia_page"":""Rhin"", ""wikidata_id"":""Q584""} ```",21.99486541748047
+GDL-1848-07-04-a-i0001,7701,7706,BERNE,Q11911,LOC,Q11911,canton de Berne,"```json {""wikipedia_page"":""canton de Berne"", ""wikidata_id"":""Q11911""} ```",22.022260665893555
+GDL-1848-07-04-a-i0001,7872,7896,MM. 'Ochsenbeinet Tiller,NIL,PER,NIL,MM. 'Ochsenbeinet Tiller,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+GDL-1848-07-04-a-i0001,8050,8056,Suisse,Q39,LOC,Q39,Suisse,"```json { ""wikipedia_page"": ""Suisse"", ""wikidata_id"": ""Q39"" } ```",22.369667053222656
+GDL-1848-07-04-a-i0001,8155,8159,Saxe,Q153015,LOC,Q153015,royaume de Saxe,"```json { ""wikipedia_page"": ""royaume de Saxe"", ""wikidata_id"": ""Q153015"" } ```",18.190723419189453
+GDL-1848-07-04-a-i0001,9283,9290,JNeyruz,Q66466,LOC,Q66466,Neyruz,"```json {""wikipedia_page"": ""Neyruz"", ""wikidata_id"": ""Q66466""} ```",11.423816680908203
+GDL-1848-07-04-a-i0001,9717,9739,MM. le docleur Bussard,Q18683241,PER,Q18683241,Jean-François-Marcellin Bussard,"```json {""wikipedia_page"":""Jean-François-Marcellin Bussard"", ""wikidata_id"":""Q18683241""} ```",14.369217872619629
+GDL-1848-07-04-a-i0001,9898,9912,conseil d'Etat,Q2717001,ORG,Q2717001,Conseil d'État du canton de Fribourg,"```json {""wikipedia_page"":""Conseil d'État du canton de Fribourg"", ""wikidata_id"":""Q2717001""} ```",14.632669448852539
+GDL-1848-07-04-a-i0001,9961,9978,M. Abram Fasnacht,NIL,PER,NIL,M. Abram Fasnacht,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+GDL-1848-07-04-a-i0001,10037,10046,M. Thorin,Q15663331,PER,Q15663331,Alexandre Thorin,"```json {""wikipedia_page"":""Alexandre Thorin"", ""wikidata_id"":""Q15663331""} ```",14.351101875305176
+GDL-1848-07-04-a-i0001,10223,10245,district de la St-Gine,Q645585,LOC,Q645585,district de la Singine,"```json { ""wikipedia_page"": ""District de la Singine"", ""wikidata_id"": ""Q645585"" } ```",12.453654289245605
+GDL-1848-07-04-a-i0001,11271,11312,"M. Fallot, imprimeur du Journal de Genève",NIL,PER,NIL,"M. Fallot, imprimeur du Journal de Genève","```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+GDL-1848-07-04-a-i0001,11318,11362,"M. Jaquemot, imprimeur dé la Voix Catholique",NIL,PER,NIL,"M. Jaquemot, imprimeur dé la Voix Catholique","```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+GDL-1848-07-04-a-i0001,11546,11556,Sonderbund,Q672595,ORG,Q672595,Sonderbund,"```json {""wikipedia_page"": ""Sonderbund"", ""wikidata_id"": ""Q672595""} ```",21.17871856689453
+GDL-1848-07-04-a-i0001,11617,11623,Vienne,Q1741,LOC,Q1741,Vienne,"```json {""wikipedia_page"":""Vienne"", ""wikidata_id"":""Q1741""} ```",21.320714950561523
+GDL-1848-07-04-a-i0001,11697,11703,Glaris,Q11922,LOC,Q11922,canton de Glaris,"```json {""wikipedia_page"":""canton de Glaris"", ""wikidata_id"":""Q11922""} ```",20.234533309936523
+GDL-1848-07-04-a-i0001,11850,11856,Vienne,Q1741,LOC,Q1741,Vienne,"```json {""wikipedia_page"":""Vienne"", ""wikidata_id"":""Q1741""} ```",17.26367950439453
+GDL-1848-07-04-a-i0001,11862,11868,Zurich,Q11943,LOC,Q11943,canton de Zurich,"```json {""wikipedia_page"":""canton de Zurich"", ""wikidata_id"":""Q11943""} ```",19.273880004882812
+GDL-1848-07-04-a-i0001,11952,11959,Lucerne,Q12121,LOC,Q12121,canton de Lucerne,"```json {""wikipedia_page"": ""canton de Lucerne"", ""wikidata_id"": ""Q12121""} ```",19.392799377441406
+GDL-1848-07-04-a-i0001,12090,12097,Schwylz,Q12433,LOC,Q12433,canton de Schwytz,"```json {""wikipedia_page"":""canton de Schwytz"", ""wikidata_id"":""Q12433""} ```",15.957240104675293
+GDL-1848-07-04-a-i0001,12343,12350,Argovie,Q11972,LOC,Q11972,canton d'Argovie,"```json {""wikipedia_page"":""canton d'Argovie"", ""wikidata_id"":""Q11972""} ```",16.45529556274414
+GDL-1848-07-04-a-i0001,12430,12515,"Henri Zschokke, cet aimable et infatigable écrivain, l'ami et l'instituteur du peuple",Q66207,PER,Q66207,Johann Heinrich Daniel Zschokke,"```json {""wikipedia_page"":""Johann Heinrich Daniel Zschokke"", ""wikidata_id"":""Q66207""} ```",16.0826358795166
+GDL-1848-07-04-a-i0001,12541,12545,Arau,Q14274,LOC,Q14274,Aarau,"```json { ""wikipedia_page"": ""Aarau"", ""wikidata_id"": ""Q14274"" } ```",18.28723907470703
+GDL-1848-07-04-a-i0001,12612,12626,conseil d'Etat,Q662792,ORG,Q662792,Conseil d'État du canton de Vaud,"```json { ""wikipedia_page"": ""Conseil d'État du canton de Vaud"", ""wikidata_id"": ""Q662792"" } ```",9.476481437683105
+GDL-1848-07-04-a-i0001,12704,12715,M. Fornerod,Q116978,PER,Q116978,Constant Fornerod,"```json {""wikipedia_page"":""Constant Fornerod"", ""wikidata_id"":""Q116978""} ```",17.802690505981445
+GDL-1848-07-04-a-i0001,13169,13175,France,Q142,LOC,Q142,France,"```json {""wikipedia_page"":""France"", ""wikidata_id"":""Q142""} ```",17.210206985473633
+GDL-1848-07-04-a-i0001,13885,13891,France,Q142,LOC,Q142,France,"```json {""wikipedia_page"":""France"", ""wikidata_id"":""Q142""} ```",16.552698135375977
+GDL-1848-10-03-a-i0001,372,378,Zurich,Q11943,LOC,Q11943,canton de Zurich,"```json {""wikipedia_page"":""canton de Zurich"", ""wikidata_id"":""Q11943""} ```",18.08435821533203
+GDL-1848-10-03-a-i0001,380,390,Bàle-ville,Q12172,LOC,Q12172,canton de Bâle-Ville,"```json {""wikipedia_page"":""canton de Bâle-Ville"", ""wikidata_id"":""Q12172""} ```",11.917847633361816
+GDL-1848-10-03-a-i0001,788,800,Trachselwald,Q661104,LOC,Q661104,district de Trachselwald,"```json {""wikipedia_page"":""district de Trachselwald"", ""wikidata_id"":""Q661104""} ```",16.568227767944336
+GDL-1848-10-03-a-i0001,818,829,Konolfingen,Q661300,LOC,Q661300,district de Konolfingen,"```json {""wikipedia_page"":""district de Konolfingen"", ""wikidata_id"":""Q661300""} ```",18.1752872467041
+GDL-1848-10-03-a-i0001,902,924,conseillers Oehsenbein,Q558011,PER,Q558011,Ulrich Ochsenbein,"```json {""wikipedia_page"": ""Ulrich Ochsenbein"", ""wikidata_id"": ""Q558011""} ```",9.526226043701172
+GDL-1848-10-03-a-i0001,1042,1049,Aarberg,Q64113,LOC,Q64113,Aarberg,"```json {""wikipedia_page"":""Aarberg"", ""wikidata_id"":""Q64113""} ```",28.74631118774414
+GDL-1848-10-03-a-i0001,1128,1133,Berne,Q70,LOC,Q70,Berne,"```json {""wikipedia_page"":""Berne"", ""wikidata_id"":""Q70""} ```",28.717924118041992
+GDL-1848-10-03-a-i0001,1280,1297,conseil des Etats,Q609037,ORG,Q609037,Conseil des États,"```json {""wikipedia_page"":""Conseil des États"", ""wikidata_id"":""Q609037""} ```",19.264921188354492
+GDL-1848-10-03-a-i0001,1327,1342,conseil fédéral,Q30917,ORG,Q30917,Conseil fédéral,"```json {""wikipedia_page"":""Conseil fédéral"", ""wikidata_id"":""Q30917""} ```",20.400747299194336
+GDL-1848-10-03-a-i0001,1386,1400,bataillon Benz,NIL,ORG,NIL,bataillon Benz,"```json {""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL""} ```",0
+GDL-1848-10-03-a-i0001,1419,1433,bataillon Fiih,NIL,ORG,NIL,bataillon Fiih,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+GDL-1848-10-03-a-i0001,1438,1445,Sl-Gall,Q12746,LOC,Q12746,canton de Saint-Gall,"```json {""wikipedia_page"": ""canton de Saint-Gall"", ""wikidata_id"": ""Q12746""} ```",17.632736206054688
+GDL-1848-10-03-a-i0001,1582,1592,Bellinzone,Q64044,LOC,Q64044,Bellinzone,"```json {""wikipedia_page"":""Bellinzone"", ""wikidata_id"":""Q64044""} ```",23.313432693481445
+GDL-1848-10-03-a-i0001,1647,1654,Schwyiz,Q12433,LOC,Q12433,canton de Schwytz,"```json {""wikipedia_page"": ""canton de Schwytz"", ""wikidata_id"": ""Q12433""} ```",14.001640319824219
+GDL-1848-10-03-a-i0001,1759,1767,Inspruck,Q1735,LOC,Q1735,Innsbruck,"```json {""wikipedia_page"":""Innsbruck"", ""wikidata_id"":""Q1735""} ```",20.07292938232422
+GDL-1848-10-03-a-i0001,1850,1857,Messine,Q13666,LOC,Q13666,Messine,"```json {""wikipedia_page"":""Messine"", ""wikidata_id"":""Q13666""} ```",24.82447052001953
+GDL-1848-10-03-a-i0001,1859,1872,M. Gonzenbacb,NIL,PER,NIL,M. Gonzenbacb,"```json { ""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL"" } ```",0
+GDL-1848-10-03-a-i0001,2022,2029,Messine,Q13666,LOC,Q13666,Messine,"```json {""wikipedia_page"":""Messine"", ""wikidata_id"":""Q13666""} ```",23.59044075012207
+GDL-1848-10-03-a-i0001,3324,3338,faubourg Zaera,NIL,LOC,NIL,faubourg Zaera,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+GDL-1848-10-03-a-i0001,3490,3506,ville de Messine,Q13666,LOC,Q13666,Messine,"```json {""wikipedia_page"":""Messine"", ""wikidata_id"":""Q13666""} ```",18.33403778076172
+GDL-1848-10-03-a-i0001,3658,3671,M. Gonzenbacb,NIL,PER,NIL,M. Gonzenbacb,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+GDL-1848-10-03-a-i0001,3918,3930,MM. Colondre,NIL,PER,NIL,MM. Colondre,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+GDL-1848-10-03-a-i0001,3990,4009,M. Valenlin Schaber,NIL,PER,NIL,M. Valenlin Schaber,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+GDL-1848-10-03-a-i0001,4125,4144,MM. A. Diernwachter,NIL,PER,NIL,MM. A. Diernwachter,"```json {""wikipedia_page"": """", ""wikidata_id"": ""NIL""} ```",0
+GDL-1848-10-03-a-i0001,4148,4190,"Henri lirunner, possesseurs d'une fabrique",NIL,PER,NIL,"Henri lirunner, possesseurs d'une fabrique","```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+GDL-1848-10-03-a-i0001,4253,4270,M. Jacques Signer,NIL,PER,NIL,M. Jacques Signer,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+GDL-1848-10-03-a-i0001,4311,4327,M. Jacques Ruegg,NIL,PER,NIL,M. Jacques Ruegg,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+GDL-1848-10-03-a-i0001,4638,4643,Berne,Q11911,LOC,Q11911,canton de Berne,"```json {""wikipedia_page"":""canton de Berne"", ""wikidata_id"":""Q11911""} ```",21.8791561126709
+GDL-1848-10-03-a-i0001,4759,4765,Suisse,Q39,LOC,Q39,Suisse,"```json {""wikipedia_page"": ""Suisse"", ""wikidata_id"": ""Q39""} ```",16.75357437133789
+GDL-1848-10-03-a-i0001,4925,4931,Suisse,Q39,LOC,Q39,Suisse,"```json {""wikipedia_page"":""Suisse"", ""wikidata_id"":""Q39""} ```",19.161113739013672
+GDL-1848-10-03-a-i0001,5517,5523,Suisse,Q39,LOC,Q39,Suisse,"```json {""wikipedia_page"":""Suisse"", ""wikidata_id"":""Q39""} ```",17.24568748474121
+GDL-1848-10-03-a-i0001,5562,5569,Cologne,Q365,LOC,Q365,Cologne,"```json {""wikipedia_page"":""Cologne"", ""wikidata_id"":""Q365""} ```",26.466739654541016
+GDL-1848-10-03-a-i0001,5656,5661,Berne,Q70,LOC,Q70,Berne,"```json {""wikipedia_page"":""Berne"", ""wikidata_id"":""Q70""} ```",27.692712783813477
+GDL-1848-10-03-a-i0001,5812,5820,Radelzki,Q153500,PER,Q153500,Joseph Radetzky,"```json {""wikipedia_page"":""Joseph Radetzky"", ""wikidata_id"":""Q153500""} ```",20.9611759185791
+GDL-1848-10-03-a-i0001,6370,6376,Vienne,Q1741,LOC,Q1741,Vienne,"```json {""wikipedia_page"":""Vienne"", ""wikidata_id"":""Q1741""} ```",21.194944381713867
+GDL-1848-10-03-a-i0001,7311,7321,Ochsenbein,Q558011,PER,Q558011,Ulrich Ochsenbein,"```json { ""wikipedia_page"": ""Ulrich Ochsenbein"", ""wikidata_id"": ""Q558011"" } ```",20.113889694213867
+GDL-1848-10-03-a-i0001,7355,7367,D Wyttenbach,NIL,PER,NIL,D Wyttenbach,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+GDL-1848-10-03-a-i0001,7973,7977,Jura,Q12755,LOC,Q12755,canton du Jura,"```json {""wikipedia_page"":""canton du Jura"", ""wikidata_id"":""Q12755""} ```",19.333473205566406
+GDL-1848-10-03-a-i0001,8217,8303,"M. Migy, juge d'appel, ancien commissaire fédéral dans le canton d'Uri et de Neuchàtel",Q2061299,PER,Q2061299,Paul Migy,"```json { ""wikipedia_page"": ""Paul Migy"", ""wikidata_id"": ""Q2061299"" } ```",14.74843692779541
+GDL-1858-07-12-a-i0002,75,80,Paris,Q90,LOC,Q90,Paris,"```json {""wikipedia_page"":""Paris"", ""wikidata_id"":""Q90""} ```",21.025955200195312
+GDL-1858-07-12-a-i0002,254,264,Cher bourg,Q3667188,LOC,Q3667188,Cherbourg,"```json { ""wikipedia_page"": ""Cherbourg"", ""wikidata_id"": ""Q3667188"" } ```",21.09050178527832
+GDL-1858-07-12-a-i0002,270,278,Moniteur,Q1410997,PROD,Q1410997,Le Moniteur universel,"```json {""wikipedia_page"": ""Le Moniteur universel"", ""wikidata_id"": ""Q1410997""} ```",14.911361694335938
+GDL-1858-07-12-a-i0002,356,370,reine Victoria,Q9439,PER,Q9439,Victoria,"```json {""wikipedia_page"":""Victoria"", ""wikidata_id"":""Q9439""} ```",23.695098876953125
+GDL-1858-07-12-a-i0002,428,442,M. de Persigny,Q3174556,PER,Q3174556,Victor de Persigny,"```json {""wikipedia_page"":""Victor de Persigny"", ""wikidata_id"":""Q3174556""} ```",18.147907257080078
+GDL-1858-07-12-a-i0002,552,557,Paris,Q90,LOC,Q90,Paris,"```json {""wikipedia_page"":""Paris"", ""wikidata_id"":""Q90""} ```",20.198640823364258
+GDL-1858-07-12-a-i0002,605,615,Angleterre,Q21,LOC,Q21,Angleterre,"```json { ""wikipedia_page"": ""Angleterre"", ""wikidata_id"": ""Q21"" } ```",16.966930389404297
+GDL-1858-07-12-a-i0002,654,662,Moniteur,Q1410997,PROD,Q1410997,Le Moniteur universel,"```json {""wikipedia_page"":""Le Moniteur universel"", ""wikidata_id"":""Q1410997""} ```",15.518019676208496
+GDL-1858-07-12-a-i0002,722,728,France,Q142,LOC,Q142,France,"```json {""wikipedia_page"": ""France"", ""wikidata_id"": ""Q142""} ```",20.26917266845703
+GDL-1858-07-12-a-i0002,1435,1449,reine Victoria,Q9439,PER,Q9439,Victoria,"```json {""wikipedia_page"":""Victoria"", ""wikidata_id"":""Q9439""} ```",26.058849334716797
+GDL-1858-07-12-a-i0002,1501,1512,M. Disraeli,Q82006,PER,Q82006,Benjamin Disraeli,"```json {""wikipedia_page"":""Benjamin Disraeli"", ""wikidata_id"":""Q82006""} ```",19.69552993774414
+GDL-1858-07-12-a-i0002,1632,1654,M le comte de Walewski,Q435375,PER,Q435375,Alexandre Colonna Walewski,"```json {""wikipedia_page"":""Alexandre Colonna Walewski"", ""wikidata_id"":""Q435375""} ```",11.204465866088867
+GDL-1858-07-12-a-i0002,2117,2135,Indépendance belge,Q25381777,PROD,Q25381777,L'Indépendance belge,"```json { ""wikipedia_page"": ""L'Indépendance belge"", ""wikidata_id"": ""Q25381777"" } ```",16.4307918548584
+GDL-1858-07-12-a-i0002,3041,3056,prince Napoléon,Q7721,PER,Q7721,Napoléon III,"```json {""wikipedia_page"":""Napoléon III"", ""wikidata_id"":""Q7721""} ```",19.447574615478516
+GDL-1858-07-12-a-i0002,3116,3123,Limoges,Q45656,LOC,Q45656,Limoges,"```json {""wikipedia_page"":""Limoges"", ""wikidata_id"":""Q45656""} ```",24.26043701171875
+GDL-1858-07-12-a-i0002,3162,3170,Bordeaux,Q1479,LOC,Q1479,Bordeaux,"```json {""wikipedia_page"":""Bordeaux"", ""wikidata_id"":""Q1479""} ```",23.466007232666016
+GDL-1858-07-12-a-i0002,3812,3843,église en ruines de Sainte-Anne,Q1551966,LOC,Q1551966,église Sainte-Anne de Jérusalem,"```json {""wikipedia_page"":""église Sainte-Anne de Jérusalem"", ""wikidata_id"":""Q1551966""} ```",22.116653442382812
+GDL-1858-07-12-a-i0002,3847,3856,Jérusalem,Q1218,LOC,Q1218,Jérusalem,"```json {""wikipedia_page"":""Jérusalem"", ""wikidata_id"":""Q1218""} ```",21.767784118652344
+GDL-1858-07-12-a-i0002,3988,3993,Paris,Q90,LOC,Q90,Paris,"```json {""wikipedia_page"":""Paris"", ""wikidata_id"":""Q90""} ```",23.242496490478516
+GDL-1858-07-12-a-i0002,4127,4169,"M. de Montigny, consul français à Shanghaï",Q2960657,PER,Q2960657,Charles de Montigny,"```json { ""wikipedia_page"": ""Charles de Montigny"", ""wikidata_id"": ""Q2960657"" } ```",20.021320343017578
+GDL-1858-07-12-a-i0002,4226,4232,Simoda,Q653402,LOC,Q653402,Shimoda,"```json { ""wikipedia_page"": ""Shimoda"", ""wikidata_id"": ""Q653402"" } ```",18.500198364257812
+GDL-1858-07-12-a-i0002,4242,4247,Japon,Q17,LOC,Q17,Japon,"```json {""wikipedia_page"":""Japon"", ""wikidata_id"":""Q17""} ```",18.7637939453125
+GDL-1858-07-12-a-i0002,4252,4267,Théâtre-lyrique,Q2601319,ORG,Q2601319,Théâtre-Lyrique,"```json {""wikipedia_page"": ""Théâtre-Lyrique"", ""wikidata_id"": ""Q2601319""} ```",20.13188362121582
+GDL-1858-07-12-a-i0002,4282,4299,M. Van-den-Heusel,NIL,PER,NIL,M. Van-den-Heusel,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+GDL-1858-07-12-a-i0002,4373,4393,Mme Miolhan-Carvalbo,Q1630239,PER,Q1630239,Caroline Miolan-Carvalho,"```json {""wikipedia_page"":""Caroline Miolan-Carvalho"", ""wikidata_id"":""Q1630239""} ```",20.718833923339844
+GDL-1858-07-12-a-i0002,4463,4471,Moniteur,Q1410997,PROD,Q1410997,Le Moniteur universel,"```json {""wikipedia_page"":""Le Moniteur universel"",""wikidata_id"":""Q1410997""} ```",14.675159454345703
+GDL-1858-07-12-a-i0002,4830,4841,M. Delangle,Q329134,PER,Q329134,Claude Alphonse Delangle,"```json {""wikipedia_page"":""Claude Alphonse Delangle"", ""wikidata_id"":""Q329134""} ```",19.535226821899414
+GDL-1868-10-24-a-i0010,65,70,Paris,Q90,LOC,Q90,Paris,"```json {""wikipedia_page"":""Paris"", ""wikidata_id"":""Q90""} ```",21.598464965820312
+GDL-1868-10-24-a-i0010,135,148,maréchal Niel,Q115701,PER,Q115701,Adolphe Niel,"```json {""wikipedia_page"":""Adolphe Niel"", ""wikidata_id"":""Q115701""} ```",25.19887924194336
+GDL-1868-10-24-a-i0010,221,229,Biarritz,Q132790,LOC,Q132790,Biarritz,"```json {""wikipedia_page"":""Biarritz"", ""wikidata_id"":""Q132790""} ```",25.27704620361328
+GDL-1868-10-24-a-i0010,476,489,maréchal Niel,Q115701,PER,Q115701,Adolphe Niel,"```json { ""wikipedia_page"": ""Adolphe Niel"", ""wikidata_id"": ""Q115701"" } ```",25.15833282470703
+GDL-1868-10-24-a-i0010,1236,1249,maréchal Niel,Q115701,PER,Q115701,Adolphe Niel,"```json {""wikipedia_page"":""Adolphe Niel"", ""wikidata_id"":""Q115701""} ```",17.153196334838867
+GDL-1868-10-24-a-i0010,2121,2136,Constitutionnel,Q3221742,PROD,Q3221742,Le Constitutionnel,"```json {""wikipedia_page"":""Le Constitutionnel"", ""wikidata_id"":""Q3221742""} ```",12.922334671020508
+GDL-1868-10-24-a-i0010,2366,2381,Conslitutionnel,Q3221742,PROD,Q3221742,Le Constitutionnel,"```json {""wikipedia_page"":""Le Constitutionnel"", ""wikidata_id"":""Q3221742""} ```",14.137287139892578
+GDL-1868-10-24-a-i0010,2449,2457,Biarritz,Q132790,LOC,Q132790,Biarritz,"```json {""wikipedia_page"":""Biarritz"", ""wikidata_id"":""Q132790""} ```",22.138498306274414
+GDL-1868-10-24-a-i0010,2621,2626,Paris,Q90,LOC,Q90,Paris,"```json {""wikipedia_page"":""Paris"", ""wikidata_id"":""Q90""} ```",26.040950775146484
+GDL-1868-10-24-a-i0010,2735,2740,Paris,Q90,LOC,Q90,Paris,"```json {""wikipedia_page"":""Paris"", ""wikidata_id"":""Q90""} ```",28.146774291992188
+GDL-1868-10-24-a-i0010,2808,2828,cimetière Montmartre,Q746647,LOC,Q746647,cimetière de Montmartre,"```json {""wikipedia_page"":""cimetière de Montmartre"", ""wikidata_id"":""Q746647""} ```",39.49311447143555
+GDL-1868-10-24-a-i0010,2854,2871,général Cavaignac,Q379702,PER,Q379702,Eugène Cavaignac,"```json {""wikipedia_page"": ""Eugène Cavaignac"", ""wikidata_id"": ""Q379702""} ```",29.70932388305664
+GDL-1868-10-24-a-i0010,3183,3191,Lanterne,Q3209961,PROD,Q3209961,La Lanterne,"```json {""wikipedia_page"":""La Lanterne"", ""wikidata_id"":""Q3209961""} ```",14.793608665466309
+GDL-1868-10-24-a-i0010,3196,3214,M. Henri Rochefort,Q642060,PER,Q642060,Henri Rochefort,"```json {""wikipedia_page"":""Henri Rochefort"", ""wikidata_id"":""Q642060""} ```",25.154525756835938
+GDL-1868-10-24-a-i0010,3364,3375,M. Walewski,Q435375,PER,Q435375,Alexandre Colonna Walewski,"```json {""wikipedia_page"":""Alexandre Colonna Walewski"", ""wikidata_id"":""Q435375""} ```",14.967931747436523
+GDL-1868-10-24-a-i0010,3819,3828,M. Sarcey,Q1384953,PER,Q1384953,Francisque Sarcey,"```json {""wikipedia_page"":""Francisque Sarcey"", ""wikidata_id"":""Q1384953""} ```",20.932632446289062
+GDL-1868-10-24-a-i0010,3919,3935,Journal de Paris,Q3186842,PROD,Q3186842,Journal de Paris,"```json {""wikipedia_page"":""Journal de Paris"", ""wikidata_id"":""Q3186842""} ```",34.631202697753906
+GDL-1868-10-24-a-i0010,4055,4060,Paris,Q90,LOC,Q90,Paris,"```json {""wikipedia_page"":""Paris"", ""wikidata_id"":""Q90""} ```",19.109058380126953
+GDL-1868-10-24-a-i0010,4572,4577,Paris,Q90,LOC,Q90,Paris,"```json {""wikipedia_page"":""Paris"", ""wikidata_id"":""Q90""} ```",16.756879806518555
+GDL-1868-10-24-a-i0010,5761,5769,Moniteur,Q1410997,PROD,Q1410997,Le Moniteur universel,"```json {""wikipedia_page"":""Le Moniteur universel"", ""wikidata_id"":""Q1410997""} ```",14.320877075195312
+GDL-1868-10-24-a-i0010,5825,5847,Bulletin international,NIL,PROD,NIL,Bulletin international,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+GDL-1868-10-24-a-i0010,5911,5918,Bavière,Q154195,LOC,Q154195,royaume de Bavière,"```json { ""wikipedia_page"": ""royaume de Bavière"", ""wikidata_id"": ""Q154195"" } ```",18.154722213745117
+GDL-1868-10-24-a-i0010,5984,5990,Landau,Q7052,LOC,Q7052,Landau in der Pfalz,"```json {""wikipedia_page"":""Landau in der Pfalz"", ""wikidata_id"":""Q7052""} ```",19.702625274658203
+GDL-1868-10-24-a-i0010,5996,6002,France,Q142,LOC,Q142,France,"```json {""wikipedia_page"":""France"", ""wikidata_id"":""Q142""} ```",15.403481483459473
+GDL-1868-10-24-a-i0010,6356,6372,Journal de Paris,Q3186842,PROD,Q3186842,Journal de Paris,"```json {""wikipedia_page"":""Journal de Paris"", ""wikidata_id"":""Q3186842""} ```",37.60979080200195
+GDL-1868-10-24-a-i0010,6405,6420,M. Yillemessant,Q3136165,PER,Q3136165,Hippolyte de Villemessant,"```json {""wikipedia_page"":""Hippolyte de Villemessant"", ""wikidata_id"":""Q3136165""} ```",27.226743698120117
+GDL-1868-10-24-a-i0010,6447,6453,Figaro,Q216047,PROD,Q216047,Le Figaro,"```json {""wikipedia_page"":""Le Figaro"", ""wikidata_id"":""Q216047""} ```",25.60559844970703
+GDL-1868-10-24-a-i0010,6641,6655,Sainte-Pélagie,Q1641986,LOC,Q1641986,prison Sainte-Pélagie,"```json {""wikipedia_page"": ""prison Sainte-Pélagie"", ""wikidata_id"": ""Q1641986""} ```",24.169158935546875
+GDL-1868-10-24-a-i0010,7085,7103,M. Edouard Lockroy,Q733836,PER,Q733836,Édouard Lockroy,"```json {""wikipedia_page"":""Édouard Lockroy"", ""wikidata_id"":""Q733836""} ```",29.662450790405273
+GDL-1868-10-24-a-i0010,7623,7629,France,Q142,LOC,Q142,France,"```json {""wikipedia_page"":""France"", ""wikidata_id"":""Q142""} ```",22.572872161865234
+GDL-1868-10-24-a-i0010,7689,7697,Lanterne,Q3209961,PROD,Q3209961,La Lanterne,"```json {""wikipedia_page"":""La Lanterne"", ""wikidata_id"":""Q3209961""} ```",15.919920921325684
+GDL-1868-10-24-a-i0010,7714,7739,Gazetta militare italiana,NIL,PROD,NIL,Gazetta militare italiana,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+GDL-1868-10-24-a-i0010,8248,8256,Florence,Q2044,LOC,Q2044,Florence,"```json {""wikipedia_page"":""Florence"", ""wikidata_id"":""Q2044""} ```",22.472721099853516
+GDL-1868-10-24-a-i0010,8298,8306,Cagliari,Q1897,LOC,Q1897,Cagliari,"```json {""wikipedia_page"":""Cagliari"", ""wikidata_id"":""Q1897""} ```",19.704984664916992
+GDL-1868-10-24-a-i0010,8330,8336,Berlin,Q64,LOC,Q64,Berlin,"```json {""wikipedia_page"":""Berlin"", ""wikidata_id"":""Q64""} ```",19.92082977294922
+GDL-1868-10-24-a-i0010,9010,9016,Berlin,Q64,LOC,Q64,Berlin,"```json {""wikipedia_page"":""Berlin"", ""wikidata_id"":""Q64""} ```",18.731569290161133
+GDL-1868-10-24-a-i0010,9040,9046,Suisse,Q39,LOC,Q39,Suisse,"```json { ""wikipedia_page"": ""Suisse"", ""wikidata_id"": ""Q39"" } ```",16.273794174194336
+GDL-1868-10-24-a-i0010,9133,9139,Prague,Q1085,LOC,Q1085,Prague,"```json { ""wikipedia_page"": ""Prague"", ""wikidata_id"": ""Q1085"" } ```",23.5421085357666
+GDL-1868-10-24-a-i0010,9234,9240,Bohême,Q39193,LOC,Q39193,Bohême,"```json {""wikipedia_page"": ""Bohême"", ""wikidata_id"": ""Q39193""} ```",22.711973190307617
+GDL-1868-10-24-a-i0010,9305,9311,Prague,Q1085,LOC,Q1085,Prague,"```json { ""wikipedia_page"": ""Prague"", ""wikidata_id"": ""Q1085"" } ```",21.964956283569336
+GDL-1868-10-24-a-i0010,9611,9628,Gazette de Vienne,Q697173,PROD,Q697173,Wiener Zeitung,"```json {""wikipedia_page"":""Wiener Zeitung"", ""wikidata_id"":""Q697173""} ```",22.562580108642578
+GDL-1868-10-24-a-i0010,9729,9737,Gallicie,Q180086,LOC,Q180086,Galicie,"```json {""wikipedia_page"":""Galicie"", ""wikidata_id"":""Q180086""} ```",18.63067626953125
+GDL-1868-10-24-a-i0010,9760,9775,comte de Taaffe,Q550748,PER,Q550748,Eduard Taaffe,"```json {""wikipedia_page"": ""Eduard Taaffe"", ""wikidata_id"": ""Q550748""} ```",12.445708274841309
+GDL-1868-10-24-a-i0010,9790,9800,Reichsrath,Q697775,ORG,Q697775,Reichsrat,"```json { ""wikipedia_page"": ""Reichsrat"", ""wikidata_id"": ""Q697775"" } ```",22.102001190185547
+GDL-1868-10-24-a-i0010,10205,10220,comte de Taaffe,Q550748,PER,Q550748,Eduard Taaffe,"```json {""wikipedia_page"": ""Eduard Taaffe"", ""wikidata_id"": ""Q550748""} ```",13.405525207519531
+GDL-1868-10-24-a-i0010,10311,10317,Europe,Q46,LOC,Q46,Europe,"```json {""wikipedia_page"":""Europe"", ""wikidata_id"":""Q46""} ```",19.285343170166016
+GDL-1868-10-24-a-i0010,10462,10469,M. Deak,Q508823,PER,Q508823,Ferenc Deák,"```json {""wikipedia_page"":""Ferenc Deák"", ""wikidata_id"":""Q508823""} ```",17.58869743347168
+GDL-1868-10-24-a-i0010,10590,10596,Vienne,Q1741,LOC,Q1741,Vienne,"```json {""wikipedia_page"": ""Vienne"", ""wikidata_id"": ""Q1741""} ```",27.58653450012207
+GDL-1868-10-24-a-i0010,10959,10965,Bohême,Q39193,LOC,Q39193,Bohême,"```json {""wikipedia_page"":""Bohême"", ""wikidata_id"":""Q39193""} ```",21.670167922973633
+GDL-1868-10-24-a-i0010,11508,11514,Havane,Q1563,LOC,Q1563,La Havane,"```json {""wikipedia_page"":""La Havane"", ""wikidata_id"":""Q1563""} ```",26.52125358581543
+GDL-1878-12-20-a-i0026,0,8,LAUSANNE,Q807,LOC,Q807,Lausanne,"```json {""wikipedia_page"":""Lausanne"", ""wikidata_id"":""Q807""} ```",25.447799682617188
+GDL-1878-12-20-a-i0026,231,239,Lausanne,Q807,LOC,Q807,Lausanne,"```json {""wikipedia_page"":""Lausanne"", ""wikidata_id"":""Q807""} ```",27.632606506347656
+GDL-1878-12-20-a-i0026,534,542,Lausanne,Q807,LOC,Q807,Lausanne,"```json {""wikipedia_page"": ""Lausanne"", ""wikidata_id"": ""Q807""} ```",23.983007431030273
+GDL-1878-12-20-a-i0026,548,553,Berne,Q70,LOC,Q70,Berne,"```json {""wikipedia_page"":""Berne"", ""wikidata_id"":""Q70""} ```",25.342912673950195
+GDL-1878-12-20-a-i0026,915,923,Lausanne,Q807,LOC,Q807,Lausanne,"```json {""wikipedia_page"": ""Lausanne"", ""wikidata_id"": ""Q807""} ```",25.750764846801758
+GDL-1878-12-20-a-i0026,1004,1009,Berne,Q70,LOC,Q70,Berne,"```json {""wikipedia_page"":""Berne"", ""wikidata_id"":""Q70""} ```",23.747316360473633
+GDL-1878-12-20-a-i0026,1103,1109,Moudon,Q70202,LOC,Q70202,Moudon,"```json { ""wikipedia_page"": ""Moudon"", ""wikidata_id"": ""Q70202"" } ```",25.429729461669922
+GDL-1878-12-20-a-i0026,1142,1152,Chàtillens,Q678690,LOC,Q678690,Châtillens,"```json {""wikipedia_page"":""Châtillens"", ""wikidata_id"":""Q678690""} ```",26.40298080444336
+GDL-1878-12-20-a-i0026,1423,1431,Lausanne,Q807,LOC,Q807,Lausanne,"```json {""wikipedia_page"":""Lausanne"", ""wikidata_id"":""Q807""} ```",26.478303909301758
+GDL-1878-12-20-a-i0026,2050,2063,Saint-Maurice,Q69545,LOC,Q69545,Saint-Maurice,"```json { ""wikipedia_page"": ""Saint-Maurice"", ""wikidata_id"": ""Q69545"" } ```",20.684085845947266
+GDL-1878-12-20-a-i0026,2145,2153,Evionnaz,Q70163,LOC,Q70163,Evionnaz,"```json { ""wikipedia_page"": ""Evionnaz"", ""wikidata_id"": ""Q70163"" } ```",27.798906326293945
+GDL-1878-12-20-a-i0026,2185,2191,Valais,Q834,LOC,Q834,canton du Valais,"```json {""wikipedia_page"":""canton du Valais"", ""wikidata_id"":""Q834""} ```",15.372843742370605
+GDL-1878-12-20-a-i0026,2230,2240,St-Triphon,Q2678646,LOC,Q2678646,Saint-Triphon,"```json { ""wikipedia_page"": ""Saint-Triphon"", ""wikidata_id"": ""Q2678646"" } ```",20.67112159729004
+GDL-1878-12-20-a-i0026,2401,2406,Paris,Q90,LOC,Q90,Paris,"```json {""wikipedia_page"":""Paris"", ""wikidata_id"":""Q90""} ```",13.93403434753418
+GDL-1878-12-20-a-i0026,2682,2698,gare de Lausanne,Q669678,LOC,Q669678,Lausanne,"```json { ""wikipedia_page"": ""Lausanne"", ""wikidata_id"": ""Q669678"" } ```",29.64574432373047
+GDL-1888-12-07-a-i0003,55,60,Paris,Q90,LOC,Q90,Paris,"```json {""wikipedia_page"":""Paris"", ""wikidata_id"":""Q90""} ```",19.89336395263672
+GDL-1888-12-07-a-i0003,176,192,boulevard Baudiu,NIL,LOC,NIL,boulevard Baudiu,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+GDL-1888-12-07-a-i0003,280,288,Ardennes,Q3164,LOC,Q3164,Ardennes,"```json {""wikipedia_page"":""Ardennes"", ""wikidata_id"":""Q3164""} ```",19.7186336517334
+GDL-1888-12-07-a-i0003,475,492,général Boulanger,Q315747,PER,Q315747,Georges Boulanger,"```json {""wikipedia_page"":""Georges Boulanger"", ""wikidata_id"":""Q315747""} ```",29.362098693847656
+GDL-1888-12-07-a-i0003,754,762,Ardennes,Q3164,LOC,Q3164,Ardennes,"```json {""wikipedia_page"":""Ardennes"", ""wikidata_id"":""Q3164""} ```",25.8607177734375
+GDL-1888-12-07-a-i0003,976,987,rue de Sèze,Q3451070,LOC,Q3451070,rue de Sèze,"```json {""wikipedia_page"":""rue de Sèze"", ""wikidata_id"":""Q3451070""} ```",22.808666229248047
+GDL-1888-12-07-a-i0003,1593,1610,général Boulanger,Q315747,PER,Q315747,Georges Boulanger,"```json { ""wikipedia_page"": ""Georges Boulanger"", ""wikidata_id"": ""Q315747"" } ```",27.23960304260254
+GDL-1888-12-07-a-i0003,1951,1963,Arthur Meyer,Q2865261,PER,Q2865261,Arthur Meyer,"```json {""wikipedia_page"":""Arthur Meyer"", ""wikidata_id"":""Q2865261""} ```",30.62937355041504
+GDL-1888-12-07-a-i0003,2041,2053,MM. Laguerre,Q3103015,PER,Q3103015,Jean Henri Georges Laguerre,"```json {""wikipedia_page"": ""Jean Henri Georges Laguerre"", ""wikidata_id"": ""Q3103015""} ```",22.838058471679688
+GDL-1888-12-07-a-i0003,2065,2072,Laisant,Q25318,PER,Q25318,Charles-Ange Laisant,"```json {""wikipedia_page"": ""Charles-Ange Laisant"", ""wikidata_id"": ""Q25318""} ```",27.774232864379883
+GDL-1888-12-07-a-i0003,2074,2081,Vergoin,Q3301498,PER,Q3301498,Maurice Vergoin,"```json {""wikipedia_page"":""Maurice Vergoin"", ""wikidata_id"":""Q3301498""} ```",22.387351989746094
+GDL-1888-12-07-a-i0003,2245,2262,général Boulanger,Q315747,PER,Q315747,Georges Boulanger,"```json {""wikipedia_page"":""Georges Boulanger"", ""wikidata_id"":""Q315747""} ```",30.32499122619629
+GDL-1888-12-07-a-i0003,2454,2462,Ardennes,Q3164,LOC,Q3164,Ardennes,"```json {""wikipedia_page"":""Ardennes"", ""wikidata_id"":""Q3164""} ```",20.52219581604004
+GDL-1888-12-07-a-i0003,2516,2521,Somme,Q12770,LOC,Q12770,Somme,"```json {""wikipedia_page"":""Somme"", ""wikidata_id"":""Q12770""} ```",20.572404861450195
+GDL-1888-12-07-a-i0003,2646,2657,rue de Sèze,Q3451070,LOC,Q3451070,rue de Sèze,"```json { ""wikipedia_page"": ""rue de Sèze"", ""wikidata_id"": ""Q3451070"" } ```",23.144914627075195
+GDL-1888-12-07-a-i0003,3196,3204,M. Grévy,Q296083,PER,Q296083,Jules Grévy,"```json {""wikipedia_page"":""Jules Grévy"", ""wikidata_id"":""Q296083""} ```",25.81700897216797
+GDL-1888-12-07-a-i0003,3755,3774,boulevard Haussmann,Q895076,LOC,Q895076,boulevard Haussmann,"```json {""wikipedia_page"": ""boulevard Haussmann"", ""wikidata_id"": ""Q895076""} ```",25.324419021606445
+GDL-1888-12-07-a-i0003,3983,3993,M. Floquet,Q471311,PER,Q471311,Charles Floquet,"```json {""wikipedia_page"": ""Charles Floquet"", ""wikidata_id"": ""Q471311""} ```",26.44628143310547
+GDL-1888-12-07-a-i0003,4358,4373,rue Saint-Denis,Q2174628,LOC,Q2174628,rue Saint-Denis,"```json {""wikipedia_page"":""rue Saint-Denis"", ""wikidata_id"":""Q2174628""} ```",34.440574645996094
+GDL-1898-06-27-a-i0011,22,27,BERNE,Q70,LOC,Q70,Berne,"```json {""wikipedia_page"":""Berne"", ""wikidata_id"":""Q70""} ```",27.152143478393555
+GDL-1898-06-27-a-i0011,306,351,"M. Milliet, directeur de la régie de l'alcool",NIL,PER,NIL,"M. Milliet, directeur de la régie de l'alcool","```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+GDL-1898-06-27-a-i0011,765,775,Interlaken,Q68103,LOC,Q68103,Interlaken,"```json {""wikipedia_page"":""Interlaken"", ""wikidata_id"":""Q68103""} ```",34.440040588378906
+GDL-1898-06-27-a-i0011,990,997,ARGOVIE,Q11972,LOC,Q11972,canton d'Argovie,"```json {""wikipedia_page"":""canton d'Argovie"", ""wikidata_id"":""Q11972""} ```",19.52440643310547
+GDL-1898-06-27-a-i0011,1036,1067,Société des pontonniers de Bàle,NIL,ORG,NIL,Société des pontonniers de Bàle,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+GDL-1898-06-27-a-i0011,1080,1091,Rheinfelden,Q269667,LOC,Q269667,Rheinfelden,"```json { ""wikipedia_page"": ""Rheinfelden"", ""wikidata_id"": ""Q269667"" } ```",28.77021026611328
+GDL-1898-06-27-a-i0011,1359,1365,VALAIS,Q834,LOC,Q834,canton du Valais,"```json {""wikipedia_page"":""canton du Valais"", ""wikidata_id"":""Q834""} ```",14.152616500854492
+GDL-1898-06-27-a-i0011,1386,1390,Sion,Q68136,LOC,Q68136,Sion,"```json { ""wikipedia_page"": ""Sion"", ""wikidata_id"": ""Q68136"" } ```",19.772539138793945
+GDL-1898-06-27-a-i0011,1439,1450,Tourtemagne,Q70054,LOC,Q70054,Tourtemagne,"```json {""wikipedia_page"":""Tourtemagne"", ""wikidata_id"":""Q70054""} ```",18.537445068359375
+GDL-1898-06-27-a-i0011,1766,1777,Tourtemagne,Q70054,LOC,Q70054,Tourtemagne,"```json {""wikipedia_page"":""Tourtemagne"", ""wikidata_id"":""Q70054""} ```",20.911991119384766
+GDL-1898-06-27-a-i0011,2070,2076,Loèche,Q69590,LOC,Q69590,Loèche,"```json {""wikipedia_page"":""Loèche"", ""wikidata_id"":""Q69590""} ```",17.085058212280273
+GDL-1898-06-27-a-i0011,2326,2332,GENÈVE,Q71,LOC,Q71,Genève,"```json {""wikipedia_page"":""Genève"", ""wikidata_id"":""Q71""} ```",27.80327796936035
+GDL-1898-06-27-a-i0011,2373,2381,Jonction,Q3209888,LOC,Q3209888,La Jonction,"```json { ""wikipedia_page"": ""La Jonction"", ""wikidata_id"": ""Q3209888"" } ```",25.991626739501953
+GDL-1898-06-27-a-i0011,2498,2504,Barret,NIL,PER,NIL,Barret,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+GDL-1898-06-27-a-i0011,2506,2512,Genève,Q71,LOC,Q71,Genève,"```json {""wikipedia_page"":""Genève"", ""wikidata_id"":""Q71""} ```",25.66461944580078
+GDL-1898-06-27-a-i0011,2563,2569,Genève,Q71,LOC,Q71,Genève,"```json {""wikipedia_page"":""Genève"", ""wikidata_id"":""Q71""} ```",23.490245819091797
+GDL-1898-06-27-a-i0011,2591,2597,Genoud,NIL,PER,NIL,Genoud,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+GDL-1898-06-27-a-i0011,2599,2605,Genève,Q71,LOC,Q71,Genève,"```json {""wikipedia_page"": ""Genève"", ""wikidata_id"": ""Q71""} ```",23.39668083190918
+GDL-1898-06-27-a-i0011,2636,2644,Lausanne,Q807,LOC,Q807,Lausanne,"```json {""wikipedia_page"":""Lausanne"", ""wikidata_id"":""Q807""} ```",29.647836685180664
+GDL-1908-06-09-a-i0014,38,51,éditeur Kreis,NIL,PER,NIL,éditeur Kreis,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+GDL-1908-06-09-a-i0014,55,59,Bâle,Q78,LOC,Q78,Bâle,"```json {""wikipedia_page"":""Bâle"", ""wikidata_id"":""Q78""} ```",34.357810974121094
+GDL-1908-06-09-a-i0014,160,166,D Wolf,NIL,PER,NIL,D Wolf,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+GDL-1908-06-09-a-i0014,363,369,Suisse,Q39,LOC,Q39,Suisse,"```json {""wikipedia_page"":""Suisse"", ""wikidata_id"":""Q39""} ```",29.928312301635742
+GDL-1908-06-09-a-i0014,661,668,Bernina,Q277177,LOC,Q277177,ligne de la Bernina,"```json {""wikipedia_page"":""ligne de la Bernina"", ""wikidata_id"":""Q277177""} ```",19.389251708984375
+GDL-1908-06-09-a-i0014,904,910,Tirano,Q40868,LOC,Q40868,Tirano,"```json {""wikipedia_page"": ""Tirano"", ""wikidata_id"": ""Q40868""} ```",24.74479866027832
+GDL-1908-06-09-a-i0014,914,923,Poschiavo,Q69503,LOC,Q69503,Poschiavo,"```json {""wikipedia_page"":""Poschiavo"", ""wikidata_id"":""Q69503""} ```",23.97319221496582
+GDL-1908-06-09-a-i0014,1117,1156,Société suisse des facteurs de dépêches,NIL,ORG,NIL,Société suisse des facteurs de dépêches,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+GDL-1908-06-09-a-i0014,1172,1180,Lausanne,Q807,LOC,Q807,Lausanne,"```json {""wikipedia_page"":""Lausanne"", ""wikidata_id"":""Q807""} ```",31.971961975097656
+GDL-1908-06-09-a-i0014,1251,1255,Bâle,Q78,LOC,Q78,Bâle,"```json {""wikipedia_page"":""Bâle"", ""wikidata_id"":""Q78""} ```",28.29046630859375
+GDL-1908-06-09-a-i0014,1313,1324,Winterthour,Q9125,LOC,Q9125,Winterthour,"```json {""wikipedia_page"":""Winterthour"", ""wikidata_id"":""Q9125""} ```",29.996322631835938
+GDL-1908-06-09-a-i0014,1664,1669,Righi,Q15291,LOC,Q15291,Rigi,"```json {""wikipedia_page"":""Rigi"", ""wikidata_id"":""Q15291""} ```",16.16187286376953
+GDL-1908-06-09-a-i0014,1671,1677,Sœntis,Q15224,LOC,Q15224,Säntis,"```json {""wikipedia_page"":""Säntis"", ""wikidata_id"":""Q15224""} ```",16.859037399291992
+GDL-1908-06-09-a-i0014,1688,1694,Pilate,Q15265,LOC,Q15265,Pilatus,"```json {""wikipedia_page"":""Pilatus"", ""wikidata_id"":""Q15265""} ```",15.937485694885254
+GDL-1908-06-09-a-i0014,1709,1723,Haute-Engadine,Q1789552,LOC,Q1789552,Haute-Engadine,"```json {""wikipedia_page"": ""Haute-Engadine"", ""wikidata_id"": ""Q1789552""} ```",19.597837448120117
+GDL-1908-06-09-a-i0014,1823,1832,Allemagne,Q183,LOC,Q183,Allemagne,"```json {""wikipedia_page"":""Allemagne"", ""wikidata_id"":""Q183""} ```",22.270727157592773
+GDL-1908-06-09-a-i0014,1834,1839,Berne,Q70,LOC,Q70,Berne,"```json {""wikipedia_page"":""Berne"", ""wikidata_id"":""Q70""} ```",23.30529022216797
+GDL-1908-06-09-a-i0014,1873,1882,Allemagne,Q183,LOC,Q183,Allemagne,"```json {""wikipedia_page"":""Allemagne"", ""wikidata_id"":""Q183""} ```",21.857885360717773
+GDL-1908-06-09-a-i0014,2277,2283,Suisse,Q39,LOC,Q39,Suisse,"```json {""wikipedia_page"":""Suisse"", ""wikidata_id"":""Q39""} ```",20.64540672302246
+GDL-1908-06-09-a-i0014,3502,3506,Bâle,Q78,LOC,Q78,Bâle,"```json { ""wikipedia_page"": ""Bâle"", ""wikidata_id"": ""Q78"" } ```",24.90456771850586
+GDL-1908-06-09-a-i0014,3509,3517,Hambourg,Q1055,LOC,Q1055,Hambourg,"```json { ""wikipedia_page"": ""Hambourg"", ""wikidata_id"": ""Q1055"" } ```",26.805465698242188
+GDL-1918-05-16-a-i0086,132,140,Parisrlo,Q90,LOC,Q90,Paris,"```json {""wikipedia_page"":""Paris"", ""wikidata_id"":""Q90""} ```",12.280460357666016
+GDL-1918-05-16-a-i0086,255,260,Noyon,Q49831,LOC,Q49831,Noyon,"```json { ""wikipedia_page"": ""Noyon"", ""wikidata_id"": ""Q49831"" } ```",22.309242248535156
+GDL-1918-05-16-a-i0086,1025,1033,Londires,Q84,LOC,Q84,Londres,"```json {""wikipedia_page"": ""Londres"", ""wikidata_id"": ""Q84""} ```",17.24425506591797
+GDL-1918-05-16-a-i0086,1077,1081,Lens,Q165271,LOC,Q165271,Lens,"```json {""wikipedia_page"":""Lens"", ""wikidata_id"":""Q165271""} ```",25.82815933227539
+GDL-1918-05-16-a-i0086,1189,1195,Bobecq,Q469871,LOC,Q469871,Robecq,"```json {""wikipedia_page"": ""Robecq"", ""wikidata_id"": ""Q469871""} ```",21.99057388305664
+GDL-1918-05-16-a-i0086,1293,1298,Ancre,Q489438,LOC,Q489438,Ancre,"```json { ""wikipedia_page"": ""Ancre"", ""wikidata_id"": ""Q489438"" } ```",18.1676025390625
+GDL-1918-05-16-a-i0086,1411,1422,Morlancourt,Q639056,LOC,Q639056,Morlancourt,"```json { ""wikipedia_page"": ""Morlancourt"", ""wikidata_id"": ""Q639056"" } ```",28.044342041015625
+GDL-1918-05-16-a-i0086,1446,1453,Londres,Q84,LOC,Q84,Londres,"```json {""wikipedia_page"":""Londres"", ""wikidata_id"":""Q84""} ```",19.189775466918945
+GDL-1918-05-16-a-i0086,2858,2869,Mont Kemmel,Q209541,LOC,Q209541,mont Kemmel,"```json {""wikipedia_page"":""mont Kemmel"", ""wikidata_id"":""Q209541""} ```",20.87177276611328
+GDL-1918-05-16-a-i0086,3893,3899,Berlin,Q64,LOC,Q64,Berlin,"```json { ""wikipedia_page"": ""Berlin"", ""wikidata_id"": ""Q64"" } ```",19.537546157836914
+GDL-1918-05-16-a-i0086,3940,3946,Kemmel,Q209541,LOC,Q209541,mont Kemmel,"```json {""wikipedia_page"":""mont Kemmel"", ""wikidata_id"":""Q209541""} ```",11.098405838012695
+GDL-1918-05-16-a-i0086,4270,4276,Kemmel,Q209541,LOC,Q209541,mont Kemmel,"```json {""wikipedia_page"":""mont Kemmel"", ""wikidata_id"":""Q209541""} ```",12.699692726135254
+GDL-1918-05-16-a-i0086,4395,4398,Lys,Q208493,LOC,Q208493,Lys,"```json { ""wikipedia_page"": ""Lys"", ""wikidata_id"": ""Q208493"" } ```",16.445585250854492
+GDL-1918-05-16-a-i0086,4432,4438,Scarpe,Q1818615,LOC,Q1818615,Scarpe,"```json { ""wikipedia_page"": ""Scarpe"", ""wikidata_id"": ""Q1818615"" } ```",17.502517700195312
+GDL-1918-05-16-a-i0086,4450,4457,Bucquoy,Q995400,LOC,Q995400,Bucquoy,"```json {""wikipedia_page"": ""Bucquoy"", ""wikidata_id"": ""Q995400""} ```",25.358722686767578
+GDL-1918-05-16-a-i0086,4540,4545,Ancre,Q489438,LOC,Q489438,Ancre,"```json {""wikipedia_page"":""Ancre"", ""wikidata_id"":""Q489438""} ```",16.250465393066406
+GDL-1918-05-16-a-i0086,4618,4622,Bray,Q251119,LOC,Q251119,Bray-sur-Somme,"```json { ""wikipedia_page"": ""Bray-sur-Somme"", ""wikidata_id"": ""Q251119"" } ```",20.699846267700195
+GDL-1918-05-16-a-i0086,4835,4852,VJMers-Bretonneux,Q677163,LOC,Q677163,Villers-Bretonneux,"```json {""wikipedia_page"":""Villers-Bretonneux"", ""wikidata_id"":""Q677163""} ```",19.057340621948242
+GDL-1918-05-16-a-i0086,5010,5016,Castel,Q2941347,LOC,Q2941347,Castel,"```json {""wikipedia_page"":""Castel"", ""wikidata_id"":""Q2941347""} ```",15.598857879638672
+GDL-1918-05-16-a-i0086,5257,5263,Calais,Q6454,LOC,Q6454,Calais,"```json {""wikipedia_page"":""Calais"", ""wikidata_id"":""Q6454""} ```",20.646480560302734
+GDL-1918-05-16-a-i0086,5265,5274,Dunkerque,Q45797,LOC,Q45797,Dunkerque,"```json {""wikipedia_page"":""Dunkerque"", ""wikidata_id"":""Q45797""} ```",23.288461685180664
+GDL-1918-05-16-a-i0086,5406,5412,Vienne,Q1741,LOC,Q1741,Vienne,"```json {""wikipedia_page"":""Vienne"", ""wikidata_id"":""Q1741""} ```",25.434284210205078
+GDL-1918-05-16-a-i0086,6032,6039,Pasubio,Q699575,LOC,Q699575,Pasubio,"```json {""wikipedia_page"":""Pasubio"", ""wikidata_id"":""Q699575""} ```",18.506088256835938
+GDL-1918-05-16-a-i0086,6077,6095,gare de Pri molano,Q3970614,LOC,Q3970614,Primolano,"```json {""wikipedia_page"":""Primolano"", ""wikidata_id"":""Q3970614""} ```",16.78789710998535
+GDL-1918-05-16-a-i0086,6147,6158,col Oaprile,NIL,LOC,NIL,col Oaprile,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+GDL-1918-05-16-a-i0086,6185,6190,Alano,Q39897,LOC,Q39897,Alano di Piave,"```json {""wikipedia_page"":""Alano di Piave"", ""wikidata_id"":""Q39897""} ```",12.330825805664062
+GDL-1918-05-16-a-i0086,6206,6211,Piave,Q213462,LOC,Q213462,Piave,"```json {""wikipedia_page"":""Piave"", ""wikidata_id"":""Q213462""} ```",24.537353515625
+GDL-1918-05-16-a-i0086,6296,6315,région de Soreslano,NIL,LOC,NIL,région de Soreslano,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+GDL-1918-05-16-a-i0086,6500,6505,Piave,Q213462,LOC,Q213462,Piave,"```json {""wikipedia_page"":""Piave"", ""wikidata_id"":""Q213462""} ```",21.44315528869629
+GDL-1918-05-16-a-i0086,6507,6513,Berlin,Q64,LOC,Q64,Berlin,"```json {""wikipedia_page"":""Berlin"", ""wikidata_id"":""Q64""} ```",18.684480667114258
+GDL-1918-05-16-a-i0086,6609,6615,Kemmel,Q1024880,LOC,Q1024880,Kemmel,"```json {""wikipedia_page"":""Kemmel"",""wikidata_id"":""Q1024880""} ```",21.150066375732422
+GDL-1918-05-16-a-i0086,6757,6764,Moreuil,Q115426,LOC,Q115426,Moreuil,"```json {""wikipedia_page"":""Moreuil"", ""wikidata_id"":""Q115426""} ```",20.235429763793945
+GDL-1928-12-01-a-i0015,101,107,Moscou,Q649,LOC,Q649,Moscou,"```json {""wikipedia_page"":""Moscou"", ""wikidata_id"":""Q649""} ```",28.422605514526367
+GDL-1928-12-01-a-i0015,332,340,Le Temps,Q639137,PROD,Q639137,Le Temps,"```json { ""wikipedia_page"": ""Le Temps"", ""wikidata_id"": ""Q639137"" } ```",22.321077346801758
+GDL-1928-12-01-a-i0015,410,426,Union soviétique,Q15180,LOC,Q15180,Union soviétique,"```json {""wikipedia_page"":""Union soviétique"", ""wikidata_id"":""Q15180""} ```",24.77361488342285
+GDL-1928-12-01-a-i0015,564,571,Balkans,Q23522,LOC,Q23522,Balkans,"```json {""wikipedia_page"": ""Balkans"", ""wikidata_id"": ""Q23522""} ```",19.193565368652344
+GDL-1928-12-01-a-i0015,576,583,Afrique,Q15,LOC,Q15,Afrique,"```json {""wikipedia_page"":""Afrique"", ""wikidata_id"":""Q15""} ```",15.15567684173584
+GDL-1928-12-01-a-i0015,1059,1065,Berlin,Q64,LOC,Q64,Berlin,"```json {""wikipedia_page"":""Berlin"", ""wikidata_id"":""Q64""} ```",21.04273796081543
+GDL-1928-12-01-a-i0015,1197,1203,Moscou,Q649,LOC,Q649,Moscou,"```json { ""wikipedia_page"": ""Moscou"", ""wikidata_id"": ""Q649"" } ```",22.350303649902344
+GDL-1928-12-01-a-i0015,1704,1710,Moscou,Q649,LOC,Q649,Moscou,"```json {""wikipedia_page"":""Moscou"", ""wikidata_id"":""Q649""} ```",21.610172271728516
+GDL-1928-12-01-a-i0015,1715,1721,Berlin,Q64,LOC,Q64,Berlin,"```json {""wikipedia_page"":""Berlin"", ""wikidata_id"":""Q64""} ```",18.223155975341797
+GDL-1928-12-01-a-i0015,1891,1908,VAction française,Q496011,PROD,Q496011,L'Action française,"```json {""wikipedia_page"": ""L'Action française"", ""wikidata_id"": ""Q496011""} ```",18.97140121459961
+GDL-1928-12-01-a-i0015,1944,1958,M. 'Bain ville,Q966894,PER,Q966894,Jacques Bainville,"```json {""wikipedia_page"":""Jacques Bainville"", ""wikidata_id"":""Q966894""} ```",17.25246810913086
+GDL-1928-12-01-a-i0015,2175,2193,président Coolidge,Q36023,PER,Q36023,Calvin Coolidge,"```json { ""wikipedia_page"": ""Calvin Coolidge"", ""wikidata_id"": ""Q36023"" } ```",22.152034759521484
+GDL-1928-12-01-a-i0015,2216,2229,M. Streeemann,Q103955,PER,Q103955,Gustav Stresemann,"```json { ""wikipedia_page"":""Gustav Stresemann"", ""wikidata_id"":""Q103955"" } ```",13.928208351135254
+GDL-1928-12-01-a-i0015,2346,2355,Allemagne,Q183,LOC,Q183,Allemagne,"```json {""wikipedia_page"":""Allemagne"", ""wikidata_id"":""Q183""} ```",17.87772560119629
+GDL-1928-12-01-a-i0015,2410,2420,Etats-Unis,Q30,LOC,Q30,États-Unis,"```json {""wikipedia_page"":""États-Unis"", ""wikidata_id"":""Q30""} ```",20.774730682373047
+GDL-1928-12-01-a-i0015,2500,2509,Allemagne,Q183,LOC,Q183,Allemagne,"```json {""wikipedia_page"": ""Allemagne"", ""wikidata_id"": ""Q183""} ```",18.14173126220703
+GDL-1928-12-01-a-i0015,2565,2573,New-York,Q60,LOC,Q60,New York,"```json {""wikipedia_page"": ""New York"", ""wikidata_id"": ""Q60""} ```",28.963144302368164
+GDL-1928-12-01-a-i0015,2576,2582,Berlin,Q64,LOC,Q64,Berlin,"```json {""wikipedia_page"":""Berlin"", ""wikidata_id"":""Q64""} ```",21.595256805419922
+GDL-1928-12-01-a-i0015,2592,2597,Paris,Q90,LOC,Q90,Paris,"```json {""wikipedia_page"":""Paris"", ""wikidata_id"":""Q90""} ```",19.110593795776367
+GDL-1928-12-01-a-i0015,2603,2610,Londres,Q84,LOC,Q84,Londres,"```json {""wikipedia_page"":""Londres"", ""wikidata_id"":""Q84""} ```",21.816946029663086
+GDL-1928-12-01-a-i0015,2630,2638,New-York,Q60,LOC,Q60,New York,"```json {""wikipedia_page"":""New York"", ""wikidata_id"":""Q60""} ```",25.554513931274414
+GDL-1928-12-01-a-i0015,2703,2709,Harvey,Q93128,PER,Q93128,William Harvey,"```json {""wikipedia_page"": ""William Harvey"", ""wikidata_id"": ""Q93128""} ```",18.143980026245117
+GDL-1928-12-01-a-i0015,2769,2777,New-York,Q60,LOC,Q60,New York,"```json {""wikipedia_page"":""New York"", ""wikidata_id"":""Q60""} ```",22.846555709838867
+GDL-1938-04-22-a-i0048,608,614,France,Q142,LOC,Q142,France,"```json {""wikipedia_page"":""France"", ""wikidata_id"":""Q142""} ```",19.105783462524414
+GDL-1938-04-22-a-i0048,1749,1755,Suisse,Q39,LOC,Q39,Suisse,"```json {""wikipedia_page"":""Suisse"", ""wikidata_id"":""Q39""} ```",20.689064025878906
+GDL-1938-04-22-a-i0048,2376,2382,Valais,Q834,LOC,Q834,canton du Valais,"```json {""wikipedia_page"":""canton du Valais"", ""wikidata_id"":""Q834""} ```",16.175222396850586
+GDL-1938-04-22-a-i0048,2585,2600,Italie fasciste,Q48742118,LOC,Q48742118,Italie fasciste,"```json {""wikipedia_page"":""Italie fasciste"", ""wikidata_id"":""Q48742118""} ```",21.141136169433594
+GDL-1938-04-22-a-i0048,2974,2996,libéralisme économique,Q729119,PROD,Q729119,libéralisme économique,"```json {""wikipedia_page"":""libéralisme économique"", ""wikidata_id"":""Q729119""} ```",23.46483039855957
+GDL-1938-10-12-a-i0095,49,54,Paris,Q90,LOC,Q90,Paris,"```json {""wikipedia_page"":""Paris"", ""wikidata_id"":""Q90""} ```",16.7773380279541
+GDL-1938-10-12-a-i0095,112,118,Europe,Q46,LOC,Q46,Europe,"```json {""wikipedia_page"":""Europe"", ""wikidata_id"":""Q46""} ```",21.10369110107422
+GDL-1938-10-12-a-i0095,179,196,chancelier Hitler,Q352,PER,Q352,Adolf Hitler,"```json {""wikipedia_page"":""Adolf Hitler"", ""wikidata_id"":""Q352""} ```",15.461980819702148
+GDL-1938-10-12-a-i0095,199,209,Sarrebruck,Q1724,LOC,Q1724,Sarrebruck,"```json {""wikipedia_page"":""Sarrebruck"", ""wikidata_id"":""Q1724""} ```",21.641429901123047
+GDL-1938-10-12-a-i0095,559,565,Berlin,Q64,LOC,Q64,Berlin,"```json {""wikipedia_page"":""Berlin"", ""wikidata_id"":""Q64""} ```",17.423580169677734
+GDL-1938-10-12-a-i0095,566,570,Rome,Q220,LOC,Q220,Rome,"```json { ""wikipedia_page"": ""Rome"", ""wikidata_id"": ""Q220"" } ```",20.944501876831055
+GDL-1938-10-12-a-i0095,608,618,MM. Hitler,Q352,PER,Q352,Adolf Hitler,"```json {""wikipedia_page"":""Adolf Hitler"", ""wikidata_id"":""Q352""} ```",17.59484100341797
+GDL-1938-10-12-a-i0095,622,631,Mussolini,Q23559,PER,Q23559,Benito Mussolini,"```json { ""wikipedia_page"": ""Benito Mussolini"", ""wikidata_id"": ""Q23559"" } ```",21.349685668945312
+GDL-1938-10-12-a-i0095,845,855,Sarrebruck,Q1724,LOC,Q1724,Sarrebruck,"```json { ""wikipedia_page"": ""Sarrebruck"", ""wikidata_id"": ""Q1724"" } ```",20.296489715576172
+GDL-1938-10-12-a-i0095,912,916,Rome,Q220,LOC,Q220,Rome,"```json {""wikipedia_page"":""Rome"", ""wikidata_id"":""Q220""} ```",21.18890953063965
+GDL-1938-10-12-a-i0095,1029,1035,Berlin,Q64,LOC,Q64,Berlin,"```json {""wikipedia_page"":""Berlin"", ""wikidata_id"":""Q64""} ```",18.97810935974121
+GDL-1938-10-12-a-i0095,1039,1043,Rome,Q220,LOC,Q220,Rome,"```json {""wikipedia_page"":""Rome"", ""wikidata_id"":""Q220""} ```",18.189651489257812
+GDL-1938-10-12-a-i0095,1381,1389,Ethiopie,Q115,LOC,Q115,Éthiopie,"```json {""wikipedia_page"":""Éthiopie"", ""wikidata_id"":""Q115""} ```",20.754179000854492
+GDL-1938-10-12-a-i0095,1455,1467,Méditerranée,Q4918,LOC,Q4918,mer Méditerranée,"```json {""wikipedia_page"": ""mer Méditerranée"", ""wikidata_id"": ""Q4918""} ```",20.768360137939453
+GDL-1948-07-15-a-i0035,53,58,AIGLE,Q43195,LOC,Q43195,Aigle,"```json {""wikipedia_page"":""Aigle"", ""wikidata_id"":""Q43195""} ```",25.627094268798828
+GDL-1948-07-15-a-i0035,96,101,C. P.,NIL,PER,NIL,C. P.,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+GDL-1948-07-15-a-i0035,105,110,Aigle,Q43195,LOC,Q43195,Aigle,"```json {""wikipedia_page"":""Aigle"", ""wikidata_id"":""Q43195""} ```",33.72715759277344
+GDL-1948-07-15-a-i0035,266,277,rue du Midi,NIL,LOC,NIL,rue du Midi,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+GDL-1948-07-15-a-i0035,1825,1836,R. Deladoey,NIL,PER,NIL,R. Deladoey,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+GDL-1948-07-15-a-i0035,1862,1875,C. Chevillard,NIL,PER,NIL,C. Chevillard,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+GDL-1948-07-15-a-i0035,1894,1902,H. Cross,NIL,PER,NIL,H. Cross,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+GDL-1948-07-15-a-i0035,1946,1956,Chr. Rouge,NIL,PER,NIL,Chr. Rouge,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+GDL-1948-07-15-a-i0035,1974,1988,J. Oberhaensli,NIL,PER,NIL,J. Oberhaensli,"```json { ""wikidata_id"":""NIL"", ""wikipedia_page"":"""" } ```",0
+GDL-1948-07-15-a-i0035,2034,2039,C. P.,NIL,PER,NIL,C. P.,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+GDL-1948-07-15-a-i0035,2115,2125,MM. Sublel,NIL,PER,NIL,MM. Sublel,"```json {""wikipedia_page"":"""",""wikidata_id"":""NIL""} ```",0
+GDL-1948-07-15-a-i0035,2127,2135,Bralschi,NIL,PER,NIL,Bralschi,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+GDL-1948-07-15-a-i0035,2137,2147,Nicollerat,NIL,PER,NIL,Nicollerat,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+GDL-1948-07-15-a-i0035,2149,2156,Soutier,NIL,PER,NIL,Soutier,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+GDL-1948-07-15-a-i0035,2158,2164,Favrod,NIL,PER,NIL,Favrod,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+GDL-1948-07-15-a-i0035,2168,2178,Zumbrunnen,NIL,PER,NIL,Zumbrunnen,"```json {""wikipedia_page"":""NIL"",""wikidata_id"":""NIL""} ```",0
+GDL-1948-07-15-a-i0035,2447,2466,Chapelle des Posses,NIL,LOC,NIL,Chapelle des Posses,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+GDL-1948-07-15-a-i0035,2515,2531,La Tour de Peilz,Q69721,LOC,Q69721,La Tour-de-Peilz,"```json {""wikipedia_page"":""La Tour-de-Peilz"", ""wikidata_id"":""Q69721""} ```",27.370473861694336
+GDL-1948-07-15-a-i0035,2566,2589,M. le syndic Sollberger,Q2960241,PER,Q2960241,Charles Sollberger,"```json {""wikipedia_page"":""Charles Sollberger"", ""wikidata_id"":""Q2960241""} ```",16.776567459106445
+GDL-1948-07-15-a-i0035,2696,2699,Bex,Q52261,LOC,Q52261,Bex,"```json {""wikipedia_page"":""Bex"", ""wikidata_id"":""Q52261""} ```",25.919130325317383
+GDL-1948-07-15-a-i0035,2717,2757,Société des Forces motrices de l'Avançon,NIL,ORG,NIL,Société des Forces motrices de l'Avançon,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+GDL-1948-07-15-a-i0035,2811,2817,RENENS,Q69745,LOC,Q69745,Renens,"```json {""wikipedia_page"":""Renens"", ""wikidata_id"":""Q69745""} ```",25.585636138916016
+GDL-1948-07-15-a-i0035,3008,3022,MM. D Dusserre,NIL,PER,NIL,MM. D Dusserre,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+GDL-1948-07-15-a-i0035,3036,3051,Clardon Antoine,NIL,PER,NIL,Clardon Antoine,"```json {""wikipedia_page"":"""",""wikidata_id"":""NIL""} ```",0
+GDL-1948-07-15-a-i0035,3053,3061,Ecublens,Q69716,LOC,Q69716,Ecublens,"```json { ""wikipedia_page"": ""Ecublens"", ""wikidata_id"": ""Q69716"" } ```",27.559167861938477
+GDL-1948-07-15-a-i0035,3071,3079,Crissier,Q57121,LOC,Q57121,Crissier,"```json {""wikipedia_page"":""Crissier"", ""wikidata_id"":""Q57121""} ```",19.8187313079834
+GDL-1948-07-15-a-i0035,3082,3093,MM. Manriry,NIL,PER,NIL,MM. Manriry,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+GDL-1948-07-15-a-i0035,3095,3103,Christin,NIL,PER,NIL,Christin,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+GDL-1948-07-15-a-i0035,3105,3112,Clardon,NIL,PER,NIL,Clardon,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+GDL-1948-07-15-a-i0035,3124,3128,Ross,NIL,PER,NIL,Ross,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+GDL-1948-07-15-a-i0035,3130,3137,Coderey,NIL,PER,NIL,Coderey,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+GDL-1948-07-15-a-i0035,3141,3156,Arthur Miéville,NIL,PER,NIL,Arthur Miéville,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+GDL-1948-07-15-a-i0035,3174,3180,Renens,Q69745,LOC,Q69745,Renens,"```json {""wikipedia_page"":""Renens"", ""wikidata_id"":""Q69745""} ```",28.58061408996582
+GDL-1948-07-15-a-i0035,3242,3250,Ecublens,Q69716,LOC,Q69716,Ecublens,"```json {""wikipedia_page"": ""Ecublens"", ""wikidata_id"": ""Q69716""} ```",24.673908233642578
+GDL-1948-07-15-a-i0035,3252,3260,Crissier,Q57121,LOC,Q57121,Crissier,"```json {""wikipedia_page"":""Crissier"", ""wikidata_id"":""Q57121""} ```",20.829233169555664
+GDL-1948-07-15-a-i0035,3264,3270,Renens,Q69745,LOC,Q69745,Renens,"```json {""wikipedia_page"":""Renens"", ""wikidata_id"":""Q69745""} ```",26.47740364074707
+GDL-1948-07-15-a-i0035,3418,3424,Renens,Q69745,LOC,Q69745,Renens,"```json {""wikipedia_page"":""Renens"", ""wikidata_id"":""Q69745""} ```",25.69395637512207
+GDL-1948-12-11-a-i0039,73,86,Mon- '' treux,Q69354,LOC,Q69354,Montreux,"```json {""wikipedia_page"":""Montreux"", ""wikidata_id"":""Q69354""} ```",17.435861587524414
+GDL-1948-12-11-a-i0039,266,270,Vaud,Q12771,LOC,Q12771,canton de Vaud,"```json {""wikipedia_page"":""canton de Vaud"", ""wikidata_id"":""Q12771""} ```",28.547801971435547
+GDL-1958-07-29-a-i0071,146,159,Confédération,Q39,LOC,Q39,Suisse,"```json {""wikipedia_page"":""Suisse"", ""wikidata_id"":""Q39""} ```",19.774927139282227
+GDL-1958-07-29-a-i0071,223,270,Département fédéral des finances et des douanes,Q662317,ORG,Q662317,Département fédéral des finances,"```json {""wikipedia_page"":""Département fédéral des finances"", ""wikidata_id"":""Q662317""} ```",37.86305618286133
+GDL-1968-05-30-a-i0128,63,70,LONDRES,Q84,LOC,Q84,Londres,"```json { ""wikipedia_page"": ""Londres"", ""wikidata_id"": ""Q84"" } ```",21.949777603149414
+GDL-1968-05-30-a-i0128,153,156,BRI,Q309195,ORG,Q309195,Banque des règlements internationaux,"```json {""wikipedia_page"":""Banque des règlements internationaux"", ""wikidata_id"":""Q309195""} ```",20.068815231323242
+GDL-1968-05-30-a-i0128,158,194,Banque des Règlements Internationaux,Q309195,ORG,Q309195,Banque des règlements internationaux,"```json {""wikipedia_page"":""Banque des règlements internationaux"", ""wikidata_id"":""Q309195""} ```",26.355548858642578
+GDL-1968-05-30-a-i0128,345,348,BRI,Q309195,ORG,Q309195,Banque des règlements internationaux,"```json {""wikipedia_page"": ""Banque des règlements internationaux"", ""wikidata_id"": ""Q309195""} ```",16.833768844604492
+GDL-1968-05-30-a-i0128,368,384,Banque de France,Q806950,ORG,Q806950,Banque de France,"```json {""wikipedia_page"": ""Banque de France"", ""wikidata_id"": ""Q806950""} ```",37.943904876708984
+GDL-1968-05-30-a-i0128,567,573,Europe,Q46,LOC,Q46,Europe,"```json {""wikipedia_page"": ""Europe"", ""wikidata_id"": ""Q46""} ```",28.99089241027832
+GDL-1968-05-30-a-i0128,986,989,BRI,Q309195,ORG,Q309195,Banque des règlements internationaux,"```json {""wikipedia_page"":""Banque des règlements internationaux"", ""wikidata_id"":""Q309195""} ```",19.85072898864746
+GDL-1968-11-02-a-i0267,29,40,Paul Morand,Q272,PER,Q272,Paul Morand,"```json {""wikipedia_page"":""Paul Morand"", ""wikidata_id"":""Q272""} ```",45.914268493652344
+GDL-1968-11-02-a-i0267,46,64,Académie française,Q161806,ORG,Q161806,Académie française,"```json {""wikipedia_page"": ""Académie française"", ""wikidata_id"": ""Q161806""} ```",32.67040252685547
+GDL-1968-11-02-a-i0267,105,116,Paul Morand,Q272,PER,Q272,Paul Morand,"```json {""wikipedia_page"":""Paul Morand"", ""wikidata_id"":""Q272""} ```",33.23818588256836
+GDL-1968-11-02-a-i0267,164,181,Jean Schlumberger,Q322520,PER,Q322520,Jean Schlumberger,"```json {""wikipedia_page"": ""Jean Schlumberger"", ""wikidata_id"": ""Q322520""} ```",36.74277114868164
+GDL-1968-11-02-a-i0267,297,309,Schlumberger,Q322520,PER,Q322520,Jean Schlumberger,"```json {""wikipedia_page"":""Jean Schlumberger"", ""wikidata_id"":""Q322520""} ```",33.92173385620117
+GDL-1968-11-02-a-i0267,327,351,Nouvelle Revue Française,Q616067,PROD,Q616067,La Nouvelle Revue française,"```json {""wikipedia_page"": ""La Nouvelle Revue française"", ""wikidata_id"": ""Q616067""} ```",35.222782135009766
+GDL-1968-11-02-a-i0267,355,361,Morand,Q272,PER,Q272,Paul Morand,"```json {""wikipedia_page"":""Paul Morand"", ""wikidata_id"":""Q272""} ```",32.04509735107422
+GDL-1968-11-02-a-i0267,456,462,Morand,Q272,PER,Q272,Paul Morand,"```json {""wikipedia_page"":""Paul Morand"", ""wikidata_id"":""Q272""} ```",27.852033615112305
+GDL-1968-11-02-a-i0267,590,601,Tour Eiffel,Q243,LOC,Q243,tour Eiffel,"```json {""wikipedia_page"":""tour Eiffel"", ""wikidata_id"":""Q243""} ```",33.56620788574219
+GDL-1968-11-02-a-i0267,792,798,Morand,Q272,PER,Q272,Paul Morand,"```json {""wikipedia_page"":""Paul Morand"", ""wikidata_id"":""Q272""} ```",24.52786636352539
+GDL-1968-11-02-a-i0267,1338,1344,Morand,Q272,PER,Q272,Paul Morand,"```json {""wikipedia_page"":""Paul Morand"", ""wikidata_id"":""Q272""} ```",29.838306427001953
+GDL-1968-11-02-a-i0267,1377,1384,Paulhan,Q470557,PER,Q470557,Jean Paulhan,"```json {""wikipedia_page"":""Jean Paulhan"", ""wikidata_id"":""Q470557""} ```",31.189067840576172
+GDL-1968-11-02-a-i0267,1400,1406,Proust,Q7199,PER,Q7199,Marcel Proust,"```json {""wikipedia_page"":""Marcel Proust"", ""wikidata_id"":""Q7199""} ```",29.081315994262695
+GDL-1968-11-02-a-i0267,1799,1810,Paul Morand,Q272,PER,Q272,Paul Morand,"```json {""wikipedia_page"":""Paul Morand"", ""wikidata_id"":""Q272""} ```",36.45661926269531
+GDL-1968-11-02-a-i0267,1826,1837,Tour Eiffel,Q243,LOC,Q243,tour Eiffel,"```json {""wikipedia_page"":""tour Eiffel"", ""wikidata_id"":""Q243""} ```",31.93376922607422
+GDL-1968-11-02-a-i0267,2165,2182,Jean Schlumberger,Q322520,PER,Q322520,Jean Schlumberger,"```json {""wikipedia_page"":""Jean Schlumberger"", ""wikidata_id"":""Q322520""} ```",37.33860778808594
+GDL-1968-11-02-a-i0267,2262,2279,Jean Schlumberger,Q322520,PER,Q322520,Jean Schlumberger,"```json {""wikipedia_page"": ""Jean Schlumberger"", ""wikidata_id"": ""Q322520""} ```",37.6270751953125
+GDL-1968-11-02-a-i0267,2373,2382,Gallimard,Q273819,ORG,Q273819,Éditions Gallimard,"```json {""wikipedia_page"": ""Éditions Gallimard"", ""wikidata_id"": ""Q273819""} ```",30.818031311035156
+GDL-1968-11-02-a-i0267,2698,2710,Schlumberger,Q322520,PER,Q322520,Jean Schlumberger,"```json {""wikipedia_page"":""Jean Schlumberger"", ""wikidata_id"":""Q322520""} ```",26.2796630859375
+GDL-1968-11-02-a-i0267,3252,3256,Gide,Q47484,PER,Q47484,André Gide,"```json {""wikipedia_page"":""André Gide"", ""wikidata_id"":""Q47484""} ```",30.475921630859375
+GDL-1968-11-02-a-i0267,3260,3274,Martin du Gard,Q129155,PER,Q129155,Roger Martin du Gard,"```json {""wikipedia_page"": ""Roger Martin du Gard"", ""wikidata_id"": ""Q129155""} ```",30.60562515258789
+GDL-1968-11-02-a-i0267,3326,3329,NRF,Q616067,ORG,Q616067,La Nouvelle Revue française,"```json {""wikipedia_page"":""La Nouvelle Revue française"", ""wikidata_id"":""Q616067""} ```",16.018705368041992
+GDL-1968-11-02-a-i0267,3399,3414,Cahiers vaudois,Q15695408,PROD,Q15695408,Cahiers vaudois,"```json {""wikipedia_page"":""Cahiers vaudois"", ""wikidata_id"":""Q15695408""} ```",23.071489334106445
+GDL-1968-11-02-a-i0267,3435,3440,Ramuz,Q123635,PER,Q123635,Charles Ferdinand Ramuz,"```json {""wikipedia_page"":""Charles Ferdinand Ramuz"", ""wikidata_id"":""Q123635""} ```",19.695552825927734
+GDL-1968-11-02-a-i0267,3502,3526,avenida de Los Pacificos,NIL,LOC,NIL,avenida de Los Pacificos,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+GDL-1968-11-02-a-i0267,3553,3577,quartier de Pucnte Vjeja,NIL,LOC,NIL,quartier de Pucnte Vjeja,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+GDL-1968-11-02-a-i0267,3681,3694,Gonzalo Arias,Q3699081,PER,Q3699081,Gonzalo Arias,"```json {""wikipedia_page"":""Gonzalo Arias"", ""wikidata_id"":""Q3699081""} ```",31.19901466369629
+GDL-1968-11-02-a-i0267,3839,3853,Euscbio Martin,NIL,PER,NIL,Euscbio Martin,"```json {""wikidata_id"":""NIL"", ""wikipedia_page"":""""} ```",0
+GDL-1968-11-02-a-i0267,3879,3885,Martin,NIL,PER,NIL,Martin,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+GDL-1968-11-02-a-i0267,4087,4122,général Tranco sauveur de la patrie,NIL,PER,NIL,général Tranco sauveur de la patrie,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+GDL-1968-11-02-a-i0267,4376,4382,Martin,NIL,PER,NIL,Martin,"```json {""wikipedia_page"":""Eusebio Martín"", ""wikidata_id"":""NIL""} ```",0
+GDL-1968-11-02-a-i0267,4413,4419,Martin,NIL,PER,NIL,Martin,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+GDL-1968-11-02-a-i0267,4500,4514,Eusebio Martin,NIL,PER,NIL,Eusebio Martin,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+GDL-1968-11-02-a-i0267,4657,4665,Le Monde,Q12461,PROD,Q12461,Le Monde,"```json {""wikipedia_page"":""Le Monde"", ""wikidata_id"":""Q12461""} ```",27.75798797607422
+GDL-1968-11-02-a-i0267,4681,4688,Espagne,Q29,LOC,Q29,Espagne,"```json {""wikipedia_page"":""Espagne"", ""wikidata_id"":""Q29""} ```",24.978992462158203
+GDL-1968-11-02-a-i0267,4761,4767,Madrid,Q2807,LOC,Q2807,Madrid,"```json {""wikipedia_page"":""Madrid"", ""wikidata_id"":""Q2807""} ```",25.53717613220215
+GDL-1968-11-02-a-i0267,4818,4870,"M. Gonzalo Arias, fonctionnaire de ! Unesco, à Paris",Q3699081,PER,Q3699081,Gonzalo Arias,"```json {""wikipedia_page"":""Gonzalo Arias"", ""wikidata_id"":""Q3699081""} ```",11.493711471557617
+GDL-1968-11-02-a-i0267,4945,4964,Jean-Marie Domenach,Q3167641,PER,Q3167641,Jean-Marie Domenach,"```json {""wikipedia_page"":""Jean-Marie Domenach"", ""wikidata_id"":""Q3167641""} ```",46.43642807006836
+GDL-1968-11-02-a-i0267,5600,5613,totalitarisme,Q128135,PROD,Q128135,totalitarisme,"```json {""wikipedia_page"":""totalitarisme"", ""wikidata_id"":""Q128135""} ```",28.630836486816406
+GDL-1968-11-02-a-i0267,5798,5810,Albin-Michel,Q2190366,ORG,Q2190366,Éditions Albin Michel,"```json { ""wikipedia_page"": ""Éditions Albin Michel"", ""wikidata_id"": ""Q2190366"" } ```",33.63158416748047
+GDL-1968-11-02-a-i0267,5872,5900,Armel Guerne. son adaptateur,Q2047594,PER,Q2047594,Armel Guerne,"```json {""wikipedia_page"":""Armel Guerne"", ""wikidata_id"":""Q2047594""} ```",22.186487197875977
+GDL-1968-11-02-a-i0267,6081,6089,Occident,Q160381,LOC,Q160381,civilisation occidentale,"```json {""wikipedia_page"":""civilisation occidentale"", ""wikidata_id"":""Q160381""} ```",23.252912521362305
+GDL-1968-11-02-a-i0267,6190,6198,Kawabata,Q43736,PER,Q43736,Yasunari Kawabata,"```json { ""wikipedia_page"": ""Yasunari Kawabata"", ""wikidata_id"": ""Q43736"" } ```",21.858924865722656
+GDL-1968-11-02-a-i0267,6200,6209,Guy Dunmr,Q3121746,PER,Q3121746,Guy Dumur,"```json {""wikipedia_page"":""Guy Dumur"", ""wikidata_id"":""Q3121746""} ```",31.301856994628906
+GDL-1968-11-02-a-i0267,6346,6354,Sarraute,Q297758,PER,Q297758,Nathalie Sarraute,"```json {""wikipedia_page"":""Nathalie Sarraute"", ""wikidata_id"":""Q297758""} ```",29.01725959777832
+GDL-1968-11-02-a-i0267,6361,6374,Robbe-Grillet,Q216266,PER,Q216266,Alain Robbe-Grillet,"```json {""wikipedia_page"":""Alain Robbe-Grillet"", ""wikidata_id"":""Q216266""} ```",30.783336639404297
+GDL-1968-11-02-a-i0267,6517,6525,Kawabata,Q43736,PER,Q43736,Yasunari Kawabata,"```json {""wikipedia_page"":""Yasunari Kawabata"", ""wikidata_id"":""Q43736""} ```",25.465778350830078
+GDL-1968-11-02-a-i0267,6633,6641,Kawabata,Q43736,PER,Q43736,Yasunari Kawabata,"```json {""wikipedia_page"":""Yasunari Kawabata"", ""wikidata_id"":""Q43736""} ```",24.782663345336914
+GDL-1968-11-02-a-i0267,6917,6932,Israélien Agnon,Q133042,PER,Q133042,Samuel Joseph Agnon,"```json {""wikipedia_page"": ""Samuel Joseph Agnon"", ""wikidata_id"": ""Q133042""} ```",15.716682434082031
+GDL-1968-11-02-a-i0267,6945,6967,Guatémaltèque Asturias,Q75603,PER,Q75603,Miguel Ángel Asturias,"```json {""wikipedia_page"":""Miguel Ángel Asturias"", ""wikidata_id"":""Q75603""} ```",13.420660972595215
+GDL-1968-11-02-a-i0267,6982,7008,Japonais Yanusari Kawabata,Q43736,PER,Q43736,Yasunari Kawabata,"```json { ""wikipedia_page"": ""Yasunari Kawabata"", ""wikidata_id"": ""Q43736""} ```",18.217063903808594
+GDL-1968-11-02-a-i0267,7054,7067,André Malraux,Q151164,PER,Q151164,André Malraux,"```json {""wikipedia_page"": ""André Malraux"", ""wikidata_id"": ""Q151164""} ```",39.823936462402344
+GDL-1968-11-02-a-i0267,7127,7133,Thonon,Q206165,LOC,Q206165,Thonon-les-Bains,"```json {""wikipedia_page"":""Thonon-les-Bains"", ""wikidata_id"":""Q206165""} ```",28.300098419189453
+GDL-1968-11-02-a-i0267,7461,7467,Thonon,Q206165,LOC,Q206165,Thonon-les-Bains,"```json {""wikipedia_page"":""Thonon-les-Bains"", ""wikidata_id"":""Q206165""} ```",27.57396125793457
+GDL-1968-11-02-a-i0267,7629,7639,Jo Trehard,Q3179419,PER,Q3179419,Jo Tréhard,"```json {""wikipedia_page"":""Jo Tréhard"", ""wikidata_id"":""Q3179419""} ```",43.448429107666016
+GDL-1968-11-02-a-i0267,7690,7714,Théâtre national de Caen,Q3527622,ORG,Q3527622,théâtre de Caen,"```json { ""wikipedia_page"": ""théâtre de Caen"", ""wikidata_id"": ""Q3527622"" } ```",40.698978424072266
+GDL-1968-11-02-a-i0267,7943,7950,Trehard,Q3179419,PER,Q3179419,Jo Tréhard,"```json {""wikipedia_page"":""Jo Tréhard"", ""wikidata_id"":""Q3179419""} ```",31.198970794677734
+GDL-1968-11-02-a-i0267,8073,8087,Champs-Elysées,Q550,LOC,Q550,avenue des Champs-Élysées,"```json {""wikipedia_page"": ""avenue des Champs-Élysées"", ""wikidata_id"": ""Q550""} ```",28.374998092651367
+GDL-1968-11-02-a-i0267,8103,8118,Opéra de Vienne,Q209937,ORG,Q209937,opéra d'État de Vienne,"```json { ""wikipedia_page"": ""opéra d'État de Vienne"", ""wikidata_id"": ""Q209937"" } ```",28.682567596435547
+GDL-1968-11-02-a-i0267,8170,8175,Paris,Q90,LOC,Q90,Paris,"```json {""wikipedia_page"":""Paris"", ""wikidata_id"":""Q90""} ```",31.24517250061035
+GDL-1968-11-02-a-i0267,8240,8254,Alwin Nikoldis,Q449880,PER,Q449880,Alwin Nikolais,"```json { ""wikipedia_page"": ""Alwin Nikolais"", ""wikidata_id"": ""Q449880"" } ```",27.339733123779297
+GDL-1968-11-02-a-i0267,8331,8349,Gazette littéraire,NIL,PROD,NIL,Gazette littéraire,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+GDL-1968-11-02-a-i0267,8569,8581,Rauschcnberg,Q164358,PER,Q164358,Robert Rauschenberg,"```json {""wikipedia_page"":""Robert Rauschenberg"", ""wikidata_id"":""Q164358""} ```",26.13935089111328
+GDL-1968-11-02-a-i0267,8606,8611,Paris,Q90,LOC,Q90,Paris,"```json {""wikipedia_page"":""Paris"", ""wikidata_id"":""Q90""} ```",21.807893753051758
+GDL-1968-11-02-a-i0267,8626,8643,Galerie Sonnabend,NIL,ORG,NIL,Galerie Sonnabend,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+GDL-1968-11-02-a-i0267,8685,8714,Musée municipal d'art moderne,Q857276,ORG,Q857276,musée d'Art moderne de Paris,"```json {""wikipedia_page"":""musée d'Art moderne de Paris"", ""wikidata_id"":""Q857276""} ```",37.44524002075195
+GDL-1968-11-02-a-i0267,8755,8767,Rauschenberg,Q164358,PER,Q164358,Robert Rauschenberg,"```json {""wikipedia_page"":""Robert Rauschenberg"", ""wikidata_id"":""Q164358""} ```",26.289615631103516
+GDL-1968-11-02-a-i0267,8899,8905,Calder,Q151580,PER,Q151580,Alexander Calder,"```json { ""wikipedia_page"": ""Alexander Calder"", ""wikidata_id"": ""Q151580"" } ```",25.403911590576172
+GDL-1968-11-02-a-i0267,8921,8927,Stahly,Q468744,PER,Q468744,François Stahly,"```json { ""wikipedia_page"": ""François Stahly"", ""wikidata_id"": ""Q468744"" } ```",26.03934097290039
+GDL-1968-11-02-a-i0267,8933,8948,Galerie Speyers,NIL,ORG,NIL,Galerie Speyers,"```json {""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL""} ```",0
+GDL-1968-11-02-a-i0267,9087,9093,Jouvet,Q60801,PER,Q60801,Louis Jouvet,"```json {""wikipedia_page"":""Louis Jouvet"", ""wikidata_id"":""Q60801""} ```",23.461429595947266
+GDL-1968-11-02-a-i0267,9109,9118,Giraudoux,Q309974,PER,Q309974,Jean Giraudoux,"```json { ""wikipedia_page"": ""Jean Giraudoux"", ""wikidata_id"": ""Q309974"" } ```",18.708250045776367
+GDL-1968-11-02-a-i0267,9198,9202,Piaf,Q1631,PER,Q1631,Édith Piaf,"```json {""wikipedia_page"":""Édith Piaf"", ""wikidata_id"":""Q1631""} ```",25.398942947387695
+GDL-1968-11-02-a-i0267,9216,9228,Raymond Asso,Q2552540,PER,Q2552540,Raymond Asso,"```json { ""wikipedia_page"": ""Raymond Asso"", ""wikidata_id"": ""Q2552540"" } ```",28.437204360961914
+GDL-1968-11-02-a-i0267,9246,9258,Raymond Asso,Q2552540,PER,Q2552540,Raymond Asso,"```json {""wikipedia_page"":""Raymond Asso"", ""wikidata_id"":""Q2552540""} ```",29.153392791748047
+GDL-1968-11-02-a-i0267,9337,9344,Montand,Q106057,PER,Q106057,Yves Montand,"```json {""wikipedia_page"":""Yves Montand"", ""wikidata_id"":""Q106057""} ```",20.881399154663086
+GDL-1968-11-02-a-i0267,9359,9366,Olympia,Q915451,ORG,Q915451,Olympia,"```json {""wikipedia_page"":""Olympia"", ""wikidata_id"":""Q915451""} ```",18.79643440246582
+GDL-1968-11-02-a-i0267,9372,9377,Gréco,Q156485,PER,Q156485,Juliette Gréco,"```json {""wikipedia_page"":""Juliette Gréco"", ""wikidata_id"":""Q156485""} ```",19.822086334228516
+GDL-1968-11-02-a-i0267,9391,9397,Bobino,Q888776,ORG,Q888776,Bobino,"```json {""wikipedia_page"":""Bobino"", ""wikidata_id"":""Q888776""} ```",19.70426368713379
+GDL-1968-11-02-a-i0267,9438,9451,Pierre Perret,Q2093776,PER,Q2093776,Pierre Perret,"```json {""wikipedia_page"": ""Pierre Perret"", ""wikidata_id"": ""Q2093776""} ```",38.141265869140625
+GDL-1968-11-02-a-i0267,9469,9483,Georges Chelon,Q3102470,PER,Q3102470,Georges Chelon,"```json { ""wikipedia_page"": ""Georges Chelon"", ""wikidata_id"": ""Q3102470"" } ```",31.36763572692871
+GDL-1968-11-02-a-i0267,9525,9530,Seine,Q1471,LOC,Q1471,Seine,"```json {""wikipedia_page"":""Seine"", ""wikidata_id"":""Q1471""} ```",18.477582931518555
+GDL-1978-06-23-a-i0197,342,349,Londres,Q84,LOC,Q84,Londres,"```json {""wikipedia_page"":""Londres"", ""wikidata_id"":""Q84""} ```",27.714637756347656
+GDL-1978-06-23-a-i0197,356,370,M. Cyrus Vance,Q296661,PER,Q296661,Cyrus Vance,"```json {""wikipedia_page"":""Cyrus Vance"", ""wikidata_id"":""Q296661""} ```",29.671049118041992
+GDL-1978-06-23-a-i0197,414,420,Israël,Q801,LOC,Q801,Israël,"```json { ""wikipedia_page"": ""Israël"", ""wikidata_id"": ""Q801"" } ```",20.60063362121582
+GDL-1978-06-23-a-i0197,426,432,Egypte,Q79,LOC,Q79,Égypte,"```json {""wikipedia_page"": ""Égypte"", ""wikidata_id"": ""Q79""} ```",20.477436065673828
+GDL-1978-06-23-a-i0197,582,591,Jérusalem,Q1218,LOC,Q1218,Jérusalem,"```json {""wikipedia_page"":""Jérusalem"", ""wikidata_id"":""Q1218""} ```",26.7131290435791
+GDL-1978-06-23-a-i0197,595,603,Le Caire,Q85,LOC,Q85,Le Caire,"```json {""wikipedia_page"":""Le Caire"", ""wikidata_id"":""Q85""} ```",31.00568962097168
+GDL-1978-06-23-a-i0197,741,749,New York,Q60,LOC,Q60,New York,"```json {""wikipedia_page"":""New York"", ""wikidata_id"":""Q60""} ```",28.149538040161133
+GDL-1978-06-23-a-i0197,752,767,Louis Wiznitzer,NIL,PER,NIL,Louis Wiznitzer,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+GDL-1978-06-23-a-i0197,940,950,Etats-Unis,Q30,LOC,Q30,États-Unis,"```json { ""wikipedia_page"": ""États-Unis"", ""wikidata_id"": ""Q30"" } ```",24.662479400634766
+GDL-1978-06-23-a-i0197,1046,1055,M. Sadate,Q42013,PER,Q42013,Anouar el-Sadate,"```json {""wikipedia_page"":""Anouar el-Sadate"", ""wikidata_id"":""Q42013""} ```",27.02715492248535
+GDL-1978-06-23-a-i0197,1716,1769,"M. Javits, sénateur de New York juif et pro-israèlien",Q1875906,PER,Q1875906,Jacob K. Javits,"```json {""wikipedia_page"":""Jacob K. Javits"", ""wikidata_id"":""Q1875906""} ```",19.036746978759766
+GDL-1978-06-23-a-i0197,1789,1797,Capitole,Q54109,LOC,Q54109,Capitole des États-Unis,"```json { ""wikipedia_page"": ""Capitole des États-Unis"", ""wikidata_id"": ""Q54109"" } ```",25.048288345336914
+GDL-1978-06-23-a-i0197,1969,1978,M. Carter,Q23685,PER,Q23685,Jimmy Carter,"```json {""wikipedia_page"":""Jimmy Carter"", ""wikidata_id"":""Q23685""} ```",26.839017868041992
+GDL-1978-06-23-a-i0197,1993,2001,M. Begin,Q130873,PER,Q130873,Menahem Begin,"```json {""wikipedia_page"":""Menahem Begin"", ""wikidata_id"":""Q130873""} ```",25.10895538330078
+GDL-1978-06-23-a-i0197,2214,2217,USA,Q30,LOC,Q30,États-Unis,"```json { ""wikipedia_page"": ""États-Unis"", ""wikidata_id"": ""Q30"" } ```",22.526790618896484
+GDL-1978-06-23-a-i0197,2250,2256,Israël,Q801,LOC,Q801,Israël,"```json {""wikipedia_page"":""Israël"", ""wikidata_id"":""Q801""} ```",24.219871520996094
+GDL-1978-06-23-a-i0197,2331,2342,Cisjordanie,Q36678,LOC,Q36678,Cisjordanie,"```json {""wikipedia_page"":""Cisjordanie"", ""wikidata_id"":""Q36678""} ```",25.66139030456543
+GDL-1978-06-23-a-i0197,2346,2350,Gaza,Q39760,LOC,Q39760,bande de Gaza,"```json {""wikipedia_page"":""bande de Gaza"", ""wikidata_id"":""Q39760""} ```",25.495899200439453
+GDL-1978-06-23-a-i0197,2365,2371,Israël,Q801,LOC,Q801,Israël,"```json {""wikipedia_page"":""Israël"", ""wikidata_id"":""Q801""} ```",20.31205940246582
+GDL-1978-06-23-a-i0197,2458,2464,Egypte,Q79,LOC,Q79,Égypte,"```json {""wikipedia_page"": ""Égypte"", ""wikidata_id"": ""Q79""} ```",22.9608154296875
+GDL-1978-06-23-a-i0197,2600,2610,Etats-Unis,Q30,LOC,Q30,États-Unis,"```json { ""wikipedia_page"": ""États-Unis"", ""wikidata_id"": ""Q30"" } ```",23.773900985717773
+GDL-1978-06-23-a-i0197,2701,2710,M. Sadate,Q42013,PER,Q42013,Anouar el-Sadate,"```json {""wikipedia_page"":""Anouar el-Sadate"", ""wikidata_id"":""Q42013""} ```",25.82731056213379
+GDL-1978-06-23-a-i0197,2736,2747,roi Hussein,Q146906,PER,Q146906,Hussein Ier de Jordanie,"```json {""wikipedia_page"":""Hussein Ier de Jordanie"", ""wikidata_id"":""Q146906""} ```",24.274028778076172
+GDL-1988-07-08-a-i0186,0,26,J 3 ENÈVE Nastassia Kinski,Q76711,PER,Q76711,Nastassja Kinski,"```json { ""wikipedia_page"": ""Nastassja Kinski"", ""wikidata_id"": ""Q76711"" } ```",12.498323440551758
+GDL-1988-07-08-a-i0186,63,87,actrice Nastassia Kinski,Q76711,PER,Q76711,Nastassja Kinski,"```json {""wikipedia_page"":""Nastassja Kinski"", ""wikidata_id"":""Q76711""} ```",22.377103805541992
+GDL-1988-07-08-a-i0186,114,120,Genève,Q71,LOC,Q71,Genève,"```json {""wikipedia_page"": ""Genève"", ""wikidata_id"": ""Q71""} ```",32.116790771484375
+GDL-1988-07-08-a-i0186,151,172,société Leila Film SA,NIL,ORG,NIL,société Leila Film SA,"```json {""wikipedia_page"":"""",""wikidata_id"":""NIL""} ```",0
+GDL-1988-07-08-a-i0186,234,275,"Henri Dunant, fondateur de la Croix-Rouge",Q12091,PER,Q12091,Henry Dunant,"```json {""wikipedia_page"": ""Henry Dunant"", ""wikidata_id"": ""Q12091""} ```",27.86024284362793
+GDL-1988-07-08-a-i0186,280,303,Conseil d'Etat genevois,Q2546890,ORG,Q2546890,Conseil d'État du canton de Genève,"```json {""wikipedia_page"":""Conseil d'État du canton de Genève"", ""wikidata_id"":""Q2546890""} ```",37.552772521972656
+GDL-1988-07-08-a-i0186,398,414,Nastassia Kinski,Q76711,PER,Q76711,Nastassja Kinski,"```json {""wikipedia_page"":""Nastassja Kinski"", ""wikidata_id"":""Q76711""} ```",37.460357666015625
+GDL-1988-07-08-a-i0186,600,616,Nastassia Kinski,Q76711,PER,Q76711,Nastassja Kinski,"```json {""wikipedia_page"":""Nastassja Kinski"", ""wikidata_id"":""Q76711""} ```",37.790985107421875
+GDL-1988-07-08-a-i0186,694,700,Genève,Q71,LOC,Q71,Genève,"```json { ""wikipedia_page"": ""Genève"", ""wikidata_id"": ""Q71"" } ```",26.472980499267578
+GDL-1988-07-08-a-i0186,740,756,Nastassia Kinski,Q76711,PER,Q76711,Nastassja Kinski,"```json { ""wikipedia_page"": ""Nastassja Kinski"", ""wikidata_id"": ""Q76711"" } ```",35.10519027709961
+GDL-1988-07-08-a-i0186,805,843,Comité International de la Croix-Rouge,Q5987345,ORG,Q5987345,Comité international de la Croix-Rouge,"```json {""wikipedia_page"": ""Comité international de la Croix-Rouge"", ""wikidata_id"": ""Q5987345""} ```",39.625057220458984
+GDL-1988-07-08-a-i0186,845,849,CICR,Q5987345,ORG,Q5987345,Comité international de la Croix-Rouge,"```json {""wikipedia_page"":""Comité international de la Croix-Rouge"", ""wikidata_id"":""Q5987345""} ```",30.020132064819336
+GDL-1988-07-08-a-i0186,855,869,Conseil d'Etat,Q2546890,ORG,Q2546890,Conseil d'État du canton de Genève,"```json {""wikipedia_page"":""Conseil d'État du canton de Genève"", ""wikidata_id"":""Q2546890""} ```",23.471294403076172
+IMP-1908-10-03-a-i0027,22,28,FRANCE,Q142,LOC,Q142,France,"```json {""wikipedia_page"": ""France"", ""wikidata_id"":""Q142""} ```",18.8038387298584
+IMP-1908-10-03-a-i0027,114,127,rue du Temple,Q3452610,LOC,Q3452610,rue du Temple,"```json {""wikipedia_page"":""rue du Temple"", ""wikidata_id"":""Q3452610""} ```",23.30446434020996
+IMP-1908-10-03-a-i0027,137,163,rue Notre-Dame-de-Nazareth,Q3449324,LOC,Q3449324,rue Notre-Dame-de-Nazareth,"```json {""wikipedia_page"":""rue Notre-Dame-de-Nazareth"", ""wikidata_id"":""Q3449324""} ```",29.077550888061523
+IMP-1908-10-03-a-i0027,444,463,hôpital Saint-Louis,Q1569396,ORG,Q1569396,hôpital Saint-Louis,"```json {""wikipedia_page"":""hôpital Saint-Louis"", ""wikidata_id"":""Q1569396""} ```",19.406652450561523
+IMP-1908-10-03-a-i0027,535,543,Guillard,NIL,PER,NIL,Guillard,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+IMP-1908-10-03-a-i0027,683,692,ALLEMAGNE,Q183,LOC,Q183,Allemagne,"```json {""wikipedia_page"":""Allemagne"", ""wikidata_id"":""Q183""} ```",11.65239143371582
+IMP-1908-10-03-a-i0027,718,728,Magdebourg,Q1733,LOC,Q1733,Magdebourg,"```json {""wikipedia_page"":""Magdebourg"", ""wikidata_id"":""Q1733""} ```",22.25739288330078
+IMP-1908-10-03-a-i0027,752,827,"Paul Reindel, ancien exécuteur des hautes œuvres pour la Prusse occidentale",NIL,PER,NIL,"Paul Reindel, ancien exécuteur des hautes œuvres pour la Prusse occidentale","```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+IMP-1908-10-03-a-i0027,994,1001,M. Paul,NIL,PER,NIL,M. Paul,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+IMP-1908-10-03-a-i0027,1314,1323,Allemagne,Q183,LOC,Q183,Allemagne,"```json {""wikipedia_page"":""Allemagne"", ""wikidata_id"":""Q183""} ```",17.128543853759766
+IMP-1908-10-03-a-i0027,1467,1476,Hambour'g,Q1055,LOC,Q1055,Hambourg,"```json {""wikipedia_page"": ""Hambourg"", ""wikidata_id"": ""Q1055""} ```",15.822410583496094
+IMP-1908-10-03-a-i0027,3075,3080,Vilna,Q216,LOC,Q216,Vilnius,"```json {""wikipedia_page"": ""Vilnius"", ""wikidata_id"": ""Q216""} ```",23.718481063842773
+IMP-1908-10-03-a-i0027,3623,3631,Soboline,NIL,LOC,NIL,Soboline,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+IMP-1908-10-03-a-i0027,4703,4713,ANGLETERRE,Q21,LOC,Q21,Angleterre,"```json {""wikipedia_page"":""Angleterre"", ""wikidata_id"":""Q21""} ```",20.084623336791992
+IMP-1908-10-03-a-i0027,5028,5038,Angleterre,Q21,LOC,Q21,Angleterre,"```json {""wikipedia_page"":""Angleterre"", ""wikidata_id"":""Q21""} ```",26.15427017211914
+IMP-1908-10-03-a-i0027,5568,5581,Daily Express,Q610190,PROD,Q610190,Daily Express,"```json {""wikipedia_page"":""Daily Express"", ""wikidata_id"":""Q610190""} ```",24.79207992553711
+IMP-1908-10-03-a-i0027,5815,5823,New-York,Q60,LOC,Q60,New York,"```json { ""wikipedia_page"": ""New York"", ""wikidata_id"": ""Q60"" } ```",27.661718368530273
+IMP-1908-10-03-a-i0027,6044,6063,Banque d'Angleterre,Q183231,ORG,Q183231,banque d'Angleterre,"```json {""wikipedia_page"":""banque d'Angleterre"", ""wikidata_id"":""Q183231""} ```",35.66796112060547
+IMP-1938-09-23-a-i0145,49,64,Tchécoslovaquie,Q33946,LOC,Q33946,Tchécoslovaquie,"```json { ""wikipedia_page"": ""Tchécoslovaquie"", ""wikidata_id"": ""Q33946"" } ```",23.412609100341797
+IMP-1938-09-23-a-i0145,70,92,général tchèque Sirovy,Q974542,PER,Q974542,Jan Syrový,"```json {""wikipedia_page"":""Jan Syrový"", ""wikidata_id"":""Q974542""} ```",19.02265167236328
+IMP-1938-09-23-a-i0145,203,212,Godesberg,Q153260,LOC,Q153260,Bad Godesberg,"```json {""wikipedia_page"":""Bad Godesberg"", ""wikidata_id"":""Q153260""} ```",20.8823184967041
+IMP-1938-09-23-a-i0145,398,404,Berlin,Q64,LOC,Q64,Berlin,"```json {""wikipedia_page"":""Berlin"", ""wikidata_id"":""Q64""} ```",20.45952606201172
+IMP-1938-09-23-a-i0145,651,657,Prague,Q1085,LOC,Q1085,Prague,"```json {""wikipedia_page"":""Prague"", ""wikidata_id"":""Q1085""} ```",17.92154884338379
+IMP-1938-09-23-a-i0145,763,777,général Sirovy,Q974542,PER,Q974542,Jan Syrový,"```json {""wikipedia_page"":""Jan Syrový"", ""wikidata_id"":""Q974542""} ```",19.23908805847168
+IMP-1938-09-23-a-i0145,884,889,Reich,Q7318,LOC,Q7318,Troisième Reich,"```json {""wikipedia_page"": ""Troisième Reich"", ""wikidata_id"": ""Q7318""} ```",13.42492389678955
+IMP-1938-09-23-a-i0145,943,949,Prague,Q1085,LOC,Q1085,Prague,"```json {""wikipedia_page"":""Prague"", ""wikidata_id"":""Q1085""} ```",19.184432983398438
+IMP-1938-09-23-a-i0145,1072,1078,Hitler,Q352,PER,Q352,Adolf Hitler,"```json {""wikipedia_page"":""Adolf Hitler"", ""wikidata_id"":""Q352""} ```",21.988252639770508
+IMP-1938-09-23-a-i0145,1249,1258,Godesberg,Q153260,LOC,Q153260,Bad Godesberg,"```json { ""wikipedia_page"": ""Bad Godesberg"", ""wikidata_id"": ""Q153260"" } ```",20.246265411376953
+IMP-1938-09-23-a-i0145,1311,1320,Godesberg,Q153260,LOC,Q153260,Bad Godesberg,"```json {""wikipedia_page"":""Bad Godesberg"", ""wikidata_id"":""Q153260""} ```",19.532413482666016
+IMP-1938-09-23-a-i0145,1439,1453,M. Chamberlain,Q10664,PER,Q10664,Neville Chamberlain,"```json { ""wikipedia_page"": ""Neville Chamberlain"", ""wikidata_id"": ""Q10664"" } ```",25.729209899902344
+IMP-1938-09-23-a-i0145,1472,1479,Londres,Q84,LOC,Q84,Londres,"```json {""wikipedia_page"": ""Londres"", ""wikidata_id"": ""Q84""} ```",22.36127471923828
+IMP-1938-09-23-a-i0145,1640,1655,Tchécoslovaquie,Q33946,LOC,Q33946,Tchécoslovaquie,"```json {""wikipedia_page"": ""Tchécoslovaquie"", ""wikidata_id"": ""Q33946""} ```",26.02703857421875
+IMP-1938-09-23-a-i0145,1674,1680,Oeuvre,Q1880717,PROD,Q1880717,L'Œuvre,"```json {""wikipedia_page"":""L'Œuvre"", ""wikidata_id"":""Q1880717""} ```",10.833962440490723
+IMP-1938-09-23-a-i0145,1836,1842,Hitler,Q352,PER,Q352,Adolf Hitler,"```json {""wikipedia_page"":""Adolf Hitler"", ""wikidata_id"":""Q352""} ```",20.264606475830078
+IMP-1938-09-23-a-i0145,2062,2068,Prague,Q1085,LOC,Q1085,Prague,"```json {""wikipedia_page"": ""Prague"", ""wikidata_id"": ""Q1085""} ```",23.500057220458984
+IMP-1938-09-23-a-i0145,2229,2237,Varsovie,Q270,LOC,Q270,Varsovie,"```json {""wikipedia_page"":""Varsovie"", ""wikidata_id"":""Q270""} ```",21.57393455505371
+IMP-1938-09-23-a-i0145,2243,2251,Budapest,Q1781,LOC,Q1781,Budapest,"```json {""wikipedia_page"":""Budapest"", ""wikidata_id"":""Q1781""} ```",22.379438400268555
+IMP-1938-09-23-a-i0145,2490,2497,Londres,Q84,LOC,Q84,Londres,"```json { ""wikipedia_page"": ""Londres"", ""wikidata_id"": ""Q84"" } ```",23.60477066040039
+IMP-1938-09-23-a-i0145,2552,2558,Prague,Q1085,LOC,Q1085,Prague,"```json {""wikipedia_page"":""Prague"", ""wikidata_id"":""Q1085""} ```",28.5759220123291
+IMP-1938-09-23-a-i0145,2867,2873,Prague,Q1085,LOC,Q1085,Prague,"```json {""wikipedia_page"":""Prague"", ""wikidata_id"":""Q1085""} ```",26.59445571899414
+IMP-1938-09-23-a-i0145,3319,3325,Berlin,Q64,LOC,Q64,Berlin,"```json {""wikipedia_page"":""Berlin"", ""wikidata_id"":""Q64""} ```",17.54559898376465
+IMP-1938-09-23-a-i0145,3331,3337,Vienne,Q1741,LOC,Q1741,Vienne,"```json { ""wikipedia_page"": ""Vienne"", ""wikidata_id"": ""Q1741"" } ```",21.641199111938477
+IMP-1938-09-23-a-i0145,3343,3350,Breslau,Q1799,LOC,Q1799,Wrocław,"```json {""wikipedia_page"":""Wrocław"", ""wikidata_id"":""Q1799""} ```",21.787933349609375
+IMP-1938-09-23-a-i0145,3356,3363,Trieste,Q546,LOC,Q546,Trieste,"```json {""wikipedia_page"":""Trieste"", ""wikidata_id"":""Q546""} ```",22.71086883544922
+IMP-1938-09-23-a-i0145,3396,3401,Paris,Q90,LOC,Q90,Paris,"```json {""wikipedia_page"":""Paris"", ""wikidata_id"":""Q90""} ```",17.4108943939209
+IMP-1938-09-23-a-i0145,3486,3492,Europe,Q46,LOC,Q46,Europe,"```json {""wikipedia_page"":""Europe"", ""wikidata_id"":""Q46""} ```",17.354230880737305
+IMP-1938-09-23-a-i0145,3693,3700,Journal,Q3223697,PROD,Q3223697,Le Journal,"```json {""wikipedia_page"":""Le Journal"", ""wikidata_id"":""Q3223697""} ```",13.172636032104492
+IMP-1938-09-23-a-i0145,3811,3815,Rome,Q220,LOC,Q220,Rome,"```json {""wikipedia_page"":""Rome"", ""wikidata_id"":""Q220""} ```",15.059070587158203
+IMP-1938-09-23-a-i0145,3905,3910,Reich,Q7318,ORG,Q7318,Troisième Reich,"```json {""wikipedia_page"":""Troisième Reich"", ""wikidata_id"":""Q7318""} ```",12.748313903808594
+IMP-1938-09-23-a-i0145,4003,4011,Roumanie,Q218,LOC,Q218,Roumanie,"```json {""wikipedia_page"":""Roumanie"", ""wikidata_id"":""Q218""} ```",20.09908676147461
+IMP-1958-02-28-a-i0106,12,46,M. Paul CHAUDET Conseiller fédéral,Q118284,PER,Q118284,Paul Chaudet,"```json {""wikipedia_page"":""Paul Chaudet"", ""wikidata_id"":""Q118284""} ```",14.166969299316406
+IMP-1958-02-28-a-i0106,175,196,"Cërcîè ~""__-. "" Sapin",NIL,ORG,NIL,"Cërcîè ~""__-. "" Sapin","```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+IMP-1958-02-28-a-i0106,225,240,M. Paul Chaudet,Q118284,PER,Q118284,Paul Chaudet,"```json {""wikipedia_page"":""Paul Chaudet"", ""wikidata_id"":""Q118284""} ```",27.361774444580078
+IMP-1958-02-28-a-i0106,459,473,Giuseppe Motta,Q559892,PER,Q559892,Giuseppe Motta,"```json {""wikipedia_page"":""Giuseppe Motta"", ""wikidata_id"":""Q559892""} ```",40.24404525756836
+IMP-1958-02-28-a-i0106,476,493,Rodolphe Rubattel,Q661957,PER,Q661957,Rodolphe Rubattel,"```json {""wikipedia_page"":""Rodolphe Rubattel"", ""wikidata_id"":""Q661957""} ```",43.95488357543945
+IMP-1958-02-28-a-i0106,497,514,Edmond Schulthess,Q118243,PER,Q118243,Edmund Schulthess,"```json {""wikipedia_page"":""Edmund Schulthess"", ""wikidata_id"":""Q118243""} ```",34.17112731933594
+IMP-1958-02-28-a-i0106,517,533,Max _Petitnierre,Q664453,PER,Q664453,Max Petitpierre,"```json {""wikipedia_page"":""Max Petitpierre"", ""wikidata_id"":""Q664453""} ```",33.03132629394531
+IMP-1958-02-28-a-i0106,585,600,M. Paul Chaudet,Q118284,PER,Q118284,Paul Chaudet,"```json {""wikipedia_page"":""Paul Chaudet"", ""wikidata_id"":""Q118284""} ```",26.149860382080078
+IMP-1958-02-28-a-i0106,1004,1014,M. Chaudet,Q118284,PER,Q118284,Paul Chaudet,"```json {""wikipedia_page"":""Paul Chaudet"", ""wikidata_id"":""Q118284""} ```",21.655635833740234
+IMP-1958-02-28-a-i0106,1288,1305,La Chaux-de-Fonds,Q68124,LOC,Q68124,La Chaux-de-Fonds,"```json {""wikipedia_page"":""La Chaux-de-Fonds"", ""wikidata_id"":""Q68124""} ```",38.86677169799805
+IMP-1958-02-28-a-i0106,1680,1720,"M. Jules Favre, vice-président de l'ANEP",NIL,PER,NIL,"M. Jules Favre, vice-président de l'ANEP","```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+IMP-1958-02-28-a-i0106,1808,1819,L'IMPARTIAL,Q3204036,PROD,Q3204036,L'Impartial,"```json {""wikipedia_page"": ""L'Impartial"", ""wikidata_id"": ""Q3204036""} ```",8.00278377532959
+IMP-1988-12-30-a-i0015,0,11,Marie-Laure,NIL,PER,NIL,Marie-Laure,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+IMP-1988-12-30-a-i0015,75,80,Libye,Q1016,LOC,Q1016,Libye,"```json { ""wikipedia_page"": ""Libye"", ""wikidata_id"": ""Q1016"" } ```",23.019765853881836
+IMP-1988-12-30-a-i0015,145,168,mère Jacqueline Valente,NIL,PER,NIL,mère Jacqueline Valente,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+IMP-1988-12-30-a-i0015,191,241,groupe palestinien dissident Fatah-CR d'Abou Nidal,Q1638579,ORG,Q1638579,Fatah-Conseil révolutionnaire,"```json {""wikipedia_page"":""Fatah-Conseil révolutionnaire"", ""wikidata_id"":""Q1638579""} ```",21.137235641479492
+IMP-1988-12-30-a-i0015,283,291,Virginie,NIL,PER,NIL,Virginie,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+IMP-1988-12-30-a-i0015,417,425,Benghazi,Q40816,LOC,Q40816,Benghazi,"```json {""wikipedia_page"":""Benghazi"", ""wikidata_id"":""Q40816""} ```",37.51707077026367
+IMP-1988-12-30-a-i0015,427,432,Libye,Q1016,LOC,Q1016,Libye,"```json {""wikipedia_page"":""Libye"", ""wikidata_id"":""Q1016""} ```",26.978679656982422
+IMP-1988-12-30-a-i0015,471,490,père Pascal Bétille,NIL,PER,NIL,père Pascal Bétille,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+IMP-1988-12-30-a-i0015,493,500,Tripoli,Q3579,LOC,Q3579,Tripoli,"```json { ""wikipedia_page"": ""Tripoli"", ""wikidata_id"": ""Q3579"" } ```",31.82394027709961
+IMP-1988-12-30-a-i0015,531,564,ambassadeur français Léon Bouvier,Q3270771,PER,Q3270771,Léon Bouvier,"```json {""wikipedia_page"": ""Léon Bouvier"", ""wikidata_id"": ""Q3270771""} ```",26.377634048461914
+IMP-1988-12-30-a-i0015,614,620,France,Q142,LOC,Q142,France,"```json {""wikipedia_page"":""France"", ""wikidata_id"":""Q142""} ```",25.920188903808594
+IMP-1988-12-30-a-i0015,704,734,agence de presse libyenne Jana,Q1163812,ORG,Q1163812,Jamahiriya News Agency,"```json {""wikipedia_page"":""Jamahiriya News Agency"", ""wikidata_id"":""Q1163812""} ```",19.26643943786621
+IMP-1988-12-30-a-i0015,966,976,M. Bouvier,Q3270771,PER,Q3270771,Léon Bouvier,"```json {""wikipedia_page"":""Léon Bouvier"", ""wikidata_id"":""Q3270771""} ```",15.640164375305176
+IMP-1988-12-30-a-i0015,1002,1020,Jacqueline Valente,NIL,PER,NIL,Jacqueline Valente,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+IMP-1988-12-30-a-i0015,1054,1061,Tripoli,Q3579,LOC,Q3579,Tripoli,"```json {""wikipedia_page"":""Tripoli"", ""wikidata_id"":""Q3579""} ```",30.910236358642578
+IMP-1988-12-30-a-i0015,1205,1227,Jean-Charles Marchiani,Q3164674,PER,Q3164674,Jean-Charles Marchiani,"```json {""wikipedia_page"":""Jean-Charles Marchiani"", ""wikidata_id"":""Q3164674""} ```",37.30242156982422
+IMP-1988-12-30-a-i0015,1330,1335,Liban,Q822,LOC,Q822,Liban,"```json { ""wikipedia_page"": ""Liban"", ""wikidata_id"": ""Q822"" } ```",22.972902297973633
+IMP-1988-12-30-a-i0015,1346,1353,KADHAFI,Q19878,PER,Q19878,Mouammar Kadhafi,"```json { ""wikipedia_page"": ""Mouammar Kadhafi"", ""wikidata_id"": ""Q19878"" } ```",25.57455062866211
+IMP-1988-12-30-a-i0015,1406,1414,Beyrouth,Q3820,LOC,Q3820,Beyrouth,"```json {""wikipedia_page"": ""Beyrouth"", ""wikidata_id"": ""Q3820""} ```",32.14431381225586
+IMP-1988-12-30-a-i0015,1472,1505,dirigeant libyen Mouammar Kadhafi,Q19878,PER,Q19878,Mouammar Kadhafi,"```json {""wikipedia_page"":""Mouammar Kadhafi"", ""wikidata_id"":""Q19878""} ```",23.883071899414062
+IMP-1988-12-30-a-i0015,1564,1575,Marie-Laure,NIL,PER,NIL,Marie-Laure,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+IMP-1988-12-30-a-i0015,1579,1587,Virginie,NIL,PER,NIL,Virginie,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+IMP-1988-12-30-a-i0015,1589,1609,Mme Brigitte Valente,NIL,PER,NIL,Mme Brigitte Valente,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+IMP-1988-12-30-a-i0015,1626,1649,"père, M. Pascal Bétille",NIL,PER,NIL,"père, M. Pascal Bétille","```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+IMP-1988-12-30-a-i0015,1679,1687,Beyrouth,Q3820,LOC,Q3820,Beyrouth,"```json {""wikipedia_page"":""Beyrouth"", ""wikidata_id"":""Q3820""} ```",30.937641143798828
+IMP-1988-12-30-a-i0015,1748,1754,France,Q142,LOC,Q142,France,"```json {""wikipedia_page"":""France"", ""wikidata_id"":""Q142""} ```",24.849912643432617
+IMP-1988-12-30-a-i0015,1793,1796,ats,Q430109,ORG,Q430109,Agence télégraphique suisse,"```json {""wikipedia_page"":""Agence télégraphique suisse"", ""wikidata_id"":""Q430109""} ```",18.98565101623535
+IMP-1988-12-30-a-i0015,1798,1801,afp,Q40464,ORG,Q40464,Agence France-Presse,"```json {""wikipedia_page"":""Agence France-Presse"", ""wikidata_id"":""Q40464""} ```",29.410245895385742
+IMP-1998-07-23-a-i0080,0,13,Proche-Orient,Q48214,LOC,Q48214,Proche-Orient,"```json { ""wikipedia_page"": ""Proche-Orient"", ""wikidata_id"": ""Q48214"" } ```",27.636159896850586
+IMP-1998-07-23-a-i0080,70,83,Proche-Orient,Q48214,LOC,Q48214,Proche-Orient,"```json {""wikipedia_page"":""Proche-Orient"", ""wikidata_id"":""Q48214""} ```",34.10744094848633
+IMP-1998-07-23-a-i0080,198,204,Israël,Q801,LOC,Q801,Israël,"```json {""wikipedia_page"":""Israël"", ""wikidata_id"":""Q801""} ```",26.173086166381836
+IMP-1998-07-23-a-i0080,351,356,Golan,Q83210,LOC,Q83210,plateau du Golan,"```json {""wikipedia_page"":""plateau du Golan"", ""wikidata_id"":""Q83210""} ```",26.807764053344727
+IMP-1998-07-23-a-i0080,362,367,Syrie,Q858,LOC,Q858,Syrie,"```json {""wikipedia_page"":""Syrie"", ""wikidata_id"":""Q858""} ```",23.828794479370117
+IMP-1998-07-23-a-i0080,424,437,Yasser Arafat,Q34211,PER,Q34211,Yasser Arafat,"```json {""wikipedia_page"":""Yasser Arafat"", ""wikidata_id"":""Q34211""} ```",32.97563934326172
+IMP-1998-07-23-a-i0080,457,461,Gaza,Q47492,LOC,Q47492,Gaza,"```json {""wikipedia_page"": ""Gaza"", ""wikidata_id"": ""Q47492""} ```",32.954471588134766
+IMP-1998-07-23-a-i0080,585,591,Israël,Q801,LOC,Q801,Israël,"```json { ""wikipedia_page"": ""Israël"", ""wikidata_id"": ""Q801"" } ```",23.77751922607422
+IMP-1998-07-23-a-i0080,684,695,Cisjordanie,Q36678,LOC,Q36678,Cisjordanie,"```json {""wikipedia_page"":""Cisjordanie"", ""wikidata_id"":""Q36678""} ```",28.216079711914062
+IMP-1998-07-23-a-i0080,1037,1048,Cisjordanie,Q36678,LOC,Q36678,Cisjordanie,"```json {""wikipedia_page"":""Cisjordanie"",""wikidata_id"":""Q36678""} ```",24.65081787109375
+IMP-1998-07-23-a-i0080,1153,1158,Syrie,Q858,LOC,Q858,Syrie,"```json {""wikipedia_page"":""Syrie"", ""wikidata_id"":""Q858""} ```",21.847429275512695
+IMP-1998-07-23-a-i0080,1162,1165,afp,Q40464,ORG,Q40464,Agence France-Presse,"```json {""wikipedia_page"":""Agence France-Presse"", ""wikidata_id"":""Q40464""} ```",26.092636108398438
+IMP-1998-07-23-a-i0080,1166,1172,reuter,Q130879,ORG,Q130879,Reuters,"```json {""wikipedia_page"":""Reuters"", ""wikidata_id"":""Q130879""} ```",21.906726837158203
+IMP-2008-04-28-a-i0239,0,13,Stéphane Joly,Q2360344,PER,Q2360344,Stéphane Joly,"```json {""wikipedia_page"":""Stéphane Joly"", ""wikidata_id"":""Q2360344""} ```",48.80122756958008
+IMP-2008-04-28-a-i0239,104,110,Suisse,Q39,LOC,Q39,Suisse,"```json {""wikipedia_page"": ""Suisse"", ""wikidata_id"": ""Q39""} ```",23.55880355834961
+IMP-2008-04-28-a-i0239,120,133,Stéphane Joly,Q2360344,PER,Q2360344,Stéphane Joly,"```json {""wikipedia_page"":""Stéphane Joly"", ""wikidata_id"":""Q2360344""} ```",57.145347595214844
+IMP-2008-04-28-a-i0239,168,176,Hambourg,Q1055,LOC,Q1055,Hambourg,"```json {""wikipedia_page"":""Hambourg"", ""wikidata_id"":""Q1055""} ```",26.985544204711914
+IMP-2008-04-28-a-i0239,236,241,Pékin,Q956,LOC,Q956,Pékin,"```json {""wikipedia_page"":""Pékin"", ""wikidata_id"":""Q956""} ```",20.24973487854004
+IMP-2008-04-28-a-i0239,386,394,Breuleux,Q68086,LOC,Q68086,Les Breuleux,"```json {""wikipedia_page"":""Les Breuleux"", ""wikidata_id"":""Q68086""} ```",18.592182159423828
+IMP-2008-04-28-a-i0239,634,648,Patrick Wieser,Q87462075,PER,Q87462075,Patrick Wieser,"```json {""wikipedia_page"":""Patrick Wieser"", ""wikidata_id"":""Q87462075""} ```",49.85048294067383
+IMP-2008-04-28-a-i0239,810,835,compatriote Wilfred Kigen,Q351451,PER,Q351451,Wilfred Kibet Kigen,"```json {""wikipedia_page"":""Wilfred Kibet Kigen"", ""wikidata_id"":""Q351451""} ```",17.942991256713867
+IMP-2008-04-28-a-i0239,864,885,Russe Irina Timofeeva,Q451089,PER,Q451089,Irina Timofeyeva,"```json {""wikipedia_page"":""Irina Timofeyeva"", ""wikidata_id"":""Q451089""} ```",19.43030548095703
+IMP-2008-04-28-a-i0239,953,978,Kényane Pamela Chepchumba,Q274701,PER,Q274701,Pamela Chepchumba,"```json {""wikipedia_page"":""Pamela Chepchumba"", ""wikidata_id"":""Q274701""} ```",19.754194259643555
+IMP-2008-04-28-a-i0239,1005,1022,Kényan Abel Kirui,Q1704,PER,Q1704,Abel Kirui,"```json {""wikipedia_page"":""Abel Kirui"", ""wikidata_id"":""Q1704""} ```",21.806394577026367
+IMP-2008-04-28-a-i0239,1062,1068,Vienne,Q1741,LOC,Q1741,Vienne,"```json {""wikipedia_page"":""Vienne"", ""wikidata_id"":""Q1741""} ```",24.972742080688477
+IMP-2008-04-28-a-i0239,1118,1143,compatriotes Duncan Kibet,Q922817,PER,Q922817,Duncan Kibet,"```json { ""wikipedia_page"": ""Duncan Kibet"", ""wikidata_id"": ""Q922817"" } ```",14.05051040649414
+IMP-2008-04-28-a-i0239,1147,1158,Paul Biwott,Q945837,PER,Q945837,Paul Biwott,"```json {""wikipedia_page"": ""Paul Biwott"", ""wikidata_id"": ""Q945837""} ```",33.95410919189453
+IMP-2008-10-17-a-i0019,60,63,BNS,Q597394,ORG,Q597394,Banque nationale suisse,"```json { ""wikipedia_page"": ""Banque nationale suisse"", ""wikidata_id"": ""Q597394"" } ```",34.669212341308594
+IMP-2008-10-17-a-i0019,87,90,UBS,Q193199,ORG,Q193199,UBS,"```json {""wikipedia_page"":""UBS"", ""wikidata_id"":""Q193199""} ```",28.071863174438477
+IMP-2008-10-17-a-i0019,225,248,Banque nationale suisse,Q597394,ORG,Q597394,Banque nationale suisse,"```json {""wikipedia_page"":""Banque nationale suisse"", ""wikidata_id"":""Q597394""} ```",47.54824447631836
+IMP-2008-10-17-a-i0019,250,253,BNS,Q597394,ORG,Q597394,Banque nationale suisse,"```json { ""wikipedia_page"": ""Banque nationale suisse"", ""wikidata_id"": ""Q597394"" } ```",33.65906524658203
+IMP-2008-10-17-a-i0019,258,261,UBS,Q193199,ORG,Q193199,UBS,"```json { ""wikipedia_page"": ""UBS"", ""wikidata_id"": ""Q193199"" } ```",27.357057571411133
+IMP-2008-10-17-a-i0019,336,339,UBS,Q193199,ORG,Q193199,UBS,"```json {""wikipedia_page"": ""UBS"", ""wikidata_id"": ""Q193199""} ```",23.29743194580078
+IMP-2008-10-17-a-i0019,441,454,Credit Suisse,Q372657,ORG,Q372657,Credit Suisse,"```json {""wikipedia_page"":""Credit Suisse"", ""wikidata_id"":""Q372657""} ```",40.90251922607422
+IMP-2008-10-17-a-i0019,456,458,CS,Q372657,ORG,Q372657,Credit Suisse,"```json {""wikipedia_page"":""Credit Suisse"", ""wikidata_id"":""Q372657""} ```",26.613006591796875
+IMP-2008-10-17-a-i0019,585,588,BNS,Q597394,ORG,Q597394,Banque nationale suisse,"```json {""wikipedia_page"":""Banque nationale suisse"", ""wikidata_id"":""Q597394""} ```",31.762741088867188
+IMP-2008-10-17-a-i0019,596,601,Berne,Q70,LOC,Q70,Berne,"```json {""wikipedia_page"":""Berne"", ""wikidata_id"":""Q70""} ```",34.37822341918945
+IMP-2008-10-17-a-i0019,665,667,CS,Q372657,ORG,Q372657,Credit Suisse,"```json {""wikipedia_page"":""Credit Suisse"", ""wikidata_id"":""Q372657""} ```",28.855817794799805
+IMP-2008-10-17-a-i0019,743,762,Philippe Hildebrand,Q116927,PER,Q116927,Philipp Hildebrand,"```json { ""wikipedia_page"":""Philipp Hildebrand"", ""wikidata_id"":""Q116927"" } ```",39.74285888671875
+IMP-2008-10-17-a-i0019,1139,1142,BNS,Q597394,ORG,Q597394,Banque nationale suisse,"```json {""wikipedia_page"": ""Banque nationale suisse"", ""wikidata_id"": ""Q597394""} ```",31.036231994628906
+IMP-2008-10-17-a-i0019,1186,1189,UBS,Q193199,ORG,Q193199,UBS,"```json {""wikipedia_page"":""UBS"", ""wikidata_id"":""Q193199""} ```",21.709630966186523
+IMP-2008-10-17-a-i0019,1336,1342,Suisse,Q39,LOC,Q39,Suisse,"```json {""wikipedia_page"":""Suisse"", ""wikidata_id"":""Q39""} ```",21.51963996887207
+IMP-2008-10-17-a-i0019,1392,1429,"Jean-Pierre Roth, président de la BNS",Q120468,PER,Q120468,Jean-Pierre Roth,"```json {""wikipedia_page"":""Jean-Pierre Roth"", ""wikidata_id"":""Q120468""} ```",31.282926559448242
+IMP-2008-10-17-a-i0019,1535,1541,Suisse,Q39,LOC,Q39,Suisse,"```json { ""wikipedia_page"": ""Suisse"", ""wikidata_id"": ""Q39"" } ```",17.922496795654297
+IMP-2008-10-17-a-i0019,1585,1598,Credit Suisse,Q372657,ORG,Q372657,Credit Suisse,"```json {""wikipedia_page"":""Credit Suisse"", ""wikidata_id"":""Q372657""} ```",35.78872299194336
+IMP-2008-10-17-a-i0019,1637,1640,BNS,Q597394,ORG,Q597394,Banque nationale suisse,"```json {""wikipedia_page"":""Banque nationale suisse"", ""wikidata_id"":""Q597394""} ```",27.742340087890625
+IMP-2008-10-17-a-i0019,1703,1719,Jean-Pierre Roth,Q120468,PER,Q120468,Jean-Pierre Roth,"```json {""wikipedia_page"":""Jean-Pierre Roth"", ""wikidata_id"":""Q120468""} ```",34.62366485595703
+IMP-2008-10-17-a-i0019,2086,2089,BNS,Q597394,ORG,Q597394,Banque nationale suisse,"```json { ""wikipedia_page"": ""Banque nationale suisse"", ""wikidata_id"": ""Q597394"" } ```",21.445842742919922
+IMP-2008-10-17-a-i0019,2322,2325,BNS,Q597394,ORG,Q597394,Banque nationale suisse,"```json { ""wikipedia_page"": ""Banque nationale suisse"", ""wikidata_id"": ""Q597394"" } ```",22.27582550048828
+IMP-2008-10-17-a-i0019,2444,2447,ats,Q430109,ORG,Q430109,Agence télégraphique suisse,"```json { ""wikipedia_page"": ""Agence télégraphique suisse"", ""wikidata_id"": ""Q430109"" } ```",12.994951248168945

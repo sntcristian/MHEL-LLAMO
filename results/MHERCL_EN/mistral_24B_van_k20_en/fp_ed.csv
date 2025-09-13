@@ -1,0 +1,687 @@
+doc_id,start_pos,end_pos,surface,gt_id,type,identifier,title,answer,score
+document_000000.html,0,8,Gavinies,Q490205,PER,NIL,Gavinies,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+document_000001.html,58,74,Lord Chamberlain,Q541755,PER,Q1355456,Lord Chamberlain,"```json {""wikipedia_page"": ""Lord Chamberlain"", ""wikidata_id"": ""Q1355456""} ```",22.85060691833496
+document_000011.html,56,82,Dictionnaire des Musiciens,NIL,MISC,Q14774027,Dizionario Enciclopedico Universale della Musica e dei Musicisti,"```json {""wikipedia_page"":""Dizionario Enciclopedico Universale della Musica e dei Musicisti"", ""wikidata_id"":""Q14774027""} ```",28.49821662902832
+document_000013.html,29,39,Miss Orton,NIL,PER,Q16000354,J. O. C. Orton,"```json {""wikipedia_page"":""J. O. C. Orton"", ""wikidata_id"":""Q16000354""} ```",13.432531356811523
+document_000014.html,0,9,Mr. Mocre,Q315346,PER,NIL,Mr. Mocre,"```json {""wikipedia_page"": """", ""wikidata_id"": ""NIL""} ```",0
+document_000014.html,86,96,Mr. Bishop,Q1200639,PER,Q7787894,Thomas Brigham Bishop,"```json {""wikipedia_page"":""Thomas Brigham Bishop"", ""wikidata_id"":""Q7787894""} ```",9.531521797180176
+document_000015.html,2,5,Bow,NIL,PER,Q122607,Bow,"```json { ""wikipedia_page"": ""Bow"", ""wikidata_id"": ""Q122607"" } ```",16.80042839050293
+document_000015.html,12,21,E. Carper,NIL,PER,Q9250802,Edward Cowper,"```json {""wikipedia_page"":""Edward Cowper"", ""wikidata_id"":""Q9250802""} ```",17.464439392089844
+document_000019.html,12,22,H. Lazarus,Q5724751,PER,NIL,H. Lazarus,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000019.html,61,70,J. Thomas,Q1701921,PER,NIL,J. Thomas,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+document_000019.html,39,47,F. Ralph,NIL,PER,Q5481469,Francis James Ralph,"```json {""wikipedia_page"":""Francis James Ralph"", ""wikidata_id"":""Q5481469""} ```",15.786556243896484
+document_000019.html,49,59,P. Sainton,NIL,PER,Q2443056,Prosper Sainton,"```json {""wikipedia_page"":""Prosper Sainton"", ""wikidata_id"":""Q2443056""} ```",23.42365264892578
+document_000020.html,0,7,Batiste,Q274231,PER,NIL,Batiste,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000021.html,137,144,Oedipus,NIL,MISC,Q3719205,Oedipus at Colonus,"```json {""wikipedia_page"":""Oedipus at Colonus"", ""wikidata_id"":""Q3719205""} ```",17.7329158782959
+document_000024.html,21,34,Musicat Timzs,Q1757371,ORG,NIL,Musicat Timzs,"```json {""wikipedia_page"":"""",""wikidata_id"":""NIL""} ```",0
+document_000025.html,27,41,Earl of Cawdor,Q6224952,PER,Q5325786,Earl Cawdor,"```json { ""wikipedia_page"": ""Earl Cawdor"", ""wikidata_id"": ""Q5325786"" } ```",17.122753143310547
+document_000029.html,73,87,Hymn of Praise,Q210536,MISC,Q5691565,Hear My Prayer,"```json {""wikipedia_page"":""Hear My Prayer"", ""wikidata_id"":""Q5691565""} ```",24.942142486572266
+document_000031.html,49,60,Louis Dien1,Q19900926,PER,NIL,Louis Dien1,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000036.html,17,32,Tavistock Place,Q7689129,LOC,Q1936696,Tavistock Square,"```json {""wikipedia_page"": ""Tavistock Square"", ""wikidata_id"": ""Q1936696""} ```",21.242630004882812
+document_000037.html,111,119,Sirletti,Q102283903,PER,NIL,Sirletti,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000037.html,121,127,Asioli,Q892563,PER,Q23062750,Luigi Asioli,"```json {""wikipedia_page"":""Luigi Asioli"", ""wikidata_id"":""Q23062750""} ```",22.901718139648438
+document_000039.html,0,15,Second Concerto,NIL,MISC,Q176902,Piano Concerto No. 2,"```json {""wikipedia_page"":""Piano Concerto No. 2"", ""wikidata_id"":""Q176902""} ```",15.028511047363281
+document_000039.html,49,71,Le pas de Polichinelle,NIL,MISC,Q2630833,Pulcinella,"```json {""wikipedia_page"":""Pulcinella"", ""wikidata_id"":""Q2630833""} ```",13.718709945678711
+document_000048.html,88,96,Antigono,NIL,MISC,Q5700544,Antigono,"```json {""wikipedia_page"":""Antigono"", ""wikidata_id"":""Q5700544""} ```",16.944337844848633
+document_000048.html,159,175,court of Dresden,NIL,ORG,Q167314,Dresden Castle,"```json {""wikipedia_page"":""Dresden Castle"", ""wikidata_id"":""Q167314""} ```",14.047406196594238
+document_000052.html,38,46,Danaides,Q1751750,MISC,Q724907,Daughters of Danaus,"```json {""wikipedia_page"":""Daughters of Danaus"", ""wikidata_id"":""Q724907""} ```",22.435522079467773
+document_000052.html,4,21,Bacchanalian Song,NIL,MISC,Q2878195,bacchanale,"```json {""wikipedia_page"":""bacchanale"", ""wikidata_id"":""Q2878195""} ```",20.510623931884766
+document_000055.html,74,81,Ireland,Q22890,LOC,Q27,Ireland,"```json {""wikipedia_page"":""Ireland"", ""wikidata_id"":""Q27""} ```",19.417484283447266
+document_000057.html,49,62,Dr. Kitchiner,NIL,PER,Q8014067,William Kitchiner,"```json {""wikipedia_page"":""William Kitchiner"", ""wikidata_id"":""Q8014067""} ```",21.2136173248291
+document_000058.html,147,159,L’Abbe Guyon,Q2976789,PER,NIL,L’Abbe Guyon,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000058.html,100,126,History of the East Indies,NIL,MISC,Q3137499,Histoire philosophique et politique des établissements et du commerce des Européens dans les deux Indes,"```json {""wikipedia_page"":""Histoire philosophique et politique des établissements et du commerce des Européens dans les deux Indes"", ""wikidata_id"":""Q3137499""} ```",27.348981857299805
+document_000060.html,35,42,Grisias,Q287344,PER,NIL,Grisias,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000062.html,131,144,Theatre Royal,Q7777436,LOC,Q7777438,Theatre Royal,"```json {""wikipedia_page"": ""Theatre Royal"", ""wikidata_id"": ""Q7777438""} ```",22.922924041748047
+document_000065.html,64,68,Bart,NIL,PER,Q282019,baronet,"```json {""wikipedia_page"":""baronet"", ""wikidata_id"":""Q282019""} ```",15.596291542053223
+document_000068.html,57,66,Admiralty,Q396266,ORG,Q2333895,Board of Admiralty,"```json {""wikipedia_page"":""Board of Admiralty"", ""wikidata_id"":""Q2333895""} ```",20.201250076293945
+document_000070.html,45,50,Italy,Q38,LOC,Q172579,Kingdom of Italy,"```json { ""wikipedia_page"": ""Kingdom of Italy"", ""wikidata_id"": ""Q172579"" } ```",18.385631561279297
+document_000072.html,36,42,Walker,NIL,PER,Q6107402,J. W. Walker & Sons Ltd,"```json { ""wikipedia_page"": ""J. W. Walker & Sons Ltd"", ""wikidata_id"": ""Q6107402"" } ```",21.974199295043945
+document_000074.html,83,94,Chamberlain,Q541755,PER,Q6679028,Lord Chamberlain's Office,"```json {""wikipedia_page"":""Lord Chamberlain's Office"", ""wikidata_id"":""Q6679028""} ```",9.144433975219727
+document_000074.html,67,75,Mr. Mash,NIL,PER,Q4912946,Billy Marsh,"```json {""wikipedia_page"":""Billy Marsh"", ""wikidata_id"":""Q4912946""} ```",11.261210441589355
+document_000076.html,0,14,Cantate Domino,Q1326476,MISC,Q26297603,Cantate Domino,"```json {""wikipedia_page"":""Cantate Domino"", ""wikidata_id"":""Q26297603""} ```",11.18336296081543
+document_000076.html,19,34,Deus Misereatur,Q1689664,MISC,NIL,Deus Misereatur,"```json { ""wikipedia_page"": """", ""wikidata_id"": ""NIL"" } ```",0
+document_000079.html,52,76,District Musical Society,NIL,ORG,Q22312925,Musical Society of London,"```json {""wikipedia_page"":""Musical Society of London"", ""wikidata_id"":""Q22312925""} ```",15.892290115356445
+document_000081.html,14,23,Jarnowick,Q1526160,PER,NIL,Jarnowick,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000085.html,19,28,Cambridge,Q350,LOC,Q35794,University of Cambridge,"```json {""wikipedia_page"": ""University of Cambridge"", ""wikidata_id"": ""Q35794""} ```",24.32321548461914
+document_000085.html,0,15,Musical Society,NIL,ORG,Q5025606,Cambridge University Musical Society,"```json {""wikipedia_page"":""Cambridge University Musical Society"", ""wikidata_id"":""Q5025606""} ```",26.039587020874023
+document_000087.html,0,24,The Philharmonic Society,Q1292443,ORG,NIL,The Philharmonic Society,"```json {""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL""} ```",0
+document_000087.html,42,53,M. Schénche,NIL,PER,Q19999134,Emil Schennick,"```json { ""wikipedia_page"": ""Emil Schennick"", ""wikidata_id"": ""Q19999134"" } ```",23.07891845703125
+document_000088.html,0,15,Mr. Kalkbrenner,Q170270,PER,NIL,Mr. Kalkbrenner,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000089.html,1,22,Qui est Rex Gloriosus,NIL,MISC,Q17130748,Rex gloriose martyrum,"```json {""wikipedia_page"":""Rex gloriose martyrum"", ""wikidata_id"":""Q17130748""} ```",17.772817611694336
+document_000090.html,143,152,Cambridge,Q350,LOC,Q35794,University of Cambridge,"```json { ""wikipedia_page"": ""University of Cambridge"", ""wikidata_id"": ""Q35794"" } ```",18.771175384521484
+document_000094.html,58,65,Norwich,Q11991993,MISC,Q23109,Norfolk,"```json {""wikipedia_page"":""Norfolk"", ""wikidata_id"":""Q23109""} ```",22.788776397705078
+document_000094.html,66,79,Musical Union,Q11991993,MISC,NIL,Musical Union,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000095.html,96,123,institution degli Orfanelli,NIL,ORG,Q2512875,Ospedali,"```json {""wikipedia_page"":""Ospedali"", ""wikidata_id"":""Q2512875""} ```",15.662287712097168
+document_000098.html,83,97,Miss Rainforth,Q17355767,PER,NIL,Miss Rainforth,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000099.html,1,11,La Cascina,NIL,MISC,Q11930977,La cascina,"```json {""wikipedia_page"":""La cascina"", ""wikidata_id"":""Q11930977""} ```",15.345236778259277
+document_000099.html,16,23,Statira,NIL,MISC,Q6465323,La Statira,"```json { ""wikipedia_page"": ""La Statira"", ""wikidata_id"": ""Q6465323"" } ```",13.122681617736816
+document_000099.html,51,60,Artaserse,NIL,MISC,Q706159,Artaserse,"```json { ""wikipedia_page"": ""Artaserse"", ""wikidata_id"": ""Q706159"" } ```",13.421810150146484
+document_000099.html,66,81,Alessandro nell,NIL,MISC,Q336137,Alessandro Marcello,"```json {""wikipedia_page"": ""Alessandro Marcello"", ""wikidata_id"": ""Q336137""} ```",12.189074516296387
+document_000103.html,11,23,Ettore Fiori,Q55912552,PER,NIL,Ettore Fiori,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000106.html,0,9,Thornhill,Q1681192,PER,NIL,Thornhill,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000106.html,50,55,Prior,NIL,PER,Q1256302,Matthew Prior,"```json {""wikipedia_page"":""Matthew Prior"", ""wikidata_id"":""Q1256302""} ```",22.088844299316406
+document_000107.html,108,122,Grosvenor Hall,Q5610643,LOC,NIL,Grosvenor Hall,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000108.html,68,92,Charles V. et Dugueselin,NIL,MISC,Q5083098,Charles VI,"```json {""wikipedia_page"": ""Charles VI"", ""wikidata_id"": ""Q5083098""} ```",16.408687591552734
+document_000110.html,125,140,Theodore Distin,Q76098551,PER,NIL,Theodore Distin,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+document_000110.html,84,100,Florence Wydford,NIL,PER,Q5460818,Florence Wyle,"```json {""wikipedia_page"":""Florence Wyle"", ""wikidata_id"":""Q5460818""} ```",29.434486389160156
+document_000111.html,105,144,Almanach général de tous les spectacles,Q3235618,MISC,NIL,Almanach général de tous les spectacles,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000114.html,1,43,Lives of the Professors of Gresham College,NIL,MISC,Q6627317,list of masters of Gresham's School,"```json {""wikipedia_page"":""list of masters of Gresham's School"", ""wikidata_id"":""Q6627317""} ```",15.396903991699219
+document_000115.html,5,15,Saltarello,not in Wikidata,MISC,Q657047,saltarello,"```json {""wikipedia_page"":""saltarello"", ""wikidata_id"":""Q657047""} ```",17.76070785522461
+document_000117.html,20,47,Introduction and Variations,NIL,MISC,Q6058899,Introduction and Variations on a Theme by Mozart,"```json { ""wikipedia_page"": ""Introduction and Variations on a Theme by Mozart"", ""wikidata_id"": ""Q6058899"" } ```",15.013898849487305
+document_000119.html,29,35,London,Q84,LOC,NIL,London,"```json {""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL""} ```",0
+document_000119.html,37,41,Bath,Q22889,LOC,Q4868935,Bath Philharmonia,"```json {""wikipedia_page"": ""Bath Philharmonia"", ""wikidata_id"": ""Q4868935""} ```",18.533348083496094
+document_000124.html,86,96,Cannobiano,Q3982039,LOC,Q23291,Cannobio,"```json {""wikipedia_page"":""Cannobio"", ""wikidata_id"":""Q23291""} ```",16.32170867919922
+document_000128.html,0,3,The,NIL,MISC,Q840407,enthusiasm,"```json {""wikipedia_page"":""enthusiasm"", ""wikidata_id"":""Q840407""} ```",9.940170288085938
+document_000129.html,85,94,Gasparini,Q446955,PER,NIL,Gasparini,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+document_000133.html,69,74,Italy,Q38,LOC,Q172579,Kingdom of Italy,"```json {""wikipedia_page"":""Kingdom of Italy"", ""wikidata_id"":""Q172579""} ```",13.585088729858398
+document_000134.html,51,57,London,Q84,LOC,Q14946379,Diocese of London,"```json { ""wikipedia_page"": ""Diocese of London"", ""wikidata_id"": ""Q14946379"" } ```",13.294184684753418
+document_000136.html,23,53,Allegretto Scherzando con Brio,NIL,MISC,Q2081524,allegro,"```json {""wikipedia_page"":""allegro"", ""wikidata_id"":""Q2081524""} ```",13.143624305725098
+document_000137.html,57,73,Pio Glanchettini,Q18819786,PER,NIL,Pio Glanchettini,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000139.html,12,32,Studii of Palestrina,NIL,MISC,Q6612812,list of compositions by Giovanni Pierluigi da Palestrina,"```json {""wikipedia_page"":""list of compositions by Giovanni Pierluigi da Palestrina"", ""wikidata_id"":""Q6612812""} ```",17.73893165588379
+document_000141.html,103,109,Naples,Q2634,LOC,Q17080313,music of Naples,"```json {""wikipedia_page"": ""music of Naples"", ""wikidata_id"": ""Q17080313""} ```",18.892086029052734
+document_000143.html,14,54,Counterpoint of the ancients and moderns,NIL,MISC,Q267863,quarrel of the Ancients and the Moderns,"```json {""wikipedia_page"":""quarrel of the Ancients and the Moderns"", ""wikidata_id"":""Q267863""} ```",14.712231636047363
+document_000144.html,0,15,Mr. Kalkbrenner,Q170270,PER,NIL,Mr. Kalkbrenner,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000145.html,55,60,Pagin,Q516496,PER,Q21208832,Giovanni Pagnini,"```json {""wikipedia_page"":""Giovanni Pagnini"", ""wikidata_id"":""Q21208832""} ```",18.876543045043945
+document_000145.html,81,91,Gi- ardini,NIL,PER,Q3767354,Giovanni Gherardini,"```json {""wikipedia_page"":""Giovanni Gherardini"", ""wikidata_id"":""Q3767354""} ```",15.788761138916016
+document_000147.html,60,69,J. Barney,NIL,PER,Q20707908,John A. Barney,"```json { ""wikipedia_page"": ""John A. Barney"", ""wikidata_id"": ""Q20707908"" } ```",17.65891456604004
+document_000149.html,97,105,Bradford,Q22905,LOC,Q2834810,Bradford,"```json {""wikipedia_page"":""Bradford"", ""wikidata_id"":""Q2834810""} ```",26.463748931884766
+document_000151.html,58,75,trio of the Fates,NIL,MISC,Q180287,Moirae,"```json {""wikipedia_page"":""Moirae"", ""wikidata_id"":""Q180287""} ```",16.627429962158203
+document_000154.html,44,57,Miss Stephens,Q5052928,PER,NIL,Miss Stephens,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000155.html,33,46,Mr. H. Keeton,Q1438256,PER,NIL,Mr. H. Keeton,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000156.html,31,42,Amy Aylward,NIL,PER,Q64875956,Amy Augarde,"```json { ""wikipedia_page"": ""Amy Augarde"", ""wikidata_id"": ""Q64875956"" } ```",34.979766845703125
+document_000156.html,77,92,Marian Williams,NIL,PER,Q4470088,Marion Williams,"```json { ""wikipedia_page"": ""Marion Williams"", ""wikidata_id"": ""Q4470088"" } ```",30.27333641052246
+document_000158.html,30,36,Berliz,Q64,LOC,Q4077,Görlitz,"```json { ""wikipedia_page"": ""Görlitz"", ""wikidata_id"": ""Q4077"" } ```",16.113569259643555
+document_000159.html,99,110,Mr. Clifton,Q6224338,PER,NIL,Mr. Clifton,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000159.html,112,122,Mr. Crouch,NIL,PER,Q5497599,Frederick Crouch,"```json {""wikipedia_page"":""Frederick Crouch"", ""wikidata_id"":""Q5497599""} ```",17.602964401245117
+document_000162.html,102,114,Briderkizche,NIL,LOC,Q16953646,Brick Presbyterian Church,"```json {""wikipedia_page"":""Brick Presbyterian Church"", ""wikidata_id"":""Q16953646""} ```",13.125702857971191
+document_000163.html,0,6,Rachel,NIL,PER,Q267985,Rachel Félix,"```json { ""wikipedia_page"": ""Rachel Félix"", ""wikidata_id"": ""Q267985"" } ```",13.118718147277832
+document_000165.html,0,17,Signor Sabastiani,Q109802688,PER,NIL,Signor Sabastiani,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000169.html,52,82,Charleston Presbyterian Church,NIL,LOC,Q16891284,First (Scots) Presbyterian Church,"```json { ""wikipedia_page"": ""First (Scots) Presbyterian Church"", ""wikidata_id"": ""Q16891284"" } ```",32.93025207519531
+document_000170.html,0,8,M. Spohr,Q57226,PER,NIL,M. Spohr,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000170.html,52,67,Pietra @ Albano,NIL,MISC,Q3903808,Pietro d'Abano,"```json {""wikipedia_page"": ""Pietro d'Abano"", ""wikidata_id"": ""Q3903808""} ```",15.832484245300293
+document_000171.html,79,88,Beethoven,Q255,PER,Q1087216,Christ on the Mount of Olives,"```json {""wikipedia_page"":""Christ on the Mount of Olives"", ""wikidata_id"":""Q1087216""} ```",20.96209144592285
+document_000176.html,31,40,Argentina,Q588377,LOC,NIL,Argentina,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000177.html,0,8,Grazioli,Q1525873,PER,Q225922,Alessandro Grazioli,"```json {""wikipedia_page"":""Alessandro Grazioli"", ""wikidata_id"":""Q225922""} ```",23.268699645996094
+document_000178.html,46,59,Newnham Croft,Q7018643,LOC,NIL,Newnham Croft,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000184.html,39,53,Trinity Chapel,Q7842633,LOC,Q866896,Trinity Church,"```json {""wikipedia_page"":""Trinity Church"", ""wikidata_id"":""Q866896""} ```",30.444416046142578
+document_000186.html,49,59,Dr. Bridge,Q5497415,PER,Q925991,Robert Bridges,"```json {""wikipedia_page"":""Robert Bridges"", ""wikidata_id"":""Q925991""} ```",10.910428047180176
+document_000186.html,107,115,Oratorio,NIL,MISC,Q85477,oratorio,"```json {""wikipedia_page"":""oratorio"", ""wikidata_id"":""Q85477""} ```",15.296674728393555
+document_000187.html,120,125,psalm,Q41064,MISC,NIL,psalm,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000189.html,66,85,Mademoiselle Sontag,Q64098,PER,Q1418586,Franziska Sontag,"```json {""wikipedia_page"":""Franziska Sontag"", ""wikidata_id"":""Q1418586""} ```",16.255266189575195
+document_000190.html,73,81,Caffiaux,NIL,PER,Q55585567,Henri Caffiaux,"```json {""wikipedia_page"":""Henri Caffiaux"", ""wikidata_id"":""Q55585567""} ```",17.498207092285156
+document_000191.html,25,32,Antient,Q17510840,MISC,NIL,Antient,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+document_000191.html,4,16,Philharmonic,NIL,ORG,Q1364157,philharmonic society,"```json { ""wikipedia_page"":""philharmonic society"", ""wikidata_id"":""Q1364157"" } ```",14.481759071350098
+document_000192.html,0,6,Ramsay,Q654775,PER,NIL,Ramsay,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000194.html,38,71,National Training School of Music,Q55082727,ORG,Q6971606,National College of Music,"```json {""wikipedia_page"":""National College of Music"", ""wikidata_id"":""Q6971606""} ```",23.725996017456055
+document_000198.html,0,9,Dr. Barry,NIL,PER,Q8009301,William Francis Barry,"```json { ""wikipedia_page"": ""William Francis Barry"", ""wikidata_id"": ""Q8009301"" } ```",11.812464714050293
+document_000198.html,170,177,Society,NIL,ORG,Q7374846,Royal Society of Musicians,"```json { ""wikipedia_page"": ""Royal Society of Musicians"", ""wikidata_id"": ""Q7374846"" } ```",6.954970359802246
+document_000201.html,55,60,China,Q148,LOC,Q12060881,Chinese Empire,"```json {""wikipedia_page"": ""Chinese Empire"", ""wikidata_id"": ""Q12060881""} ```",10.925439834594727
+document_000203.html,45,54,Macfarren,Q1374708,PER,Q18954633,Walter Cecil Macfarren,"```json {""wikipedia_page"":""Walter Cecil Macfarren"", ""wikidata_id"":""Q18954633""} ```",15.914481163024902
+document_000203.html,34,43,S. Glover,NIL,PER,Q518625,Sarah Ann Glover,"```json { ""wikipedia_page"": ""Sarah Ann Glover"", ""wikidata_id"": ""Q518625"" } ```",18.945297241210938
+document_000204.html,59,71,Dr. Sullivan,NIL,PER,Q212692,Arthur Sullivan,"```json {""wikipedia_page"":""Arthur Sullivan"", ""wikidata_id"":""Q212692""} ```",12.200105667114258
+document_000206.html,3,14,In Memoriam,NIL,MISC,Q3509975,in memoriam,"```json {""wikipedia_page"":""In memoriam"", ""wikidata_id"":""Q3509975""} ```",17.10597801208496
+document_000209.html,80,97,Maestro del Fante,Q18416097,PER,NIL,Maestro del Fante,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000210.html,62,73,Alfred Shaw,Q3291051,PER,NIL,Alfred Shaw,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000210.html,91,99,Phillips,NIL,PER,Q18671452,Henry Phillips,"```json {""wikipedia_page"":""Henry Phillips"", ""wikidata_id"":""Q18671452""} ```",10.823854446411133
+document_000213.html,38,77,Accompanying Harmonies to Psalter Noted,NIL,MISC,Q3065135,Harmonies poétiques et religieuses,"```json { ""wikipedia_page"": ""Harmonies poétiques et religieuses"", ""wikidata_id"": ""Q3065135"" } ```",23.522438049316406
+document_000218.html,39,62,Chapel Royal of Prussia,NIL,ORG,Q19902156,court chapel,"```json {""wikipedia_page"": ""court chapel"", ""wikidata_id"": ""Q19902156""} ```",21.569265365600586
+document_000219.html,66,72,France,Q142,LOC,Q70972,Kingdom of France,"```json {""wikipedia_page"":""Kingdom of France"", ""wikidata_id"":""Q70972""} ```",18.417308807373047
+document_000223.html,54,65,Marie Duval,NIL,PER,Q3292499,Marie Duval,"```json { ""wikipedia_page"": ""Marie Duval"", ""wikidata_id"": ""Q3292499"" } ```",35.73715591430664
+document_000225.html,43,60,Hallfield - place,NIL,LOC,Q5642943,Hallfield House,"```json {""wikipedia_page"":""Hallfield House"", ""wikidata_id"":""Q5642943""} ```",19.17643928527832
+document_000226.html,71,90,Dr. H. J. Gauntlett,Q11925412,PER,NIL,Dr. H. J. Gauntlett,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000227.html,99,111,Fanny Steers,Q104234927,PER,NIL,Fanny Steers,"```json {""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL""} ```",0
+document_000228.html,70,79,Louis XIV,NIL,PER,Q7742,Louis XIV of France,"```json {""wikipedia_page"":""Louis XIV of France"", ""wikidata_id"":""Q7742""} ```",29.046785354614258
+document_000231.html,23,37,Miss Rainforth,Q17355767,PER,NIL,Miss Rainforth,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000234.html,0,7,Beasley,NIL,PER,Q20995726,Beasley,"```json {""wikipedia_page"":""Beasley"", ""wikidata_id"":""Q20995726""} ```",16.697107315063477
+document_000234.html,28,45,Alice Mary Curtis,NIL,PER,Q1190960,Alice Mary Smith,"```json {""wikipedia_page"":""Alice Mary Smith"", ""wikidata_id"":""Q1190960""} ```",26.042821884155273
+document_000234.html,47,58,nia Sheehan,NIL,PER,Q73330798,Nessa Ní Shéaghdha,"```json {""wikipedia_page"":""Nessa Ní Shéaghdha"", ""wikidata_id"":""Q73330798""} ```",16.14242935180664
+document_000237.html,0,10,Lord Bacon,Q37388,PER,Q171677,Roger Bacon,"```json { ""wikipedia_page"": ""Roger Bacon"", ""wikidata_id"": ""Q171677"" } ```",21.566869735717773
+document_000238.html,10,37,St. Mary - at - Hill Church,Q7594548,LOC,NIL,St. Mary - at - Hill Church,"```json {""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL""} ```",0
+document_000240.html,21,45,Catalogue of Manuscripts,NIL,MISC,Q41600475,Catalogue of Scientific Papers,"```json {""wikipedia_page"":""Catalogue of Scientific Papers"", ""wikidata_id"":""Q41600475""} ```",23.011632919311523
+document_000241.html,39,46,Society,NIL,ORG,Q8425,society,"```json {""wikipedia_page"":""society"", ""wikidata_id"":""Q8425""} ```",9.433866500854492
+document_000242.html,37,51,theatre Favart,Q872222,LOC,Q47419907,Salle Favart,"```json {""wikipedia_page"":""Salle Favart"", ""wikidata_id"":""Q47419907""} ```",18.417098999023438
+document_000246.html,58,66,Abesford,NIL,LOC,Q2853591,Aberford,"```json {""wikipedia_page"": ""Aberford"", ""wikidata_id"": ""Q2853591""} ```",16.069595336914062
+document_000248.html,4,8,York,Q42462,LOC,Q163,Yorkshire,"```json {""wikipedia_page"":""Yorkshire"", ""wikidata_id"":""Q163""} ```",27.185293197631836
+document_000248.html,22,29,meeting,NIl,MISC,Q1482264,Yearly Meeting,"```json {""wikipedia_page"":""Yearly Meeting"", ""wikidata_id"":""Q1482264""} ```",25.571962356567383
+document_000249.html,2,26,Mrs. Mounsey Bartholomew,Q4766585,PER,NIL,Mrs. Mounsey Bartholomew,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000249.html,28,37,J. Barnby,NIL,PER,Q5566022,Joseph Barnby,"```json { ""wikipedia_page"": ""Joseph Barnby"", ""wikidata_id"": ""Q5566022"" } ```",29.774154663085938
+document_000250.html,0,6,Sontag,Q64098,PER,NIL,Sontag,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000250.html,26,34,Brussels,Q9005,LOC,Q239,City of Brussels,"```json {""wikipedia_page"":""City of Brussels"", ""wikidata_id"":""Q239""} ```",23.176502227783203
+document_000253.html,29,45,Lord Chamberlain,Q541755,PER,Q1355456,Lord Chamberlain,"```json {""wikipedia_page"":""Lord Chamberlain"", ""wikidata_id"":""Q1355456""} ```",17.430315017700195
+document_000253.html,8,17,Mr. Hawes,NIL,PER,Q4888797,Benjamin Hawes,"```json {""wikipedia_page"":""Benjamin Hawes"", ""wikidata_id"":""Q4888797""} ```",16.367393493652344
+document_000254.html,0,10,Mr. Linley,Q5541748,PER,NIL,Mr. Linley,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000259.html,64,98,National Training School for Music,Q55082727,ORG,Q2468726,National Association for Music Education,"```json {""wikipedia_page"":""National Association for Music Education"", ""wikidata_id"":""Q2468726""} ```",17.455280303955078
+document_000260.html,0,5,Grisi,Q287344,PER,Q3775986,Grazia Gresi,"```json {""wikipedia_page"":""Grazia Gresi"", ""wikidata_id"":""Q3775986""} ```",8.900565147399902
+document_000262.html,67,83,Societa Armonica,NIL,ORG,Q4793674,Armonico Consort,"```json {""wikipedia_page"": ""Armonico Consort"", ""wikidata_id"": ""Q4793674""} ```",17.317113876342773
+document_000263.html,0,7,Tauride,NIL,MISC,Q687822,Iphigénie en Tauride,"```json {""wikipedia_page"":""Iphigénie en Tauride"", ""wikidata_id"":""Q687822""} ```",12.82153606414795
+document_000267.html,42,62,CHARLES JOSEPH FROST,Q94766323,PER,NIL,CHARLES JOSEPH FROST,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000267.html,0,27,A COLLECTION OF ORGAN PIECE,NIL,MISC,Q6600418,list of compositions for organ,"```json {""wikipedia_page"":""list of compositions for organ"", ""wikidata_id"":""Q6600418""} ```",13.901309967041016
+document_000269.html,73,80,Paccini,Q357022,PER,NIL,Paccini,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000270.html,24,35,Mrs. Bridge,NIL,PER,Q17114009,Mrs. Bridge,"```json {""wikipedia_page"":""Mrs. Bridge"", ""wikidata_id"":""Q17114009""} ```",15.804705619812012
+document_000272.html,13,30,Ciro riconosciuto,Q18325000,MISC,NIL,Ciro riconosciuto,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000280.html,40,61,Chevalier de Lorraine,Q916954,PER,NIL,Chevalier de Lorraine,"```json {""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL""} ```",0
+document_000281.html,51,60,Schneider,Q213906,PER,Q38389516,Ludwig Schneider,"```json {""wikipedia_page"":""Ludwig Schneider"", ""wikidata_id"":""Q38389516""} ```",8.32756233215332
+document_000282.html,0,5,Ferri,Q804749,PER,NIL,Ferri,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000282.html,80,98,cross of Calatrava,Q756910,ORG,Q8464555,cross of Calatrava,"```json {""wikipedia_page"":""cross of Calatrava"", ""wikidata_id"":""Q8464555""} ```",19.664134979248047
+document_000282.html,239,245,Athens,Q1524,LOC,Q844930,Classical Athens,"```json {""wikipedia_page"": ""Classical Athens"", ""wikidata_id"": ""Q844930""} ```",19.529739379882812
+document_000283.html,78,92,Crystal Palace,Q202902,LOC,Q5191311,Crystal Palace Park Concert Platform,"```json {""wikipedia_page"": ""Crystal Palace Park Concert Platform"", ""wikidata_id"": ""Q5191311""} ```",19.45532989501953
+document_000283.html,0,18,Symphony in E flat,NIL,MISC,Q7661672,Symphony in E flat,"```json {""wikipedia_page"":""Symphony in E flat"", ""wikidata_id"":""Q7661672""} ```",14.165882110595703
+document_000284.html,22,37,Madame Caradori,Q16065895,PER,NIL,Madame Caradori,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+document_000284.html,42,64,Mademoiselle Brambilla,Q3847905,PER,Q3984276,Teresa Brambilla,"```json {""wikipedia_page"":""Teresa Brambilla"", ""wikidata_id"":""Q3984276""} ```",17.216575622558594
+document_000284.html,80,95,Signors Curioni,Q87346693,PER,NIL,Signors Curioni,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000284.html,97,107,Pellegrini,NIL,PER,Q18402652,Julius Pellegrini,"```json {""wikipedia_page"":""Julius Pellegrini"", ""wikidata_id"":""Q18402652""} ```",12.070368766784668
+document_000284.html,113,118,Porto,NIL,PER,Q3909125,Porto,"```json { ""wikipedia_page"": ""Porto"", ""wikidata_id"": ""Q3909125"" } ```",9.103241920471191
+document_000287.html,84,99,Rev. Mr. Liston,Q5724966,PER,NIL,Rev. Mr. Liston,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000289.html,45,62,Adelaide Phillips,Q4681758,PER,NIL,Adelaide Phillips,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000290.html,36,47,the Passion,Q237382,MISC,Q781815,passion,"```json {""wikipedia_page"":""passion"", ""wikidata_id"":""Q781815""} ```",14.01797103881836
+document_000291.html,0,6,Varesi,Q102075928,PER,Q946710,Felice Varesi,"```json {""wikipedia_page"":""Felice Varesi"", ""wikidata_id"":""Q946710""} ```",19.59125518798828
+document_000292.html,52,57,Rebel,NIL,PER,Q573126,François Rebel,"```json {""wikipedia_page"":""François Rebel"", ""wikidata_id"":""Q573126""} ```",15.080842971801758
+document_000294.html,30,46,Miss Edith Wynne,Q7422270,PER,Q62507116,Wish Wynne,"```json {""wikipedia_page"":""Wish Wynne"", ""wikidata_id"":""Q62507116""} ```",25.845531463623047
+document_000294.html,48,60,Madame Patey,Q6153509,PER,NIL,Madame Patey,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000295.html,93,102,Spectator,Q1790750,ORG,Q581322,The Spectator,"```json { ""wikipedia_page"": ""The Spectator"", ""wikidata_id"": ""Q581322"" } ```",12.734793663024902
+document_000297.html,46,56,Mr. Cowper,Q315537,PER,Q9250802,Edward Cowper,"```json {""wikipedia_page"":""Edward Cowper"", ""wikidata_id"":""Q9250802""} ```",15.733241081237793
+document_000298.html,0,12,Mr. J. Wylde,NIL,PER,Q15072658,Henry Wylde,"```json {""wikipedia_page"":""Henry Wylde"", ""wikidata_id"":""Q15072658""} ```",26.845821380615234
+document_000301.html,50,57,Soretti,NIL,PER,Q3946228,Salvatore Sorrenti,"```json { ""wikipedia_page"": ""Salvatore Sorrenti"", ""wikidata_id"": ""Q3946228"" } ```",15.378042221069336
+document_000303.html,29,41,Sir W. Scott,Q79025,PER,Q7529404,"Sir Walter Scott, 1st Baronet, of Beauclerc","```json {""wikipedia_page"":""Sir Walter Scott, 1st Baronet, of Beauclerc"", ""wikidata_id"":""Q7529404""} ```",25.16831398010254
+document_000309.html,49,69,Dr. Clarke Whitfield,Q6226247,PER,NIL,Dr. Clarke Whitfield,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000310.html,23,32,Miss Wood,NIL,PER,Q5209784,Daisy Wood,"```json {""wikipedia_page"":""Daisy Wood"", ""wikidata_id"":""Q5209784""} ```",12.198606491088867
+document_000314.html,54,64,Rudolstadt,Q517107,LOC,Q695316,Schwarzburg-Rudolstadt,"```json {""wikipedia_page"": ""Schwarzburg-Rudolstadt"", ""wikidata_id"": ""Q695316""} ```",16.685302734375
+document_000315.html,75,90,Mr. T. M. Mudie,Q18577092,PER,NIL,Mr. T. M. Mudie,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000316.html,74,92,Her Royal Highness,Q61328,PER,NIL,Her Royal Highness,"```json {""wikipedia_page"":""NIL"",""wikidata_id"":""NIL""} ```",0
+document_000318.html,41,50,Cambridge,Q350,LOC,Q35794,University of Cambridge,"```json {""wikipedia_page"": ""University of Cambridge"", ""wikidata_id"": ""Q35794""} ```",26.58473777770996
+document_000319.html,17,29,Boyton Smith,Q110136517,PER,NIL,Boyton Smith,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000319.html,59,74,E. M. Delaborde,NIL,PER,Q4157016,Élie-Miriam Delaborde,"```json {""wikipedia_page"":""Élie-Miriam Delaborde"", ""wikidata_id"":""Q4157016""} ```",30.579910278320312
+document_000319.html,99,111,E. H. Turpin,NIL,PER,Q5339543,Edmund Hart Turpin,"```json {""wikipedia_page"":""Edmund Hart Turpin"", ""wikidata_id"":""Q5339543""} ```",34.01960754394531
+document_000319.html,198,209,J. Tilleard,NIL,PER,Q3180892,John Alexander Tilleard,"```json {""wikipedia_page"":""John Alexander Tilleard"", ""wikidata_id"":""Q3180892""} ```",27.51151466369629
+document_000321.html,0,11,Crescentini,Q552124,PER,NIL,Crescentini,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000321.html,48,69,conservatory of Peris,Q463055,ORG,NIL,conservatory of Peris,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000323.html,46,74,Prince de la Tour d’Auvergne,Q3132295,PER,NIL,Prince de la Tour d’Auvergne,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000323.html,80,98,Dake of Manchester,Q860041,PER,Q302545,Duke of Manchester,"```json {""wikipedia_page"": ""Duke of Manchester"", ""wikidata_id"": ""Q302545""} ```",14.00118637084961
+document_000329.html,69,97,Kidderminster Choral Society,NIL,ORG,Q6404669,Kidderminster College,"```json {""wikipedia_page"":""Kidderminster College"", ""wikidata_id"":""Q6404669""} ```",26.137182235717773
+document_000331.html,68,84,Renfrew - street,NIL,LOC,Q7056883,North Street,"```json {""wikipedia_page"":""North Street"", ""wikidata_id"":""Q7056883""} ```",17.435016632080078
+document_000333.html,4,21,Fitzwilliam Music,Q1421448,MISC,Q1421440,Fitzwilliam Museum,"```json { ""wikipedia_page"": ""Fitzwilliam Museum"", ""wikidata_id"": ""Q1421440"" } ```",18.736820220947266
+document_000334.html,32,39,England,Q21,LOC,Q179876,Kingdom of England,"```json {""wikipedia_page"": ""Kingdom of England"", ""wikidata_id"": ""Q179876""} ```",15.369067192077637
+document_000338.html,43,55,M. Tolbeeque,Q2871419,PER,NIL,M. Tolbeeque,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+document_000344.html,160,171,Lord Dudley,Q8019995,PER,NIL,Lord Dudley,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000348.html,44,57,Covent Garden,Q55018,LOC,Q55019,Covent Garden,"```json {""wikipedia_page"":""Covent Garden"", ""wikidata_id"":""Q55019""} ```",31.50176239013672
+document_000348.html,61,71,Drury Lane,Q1756626,LOC,Q1261392,Drury Lane,"```json {""wikipedia_page"": ""Drury Lane"", ""wikidata_id"": ""Q1261392""} ```",26.8726749420166
+document_000349.html,13,35,G. and W. B. Whittaker,Q19862364,ORG,Q5537524,George Byrom Whittaker,"```json {""wikipedia_page"":""George Byrom Whittaker"", ""wikidata_id"":""Q5537524""} ```",24.076574325561523
+document_000349.html,57,73,Clementi and Co.,NIL,ORG,Q19372303,Clementi & Company,"```json {""wikipedia_page"": ""Clementi & Company"", ""wikidata_id"": ""Q19372303""} ```",15.112162590026855
+document_000351.html,0,13,Dr. Harington,Q18671401,PER,NIL,Dr. Harington,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000353.html,48,57,Helmstadt,Q504431,LOC,Q314466,University of Helmstedt,"```json {""wikipedia_page"":""University of Helmstedt"", ""wikidata_id"":""Q314466""} ```",17.109514236450195
+document_000355.html,83,99,Academy of Music,Q4671497,ORG,Q28469887,music academy,"```json {""wikipedia_page"":""music academy"", ""wikidata_id"":""Q28469887""} ```",15.513376235961914
+document_000356.html,0,26,The Merry Wives of Windsor,NIL,MISC,Q844836,The Merry Wives of Windsor,"```json {""wikipedia_page"":""The Merry Wives of Windsor"", ""wikidata_id"":""Q844836""} ```",26.125642776489258
+document_000357.html,27,36,Shakspere,Shakspere,PER,Q692,William Shakespeare,"```json {""wikipedia_page"": ""William Shakespeare"", ""wikidata_id"": ""Q692""} ```",22.781391143798828
+document_000358.html,154,168,Signer -Monari,Q3680460,PER,Q983061,Luciano Monari,"```json {""wikipedia_page"":""Luciano Monari"", ""wikidata_id"":""Q983061""} ```",11.068629264831543
+document_000365.html,4,21,Duke of Edinburgh,Q158143,PER,Q824569,Duke of Edinburgh,"```json { ""wikipedia_page"": ""Duke of Edinburgh"", ""wikidata_id"": ""Q824569"" } ```",22.960262298583984
+document_000365.html,142,164,Royal Academy of Music,Q1144673,ORG,Q1473756,Royal Academy of Music,"```json { ""wikipedia_page"": ""Royal Academy of Music"", ""wikidata_id"": ""Q1473756"" } ```",28.801042556762695
+document_000377.html,23,41,Duke of Cumberland,Q162302,PER,Q699738,"Prince Henry, Duke of Cumberland and Strathearn","```json {""wikipedia_page"":""Prince Henry, Duke of Cumberland and Strathearn"", ""wikidata_id"":""Q699738""} ```",23.906091690063477
+document_000378.html,37,50,Archbishop of,Q3048710,PER,Q1363910,Anglican Archbishop of York,"```json {""wikipedia_page"":""Anglican Archbishop of York"", ""wikidata_id"":""Q1363910""} ```",18.387250900268555
+document_000378.html,51,55,York,Q42462,LOC,Q1363910,Anglican Archbishop of York,"```json { ""wikipedia_page"": ""Anglican Archbishop of York"", ""wikidata_id"": ""Q1363910"" } ```",18.762248992919922
+document_000380.html,77,96,Der Leopard und der,NIL,MISC,Q85776274,Leopoldstadt,"```json { ""wikipedia_page"": ""Leopoldstadt"", ""wikidata_id"": ""Q85776274"" } ```",16.247417449951172
+document_000382.html,29,35,Gnecco,Q1121021,PER,Q3770700,Giuseppe Gnecco,"```json {""wikipedia_page"":""Giuseppe Gnecco"", ""wikidata_id"":""Q3770700""} ```",17.91890525817871
+document_000385.html,3,28,Sona of the Roving Gypsey,NIL,MISC,Q16222479,SORNE,"```json {""wikipedia_page"":""SORNE"", ""wikidata_id"":""Q16222479""} ```",14.912629127502441
+document_000387.html,85,110,Journal of Professor Voss,NIL,ORG,Q16850894,"Journal of Natural Philosophy, Chemistry, and the Arts","```json {""wikipedia_page"":""Journal of Natural Philosophy, Chemistry, and the Arts"", ""wikidata_id"":""Q16850894""} ```",19.283811569213867
+document_000389.html,0,37,Variations on a favourite Russian Air,NIL,MISC,Q6631743,list of operas by Weber,"```json {""wikipedia_page"":""list of operas by Weber"", ""wikidata_id"":""Q6631743""} ```",17.044921875
+document_000389.html,59,78,Brilliant Polonaise,NIL,MISC,Q107732457,Polacca brillante,"```json {""wikipedia_page"":""Polacca brillante"", ""wikidata_id"":""Q107732457""} ```",19.117237091064453
+document_000390.html,112,119,Bristol,Q23154,LOC,NIL,Bristol,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000393.html,0,13,National Hymn,Q40807,MISC,Q23691,national anthem,"```json { ""wikipedia_page"": ""national anthem"", ""wikidata_id"": ""Q23691"" } ```",26.182483673095703
+document_000393.html,61,76,Prince of Wales,Q20875,PER,NIL,Prince of Wales,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+document_000394.html,27,43,Achille in Sciro,Q18280239,MISC,Q5702007,Achille in Sciro,"```json {""wikipedia_page"":""Achille in Sciro"", ""wikidata_id"":""Q5702007""} ```",21.156837463378906
+document_000394.html,2,17,Amore in Musica,NIL,MISC,Q11930179,L'amore in musica,"```json { ""wikipedia_page"": ""L'amore in musica"", ""wikidata_id"": ""Q11930179"" } ```",29.180152893066406
+document_000394.html,86,97,J Olympiade,NIL,MISC,Q5967670,L'olimpiade,"```json {""wikipedia_page"":""L'olimpiade"", ""wikidata_id"":""Q5967670""} ```",17.037723541259766
+document_000395.html,14,21,Clifton,Q2376216,LOC,NIL,Clifton,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000396.html,87,92,Baden,Q4100,LOC,Q186320,Grand Duchy of Baden,"```json { ""wikipedia_page"":""Grand Duchy of Baden"", ""wikidata_id"":""Q186320"" } ```",21.15876579284668
+document_000396.html,18,35,Catl August Weber,NIL,PER,Q72817337,Carl August Weber,"```json {""wikipedia_page"":""Carl August Weber"", ""wikidata_id"":""Q72817337""} ```",28.163240432739258
+document_000397.html,0,9,Dr. Sponr,Q57226,PER,NIL,Dr. Sponr,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000398.html,151,165,Der Freischutz,Q156435,MISC,NIL,Der Freischutz,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000400.html,21,30,Canticles,Q51670,MISC,Q1033831,canticle,"```json {""wikipedia_page"":""canticle"", ""wikidata_id"":""Q1033831""} ```",21.93943214416504
+document_000400.html,48,72,His Grace the Archbishop,Q377308,PER,Q1363910,Anglican Archbishop of York,"```json { ""wikipedia_page"": ""Anglican Archbishop of York"", ""wikidata_id"": ""Q1363910"" } ```",11.611735343933105
+document_000402.html,79,92,Musical World,Q115925788,MISC,NIL,Musical World,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000403.html,196,204,M. Eroff,NIL,PER,Q28099879,Arno Erfurth,"```json {""wikipedia_page"":""Arno Erfurth"", ""wikidata_id"":""Q28099879""} ```",16.607410430908203
+document_000403.html,220,230,M. Fontana,NIL,PER,Q16853492,Vincenzo Fontana,"```json {""wikipedia_page"":""Vincenzo Fontana"", ""wikidata_id"":""Q16853492""} ```",17.021602630615234
+document_000405.html,0,13,Mr. Kiallmark,Q18671297,PER,NIL,Mr. Kiallmark,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000408.html,45,55,Mr. Waters,Q16859200,PER,NIL,Mr. Waters,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000409.html,20,36,Mr. E. J. Bilton,Q110966934,PER,NIL,Mr. E. J. Bilton,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000409.html,55,64,Cambridge,Q350,LOC,Q35794,University of Cambridge,"```json {""wikipedia_page"":""University of Cambridge"", ""wikidata_id"":""Q35794""} ```",31.065200805664062
+document_000410.html,16,29,Francis Fowke,NIL,PER,Q3378439,Francis Fowke,"```json {""wikipedia_page"": ""Francis Fowke"", ""wikidata_id"": ""Q3378439""} ```",32.38024139404297
+document_000410.html,39,51,Sir W. Jones,NIL,PER,Q273969,William Jones,"```json {""wikipedia_page"":""William Jones"", ""wikidata_id"":""Q273969""} ```",19.82093048095703
+document_000411.html,32,41,Meiningen,Q487278,LOC,Q157710,Saxe-Meiningen,"```json {""wikipedia_page"":""Saxe-Meiningen"", ""wikidata_id"":""Q157710""} ```",22.678783416748047
+document_000412.html,2,15,Le Colporteur,NIL,MISC,Q848466,courier,"```json {""wikipedia_page"":""courier"", ""wikidata_id"":""Q848466""} ```",12.603484153747559
+document_000413.html,66,80,Portland Hotel,NIL,LOC,Q7231953,Portland Hotel,"```json {""wikipedia_page"":""Portland Hotel"", ""wikidata_id"":""Q7231953""} ```",24.48752784729004
+document_000414.html,63,67,Hall,NIL,LOC,Q940462,music hall,"```json {""wikipedia_page"":""music hall"", ""wikidata_id"":""Q940462""} ```",7.4549407958984375
+document_000418.html,138,150,Skating Rink,NIL,LOC,Q1282870,ice rink,"```json { ""wikipedia_page"": ""ice rink"", ""wikidata_id"": ""Q1282870"" } ```",20.222917556762695
+document_000419.html,61,76,Vernon - street,NIL,LOC,Q14997139,Berners Street,"```json { ""wikipedia_page"": ""Berners Street"", ""wikidata_id"": ""Q14997139"" } ```",12.73155403137207
+document_000420.html,0,8,The Glee,NIL,MISC,Q663979,glee,"```json { ""wikipedia_page"": ""glee"", ""wikidata_id"": ""Q663979"" } ```",21.386573791503906
+document_000420.html,10,24,the Elf - King,NIL,MISC,Q174396,elf,"```json {""wikipedia_page"":""elf"", ""wikidata_id"":""Q174396""} ```",14.532936096191406
+document_000421.html,4,12,Crociato,NIL,MISC,Q920564,Giovanni Croce,"```json {""wikipedia_page"":""Giovanni Croce"", ""wikidata_id"":""Q920564""} ```",15.644896507263184
+document_000421.html,65,78,Melographicon,NIL,MISC,Q6813515,melograph,"```json {""wikipedia_page"": ""melograph"", ""wikidata_id"": ""Q6813515""} ```",14.979496002197266
+document_000421.html,84,92,Mengozzi,NIL,PER,Q98097756,Mengozzi,"```json {""wikipedia_page"": ""Mengozzi"", ""wikidata_id"": ""Q98097756""} ```",17.164928436279297
+document_000424.html,87,104,chapel of Loretto,Q654996,LOC,Q3687246,Conservatorio di S. Maria di Loreto,"```json {""wikipedia_page"":""Conservatorio di S. Maria di Loreto"", ""wikidata_id"":""Q3687246""} ```",13.210501670837402
+document_000427.html,49,60,Mr. Novello,Q2526705,PER,NIL,Mr. Novello,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000428.html,36,41,York.,Q1984708,LOC,Q60,New York City,"```json {""wikipedia_page"":""New York City"", ""wikidata_id"":""Q60""} ```",19.521501541137695
+document_000428.html,32,35,New,New,LOC,Q60,New York City,"```json {""wikipedia_page"":""New York City"", ""wikidata_id"":""Q60""} ```",22.861289978027344
+document_000429.html,0,6,Seguin,NIL,PER,Q1293564,Arthur Seguin,"```json { ""wikipedia_page"": ""Arthur Seguin"", ""wikidata_id"": ""Q1293564"" } ```",14.751086235046387
+document_000430.html,46,64,Duke of Cumberland,Q162302,PER,Q699738,"Prince Henry, Duke of Cumberland and Strathearn","```json {""wikipedia_page"": ""Prince Henry, Duke of Cumberland and Strathearn"", ""wikidata_id"": ""Q699738""} ```",22.713960647583008
+document_000432.html,0,13,M. Le- vassor,Q3385954,PER,Q6836462,Michel Le Vassor,"```json {""wikipedia_page"":""Michel Le Vassor"", ""wikidata_id"":""Q6836462""} ```",19.748884201049805
+document_000433.html,49,71,Royal Society of Musi-,Q7374846,ORG,NIL,Royal Society of Musi-,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000436.html,4,19,W. H.- Cummings,Q3827349,PER,NIL,W. H.- Cummings,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000440.html,41,62,Mass for Eight Voices,Q723790,MISC,NIL,Mass for Eight Voices,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000442.html,39,54,British Schools,NIL,ORG,Q4971021,British Schools Museum,"```json {""wikipedia_page"": ""British Schools Museum"", ""wikidata_id"": ""Q4971021""} ```",14.293635368347168
+document_000443.html,59,66,Denmark,Q35,LOC,Q756617,Kingdom of Denmark,"```json {""wikipedia_page"":""Kingdom of Denmark"", ""wikidata_id"":""Q756617""} ```",16.64569854736328
+document_000444.html,42,54,F. W. Crouch,Q5497599,PER,NIL,F. W. Crouch,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000446.html,0,5,Ebdon,Q3525084,PER,NIL,Ebdon,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000446.html,8,18,Magnificat,NIL,MISC,Q19891817,list of Magnificat composers,"```json { ""wikipedia_page"": ""list of Magnificat composers"", ""wikidata_id"": ""Q19891817"" } ```",22.468019485473633
+document_000446.html,23,36,Nunc dimittis,NIL,MISC,Q725548,Nunc dimittis,"```json {""wikipedia_page"": ""Nunc dimittis"", ""wikidata_id"": ""Q725548""} ```",27.86305809020996
+document_000448.html,0,9,Battimore,Q5092,LOC,NIL,Battimore,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000450.html,72,93,Morden College Chapel,NIL,LOC,Q6910808,Morden College,"```json { ""wikipedia_page"": ""Morden College"", ""wikidata_id"": ""Q6910808"" } ```",30.2635555267334
+document_000451.html,54,66,Sonderhausen,Q517407,LOC,Q466372,Sondershausen Palace,"```json {""wikipedia_page"":""Sondershausen Palace"", ""wikidata_id"":""Q466372""} ```",18.227561950683594
+document_000451.html,124,144,Prince of Swartzburg,Q832878,PER,NIL,Prince of Swartzburg,"```json {""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL""} ```",0
+document_000453.html,109,117,St. Mark,Q172988,LOC,Q217527,Piazza San Marco,"```json {""wikipedia_page"": ""Piazza San Marco"", ""wikidata_id"": ""Q217527""} ```",22.07192039489746
+document_000455.html,44,67,Memoir of Central India,NIL,MISC,Q1700959,John Malcolm,"```json { ""wikipedia_page"": ""John Malcolm"", ""wikidata_id"": ""Q1700959"" } ```",22.931211471557617
+document_000458.html,111,132,La Gloria degli amori,NIL,MISC,Q7736821,The Glorious Ones,"```json {""wikipedia_page"":""The Glorious Ones"", ""wikidata_id"":""Q7736821""} ```",19.92441749572754
+document_000458.html,136,143,Eraelea,NIL,MISC,Q47986,Eraclea,"```json {""wikipedia_page"":""Eraclea"", ""wikidata_id"":""Q47986""} ```",16.89815330505371
+document_000461.html,26,36,MISS DOLBY,Q4164386,PER,NIL,MISS DOLBY,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000461.html,41,68,FELIX MENDELLSOAN BARTHOLDY,Q46096,PER,NIL,FELIX MENDELLSOAN BARTHOLDY,"```json {""wikipedia_page"":"""",""wikidata_id"":""NIL""} ```",0
+document_000466.html,56,62,Prowse,Q16988845,ORG,NIL,Prowse,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000466.html,69,84,Haoway - street,NIL,LOC,Q5881814,Holloway Road,"```json {""wikipedia_page"":""Holloway Road"",""wikidata_id"":""Q5881814""} ```",16.837787628173828
+document_000466.html,114,146,Choruses in the Messiah as Duets,NIL,MISC,Q7625106,Structure of Handel's Messiah,"```json {""wikipedia_page"": ""Structure of Handel's Messiah"", ""wikidata_id"": ""Q7625106""} ```",19.186195373535156
+document_000467.html,32,42,Miss Paton,Q16888398,PER,NIL,Miss Paton,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000467.html,77,99,Mademoiselle Brambilla,Q3984276,PER,Q18924955,Giuseppina Brambilla,"```json {""wikipedia_page"":""Giuseppina Brambilla"", ""wikidata_id"":""Q18924955""} ```",10.458425521850586
+document_000468.html,5,17,Maid of Isla,NIL,MISC,Q107564693,Maiden in the mor lay,"```json {""wikipedia_page"":""Maiden in the mor lay"", ""wikidata_id"":""Q107564693""} ```",16.01395034790039
+document_000469.html,46,62,Jupiter Symphony,Q232367,MISC,NIL,Jupiter Symphony,"```json {""wikipedia_page"":""Symphony No. 41 (Mozart)"",""wikidata_id"":""Q228733""} ```",0
+document_000470.html,56,70,Mrs. Moscheles,Q159551,PER,NIL,Mrs. Moscheles,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+document_000471.html,93,131,His Royal Highness the Prince of Wales,Q20875,PER,Q180729,Prince of Wales,"```json { ""wikipedia_page"": ""Prince of Wales"", ""wikidata_id"": ""Q180729"" } ```",20.699951171875
+document_000473.html,2,18,Pastoral Cantata,NIL,MISC,Q174873,cantata,"```json { ""wikipedia_page"": ""cantata"", ""wikidata_id"": ""Q174873"" } ```",15.960823059082031
+document_000476.html,33,39,Coccia,NIL,PER,Q6631717,list of operas by Coccia,"```json { ""wikipedia_page"": ""list of operas by Coccia"", ""wikidata_id"": ""Q6631717"" } ```",13.841791152954102
+document_000476.html,42,45,Ero,NIL,MISC,Q6631717,list of operas by Coccia,"```json {""wikipedia_page"":""list of operas by Coccia"", ""wikidata_id"":""Q6631717""} ```",13.1014404296875
+document_000478.html,0,6,Gloria,NIL,MISC,Q211979,Gloria in excelsis Deo,"```json {""wikipedia_page"": ""Gloria in excelsis Deo"", ""wikidata_id"": ""Q211979""} ```",16.499605178833008
+document_000478.html,7,9,in,NIL,MISC,Q211979,Gloria in excelsis Deo,"```json {""wikipedia_page"":""Gloria in excelsis Deo"", ""wikidata_id"":""Q211979""} ```",11.069070816040039
+document_000478.html,10,18,Excelsis,NIL,MISC,Q211979,Gloria in excelsis Deo,"```json {""wikipedia_page"":""Gloria in excelsis Deo"", ""wikidata_id"":""Q211979""} ```",14.940073013305664
+document_000478.html,60,74,Mass Fantasias,NIL,MISC,Q18207128,"Mozart's Twelfth Mass, K. Anh. 232","```json {""wikipedia_page"":""Mozart's Twelfth Mass, K. Anh. 232"", ""wikidata_id"":""Q18207128""} ```",17.648244857788086
+document_000478.html,81,87,Martha,NIL,PER,Q16279062,Martha,"```json {""wikipedia_page"":""Martha"", ""wikidata_id"":""Q16279062""} ```",10.710261344909668
+document_000481.html,38,54,Miss E. Thompson,NIL,PER,Q6796579,May Peterson Thompson,"```json {""wikipedia_page"":""May Peterson Thompson"", ""wikidata_id"":""Q6796579""} ```",27.235576629638672
+document_000481.html,64,75,G. Eagleton,NIL,PER,Q4529867,Julian Egerton,"```json { ""wikipedia_page"": ""Julian Egerton"", ""wikidata_id"": ""Q4529867"" } ```",24.94330596923828
+document_000481.html,77,82,Hagan,NIL,PER,Q21501653,Hagan,"```json {""wikipedia_page"":""Hagan"",""wikidata_id"":""Q21501653""} ```",19.31228256225586
+document_000486.html,54,65,Massaniello,Q470773,MISC,Q735619,Masaniello,"```json { ""wikipedia_page"": ""Masaniello"", ""wikidata_id"": ""Q735619"" } ```",10.905366897583008
+document_000488.html,51,55,City,Q84,LOC,Q23311,City of London,"```json {""wikipedia_page"":""City of London"", ""wikidata_id"":""Q23311""} ```",16.036144256591797
+document_000490.html,0,33,The Sun on the Lake shines serene,NIL,MISC,Q16825488,The Canticle of the Sun,"```json {""wikipedia_page"":""The Canticle of the Sun"", ""wikidata_id"":""Q16825488""} ```",19.14568328857422
+document_000493.html,10,24,Richard Clarke,NIL,PER,Q16066209,Richard Clark,"```json { ""wikipedia_page"": ""Richard Clark"", ""wikidata_id"": ""Q16066209"" } ```",29.958837509155273
+document_000494.html,68,78,Great Room,NIL,LOC,Q519613,Gewandhaus,"```json {""wikipedia_page"":""Gewandhaus"", ""wikidata_id"":""Q519613""} ```",14.474534034729004
+document_000495.html,0,6,Braham,Q5231664,PER,NIL,Braham,"```json { ""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL"" } ```",0
+document_000496.html,34,52,Sir Fohn Stevenson,Q4442571,PER,NIL,Sir Fohn Stevenson,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+document_000496.html,0,23,The Rose and the Lil ly,NIL,MISC,Q7368024,Rose the Red and White Lily,"```json {""wikipedia_page"":""Rose the Red and White Lily"", ""wikidata_id"":""Q7368024""} ```",15.661200523376465
+document_000498.html,33,72,Railway Clearing House Musical Society+,NIL,ORG,Q1240510,Railway Clearing House,"```json {""wikipedia_page"":""Railway Clearing House"", ""wikidata_id"":""Q1240510""} ```",17.60935401916504
+document_000499.html,89,112,his Majesty the Emperor,Q76555,PER,Q5352166,Emperor of India,"```json {""wikipedia_page"":""Emperor of India"", ""wikidata_id"":""Q5352166""} ```",6.671955108642578
+document_000505.html,0,7,Eichner,Q473837,PER,NIL,Eichner,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+document_000506.html,0,10,Mr. Cramer,Q455212,PER,Q78303,Wilhelm Cramer,"```json {""wikipedia_page"":""Wilhelm Cramer"", ""wikidata_id"":""Q78303""} ```",8.598526000976562
+document_000507.html,21,29,Angelica,NIL,MISC,Q48853,Angelica,"```json { ""wikipedia_page"": ""Angelica"", ""wikidata_id"": ""Q48853"" } ```",24.575302124023438
+document_000510.html,17,40,Joseph and his Brethren,Q3184458,MISC,NIL,Joseph and his Brethren,"```json {""wikipedia_page"":""Joseph and his Brethren"", ""wikidata_id"":""NIL""} ```",0
+document_000511.html,60,69,Mr. Pixis,Q571716,PER,NIL,Mr. Pixis,"```json {""wikipedia_page"":"""","" ""wikidata_id"":""NIL""} ```",0
+document_000514.html,41,56,J. F. Walmisley,NIL,PER,Q18917555,Thomas Forbes Walmisley,"```json {""wikipedia_page"": ""Thomas Forbes Walmisley"", ""wikidata_id"": ""Q18917555""} ```",32.452728271484375
+document_000519.html,4,13,Impromptu,Q7912616,MISC,Q17045146,Impromptu,"```json {""wikipedia_page"":""Impromptu"", ""wikidata_id"":""Q17045146""} ```",11.649181365966797
+document_000520.html,0,12,Mr. J. Jones,NIL,PER,Q20733525,John Jones,"```json {""wikipedia_page"": ""John Jones"", ""wikidata_id"": ""Q20733525""} ```",19.620643615722656
+document_000520.html,44,61,Mr. F. C. Watkins,NIL,PER,Q15990344,Frederick Watkins,"```json {""wikipedia_page"":""Frederick Watkins"", ""wikidata_id"":""Q15990344""} ```",21.318527221679688
+document_000523.html,159,167,Hamilton,Q18671568,PER,NIL,Hamilton,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000523.html,169,176,Thomson,Q5545192,PER,Q2803437,Thomson,"```json {""wikipedia_page"":""Thomson"", ""wikidata_id"":""Q2803437""} ```",16.092031478881836
+document_000523.html,213,223,Cunningham,NIL,PER,Q2062341,Allan Cunningham,"```json {""wikipedia_page"":""Allan Cunningham"", ""wikidata_id"":""Q2062341""} ```",20.836345672607422
+document_000525.html,133,141,Endymion,NIL,MISC,Q31186211,Endymion,"```json { ""wikipedia_page"": ""Endymion"", ""wikidata_id"": ""Q31186211"" } ```",15.534197807312012
+document_000527.html,37,54,Letters to Garcia,NIL,MISC,Q614917,A Message to Garcia,"```json {""wikipedia_page"":""A Message to Garcia"", ""wikidata_id"":""Q614917""} ```",19.93886947631836
+document_000529.html,0,11,M. Barriere,Q726908,PER,NIL,M. Barriere,"```json {""wikipedia_page"":"""",""wikidata_id"":""NIL""} ```",0
+document_000533.html,0,8,Schumann,Q7351,PER,NIL,Schumann,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+document_000535.html,48,57,Mr. Parke,Q18757223,PER,NIL,Mr. Parke,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000537.html,0,8,Philidor,Q362339,PER,Q203229,François-André Danican Philidor,"```json {""wikipedia_page"":""François-André Danican Philidor"", ""wikidata_id"":""Q203229""} ```",23.30789566040039
+document_000539.html,144,162,Theatre Montausier,NIL,LOC,Q3527521,Théâtre Montansier,"```json {""wikipedia_page"": ""Théâtre Montansier"", ""wikidata_id"": ""Q3527521""} ```",24.929447174072266
+document_000541.html,33,38,Court,NIL,ORG,Q1134237,royal court,"```json {""wikipedia_page"":""royal court"", ""wikidata_id"":""Q1134237""} ```",14.607065200805664
+document_000543.html,25,37,M. Siismayer,Q310518,PER,NIL,M. Siismayer,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+document_000543.html,74,83,Breitkopf,Q55902416,PER,Q634246,Breitkopf & Härtel,"```json {""wikipedia_page"": ""Breitkopf & Härtel"", ""wikidata_id"": ""Q634246""} ```",16.56293487548828
+document_000547.html,45,50,Paris,Q90,LOC,NIL,Paris,"```json {""wikipedia_page"":"""",""wikidata_id"":""NIL""} ```",0
+document_000547.html,272,291,Royal Italian Opera,Q55018,ORG,NIL,Royal Italian Opera,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+document_000547.html,184,203,Italian Opera House,NIL,ORG,Q223942,Teatro La Fenice,"```json {""wikipedia_page"":""Teatro La Fenice"", ""wikidata_id"":""Q223942""} ```",25.078262329101562
+document_000548.html,22,48,Princess Belmonte Spinelli,Q23010905,PER,NIL,Princess Belmonte Spinelli,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000550.html,71,92,Conservatory of Music,Q1439627,ORG,Q3687222,Conservatorio Giovanni Battista Martini,"```json {""wikipedia_page"": ""Conservatorio Giovanni Battista Martini"", ""wikidata_id"": ""Q3687222""} ```",20.73862075805664
+document_000553.html,37,47,M. Jullien,Q660539,PER,NIL,M. Jullien,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+document_000555.html,93,102,Haymarket,Q893034,LOC,Q540426,Theatre Royal Haymarket,"```json {""wikipedia_page"": ""Theatre Royal Haymarket"", ""wikidata_id"": ""Q540426""} ```",21.256589889526367
+document_000557.html,85,111,Academie Royale de Musique,Q283339,ORG,Q2920855,Académie Royale de Musique,"```json {""wikipedia_page"":""Académie Royale de Musique"", ""wikidata_id"":""Q2920855""} ```",29.299213409423828
+document_000558.html,0,17,Master Whitehouse,NIL,PER,Q40472702,Worthington Whitehouse,"```json {""wikipedia_page"":""Worthington Whitehouse"", ""wikidata_id"":""Q40472702""} ```",13.72642993927002
+document_000558.html,19,34,Mr. A. Marriott,NIL,PER,Q60557333,Alice Marriott,"```json { ""wikipedia_page"": ""Alice Marriott"", ""wikidata_id"": ""Q60557333"" } ```",15.337132453918457
+document_000558.html,36,46,Mr. Mellor,NIL,PER,Q15990171,"Sir John Mellor, 1st Baronet","```json {""wikipedia_page"":""Sir John Mellor, 1st Baronet"", ""wikidata_id"":""Q15990171""} ```",9.690949440002441
+document_000558.html,52,58,Mr. O.,NIL,PER,Q4798260,Arthur Christian,"```json { ""wikipedia_page"": ""Arthur Christian"", ""wikidata_id"": ""Q4798260"" } ```",9.61509895324707
+document_000560.html,149,156,Mariano,NIL,PER,Q2699367,Giovanni Matteo Mario,"```json {""wikipedia_page"":""Giovanni Matteo Mario"", ""wikidata_id"":""Q2699367""} ```",18.99544906616211
+document_000570.html,80,85,Egypt,Q79,LOC,Q11768,Ancient Egypt,"```json {""wikipedia_page"":""Ancient Egypt"", ""wikidata_id"":""Q11768""} ```",19.012771606445312
+document_000572.html,25,32,Feydeau,Q825805,LOC,Q61557606,Salle Feydeau,"```json {""wikipedia_page"":""Salle Feydeau"", ""wikidata_id"":""Q61557606""} ```",16.466215133666992
+document_000572.html,105,114,M. Huguot,NIL,PER,Q1451130,Michel François Hoguet,"```json {""wikipedia_page"":""Michel François Hoguet"", ""wikidata_id"":""Q1451130""} ```",23.09724998474121
+document_000573.html,23,41,Mademoiselle Pasta,Q240963,PER,NIL,Mademoiselle Pasta,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000576.html,17,31,Mr. Carmichael,NIL,PER,Q460662,Hoagy Carmichael,"```json { ""wikipedia_page"": ""Hoagy Carmichael"", ""wikidata_id"": ""Q460662"" } ```",11.220121383666992
+document_000576.html,82,112,Building Fund for The Soloists,NIL,ORG,Q21008579,The Building Centre,"```json {""wikipedia_page"":""The Building Centre"", ""wikidata_id"":""Q21008579""} ```",11.746821403503418
+document_000576.html,137,154,Miss Marie Ternan,NIL,PER,Q1223395,Ellen Ternan,"```json {""wikipedia_page"":""Ellen Ternan"", ""wikidata_id"":""Q1223395""} ```",15.51172161102295
+document_000578.html,16,22,Stiick,Q2654296,MISC,NIL,Stiick,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000579.html,52,74,City of London College,NIL,ORG,Q1094046,"City, University of London","```json {""wikipedia_page"":""City, University of London"", ""wikidata_id"":""Q1094046""} ```",24.918155670166016
+document_000580.html,107,117,T. Wingham,NIL,PER,Q7795241,Thomas Wingham,"```json { ""wikipedia_page"": ""Thomas Wingham"", ""wikidata_id"": ""Q7795241"" } ```",31.174057006835938
+document_000586.html,67,74,Telford,NIL,PER,Q22294393,Telford,"```json {""wikipedia_page"": ""Telford"", ""wikidata_id"": ""Q22294393""} ```",18.55250358581543
+document_000590.html,0,9,Mr. Ebers,Q6231101,PER,Q62765,Georg Ebers,"```json {""wikipedia_page"": ""Georg Ebers"", ""wikidata_id"": ""Q62765""} ```",11.9805908203125
+document_000596.html,31,45,Trinity Church,Q5886537,LOC,Q866896,Trinity Church,"```json {""wikipedia_page"":""Trinity Church"", ""wikidata_id"":""Q866896""} ```",21.540428161621094
+document_000597.html,0,24,Antoine Barthelemi Bruni,Q599823,PER,NIL,Antoine Barthelemi Bruni,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000598.html,21,30,Valentini,NIL,PER,Q1528696,Giuseppe Valentini,"```json {""wikidata_id"":""Q1528696"", ""wikipedia_page"":""Giuseppe Valentini""} ```",17.021604537963867
+document_000598.html,54,59,Cirio,NIL,PER,Q1093073,Ciro Miniero,"```json {""wikipedia_page"":""Ciro Miniero"", ""wikidata_id"":""Q1093073""} ```",11.142646789550781
+document_000601.html,16,57,Accompanying Harmonies to Brief Directory,NIL,MISC,Q4658495,A New Dictionary of the Terms Ancient and Modern of the Canting Crew,"```json {""wikipedia_page"":""A New Dictionary of the Terms Ancient and Modern of the Canting Crew"", ""wikidata_id"":""Q4658495""} ```",21.33985137939453
+document_000603.html,46,54,Phillips,Q18671452,PER,NIL,Phillips,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000603.html,56,60,Hill,NIL,PER,Q8002195,Wilhelm Hill,"```json {""wikipedia_page"":""Wilhelm Hill"", ""wikidata_id"":""Q8002195""} ```",11.495494842529297
+document_000604.html,12,22,Palestrina,Q243133,LOC,Q179277,Giovanni Pierluigi da Palestrina,"```json {""wikipedia_page"":""Giovanni Pierluigi da Palestrina"", ""wikidata_id"":""Q179277""} ```",15.800556182861328
+document_000604.html,53,63,Palestrina,Q243133,LOC,Q2107419,Praeneste,"```json {""wikipedia_page"": ""Praeneste"", ""wikidata_id"": ""Q2107419""} ```",18.461101531982422
+document_000604.html,69,78,Preeneste,Q243133,LOC,Q2107419,Praeneste,"```json {""wikipedia_page"": ""Praeneste"", ""wikidata_id"": ""Q2107419""} ```",15.017324447631836
+document_000608.html,93,106,Parish Church,NIL,ORG,Q317557,parish church,"```json { ""wikipedia_page"": ""parish church"", ""wikidata_id"": ""Q317557"" } ```",16.232154846191406
+document_000609.html,81,90,Mr. Ellis,NIL,PER,Q16030776,Herbert J. Ellis,"```json {""wikipedia_page"":""Herbert J. Ellis"", ""wikidata_id"":""Q16030776""} ```",13.012876510620117
+document_000610.html,72,93,Stabat mater dolorosa,NIL,MISC,Q210080,Stabat Mater,"```json {""wikipedia_page"":""Stabat Mater"", ""wikidata_id"":""Q210080""} ```",28.842342376708984
+document_000611.html,14,21,Morroni,NIL,PER,Q55644230,Morroni,"```json { ""wikipedia_page"":""Morroni"", ""wikidata_id"":""Q55644230"" } ```",15.224844932556152
+document_000611.html,60,66,Sborgi,NIL,PER,Q32665747,Gasparo Sborgi,"```json {""wikipedia_page"":""Gasparo Sborgi"", ""wikidata_id"":""Q32665747""} ```",15.951067924499512
+document_000614.html,42,55,Miss Stephens,Q5052928,PER,NIL,Miss Stephens,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000614.html,57,70,Signor Garcia,NIL,PER,Q704645,Manuel García,"```json {""wikipedia_page"":""Manuel García"", ""wikidata_id"":""Q704645""} ```",6.4888916015625
+document_000614.html,101,109,Phillips,NIL,PER,Q422726,Thomas Phillips,"```json {""wikipedia_page"": ""Thomas Phillips"", ""wikidata_id"": ""Q422726""} ```",6.723638534545898
+document_000616.html,74,86,W. Eavestaff,NIL,PER,Q6233901,Joseph Webster,"```json {""wikipedia_page"":""Joseph Webster"", ""wikidata_id"":""Q6233901""} ```",18.75672721862793
+document_000619.html,95,115,Westminster Aquarium,Q7373667,LOC,NIL,Westminster Aquarium,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000620.html,79,96,Licéo Filarmonico,Q368820,ORG,Q3831963,liceo musicale e coreutico,"```json {""wikipedia_page"":""liceo musicale e coreutico"", ""wikidata_id"":""Q3831963""} ```",16.557130813598633
+document_000628.html,80,87,Bennett,Q201164,PER,Q20797564,William Bennet,"```json {""wikipedia_page"":""William Bennet"", ""wikidata_id"":""Q20797564""} ```",18.585269927978516
+document_000628.html,99,106,Martini,Q283651,PER,NIL,Martini,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000630.html,91,100,P. Verini,NIL,PER,Q1252696,Pierre Nérini,"```json {""wikipedia_page"":""Pierre Nérini"", ""wikidata_id"":""Q1252696""} ```",18.31714630126953
+document_000631.html,0,15,Louis Capotorti,Q17992489,PER,NIL,Louis Capotorti,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000634.html,0,6,Morley,NIL,PER,Q438141,Thomas Morley,"```json {""wikipedia_page"":""Thomas Morley"", ""wikidata_id"":""Q438141""} ```",19.27883529663086
+document_000634.html,80,91,Mr. Kempton,NIL,PER,Q15998063,Kempton Cannon,"```json { ""wikipedia_page"": ""Kempton Cannon"", ""wikidata_id"": ""Q15998063"" } ```",13.699610710144043
+document_000638.html,139,145,Greece,Q41,LOC,Q11772,Ancient Greece,"```json {""wikipedia_page"":""Ancient Greece"", ""wikidata_id"":""Q11772""} ```",17.33378028869629
+document_000638.html,150,154,Rome,Q220,LOC,Q1747689,Ancient Rome,"```json {""wikipedia_page"":""Ancient Rome"", ""wikidata_id"":""Q1747689""} ```",14.9998197555542
+document_000640.html,73,89,Hanover - street,NIL,LOC,Q3783111,Hanover Square,"```json {""wikipedia_page"":""Hanover Square"", ""wikidata_id"":""Q3783111""} ```",14.419733047485352
+document_000646.html,0,5,Furno,Q555808,PER,NIL,Furno,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000647.html,54,69,Egmont Overture,Q1156413,MISC,Q15622682,Egmont Overture,"```json { ""wikipedia_page"": ""Egmont Overture"", ""wikidata_id"": ""Q15622682"" } ```",20.533296585083008
+document_000648.html,91,110,English Opera House,Q55018,LOC,NIL,English Opera House,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000649.html,0,2,B.,NIL,PER,Q1765120,Bachelor of Arts,"```json {""wikipedia_page"":""Bachelor of Arts"", ""wikidata_id"":""Q1765120""} ```",6.507420539855957
+document_000649.html,4,8,Oxon,NIL,PER,Q34433,University of Oxford,"```json {""wikipedia_page"": ""University of Oxford"", ""wikidata_id"": ""Q34433""} ```",10.91308307647705
+document_000649.html,11,25,W. J. Jennings,NIL,PER,Q885747,William Sherman Jennings,"```json { ""wikipedia_page"": ""William Sherman Jennings"", ""wikidata_id"": ""Q885747"" } ```",25.489181518554688
+document_000654.html,30,36,Kéchel,Q78529,PER,Q162478,Köchel catalogue,"```json {""wikipedia_page"":""Köchel catalogue"", ""wikidata_id"":""Q162478""} ```",17.31519317626953
+document_000656.html,71,85,Mr. John Parry,Q6251987,PER,NIL,Mr. John Parry,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+document_000656.html,12,23,Miss Flower,NIL,PER,Q19879830,Lucy Flower,"```json {""wikipedia_page"":""Lucy Flower"", ""wikidata_id"":""Q19879830""} ```",7.769232749938965
+document_000659.html,0,18,Mr. Henry Aldridge,NIL,PER,Q5668643,Harry Ellis Wooldridge,"```json {""wikipedia_page"": ""Harry Ellis Wooldridge"", ""wikidata_id"": ""Q5668643""} ```",20.772125244140625
+document_000662.html,59,66,Bellini,Q170209,PER,NIL,Bellini,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+document_000663.html,49,62,Jane Whitaker,NIL,PER,Q3161849,Jane Barker,"```json {""wikipedia_page"":""Jane Barker"", ""wikidata_id"":""Q3161849""} ```",26.45818328857422
+document_000665.html,88,114,Academie Royale de Musique,Q283339,ORG,Q2920855,Académie Royale de Musique,"```json {""wikipedia_page"":""Académie Royale de Musique"", ""wikidata_id"":""Q2920855""} ```",27.095705032348633
+document_000667.html,18,34,Signor de Beguis,Q3770409,PER,NIL,Signor de Beguis,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000669.html,36,51,String Quintett,Q3133298,MISC,Q4387509,String Quintet No. 6,"```json {""wikipedia_page"":""String Quintet No. 6"", ""wikidata_id"":""Q4387509""} ```",28.946693420410156
+document_000670.html,29,40,L’Olimpiade,Q1225668,MISC,Q21205064,L’olimpiade,"```json {""wikipedia_page"":""L'Olimpiade"", ""wikidata_id"":""Q21205064""} ```",22.96993064880371
+document_000670.html,45,55,Demofoonte,Q3022187,MISC,Q5802286,Demofoonte,"```json {""wikipedia_page"":""Demofoonte"", ""wikidata_id"":""Q5802286""} ```",18.982500076293945
+document_000670.html,73,89,Giu riconosciuto,NIL,MISC,Q5770260,Ciro riconosciuto,"```json {""wikipedia_page"":""Ciro riconosciuto"", ""wikidata_id"":""Q5770260""} ```",13.916343688964844
+document_000671.html,12,22,Symphonyin,Q260957,MISC,Q9734,symphony,"```json {""wikipedia_page"":""symphony"", ""wikidata_id"":""Q9734""} ```",24.103757858276367
+document_000671.html,67,68,A,Q260957,MISC,Q4726345,Alick Maclean,"```json { ""wikipedia_page"": ""Alick Maclean"", ""wikidata_id"": ""Q4726345"" } ```",15.289769172668457
+document_000671.html,24,25,",",Q260957,MISC,Q277793,A major,"```json {""wikipedia_page"":""A major"", ""wikidata_id"":""Q277793""} ```",21.04240608215332
+document_000671.html,54,55,",",Q260957,MISC,Q6989196,conducting,"```json {""wikipedia_page"":""conducting"", ""wikidata_id"":""Q6989196""} ```",13.226078987121582
+document_000672.html,29,49,Mr. Walter Macfarren,Q18954633,PER,Q1374708,George Alexander Macfarren,"```json {""wikipedia_page"":""George Alexander Macfarren"", ""wikidata_id"":""Q1374708""} ```",19.51347541809082
+document_000673.html,33,48,Catholic Clergy,Q1195138,ORG,Q177826,clergy,"```json {""wikipedia_page"": ""clergy"", ""wikidata_id"": ""Q177826""} ```",23.89925765991211
+document_000676.html,39,45,Cramer,Q455212,PER,Q78303,Wilhelm Cramer,"```json {""wikipedia_page"":""Wilhelm Cramer"", ""wikidata_id"":""Q78303""} ```",14.048844337463379
+document_000677.html,33,48,Padrr Sabbatini,NIL,PER,Q7193015,Pietro Paolo Sabbatini,"```json { ""wikipedia_page"": ""Pietro Paolo Sabbatini"", ""wikidata_id"": ""Q7193015"" } ```",19.38094711303711
+document_000678.html,29,35,Boston,Q100,LOC,NIL,Boston,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000680.html,4,21,Fitzwilliam Music,Q1421448,MISC,Q1421440,Fitzwilliam Museum,"```json {""wikipedia_page"":""Fitzwilliam Museum"", ""wikidata_id"":""Q1421440""} ```",18.315433502197266
+document_000681.html,61,69,Gavinies,Q490205,PER,NIL,Gavinies,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000682.html,49,62,Madame Brooke,NIL,PER,Q729541,Frances Brooke,"```json {""wikipedia_page"":""Frances Brooke"", ""wikidata_id"":""Q729541""} ```",10.863834381103516
+document_000682.html,89,105,Miss Julia Jones,NIL,PER,Q6306493,Julia Jones Pugliese,"```json {""wikipedia_page"":""Julia Jones"", ""wikidata_id"":""Q6306493""} ```",22.814651489257812
+document_000682.html,137,155,Mr. W. H. Phillips,NIL,PER,Q18671452,Henry Phillips,"```json {""wikipedia_page"":""Henry Phillips"", ""wikidata_id"":""Q18671452""} ```",16.27942657470703
+document_000687.html,0,9,M. Danjou,Q444728,PER,NIL,M. Danjou,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000688.html,72,88,Hanover - street,NIL,LOC,Q3783111,Hanover Square,"```json {""wikipedia_page"": ""Hanover Square"", ""wikidata_id"": ""Q3783111""} ```",15.061039924621582
+document_000690.html,69,74,Egypt,Q79,LOC,Q11768,Ancient Egypt,"```json {""wikipedia_page"":""Ancient Egypt"", ""wikidata_id"":""Q11768""} ```",20.358488082885742
+document_000691.html,147,165,Signor Santar elli,Q5565524,PER,Q3759821,Gennaro Maria Sarnelli,"```json {""wikipedia_page"":""Gennaro Maria Sarnelli"", ""wikidata_id"":""Q3759821""} ```",10.88154411315918
+document_000693.html,85,91,France,Q142,LOC,Q70972,Kingdom of France,"```json {""wikipedia_page"":""Kingdom of France"", ""wikidata_id"":""Q70972""} ```",19.402217864990234
+document_000694.html,27,35,Preciosa,NIL,MISC,Q3174369,Preciosa,"```json { ""wikipedia_page"": ""Preciosa"", ""wikidata_id"": ""Q3174369"" } ```",12.025466918945312
+document_000696.html,28,34,Storge,NIL,PER,Q1995866,storge,"```json {""wikipedia_page"":""storge"", ""wikidata_id"":""Q1995866""} ```",12.806591033935547
+document_000697.html,39,50,Exeter Hall,Q81173,ORG,Q5419148,Ex Cathedra,"```json {""wikipedia_page"":""Exeter Hall"", ""wikidata_id"":""Q5419148""} ```",28.167505264282227
+document_000698.html,63,74,P. A. Corri,Q7183128,PER,NIL,P. A. Corri,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+document_000699.html,96,119,Santa Maria ad Martyras,Q99309,LOC,Q569253,Santa Maria degli Angeli e dei Martiri,"```json { ""wikipedia_page"": ""Santa Maria degli Angeli e dei Martiri"", ""wikidata_id"": ""Q569253"" } ```",16.907108306884766
+document_000701.html,41,53,J. Moscheles,Q159551,PER,NIL,J. Moscheles,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000702.html,146,154,Cornhill,Q1782039,LOC,Q1931722,Cornhill Magazine,"```json {""wikipedia_page"": ""Cornhill Magazine"", ""wikidata_id"": ""Q1931722""} ```",19.36416244506836
+document_000702.html,247,261,United Kingdom,Q145,LOC,Q174193,United Kingdom of Great Britain and Ireland,"```json { ""wikipedia_page"": ""United Kingdom of Great Britain and Ireland"", ""wikidata_id"": ""Q174193"" } ```",23.35776710510254
+document_000702.html,132,144,Finch - line,NIL,LOC,Q3068338,Fenchurch Street,"```json {""wikipedia_page"":""Fenchurch Street"", ""wikidata_id"":""Q3068338""} ```",17.133535385131836
+document_000703.html,27,29,M.,Q289996,PER,NIL,M.,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000707.html,54,63,Dr. Fowle,NIL,PER,Q16062429,Thomas Welbank Fowle,"```json {""wikipedia_page"":""Thomas Welbank Fowle"", ""wikidata_id"":""Q16062429""} ```",14.02225112915039
+document_000710.html,165,174,Dr. Dykes,Q3269824,PER,NIL,Dr. Dykes,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000712.html,0,9,the Déuce,NIL,MISC,Q40858652,Deuce,"```json {""wikipedia_page"":""Deuce"", ""wikidata_id"":""Q40858652""} ```",9.870933532714844
+document_000713.html,0,9,M. Choron,Q1392901,PER,NIL,M. Choron,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+document_000714.html,67,76,Jarnowick,Q1526160,PER,NIL,Jarnowick,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000714.html,85,91,France,Q142,LOC,Q70972,Kingdom of France,"```json {""wikipedia_page"": ""Kingdom of France"", ""wikidata_id"": ""Q70972""} ```",15.739217758178711
+document_000716.html,70,79,Mr. Neate,Q18526894,PER,NIL,Mr. Neate,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+document_000716.html,299,308,Mr. Neate,Q18526894,PER,NIL,Mr. Neate,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+document_000717.html,52,81,the Honourable Richard Strutt,Q75270792,PER,NIL,the Honourable Richard Strutt,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000718.html,84,95,Ghibellines,Q187742,ORG,Q1010181,Ghibellines,"```json {""wikipedia_page"":""Ghibellines"", ""wikidata_id"":""Q1010181""} ```",17.882240295410156
+document_000718.html,108,115,Guelphs,Q187742,ORG,Q12363203,Guelphs,"```json {""wikipedia_page"":""Guelphs"", ""wikidata_id"":""Q12363203""} ```",17.204130172729492
+document_000719.html,233,257,National Training School,Q55082727,ORG,Q28401569,The National Training School Of Cookery,"```json {""wikipedia_page"":""The National Training School Of Cookery"", ""wikidata_id"":""Q28401569""} ```",17.629980087280273
+document_000721.html,126,133,d’Angri,Q5358988,PER,NIL,d’Angri,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000723.html,47,58,Schramstein,Q878205,LOC,NIL,Schramstein,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+document_000723.html,117,127,Konigstein,NIL,LOC,Q700562,Königstein Fortress,"```json { ""wikipedia_page"": ""Königstein Fortress"", ""wikidata_id"": ""Q700562"" } ```",17.782306671142578
+document_000725.html,268,272,Czar,Q130734,PER,NIL,Czar,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000726.html,247,261,South - street,Q28803180,LOC,NIL,South - street,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000726.html,161,167,Taylor,NIL,PER,Q3155333,Baron Isidore Justin Séverin Taylor,"```json {""wikipedia_page"":""Baron Isidore Justin Séverin Taylor"", ""wikidata_id"":""Q3155333""} ```",14.939325332641602
+document_000727.html,26,43,London University,Q193196,ORG,NIL,London University,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000728.html,20,41,Church Choral Society,Q379124,ORG,Q11250823,church choir,"```json {""wikipedia_page"":""church choir"", ""wikidata_id"":""Q11250823""} ```",28.70821762084961
+document_000728.html,248,256,New York,Q60,LOC,Q1384,New York,"```json {""wikipedia_page"": ""New York"", ""wikidata_id"": ""Q1384""} ```",27.333620071411133
+document_000728.html,280,291,Mr. Dossert,NIL,PER,Q1255425,Paul Dresser,"```json { ""wikipedia_page"": ""Paul Dresser"", ""wikidata_id"": ""Q1255425"" } ```",15.27645206451416
+document_000729.html,112,120,Servilia,Q63534091,PER,NIL,Servilia,"```json {""wikipedia_page"":""Servilia"", ""wikidata_id"":""NIL""} ```",0
+document_000729.html,169,174,Annio,Q63534077,PER,NIL,Annio,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000729.html,78,93,Signora Clarini,NIL,PER,Q74029495,Caroline Grassari,"```json {""wikipedia_page"": ""Caroline Grassari"", ""wikidata_id"":""Q74029495""} ```",15.509417533874512
+document_000729.html,136,144,Graziani,NIL,PER,Q4121399,Francesco Graziani,"```json { ""wikipedia_page"": ""Francesco Graziani"", ""wikidata_id"": ""Q4121399"" } ```",16.015979766845703
+document_000730.html,102,117,Madame Caradori,Q16065895,PER,Q530319,Marie Carandini,"```json {""wikipedia_page"":""Marie Carandini"", ""wikidata_id"":""Q530319""} ```",11.061266899108887
+document_000730.html,310,320,Miss Paton,Q16888398,PER,NIL,Miss Paton,"```json {""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL""} ```",0
+document_000730.html,188,197,Pavestine,NIL,MISC,Q180853,pavane,"```json {""wikipedia_page"":""pavane"", ""wikidata_id"":""Q180853""} ```",11.176383972167969
+document_000731.html,58,79,La Naissance de Venus,NIL,MISC,Q3211033,La Naissance de Vénus,"```json {""wikipedia_page"": ""La Naissance de Vénus"", ""wikidata_id"": ""Q3211033""} ```",17.09714698791504
+document_000733.html,108,114,Greene,Q615819,PER,NIL,Greene,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000733.html,123,128,Nares,Q463998,PER,NIL,Nares,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+document_000733.html,58,65,Gibbons,NIL,PER,Q311913,Orlando Gibbons,"```json {""wikipedia_page"":""Orlando Gibbons"", ""wikidata_id"":""Q311913""} ```",19.279932022094727
+document_000733.html,70,75,Child,NIL,PER,Q8006771,William Child,"```json {""wikipedia_page"":""William Child"", ""wikidata_id"":""Q8006771""} ```",19.351778030395508
+document_000734.html,0,9,John Bull,Q511463,PER,Q742971,John Bull,"```json { ""wikipedia_page"": ""John Bull"", ""wikidata_id"": ""Q742971"" } ```",23.482746124267578
+document_000734.html,69,92,English National Anthem,Q327133,MISC,Q40807,God Save the King,"```json {""wikipedia_page"":""God Save the King"", ""wikidata_id"":""Q40807""} ```",27.30919075012207
+document_000735.html,319,328,Mrs. Shaw,Q3291051,PER,NIL,Mrs. Shaw,"```json {""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL""} ```",0
+document_000736.html,226,255,Lieutenant - Colonel Perronet,Q4670375,PER,Q16859477,Vincent Perronet,"```json {""wikipedia_page"": ""Vincent Perronet"", ""wikidata_id"": ""Q16859477""} ```",18.940908432006836
+document_000740.html,223,234,C. Eberwein,Q216234,PER,Q5040299,Carl Heinrich Ebermaier,"```json {""wikipedia_page"": ""Carl Heinrich Ebermaier"", ""wikidata_id"": ""Q5040299""} ```",20.598011016845703
+document_000740.html,163,175,F. W. Riemar,NIL,PER,Q85393,Friedrich Wilhelm Riemer,"```json {""wikipedia_page"":""Friedrich Wilhelm Riemer"", ""wikidata_id"":""Q85393""} ```",23.360231399536133
+document_000741.html,0,23,Madame Kraus - Wranisky,Q55895823,PER,NIL,Madame Kraus - Wranisky,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+document_000741.html,48,62,Madame Seidler,Q6373188,PER,NIL,Madame Seidler,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+document_000742.html,18,38,Mademoiselle Lalande,Q3132487,PER,NIL,Mademoiselle Lalande,"```json {""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL""} ```",0
+document_000743.html,54,64,Drill Hall,NIL,LOC,Q5307555,drill hall,"```json {""wikipedia_page"":""drill hall"", ""wikidata_id"":""Q5307555""} ```",16.475954055786133
+document_000743.html,179,193,In Hammersbach,NIL,MISC,Q5505606,From the Bavarian Highlands,"```json { ""wikipedia_page"": ""From the Bavarian Highlands"", ""wikidata_id"": ""Q5505606"" } ```",22.75282859802246
+document_000743.html,237,258,Pomp and Circumstance,NIL,MISC,Q1141118,Pomp and Circumstance Marches,"```json {""wikipedia_page"":""Pomp and Circumstance Marches"", ""wikidata_id"":""Q1141118""} ```",20.67378807067871
+document_000743.html,170,175,March,NIL,MISC,Q6006749,Imperial March,"```json {""wikipedia_page"":""Imperial March"", ""wikidata_id"":""Q6006749""} ```",18.33246421813965
+document_000743.html,68,70,No,NIL,MISC,Q125,November,"```json { ""wikipedia_page"": ""November"", ""wikidata_id"": ""Q125"" } ```",17.27556037902832
+document_000743.html,268,271,. 1,NIL,MISC,Q163535,Symphony No. 1,"```json {""wikipedia_page"":""Symphony No. 1"", ""wikidata_id"":""Q163535""} ```",17.02823257446289
+document_000744.html,142,147,Italy,Q38,LOC,Q172579,Kingdom of Italy,"```json {""wikipedia_page"":""Kingdom of Italy"", ""wikidata_id"":""Q172579""} ```",13.750938415527344
+document_000744.html,286,291,Orfeo,Q723776,MISC,Q724008,L'Orfeo,"```json {""wikipedia_page"": ""L'Orfeo"", ""wikidata_id"": ""Q724008""} ```",23.324275970458984
+document_000744.html,387,410,grand * duke of Tuscany,Q151321,PER,Q297483,Ferdinando I de' Medici,"```json { ""wikipedia_page"": ""Ferdinando I de' Medici"", ""wikidata_id"": ""Q297483"" } ```",7.778244972229004
+document_000746.html,235,243,Wynthorp,NIL,LOC,Q54170,Winthrop,"```json { ""wikipedia_page"": ""Winthrop"", ""wikidata_id"": ""Q54170"" } ```",21.533740997314453
+document_000747.html,267,275,Griselda,Q97176620,MISC,Q102289116,Griselda Ossia la Virtù al Cimento,"```json {""wikipedia_page"": ""Griselda Ossia la Virtù al Cimento"", ""wikidata_id"": ""Q102289116""} ```",17.93630027770996
+document_000747.html,75,79,faro,NIL,MISC,Q4481297,Faro,"```json { ""wikipedia_page"": ""Faro"", ""wikidata_id"": ""Q4481297"" } ```",13.492719650268555
+document_000747.html,86,96,Miss Birch,NIL,PER,Q98889843,Alice Miriam Pinch,"```json {""wikipedia_page"":""Alice Miriam Pinch"", ""wikidata_id"":""Q98889843""} ```",14.976154327392578
+document_000748.html,191,210,Royal Italian Opera,Q55018,LOC,NIL,Royal Italian Opera,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000748.html,381,388,Colomba,NIL,MISC,Q12724376,Colomba,"```json {""wikipedia_page"":""Colomba"",""wikidata_id"":""Q12724376""} ```",15.652656555175781
+document_000749.html,211,220,Jarnowick,Q1526160,PER,NIL,Jarnowick,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+document_000751.html,91,98,Durante,Q2286657,PER,Q314221,Francesco Durante,"```json { ""wikipedia_page"": ""Francesco Durante"", ""wikidata_id"": ""Q314221"" } ```",20.741416931152344
+document_000756.html,162,179,As the Hart pants,Q1192046,MISC,Q4802943,As Pants the Hart,"```json {""wikipedia_page"":""As Pants the Hart"", ""wikidata_id"":""Q4802943""} ```",21.305824279785156
+document_000756.html,122,129,Loreley,NIL,MISC,Q54997200,Die Loreley,"```json {""wikipedia_page"":""Die Loreley"", ""wikidata_id"":""Q54997200""} ```",17.282737731933594
+document_000756.html,132,142,98th Psalm,NIL,MISC,Q1326476,Psalm 98,"```json {""wikipedia_page"": ""Psalm 98"", ""wikidata_id"": ""Q1326476""} ```",33.383270263671875
+document_000756.html,145,154,Ave Maria,NIL,MISC,Q5713136,Ave Maria,"```json {""wikipedia_page"":""Ave Maria"", ""wikidata_id"":""Q5713136""} ```",25.68267059326172
+document_000756.html,257,270,C. ]. Stevens,NIL,PER,Q7273725,Richard John Samuel Stevens,"```json {""wikipedia_page"":""Richard John Samuel Stevens"", ""wikidata_id"":""Q7273725""} ```",20.41428565979004
+document_000757.html,159,178,Royai Italian Opera,Q55018,ORG,Q4266459,The Royal Opera,"```json { ""wikipedia_page"": ""The Royal Opera"", ""wikidata_id"": ""Q4266459"" } ```",19.612991333007812
+document_000757.html,236,251,Signor Nicolini,Q3083329,PER,Q1089213,Giuseppe Nicolini,"```json { ""wikipedia_page"": ""Giuseppe Nicolini"", ""wikidata_id"": ""Q1089213"" } ```",15.899362564086914
+document_000757.html,253,267,Signor Marconi,Q5479431,PER,Q36488,Guglielmo Marconi,"```json {""wikipedia_page"":""Guglielmo Marconi"", ""wikidata_id"":""Q36488""} ```",14.489444732666016
+document_000757.html,320,330,M. Devoyod,Q27928845,PER,NIL,M. Devoyod,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000757.html,332,348,Signor De Reszké,NIL,PER,Q4025366,Édouard de Reszke,"```json {""wikipedia_page"":""Édouard de Reszke"", ""wikidata_id"":""Q4025366""} ```",17.082599639892578
+document_000758.html,104,126,Rasoumowski Quartet in,Q3927118,MISC,NIL,Rasoumowski Quartet in,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000759.html,20,40,Les Néces de Gamache,NIL,MISC,Q3234198,Les Noces de Gamache,"```json {""wikipedia_page"":""Les Noces de Gamache"", ""wikidata_id"":""Q3234198""} ```",23.873741149902344
+document_000759.html,122,129,Sauvage,NIL,PER,Q3525549,Thomas Sauvage,"```json { ""wikipedia_page"": ""Thomas Sauvage"", ""wikidata_id"": ""Q3525549"" } ```",20.157878875732422
+document_000760.html,202,219,Barber of Seville,Q208659,MISC,Q632743,The Barber of Seville,"```json {""wikipedia_page"":""The Barber of Seville"", ""wikidata_id"":""Q632743""} ```",18.254154205322266
+document_000762.html,221,226,Jacob,Q1339,PER,NIL,Jacob,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000763.html,68,74,Parker,NIL,PER,Q15259326,John William Parker,"```json {""wikipedia_page"":""John William Parker"", ""wikidata_id"":""Q15259326""} ```",15.162420272827148
+document_000765.html,148,163,France Wusicale,Q3209228,ORG,NIL,France Wusicale,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000765.html,229,246,Gazelle AZusicale,Q3428721,ORG,Q2306879,La Gazette,"```json {""wikipedia_page"":""La Gazette"",""wikidata_id"":""Q2306879""} ```",13.808586120605469
+document_000766.html,295,300,Paris,Q90,LOC,Q463055,Conservatoire de Paris,"```json {""wikipedia_page"": ""Conservatoire de Paris"", ""wikidata_id"": ""Q463055""} ```",18.985187530517578
+document_000766.html,164,199,Biographie Universelle de Musiciens,Q28007160,MISC,Q2904126,Biographie universelle,"```json {""wikipedia_page"":""Biographie universelle"", ""wikidata_id"":""Q2904126""} ```",16.68170928955078
+document_000767.html,98,113,Das Hausgesinde,NIL,MISC,Q1168913,Domestic Servants,"```json {""wikipedia_page"":""Domestic Servants"", ""wikidata_id"":""Q1168913""} ```",22.7709903717041
+document_000767.html,151,178,Staberls Reise - abentheuer,NIL,MISC,Q95291,August Stöber,"```json { ""wikipedia_page"": ""August Stöber"", ""wikidata_id"": ""Q95291"" } ```",15.706018447875977
+document_000769.html,145,160,Miss Zimmermann,Q4693137,PER,NIL,Miss Zimmermann,"```json {""wikipedia_page"":"""",""wikidata_id"":""NIL""} ```",0
+document_000771.html,40,48,Creation,NIL,MISC,Q163138,The Creation,"```json {""wikipedia_page"":""The Creation"", ""wikidata_id"":""Q163138""} ```",18.524768829345703
+document_000771.html,175,183,Creation,NIL,MISC,Q163138,The Creation,"```json { ""wikipedia_page"": ""The Creation"", ""wikidata_id"": ""Q163138"" } ```",17.298391342163086
+document_000771.html,55,67,Choral Union,NIL,ORG,Q1076622,choral association,"```json { ""wikipedia_page"": ""choral association"", ""wikidata_id"": ""Q1076622"" } ```",15.141454696655273
+document_000771.html,69,80,Mr. Suckley,NIL,PER,Q7052061,Norman Charles Suckling,"```json { ""wikipedia_page"": ""Norman Charles Suckling"", ""wikidata_id"": ""Q7052061"" } ```",18.442764282226562
+document_000771.html,118,145,St.-Cecilia Musical Society,NIL,ORG,Q7587478,St. Cecilia Society,"```json {""wikipedia_page"":""St. Cecilia Society"", ""wikidata_id"":""Q7587478""} ```",21.00277328491211
+document_000772.html,245,257,Percy Kearne,NIL,PER,Q318354,Percy Grainger,"```json {""wikipedia_page"":""Percy Grainger"", ""wikidata_id"":""Q318354""} ```",28.65972900390625
+document_000774.html,122,131,M. Vivier,Q16947558,PER,NIL,M. Vivier,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000774.html,176,185,M. Vivier,Q16947558,PER,NIL,M. Vivier,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000777.html,39,46,Bemberg,Q3134049,PER,NIL,Bemberg,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000777.html,50,73,La Ballade du Désespéré,NIL,MISC,Q4655333,A Ballade of Suicide,"```json {""wikipedia_page"":""A Ballade of Suicide"", ""wikidata_id"":""Q4655333""} ```",15.92424201965332
+document_000777.html,126,145,Miss Gertrude Bevan,NIL,PER,Q5553411,Gertrude van den Bergh,"```json { ""wikipedia_page"": ""Gertrude van den Bergh"", ""wikidata_id"": ""Q5553411"" } ```",20.393705368041992
+document_000778.html,88,93,Lucia,Q244209,MISC,NIL,Lucia,"```json {""wikipedia_page"": ""Lucia"", ""wikidata_id"": ""NIL""} ```",0
+document_000778.html,74,82,Fra poco,NIL,MISC,Q2119740,poco a poco,"```json {""wikipedia_page"":""poco a poco"", ""wikidata_id"":""Q2119740""} ```",13.338408470153809
+document_000778.html,99,112,Tutto scielte,NIL,MISC,Q665214,tutti,"```json {""wikipedia_page"":""tutti"", ""wikidata_id"":""Q665214""} ```",12.880038261413574
+document_000779.html,27,34,Seasons,season,MISC,Q970337,The Seasons,"```json { ""wikipedia_page"": ""The Seasons"", ""wikidata_id"": ""Q970337"" } ```",27.394399642944336
+document_000780.html,199,206,Trieste,Q546,LOC,Q6006584,Imperial Free City of Trieste,"```json {""wikipedia_page"":""Imperial Free City of Trieste"", ""wikidata_id"":""Q6006584""} ```",24.015512466430664
+document_000782.html,88,93,Webbe,Q7412899,PER,Q18917443,Samuel Webbe the younger,"```json {""wikipedia_page"":""Samuel Webbe the younger"", ""wikidata_id"":""Q18917443""} ```",19.690593719482422
+document_000782.html,172,180,Vaughans,NIL,PER,Q111913560,The Vaughans,"```json { ""wikipedia_page"": ""The Vaughans"", ""wikidata_id"": ""Q111913560"" } ```",20.16410255432129
+document_000783.html,4,22,Beethoven festival,Q317786,MISC,NIL,Beethoven festival,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000783.html,158,172,Musik - Verein,Q686720,LOC,Q694323,Gesellschaft der Musikfreunde,"```json { ""wikipedia_page"": ""Gesellschaft der Musikfreunde"", ""wikidata_id"": ""Q694323"" } ```",16.97648048400879
+document_000784.html,184,190,Anzani,Q2813673,PER,NIL,Anzani,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+document_000786.html,27,34,England,Q21,LOC,Q179876,Kingdom of England,"```json { ""wikipedia_page"": ""Kingdom of England"", ""wikidata_id"": ""Q179876"" } ```",13.776402473449707
+document_000786.html,146,157,Ii Barbiere,Q208659,MISC,NIL,Ii Barbiere,"```json {""wikipedia_page"":""Il barbiere di Siviglia"", ""wikidata_id"":""Q195786""} ```",0
+document_000786.html,131,139,Una voce,NIL,MISC,Q50392878,Una voce poco fa,"```json {""wikipedia_page"":""Una voce poco fa"", ""wikidata_id"":""Q50392878""} ```",16.88397789001465
+document_000787.html,38,56,Prince Es sterhdzy,Q597865,PER,Q1369980,Esterházy,"```json { ""wikipedia_page"": ""Esterházy"", ""wikidata_id"": ""Q1369980"" } ```",7.6729865074157715
+document_000787.html,392,416,Church of the Augustines,Q693869,LOC,Q1424095,Basilica of Saint Augustine in Campo Marzio,"```json {""wikipedia_page"":""Basilica of Saint Augustine in Campo Marzio"", ""wikidata_id"":""Q1424095""} ```",24.13938331604004
+document_000789.html,246,263,The Soldier tired,NIL,MISC,Q7557434,Soldiers of the King,"```json { ""wikipedia_page"": ""Soldiers of the King"", ""wikidata_id"": ""Q7557434"" } ```",18.79150390625
+document_000790.html,0,8,Brussels,Q239,LOC,Q60787191,Brussels,"```json {""wikipedia_page"":""Brussels"",""wikidata_id"":""Q60787191""} ```",16.985776901245117
+document_000792.html,53,63,Padetewski,Q191957,PER,Q16581288,Nadzieja Padlewska,"```json {""wikipedia_page"": ""Nadzieja Padlewska"", ""wikidata_id"": ""Q16581288""} ```",20.631715774536133
+document_000794.html,272,282,Ben Davies,Q4888470,PER,NIL,Ben Davies,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+document_000794.html,240,262,Madame Marian McKenzie,NIL,PER,Q4944315,Marianne Davies,"```json {""wikipedia_page"":""Marianne Davies"", ""wikidata_id"":""Q4944315""} ```",20.937034606933594
+document_000794.html,287,301,Douglas Powell,NIL,PER,Q2891065,Douglas Boyd,"```json {""wikipedia_page"":""Douglas Boyd"", ""wikidata_id"":""Q2891065""} ```",26.51894760131836
+document_000796.html,22,29,Sanctus,NIL,MISC,Q215174,Sanctus,"```json {""wikipedia_page"":""Sanctus"", ""wikidata_id"":""Q215174""} ```",19.990982055664062
+document_000796.html,67,81,Rev. Conductor,NIL,PER,Q3147441,rector,"```json {""wikipedia_page"":""rector"", ""wikidata_id"":""Q3147441""} ```",6.138303756713867
+document_000798.html,172,183,Mr. Pierson,Q97011,PER,NIL,Mr. Pierson,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000799.html,0,9,Mr. Moody,NIL,PER,Q5078814,Charles Harry Moody,"```json { ""wikipedia_page"": ""Charles Harry Moody"", ""wikidata_id"": ""Q5078814"" } ```",16.984416961669922
+document_000799.html,184,203,Mr. Westlake Morgan,NIL,PER,Q22087283,John Morgan,"```json {""wikipedia_page"":""John Morgan"", ""wikidata_id"":""Q22087283""} ```",29.444787979125977
+document_000800.html,242,247,Leeds,NIL,LOC,Q39121,Leeds,"```json {""wikipedia_page"":""Leeds"", ""wikidata_id"":""Q39121""} ```",24.474681854248047
+document_000800.html,317,337,Mendelssohn Concerto,NIL,MISC,Q1054060,Violin Concerto in E minor,"```json {""wikipedia_page"":""Violin Concerto in E minor"", ""wikidata_id"":""Q1054060""} ```",27.51943016052246
+document_000801.html,245,252,Lagraye,NIL,PER,Q7126330,Marcel Legay,"```json { ""wikipedia_page"": ""Marcel Legay"", ""wikidata_id"": ""Q7126330"" } ```",19.227397918701172
+document_000803.html,103,107,Urio,Q244231,LOC,Q48800757,Urio,"```json {""wikipedia_page"":""Urio"", ""wikidata_id"":""Q48800757""} ```",16.632186889648438
+document_000803.html,239,246,Te Deum,NIL,MISC,Q743376,Te Deum,"```json { ""wikipedia_page"": ""Te Deum"", ""wikidata_id"": ""Q743376"" } ```",29.237995147705078
+document_000803.html,253,263,Magnificat,NIL,MISC,Q200809,Magnificat,"```json { ""wikipedia_page"": ""Magnificat"", ""wikidata_id"": ""Q200809"" } ```",28.9915828704834
+document_000806.html,264,273,Cathedral,Q1736200,LOC,NIL,Cathedral,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000807.html,534,543,Boieldieu,Q109875,PER,NIL,Boieldieu,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+document_000807.html,243,248,Weigl,Q78798,PER,NIL,Weigl,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000807.html,153,162,Pacsicllé,NIL,PER,Q207390,Amilcare Ponchielli,"```json {""wikipedia_page"": ""Amilcare Ponchielli"", ""wikidata_id"": ""Q207390""} ```",15.27227783203125
+document_000813.html,0,11,Mr. DRESELr,Q96415095,PER,NIL,Mr. DRESELr,"```json {""wikipedia_page"":"""",""wikidata_id"":""NIL""} ```",0
+document_000813.html,232,237,Etude,NIL,MISC,Q207841,étude,"```json {""wikipedia_page"": ""étude"", ""wikidata_id"": ""Q207841""} ```",17.86672019958496
+document_000813.html,297,302,Etude,NIL,MISC,Q146917,Études,"```json {""wikipedia_page"":""Études"", ""wikidata_id"":""Q146917""} ```",18.729022979736328
+document_000814.html,75,95,Barbiere di Siviglia,Q632743,MISC,Q208659,The Barber of Seville,"```json {""wikipedia_page"":""The Barber of Seville"", ""wikidata_id"":""Q208659""} ```",25.886131286621094
+document_000816.html,115,120,Momrt,NIL,PER,Q321631,Robert Morton,"```json {""wikipedia_page"": ""Robert Morton"", ""wikidata_id"": ""Q321631""} ```",18.619251251220703
+document_000817.html,40,47,Society,Q1292443,ORG,Q63343493,New Philharmonic Society,"```json {""wikipedia_page"":""New Philharmonic Society"", ""wikidata_id"":""Q63343493""} ```",24.123254776000977
+document_000817.html,152,163,The Revenge,NIL,MISC,Q107568415,The Revenge (1680 play),"```json {""wikipedia_page"":""The Revenge (1680 play)"", ""wikidata_id"":""Q107568415""} ```",21.83829689025879
+document_000817.html,0,3,The,NIL,MISC,Q63343493,New Philharmonic Society,"```json {""wikipedia_page"":""New Philharmonic Society"", ""wikidata_id"":""Q63343493""} ```",17.709030151367188
+document_000818.html,1,27,Military Band Organisation,NIL,ORG,Q92617413,British military bands,"```json {""wikipedia_page"": ""British military bands"", ""wikidata_id"": ""Q92617413""} ```",19.993165969848633
+document_000819.html,32,39,Holland,Q102911,LOC,Q55,Netherlands,"```json {""wikipedia_page"": ""Netherlands"", ""wikidata_id"": ""Q55""} ```",23.73874282836914
+document_000819.html,131,138,Holland,Q102911,LOC,Q55,Netherlands,"```json { ""wikipedia_page"": ""Netherlands"", ""wikidata_id"": ""Q55"" } ```",17.373180389404297
+document_000819.html,293,303,Vieuxtemps,Q312790,PER,Q7933364,Violin Concerto No. 5,"```json {""wikipedia_page"":""Violin Concerto No. 5"", ""wikidata_id"":""Q7933364""} ```",14.024514198303223
+document_000819.html,107,130,His Majesty the King of,Q154287,PER,Q669458,Majesty,"```json {""wikipedia_page"":""Majesty"", ""wikidata_id"":""Q669458""} ```",12.746955871582031
+document_000822.html,4,22,Scottish Orchestra,Q2002502,ORG,NIL,Scottish Orchestra,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+document_000824.html,153,164,His Majesty,Q130586,PER,Q669458,Majesty,"```json {""wikipedia_page"":""His Majesty"", ""wikidata_id"":""Q669458""} ```",15.75388240814209
+document_000825.html,4,24,Rev. Wiliam Gostling,Q15994466,PER,NIL,Rev. Wiliam Gostling,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000825.html,83,95,Mr. Gostling,Q3181623,PER,NIL,Mr. Gostling,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+document_000826.html,0,14,Madame Vestris,Q6696635,PER,NIL,Madame Vestris,"```json {""wikipedia_page"":"""",""wikidata_id"":""NIL""} ```",0
+document_000829.html,148,155,Stewart,Q4444837,PER,Q2065986,Leslie Stuart,"```json { ""wikipedia_page"": ""Leslie Stuart"", ""wikidata_id"": ""Q2065986"" } ```",16.09552764892578
+document_000829.html,130,143,Bridal Chorus,NIL,MISC,Q2635267,Wedding March,"```json { ""wikipedia_page"": ""Wedding March"", ""wikidata_id"": ""Q2635267"" } ```",18.14088249206543
+document_000834.html,44,59,Hymne au Soleil,NIL,MISC,Q107920238,Hymne au soleil,"```json {""wikipedia_page"":""Hymne au soleil"", ""wikidata_id"":""Q107920238""} ```",20.788028717041016
+document_000835.html,23,36,Mr. Schrieder,NIL,PER,Q3556154,Verschneider,"```json {""wikipedia_page"":""Verschneider"", ""wikidata_id"":""Q3556154""} ```",18.634723663330078
+document_000835.html,92,113,Day of the Coronation,NIL,MISC,Q15732645,Coronation of Edward VII and Alexandra,"```json {""wikipedia_page"": ""Coronation of Edward VII and Alexandra"", ""wikidata_id"": ""Q15732645""} ```",18.179283142089844
+document_000836.html,170,185,Mr. Monck Mason,NIL,PER,Q7792512,Thomas Monck Mason,"```json {""wikipedia_page"": ""Thomas Monck Mason"", ""wikidata_id"": ""Q7792512""} ```",26.020977020263672
+document_000837.html,78,87,Beethoven,Q255,PER,Q246433,Symphony No. 6,"```json {""wikipedia_page"":""Symphony No. 6"", ""wikidata_id"":""Q246433""} ```",18.10035514831543
+document_000838.html,84,94,Dr. Crotch,Q718709,PER,NIL,Dr. Crotch,"```json {""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL""} ```",0
+document_000838.html,157,167,Dr. Crotch,Q718709,PER,NIL,Dr. Crotch,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000838.html,143,153,Miss Paton,Q16888398,PER,NIL,Miss Paton,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000838.html,97,106,Palestine,NIL,MISC,Q23792,Palestine,"```json {""wikipedia_page"":""Palestine"", ""wikidata_id"":""Q23792""} ```",17.88665199279785
+document_000840.html,13,18,Grisi,Q287812,PER,Q287344,Giulia Grisi,"```json {""wikipedia_page"":""Giulia Grisi"", ""wikidata_id"":""Q287344""} ```",14.880291938781738
+document_000841.html,67,73,Oxford,Q34217,LOC,Q81162,Magdalen College,"```json {""wikipedia_page"":""Magdalen College"", ""wikidata_id"":""Q81162""} ```",21.863269805908203
+document_000841.html,156,168,Lincolnshire,Q23090,LOC,Q6551279,Lincolnshire coast,"```json {""wikipedia_page"": ""Lincolnshire coast"", ""wikidata_id"": ""Q6551279""} ```",31.80365753173828
+document_000842.html,23,36,Mrs. Weichsel,Q5362421,PER,NIL,Mrs. Weichsel,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000842.html,68,75,C. Bach,Q106641,PER,Q76428,Carl Philipp Emanuel Bach,"```json { ""wikipedia_page"": ""Carl Philipp Emanuel Bach"", ""wikidata_id"": ""Q76428"" } ```",26.290645599365234
+document_000844.html,122,135,Parish Church,Q2322532,LOC,Q5116872,Church of England parish church,"```json {""wikipedia_page"":""Church of England parish church"", ""wikidata_id"":""Q5116872""} ```",28.576412200927734
+document_000844.html,139,144,Leeds,Q39121,LOC,Q1736191,Leeds Cathedral,"```json {""wikipedia_page"": ""Leeds Cathedral"", ""wikidata_id"": ""Q1736191""} ```",24.122529983520508
+document_000844.html,25,39,Choral Service,NIL,MISC,Q4763552,Anglican church music,"```json { ""wikipedia_page"": ""Anglican church music"", ""wikidata_id"": ""Q4763552"" } ```",18.61492919921875
+document_000846.html,49,59,Mr. Newman,Q7348018,PER,NIL,Mr. Newman,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000847.html,109,124,Signorina Barbi,Q3611669,PER,NIL,Signorina Barbi,"```json {""wikipedia_page"":"""",""wikidata_id"":""NIL""} ```",0
+document_000848.html,153,170,Mr. Knyvet Wilson,NIL,PER,Q8014098,William Knyvett,"```json {""wikipedia_page"":""William Knyvett"", ""wikidata_id"":""Q8014098""} ```",20.768291473388672
+document_000849.html,139,146,Brabant,Q1122,LOC,Q159856,Duchy of Brabant,"```json {""wikipedia_page"": ""Duchy of Brabant"", ""wikidata_id"": ""Q159856""} ```",27.817888259887695
+document_000849.html,0,13,J. Teinturier,NIL,PER,Q370512,Johannes Tinctoris,"```json {""wikipedia_page"":""Johannes Tinctoris"", ""wikidata_id"":""Q370512""} ```",16.66975975036621
+document_000851.html,185,197,Philharmonic,Q856125,ORG,Q152222,Berlin Philharmonic,"```json {""wikipedia_page"":""Berlin Philharmonic"", ""wikidata_id"":""Q152222""} ```",25.266706466674805
+document_000851.html,228,242,Crystal Palace,Q202902,LOC,Q5191311,Crystal Palace Park Concert Platform,"```json {""wikipedia_page"":""Crystal Palace Park Concert Platform"", ""wikidata_id"":""Q5191311""} ```",16.736377716064453
+document_000851.html,16,36,Subscription Concert,NIL,MISC,Q9748,concerto,"```json {""wikipedia_page"":""concert"",""wikidata_id"":""Q9748""} ```",17.721899032592773
+document_000852.html,162,179,Ciro riconosciuto,Q5770270,MISC,NIL,Ciro riconosciuto,"```json {""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL""} ```",0
+document_000852.html,187,203,Achille in Siria,Q5702001,MISC,Q5658438,Adriano in Siria,"```json {""wikipedia_page"": ""Adriano in Siria"", ""wikidata_id"": ""Q5658438""} ```",21.765451431274414
+document_000852.html,82,95,La Zingarella,NIL,MISC,Q6465953,La Zingarella,"```json { ""wikipedia_page"": ""La Zingarella"", ""wikidata_id"": ""Q6465953"" } ```",21.211559295654297
+document_000852.html,120,137,Jl Festo Teatrale,NIL,MISC,Q3743988,festa teatrale,"```json {""wikipedia_page"":""festa teatrale"", ""wikidata_id"":""Q3743988""} ```",19.804737091064453
+document_000852.html,215,223,Vologeso,NIL,MISC,Q7940645,Vologeso,"```json {""wikipedia_page"":""Vologeso"", ""wikidata_id"":""Q7940645""} ```",21.226070404052734
+document_000853.html,6,25,Mademoiselle Bonini,Q5479435,PER,Q16009919,Gemma Bosini,"```json {""wikipedia_page"":""Gemma Bosini"", ""wikidata_id"":""Q16009919""} ```",21.075300216674805
+document_000854.html,28,47,Gewandhaus Concerts,Q519613,LOC,Q156515,Leipzig Gewandhaus Orchestra,"```json {""wikipedia_page"":""Leipzig Gewandhaus Orchestra"", ""wikidata_id"":""Q156515""} ```",26.863412857055664
+document_000854.html,73,89,FErpinanp Ui1LER,Q213530,PER,NIL,FErpinanp Ui1LER,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000857.html,38,64,Amateur Orchestral Society,NIL,ORG,Q11284860,amateur orchestra,"```json {""wikipedia_page"":""amateur orchestra"", ""wikidata_id"":""Q11284860""} ```",24.234375
+document_000857.html,94,110,Mr. Ralph Horner,NIL,PER,Q52156361,Ralph Joseph Horner,"```json {""wikipedia_page"": ""Ralph Joseph Horner"", ""wikidata_id"": ""Q52156361""} ```",20.063411712646484
+document_000857.html,127,138,Advent Hymn,NIL,MISC,Q12300621,Advent song,"```json {""wikipedia_page"":""Advent song"", ""wikidata_id"":""Q12300621""} ```",24.336593627929688
+document_000858.html,164,189,Mr. George William Warren,Q20726537,PER,NIL,Mr. George William Warren,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+document_000859.html,123,128,Graun,Q161208,PER,NIL,Graun,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000859.html,214,228,Dalla sua pace,Q192039,MISC,NIL,Dalla sua pace,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000859.html,131,142,Britannieus,NIL,MISC,Q7103980,Orpheus Britannicus,"```json {""wikipedia_page"":""Orpheus Britannicus"", ""wikidata_id"":""Q7103980""} ```",17.094892501831055
+document_000859.html,148,162,Herr Reichardt,NIL,PER,Q213742,Johann Friedrich Reichardt,"```json { ""wikipedia_page"": ""Johann Friedrich Reichardt"", ""wikidata_id"": ""Q213742"" } ```",20.90450096130371
+document_000860.html,117,127,Gloucester,Q170497,LOC,Q262500,Gloucester Cathedral,"```json {""wikipedia_page"":""Gloucester Cathedral"", ""wikidata_id"":""Q262500""} ```",29.436845779418945
+document_000860.html,129,137,Hereford,Q204720,LOC,Q429379,Hereford Cathedral,"```json {""wikipedia_page"":""Hereford Cathedral"", ""wikidata_id"":""Q429379""} ```",30.575672149658203
+document_000860.html,143,152,Worcester,Q1646181,LOC,Q1630367,Worcester Cathedral,"```json {""wikipedia_page"":""Worcester Cathedral"", ""wikidata_id"":""Q1630367""} ```",32.36601257324219
+document_000863.html,177,215,Concerto for two violins and orchestra,NIL,MISC,Q1094801,Concerto for Two Violins,"```json {""wikipedia_page"": ""Concerto for Two Violins"", ""wikidata_id"": ""Q1094801""} ```",24.12015724182129
+document_000864.html,107,129,Norwich Choral Society,NIL,ORG,Q7061555,Norwich Writers' Circle,"```json {""wikipedia_page"":""Norwich Writers' Circle"", ""wikidata_id"":""Q7061555""} ```",30.189184188842773
+document_000864.html,160,169,Trafalgar,NIL,MISC,Q171416,Battle of Trafalgar,"```json { ""wikipedia_page"": ""Battle of Trafalgar"", ""wikidata_id"": ""Q171416"" } ```",18.091154098510742
+document_000865.html,0,13,Mr. Hepmonnpt,NIL,PER,Q3932293,James Henry Mapleson,"```json {""wikipedia_page"":""James Henry Mapleson"", ""wikidata_id"":""Q3932293""} ```",16.672056198120117
+document_000867.html,115,120,Norma,Q320353,MISC,NIL,Norma,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000867.html,126,140,Mr. John Parry,NIL,PER,Q3399352,John Parry,"```json { ""wikipedia_page"": ""John Parry"", ""wikidata_id"": ""Q3399352"" } ```",26.86911392211914
+document_000867.html,160,171,Mr. Ferrari,NIL,PER,Q3762126,Giacomo Gotifredo Ferrari,"```json {""wikipedia_page"": ""Giacomo Gotifredo Ferrari"", ""wikidata_id"": ""Q3762126""} ```",17.5765323638916
+document_000868.html,104,113,Mr. Parry,Q6251304,PER,Q354250,Hubert Parry,"```json {""wikipedia_page"": ""Hubert Parry"", ""wikidata_id"": ""Q354250""} ```",13.81832218170166
+document_000870.html,58,65,Ireland,Q22890,LOC,Q215530,Kingdom of Ireland,"```json {""wikipedia_page"":""Kingdom of Ireland"", ""wikidata_id"":""Q215530""} ```",15.698575973510742
+document_000870.html,11,21,Revolution,NIL,MISC,Q2269,Industrial Revolution,"```json {""wikipedia_page"":""Industrial Revolution"", ""wikidata_id"":""Q2269""} ```",9.071639060974121
+document_000871.html,130,142,Pasqua Rossi,NIL,PER,Q337599,Pasquale Rossi,"```json { ""wikipedia_page"": ""Pasquale Rossi"", ""wikidata_id"": ""Q337599"" } ```",20.250757217407227
+document_000871.html,148,156,Ortolani,NIL,PER,Q20101394,Terenzio Ortolani,"```json {""wikipedia_page"":""Terenzio Ortolani"", ""wikidata_id"":""Q20101394""} ```",22.786596298217773
+document_000873.html,164,178,Madame Novello,Q4322567,PER,NIL,Madame Novello,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000880.html,0,9,Scarlatti,Q167837,PER,Q183087,Alessandro Scarlatti,"```json {""wikipedia_page"":""Alessandro Scarlatti"", ""wikidata_id"":""Q183087""} ```",36.573951721191406
+document_000880.html,64,79,Concerti grossi,Q2991921,MISC,Q210216,concerto grosso,"```json {""wikipedia_page"":""concerto grosso"", ""wikidata_id"":""Q210216""} ```",27.690778732299805
+document_000881.html,90,99,Sofonisba,NIL,MISC,Q21086225,Sofonisba,"```json {""wikipedia_page"":""Sophonisba"", ""wikidata_id"":""Q21086225""} ```",16.989023208618164
+document_000881.html,155,161,Siface,NIL,MISC,Q18663527,Siface re di Numidia,"```json {""wikipedia_page"":""Siface re di Numidia"", ""wikidata_id"":""Q18663527""} ```",13.496072769165039
+document_000882.html,25,33,Cervetto,Q1364637,PER,Q18529811,James Cervetto,"```json {""wikipedia_page"":""James Cervetto"", ""wikidata_id"":""Q18529811""} ```",15.308216094970703
+document_000882.html,68,75,Lindley,Q18593452,PER,Q7808466,Tinsley Lindley,"```json {""wikipedia_page"": ""Tinsley Lindley"", ""wikidata_id"": ""Q7808466""} ```",15.882596969604492
+document_000882.html,145,153,Crosdill,Q6227740,PER,NIL,Crosdill,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000885.html,146,155,Clapisson,Q1871594,PER,NIL,Clapisson,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000885.html,3,6,the,NIL,MISC,Q283339,Paris Opera,"```json {""wikipedia_page"":""Paris Opera"", ""wikidata_id"":""Q283339""} ```",11.975053787231445
+document_000885.html,25,28,the,NIL,MISC,Q263297,Le prophète,"```json {""wikipedia_page"":""Le prophète"", ""wikidata_id"":""Q263297""} ```",8.353594779968262
+document_000885.html,58,61,the,NIL,MISC,Q244209,Lucia di Lammermoor,"```json {""wikipedia_page"":""Lucia di Lammermoor"", ""wikidata_id"":""Q244209""} ```",9.98213005065918
+document_000885.html,90,93,the,NIL,MISC,Q470773,La muette de Portici,"```json {""wikipedia_page"": ""La muette de Portici"", ""wikidata_id"": ""Q470773""} ```",8.256691932678223
+document_000886.html,0,7,Fischer,Q820692,PER,NIL,Fischer,"```json {""wikipedia_page"":""NIL"",""wikidata_id"":""NIL""} ```",0
+document_000886.html,195,202,England,Q21,LOC,Q161885,Kingdom of Great Britain,"```json { ""wikipedia_page"": ""Kingdom of Great Britain"", ""wikidata_id"": ""Q161885"" } ```",15.939159393310547
+document_000886.html,125,131,Cramer,Q455212,PER,Q78303,Wilhelm Cramer,"```json {""wikipedia_page"":""Wilhelm Cramer"", ""wikidata_id"":""Q78303""} ```",25.642898559570312
+document_000887.html,102,108,Psalms,NIL,MISC,Q41064,Psalms,"```json {""wikipedia_page"": ""Psalms"", ""wikidata_id"": ""Q41064""} ```",20.69395637512207
+document_000889.html,40,44,Bach,Q1339,PER,Q169509,Bach family,"```json {""wikipedia_page"":""Bach family"", ""wikidata_id"":""Q169509""} ```",14.915258407592773
+document_000892.html,151,169,Mr. Norman Salmond,Q5442324,PER,Q7066639,Nowell Salmon,"```json { ""wikipedia_page"": ""Nowell Salmon"", ""wikidata_id"": ""Q7066639"" } ```",22.132965087890625
+document_000892.html,171,188,M. Johannes Wolff,Q21129875,PER,Q126345,Johannes Wolf,"```json { ""wikipedia_page"": ""Johannes Wolf"", ""wikidata_id"": ""Q126345"" } ```",22.80569839477539
+document_000892.html,190,200,M. Hollman,Q1406368,PER,NIL,M. Hollman,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+document_000892.html,79,88,Mr. Fould,NIL,PER,Q340215,Achille Fould,"```json {""wikipedia_page"":""Achille Fould"", ""wikidata_id"":""Q340215""} ```",19.92229461669922
+document_000898.html,74,81,Athalie,Q19259756,MISC,Q754682,Athalia,"```json { ""wikipedia_page"": ""Athalia"", ""wikidata_id"": ""Q754682"" } ```",20.337108612060547
+document_000901.html,16,22,Ceylon,Q854,LOC,Q2670092,Dominion of Ceylon,"```json {""wikipedia_page"":""Dominion of Ceylon"", ""wikidata_id"":""Q2670092""} ```",21.132986068725586
+document_000902.html,0,11,Dr. Mainzer,NIL,PER,Q5443875,Ferdinand Mainzer,"```json {""wikipedia_page"":""Ferdinand Mainzer"", ""wikidata_id"":""Q5443875""} ```",13.619711875915527
+document_000903.html,24,39,Court of Vienna,NIL,ORG,Q1134237,royal court,"```json {""wikipedia_page"":""royal court"", ""wikidata_id"":""Q1134237""} ```",19.05305290222168
+document_000904.html,434,440,Europe,Q46,LOC,NIL,Europe,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+document_000911.html,121,129,Hamerton,Q52498671,PER,Q2086752,Philip Gilbert Hamerton,"``` {""wikipedia_page"":""Philip Gilbert Hamerton"", ""wikidata_id"":""Q2086752""} ```",18.81048011779785
+document_000913.html,50,57,Naumann,Q213927,PER,NIL,Naumann,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000914.html,406,413,Hanover,Q164079,LOC,Q706018,Electorate of Hanover,"```json {""wikipedia_page"":""Electorate of Hanover"", ""wikidata_id"":""Q706018""} ```",19.36501693725586
+document_000915.html,57,69,Lord Paisley,Q3806590,PER,NIL,Lord Paisley,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000916.html,319,331,Herr Joachim,NIL,PER,Q159976,Joseph Joachim,"```json { ""wikipedia_page"": ""Joseph Joachim"", ""wikidata_id"": ""Q159976"" } ```",13.560539245605469
+document_000918.html,0,13,Mr. Moscheles,Q159551,PER,NIL,Mr. Moscheles,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000922.html,2,8,Wilson,Q6264502,PER,Q34296,Woodrow Wilson,"```json { ""wikipedia_page"": ""Woodrow Wilson"", ""wikidata_id"": ""Q34296"" } ```",17.619991302490234
+document_000924.html,41,65,Mrs. Mounsey BartnoLomew,Q4766585,PER,NIL,Mrs. Mounsey BartnoLomew,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000925.html,92,110,Madame Rudersdorff,Q17575680,PER,NIL,Madame Rudersdorff,"```json {""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL""} ```",0
+document_000925.html,76,81,Medea,NIL,MISC,Q286381,Medea,"```json {""wikipedia_page"":""Medea"", ""wikidata_id"":""Q286381""} ```",18.788877487182617
+document_000925.html,236,241,Saffo,NIL,MISC,Q536026,Sapho,"```json {""wikipedia_page"":""Sapho"", ""wikidata_id"":""Q536026""} ```",15.462486267089844
+document_000925.html,344,355,150th Psalm,NIL,MISC,Q7253928,Psalm 150 (Bruckner),"```json {""wikipedia_page"":""Psalm 150 (Bruckner)"", ""wikidata_id"":""Q7253928""} ```",25.451810836791992
+document_000926.html,0,10,Mr. Bishop,Q1200639,PER,NIL,Mr. Bishop,"```json {""wikipedia_page"":"""",""wikidata_id"":""NIL""} ```",0
+document_000927.html,122,129,Convent,NIL,LOC,Q1451876,Frauenstift,"```json {""wikipedia_page"":""Frauenstift"", ""wikidata_id"":""Q1451876""} ```",16.451337814331055
+document_000927.html,569,578,Henriette,NIL,PER,Q19688844,Henriette,"Based on the provided text and the list of candidates, the entity [ENT] Henriette [ENT] is most likely referring to a person named Henriette. Given the context and the time period (1900), the most appropriate candidate is: ```json {""wikipedia_page"":"""",""wikidata_id"":""Q19688844""} ```",10.700770378112793

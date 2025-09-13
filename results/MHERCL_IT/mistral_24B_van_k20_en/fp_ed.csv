@@ -1,0 +1,736 @@
+doc_id,start_pos,end_pos,surface,gt_id,type,identifier,title,answer,score
+document_000004.html,71,77,Busont,Q219551,PER,NIL,Busont,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+document_000004.html,124,164,cia funebre dell’imperatore Massimiliano,NIL,MISC,Q150726,Massimiliano I d'Asburgo,"```json {""wikipedia_page"": ""Massimiliano I d'Asburgo"", ""wikidata_id"": ""Q150726""} ```",9.633642196655273
+document_000005.html,72,92,gran maestro di Bonn,Q255,PER,NIL,gran maestro di Bonn,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000006.html,112,117,Baden,Q486450,LOC,Q4100,Baden-Baden,"```json {""wikipedia_page"":""Baden-Baden"", ""wikidata_id"":""Q4100""} ```",18.40478515625
+document_000006.html,224,230,Wendel,Q1303289,PER,NIL,Wendel,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000008.html,116,135,Sinfonia incompiuta,Q651383,MISC,Q3507632,Sinfonia n. 10 (Schubert),"```json {""wikipedia_page"": ""Sinfonia n. 10 (Schubert)"", ""wikidata_id"": ""Q3507632""} ```",18.17095947265625
+document_000009.html,4,12,Seriabin,Q185647,PER,NIL,Seriabin,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000009.html,40,56,diterza Sinfonia,Q223538,MISC,Q1572091,Sinfonia in tre movimenti,"```json { ""wikipedia_page"": ""Sinfonia in tre movimenti"", ""wikidata_id"": ""Q1572091"" } ```",10.683647155761719
+document_000009.html,109,122,delVPAugusteo,Q3616668,LOC,Q3516747,Teatro Augusteo,"```json { ""wikipedia_page"": ""Teatro Augusteo"", ""wikidata_id"": ""Q3516747"" } ```",11.758094787597656
+document_000010.html,84,96,all’Augusteo,Q3616668,LOC,NIL,all’Augusteo,"```json {""wikipedia_page"":"""",""wikidata_id"":""NIL""} ```",0
+document_000011.html,0,6,Coates,Q1230717,PER,Q2595770,Albert Coates,"```json {""wikipedia_page"": ""Albert Coates"", ""wikidata_id"": ""Q2595770""} ```",16.983577728271484
+document_000011.html,358,364,Coates,Q1230717,PER,Q2595770,Albert Coates,"```json {""wikipedia_page"":""Albert Coates"", ""wikidata_id"":""Q2595770""} ```",18.717124938964844
+document_000011.html,461,467,Natale,Q19809,MISC,Q106010,vigilia di Natale,"```json {""wikipedia_page"":""vigilia di Natale"", ""wikidata_id"":""Q106010""} ```",16.90999412536621
+document_000013.html,37,45,Juventus,Q109001794,MISC,Q1422,Juventus FC,"```json {""wikipedia_page"":""Juventus FC"", ""wikidata_id"":""Q1422""} ```",14.36769962310791
+document_000013.html,52,60,DiSabata,Q464890,PER,NIL,DiSabata,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+document_000013.html,513,519,Italia,Q38,LOC,Q172579,Regno d'Italia,"```json {""wikipedia_page"":""Regno d'Italia"", ""wikidata_id"":""Q172579""} ```",17.804006576538086
+document_000013.html,662,674,all’Augusteo,Q3616668,LOC,Q3516747,Teatro Augusteo,"```json {""wikipedia_page"": ""Teatro Augusteo"", ""wikidata_id"": ""Q3516747""} ```",7.983017444610596
+document_000014.html,83,92,Tarantini,NIL,PER,Q108555,Giuseppe Tartini,"```json { ""wikipedia_page"": ""Giuseppe Tartini"", ""wikidata_id"": ""Q108555"" } ```",29.174213409423828
+document_000014.html,127,131,Fano,Q3779156,PER,NIL,Fano,"```json { ""wikipedia_page"":"""", ""wikidata_id"":""NIL"" } ```",0
+document_000014.html,133,146,dell’Agostini,Q3855836,PER,NIL,dell’Agostini,"```json {""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL""} ```",0
+document_000014.html,152,159,Panizza,Q3762212,PER,Q106547122,,"```json {""wikipedia_page"":""Giovanni Battista Piano"", ""wikidata_id"":""Q106547122""} ```",20.980653762817383
+document_000014.html,209,218,Guarnieri,Q1165357,PER,NIL,Guarnieri,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000015.html,129,162,Messa per coro a tre voci dispari,NIL,MISC,Q217295,messa,"```json {""wikipedia_page"": ""Messa"", ""wikidata_id"": ""Q217295""} ```",18.428436279296875
+document_000016.html,3,17,Inno trionfale,NIL,MISC,Q541947,inno,"```json {""wikipedia_page"": ""inno"", ""wikidata_id"": ""Q541947""} ```",14.248628616333008
+document_000017.html,136,176,La Musica dell’Antichité e del Medio Evo,NIL,MISC,Q436016,musica antica,"```json {""wikipedia_page"":""musica antica"", ""wikidata_id"":""Q436016""} ```",13.650014877319336
+document_000017.html,179,197,Tancredi Mantovani,NIL,PER,Q2392204,Tancredi Parmeggiani,"```json {""wikipedia_page"": ""Tancredi Parmeggiani"", ""wikidata_id"": ""Q2392204""} ```",21.500492095947266
+document_000017.html,364,406,La Musica dal Rinascimento alepoca moderna,NIL,MISC,Q201405,musica rinascimentale,"```json {""wikipedia_page"":""musica rinascimentale"", ""wikidata_id"":""Q201405""} ```",15.197977066040039
+document_000018.html,314,323,Scarlatti,Q183087,PER,Q167837,Domenico Scarlatti,"```json {""wikipedia_page"":""Domenico Scarlatti"", ""wikidata_id"":""Q167837""} ```",32.888145446777344
+document_000019.html,157,172,.Sfadio di Roma,NIL,LOC,Q3516766,Teatro Palladium,"```json {""wikipedia_page"":""Teatro Palladium"", ""wikidata_id"":""Q3516766""} ```",14.549137115478516
+document_000019.html,376,384,Molinari,Q3725923,PER,NIL,Molinari,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000019.html,412,419,Consoli,Q109860310,PER,NIL,Consoli,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+document_000020.html,266,272,Italia,Q38,LOC,Q172579,Regno d'Italia,"```json { ""wikipedia_page"": ""Regno d'Italia"", ""wikidata_id"": ""Q172579"" } ```",16.16385269165039
+document_000024.html,197,204,Casazza,Q3723753,PER,NIL,Casazza,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000025.html,332,342,De Hidalgo,Q465195,PER,Q4889831,Juan Hidalgo de Polanco,"```json {""wikipedia_page"":""Juan Hidalgo de Polanco"", ""wikidata_id"":""Q4889831""} ```",18.018474578857422
+document_000025.html,355,362,Hackett,Q767676,PER,NIL,Hackett,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000026.html,35,51,Maestrit Canfori,Q465540,MISC,Q1032933,Candelaio,"```json {""wikipedia_page"": ""Candelaio"", ""wikidata_id"":""Q1032933""} ```",10.642779350280762
+document_000026.html,239,249,De Angelis,Q2536286,PER,NIL,De Angelis,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000027.html,344,348,Rota,Q97571478,PER,NIL,Rota,"```json {""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL""} ```",0
+document_000027.html,350,360,Rovescalli,Q94288706,PER,NIL,Rovescalli,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000028.html,199,216,Mafalda de Voltri,NIL,PER,Q1883660,Mafalda Salvatini,"```json {""wikipedia_page"":""Mafalda Salvatini"", ""wikidata_id"":""Q1883660""} ```",24.237117767333984
+document_000028.html,218,227,Eva Didur,Q50356749,PER,NIL,Eva Didur,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+document_000028.html,245,258,Anna Gramegna,Q102075886,PER,NIL,Anna Gramegna,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+document_000028.html,294,313,Margherita Sheridan,Q6759227,PER,NIL,Margherita Sheridan,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+document_000028.html,315,326,Giulia Tess,Q63479708,PER,Q3771696,Giuseppina Tuissi,"```json {""wikipedia_page"":""Giuseppina Tuissi"", ""wikidata_id"":""Q3771696""} ```",26.07260513305664
+document_000028.html,328,339,Mita Vasari,NIL,PER,Q97376547,Maila Venturi,"```json {""wikipedia_page"":""Maila Venturi"", ""wikidata_id"":""Q97376547""} ```",24.037742614746094
+document_000032.html,120,125,Longo,Q1934977,PER,NIL,Longo,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000032.html,127,134,Cantani,NIL,PER,Q3619410,Antonio Certani,"```json {""wikipedia_page"":""Antonio Certani"", ""wikidata_id"":""Q3619410""} ```",21.371997833251953
+document_000032.html,136,145,Viterbini,NIL,PER,Q1528696,Giuseppe Valentini,"```json {""wikipedia_page"":""Giuseppe Valentini"", ""wikidata_id"":""Q1528696""} ```",21.06962776184082
+document_000032.html,160,167,Scarano,NIL,PER,Q3886148,Oronzo Mario Scarano,"```json {""wikipedia_page"":""Oronzo Mario Scarano"", ""wikidata_id"":""Q3886148""} ```",23.9299373626709
+document_000032.html,215,225,Olga Greco,NIL,PER,Q3881629,Olga Gorgoni,"```json {""wikipedia_page"":""Olga Gorgoni"", ""wikidata_id"":""Q3881629""} ```",28.172883987426758
+document_000032.html,376,393,Sonata a Kreutzer,Q1154601,MISC,NIL,Sonata a Kreutzer,"```json {""wikipedia_page"":""Sonata a Kreutzer"", ""wikidata_id"":""NIL""} ```",0
+document_000032.html,413,420,Consolo,Q16189778,PER,Q106055560,Consolo,"```json {""wikipedia_page"":""Consolo"", ""wikidata_id"":""Q106055560""} ```",16.419097900390625
+document_000032.html,546,553,Consolo,Q16189778,PER,NIL,Consolo,"```json {""wikipedia_page"":"""",""wikidata_id"":""NIL""} ```",0
+document_000033.html,153,160,Ferroni,Q3559935,PER,NIL,Ferroni,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000033.html,191,201,1’Agozzino,NIL,PER,Q3956004,Sergio Algozzino,"```json {""wikipedia_page"":""Sergio Algozzino"", ""wikidata_id"":""Q3956004""} ```",17.657840728759766
+document_000033.html,258,270,dall’America,Q828,LOC,Q30,Stati Uniti d'America,"```json {""wikipedia_page"": ""Stati Uniti d'America"", ""wikidata_id"": ""Q30""} ```",10.442381858825684
+document_000033.html,334,343,Polveroni,NIL,PER,Q3814162,Manfredi Polverosi,"```json {""wikipedia_page"":""Manfredi Polverosi"", ""wikidata_id"":""Q3814162""} ```",19.405710220336914
+document_000035.html,92,99,Ranuzzi,Q1442098,PER,NIL,Ranuzzi,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000035.html,245,252,Sistina,Q1236085,ORG,Q2943,cappella Sistina,"```json {""wikipedia_page"":""cappella Sistina"", ""wikidata_id"":""Q2943""} ```",18.54104232788086
+document_000035.html,259,264,Boezi,Q29646877,PER,NIL,Boezi,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+document_000036.html,67,74,Polonia,Q36,LOC,Q207272,Seconda Repubblica di Polonia,"```json {""wikipedia_page"":""Seconda Repubblica di Polonia"", ""wikidata_id"":""Q207272""} ```",13.743247985839844
+document_000038.html,96,100,Roma,NIL,LOC,Q220,Roma,"```json {""wikipedia_page"":""Roma"", ""wikidata_id"":""Q220""} ```",23.95549964904785
+document_000038.html,210,218,Augusteo,Q3616668,LOC,Q3516747,Teatro Augusteo,"```json {""wikipedia_page"":""Teatro Augusteo"", ""wikidata_id"":""Q3516747""} ```",13.565208435058594
+document_000038.html,229,237,Costanzi,Q1050350,LOC,NIL,Costanzi,"```json {""wikipedia_page"":""Teatro Costanzi"", ""wikidata_id"":""NIL""} ```",0
+document_000041.html,415,433,Teatro dei Piccoli,NIL,LOC,Q3982093,Teatro Piccolo,"```json { ""wikipedia_page"": ""Teatro Piccolo"", ""wikidata_id"": ""Q3982093"" } ```",28.15589714050293
+document_000043.html,74,93,concerto gregoriano,Q11300734,MISC,Q26473,canto gregoriano,"```json {""wikipedia_page"":""canto gregoriano"", ""wikidata_id"":""Q26473""} ```",23.291358947753906
+document_000043.html,134,140,Davico,Q942851,PER,NIL,Davico,"```json {""wikipedia_page"": """", ""wikidata_id"": ""NIL""} ```",0
+document_000043.html,168,175,Mantica,NIL,PER,Q3609247,Aldo Mantia,"```json {""wikipedia_page"":""Aldo Mantia"", ""wikidata_id"":""Q3609247""} ```",19.39996337890625
+document_000044.html,301,307,Davico,Q942851,PER,NIL,Davico,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000044.html,354,361,Mantica,NIL,PER,Q3609247,Aldo Mantia,"```json {""wikipedia_page"":""Aldo Mantia"", ""wikidata_id"":""Q3609247""} ```",16.319026947021484
+document_000044.html,430,440,l’Augusteo,Q3616668,LOC,Q3516747,Teatro Augusteo,"```json {""wikipedia_page"":""Teatro Augusteo"", ""wikidata_id"":""Q3516747""} ```",13.213252067565918
+document_000045.html,104,112,Respighi,Q243837,PER,Q19376251,composizioni di Ottorino Respighi,"```json {""wikipedia_page"":""composizioni di Ottorino Respighi"", ""wikidata_id"":""Q19376251""} ```",16.676040649414062
+document_000046.html,120,139,Marsilio Ceccarelli,Q102289005,PER,NIL,Marsilio Ceccarelli,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000046.html,149,164,Gino Barabaschi,NIL,PER,Q1525082,Gino Buzzanca,"```json {""wikipedia_page"":""Gino Buzzanca"", ""wikidata_id"":""Q1525082""} ```",31.31972885131836
+document_000047.html,32,41,Ida Ricci,NIL,PER,Q50805221,Ida Brunelli Lenti,"```json {""wikipedia_page"":""Ida Brunelli Lenti"", ""wikidata_id"":""Q50805221""} ```",35.6078987121582
+document_000047.html,56,72,Giuditta Sartori,NIL,PER,Q18455944,Egida Giordani Sartori,"```json { ""wikipedia_page"": ""Egida Giordani Sartori"", ""wikidata_id"": ""Q18455944"" } ```",36.553436279296875
+document_000048.html,6,23,Sonata in sol min,Q2641249,MISC,Q1031890,Sonata in si minore,"```json {""wikipedia_page"":""Sonata in si minore"", ""wikidata_id"":""Q1031890""} ```",31.975370407104492
+document_000048.html,44,60,Sonata in Za mix,Q3073254,MISC,NIL,Sonata in Za mix,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000049.html,121,128,Sartori,NIL,PER,Q3751583,Franco Sartori,"```json {""wikipedia_page"":""Franco Sartori"", ""wikidata_id"":""Q3751583""} ```",18.07468032836914
+document_000050.html,144,158,Eugenio Albini,Q124499318,PER,NIL,Eugenio Albini,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000051.html,0,29,Nell’oratorio di San Marcello,Q1165020,LOC,NIL,Nell’oratorio di San Marcello,"```json {""wikipedia_page"":""oratorio della Compagnia di San Marcello al Corso"", ""wikidata_id"":""NIL""} ```",0
+document_000051.html,92,99,Zuccari,NIL,PER,Q3647799,Buzzaccarini,"```json {""wikipedia_page"":""Buzzaccarini"", ""wikidata_id"":""Q3647799""} ```",17.624759674072266
+document_000051.html,121,135,Cardenio Botti,Q100077371,PER,NIL,Cardenio Botti,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000051.html,153,163,l’Alaleona,Q2262438,MISC,NIL,l’Alaleona,"```json {""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL""} ```",0
+document_000051.html,247,265,Casa degli Artisti,Q3661195,LOC,NIL,Casa degli Artisti,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+document_000052.html,2,7,Botti,Q100077371,PER,NIL,Botti,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+document_000052.html,576,581,Botti,Q100077371,PER,NIL,Botti,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000052.html,713,732,Circole Marchigiano,NIL,ORG,Q16541481,Circolo Giuseppe Mazzini,"```json {""wikipedia_page"":""Circolo Giuseppe Mazzini"", ""wikidata_id"":""Q16541481""} ```",13.215609550476074
+document_000052.html,854,865,La felicita,NIL,MISC,Q48319398,La felicità,"```json { ""wikipedia_page"": ""La felicità"", ""wikidata_id"": ""Q48319398"" } ```",17.7590389251709
+document_000053.html,105,113,Lzberata,NIL,MISC,Q3831513,Li zite 'ngalera,"```json { ""wikipedia_page"": ""Li zite 'ngalera"", ""wikidata_id"": ""Q3831513"" } ```",11.064464569091797
+document_000053.html,404,418,Cardenio Botti,Q100077371,PER,NIL,Cardenio Botti,"```json {""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL""} ```",0
+document_000056.html,112,145,Banda Musicale del Comune di Roma,Q3633905,ORG,NIL,Banda Musicale del Comune di Roma,"```json {""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL""} ```",0
+document_000056.html,74,82,Vessella,Q2719255,PER,NIL,Vessella,"```json {""wikipedia_page"":"""",""wikidata_id"":""NIL""} ```",0
+document_000057.html,75,91,Marcia trionfale,NIL,MISC,Q3774332,Gran Marcia Trionfale,"```json {""wikipedia_page"": ""Gran Marcia Trionfale"", ""wikidata_id"": ""Q3774332""} ```",13.63277530670166
+document_000057.html,94,104,Vouverture,NIL,MISC,Q202287,ouverture,"```json {""wikipedia_page"":""ouverture"", ""wikidata_id"":""Q202287""} ```",13.728644371032715
+document_000057.html,111,120,Cleopatra,NIL,MISC,Q635,Cleopatra,"```json {""wikipedia_page"":""Cleopatra"", ""wikidata_id"":""Q635""} ```",21.849864959716797
+document_000057.html,122,141,I voti di S. Chiara,NIL,MISC,Q191107,Chiara d'Assisi,"```json {""wikipedia_page"": ""Chiara d'Assisi"", ""wikidata_id"": ""Q191107""} ```",12.185506820678711
+document_000057.html,145,187,Lf Corteo imperiale nella valle di Spoleto,NIL,MISC,Q20571,Spoleto,"```json {""wikipedia_page"":""Spoleto"", ""wikidata_id"":""Q20571""} ```",12.767578125
+document_000059.html,228,247,Don Filippo Caetani,NIL,PER,Q55226187,Filippo Caetani,"```json { ""wikipedia_page"": ""Filippo Caetani"", ""wikidata_id"": ""Q55226187"" } ```",18.302059173583984
+document_000059.html,261,266,Peano,Q58905,LOC,NIL,Peano,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000060.html,59,64,Pangi,Q90,LOC,NIL,Pangi,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000060.html,70,77,Francia,Q142,LOC,Q70972,Regno di Francia,"```json {""wikipedia_page"": ""Regno di Francia"", ""wikidata_id"": ""Q70972""} ```",14.807313919067383
+document_000060.html,202,211,Luigi XVI,Q7732,PER,Q49765,Luigi XVII di Francia,"```json {""wikipedia_page"":""Luigi XVII di Francia"", ""wikidata_id"":""Q49765""} ```",22.990314483642578
+document_000062.html,54,63,Laroberti,NIL,PER,Q3768006,Giovanni Rajberti,"```json {""wikipedia_page"":""Giovanni Rajberti"", ""wikidata_id"":""Q3768006""} ```",20.516616821289062
+document_000062.html,381,415,supplemento ai vocabolari italiani,NIL,MISC,Q3712211,dizionari della lingua italiana,"```json {""wikipedia_page"":""dizionari della lingua italiana"", ""wikidata_id"":""Q3712211""} ```",19.370969772338867
+document_000063.html,2,12,Pitagorici,NIL,MISC,Q191359,scuola pitagorica,"```json { ""wikipedia_page"": ""scuola pitagorica"", ""wikidata_id"": ""Q191359"" } ```",20.33421516418457
+document_000063.html,32,43,Pittagorici,NIL,MISC,Q191359,scuola pitagorica,"```json {""wikipedia_page"":""scuola pitagorica"", ""wikidata_id"":""Q191359""} ```",14.738298416137695
+document_000064.html,33,61,La Scuola Musicale ai Napoli,NIL,MISC,Q1756140,Scuola musicale napoletana,"```json {""wikipedia_page"": ""Scuola musicale napoletana"", ""wikidata_id"": ""Q1756140""} ```",21.818553924560547
+document_000064.html,182,192,Pitagorici,NIL,MISC,Q191359,scuola pitagorica,"```json {""wikipedia_page"":""scuola pitagorica"", ""wikidata_id"":""Q191359""} ```",16.29485511779785
+document_000066.html,94,104,Stratonica,NIL,MISC,Q235061,Stratonice di Siria,"```json {""wikipedia_page"":""Stratonice di Siria"", ""wikidata_id"":""Q235061""} ```",17.918052673339844
+document_000066.html,174,182,Lamberti,Q22287284,PER,NIL,Lamberti,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000066.html,467,476,Jannicolo,NIL,PER,Q303001,Gianicolo,"```json {""wikipedia_page"":""Gianicolo"", ""wikidata_id"":""Q303001""} ```",9.768198013305664
+document_000066.html,503,509,Gianni,Q1441051,PER,NIL,Gianni,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000067.html,72,77,Rocca,Q3817438,PER,NIL,Rocca,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000067.html,252,260,Augusteo,Q3616668,LOC,Q2871500,Augusteum,"```json {""wikipedia_page"":""Augusteum"", ""wikidata_id"":""Q2871500""} ```",15.847804069519043
+document_000067.html,285,323,Mostra italiana del novecento musicale,NIL,MISC,Q30879957,Mostra nazionale di belle arti,"```json {""wikipedia_page"":""Mostra nazionale di belle arti"", ""wikidata_id"":""Q30879957""} ```",21.82944107055664
+document_000068.html,176,197,R. Conserv.di Palermo,Q3687235,ORG,Q27961108,Seminario arcivescovile di Palermo,"```json { ""wikipedia_page"": ""Seminario arcivescovile di Palermo"", ""wikidata_id"": ""Q27961108"" } ```",19.240516662597656
+document_000069.html,76,83,Firenze,Q2044,LOC,Q1158780,ferrovia Firenze-Roma (linea lenta),"```json {""wikipedia_page"":""ferrovia Firenze-Roma (linea lenta)"", ""wikidata_id"":""Q1158780""} ```",14.353883743286133
+document_000069.html,233,251,Teatro di Altamutr,Q46498333,LOC,Q3982061,Teatro Mercadante,"```json {""wikipedia_page"":""Teatro Mercadante"", ""wikidata_id"":""Q3982061""} ```",18.39076042175293
+document_000070.html,70,77,Carelli,Q5372752,PER,NIL,Carelli,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000070.html,206,213,Lorenza,NIL,MISC,Q3836853,Lorenza Visconti,"```json {""wikipedia_page"":""Lorenza Visconti"", ""wikidata_id"":""Q3836853""} ```",20.510000228881836
+document_000070.html,217,227,Mascheroni,Q3719624,PER,Q3617086,Angelo Mascheroni,"```json {""wikipedia_page"":""Angelo Mascheroni"", ""wikidata_id"":""Q3617086""} ```",23.713634490966797
+document_000071.html,46,56,Margherita,NIL,PER,Q27835155,Margherita Sestito,"```json {""wikipedia_page"":""Margherita Sestito"", ""wikidata_id"":""Q27835155""} ```",13.802091598510742
+document_000071.html,76,85,Desdemona,NIL,PER,Q3272719,Desdemona,"```json {""wikipedia_page"":""Desdemona"", ""wikidata_id"":""Q3272719""} ```",27.328922271728516
+document_000071.html,168,174,Fedora,Q1400824,MISC,Q266097,Fedora Barbieri,"```json {""wikipedia_page"":""Fedora Barbieri"", ""wikidata_id"":""Q266097""} ```",9.165672302246094
+document_000072.html,4,27,Giovane Lirica Italiana,NIL,ORG,Q1525676,Giovane Scuola,"```json {""wikipedia_page"":""Giovane Scuola"", ""wikidata_id"":""Q1525676""} ```",21.41927719116211
+document_000073.html,144,155,Guglielmina,NIL,PER,Q572198,Guglielma di Milano,"```json {""wikipedia_page"":""Guglielma di Milano"", ""wikidata_id"":""Q572198""} ```",13.09601879119873
+document_000073.html,162,173,Swor Teresa,NIL,MISC,Q377685,Maria Stuarda,"```json {""wikipedia_page"":""Maria Stuarda"", ""wikidata_id"":""Q377685""} ```",16.04867172241211
+document_000073.html,177,199,Teatro Santa Radegonda,NIL,LOC,Q3860563,monastero di Santa Radegonda,"```json {""wikipedia_page"":""monastero di Santa Radegonda"", ""wikidata_id"":""Q3860563""} ```",25.1872615814209
+document_000073.html,216,235,Compagnia Barracani,NIL,ORG,Q85859705,Baraccano,"```json {""wikipedia_page"":""Baraccano"", ""wikidata_id"":""Q85859705""} ```",20.765995025634766
+document_000074.html,74,91,Ingenua di Parigi,NIL,MISC,Q117482,Ingenua,"```json {""wikipedia_page"":""Ingenua"", ""wikidata_id"":""Q117482""} ```",19.77163314819336
+document_000074.html,98,115,Fuoco al Convento,NIL,MISC,Q1167837,Il fuoco,"```json {""wikipedia_page"":""Il fuoco"", ""wikidata_id"":""Q1167837""} ```",18.418174743652344
+document_000074.html,154,160,Teresa,NIL,MISC,Q55914874,Marie-Thérèse-Amélie Caron de Beaumarchais,"```json {""wikipedia_page"": ""Marie-Thérèse-Amélie Caron de Beaumarchais"", ""wikidata_id"": ""Q55914874""} ```",17.434240341186523
+document_000074.html,186,206,Biricchino di Parigi,NIL,MISC,Q3794244,Il giro del mondo di un birichino di Parigi,"```json {""wikipedia_page"":""Il giro del mondo di un birichino di Parigi"", ""wikidata_id"":""Q3794244""} ```",16.570598602294922
+document_000075.html,179,204,Compaonia dello Stacchini,Q3620241,ORG,Q3685008,Compagnia della Rancia,"```json { ""wikipedia_page"": ""Compagnia della Rancia"", ""wikidata_id"": ""Q3685008"" } ```",21.1216983795166
+document_000076.html,90,97,Cazzola,Q3680481,PER,NIL,Cazzola,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000076.html,222,229,Firenze,Q2044,LOC,Q3982074,Teatro Niccolini,"```json { ""wikipedia_page"": ""Teatro Niccolini"", ""wikidata_id"": ""Q3982074"" } ```",18.0172061920166
+document_000077.html,13,38,Compagnia dello Stacchini,Q3620241,ORG,Q3685008,Compagnia della Rancia,"```json {""wikipedia_page"": ""Compagnia della Rancia"", ""wikidata_id"": ""Q3685008""} ```",24.624704360961914
+document_000077.html,167,174,RizZoli,NIL,PER,Q56777493,Rizzoli Libri,"```json {""wikipedia_page"":""Rizzoli Libri"", ""wikidata_id"":""Q56777493""} ```",19.96531105041504
+document_000078.html,8,25,Angelo Bartelloni,Q102284384,PER,NIL,Angelo Bartelloni,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+document_000081.html,123,130,Bellini,NIL,PER,Q3802193,Isa Bellini,"```json { ""wikipedia_page"": ""Isa Bellini"", ""wikidata_id"": ""Q3802193"" } ```",23.280067443847656
+document_000081.html,166,175,Gaggiotti,NIL,PER,Q2461459,Luigina Giavotti,"```json { ""wikipedia_page"": ""Luigina Giavotti"", ""wikidata_id"": ""Q2461459"" } ```",25.55398178100586
+document_000081.html,221,225,Buti,Q962487,PER,NIL,Buti,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000083.html,61,72,Don Bartolo,NIL,PER,Q179110,Don Carlos,"```json {""wikipedia_page"":""Don Carlos"", ""wikidata_id"":""Q179110""} ```",10.278718948364258
+document_000083.html,260,266,Fagott,NIL,PER,Q3751126,Franco Bagutti,"```json { ""wikipedia_page"": ""Franco Bagutti"", ""wikidata_id"": ""Q3751126"" } ```",19.30731201171875
+document_000083.html,287,294,Favoria,Q467394,MISC,NIL,Favoria,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000084.html,59,76,Tutti in Maschera,Q7857015,MISC,Q221757,Un ballo in maschera,"```json {""wikipedia_page"":""Un ballo in maschera"", ""wikidata_id"":""Q221757""} ```",21.409473419189453
+document_000084.html,211,225,PozziBranzanti,Q26196588,PER,NIL,PozziBranzanti,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000085.html,3,8,Pozzi,Q26196588,PER,Q272797,Antonia Pozzi,"```json {""wikipedia_page"":""Antonia Pozzi"", ""wikidata_id"":""Q272797""} ```",19.194536209106445
+document_000085.html,136,141,Pozzi,Q26196588,PER,Q14507260,Antonietta Pozzoni,"```json {""wikipedia_page"":""Antonietta Pozzoni"", ""wikidata_id"":""Q14507260""} ```",18.864017486572266
+document_000085.html,223,230,Steller,Q102288831,PER,NIL,Steller,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+document_000085.html,232,238,Figaro,NIL,PER,Q2368973,Figaro,"```json { ""wikipedia_page"": ""Figaro"", ""wikidata_id"": ""Q2368973"" } ```",18.379648208618164
+document_000086.html,22,30,Squarcia,Q102279050,PER,NIL,Squarcia,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000086.html,177,185,Squarcia,Q102279050,PER,Q18923595,Ferruccio Corradino Squarcia,"```json {""wikipedia_page"":""Ferruccio Corradino Squarcia"", ""wikidata_id"":""Q18923595""} ```",14.849082946777344
+document_000087.html,61,72,Don Bartolo,NIL,PER,Q179110,Don Carlos,"```json {""wikipedia_page"":""Don Carlos"", ""wikidata_id"":""Q179110""} ```",10.322004318237305
+document_000087.html,260,266,Fagott,NIL,PER,Q3751126,Franco Bagutti,"```json {""wikipedia_page"":""Franco Bagutti"", ""wikidata_id"":""Q3751126""} ```",19.167774200439453
+document_000087.html,287,294,Favoria,Q467394,MISC,Q186162,La traviata,"```json {""wikipedia_page"":""La traviata"", ""wikidata_id"":""Q186162""} ```",13.05303955078125
+document_000087.html,379,387,Fioretti,Q22964559,PER,NIL,Fioretti,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000088.html,213,227,PozziBranzanti,Q26196588,PER,NIL,PozziBranzanti,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+document_000089.html,394,399,Guidi,NIL,PER,Q11931365,Leonilde Gabbi,"```json {""wikipedia_page"": ""Leonilde Gabbi"", ""wikidata_id"": ""Q11931365""} ```",14.348851203918457
+document_000090.html,0,4,Grau,Q55720644,PER,NIL,Grau,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000090.html,132,137,Guidi,NIL,PER,Q920500,Vittorio Gui,"```json {""wikipedia_page"":""Vittorio Gui"", ""wikidata_id"":""Q920500""} ```",6.927056312561035
+document_000091.html,70,86,Aristide Gandrey,Q108614921,PER,NIL,Aristide Gandrey,"```json {""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL""} ```",0
+document_000093.html,3,18,teatro Brunetti,Q3516753,LOC,NIL,teatro Brunetti,"```json {""wikipedia_page"":"""",""wikidata_id"":""NIL""} ```",0
+document_000093.html,335,349,Stella Bonheur,Q102075957,PER,Q7607041,Stella Bonheur,"```json {""wikipedia_page"":""Stella Bonheur"", ""wikidata_id"":""Q7607041""} ```",36.424415588378906
+document_000094.html,65,80,teatro Cemunale,NIL,LOC,Q924544,Teatro Ponchielli,"```json { ""wikipedia_page"":""Teatro Ponchielli"", ""wikidata_id"":""Q924544"" } ```",10.156115531921387
+document_000096.html,360,370,Telramondo,Q55011259,PER,Q1419468,Tolomeo,"```json {""wikipedia_page"":""Tolomeo"", ""wikidata_id"":""Q1419468""} ```",8.86948299407959
+document_000097.html,300,310,John Urich,NIL,PER,Q3193048,John Ulrich,"```json { ""wikipedia_page"": ""John Ulrich"", ""wikidata_id"": ""Q3193048"" } ```",15.468076705932617
+document_000099.html,276,281,Dotti,Q101499677,PER,Q3707908,Dino Dondi,"```json {""wikipedia_page"":""Dino Dondi"", ""wikidata_id"":""Q3707908""} ```",13.701126098632812
+document_000100.html,10,20,Balzofiore,NIL,PER,Q3704848,Casato del Balzo,"```json {""wikipedia_page"":""Casato del Balzo"", ""wikidata_id"":""Q3704848""} ```",21.4013729095459
+document_000100.html,86,111,Nuova Provincia di Molise,NIL,ORG,Q21190357,La Provincia di Varese,"```json {""wikipedia_page"":""La Provincia di Varese"", ""wikidata_id"":""Q21190357""} ```",18.10175895690918
+document_000101.html,58,76,Clementina De Vere,Q19998212,PER,Q29017052,Clementina Carrelli,"```json {""wikipedia_page"": ""Clementina Carrelli"", ""wikidata_id"": ""Q29017052""} ```",23.242263793945312
+document_000101.html,185,192,De Vere,Q19998212,PER,Q15432761,Clémentine de Vère,"```json {""wikipedia_page"":""Clémentine de Vère"", ""wikidata_id"":""Q15432761""} ```",19.83037567138672
+document_000102.html,3,17,teatro Rossini,NIL,LOC,Q3516769,teatro Rossini,"```json {""wikipedia_page"":""Teatro Rossini"", ""wikidata_id"":""Q3516769""} ```",23.789146423339844
+document_000102.html,331,341,Ponciielli,Q207390,PER,NIL,Ponciielli,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+document_000104.html,157,162,Ebrea,Q339043,MISC,NIL,Ebrea,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000105.html,11,36,Giuseppina Borsi De Giuli,Q16179774,PER,Q429400,Giuseppina Cobelli,"```json { ""wikipedia_page"": ""Giuseppina Cobelli"", ""wikidata_id"": ""Q429400"" } ```",29.140995025634766
+document_000105.html,61,65,casa,Q102286821,MISC,Q1917775,casa editrice musicale,"```json {""wikipedia_page"":""casa editrice musicale"", ""wikidata_id"":""Q1917775""} ```",15.663233757019043
+document_000105.html,188,203,teatro Brunetti,Q3516753,LOC,NIL,teatro Brunetti,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000105.html,364,370,Odette,NIL,MISC,Q3880852,Odette,"```json {""wikipedia_page"":""Odette"", ""wikidata_id"":""Q3880852""} ```",17.43263053894043
+document_000106.html,161,167,Borghi,Q3732024,PER,Q3291053,Maria Selvaggia Borghini,"```json {""wikipedia_page"":""Maria Selvaggia Borghini"", ""wikidata_id"":""Q3291053""} ```",18.515655517578125
+document_000106.html,269,275,Italia,Q38,LOC,Q172579,Regno d'Italia,"```json {""wikipedia_page"":""Regno d'Italia"", ""wikidata_id"":""Q172579""} ```",16.069454193115234
+document_000107.html,181,188,G funou,NIL,PER,Q1351718,Gino Funaioli,"```json {""wikipedia_page"":""Gino Funaioli"", ""wikidata_id"":""Q1351718""} ```",13.375885009765625
+document_000107.html,210,215,Muzio,Q2061224,PER,Q271405,Claudia Muzio,"```json {""wikipedia_page"":""Claudia Muzio"", ""wikidata_id"":""Q271405""} ```",16.08761215209961
+document_000108.html,66,75,Politeama,Q3907408,LOC,Q1478356,teatro Politeama Garibaldi,"```json {""wikipedia_page"":""teatro Politeama Garibaldi"", ""wikidata_id"":""Q1478356""} ```",16.99359703063965
+document_000108.html,126,134,Delibers,Q98716472,PER,Q207951,Léo Delibes,"```json { ""wikipedia_page"": ""Léo Delibes"", ""wikidata_id"": ""Q207951"" } ```",14.764601707458496
+document_000108.html,137,147,Vaniaiecni,NIL,PER,Q21849684,Augusto Vianesi,"```json {""wikipedia_page"":""Augusto Vianesi"", ""wikidata_id"":""Q21849684""} ```",14.42644214630127
+document_000108.html,232,240,Germania,Q183,LOC,Q7318,Germania nazista,"```json {""wikipedia_page"":""Germania nazista"", ""wikidata_id"":""Q7318""} ```",15.265666007995605
+document_000109.html,2,16,teatro Rossini,Q523565,LOC,Q61744358,teatri di Venezia,"```json {""wikipedia_page"": ""teatri di Venezia"", ""wikidata_id"": ""Q61744358""} ```",23.047359466552734
+document_000109.html,118,129,Marescalchi,Q30416690,PER,NIL,Marescalchi,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+document_000109.html,177,188,Marescalchi,Q30416690,PER,Q96937479,Enrico Marescalchi,"```json {""wikipedia_page"":""Enrico Marescalchi"", ""wikidata_id"":""Q96937479""} ```",23.82964515686035
+document_000109.html,236,241,Gilda,NIL,PER,Q447621,Gilda,"```json {""wikipedia_page"":""Gilda"", ""wikidata_id"":""Q447621""} ```",16.847015380859375
+document_000110.html,2,18,teatro Bellecour,Q4221,LOC,Q9496,Opéra de Lyon,"```json { ""wikipedia_page"": ""Opéra de Lyon"", ""wikidata_id"": ""Q9496"" } ```",18.042882919311523
+document_000110.html,158,167,Giraldoni,Q716592,PER,Q15453257,Eugenio Giraldoni,"```json {""wikipedia_page"":""Eugenio Giraldoni"", ""wikidata_id"":""Q15453257""} ```",21.433303833007812
+document_000110.html,170,175,Blasi,Q112161628,PER,NIL,Blasi,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000110.html,181,191,San Pietro,Q18505526,LOC,Q104835776,chiesa di San Pietro Apostolo,"```json { ""wikipedia_page"": ""chiesa di San Pietro Apostolo"", ""wikidata_id"": ""Q104835776"" } ```",20.410865783691406
+document_000110.html,195,202,Lavagna,Q48111,LOC,Q266794,Lavagna,"```json {""wikipedia_page"":""Lavagna"", ""wikidata_id"":""Q266794""} ```",27.037704467773438
+document_000111.html,212,228,Carolina Caselli,NIL,PER,Q3658837,Carla Castellani,"```json {""wikipedia_page"":""Carla Castellani"", ""wikidata_id"":""Q3658837""} ```",26.561370849609375
+document_000111.html,305,318,Ettore Marchi,NIL,PER,Q3733963,Ettore Marchi,"```json {""wikipedia_page"":""Ettore Marchi"", ""wikidata_id"":""Q3733963""} ```",40.61361312866211
+document_000111.html,329,343,Enrico Massini,NIL,PER,Q3725936,Enrico Musiani,"```json { ""wikipedia_page"": ""Enrico Musiani"", ""wikidata_id"": ""Q3725936"" } ```",29.885847091674805
+document_000112.html,147,164,Enrico Battistini,NIL,PER,Q1368394,Ettore Bastianini,"```json {""wikipedia_page"":""Ettore Bastianini"", ""wikidata_id"":""Q1368394""} ```",31.42624282836914
+document_000112.html,180,190,Gnaccarini,NIL,PER,Q3762819,Giancarlo Ceccarini,"```json {""wikipedia_page"":""Giancarlo Ceccarini"", ""wikidata_id"":""Q3762819""} ```",25.88655662536621
+document_000113.html,19,36,Musique Populaire,NIL,ORG,Q6464063,La Musique Populaire,"```json {""wikipedia_page"":""La Musique Populaire"", ""wikidata_id"":""Q6464063""} ``` The text mentions ""Musique Populaire"", which is the French term for ""pop music"". The only candidate with a similar name is ""La Musique Populaire"", which is described as a ""gruppo musicale statunitense"" (American musical group). Although the description does not perfectly match the context of the text, it is the closest match among the provided candidates.",20.2243709564209
+document_000113.html,190,195,Iacob,NIL,PER,Q25929560,Iacobus,"```json {""wikipedia_page"":""Iacobus"", ""wikidata_id"":""Q25929560""} ```",15.412154197692871
+document_000113.html,317,327,La Mitidja,NIL,MISC,Q2215728,Meridja,"```json {""wikipedia_page"": ""Meridja"", ""wikidata_id"": ""Q2215728""} ```",15.036224365234375
+document_000115.html,158,168,Via Durini,NIL,LOC,Q25841630,Palazzo Durini,"```json { ""wikipedia_page"": ""Palazzo Durini"", ""wikidata_id"": ""Q25841630"" } ```",23.43606185913086
+document_000115.html,187,224,Calendario Universale per le famiglie,NIL,MISC,Q3612727,Almanacco universale del Gran Pescatore di Chiaravalle,"```json {""wikipedia_page"":""Almanacco universale del Gran Pescatore di Chiaravalle"", ""wikidata_id"":""Q3612727""} ```",16.341873168945312
+document_000116.html,65,76,Cappelletti,NIL,PER,Q16576941,Massimo Cavalletti,"```json {""wikipedia_page"":""Massimo Cavalletti"", ""wikidata_id"":""Q16576941""} ```",24.801361083984375
+document_000116.html,135,140,Lucia,Q244209,MISC,Q105945274,Luisa Valieri,"```json {""wikipedia_page"":""Lucia Valieri"", ""wikidata_id"":""Q105945274""} ```",10.548380851745605
+document_000117.html,3,18,Musica Popolare,NIL,ORG,Q373342,musica popolare,"```json {""wikipedia_page"": ""musica popolare"", ""wikidata_id"": ""Q373342""} ```",22.074764251708984
+document_000117.html,58,66,Sonzogno,Q534354,PER,Q3964929,Sonzogno,"```json {""wikipedia_page"":""Sonzogno"", ""wikidata_id"":""Q3964929""} ```",25.238630294799805
+document_000117.html,140,154,Cecilia Ritter,Q104517733,PER,NIL,Cecilia Ritter,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000118.html,63,74,Mefistofele,Q272805,PER,Q935669,Mefistofele,"```json {""wikipedia_page"":""Mefistofele"", ""wikidata_id"":""Q935669""} ```",16.630043029785156
+document_000118.html,196,202,Torino,Q495,LOC,Q183202,Teatro Regio,"```json {""wikipedia_page"": ""Teatro Regio"", ""wikidata_id"": ""Q183202""} ```",19.699115753173828
+document_000119.html,23,34,Benfratelli,NIL,PER,Q5563773,Giovanni Benfratello,"```json { ""wikipedia_page"": ""Giovanni Benfratello"", ""wikidata_id"": ""Q5563773"" } ```",19.37209129333496
+document_000119.html,233,241,Barbieri,Q3724335,PER,Q1236051,Francisco Asenjo Barbieri,"```json {""wikipedia_page"":""Francisco Asenjo Barbieri"", ""wikidata_id"":""Q1236051""} ```",17.90367889404297
+document_000120.html,209,217,Costanzi,Q1050350,LOC,Q40786116,Costantini,"```json {""wikipedia_page"":""Costantini"", ""wikidata_id"":""Q40786116""} ```",9.734086990356445
+document_000121.html,291,298,Cuttica,NIL,PER,Q3839543,Luigi Cuttica di Cassine,"```json {""wikipedia_page"": ""Luigi Cuttica di Cassine"", ""wikidata_id"": ""Q3839543""} ```",16.51394271850586
+document_000121.html,112,131,Rivista Settimanale,NIL,ORG,Q18288953,Rassegna settimanale,"```json {""wikipedia_page"":""Rassegna settimanale"", ""wikidata_id"":""Q18288953""} ```",22.300676345825195
+document_000122.html,27,32,Urban,NIL,PER,Q20010155,Urbani,"```json {""wikipedia_page"":""Urbani"", ""wikidata_id"":""Q20010155""} ```",12.641654968261719
+document_000122.html,187,194,Terrigi,Q102281798,PER,Q7329515,Richard Torigi,"```json {""wikipedia_page"":""Richard Torigi"", ""wikidata_id"":""Q7329515""} ```",18.06907844543457
+document_000123.html,44,50,Stella,NIL,MISC,Q2342072,Stella,"```json {""wikipedia_page"": ""Stella"", ""wikidata_id"": ""Q2342072""} ```",16.71358299255371
+document_000123.html,51,59,d’Auteri,Q3945947,PER,Q36065,Baudouin des Auteus,"```json { ""wikipedia_page"": ""Baudouin des Auteus"", ""wikidata_id"": ""Q36065"" } ```",13.908731460571289
+document_000123.html,81,87,Halery,Q313917,PER,Q65648,Charles Hallé,"```json {""wikipedia_page"":""Charles Hallé"", ""wikidata_id"":""Q65648""} ```",16.967185974121094
+document_000123.html,190,211,Enrichetta Leawington,NIL,PER,Q201862,Elizabeth Linington,"```json { ""wikipedia_page"": ""Elizabeth Linington"", ""wikidata_id"": ""Q201862"" } ```",20.71739387512207
+document_000123.html,271,279,Barbieri,Q3724335,PER,NIL,Barbieri,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000124.html,106,110,Arpa,NIL,ORG,Q100997629,Aula Scarpa (Università di Pavia),"```json {""wikipedia_page"":""Aula Scarpa (Università di Pavia)"", ""wikidata_id"":""Q100997629""} ```",14.187779426574707
+document_000124.html,207,214,Amneris,Q50732179,PER,NIL,Amneris,"```json {""wikipedia_page"":""Amneris"", ""wikidata_id"":""NIL""} ```",0
+document_000125.html,19,26,Bonheur,Q102075957,PER,NIL,Bonheur,"```json {""wikipedia_page"":"""",""wikidata_id"":""NIL""} ```",0
+document_000125.html,238,245,Bonheur,Q102075957,PER,Q2871069,Auguste Bonheur,"```json {""wikipedia_page"":""Auguste Bonheur"", ""wikidata_id"":""Q2871069""} ```",12.503679275512695
+document_000126.html,14,19,Gabbi,Q15057396,PER,Q11931365,Leonilde Gabbi,"```json { ""wikipedia_page"": ""Leonilde Gabbi"", ""wikidata_id"": ""Q11931365"" } ```",25.799177169799805
+document_000126.html,34,43,Petrovich,Q4229603,PER,NIL,Petrovich,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+document_000126.html,46,54,Pogliani,NIL,PER,Q3713190,Domenico Pogliani,"```json { ""wikipedia_page"": ""Domenico Pogliani"", ""wikidata_id"": ""Q3713190"" } ```",22.39630699157715
+document_000126.html,176,181,Engel,Q7192034,PER,Q1334639,Emanuel Engel,"```json { ""wikipedia_page"": ""Emanuel Engel"", ""wikidata_id"": ""Q1334639"" } ```",18.756671905517578
+document_000127.html,73,86,Elena Boronat,NIL,PER,Q7086879,Olimpia Boronat,"```json {""wikipedia_page"":""Olimpia Boronat"", ""wikidata_id"":""Q7086879""} ```",20.627214431762695
+document_000127.html,131,146,Pietro Lombardi,NIL,PER,Q16590265,Piero Lombardi,"```json { ""wikipedia_page"": ""Pietro Lombardi"", ""wikidata_id"": ""Q16590265"" } ```",35.02632141113281
+document_000128.html,111,116,Ebreo,Q3202810,MISC,NIL,Ebreo,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+document_000128.html,181,192,Mefistofele,Q272805,PER,Q935669,Mefistofele,"```json {""wikipedia_page"":""Mefistofele"", ""wikidata_id"":""Q935669""} ```",19.9466609954834
+document_000129.html,1,18,Valenza di Spagna,Q8818,LOC,Q17689,Valenza,"```json {""wikipedia_page"":""Valenza"", ""wikidata_id"":""Q17689""} ```",16.805206298828125
+document_000129.html,34,40,Russel,Q435415,PER,NIL,Russel,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000129.html,74,79,Lucic,Q244209,MISC,NIL,Lucic,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000129.html,122,128,Amleto,Q631016,MISC,Q1113779,Amleto,"```json {""wikipedia_page"":""Amleto"", ""wikidata_id"":""Q1113779""} ```",13.867048263549805
+document_000129.html,149,155,Roveri,NIL,PER,Q3731939,Ermanno Roveri,"```json { ""wikipedia_page"": ""Ermanno Roveri"", ""wikidata_id"": ""Q3731939"" } ```",16.035905838012695
+document_000129.html,158,165,Carrion,NIL,PER,Q11905288,Ambrosi Carrion i Juan,"```json {""wikipedia_page"": ""Ambrosi Carrion i Juan"", ""wikidata_id"": ""Q11905288""} ```",20.140827178955078
+document_000130.html,24,37,Medea Borelli,Q30077493,PER,NIL,Medea Borelli,"```json {""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL""} ```",0
+document_000130.html,52,58,Torino,Q495,LOC,Q183202,Teatro Regio,"```json {""wikipedia_page"":""Teatro Regio"", ""wikidata_id"":""Q183202""} ```",20.769779205322266
+document_000132.html,109,123,Irene Morpurgo,NIL,PER,Q3801909,Irene Minghini Cattaneo,"```json {""wikipedia_page"":""Irene Minghini Cattaneo"", ""wikidata_id"":""Q3801909""} ```",22.03932762145996
+document_000133.html,4,23,Gazzetta di Messina,NIL,ORG,Q598457,Gazzetta del Sud,"```json { ""wikipedia_page"": ""Gazzetta del Sud"", ""wikidata_id"": ""Q598457"" } ```",28.43662452697754
+document_000134.html,25,31,Natale,Q19809,MISC,Q47128,albero di Natale,"```json {""wikipedia_page"": ""albero di Natale"", ""wikidata_id"": ""Q47128""} ```",20.262821197509766
+document_000134.html,57,73,Alsazia e Lorena,Q155144,LOC,NIL,Alsazia e Lorena,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000134.html,142,157,Musica Militare,NIL,MISC,Q1078286,Corpi bandistici militari,"```json { ""wikipedia_page"": ""Corpi bandistici militari"", ""wikidata_id"": ""Q1078286"" } ```",15.15629768371582
+document_000134.html,174,185,Gran Teatro,Q223942,LOC,NIL,Gran Teatro,"```json {""wikipedia_page"":"""",""wikidata_id"":""NIL""} ```",0
+document_000134.html,193,200,De Vere,Q19998212,PER,NIL,De Vere,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+document_000134.html,226,235,Forestier,Q98647240,PER,NIL,Forestier,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000135.html,6,13,De Vere,Q19998212,PER,NIL,De Vere,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000135.html,34,52,Pardon de Ploermel,Q470739,MISC,NIL,Pardon de Ploermel,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000135.html,66,75,Hyacinthe,NIL,PER,Q50822509,Hyacinthe-Gabrielle Roland,"```json { ""wikipedia_page"": ""Hyacinthe-Gabrielle Roland"", ""wikidata_id"": ""Q50822509"" } ```",9.690373420715332
+document_000136.html,25,31,Natale,Q19809,MISC,Q47128,albero di Natale,"```json {""wikipedia_page"":""albero di Natale"", ""wikidata_id"":""Q47128""} ```",20.279813766479492
+document_000136.html,122,137,armomia Gallica,NIL,MISC,Q2716959,rito gallicano,"```json {""wikipedia_page"":""rito gallicano"", ""wikidata_id"":""Q2716959""} ```",10.894659042358398
+document_000136.html,142,157,Musica Militare,NIL,MISC,Q1078286,Corpi bandistici militari,"```json {""wikipedia_page"":""Corpi bandistici militari"", ""wikidata_id"":""Q1078286""} ```",15.236164093017578
+document_000136.html,174,185,Gran Teatro,Q223942,LOC,NIL,Gran Teatro,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000136.html,193,200,De Vere,Q19998212,PER,Q15432876,Élise de Vère,"```json { ""wikipedia_page"": ""Élise de Vère"", ""wikidata_id"": ""Q15432876"" } ```",14.03183364868164
+document_000136.html,226,235,Forestier,Q98647240,PER,NIL,Forestier,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000137.html,70,77,De Vere,Q19998212,PER,Q258379,Des'ree,"```json { ""wikipedia_page"": ""Des'ree"", ""wikidata_id"": ""Q258379"" } ```",14.245577812194824
+document_000138.html,95,102,Valenti,NIL,PER,Q4007723,Valentina Valente,"```json {""wikipedia_page"":""Valentina Valente"", ""wikidata_id"":""Q4007723""} ```",22.889617919921875
+document_000138.html,144,156,Duca Alfonso,Q188346,PER,NIL,Duca Alfonso,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000139.html,160,167,Fontana,NIL,PER,Q3738032,Fabrizio Fontana,"```json { ""wikipedia_page"": ""Fabrizio Fontana"", ""wikidata_id"": ""Q3738032"" } ```",19.41423988342285
+document_000139.html,205,211,Buireo,NIL,PER,Q3734262,Eugenia Burzio,"```json {""wikipedia_page"": ""Eugenia Burzio"", ""wikidata_id"": ""Q3734262""} ```",12.365278244018555
+document_000140.html,233,240,Zerlina,NIL,PER,Q55759215,Zerlina,"```json {""wikipedia_page"": ""Zerlina"", ""wikidata_id"": ""Q55759215""} ```",10.909530639648438
+document_000141.html,119,147,teatro Principale di Valenza,Q3329707,LOC,NIL,teatro Principale di Valenza,"```json {""wikipedia_page"":""Teatro Principale di Valenza"", ""wikidata_id"":""NIL""} ```",0
+document_000141.html,169,177,Ugonotti,Q466848,MISC,NIL,Ugonotti,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+document_000143.html,178,184,Canier,NIL,PER,Q2600983,Josep Carner,"```json {""wikipedia_page"":""Josep Carner"", ""wikidata_id"":""Q2600983""} ```",16.926286697387695
+document_000143.html,204,228,La madre di lord Parnell,Q75616553,PER,NIL,La madre di lord Parnell,"```json {""wikipedia_page"":""del"", ""wikidata_id"":""NIL""} ```",0
+document_000144.html,223,228,Rouia,Q220,LOC,NIL,Rouia,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000145.html,24,30,Apollo,Q3516772,LOC,Q3981909,Teatro Apollo,"```json {""wikipedia_page"":""Teatro Apollo"", ""wikidata_id"":""Q3981909""} ```",14.57556438446045
+document_000145.html,174,179,Mirza,NIL,PER,Q12352726,Mirza Marchesi,"```json {""wikipedia_page"":""Mirza Marchesi"", ""wikidata_id"":""Q12352726""} ```",8.433185577392578
+document_000145.html,192,198,Creola,Q109242578,MISC,Q1214025,La Créole,"```json {""wikipedia_page"":""La Créole"", ""wikidata_id"":""Q1214025""} ```",14.01236629486084
+document_000147.html,65,71,Creola,Q109242578,MISC,Q3696986,Creola,"```json {""wikipedia_page"":""Creola"", ""wikidata_id"":""Q3696986""} ```",15.592415809631348
+document_000147.html,95,100,Cerne,NIL,PER,Q109627730,Argentina Cerne,"```json { ""wikipedia_page"": ""Argentina Cerne"", ""wikidata_id"": ""Q109627730"" } ```",17.710927963256836
+document_000148.html,3,9,Branca,Q3778880,PER,NIL,Branca,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000148.html,65,82,teatro di Catania,NIL,LOC,Q1429352,Teatro Massimo Vincenzo Bellini,"```json {""wikipedia_page"":""Teatro Massimo Vincenzo Bellini"", ""wikidata_id"":""Q1429352""} ```",23.192319869995117
+document_000150.html,4,19,Musica Popolare,NIL,ORG,Q373342,musica popolare,"```json {""wikipedia_page"":""musica popolare"", ""wikidata_id"":""Q373342""} ```",19.97764778137207
+document_000150.html,58,66,Sonzogno,Q528397,MISC,Q3964929,Sonzogno,"```json {""wikipedia_page"":""Sonzogno"", ""wikidata_id"":""Q3964929""} ```",22.544635772705078
+document_000151.html,77,83,Borghi,Q3732024,PER,Q664913,Giovanni Battista Borghi,"```json { ""wikipedia_page"": ""Giovanni Battista Borghi"", ""wikidata_id"": ""Q664913"" } ```",19.160480499267578
+document_000151.html,294,301,Vergnet,Q5338932,PER,NIL,Vergnet,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+document_000152.html,10,31,Societa del Quartetto,NIL,ORG,Q3963794,Società del quartetto di Milano,"```json { ""wikipedia_page"": ""Società del quartetto di Milano"", ""wikidata_id"": ""Q3963794"" } ```",24.624988555908203
+document_000152.html,190,201,Crescentini,Q21548176,PER,Q552124,Girolamo Crescentini,"```json { ""wikipedia_page"": ""Girolamo Crescentini"", ""wikidata_id"": ""Q552124"" } ```",17.685672760009766
+document_000153.html,113,120,Paolina,NIL,PER,Q435962,Paola Borboni,"```json {""wikipedia_page"":""Paola Borboni"", ""wikidata_id"":""Q435962""} ```",21.610307693481445
+document_000153.html,125,131,Borghi,Q3732024,PER,NIL,Borghi,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000154.html,60,66,Avoldo,NIL,ORG,Q56433838,Ambrogio Uboldo,"```json {""wikipedia_page"":""Ambrogio Uboldo"", ""wikidata_id"":""Q56433838""} ```",15.69964599609375
+document_000154.html,231,240,Francoxeo,Q503874,PER,Q24703198,Franco Escoffiér,"```json {""wikipedia_page"":""Franco Escoffiér"", ""wikidata_id"":""Q24703198""} ```",14.617693901062012
+document_000155.html,0,8,Martucci,Q769966,PER,Q3665470,Cesare Martuzzi,"```json {""wikipedia_page"":""Cesare Martuzzi"", ""wikidata_id"":""Q3665470""} ```",12.468955039978027
+document_000155.html,50,64,Alfredo Bajesi,NIL,PER,Q28358617,Alfredo Bigeschi,"```json {""wikipedia_page"":""Alfredo Bigeschi"", ""wikidata_id"":""Q28358617""} ```",30.40285301208496
+document_000155.html,226,232,Boghen,Q55225713,PER,Q189766,Luigi Boccherini,"```json {""wikipedia_page"":""Luigi Boccherini"", ""wikidata_id"":""Q189766""} ```",14.250591278076172
+document_000155.html,251,260,Ouverture,NIL,MISC,Q202287,ouverture,"```json {""wikipedia_page"":""ouverture"", ""wikidata_id"":""Q202287""} ```",20.21702766418457
+document_000156.html,47,55,Peritant,Q470886,MISC,Q345579,Pertarito,"```json {""wikipedia_page"":""Pertarito"", ""wikidata_id"":""Q345579""} ```",7.263940811157227
+document_000157.html,60,66,Italia,Q38,LOC,Q172579,Regno d'Italia,"```json {""wikipedia_page"": ""Regno d'Italia"", ""wikidata_id"": ""Q172579""} ```",15.951053619384766
+document_000157.html,195,203,Cattaneo,Q16662306,PER,NIL,Cattaneo,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000158.html,80,98,Giovanni Minuzzi.e,NIL,PER,Q4295291,Giovanni Minuzzo,"```json {""wikipedia_page"":""Giovanni Minuzzo"", ""wikidata_id"":""Q4295291""} ```",28.086181640625
+document_000159.html,137,155,Tristano ed Isotta,Q1324254,MISC,Q335367,Tristano e Isotta,"```json {""wikipedia_page"":""Tristano e Isotta"", ""wikidata_id"":""Q335367""} ```",11.063987731933594
+document_000160.html,23,31,Volfrano,Q18821,PER,Q19970553,Volframo,"```json {""wikipedia_page"":""Volframo"", ""wikidata_id"":""Q19970553""} ```",12.646773338317871
+document_000160.html,151,176,ll mattino della domenica,NIL,MISC,Q132,domenica,"```json { ""wikipedia_page"": ""domenica"", ""wikidata_id"": ""Q132"" } ```",10.436705589294434
+document_000161.html,10,23,Carlo Meluzzi,NIL,PER,Q1989583,Carlo Milanuzzi,"```json {""wikipedia_page"":""Carlo Milanuzzi"", ""wikidata_id"":""Q1989583""} ```",34.309574127197266
+document_000163.html,163,169,Borghi,Q3732024,PER,NIL,Borghi,"To disambiguate the entity mentioned between the [ENT] tags in the provided text, we need to consider the context and the historical period. The text mentions a female singer named [ENT] Borghi [ENT], who is described as ""la celebre"" and noted for her dramatic power. Given the historical context of Italian music periodicals from 1943, we need to identify a female singer with the surname Borghi who fits this description. Examining the list of candidates, we find: [...] {'wikipedia_page': 'Liana Borghi', 'wikidata_id': 'Q109690282', 'type': 'PER', 'descr': 'anglista e femminista italiana (1940-2021)', 'date': '1940-10-09'}, [...] The most appropriate candidate is ""Liana Borghi"", an anglista and feminist, born in 1940. However, given that the text refers to a female singer renowned for her dramatic power, and considering the historical context, there is no candidate that fits the description of a celebrated singer from 1943. Therefore, the entity mentioned",0
+document_000164.html,3,16,Popolo Romano,Q21192546,ORG,NIL,Popolo Romano,"```json {""wikipedia_page"":""NIL"",""wikidata_id"":""NIL""} ```",0
+document_000165.html,87,97,Pandolfini,Q11922930,PER,Q16636976,Franco Pandolfini,"```json {""wikipedia_page"":""Franco Pandolfini"", ""wikidata_id"":""Q16636976""} ```",10.223085403442383
+document_000168.html,291,314,marchesa di Villamarina,Q27177923,PER,NIL,marchesa di Villamarina,"```json {""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL""} ```",0
+document_000169.html,62,67,Carpi,NIL,PER,Q3742889,Fernando Carpi,"```json { ""wikipedia_page"": ""Fernando Carpi"", ""wikidata_id"": ""Q3742889"" } ```",17.396799087524414
+document_000169.html,303,308,Rieva,NIL,PER,Q22296181,Lino Jeva,"```json {""wikipedia_page"":""Lino Jeva"", ""wikidata_id"":""Q22296181""} ```",16.494003295898438
+document_000170.html,124,130,Selika,NIL,PER,Q15304687,Elika,"```json {""wikipedia_page"":""Elika"", ""wikidata_id"":""Q15304687""} ```",8.463740348815918
+document_000171.html,313,322,Steinbach,Q61512819,PER,NIL,Steinbach,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000171.html,424,432,la Cieca,NIL,PER,Q55832190,Cecca,"```json {""wikipedia_page"":""Cecca"", ""wikidata_id"":""Q55832190""} ```",8.606449127197266
+document_000172.html,10,17,Bazzani,NIL,PER,Q4956480,Francesco Maria Bazzani,"```json {""wikipedia_page"":""Francesco Maria Bazzani"", ""wikidata_id"":""Q4956480""} ```",23.513574600219727
+document_000172.html,330,337,Rossato,NIL,PER,Q3941609,Rossano,"```json { ""wikipedia_page"": ""Rossano"", ""wikidata_id"": ""Q3941609"" } ```",16.795578002929688
+document_000175.html,0,17,Odoardo Sottolana,Q102279709,PER,NIL,Odoardo Sottolana,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+document_000175.html,121,138,Odoardo Sottolana,Q102279709,PER,Q3880940,Odoardo Spadaro,"```json {""wikipedia_page"":""Odoardo Spadaro"", ""wikidata_id"":""Q3880940""} ```",29.122329711914062
+document_000176.html,77,82,Ebrea,Q339043,MISC,Q3817985,L'Ebrea,"```json {""wikipedia_page"": ""L'Ebrea"", ""wikidata_id"": ""Q3817985""} ```",11.900120735168457
+document_000178.html,0,18,Arturo Marescaichi,Q30416690,PER,NIL,Arturo Marescaichi,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000178.html,89,109,Arturo . Marescalchi,Q30416690,PER,Q3624562,Arturo Marescalchi,"```json { ""wikipedia_page"": ""Arturo Marescalchi"", ""wikidata_id"": ""Q3624562"" } ```",22.683935165405273
+document_000179.html,142,148,Napoli,Q2634,LOC,Q628491,Teatro di San Carlo,"```json {""wikipedia_page"":""Teatro di San Carlo"", ""wikidata_id"":""Q628491""} ```",15.927788734436035
+document_000180.html,82,90,acEmpyre,Q3724821,LOC,Q3010447,César Empereur,"```json {""wikipedia_page"":""César Empereur"", ""wikidata_id"":""Q3010447""} ```",8.907442092895508
+document_000180.html,144,151,Bologna,Q1891,LOC,Q2306368,teatro comunale di Bologna,"```json {""wikipedia_page"":""teatro comunale di Bologna"", ""wikidata_id"":""Q2306368""} ```",18.460655212402344
+document_000183.html,7,15,De Negri,Q3766640,PER,Q42597211,Vittorio Negri,"```json { ""wikipedia_page"": ""Vittorio Negri"", ""wikidata_id"": ""Q42597211"" } ```",24.254308700561523
+document_000184.html,23,32,Mendioroz,Q102286504,PER,Q3275634,Madeleine Desroseaux,"```json { ""wikipedia_page"": ""Madeleine Desroseaux"", ""wikidata_id"": ""Q3275634"" } ```",14.377134323120117
+document_000184.html,241,246,Ditta,Q1046463,MISC,Q33685,società di capitali,"```json {""wikipedia_page"":""società di capitali"", ""wikidata_id"":""Q33685""} ```",15.068806648254395
+document_000185.html,96,110,Alfredo Bajesi,NIL,PER,Q28358617,Alfredo Bigeschi,"```json {""wikipedia_page"":""Alfredo Bigeschi"", ""wikidata_id"":""Q28358617""} ```",30.50013542175293
+document_000185.html,272,278,Boghen,Q55225713,PER,NIL,Boghen,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+document_000186.html,0,11,Il Paganini,NIL,ORG,Q3894322,Paolo Paganini,"```json { ""wikipedia_page"": ""Paolo Paganini"", ""wikidata_id"": ""Q3894322"" } ```",29.419986724853516
+document_000186.html,108,113,Faust,NIL,MISC,Q745951,Faust,"```json {""wikipedia_page"":""Faust"", ""wikidata_id"":""Q745951""} ```",21.01073455810547
+document_000186.html,117,132,Enrico Zdollner,Q70819,PER,Q72684,Carl Friedrich Zöllner,"```json { ""wikipedia_page"": ""Carl Friedrich Zöllner"", ""wikidata_id"": ""Q72684"" } ```",23.477447509765625
+document_000186.html,150,158,Germania,Q183,LOC,Q7318,Germania nazista,"```json { ""wikipedia_page"": ""Germania nazista"", ""wikidata_id"": ""Q7318"" } ```",16.65298843383789
+document_000186.html,326,336,Margherita,NIL,PER,Q6760341,Francesca Margherita de L'Épine,"```json {""wikipedia_page"": ""Francesca Margherita de L'Épine"", ""wikidata_id"": ""Q6760341""} ```",14.010807991027832
+document_000187.html,29,37,Montaldo,NIL,PER,Q53028,Giuliano Montaldo,"```json {""wikipedia_page"":""Giuliano Montaldo"", ""wikidata_id"":""Q53028""} ```",14.551795959472656
+document_000187.html,133,142,Cardinali,Q61483965,PER,NIL,Cardinali,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000187.html,226,233,Liberté,NIL,ORG,Q2276427,Libertà,"```json { ""wikipedia_page"": ""Libertate"", ""wikidata_id"": ""Q2276427"" } ```",16.540681838989258
+document_000187.html,270,275,Villa,NIL,PER,Q21569199,Luisa Villani,"```json { ""wikipedia_page"": ""Luisa Villani"", ""wikidata_id"": ""Q21569199"" } ```",9.771012306213379
+document_000188.html,73,82,Pie Jesus,Q11499275,MISC,NIL,Pie Jesus,"```json { ""wikipedia_page"": """", ""wikidata_id"": ""NIL"" } ```",0
+document_000188.html,86,95,Stradella,NIL,PER,Q314765,Alessandro Stradella,"```json {""wikipedia_page"":""Alessandro Stradella"", ""wikidata_id"":""Q314765""} ```",19.90323257446289
+document_000188.html,136,150,Oreste Gennari,NIL,PER,Q3882743,Onofrio Maria Gennari,"```json {""wikipedia_page"":""Onofrio Maria Gennari"", ""wikidata_id"":""Q3882743""} ```",24.324871063232422
+document_000188.html,177,200,teatro Principe Alfonso,Q15640791,LOC,NIL,teatro Principe Alfonso,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000189.html,47,61,teatro di Bari,NIL,LOC,Q845510,teatro Petruzzelli,"```json {""wikipedia_page"":""Teatro Petruzzelli"", ""wikidata_id"":""Q845510""} ```",18.485876083374023
+document_000189.html,179,195,Teatro Ilustrato,NIL,ORG,Q3951792,Scena illustrata,"``` {""wikipedia_page"":""Scena illustrata"", ""wikidata_id"":""Q3951792""} ```",18.350505828857422
+document_000189.html,332,340,Seppilli,Q21081439,PER,NIL,Seppilli,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+document_000189.html,408,421,Vittorio Pepe,Q102076094,PER,NIL,Vittorio Pepe,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000190.html,214,239,S. M. la Regina di Spagna,Q538125,PER,Q156548,Sofia di Grecia,"```json {""wikipedia_page"": ""Sofia di Grecia"", ""wikidata_id"": ""Q156548""} ```",12.005361557006836
+document_000191.html,11,18,Gargano,Q57239339,PER,NIL,Gargano,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000191.html,19,26,Gargano,Q57239339,PER,NIL,Gargano,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+document_000192.html,342,357,Francesco Pozzi,NIL,PER,Q52835988,Francesco Pozzi,"```json { ""wikipedia_page"": ""Francesco Pozzi"", ""wikidata_id"": ""Q52835988"" } ```",36.0850944519043
+document_000194.html,58,81,teatro Principe Alfonso,Q15640791,LOC,NIL,teatro Principe Alfonso,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000194.html,142,156,teatro di Bari,NIL,LOC,Q845517,Teatro Piccinni,"```json {""wikipedia_page"":""Teatro Piccinni"", ""wikidata_id"":""Q845517""} ```",18.804861068725586
+document_000195.html,23,39,Teatro Ilustrato,NIL,ORG,Q3951792,Scena illustrata,"```json {""wikipedia_page"":""Scena illustrata"", ""wikidata_id"":""Q3951792""} ```",20.7410831451416
+document_000195.html,176,184,Seppilli,Q21081439,PER,NIL,Seppilli,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000195.html,197,213,Lasciami in pace,NIL,MISC,Q3827329,Lasciateci in pace,"```json {""wikipedia_page"":""Lasciateci in pace"", ""wikidata_id"":""Q3827329""} ```",17.757556915283203
+document_000195.html,252,265,Vittorio Pepe,Q102076094,PER,NIL,Vittorio Pepe,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000197.html,16,23,Borelli,Q30077493,PER,Q470123,Lyda Borelli,"```json { ""wikipedia_page"": ""Lyda Borelli"", ""wikidata_id"": ""Q470123"" } ```",14.84663200378418
+document_000197.html,26,35,Lucignani,NIL,PER,Q3838507,Luciana Savignano,"```json {""wikipedia_page"":""Luciana Savignano"", ""wikidata_id"":""Q3838507""} ```",17.704513549804688
+document_000198.html,157,168,Elisa Bassi,NIL,PER,Q56879666,Elisa Severi,"```json {""wikipedia_page"":""Elisa Severi"", ""wikidata_id"":""Q56879666""} ```",21.471769332885742
+document_000199.html,71,79,Martucci,Q769966,PER,Q23309410,Guglielmo Martucci,"```json {""wikipedia_page"":""Guglielmo Martucci"", ""wikidata_id"":""Q23309410""} ```",14.224298477172852
+document_000199.html,189,193,Busi,Q11904863,PER,NIL,Busi,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+document_000199.html,244,262,responso dei fiori,NIL,MISC,Q604748,responsorio,"```json {""wikipedia_page"":""responsorio"", ""wikidata_id"":""Q604748""} ```",7.550172805786133
+document_000201.html,9,18,Schneider,Q88791594,PER,NIL,Schneider,"``` {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000201.html,27,37,il Lamento,Q109244005,MISC,NIL,il Lamento,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000204.html,191,198,Miassin,Q359383,PER,NIL,Miassin,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000212.html,113,118,Baden,Q486450,PER,Q4100,Baden-Baden,"```json {""wikipedia_page"":""Baden-Baden"", ""wikidata_id"":""Q4100""} ```",19.093711853027344
+document_000212.html,225,231,Wendel,Q1303289,PER,NIL,Wendel,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000213.html,37,52,Quinta sinfonia,Q188709,MISC,NIL,Quinta sinfonia,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000215.html,5,13,Seriabin,Q185647,PER,Q45682,Jean Sibelius,"```json { ""wikipedia_page"": ""Jean Sibelius"", ""wikidata_id"": ""Q45682"" } ```",16.603002548217773
+document_000215.html,41,57,diterza Sinfonia,Q223538,MISC,NIL,diterza Sinfonia,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000216.html,84,96,all’Augusteo,Q3516747,LOC,NIL,all’Augusteo,"```json { ""wikipedia_page"": """", ""wikidata_id"": ""NIL"" } ```",0
+document_000216.html,108,127,sinfonia di sol min,Q231390,MISC,NIL,sinfonia di sol min,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000219.html,20,26,Brahms,Q7294,PER,NIL,Brahms,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+document_000219.html,37,45,Juventus,Q109001794,MISC,Q1422,Juventus FC,"```json {""wikipedia_page"":""Juventus FC"", ""wikidata_id"":""Q1422""} ```",16.902996063232422
+document_000219.html,52,60,DiSabata,Q464890,PER,NIL,DiSabata,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+document_000222.html,54,66,Santoliquide,Q3817387,PER,Q3949500,Santo Santonocito,"```json { ""wikipedia_page"": ""Santo Santonocito"", ""wikidata_id"": ""Q3949500"" } ```",18.436330795288086
+document_000222.html,84,93,Tarantini,NIL,PER,Q108555,Giuseppe Tartini,"```json { ""wikipedia_page"": ""Giuseppe Tartini"", ""wikidata_id"": ""Q108555"" } ```",27.09954261779785
+document_000222.html,128,132,Fano,Q3779156,PER,NIL,Fano,"```json {""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL""} ```",0
+document_000222.html,134,147,dell’Agostini,Q3855836,PER,Q3904268,Pietro Simone Agostini,"```json {""wikipedia_page"":""Pietro Simone Agostini"", ""wikidata_id"":""Q3904268""} ```",22.312131881713867
+document_000222.html,153,160,Panizza,Q3762212,PER,NIL,Panizza,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+document_000222.html,210,219,Guarnieri,Q1165357,PER,NIL,Guarnieri,"```json { ""wikipedia_page"": ""Giovanni Battista Guarnieri"", ""wikidata_id"": ""NIL"" } ```",0
+document_000224.html,72,87,Le sette parole,Q1219505,MISC,Q1314426,Sette parole di Cristo in croce,"```json { ""wikipedia_page"": ""Sette parole di Cristo in croce"", ""wikidata_id"": ""Q1314426"" } ```",22.724788665771484
+document_000226.html,35,44,Opernhaus,NIL,LOC,Q566365,Großes Schauspielhaus,"```json {""wikipedia_page"":""Großes Schauspielhaus"", ""wikidata_id"":""Q566365""} ```",22.04966926574707
+document_000226.html,45,55,difBerlino,Q64,LOC,Q637834,Deutsche Oper Berlin,"```json {""wikipedia_page"":""Deutsche Oper Berlin"", ""wikidata_id"":""Q637834""} ```",18.239194869995117
+document_000228.html,146,152,Italia,Q38,LOC,NIL,Italia,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+document_000229.html,12,23,Rivista ITT,NIL,ORG,Q2155659,Rivista storica italiana,"```json {""wikipedia_page"": ""Rivista storica italiana"", ""wikidata_id"": ""Q2155659""} ```",21.39912986755371
+document_000230.html,176,185,Beethoven,Q255,PER,Q859387,composizioni di Ludwig van Beethoven,"```json {""wikipedia_page"": ""composizioni di Ludwig van Beethoven"", ""wikidata_id"": ""Q859387""} ```",15.939770698547363
+document_000230.html,187,196,do minore,Q146793,MISC,Q309994,Do minore,"```json {""wikipedia_page"":""Do minore"", ""wikidata_id"":""Q309994""} ```",20.15168571472168
+document_000231.html,30,38,Eriberto,Q26259947,PER,NIL,Eriberto,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+document_000232.html,87,109,Liceo di Santa Cecilia,Q3687231,ORG,NIL,Liceo di Santa Cecilia,"```json {""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL""} ```",0
+document_000235.html,44,54,Ukolebavke,Q6612905,MISC,Q193605,ninna nanna,"```json {""wikipedia_page"":""ninna nanna"", ""wikidata_id"":""Q193605""} ```",16.189298629760742
+document_000236.html,35,40,Novak,Q347611,PER,NIL,Novak,"```json {""wikipedia_page"":"""",""wikidata_id"":""NIL""} ```",0
+document_000240.html,79,87,M. Costa,Q1515576,PER,Q365012,Mario Costa,"```json {""wikipedia_page"":""Mario Costa"", ""wikidata_id"":""Q365012""} ```",22.009510040283203
+document_000241.html,90,97,in Alto,Q109002192,MISC,NIL,in Alto,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000242.html,37,46,M. Baroni,NIL,PER,Q3848501,Mario de Bernardi,"```json {""wikipedia_page"":""Mario de Bernardi"", ""wikidata_id"":""Q3848501""} ```",17.427406311035156
+document_000242.html,121,128,Zappata,NIL,PER,Q325161,Filippo Zappata,"```json {""wikipedia_page"":""Filippo Zappata"", ""wikidata_id"":""Q325161""} ```",17.992023468017578
+document_000242.html,155,162,Dilelio,Q33119369,PER,Q20140270,Daniele Delladio,"```json { ""wikipedia_page"": ""Daniele Delladio"", ""wikidata_id"": ""Q20140270"" } ```",15.377531051635742
+document_000244.html,134,152,dell’Ente Autonomo,Q5471,LOC,Q3726220,ente autonomo,"```json { ""wikipedia_page"": ""ente autonomo"", ""wikidata_id"": ""Q3726220"" } ```",4.500685691833496
+document_000247.html,76,86,De Hidalgo,Q465195,PER,NIL,De Hidalgo,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000247.html,99,106,Hackett,Q767676,PER,NIL,Hackett,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+document_000249.html,216,235,Margherita Sheridan,Q6759227,PER,NIL,Margherita Sheridan,"```json {""wikipedia_page"":"""",""wikidata_id"":""NIL""} ```",0
+document_000250.html,35,51,Maestrit Canfori,Q465540,MISC,NIL,Maestrit Canfori,"```json {""wikipedia_page"":"""",""wikidata_id"":""NIL""} ```",0
+document_000250.html,193,205,Amedeo Bassi,Q3613879,PER,NIL,Amedeo Bassi,"```json { ""wikipedia_page"": """", ""wikidata_id"": ""NIL"" } ```",0
+document_000250.html,213,222,Wildbrunn,Q89504,PER,NIL,Wildbrunn,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000250.html,239,249,De Angelis,Q2536286,PER,NIL,De Angelis,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+document_000251.html,150,165,Maestri Cantort,Q465540,MISC,Q330679,cantore,"```json {""wikipedia_page"":""cantore"", ""wikidata_id"":""Q330679""} ```",15.546394348144531
+document_000252.html,10,14,Rota,Q97571478,PER,Q949090,Rota,"```json { ""wikipedia_page"": ""Rota"", ""wikidata_id"": ""Q949090"" } ```",5.697947025299072
+document_000252.html,16,26,Rovescalli,Q94288706,PER,NIL,Rovescalli,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000252.html,28,37,Marchioro,NIL,PER,Q240781,Giovanni Marchiori,"```json {""wikipedia_page"":""Giovanni Marchiori"", ""wikidata_id"":""Q240781""} ```",6.914824962615967
+document_000252.html,39,46,Santoni,NIL,PER,Q3609313,Aldo Santoni,"```json {""wikipedia_page"":""Aldo Santoni"", ""wikidata_id"":""Q3609313""} ```",7.503734588623047
+document_000253.html,0,21,1’Accademia Americana,Q463271,ORG,NIL,1’Accademia Americana,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000253.html,25,29,Roma,Q220,LOC,Q463271,American Academy in Rome,"```json {""wikipedia_page"":""American Academy in Rome"", ""wikidata_id"":""Q463271""} ```",18.615232467651367
+document_000253.html,143,147,Roma,Q220,LOC,Q3405483,Premio Roma,"```json {""wikipedia_page"":""Premio Roma"", ""wikidata_id"":""Q3405483""} ```",14.486786842346191
+document_000253.html,59,65,Lamond,Q1452729,PER,NIL,Lamond,"```json {""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL""} ```",0
+document_000254.html,44,59,Schola cantorum,NIL,ORG,Q675386,Schola cantorum,"```json {""wikipedia_page"":""Schola cantorum"", ""wikidata_id"":""Q675386""} ```",23.531925201416016
+document_000254.html,63,84,S. Salvatore in Lauro,Q659529,LOC,Q1144981,San Salvatore in Lauro,"```json {""wikipedia_page"": ""San Salvatore in Lauro"", ""wikidata_id"": ""Q1144981""} ```",22.4464111328125
+document_000254.html,104,112,Cappelle,Q1236085,LOC,Q108325,cappella,"```json {""wikipedia_page"":""cappella"", ""wikidata_id"":""Q108325""} ```",18.192346572875977
+document_000256.html,83,102,Marsilio Ceccarelli,Q102289005,PER,NIL,Marsilio Ceccarelli,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000257.html,0,16,Amileare Zanella,Q3614326,PER,NIL,Amileare Zanella,"```json {""wikipedia_page"":"""",""wikidata_id"":""NIL""} ```",0
+document_000260.html,0,15,Filippo Vinardi,Q102280116,PER,NIL,Filippo Vinardi,"```json {""wikipedia_page"":"""",""wikidata_id"":""NIL""} ```",0
+document_000261.html,98,105,A DANTE,NIL,MISC,Q1067,Dante Alighieri,"```json {""wikipedia_page"":""Dante Alighieri"",""wikidata_id"":""Q1067""} ```",14.777595520019531
+document_000262.html,9,17,Juventus,Q109001794,MISC,Q1422,Juventus FC,"```json {""wikipedia_page"":""Juventus FC"", ""wikidata_id"":""Q1422""} ```",17.938034057617188
+document_000262.html,21,33,A. De Sabata,Q464890,PER,NIL,A. De Sabata,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000266.html,45,53,Cappella,Q1236085,ORG,NIL,Cappella,"```json {""wikipedia_page"":"""",""wikidata_id"":""NIL""} ```",0
+document_000267.html,115,120,Rella,NIL,PER,Q2143613,Alessandro Rolla,"```json { ""wikipedia_page"": ""Alessandro Rolla"", ""wikidata_id"": ""Q2143613"" } ```",20.025728225708008
+document_000269.html,129,140,do maggiore,Q1022293,MISC,NIL,do maggiore,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+document_000274.html,40,46,Chopin,Q1268,PER,Q7351,Robert Schumann,"```json { ""wikipedia_page"": ""Robert Schumann"", ""wikidata_id"": ""Q7351"" } ```",20.976774215698242
+document_000274.html,53,61,Schtmann,Q7351,PER,Q1461998,Friedrich Schmidtmann,"```json {""wikipedia_page"": ""Friedrich Schmidtmann"", ""wikidata_id"": ""Q1461998""} ```",21.31278419494629
+document_000275.html,87,95,Augusteo,Q3616668,LOC,Q3516747,Teatro Augusteo,"```json {""wikipedia_page"":""Teatro Augusteo"", ""wikidata_id"":""Q3516747""} ```",12.766529083251953
+document_000278.html,21,28,Mantica,NIL,PER,Q3609247,Aldo Mantia,"```json {""wikipedia_page"": ""Aldo Mantia"", ""wikidata_id"": ""Q3609247""} ```",17.106914520263672
+document_000281.html,56,72,Giuditta Sartori,NIL,PER,Q18455944,Egida Giordani Sartori,"```json {""wikipedia_page"":""Egida Giordani Sartori"", ""wikidata_id"":""Q18455944""} ```",36.553436279296875
+document_000282.html,74,91,Vladimiro Poliuka,Q11908726,PER,NIL,Vladimiro Poliuka,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000283.html,40,68,Scuola moderna di pianoforte,NIL,ORG,Q3973526,StilModerno,"```json { ""wikipedia_page"": ""StilModerno"", ""wikidata_id"": ""Q3973526"" } ```",28.49228286743164
+document_000284.html,210,215,Baton,Q715900,PER,Q1270710,Désiré-Alexandre Batton,"```json {""wikipedia_page"":""Désiré-Alexandre Batton"", ""wikidata_id"":""Q1270710""} ```",15.453865051269531
+document_000285.html,85,94,L. Refice,NIL,PER,Q2262579,Licinio Refice,"```json { ""wikipedia_page"": ""Licinio Refice"", ""wikidata_id"": ""Q2262579"" } ```",36.21808624267578
+document_000286.html,6,18,Sala Smetana,Q15712623,LOC,NIL,Sala Smetana,"```json {""wikipedia_page"":""Sala Smetana"", ""wikidata_id"":""NIL""} ```",0
+document_000286.html,99,131,Sensifiva per canto ed orchestra,Q109242823,MISC,NIL,Sensifiva per canto ed orchestra,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000288.html,13,23,Papa Ratti,Q42323,PER,NIL,Papa Ratti,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+document_000291.html,95,110,Antonio Borroni,Q600955,PER,NIL,Antonio Borroni,"```json {""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL""} ```",0
+document_000292.html,6,11,Monti,Q723643,PER,Q342543,Vittorio Monti,"```json {""wikipedia_page"":""Vittorio Monti"", ""wikidata_id"":""Q342543""} ```",13.520340919494629
+document_000292.html,99,106,Borroni,Q600955,PER,NIL,Borroni,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+document_000293.html,191,197,Italia,Q38,LOC,NIL,Italia,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+document_000293.html,371,385,Gnea nel Lazio,NIL,MISC,Q386054,Enea nel Lazio,"```json {""wikipedia_page"":""Enea nel Lazio"", ""wikidata_id"":""Q386054""} ```",16.978858947753906
+document_000294.html,37,44,Borroni,Q600955,PER,NIL,Borroni,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000295.html,116,122,Italia,Q38,LOC,Q172579,Regno d'Italia,"```json { ""wikipedia_page"": ""Regno d'Italia"", ""wikidata_id"": ""Q172579"" } ```",16.203428268432617
+document_000296.html,314,335,La Locandiera scaltra,NIL,MISC,Q109241897,La dama locandiera,"```json {""wikipedia_page"":""La dama locandiera"", ""wikidata_id"":""Q109241897""} ```",21.33658218383789
+document_000297.html,51,61,Parlamagni,NIL,PER,Q16526556,Andrigo Parlanti,"```json {""wikipedia_page"":""Andrigo Parlanti"", ""wikidata_id"":""Q16526556""} ```",15.958559036254883
+document_000299.html,120,127,Parnaso,Q105261,LOC,Q12757032,Parnasso,"```json {""wikipedia_page"":""Parmasso"", ""wikidata_id"":""Q12757032""} ```",18.298948287963867
+document_000300.html,54,63,Laroberti,NIL,PER,Q21587810,Romualdo Palberti,"```json {""wikipedia_page"":""Romualdo Palberti"", ""wikidata_id"":""Q21587810""} ```",16.1133975982666
+document_000300.html,68,78,Compagnoni,Q3770345,PER,NIL,Compagnoni,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000300.html,84,94,Policastro,NIL,PER,Q63291536,Girolamo Polcastro,"```json {""wikipedia_page"":""Girolamo Polcastro"", ""wikidata_id"":""Q63291536""} ```",12.735429763793945
+document_000301.html,93,106,Cesare Arrici,Q1056693,PER,NIL,Cesare Arrici,"```json {""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL""} ```",0
+document_000301.html,168,187,Giovanni Gherardini,Q3767354,PER,Q6999082,Giovanni Gherardi,"```json { ""wikipedia_page"": ""Giovanni Gherardini"", ""wikidata_id"": ""Q6999082"" } ```",38.831932067871094
+document_000302.html,92,119,Archivio del Reale Collegio,NIL,LOC,Q2860422,Archivio di Stato di Napoli,"```json {""wikipedia_page"":""Archivio di Stato di Napoli"", ""wikidata_id"":""Q2860422""} ```",19.740476608276367
+document_000302.html,123,129,Napoli,Q2634,LOC,Q16606978,Società Reale di Napoli,"```json {""wikipedia_page"": ""Società Reale di Napoli"", ""wikidata_id"": ""Q16606978""} ```",19.198060989379883
+document_000303.html,33,61,La Scuola Musicale ai Napoli,NIL,MISC,Q1756140,Scuola musicale napoletana,"```json {""wikipedia_page"":""Scuola musicale napoletana"", ""wikidata_id"":""Q1756140""} ```",21.636192321777344
+document_000303.html,180,192,i Pitagorici,NIL,MISC,Q191359,scuola pitagorica,"```json {""wikipedia_page"":""scuola pitagorica"", ""wikidata_id"":""Q191359""} ```",14.010725975036621
+document_000304.html,192,200,d'Italia,Q38,LOC,Q244741,viceré,"```json {""wikipedia_page"":""viceré"", ""wikidata_id"":""Q244741""} ```",16.48430633544922
+document_000308.html,70,77,Carelli,Q5372752,PER,NIL,Carelli,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000308.html,206,213,Lorenza,Q109002506,MISC,NIL,Lorenza,"```json {""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL""} ```",0
+document_000308.html,217,227,Mascheroni,Q3719624,PER,Q3617086,Angelo Mascheroni,"```json {""wikipedia_page"":""Angelo Mascheroni"", ""wikidata_id"":""Q3617086""} ```",23.713634490966797
+document_000309.html,162,173,Swor Teresa,NIL,MISC,Q377685,Maria Stuarda,"```json {""wikipedia_page"":""Maria Stuarda"", ""wikidata_id"":""Q377685""} ```",16.04867172241211
+document_000310.html,30,37,Cazzola,Q3680481,PER,NIL,Cazzola,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000310.html,162,169,Firenze,Q2044,LOC,Q3982074,Teatro Niccolini,"```json {""wikipedia_page"":""Teatro Niccolini"", ""wikidata_id"":""Q3982074""} ```",18.03203010559082
+document_000312.html,11,18,Cazzola,Q3680481,PER,NIL,Cazzola,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+document_000314.html,0,10,la Sonnand,Q753123,MISC,NIL,la Sonnand,"```json {""wikipedia_page"":"""",""wikidata_id"":""NIL""} ```",0
+document_000314.html,14,29,Teatro Pagliano,Q3982191,LOC,NIL,Teatro Pagliano,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000315.html,16,21,Patti,Q234166,PER,Q489948,Patti,"``` {""wikipedia_page"":""Patti"", ""wikidata_id"":""Q489948""} ```",8.768951416015625
+document_000315.html,76,86,Frezzolini,Q451231,PER,Q1381618,Giuseppe Frezzolini,"```json {""wikipedia_page"":""Giuseppe Frezzolini"", ""wikidata_id"":""Q1381618""} ```",9.626219749450684
+document_000318.html,262,266,Buti,NIL,PER,Q962487,Carlo Buti,"```json {""wikipedia_page"": ""Carlo Buti"", ""wikidata_id"": ""Q962487""} ```",21.529172897338867
+document_000320.html,50,58,Lombardi,Q468625,MISC,NIL,Lombardi,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000320.html,120,128,Graziani,Q291007,PER,NIL,Graziani,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+document_000322.html,92,114,Francesco Maria Albini,Q98636701,PER,NIL,Francesco Maria Albini,"```json {""wikipedia_page"":"""",""wikidata_id"":""NIL""} ```",0
+document_000323.html,2,17,Teatro Comunale,Q2294135,LOC,Q3907412,Politeama Rossetti,"```json {""wikipedia_page"":""Politeama Rossetti"", ""wikidata_id"":""Q3907412""} ```",31.246784210205078
+document_000323.html,56,65,Pallerini,NIL,PER,Q62071869,Antonietta Pallerini,"```json {""wikipedia_page"":""Antonietta Pallerini"", ""wikidata_id"":""Q62071869""} ```",26.89691162109375
+document_000325.html,18,25,Massera,NIL,PER,Q1429489,Florentio Maschera,"```json { ""wikipedia_page"": ""Florentio Maschera"", ""wikidata_id"": ""Q1429489"" } ```",14.40786361694336
+document_000327.html,3,19,Teatro del Corso,Q21077427,LOC,NIL,Teatro del Corso,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000327.html,34,53,Compagnia Pe.racchi,NIL,ORG,Q3685008,Compagnia della Rancia,"```json {""wikipedia_page"":""Compagnia della Rancia"", ""wikidata_id"":""Q3685008""} ```",23.383617401123047
+document_000329.html,199,205,Italia,Q38,LOC,Q172579,Regno d'Italia,"```json {""wikipedia_page"": ""Regno d'Italia"", ""wikidata_id"":""Q172579""} ```",16.886049270629883
+document_000330.html,23,36,Nadina Dunord,NIL,PER,Q3869832,Nadia Biondini,"```json { ""wikipedia_page"":""Nadia Biondini"", ""wikidata_id"":""Q3869832"" } ```",24.924264907836914
+document_000330.html,87,94,Firenze,Q2044,LOC,Q18224215,Opera di Firenze,"```json {""wikipedia_page"":""Opera di Firenze"", ""wikidata_id"":""Q18224215""} ```",19.01573371887207
+document_000332.html,75,92,Piazza S. Martino,NIL,LOC,Q3902313,piazza San Martino,"```json { ""wikipedia_page"": ""piazza San Martino"", ""wikidata_id"": ""Q3902313"" } ```",30.05743980407715
+document_000332.html,94,112,Palazzo Santinelli,NIL,LOC,Q55167100,Palazzo Santini,"```json {""wikipedia_page"":""Palazzo Santini"", ""wikidata_id"":""Q55167100""} ```",30.606962203979492
+document_000334.html,94,104,John Urich,NIL,PER,Q3193048,John Ulrich,"```json { ""wikipedia_page"":""John Ulrich"", ""wikidata_id"":""Q3193048"" } ```",23.177600860595703
+document_000335.html,9,18,Schneider,Q214659,PER,Q74556,Marius Schneider,"```json {""wikipedia_page"":""Marius Schneider"", ""wikidata_id"":""Q74556""} ```",16.042739868164062
+document_000336.html,109,116,Arianna,Q1880621,MISC,Q184874,Arianna,"```json {""wikipedia_page"":""Arianna"",""wikidata_id"":""Q184874""} ```",8.582563400268555
+document_000337.html,0,6,Busoni,Q21955,PER,Q219551,Ferruccio Busoni,"```json {""wikipedia_page"":""Ferruccio Busoni"", ""wikidata_id"":""Q219551""} ```",31.28950309753418
+document_000338.html,50,56,Busoni,Q21955,PER,Q219551,Ferruccio Busoni,"```json {""wikipedia_page"":""Ferruccio Busoni"", ""wikidata_id"":""Q219551""} ```",23.859294891357422
+document_000338.html,104,110,Busoni,Q21955,PER,Q219551,Ferruccio Busoni,"```json {""wikipedia_page"":""Ferruccio Busoni"", ""wikidata_id"":""Q219551""} ```",22.864011764526367
+document_000338.html,180,194,Salvatore Rosa,Q359421,PER,NIL,Salvatore Rosa,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000340.html,33,46,dell’Augusteo,Q3616668,LOC,NIL,dell’Augusteo,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+document_000342.html,106,112,Natale,Q19809,MISC,Q106010,vigilia di Natale,"```json {""wikipedia_page"":""vigilia di Natale"", ""wikidata_id"":""Q106010""} ```",17.990896224975586
+document_000345.html,24,30,Italia,Q38,LOC,Q172579,Regno d'Italia,"```json { ""wikipedia_page"": ""Regno d'Italia"", ""wikidata_id"": ""Q172579"" } ```",18.389598846435547
+document_000346.html,14,19,Busom,Q219551,PER,NIL,Busom,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000347.html,111,117,Torino,Q495,LOC,Q183202,Teatro Regio,"```json {""wikipedia_page"":""Teatro Regio"", ""wikidata_id"":""Q183202""} ```",22.82891082763672
+document_000348.html,127,141,Elena Rakowska,Q73665406,PER,NIL,Elena Rakowska,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000349.html,12,39,Congresso Haliano di Musica,NIL,MISC,Q3686962,Congresso di esperanto in Italia,"```json {""wikipedia_page"":""Congresso di esperanto in Italia"", ""wikidata_id"":""Q3686962""} ```",22.358850479125977
+document_000350.html,0,13,Olive ffilder,NIL,PER,Q18576801,Olive Fraser,"```json {""wikipedia_page"":""Olive Fraser"", ""wikidata_id"":""Q18576801""} ```",23.60280990600586
+document_000352.html,41,49,Specehia,Q52198,LOC,NIL,Specehia,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000353.html,119,132,Flazto magico,Q5064,MISC,NIL,Flazto magico,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000353.html,146,161,Arianna a Nasso,Q654633,MISC,NIL,Arianna a Nasso,"```json { ""wikipedia_page"": """", ""wikidata_id"": ""NIL"" } ```",0
+document_000354.html,48,52,Aida,Q171277,MISC,Q2916884,Aída,"```json {""wikipedia_page"":""Aída"", ""wikidata_id"":""Q2916884""} ```",13.398970603942871
+document_000354.html,77,86,Gtoconda/,Q748840,MISC,NIL,Gtoconda/,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000355.html,226,234,Bayreuth,Q3923,LOC,Q157596,Festival di Bayreuth,"```json { ""wikipedia_page"": ""Festival di Bayreuth"", ""wikidata_id"": ""Q157596"" } ```",19.459575653076172
+document_000357.html,78,84,Marnuf,Q3332020,MISC,NIL,Marnuf,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+document_000358.html,151,166,Maestri Cantort,Q465540,MISC,NIL,Maestri Cantort,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000360.html,369,377,Augusteo,Q3616668,LOC,Q3516747,Teatro Augusteo,"```json {""wikipedia_page"":""Teatro Augusteo"", ""wikidata_id"":""Q3516747""} ```",21.595014572143555
+document_000362.html,37,58,Florestano Rossomandi,Q20000564,PER,NIL,Florestano Rossomandi,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+document_000362.html,73,84,De Robertis,Q3770444,PER,NIL,De Robertis,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000362.html,186,197,Respighidal,Q243837,PER,Q447545,Elsa Respighi,"```json {""wikipedia_page"":""Elsa Respighi"", ""wikidata_id"":""Q447545""} ```",17.770946502685547
+document_000362.html,239,254,Arnold Foldesky,Q695189,PER,NIL,Arnold Foldesky,"```json {""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL""} ```",0
+document_000362.html,260,268,Olivieri,Q447545,PER,NIL,Olivieri,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000363.html,2,21,Politeama di Napoli,NIL,LOC,Q3981916,Teatro Bellini,"```json {""wikipedia_page"":""Teatro Bellini"", ""wikidata_id"":""Q3981916""} ```",20.93082046508789
+document_000364.html,16,38,Quartetti di Beethoven,NIL,MISC,Q2368340,Quartetto Beethoven,"```json { ""wikipedia_page"": ""Quartetto Beethoven"", ""wikidata_id"": ""Q2368340"" } ```",27.085304260253906
+document_000364.html,115,124,Bufaletti,NIL,PER,Q110368289,Bufalini (famiglia),"```json {""wikipedia_page"":""Bufalini (famiglia)"", ""wikidata_id"":""Q110368289""} ```",20.59225082397461
+document_000364.html,129,135,Serato,Q4416580,PER,NIL,Serato,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+document_000364.html,137,146,G. Crepax,Q4240235,PER,NIL,G. Crepax,"```json {""wikipedia_page"":""Gilberto Crepax"", ""wikidata_id"":""Q424025""} ```",0
+document_000364.html,259,275,Marietta Amstadt,Q63486305,PER,NIL,Marietta Amstadt,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+document_000367.html,43,60,S. Carlo Borromeo,Q216946,PER,Q1313662,chiesa di San Carlo Borromeo dei Milanesi,"```json {""wikipedia_page"":""chiesa di San Carlo Borromeo dei Milanesi"", ""wikidata_id"":""Q1313662""} ```",20.995210647583008
+document_000367.html,129,135,Milano,Q490,LOC,NIL,Milano,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+document_000368.html,88,103,dreve Multum ad,NIL,MISC,Q3712488,documento pontificio,"```json {""wikipedia_page"":""documento pontificio"", ""wikidata_id"":""Q3712488""} ```",6.375677585601807
+document_000368.html,149,166,Socteta Cectliana,Q1149943,ORG,NIL,Socteta Cectliana,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000368.html,203,219,Cardinal De Luca,Q500774,PER,Q602901,Giovanni Battista De Luca,"```json { ""wikipedia_page"": ""Giovanni Battista De Luca"", ""wikidata_id"": ""Q602901"" } ```",20.275285720825195
+document_000369.html,212,222,Papa Pecci,Q43922,PER,NIL,Papa Pecci,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000370.html,73,85,Abate Amelli,Q3778809,PER,NIL,Abate Amelli,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000370.html,209,216,Venezia,NIL,LOC,Q740783,patriarcato di Venezia,"```json {""wikipedia_page"":""patriarcato di Venezia"", ""wikidata_id"":""Q740783""} ```",24.120559692382812
+document_000370.html,252,288,Lettera pastorale sulla Musica Sacra,NIL,MISC,Q2310769,Tra le sollecitudini,"```json { ""wikipedia_page"": ""Tra le sollecitudini"", ""wikidata_id"": ""Q2310769"" } ```",21.552108764648438
+document_000371.html,151,157,Pietro,Q6699740,PER,Q33923,Pietro,"```json {""wikipedia_page"":""Pietro"", ""wikidata_id"":""Q33923""} ```",21.448286056518555
+document_000373.html,81,90,Sernicoli,NIL,PER,Q28595322,Leonardo Sernicola,"```json {""wikipedia_page"":""Leonardo Sernicola"", ""wikidata_id"":""Q28595322""} ```",27.40556526184082
+document_000376.html,37,43,Italia,Q38,LOC,Q172579,Regno d'Italia,"```json {""wikipedia_page"": ""Regno d'Italia"", ""wikidata_id"": ""Q172579""} ```",12.950523376464844
+document_000376.html,96,106,S. Cecilia,Q181410,ORG,Q3687231,Conservatorio Santa Cecilia,"```json { ""wikipedia_page"": ""Conservatorio Santa Cecilia"", ""wikidata_id"": ""Q3687231"" } ```",17.285991668701172
+document_000376.html,108,114,Scuola,NIL,ORG,Q1021290,scuola di musica,"```json { ""wikipedia_page"": ""scuola di musica"", ""wikidata_id"": ""Q1021290"" } ```",15.257604598999023
+document_000380.html,46,53,Gnriade,Q1990294,MISC,Q60220,Eneide,"```json { ""wikipedia_page"": ""Eneide"", ""wikidata_id"": ""Q60220"" } ```",18.504541397094727
+document_000380.html,125,144,Genio della Francia,NIL,PER,Q2438217,Genio della Vittoria,"```json {""wikipedia_page"":""Genio della Vittoria"", ""wikidata_id"":""Q2438217""} ```",10.44996452331543
+document_000380.html,170,188,Tempio del Delfino,NIL,LOC,Q1067494,Torre del Tempio,"```json {""wikipedia_page"":""Torre del Tempio"", ""wikidata_id"":""Q1067494""} ```",17.284669876098633
+document_000384.html,147,167,Giorgi Belloc Teresa,NIL,PER,Q3984271,Teresa Belloc-Giorgi,"```json {""wikipedia_page"":""Teresa Belloc-Giorgi"", ""wikidata_id"":""Q3984271""} ```",17.307214736938477
+document_000384.html,178,189,dell’Attica,Q122443,LOC,Q780194,re di Atene,"```json {""wikipedia_page"":""re di Atene"", ""wikidata_id"":""Q780194""} ```",14.65684700012207
+document_000384.html,199,217,Parlamagni Antonio,NIL,PER,Q3620050,Antonio Piromalli,"```json {""wikipedia_page"":""Antonio Piromalli"", ""wikidata_id"":""Q3620050""} ```",16.639192581176758
+document_000384.html,218,225,PiRO1oc,Q502156,PER,NIL,PiRO1oc,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000384.html,234,246,Pacini Luigi,NIL,PER,Q20005289,Luigi Pacini,"```json {""wikipedia_page"":""Luigi Pacini"", ""wikidata_id"":""Q20005289""} ```",17.92869758605957
+document_000384.html,264,279,Bianchi Gactano,NIL,PER,Q3094266,Gaetano Bianchi,"```json {""wikipedia_page"": ""Gaetano Bianchi"", ""wikidata_id"": ""Q3094266""} ```",23.166263580322266
+document_000385.html,37,44,Trezene,Q11953081,LOC,Q7844953,Trezene,"```json {""wikipedia_page"":""Trezene"", ""wikidata_id"":""Q7844953""} ```",12.902789115905762
+document_000385.html,149,166,Vincenzo Federici,Q42153988,PER,Q6572517,Vincenzo Federici,"```json {""wikipedia_page"":""Vincenzo Federici"", ""wikidata_id"":""Q6572517""} ```",31.147945404052734
+document_000386.html,32,45,Giorgi Belloc,Q3984271,PER,NIL,Giorgi Belloc,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000388.html,0,4,Etra,Q11921121,PER,Q131651,Elettra,"```json {""wikipedia_page"":""Elettra"", ""wikidata_id"":""Q131651""} ```",7.780387878417969
+document_000388.html,110,115,Tesco,Q1320718,PER,NIL,Tesco,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000392.html,102,107,Desai,Q313196,PER,Q21502264,Desai,"```json {""wikipedia_page"":""Desai"", ""wikidata_id"":""Q21502264""} ```",9.397737503051758
+document_000393.html,139,144,Atene,Q1524,LOC,Q844930,Atene,"```json {""wikipedia_page"":""Atene"", ""wikidata_id"":""Q844930""} ```",18.298564910888672
+document_000393.html,53,60,Francia,Q142,LOC,NIL,Francia,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+document_000393.html,66,73,Trezene,Q11953081,LOC,Q7844953,Trezene,"```json {""wikipedia_page"":""Trezene"", ""wikidata_id"":""Q7844953""} ```",11.987306594848633
+document_000393.html,158,165,Trezene,Q11953081,LOC,Q7844953,Trezene,"```json {""wikipedia_page"":""Trezene"", ""wikidata_id"":""Q7844953""} ```",10.483802795410156
+document_000394.html,61,82,Repubblica Partenopea,Q514423,ORG,NIL,Repubblica Partenopea,"```json {""wikipedia_page"":""Repubblica di Napoli"", ""wikidata_id"":""NIL""} ```",0
+document_000395.html,28,34,Astrea,Q742680,PER,Q18642285,Asteria,"```json {""wikipedia_page"":""Asteria"", ""wikidata_id"":""Q18642285""} ```",18.47711181640625
+document_000396.html,90,104,Astrea placata,NIL,MISC,Q19623961,Astrea placata,"```json {""wikipedia_page"":""Astrea placata"", ""wikidata_id"":""Q19623961""} ```",9.869006156921387
+document_000397.html,16,29,Poeta Cesareo,Q29473,PER,Q129603,Cesareo di Terracina,"```json { ""wikipedia_page"": ""Cesareo di Terracina"", ""wikidata_id"": ""Q129603"" } ```",17.645965576171875
+document_000397.html,240,257,Francesco Augusto,Q130834,PER,NIL,Francesco Augusto,"```json { ""wikipedia_page"":"""", ""wikidata_id"":""NIL"" } ```",0
+document_000399.html,194,213,Carolina di Baviera,Q57662,PER,Q158229,Maria Carolina d'Asburgo-Lorena,"```json {""wikipedia_page"":""Maria Carolina d'Asburgo-Lorena"", ""wikidata_id"":""Q158229""} ```",21.93854522705078
+document_000400.html,122,147,Dalla Reffa il disinganno,Q3252788,MISC,NIL,Dalla Reffa il disinganno,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000401.html,250,277,Socieia nazionale di musica,Q1749118,ORG,Q7552744,Società Italiana di Musica Moderna,"```json {""wikipedia_page"": ""Società Italiana di Musica Moderna"", ""wikidata_id"": ""Q7552744""} ```",22.31070327758789
+document_000403.html,94,102,Passigli,NIL,PER,Q19280145,Giuseppe Passigli,"```json {""wikipedia_page"":""Giuseppe Passigli"", ""wikidata_id"":""Q19280145""} ```",16.590686798095703
+document_000404.html,24,34,Guido Boni,NIL,PER,Q2329531,Guido Boni,"```json {""wikipedia_page"":""Guido Boni"", ""wikidata_id"":""Q2329531""} ```",41.542484283447266
+document_000406.html,241,256,Compagnia Reale,NIL,ORG,Q183202,Teatro Regio,"```json {""wikipedia_page"":""Teatro Regio"", ""wikidata_id"":""Q183202""} ```",22.19434928894043
+document_000406.html,292,297,Monti,NIL,PER,Q15120198,Luigi Monti,"```json {""wikipedia_page"": ""Luigi Monti"", ""wikidata_id"": ""Q15120198""} ```",21.69687843322754
+document_000406.html,301,305,Como,Q1308,LOC,NIL,Como,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000408.html,71,85,Zeatro Brunett,Q3516753,LOC,NIL,Zeatro Brunett,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000409.html,108,118,Frezzolini,Q451231,PER,Q1381618,Giuseppe Frezzolini,"```json {""wikipedia_page"":""Giuseppe Frezzolini"", ""wikidata_id"":""Q1381618""} ```",8.552197456359863
+document_000411.html,91,98,Rossini,NIL,PER,Q9726,Gioachino Rossini,"```json {""wikipedia_page"":""Gioachino Rossini"", ""wikidata_id"":""Q9726""} ```",25.32889175415039
+document_000412.html,39,47,Lagrange,Q4767645,PER,NIL,Lagrange,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000412.html,60,66,Vitali,Q104767293,PER,Q3291084,Maria Vitale,"```json {""wikipedia_page"":""Maria Vitale"", ""wikidata_id"":""Q3291084""} ```",20.058475494384766
+document_000412.html,158,164,Vitali,Q104767293,PER,Q3291084,Maria Vitale,"```json {""wikipedia_page"":""Maria Vitale"", ""wikidata_id"":""Q3291084""} ```",18.520719528198242
+document_000412.html,203,209,Vitali,Q104767293,PER,Q3291084,Maria Vitale,"```json {""wikipedia_page"":""Maria Vitale"", ""wikidata_id"":""Q3291084""} ```",17.861841201782227
+document_000412.html,354,360,Vitali,Q104767293,PER,Q3291084,Maria Vitale,"```json {""wikipedia_page"":""Maria Vitale"", ""wikidata_id"":""Q3291084""} ```",19.874515533447266
+document_000412.html,170,185,Irance Musicale,Q3209228,ORG,Q110663805,L'Italia Musicale,"```json {""wikipedia_page"":""L'Italia Musicale"", ""wikidata_id"":""Q110663805""} ```",11.472827911376953
+document_000413.html,183,199,Re di Portogallo,Q156175,PER,NIL,Re di Portogallo,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000414.html,44,50,Bastia,NIL,PER,Q3637715,Bella Starace Sainati,"```json {""wikipedia_page"":""Bella Starace Sainati"", ""wikidata_id"":""Q3637715""} ```",13.252059936523438
+document_000414.html,152,167,Teatro Pagliano,Q3982191,LOC,NIL,Teatro Pagliano,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000414.html,192,197,Borri,Q30077083,PER,Q633468,Giuseppe Francesco Borri,"```json {""wikipedia_page"":""Giuseppe Francesco Borri"", ""wikidata_id"":""Q633468""} ```",13.283596992492676
+document_000414.html,199,224,Un avventura di carnevale,NIL,MISC,Q4004187,Una delle ultime sere di carnovale,"```json {""wikipedia_page"": ""Una delle ultime sere di carnovale"", ""wikidata_id"": ""Q4004187""} ```",16.345718383789062
+document_000415.html,153,166,Gaspare Pieri,NIL,PER,Q3771146,Giuseppe Pambieri,"```json { ""wikipedia_page"": ""Giuseppe Pambieri"", ""wikidata_id"": ""Q3771146"" } ```",28.01300621032715
+document_000416.html,2,16,Costantinopoli,Q16869,LOC,Q406,Istanbul,"```json {""wikipedia_page"":""Istanbul"",""wikidata_id"":""Q406""} ```",19.324304580688477
+document_000416.html,37,45,Barbiere,Q208659,MISC,Q632743,Il barbiere di Siviglia,"```json {""wikipedia_page"":""Il barbiere di Siviglia"", ""wikidata_id"":""Q632743""} ```",18.050199508666992
+document_000416.html,76,86,Pantaleoni,Q62063481,PER,NIL,Pantaleoni,"```json {""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL""} ```",0
+document_000416.html,126,145,Corriere di Firenze,Q3694491,ORG,Q3792833,Il Nuovo Corriere di Firenze,"```json { ""wikipedia_page"": ""Il Nuovo Corriere di Firenze"", ""wikidata_id"": ""Q3792833"" } ```",22.99736976623535
+document_000417.html,135,142,Biasoli,NIL,PER,Q3635801,Basilio Basili,"```json {""wikipedia_page"":""Basilio Basili"", ""wikidata_id"":""Q3635801""} ```",22.71238136291504
+document_000418.html,4,9,Recco,Q266648,LOC,NIL,Recco,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000419.html,53,73,Ii Diavolo a quattro,NIL,MISC,Q3222294,Le Diable à quatre,"```json {""wikipedia_page"":""Le Diable à quatre"", ""wikidata_id"":""Q3222294""} ```",21.591644287109375
+document_000423.html,17,33,Pompeo Colombati,NIL,PER,Q505613,Pompeo Batoni,"```json {""wikipedia_page"":""Pompeo Batoni"", ""wikidata_id"":""Q505613""} ```",21.486051559448242
+document_000423.html,91,95,Sira,NIL,ORG,Q13670,Siracusa,"```json { ""wikipedia_page"": ""Siracusa"", ""wikidata_id"": ""Q13670"" } ```",6.938728332519531
+document_000425.html,99,105,scozia,Q22,LOC,Q230791,Regno di Scozia,"```json {""wikipedia_page"":""Regno di Scozia"", ""wikidata_id"":""Q230791""} ```",18.00638198852539
+document_000426.html,103,109,Moidar,Q24639586,LOC,NIL,Moidar,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000426.html,244,258,padre di Flora,NIL,PER,Q7565,padre,"```json {""wikipedia_page"": ""padre"", ""wikidata_id"": ""Q7565""} ```",6.032497882843018
+document_000426.html,275,281,Murray,Q348025,PER,NIL,Murray,"```json { ""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL"" } ```",0
+document_000426.html,287,299,lady Cameron,Q6171931,PER,NIL,lady Cameron,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000427.html,237,242,Byron,Q123509516,PER,Q5679,George Gordon Byron,"```json {""wikipedia_page"":""George Gordon Byron"", ""wikidata_id"":""Q5679""} ```",19.970012664794922
+document_000430.html,22,27,Bahia,Q40430,LOC,NIL,Bahia,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000433.html,80,94,Rio lanVesimia,Q8678,LOC,Q13360,Reggio Emilia,"```json {""wikipedia_page"":""Reggio Emilia"", ""wikidata_id"":""Q13360""} ```",9.429851531982422
+document_000436.html,3,30,teatro Nazionale di Firenze,Q3886710,LOC,NIL,teatro Nazionale di Firenze,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000438.html,18,24,Russel,Q435415,PER,Q313376,Albert Roussel,"```json {""wikipedia_page"": ""Albert Roussel"", ""wikidata_id"": ""Q313376""} ```",14.860381126403809
+document_000438.html,177,186,Cornaglia,Q1850396,PER,NIL,Cornaglia,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000440.html,137,151,Stella Bonheur,Q102075957,PER,Q7607041,Stella Bonheur,"```json {""wikipedia_page"":""Stella Bonheur"", ""wikidata_id"":""Q7607041""} ```",39.35972595214844
+document_000441.html,77,88,I. Burgmein,Q225820,PER,NIL,I. Burgmein,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000443.html,23,29,Italia,Q38,LOC,Q172579,Regno d'Italia,"```json {""wikipedia_page"":""Regno d'Italia"", ""wikidata_id"":""Q172579""} ```",16.58313751220703
+document_000444.html,243,250,Foscari,Q468112,MISC,Q503874,Francesco Foscari,"```json {""wikipedia_page"":""Francesco Foscari"",""wikidata_id"":""Q503874""} ```",18.99304962158203
+document_000444.html,60,66,Avoldo,NIL,ORG,Q56433838,Ambrogio Uboldo,"```json {""wikipedia_page"":""Ambrogio Uboldo"", ""wikidata_id"":""Q56433838""} ```",15.69964599609375
+document_000444.html,231,240,Francoxeo,Q503874,PER,Q24703198,Franco Escoffiér,"```json {""wikipedia_page"":""Franco Escoffiér"", ""wikidata_id"":""Q24703198""} ```",15.401971817016602
+document_000445.html,0,13,Medea Borelli,Q30077493,PER,Q470123,Lyda Borelli,"```json { ""wikipedia_page"": ""Lyda Borelli"", ""wikidata_id"": ""Q470123"" } ```",26.166481018066406
+document_000445.html,171,175,Aida,NIL,MISC,Q171277,Aida,"```json {""wikipedia_page"":""Aida"", ""wikidata_id"":""Q171277""} ```",15.193544387817383
+document_000445.html,176,194,el Correo de Noite,NIL,ORG,Q10267595,Diário da Noite,"```json {""wikipedia_page"":""Diário da Noite"", ""wikidata_id"":""Q10267595""} ```",14.986443519592285
+document_000445.html,6,13,Borelli,Q30077493,PER,Q470123,Lyda Borelli,"```json {""wikipedia_page"": ""Lyda Borelli"", ""wikidata_id"": ""Q470123""} ```",21.839797973632812
+document_000445.html,234,241,Borelli,Q30077493,PER,Q470123,Lyda Borelli,"```json {""wikipedia_page"":""Lyda Borelli"", ""wikidata_id"":""Q470123""} ```",23.93501091003418
+document_000446.html,3,18,teatro Vittorio,Q3629508,LOC,Q261439,teatro Massimo Vittorio Emanuele,"```json { ""wikipedia_page"": ""Teatro Massimo Vittorio Emanuele"", ""wikidata_id"": ""Q261439"" } ```",18.83604621887207
+document_000446.html,175,180,Norma,Q320353,MISC,NIL,Norma,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+document_000447.html,15,30,Fanny Torese!la,Q104384426,PER,NIL,Fanny Torese!la,"```json {""wikipedia_page"":"""",""wikidata_id"":""NIL""} ```",0
+document_000447.html,37,42,Linda,Q669382,MISC,Q47638314,Linda Brambilla,"```json {""wikipedia_page"":""Linda Brambilla"", ""wikidata_id"":""Q47638314""} ```",12.245121002197266
+document_000447.html,266,271,Linda,Q669382,MISC,Q47638314,Linda Brambilla,"```json {""wikipedia_page"":""Linda Brambilla"", ""wikidata_id"":""Q47638314""} ```",12.72350025177002
+document_000447.html,191,206,Funay Toresella,Q104384426,PER,NIL,Funay Toresella,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+document_000449.html,35,42,Garhint,NIL,PER,Q378614,Bernardin Gantin,"```json {""wikipedia_page"":""Bernardin Gantin"", ""wikidata_id"":""Q378614""} ```",17.540306091308594
+document_000449.html,91,104,Don Sallustio,NIL,PER,Q26218315,La Salustia,"```json {""wikipedia_page"":""La Salustia"", ""wikidata_id"":""Q26218315""} ```",13.015262603759766
+document_000449.html,257,266,G. Giusti,NIL,PER,Q982512,Giuseppe Giusti,"```json { ""wikipedia_page"": ""Giuseppe Giusti"", ""wikidata_id"": ""Q982512"" } ```",23.201555252075195
+document_000450.html,104,110,Elvira,NIL,PER,Q518410,Elvira Donnarumma,"```json {""wikipedia_page"":""Elvira Donnarumma"", ""wikidata_id"":""Q518410""} ```",13.82792854309082
+document_000450.html,247,256,Borucchia,NIL,PER,Q111725215,Nicola Buracchio,"```json {""wikipedia_page"":""Nicola Buracchio"", ""wikidata_id"":""Q111725215""} ```",21.559431076049805
+document_000452.html,76,85,Abigaiile,NIL,PER,Q4416778,Abigail,"```json {""wikipedia_page"":""Abigail"", ""wikidata_id"":""Q4416778""} ```",17.39444923400879
+document_000452.html,126,138,Dio di Giuda,NIL,MISC,Q2155501,Dio,"```json {""wikipedia_page"":""Dio"", ""wikidata_id"":""Q2155501""} ```",10.525049209594727
+document_000453.html,66,74,Zaccaria,NIL,PER,Q2305425,Nicola Zaccaria,"```json {""wikipedia_page"":""Nicola Zaccaria"", ""wikidata_id"":""Q2305425""} ```",12.229832649230957
+document_000454.html,66,74,Zaccaria,NIL,PER,Q2305425,Nicola Zaccaria,"```json {""wikipedia_page"":""Nicola Zaccaria"", ""wikidata_id"":""Q2305425""} ```",17.806983947753906
+document_000455.html,50,57,Finotti,NIL,PER,Q1154197,Aldo Finzi,"```json {""wikipedia_page"":""Aldo Finzi"", ""wikidata_id"":""Q1154197""} ```",17.947315216064453
+document_000457.html,14,21,Zerlina,NIL,PER,Q55759215,Zerlina,"```json { ""wikipedia_page"": ""Zerlina"", ""wikidata_id"": ""Q55759215"" } ```",12.668204307556152
+document_000457.html,32,43,Fra Diavolo,Q1440309,MISC,Q920642,Fra Diavolo,"```json {""wikipedia_page"":""Fra Diavolo"", ""wikidata_id"":""Q920642""} ```",12.512106895446777
+document_000458.html,3,8,Adria,NIL,ORG,Q34615,Adria,"```json {""wikipedia_page"": ""Adria"", ""wikidata_id"": ""Q34615""} ```",21.992149353027344
+document_000459.html,0,12,ll Cittadino,NIL,ORG,Q2259884,Il Cittadino,"```json {""wikipedia_page"":""Il Cittadino"", ""wikidata_id"":""Q2259884""} ```",21.486907958984375
+document_000459.html,14,28,Y Indipendente,NIL,ORG,Q16569703,L'Indipendente (Trieste),"```json {""wikipedia_page"":""L'Indipendente (Trieste)"", ""wikidata_id"":""Q16569703""} ```",19.388256072998047
+document_000459.html,64,72,il Soldo,NIL,ORG,Q1431762,soldo,"```json { ""wikipedia_page"": ""soldo"", ""wikidata_id"": ""Q1431762"" } ```",7.165126323699951
+document_000461.html,91,96,Chili,NIL,LOC,Q298,Cile,"```json {""wikipedia_page"":""Cile"", ""wikidata_id"":""Q298""} ```",11.429057121276855
+document_000461.html,170,186,teatro del Corso,Q21077427,LOC,Q183202,Teatro Regio,"```json {""wikipedia_page"":""Teatro Regio"", ""wikidata_id"":""Q183202""} ```",13.527658462524414
+document_000462.html,103,109,Italia,Q38,LOC,Q172579,Regno d'Italia,"```json {""wikipedia_page"": ""Regno d'Italia"", ""wikidata_id"": ""Q172579""} ```",18.476137161254883
+document_000462.html,221,246,teatro italiano di Parigi,NIL,LOC,Q1581237,Théâtre de la comédie italienne,"```json {""wikipedia_page"": ""Théâtre de la comédie italienne"", ""wikidata_id"": ""Q1581237""} ```",23.982379913330078
+document_000462.html,248,255,Teodora,NIL,MISC,Q204843,Teodora,"```json {""wikipedia_page"":""Teodora"", ""wikidata_id"":""Q204843""} ```",19.652751922607422
+document_000462.html,411,422,H. Méilhade,NIL,PER,Q723648,Henri Meilhac,"```json {""wikipedia_page"":""Henri Meilhac"", ""wikidata_id"":""Q723648""} ```",23.512563705444336
+document_000463.html,45,55,Barcellona,Q1492,LOC,Q42495,Barcellona Pozzo di Gotto,"```json {""wikipedia_page"": ""Barcellona Pozzo di Gotto"", ""wikidata_id"": ""Q42495""} ```",18.240707397460938
+document_000463.html,137,146,Carnevale,Q4618,MISC,NIL,Carnevale,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000464.html,9,24,Arte di Trieste,NIL,ORG,Q546,Trieste,"```json {""wikipedia_page"":""Trieste"", ""wikidata_id"":""Q546""} ```",26.2093563079834
+document_000465.html,126,139,Conservatorio,NIL,ORG,Q368820,Conservatorio di San Pietro a Majella,"```json {""wikipedia_page"":""Conservatorio di San Pietro a Majella"", ""wikidata_id"":""Q368820""} ```",19.34187889099121
+document_000471.html,33,51,Rossini di Livorno,NIL,LOC,Q3516750,Teatro Carlo Goldoni,"```json {""wikipedia_page"":""Teatro Carlo Goldoni"", ""wikidata_id"":""Q3516750""} ```",18.03749656677246
+document_000471.html,132,139,Salasso,NIL,PER,Q10248,Salassa,"```json { ""wikipedia_page"":""Salassa"", ""wikidata_id"":""Q10248"" } ```",15.327018737792969
+document_000472.html,2,6,Pisa,Q745951,LOC,Q13375,Pisa,"```json {""wikipedia_page"":""Pisa"", ""wikidata_id"":""Q13375""} ```",23.54966926574707
+document_000472.html,33,39,Auteri,Q3945947,PER,NIL,Auteri,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000472.html,72,81,Paoliceli,Q3847363,PER,NIL,Paoliceli,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+document_000472.html,102,110,Gautiero,NIL,PER,Q3778147,Gualtiero Tumiati,"```json { ""wikipedia_page"":""Gualtiero Tumiati"", ""wikidata_id"":""Q3778147""} ```",18.119609832763672
+document_000472.html,113,120,Massimi,NIL,PER,Q1907728,Massimo Massimi,"```json {""wikipedia_page"":""Massimo Massimi"", ""wikidata_id"":""Q1907728""} ```",16.01980209350586
+document_000473.html,114,120,Napoli,Q2634,LOC,Q628491,Teatro di San Carlo,"```json {""wikipedia_page"":""Teatro di San Carlo"", ""wikidata_id"":""Q628491""} ```",14.99848461151123
+document_000474.html,134,142,Ugonotti,Q466848,MISC,Q101935,ugonotti,"```json {""wikipedia_page"":""ugonotti"", ""wikidata_id"":""Q101935""} ```",11.171462059020996
+document_000476.html,98,109,Fra Diavole,Q1440309,MISC,Q3749192,Fra Diavolo,"```json {""wikipedia_page"":""Fra Diavolo"", ""wikidata_id"":""Q3749192""} ```",17.732128143310547
+document_000477.html,33,42,Sparapani,Q16699975,PER,NIL,Sparapani,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+document_000477.html,49,54,Lucia,Q244209,MISC,NIL,Lucia,"```json {""wikipedia_page"":"""",""wikidata_id"":""NIL""} ```",0
+document_000477.html,83,89,Masini,Q769771,PER,Q3757796,Galliano Masini,"```json { ""wikipedia_page"": ""Galliano Masini"", ""wikidata_id"": ""Q3757796"" } ```",14.168977737426758
+document_000477.html,91,97,Batris,Q963005,PER,NIL,Batris,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000477.html,103,112,Silvestri,NIL,PER,Q15429953,Giuseppe Silvestri,"```json { ""wikipedia_page"": ""Giuseppe Silvestri"", ""wikidata_id"": ""Q15429953"" } ```",18.97576141357422
+document_000477.html,139,144,Faust,NIL,MISC,Q745951,Faust,"```json {""wikipedia_page"":""Faust"", ""wikidata_id"":""Q745951""} ```",16.01663589477539
+document_000477.html,145,160,Doria di Genova,Q83471820,LOC,Q1528913,Società Ginnastica Andrea Doria,"```json {""wikipedia_page"": ""Società Ginnastica Andrea Doria"", ""wikidata_id"": ""Q1528913""} ```",15.42470645904541
+document_000478.html,34,41,Signore,NIL,PER,Q2366336,signore,"```json {""wikipedia_page"":""signore"", ""wikidata_id"":""Q2366336""} ```",4.912506580352783
+document_000478.html,97,114,Contessa è Amalfi,NIL,MISC,Q80563,Amalfi,"```json {""wikipedia_page"":""Amalfi"", ""wikidata_id"":""Q80563""} ```",7.396995544433594
+document_000479.html,42,52,Calderazzi,Q47650427,PER,NIL,Calderazzi,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+document_000479.html,165,170,Brogi,Q103024532,PER,Q3932619,Renato Brogi,"```json { ""wikipedia_page"": ""Renato Brogi"", ""wikidata_id"": ""Q3932619"" } ```",27.375450134277344
+document_000480.html,33,41,Favorite,Q467394,MISC,NIL,Favorite,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+document_000480.html,56,63,Novelli,Q5565209,PER,NIL,Novelli,"```json {""wikipedia_page"":""NIL"",""wikidata_id"":""NIL""} ```",0
+document_000481.html,84,92,De \eeri,Q3766640,PER,Q4156242,Sergio de Pieri,"```json {""wikipedia_page"": ""Sergio de Pieri"", ""wikidata_id"": ""Q4156242""} ```",13.206889152526855
+document_000483.html,91,104,Berta Pierson,NIL,PER,Q2906007,Blanche Pierson,"```json { ""wikipedia_page"": ""Blanche Pierson"", ""wikidata_id"": ""Q2906007"" } ```",17.018848419189453
+document_000484.html,21,26,Laura,NIL,PER,Q429948,Laura,"```json { ""wikipedia_page"": ""Laura"", ""wikidata_id"": ""Q429948"" } ```",12.73904800415039
+document_000484.html,151,156,Laura,NIL,PER,Q429948,Laura,"```json { ""wikipedia_page"": ""Laura"", ""wikidata_id"": ""Q429948"" } ```",11.275579452514648
+document_000486.html,115,124,Toresella,Q104384426,PER,NIL,Toresella,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+document_000486.html,139,147,Giordano,NIL,PER,Q294826,Umberto Giordano,"```json {""wikipedia_page"":""Umberto Giordano"", ""wikidata_id"":""Q294826""} ```",18.38998031616211
+document_000486.html,150,158,Barbieri,Q3724335,PER,NIL,Barbieri,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000487.html,174,178,Busi,Q11904863,PER,Q219551,Ferruccio Busoni,"```json {""wikipedia_page"":""Ferruccio Busoni"", ""wikidata_id"":""Q219551""} ```",20.71605110168457
+document_000488.html,14,28,Federico Sarti,Q92207778,PER,NIL,Federico Sarti,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0
+document_000488.html,145,155,Silvestri-,NIL,PER,Q15429953,Giuseppe Silvestri,"```json { ""wikipedia_page"": ""Giuseppe Silvestri"", ""wikidata_id"": ""Q15429953"" } ```",17.95536994934082
+document_000489.html,2,16,tratelli Corti,NIL,ORG,Q3952655,Scoiattoli di Cortina,"```json {""wikipedia_page"":""Scoiattoli di Cortina"", ""wikidata_id"":""Q3952655""} ```",9.063377380371094
+document_000489.html,174,180,Tofano,Q4461492,PER,Q982381,Sergio Tofano,"```json {""wikipedia_page"":""Sergio Tofano"", ""wikidata_id"":""Q982381""} ```",12.070106506347656
+document_000490.html,136,150,Felice ~Boghen,Q55225713,PER,Q1402955,Felice Bonomini,"```json {""wikipedia_page"":""Felice Bonomini"", ""wikidata_id"":""Q1402955""} ```",21.106754302978516
+document_000490.html,153,168,Francesco Corsi,NIL,PER,Q1440998,Francesco Corselli,"```json { ""wikipedia_page"": ""Francesco Corselli"", ""wikidata_id"": ""Q1440998"" } ```",30.258251190185547
+document_000490.html,254,261,Bologna,Q1891,LOC,Q131262,Università di Bologna,"```json {""wikipedia_page"":""Università di Bologna"", ""wikidata_id"":""Q131262""} ```",20.04755210876465
+document_000491.html,47,62,teatro Pagliano,Q3982191,LOC,NIL,teatro Pagliano,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0
+document_000492.html,95,100,Gabbi,Q15057396,PER,Q11931365,Leonilde Gabbi,"```json { ""wikipedia_page"": ""Leonilde Gabbi"", ""wikidata_id"": ""Q11931365"" } ```",26.24827766418457
+document_000494.html,0,14,Don Chisciotte,NIL,ORG,Q480,Don Chisciotte della Mancia,"```json {""wikipedia_page"": ""Don Chisciotte della Mancia"", ""wikidata_id"": ""Q480""} ```",27.915611267089844
+document_000495.html,20,25,Carpi,NIL,PER,Q3742889,Fernando Carpi,"```json { ""wikipedia_page"": ""Fernando Carpi"", ""wikidata_id"": ""Q3742889"" } ```",23.131555557250977
+document_000495.html,89,94,Carpi,NIL,PER,Q3725656,Enrico Campi,"```json {""wikipedia_page"":""Enrico Campi"", ""wikidata_id"":""Q3725656""} ```",19.946264266967773
+document_000495.html,32,37,Linda,Q669382,MISC,NIL,Linda,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000495.html,67,76,Commercio,NIL,ORG,Q309135,Corriere della Sera,"```json { ""wikipedia_page"": ""Corriere della Sera"", ""wikidata_id"": ""Q309135"" } ```",15.423028945922852
+document_000496.html,52,57,Carpi,NIL,PER,Q3725656,Enrico Campi,"```json { ""wikipedia_page"": ""Enrico Campi"", ""wikidata_id"": ""Q3725656"" } ```",17.783721923828125
+document_000496.html,245,250,Rieva,NIL,PER,Q22296181,Lino Jeva,"```json {""wikipedia_page"":""Lino Jeva"", ""wikidata_id"":""Q22296181""} ```",15.729557037353516
+document_000497.html,1,16,La Perseveranza,Q3821050,ORG,NIL,La Perseveranza,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000497.html,118,127,Il Secolo,Q126586,ORG,Q3792935,Il Secolo,"```json {""wikipedia_page"":""Il Secolo"", ""wikidata_id"":""Q3792935""} ```",20.939268112182617
+document_000498.html,0,10,Il Pungolo,NIL,ORG,Q7259995,,"```json {""wikipedia_page"":""Il Pungolo"", ""wikidata_id"":""Q7259995""} ```",15.906448364257812
+document_000499.html,9,22,De Franceschi,NIL,PER,Q3796496,Ilo De Franceschi,"```json { ""wikipedia_page"": ""Ilo De Franceschi"", ""wikidata_id"": ""Q3796496"" } ```",18.29437255859375
+document_000499.html,206,219,De Franceschi,NIL,PER,Q3605722,Adriano Franceschini,"```json { ""wikipedia_page"": ""Adriano Franceschini"", ""wikidata_id"": ""Q3605722"" } ```",22.82341766357422
+document_000499.html,61,78,Patria del Friuli,NIL,ORG,Q160570,Friuli,"```json {""wikipedia_page"": ""Friuli"", ""wikidata_id"": ""Q160570""} ```",12.882170677185059
+document_000502.html,0,15,Fanny Toresella,Q104384426,PER,NIL,Fanny Toresella,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000503.html,41,50,Toresella,Q104384426,PER,NIL,Toresella,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000504.html,23,32,Toresella,Q104384426,PER,NIL,Toresella,"```json {""wikipedia_page"":""NIL"",""wikidata_id"":""NIL""} ```",0
+document_000505.html,10,19,Toresella,Q104384426,PER,Q288040,Tonina Torrielli,"```json {""wikipedia_page"":""Tonina Torrielli"", ""wikidata_id"":""Q288040""} ```",17.379812240600586
+document_000505.html,126,134,bresella,Q104384426,PER,NIL,bresella,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000506.html,36,47,teatro novo,Q3982081,LOC,Q3982087,Teatro Nuovo Giovanni da Udine,"```json {""wikipedia_page"": ""Teatro Nuovo Giovanni da Udine"", ""wikidata_id"": ""Q3982087""} ```",19.612224578857422
+document_000506.html,134,138,Arte,NIL,ORG,Q735,arte,"```json {""wikipedia_page"":""arte"", ""wikidata_id"":""Q735""} ```",8.43681526184082
+document_000507.html,111,117,Carmen,Q185968,MISC,Q674832,Carmen,"```json {""wikipedia_page"": ""Carmen"", ""wikidata_id"": ""Q674832""} ```",14.631244659423828
+document_000507.html,288,293,Borbe,Q3732024,PER,NIL,Borbe,"```json {""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL""} ```",0
+document_000507.html,350,360,seguidilla,NIL,MISC,Q1973457,seguidilla,"```json {""wikipedia_page"":""seguidilla"", ""wikidata_id"":""Q1973457""} ```",12.480905532836914
+document_000507.html,361,372,dt Siviglia,NIL,MISC,Q8717,Siviglia,"```json {""wikipedia_page"":""Siviglia"", ""wikidata_id"":""Q8717""} ```",10.455585479736328
+document_000508.html,55,64,Nagherita,Q83471820,LOC,NIL,Nagherita,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000509.html,22,29,Salassa,NIL,PER,Q10248,Salassa,"```json {""wikipedia_page"":""Salassa"", ""wikidata_id"":""Q10248""} ```",18.773887634277344
+document_000509.html,106,112,Boasso,NIL,PER,Q5995733,Marcello Boasso,"```json {""wikipedia_page"":""Marcello Boasso"", ""wikidata_id"":""Q5995733""} ```",10.85917854309082
+document_000510.html,64,91,Politeama Regina Margherita,Q83471820,LOC,Q46499349,Teatro Regina Margherita,"```json {""wikipedia_page"":""Teatro Regina Margherita"", ""wikidata_id"":""Q46499349""} ```",21.553239822387695
+document_000512.html,23,28,Epoca,NIL,ORG,Q3818003,L'Epoca,"```json {""wikipedia_page"":""L'Epoca"", ""wikidata_id"":""Q3818003""} ```",16.880563735961914
+document_000513.html,25,31,Stagno,Q468958,PER,NIL,Stagno,"```json {""wikipedia_page"":"""",""wikidata_id"":""NIL""} ```",0
+document_000518.html,109,131,Margherita Delle Sedie,NIL,PER,Q3725732,Enrico Delle Sedie,"```json {""wikipedia_page"":""Enrico Delle Sedie"", ""wikidata_id"":""Q3725732""} ```",23.118995666503906
+document_000520.html,17,31,Capitale russa,Q656,LOC,Q649,Mosca,"```json {""wikipedia_page"":""Mosca"", ""wikidata_id"":""Q649""} ```",18.955303192138672
+document_000520.html,93,101,Pogliani,NIL,PER,Q98529022,Giuseppe Pogliani,"```json {""wikipedia_page"":""Giuseppe Pogliani"", ""wikidata_id"":""Q98529022""} ```",28.161643981933594
+document_000521.html,16,27,Bellincioni,Q289629,PER,Q3839320,Luigi Bellincioni,"```json {""wikipedia_page"":""Luigi Bellincioni"", ""wikidata_id"":""Q3839320""} ```",18.706573486328125
+document_000521.html,39,45,Vigley,NIL,PER,Q22397,Vigy,"```json {""wikipedia_page"":""Vigy"", ""wikidata_id"":""Q22397""} ```",12.944658279418945
+document_000521.html,46,52,Vivigy,NIL,PER,Q22397,Vigy,"```json {""wikipedia_page"":""Vigy"", ""wikidata_id"":""Q22397""} ```",13.598328590393066
+document_000521.html,132,138,Agnila,Q3476,LOC,NIL,Agnila,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0
+document_000522.html,76,81,Lucia,Q244209,MISC,Q1160640,Lucia,"```json {""wikipedia_page"":""Lucia"", ""wikidata_id"":""Q1160640""} ```",7.963398456573486
+document_000522.html,181,206,Municipale di Alessandria,NIL,LOC,Q16586419,Palazzo del Municipio,"```json {""wikipedia_page"": ""Palazzo del Municipio"", ""wikidata_id"":""Q16586419""} ```",14.883443832397461
+document_000523.html,46,60,teatro Manzoni,Q3982043,LOC,Q3982039,Teatro Lirico,"```json { ""wikipedia_page"": ""Teatro Lirico"", ""wikidata_id"": ""Q3982039"" } ```",18.64581871032715
+document_000524.html,13,19,Ravogl,Q75981316,PER,Q1178,Maurice Ravel,"```json {""wikipedia_page"":""Maurice Ravel"", ""wikidata_id"":""Q1178""} ```",14.160091400146484
+document_000524.html,81,88,Carinen,Q185968,MISC,Q854843,Kamarina,"```json { ""wikipedia_page"": ""Kamarina"", ""wikidata_id"": ""Q854843"" } ```",8.283275604248047
+document_000524.html,120,127,Manzoni,Q3982043,LOC,Q1064,Alessandro Manzoni,"```json {""wikipedia_page"":""Alessandro Manzoni"", ""wikidata_id"":""Q1064""} ```",15.969023704528809
+document_000524.html,155,169,Regina di Saba,Q1314372,MISC,Q159888,Regina di Saba,"```json {""wikipedia_page"":""Regina di Saba"", ""wikidata_id"":""Q159888""} ```",10.83886432647705
+document_000524.html,178,184,Borgia,Q685501,MISC,Q237599,Borgia,"```json {""wikipedia_page"":""Borgia"", ""wikidata_id"":""Q237599""} ```",13.913175582885742
+document_000524.html,213,224,Bellincioni,Q289629,PER,NIL,Bellincioni,"```json {""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL""} ```",0
+document_000525.html,2,13,Pletroburgo,Q656,LOC,Q5542,Plettenberg,"```json { ""wikipedia_page"": ""Plettenberg"", ""wikidata_id"": ""Q5542"" } ```",13.007647514343262
+document_000526.html,109,116,Favotti,NIL,PER,Q56308459,Fabio Favilli,"```json {""wikipedia_page"":""Fabio Favilli"", ""wikidata_id"":""Q56308459""} ```",17.638166427612305
+document_000528.html,80,85,Carpi,NIL,PER,Q3072743,Fiorenzo Carpi,"```json {""wikipedia_page"":""Fiorenzo Carpi"", ""wikidata_id"":""Q3072743""} ```",20.302875518798828
+document_000528.html,103,127,Filodranmatico di Milano,Q3982263,LOC,Q3603990,Accademia dei Filodrammatici,"```json {""wikipedia_page"": ""Accademia dei Filodrammatici"", ""wikidata_id"": ""Q3603990""} ```",15.743581771850586
+document_000529.html,4,13,Argentina,Q588377,LOC,Q414,Argentina,"```json {""wikipedia_page"":""Argentina"", ""wikidata_id"":""Q414""} ```",16.066720962524414
+document_000529.html,93,98,Gnone,NIL,PER,Q3992777,Tommaso Gnone,"```json {""wikipedia_page"":""Tommaso Gnone"", ""wikidata_id"":""Q3992777""} ```",9.983050346374512
+document_000530.html,51,56,Gomes,Q1635210,PER,Q263855,Antônio Carlos Gomes,"```json {""wikipedia_page"":""Antônio Carlos Gomes"", ""wikidata_id"":""Q263855""} ```",26.651098251342773
+document_000530.html,131,145,Alfredo Zonghi,NIL,PER,Q2835634,Alfredo Sangiorgi,"```json { ""wikipedia_page"": ""Alfredo Sangiorgi"", ""wikidata_id"": ""Q2835634"" } ```",34.12984085083008
+document_000532.html,52,70,Municipio di Fermo,NIL,LOC,Q13139,Fermo,"```json {""wikipedia_page"":""Fermo"", ""wikidata_id"":""Q13139""} ```",28.98272132873535

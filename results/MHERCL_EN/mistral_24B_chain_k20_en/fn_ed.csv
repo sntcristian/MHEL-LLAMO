@@ -1,0 +1,683 @@
+doc_id,start_pos,end_pos,surface,type,identifier
+document_000000.html,0,8,Gavinies,PER,Q490205
+document_000001.html,58,74,Lord Chamberlain,PER,Q541755
+document_000008.html,0,16,Benzamin Rogenrs,PER,Q18546476
+document_000008.html,62,69,Windsor,LOC,Q464955
+document_000012.html,45,55,Birmingham,LOC,Q2256
+document_000014.html,0,9,Mr. Mocre,PER,Q315346
+document_000014.html,86,96,Mr. Bishop,PER,Q1200639
+document_000017.html,0,6,Rameau,PER,Q1145
+document_000019.html,12,22,H. Lazarus,PER,Q5724751
+document_000019.html,61,70,J. Thomas,PER,Q1701921
+document_000020.html,0,7,Batiste,PER,Q274231
+document_000024.html,21,34,Musicat Timzs,ORG,Q1757371
+document_000025.html,27,41,Earl of Cawdor,PER,Q6224952
+document_000028.html,85,96,M. Eberwein,PER,Q215521
+document_000029.html,73,87,Hymn of Praise,MISC,Q210536
+document_000031.html,49,60,Louis Dien1,PER,Q19900926
+document_000031.html,23,31,SPINDLER,PER,NIL
+document_000032.html,34,39,Weber,PER,Q154812
+document_000032.html,43,51,Preciosa,MISC,NIL
+document_000035.html,14,23,A. Hunter,ORG,Q105564139
+document_000036.html,17,32,Tavistock Place,LOC,Q7689129
+document_000037.html,111,119,Sirletti,PER,Q102283903
+document_000037.html,121,127,Asioli,PER,Q892563
+document_000037.html,133,140,Pollini,PER,Q1351579
+document_000048.html,88,96,Antigono,MISC,NIL
+document_000048.html,159,175,court of Dresden,ORG,NIL
+document_000049.html,75,85,Harmonicon,MISC,Q7738918
+document_000051.html,73,80,Martini,PER,Q283651
+document_000052.html,38,46,Danaides,MISC,Q1751750
+document_000055.html,59,72,Cork Barracks,LOC,Q5147345
+document_000055.html,74,81,Ireland,LOC,Q22890
+document_000057.html,49,62,Dr. Kitchiner,PER,NIL
+document_000058.html,147,159,L’Abbe Guyon,PER,Q2976789
+document_000060.html,35,42,Grisias,PER,Q287344
+document_000060.html,62,70,Pasquale,MISC,Q723941
+document_000062.html,131,144,Theatre Royal,LOC,Q7777436
+document_000064.html,23,43,English church music,MISC,Q4763552
+document_000065.html,42,62,Sir Thomas Gladstone,PER,Q7529140
+document_000068.html,57,66,Admiralty,ORG,Q396266
+document_000070.html,45,50,Italy,LOC,Q38
+document_000074.html,83,94,Chamberlain,PER,Q541755
+document_000076.html,0,14,Cantate Domino,MISC,Q1326476
+document_000076.html,19,34,Deus Misereatur,MISC,Q1689664
+document_000080.html,27,42,Signor Liverati,PER,Q3767573
+document_000081.html,14,23,Jarnowick,PER,Q1526160
+document_000085.html,19,28,Cambridge,LOC,Q350
+document_000085.html,0,15,Musical Society,ORG,NIL
+document_000087.html,0,24,The Philharmonic Society,ORG,Q1292443
+document_000089.html,1,22,Qui est Rex Gloriosus,MISC,NIL
+document_000090.html,143,152,Cambridge,LOC,Q350
+document_000092.html,117,137,Viscount Fitzwilliam,PER,Q7325692
+document_000094.html,58,65,Norwich,MISC,Q11991993
+document_000094.html,66,79,Musical Union,MISC,Q11991993
+document_000100.html,103,124,Mr. Sterndale Bennett,PER,Q201164
+document_000103.html,11,23,Ettore Fiori,PER,Q55912552
+document_000105.html,57,64,Verceil,LOC,Q5990
+document_000106.html,0,9,Thornhill,PER,Q1681192
+document_000106.html,50,55,Prior,PER,NIL
+document_000107.html,108,122,Grosvenor Hall,LOC,Q5610643
+document_000107.html,41,65,Grosvenor Choral Society,ORG,NIL
+document_000110.html,125,140,Theodore Distin,PER,Q76098551
+document_000111.html,105,144,Almanach général de tous les spectacles,MISC,Q3235618
+document_000113.html,0,9,Mrs. Shaw,PER,Q3291051
+document_000114.html,1,43,Lives of the Professors of Gresham College,MISC,NIL
+document_000115.html,5,15,Saltarello,MISC,not in Wikidata
+document_000119.html,29,35,London,LOC,Q84
+document_000119.html,37,41,Bath,LOC,Q22889
+document_000119.html,47,54,Bristol,LOC,Q23154
+document_000120.html,113,118,Italy,LOC,Q38
+document_000121.html,47,60,Chapels Royal,ORG,Q1062692
+document_000124.html,86,96,Cannobiano,LOC,Q3982039
+document_000129.html,85,94,Gasparini,PER,Q446955
+document_000132.html,67,73,Gounod,PER,Q180278
+document_000133.html,69,74,Italy,LOC,Q38
+document_000134.html,51,57,London,LOC,Q84
+document_000135.html,5,11,Adagio,MISC,NIL
+document_000137.html,57,73,Pio Glanchettini,PER,Q18819786
+document_000141.html,103,109,Naples,LOC,Q2634
+document_000142.html,60,67,Messiah,MISC,Q207732
+document_000144.html,0,15,Mr. Kalkbrenner,PER,Q170270
+document_000145.html,55,60,Pagin,PER,Q516496
+document_000145.html,62,70,Gavinies,PER,Q490205
+document_000145.html,105,121,Dominico Ferrari,PER,Q1237139
+document_000145.html,81,91,Gi- ardini,PER,NIL
+document_000149.html,97,105,Bradford,LOC,Q22905
+document_000153.html,48,55,Marsala,LOC,Q481514
+document_000154.html,44,57,Miss Stephens,PER,Q5052928
+document_000155.html,33,46,Mr. H. Keeton,PER,Q1438256
+document_000156.html,77,92,Marian Williams,PER,NIL
+document_000158.html,30,36,Berliz,LOC,Q64
+document_000159.html,99,110,Mr. Clifton,PER,Q6224338
+document_000159.html,112,122,Mr. Crouch,PER,NIL
+document_000160.html,6,13,Barbaja,PER,Q908235
+document_000165.html,0,17,Signor Sabastiani,PER,Q109802688
+document_000170.html,0,8,M. Spohr,PER,Q57226
+document_000171.html,79,88,Beethoven,PER,Q255
+document_000177.html,0,8,Grazioli,PER,Q1525873
+document_000178.html,46,59,Newnham Croft,LOC,Q7018643
+document_000182.html,64,69,Valli,LOC,Q1109934
+document_000183.html,39,49,John Parry,PER,Q3399352
+document_000184.html,39,53,Trinity Chapel,LOC,Q7842633
+document_000186.html,49,59,Dr. Bridge,PER,Q5497415
+document_000187.html,120,125,psalm,MISC,Q41064
+document_000189.html,50,62,Madame Pasta,PER,Q240963
+document_000189.html,66,85,Mademoiselle Sontag,PER,Q64098
+document_000190.html,73,81,Caffiaux,PER,NIL
+document_000191.html,4,16,Philharmonic,ORG,NIL
+document_000192.html,0,6,Ramsay,PER,Q654775
+document_000194.html,38,71,National Training School of Music,ORG,Q55082727
+document_000195.html,21,45,Rotenbourg sur le Tauber,LOC,Q153494
+document_000195.html,50,59,Franconia,LOC,Q150907
+document_000196.html,131,138,England,LOC,Q21
+document_000197.html,3,20,Mr. Willert Beale,PER,Q7795125
+document_000198.html,0,9,Dr. Barry,PER,NIL
+document_000200.html,34,40,Handel,PER,Q7302
+document_000201.html,55,60,China,LOC,Q148
+document_000203.html,45,54,Macfarren,PER,Q1374708
+document_000203.html,34,43,S. Glover,PER,NIL
+document_000204.html,59,71,Dr. Sullivan,PER,NIL
+document_000205.html,55,74,Mr. William Laidlaw,PER,Q8014247
+document_000207.html,59,65,Capron,PER,Q120697
+document_000209.html,80,97,Maestro del Fante,PER,Q18416097
+document_000210.html,62,73,Alfred Shaw,PER,Q3291051
+document_000210.html,122,134,J. Isherwood,PER,NIL
+document_000215.html,51,57,LONDON,LOC,Q84
+document_000222.html,48,58,M. Chelard,PER,Q924686
+document_000223.html,54,65,Marie Duval,PER,NIL
+document_000224.html,40,44,King,LOC,Q1155331
+document_000224.html,47,54,Theatre,LOC,Q1155331
+document_000226.html,71,90,Dr. H. J. Gauntlett,PER,Q11925412
+document_000227.html,60,69,G. Darley,PER,Q1450149
+document_000227.html,99,111,Fanny Steers,PER,Q104234927
+document_000228.html,70,79,Louis XIV,PER,NIL
+document_000231.html,23,37,Miss Rainforth,PER,Q17355767
+document_000237.html,0,10,Lord Bacon,PER,Q37388
+document_000237.html,12,19,Addison,PER,Q206384
+document_000238.html,10,37,St. Mary - at - Hill Church,LOC,Q7594548
+document_000241.html,39,46,Society,ORG,NIL
+document_000242.html,37,51,theatre Favart,LOC,Q872222
+document_000246.html,50,56,Fenton,LOC,NIL
+document_000246.html,58,66,Abesford,LOC,NIL
+document_000247.html,35,56,Il Crociato in Egitto,MISC,Q467399
+document_000248.html,4,8,York,LOC,Q42462
+document_000249.html,2,26,Mrs. Mounsey Bartholomew,PER,Q4766585
+document_000249.html,66,81,Brinley Richard,PER,Q4850963
+document_000250.html,0,6,Sontag,PER,Q64098
+document_000250.html,26,34,Brussels,LOC,Q9005
+document_000253.html,29,45,Lord Chamberlain,PER,Q541755
+document_000254.html,0,10,Mr. Linley,PER,Q5541748
+document_000259.html,64,98,National Training School for Music,ORG,Q55082727
+document_000260.html,0,5,Grisi,PER,Q287344
+document_000262.html,67,83,Societa Armonica,ORG,NIL
+document_000267.html,42,62,CHARLES JOSEPH FROST,PER,Q94766323
+document_000269.html,73,80,Paccini,PER,Q357022
+document_000272.html,13,30,Ciro riconosciuto,MISC,Q18325000
+document_000275.html,39,51,Madame Pasta,PER,Q240963
+document_000276.html,156,166,Mr. Bishop,PER,Q1200639
+document_000279.html,44,49,Capua,LOC,Q58477
+document_000280.html,40,61,Chevalier de Lorraine,PER,Q916954
+document_000281.html,51,60,Schneider,PER,Q213906
+document_000281.html,62,67,Loewe,PER,Q158899
+document_000282.html,0,5,Ferri,PER,Q804749
+document_000282.html,22,30,Guadagni,PER,Q3094278
+document_000282.html,80,98,cross of Calatrava,ORG,Q756910
+document_000282.html,239,245,Athens,LOC,Q1524
+document_000283.html,78,92,Crystal Palace,LOC,Q202902
+document_000284.html,22,37,Madame Caradori,PER,Q16065895
+document_000284.html,42,64,Mademoiselle Brambilla,PER,Q3847905
+document_000284.html,80,95,Signors Curioni,PER,Q87346693
+document_000287.html,84,99,Rev. Mr. Liston,PER,Q5724966
+document_000289.html,45,62,Adelaide Phillips,PER,Q4681758
+document_000290.html,36,47,the Passion,MISC,Q237382
+document_000291.html,0,6,Varesi,PER,Q102075928
+document_000292.html,0,22,Michel Richard Lalande,PER,Q312979
+document_000292.html,52,57,Rebel,PER,NIL
+document_000294.html,30,46,Miss Edith Wynne,PER,Q7422270
+document_000294.html,62,71,Mr. Lloyd,PER,Q5344187
+document_000294.html,76,87,Mr. Santley,PER,Q521746
+document_000295.html,93,102,Spectator,ORG,Q1790750
+document_000297.html,46,56,Mr. Cowper,PER,Q315537
+document_000309.html,49,69,Dr. Clarke Whitfield,PER,Q6226247
+document_000314.html,54,64,Rudolstadt,LOC,Q517107
+document_000315.html,75,90,Mr. T. M. Mudie,PER,Q18577092
+document_000316.html,74,92,Her Royal Highness,PER,Q61328
+document_000317.html,38,64,the Italian Improvisiatori,MISC,Q6007897
+document_000318.html,41,50,Cambridge,LOC,Q350
+document_000319.html,17,29,Boyton Smith,PER,Q110136517
+document_000319.html,45,57,W. G. Cusins,PER,Q4208355
+document_000319.html,59,74,E. M. Delaborde,PER,NIL
+document_000319.html,99,111,E. H. Turpin,PER,NIL
+document_000319.html,159,175,J. E. Richardson,PER,NIL
+document_000319.html,198,209,J. Tilleard,PER,NIL
+document_000321.html,0,11,Crescentini,PER,Q552124
+document_000321.html,48,69,conservatory of Peris,ORG,Q463055
+document_000323.html,46,74,Prince de la Tour d’Auvergne,PER,Q3132295
+document_000323.html,80,98,Dake of Manchester,PER,Q860041
+document_000323.html,100,108,Mr. Mure,PER,NIL
+document_000324.html,30,46,Messrs. Clementi,PER,Q193673
+document_000324.html,62,68,Braham,PER,Q1699393
+document_000325.html,170,179,Marschner,PER,Q160063
+document_000325.html,195,201,Herold,PER,Q362639
+document_000327.html,7,16,C. Morgan,PER,NIL
+document_000333.html,4,21,Fitzwilliam Music,MISC,Q1421448
+document_000338.html,43,55,M. Tolbeeque,PER,Q2871419
+document_000339.html,25,39,Choral Society,ORG,NIL
+document_000342.html,16,25,Edward I.,PER,Q57798
+document_000343.html,0,8,Mestrino,PER,Q1984708
+document_000344.html,160,171,Lord Dudley,PER,Q8019995
+document_000346.html,0,5,Cupis,PER,Q1684628
+document_000347.html,43,49,Mozart,PER,Q254
+document_000348.html,44,57,Covent Garden,LOC,Q55018
+document_000348.html,61,71,Drury Lane,LOC,Q1756626
+document_000349.html,13,35,G. and W. B. Whittaker,ORG,Q19862364
+document_000351.html,0,13,Dr. Harington,PER,Q18671401
+document_000353.html,48,57,Helmstadt,LOC,Q504431
+document_000355.html,83,99,Academy of Music,ORG,Q4671497
+document_000357.html,27,36,Shakspere,PER,Shakspere
+document_000358.html,154,168,Signer -Monari,PER,Q3680460
+document_000361.html,34,44,Veisailles,LOC,Q621
+document_000363.html,144,150,Oxford,LOC,Q34217
+document_000365.html,4,21,Duke of Edinburgh,PER,Q158143
+document_000366.html,105,112,Bennett,PER,Q201164
+document_000371.html,51,61,Rubinstein,PER,Q87567
+document_000374.html,3,20,Pastoral Symphony,MISC,Q246433
+document_000377.html,23,41,Duke of Cumberland,PER,Q162302
+document_000378.html,37,50,Archbishop of,PER,Q3048710
+document_000378.html,51,55,York,LOC,Q42462
+document_000379.html,48,59,Mr. J. Lunn,PER,Q16198956
+document_000380.html,46,66,Leopoldstadt theatre,LOC,Q255887
+document_000382.html,29,35,Gnecco,PER,Q1121021
+document_000390.html,112,119,Bristol,LOC,Q23154
+document_000393.html,0,13,National Hymn,MISC,Q40807
+document_000394.html,27,43,Achille in Sciro,MISC,Q18280239
+document_000394.html,86,97,J Olympiade,MISC,NIL
+document_000395.html,14,21,Clifton,LOC,Q2376216
+document_000396.html,87,92,Baden,LOC,Q4100
+document_000397.html,0,9,Dr. Sponr,PER,Q57226
+document_000398.html,151,165,Der Freischutz,MISC,Q156435
+document_000400.html,21,30,Canticles,MISC,Q51670
+document_000400.html,48,72,His Grace the Archbishop,PER,Q377308
+document_000400.html,76,80,York,LOC,Q42462
+document_000401.html,58,63,Paris,LOC,Q90
+document_000402.html,79,92,Musical World,MISC,Q115925788
+document_000405.html,0,13,Mr. Kiallmark,PER,Q18671297
+document_000408.html,45,55,Mr. Waters,PER,Q16859200
+document_000409.html,20,36,Mr. E. J. Bilton,PER,Q110966934
+document_000409.html,55,64,Cambridge,LOC,Q350
+document_000410.html,16,29,Francis Fowke,PER,NIL
+document_000410.html,39,51,Sir W. Jones,PER,NIL
+document_000411.html,32,41,Meiningen,LOC,Q487278
+document_000414.html,63,67,Hall,LOC,NIL
+document_000417.html,31,38,America,LOC,Q30
+document_000418.html,138,150,Skating Rink,LOC,NIL
+document_000420.html,10,24,the Elf - King,MISC,NIL
+document_000421.html,98,106,Mestrino,PER,Q1984708
+document_000423.html,112,129,St. Benet - place,LOC,Q130590
+document_000424.html,0,17,Fabio Constantini,PER,Q3737659
+document_000424.html,87,104,chapel of Loretto,LOC,Q654996
+document_000428.html,36,41,York.,LOC,Q1984708
+document_000428.html,32,35,New,LOC,New
+document_000429.html,0,6,Seguin,PER,NIL
+document_000430.html,46,64,Duke of Cumberland,PER,Q162302
+document_000432.html,0,13,M. Le- vassor,PER,Q3385954
+document_000433.html,49,71,Royal Society of Musi-,ORG,Q7374846
+document_000440.html,41,62,Mass for Eight Voices,MISC,Q723790
+document_000442.html,0,7,Society,ORG,NIL
+document_000446.html,23,36,Nunc dimittis,MISC,NIL
+document_000448.html,0,9,Battimore,LOC,Q5092
+document_000451.html,124,144,Prince of Swartzburg,PER,Q832878
+document_000453.html,109,117,St. Mark,LOC,Q172988
+document_000454.html,0,9,Mr. Manns,PER,Q4820769
+document_000457.html,0,14,Miss Rainforth,PER,Q17355767
+document_000459.html,78,87,C. Wilson,PER,NIL
+document_000461.html,26,36,MISS DOLBY,PER,Q4164386
+document_000461.html,41,68,FELIX MENDELLSOAN BARTHOLDY,PER,Q46096
+document_000464.html,23,34,The Pirates,MISC,Q7757254
+document_000464.html,61,78,The Haunted Tower,MISC,Q85807416
+document_000466.html,56,62,Prowse,ORG,Q16988845
+document_000467.html,32,42,Miss Paton,PER,Q16888398
+document_000467.html,77,99,Mademoiselle Brambilla,PER,Q3984276
+document_000469.html,46,62,Jupiter Symphony,MISC,Q232367
+document_000470.html,56,70,Mrs. Moscheles,PER,Q159551
+document_000471.html,93,131,His Royal Highness the Prince of Wales,PER,Q20875
+document_000473.html,2,18,Pastoral Cantata,MISC,NIL
+document_000476.html,33,39,Coccia,PER,NIL
+document_000478.html,0,6,Gloria,MISC,NIL
+document_000478.html,7,9,in,MISC,NIL
+document_000478.html,60,74,Mass Fantasias,MISC,NIL
+document_000481.html,84,97,F. O. Stevens,PER,NIL
+document_000482.html,51,58,Himlaya,LOC,Q5451
+document_000486.html,38,49,Zauberfiote,MISC,Q5064
+document_000486.html,54,65,Massaniello,MISC,Q470773
+document_000488.html,51,55,City,LOC,Q84
+document_000494.html,68,78,Great Room,LOC,NIL
+document_000495.html,0,6,Braham,PER,Q5231664
+document_000496.html,34,52,Sir Fohn Stevenson,PER,Q4442571
+document_000499.html,89,112,his Majesty the Emperor,PER,Q76555
+document_000505.html,0,7,Eichner,PER,Q473837
+document_000506.html,0,10,Mr. Cramer,PER,Q455212
+document_000507.html,21,29,Angelica,MISC,NIL
+document_000509.html,54,67,Messrs. Lewis,PER,NIL
+document_000510.html,17,40,Joseph and his Brethren,MISC,Q3184458
+document_000511.html,60,69,Mr. Pixis,PER,Q571716
+document_000516.html,37,50,Thomas Haynes,PER,Q7790528
+document_000519.html,4,13,Impromptu,MISC,Q7912616
+document_000523.html,61,76,Thomas Campbell,PER,Q1361189
+document_000523.html,151,157,Ramsay,PER,Q654775
+document_000523.html,159,167,Hamilton,PER,Q18671568
+document_000523.html,169,176,Thomson,PER,Q5545192
+document_000525.html,133,141,Endymion,MISC,NIL
+document_000528.html,34,40,London,LOC,Q84
+document_000529.html,0,11,M. Barriere,PER,Q726908
+document_000531.html,85,91,Europe,LOC,Q46
+document_000537.html,0,8,Philidor,PER,Q362339
+document_000539.html,144,162,Theatre Montausier,LOC,NIL
+document_000541.html,33,38,Court,ORG,NIL
+document_000543.html,25,37,M. Siismayer,PER,Q310518
+document_000543.html,74,83,Breitkopf,PER,Q55902416
+document_000547.html,272,291,Royal Italian Opera,ORG,Q55018
+document_000548.html,22,48,Princess Belmonte Spinelli,PER,Q23010905
+document_000550.html,71,92,Conservatory of Music,ORG,Q1439627
+document_000553.html,37,47,M. Jullien,PER,Q660539
+document_000555.html,38,49,J ohn Ebers,PER,Q6231101
+document_000557.html,85,111,Academie Royale de Musique,ORG,Q283339
+document_000558.html,36,46,Mr. Mellor,PER,NIL
+document_000560.html,96,102,Rubini,PER,Q941040
+document_000560.html,125,133,Graziani,PER,NIL
+document_000561.html,82,89,Musical,ORG,Q1757371
+document_000561.html,90,95,Times,ORG,Q1757371
+document_000570.html,80,85,Egypt,LOC,Q79
+document_000572.html,25,32,Feydeau,LOC,Q825805
+document_000572.html,129,145,Charles Duvernoy,PER,Q1064184
+document_000572.html,116,124,Frederic,PER,NIL
+document_000573.html,23,41,Mademoiselle Pasta,PER,Q240963
+document_000578.html,16,22,Stiick,MISC,Q2654296
+document_000580.html,37,52,Arthur O’ Leary,PER,Q17984779
+document_000580.html,69,85,Brinley Richards,PER,Q4850963
+document_000586.html,67,74,Telford,PER,NIL
+document_000590.html,0,9,Mr. Ebers,PER,Q6231101
+document_000596.html,31,45,Trinity Church,LOC,Q5886537
+document_000597.html,0,24,Antoine Barthelemi Bruni,PER,Q599823
+document_000598.html,11,19,de Lucca,PER,NIL
+document_000598.html,54,59,Cirio,PER,NIL
+document_000598.html,64,71,Guarino,PER,NIL
+document_000603.html,66,72,Severn,PER,NIL
+document_000604.html,12,22,Palestrina,LOC,Q243133
+document_000604.html,53,63,Palestrina,LOC,Q243133
+document_000604.html,69,78,Preeneste,LOC,Q243133
+document_000610.html,72,93,Stabat mater dolorosa,MISC,NIL
+document_000612.html,50,56,France,LOC,Q142
+document_000614.html,42,55,Miss Stephens,PER,Q5052928
+document_000614.html,57,70,Signor Garcia,PER,NIL
+document_000614.html,101,109,Phillips,PER,NIL
+document_000615.html,56,66,Mr. Braham,PER,Q1699393
+document_000616.html,74,86,W. Eavestaff,PER,NIL
+document_000619.html,95,115,Westminster Aquarium,LOC,Q7373667
+document_000620.html,51,59,La Pieta,ORG,Q3687237
+document_000620.html,79,96,Licéo Filarmonico,ORG,Q368820
+document_000628.html,54,58,Bach,PER,Q1339
+document_000628.html,80,87,Bennett,PER,Q201164
+document_000628.html,99,106,Martini,PER,Q283651
+document_000638.html,139,145,Greece,LOC,Q41
+document_000638.html,150,154,Rome,LOC,Q220
+document_000640.html,73,89,Hanover - street,LOC,NIL
+document_000641.html,32,52,Copyright Commission,ORG,NIL
+document_000646.html,0,5,Furno,PER,Q555808
+document_000647.html,54,69,Egmont Overture,MISC,Q1156413
+document_000648.html,91,110,English Opera House,LOC,Q55018
+document_000649.html,0,2,B.,PER,NIL
+document_000653.html,91,101,Mr. Taylor,PER,NIL
+document_000654.html,30,36,Kéchel,PER,Q78529
+document_000655.html,32,41,Brunswick,LOC,Q2773
+document_000656.html,71,85,Mr. John Parry,PER,Q6251987
+document_000656.html,12,23,Miss Flower,PER,NIL
+document_000665.html,88,114,Academie Royale de Musique,ORG,Q283339
+document_000667.html,18,34,Signor de Beguis,PER,Q3770409
+document_000667.html,49,63,Eugenius Roche,PER,Q17015704
+document_000669.html,36,51,String Quintett,MISC,Q3133298
+document_000670.html,29,40,L’Olimpiade,MISC,Q1225668
+document_000670.html,45,55,Demofoonte,MISC,Q3022187
+document_000670.html,73,89,Giu riconosciuto,MISC,NIL
+document_000671.html,12,22,Symphonyin,MISC,Q260957
+document_000671.html,67,68,A,MISC,Q260957
+document_000671.html,24,25,",",MISC,Q260957
+document_000671.html,30,31,",",MISC,Q260957
+document_000671.html,54,55,",",MISC,Q260957
+document_000671.html,60,79,Mr. G. A. Maclarren,PER,Q1374708
+document_000672.html,29,49,Mr. Walter Macfarren,PER,Q18954633
+document_000673.html,33,48,Catholic Clergy,ORG,Q1195138
+document_000676.html,39,45,Cramer,PER,Q455212
+document_000678.html,29,35,Boston,LOC,Q100
+document_000679.html,25,31,Venice,LOC,Q641
+document_000680.html,4,21,Fitzwilliam Music,MISC,Q1421448
+document_000682.html,49,62,Madame Brooke,PER,NIL
+document_000684.html,0,6,Haranc,PER,NIL
+document_000687.html,0,9,M. Danjou,PER,Q444728
+document_000690.html,69,74,Egypt,LOC,Q79
+document_000691.html,19,29,Dr. Burney,PER,Q547002
+document_000691.html,147,165,Signor Santar elli,PER,Q5565524
+document_000693.html,85,91,France,LOC,Q142
+document_000694.html,27,35,Preciosa,MISC,NIL
+document_000697.html,39,50,Exeter Hall,ORG,Q81173
+document_000699.html,96,119,Santa Maria ad Martyras,LOC,Q99309
+document_000701.html,41,53,J. Moscheles,PER,Q159551
+document_000702.html,146,154,Cornhill,LOC,Q1782039
+document_000702.html,247,261,United Kingdom,LOC,Q145
+document_000703.html,27,29,M.,PER,Q289996
+document_000703.html,30,33,Ozi,PER,Q289996
+document_000710.html,165,174,Dr. Dykes,PER,Q3269824
+document_000712.html,73,83,Drury Lane,LOC,Q1756626
+document_000713.html,0,9,M. Choron,PER,Q1392901
+document_000714.html,67,76,Jarnowick,PER,Q1526160
+document_000714.html,85,91,France,LOC,Q142
+document_000715.html,150,156,Vienna,LOC,Q1741
+document_000715.html,193,199,Naples,LOC,Q2634
+document_000716.html,70,79,Mr. Neate,PER,Q18526894
+document_000716.html,88,101,Mr. Moscheles,PER,Q159551
+document_000717.html,52,81,the Honourable Richard Strutt,PER,Q75270792
+document_000718.html,84,95,Ghibellines,ORG,Q187742
+document_000718.html,108,115,Guelphs,ORG,Q187742
+document_000718.html,146,153,Colonna,ORG,Q327202
+document_000719.html,167,180,Royal Academy,ORG,Q1144673
+document_000719.html,233,257,National Training School,ORG,Q55082727
+document_000721.html,126,133,d’Angri,PER,Q5358988
+document_000722.html,145,151,Rameau,PER,Q1145
+document_000723.html,47,58,Schramstein,LOC,Q878205
+document_000723.html,117,127,Konigstein,LOC,NIL
+document_000725.html,233,248,St. Petersburgh,LOC,Q656
+document_000725.html,268,272,Czar,PER,Q130734
+document_000727.html,26,43,London University,ORG,Q193196
+document_000727.html,62,78,Professor Morgan,PER,Q208448
+document_000727.html,221,231,Hermogenes,PER,Q1336424
+document_000728.html,20,41,Church Choral Society,ORG,Q379124
+document_000728.html,248,256,New York,LOC,Q60
+document_000729.html,112,120,Servilia,PER,Q63534091
+document_000729.html,169,174,Annio,PER,Q63534077
+document_000729.html,136,144,Graziani,PER,NIL
+document_000730.html,44,54,Dr. Crotch,PER,Q718709
+document_000730.html,102,117,Madame Caradori,PER,Q16065895
+document_000730.html,292,305,Miss Stephens,PER,Q5052928
+document_000730.html,310,320,Miss Paton,PER,Q16888398
+document_000731.html,58,79,La Naissance de Venus,MISC,NIL
+document_000733.html,19,25,Tallis,PER,Q207789
+document_000733.html,108,114,Greene,PER,Q615819
+document_000733.html,123,128,Nares,PER,Q463998
+document_000733.html,58,65,Gibbons,PER,NIL
+document_000733.html,70,75,Child,PER,NIL
+document_000734.html,69,92,English National Anthem,MISC,Q327133
+document_000735.html,319,328,Mrs. Shaw,PER,Q3291051
+document_000736.html,226,255,Lieutenant - Colonel Perronet,PER,Q4670375
+document_000739.html,261,273,The Creation,MISC,Q163138
+document_000740.html,223,234,C. Eberwein,PER,Q216234
+document_000740.html,163,175,F. W. Riemar,PER,NIL
+document_000741.html,0,23,Madame Kraus - Wranisky,PER,Q55895823
+document_000741.html,48,62,Madame Seidler,PER,Q6373188
+document_000742.html,18,38,Mademoiselle Lalande,PER,Q3132487
+document_000743.html,237,258,Pomp and Circumstance,MISC,NIL
+document_000743.html,260,265,March,MISC,NIL
+document_000743.html,68,70,No,MISC,NIL
+document_000743.html,268,271,. 1,MISC,NIL
+document_000744.html,286,291,Orfeo,MISC,Q723776
+document_000744.html,387,410,grand * duke of Tuscany,PER,Q151321
+document_000745.html,286,304,Memoires du Diable,MISC,Q106739760
+document_000747.html,267,275,Griselda,MISC,Q97176620
+document_000747.html,75,79,faro,MISC,NIL
+document_000748.html,191,210,Royal Italian Opera,LOC,Q55018
+document_000748.html,340,353,Mr. Mackenzie,PER,Q674739
+document_000749.html,211,220,Jarnowick,PER,Q1526160
+document_000750.html,27,32,Carey,PER,Q1606590
+document_000750.html,101,117,John Christopher,PER,Q11727869
+document_000750.html,118,123,Smith,PER,Q11727869
+document_000750.html,177,182,Smith,PER,Q11727869
+document_000751.html,91,98,Durante,PER,Q2286657
+document_000753.html,43,50,Jomelli,PER,Q312891
+document_000753.html,293,300,Jomelli,PER,Q312891
+document_000756.html,162,179,As the Hart pants,MISC,Q1192046
+document_000756.html,373,384,The Seasons,MISC,Q970337
+document_000756.html,132,142,98th Psalm,MISC,NIL
+document_000756.html,418,432,Song of Miriam,MISC,NIL
+document_000757.html,159,178,Royai Italian Opera,ORG,Q55018
+document_000757.html,236,251,Signor Nicolini,PER,Q3083329
+document_000757.html,253,267,Signor Marconi,PER,Q5479431
+document_000757.html,284,302,Signor Mierzwinski,PER,Q5986416
+document_000757.html,320,330,M. Devoyod,PER,Q27928845
+document_000757.html,332,348,Signor De Reszké,PER,NIL
+document_000757.html,350,362,Signor Monti,PER,NIL
+document_000758.html,153,171,Trillo del Diavolo,MISC,Q2641249
+document_000759.html,122,129,Sauvage,PER,NIL
+document_000760.html,238,253,Seeret Marriage,MISC,Q428319
+document_000762.html,221,226,Jacob,PER,Q1339
+document_000764.html,38,44,London,LOC,Q84
+document_000765.html,148,163,France Wusicale,ORG,Q3209228
+document_000765.html,229,246,Gazelle AZusicale,ORG,Q3428721
+document_000765.html,267,282,Maurice Bourges,PER,Q73128734
+document_000765.html,410,420,M. Bourges,PER,Q73128734
+document_000766.html,295,300,Paris,LOC,Q90
+document_000766.html,164,199,Biographie Universelle de Musiciens,MISC,Q28007160
+document_000767.html,204,211,Macbeth,MISC,Q130283
+document_000767.html,98,113,Das Hausgesinde,MISC,NIL
+document_000767.html,151,178,Staberls Reise - abentheuer,MISC,NIL
+document_000768.html,167,188,Covent Garden Theatre,LOC,Q55018
+document_000769.html,145,160,Miss Zimmermann,PER,Q4693137
+document_000770.html,32,40,Berenice,MISC,Q381427
+document_000770.html,88,99,Zauberflute,MISC,Q5064
+document_000770.html,103,112,Mrs. Shaw,PER,Q3291051
+document_000770.html,117,129,Mr. Phillips,PER,Q18671452
+document_000771.html,19,29,Dr. Coward,PER,Q5719907
+document_000771.html,40,48,Creation,MISC,NIL
+document_000771.html,175,183,Creation,MISC,NIL
+document_000771.html,118,145,St.-Cecilia Musical Society,ORG,NIL
+document_000772.html,43,54,Mendelssohn,PER,Q46096
+document_000772.html,200,215,William Ackroyd,PER,Q109120689
+document_000772.html,245,257,Percy Kearne,PER,NIL
+document_000774.html,122,131,M. Vivier,PER,Q16947558
+document_000774.html,176,185,M. Vivier,PER,Q16947558
+document_000775.html,58,67,Town Hall,LOC,Q2578415
+document_000777.html,39,46,Bemberg,PER,Q3134049
+document_000777.html,50,73,La Ballade du Désespéré,MISC,NIL
+document_000778.html,88,93,Lucia,MISC,Q244209
+document_000778.html,99,112,Tutto scielte,MISC,NIL
+document_000779.html,27,34,Seasons,MISC,season
+document_000780.html,41,47,France,LOC,Q142
+document_000780.html,199,206,Trieste,LOC,Q546
+document_000780.html,216,221,Pesth,LOC,Q210205
+document_000780.html,405,411,Moscow,LOC,Q649
+document_000782.html,88,93,Webbe,PER,Q7412899
+document_000783.html,4,22,Beethoven festival,MISC,Q317786
+document_000783.html,83,106,Capellmeister Steinbach,PER,Q70648
+document_000783.html,158,172,Musik - Verein,LOC,Q686720
+document_000784.html,184,190,Anzani,PER,Q2813673
+document_000786.html,146,157,Ii Barbiere,MISC,Q208659
+document_000786.html,131,139,Una voce,MISC,NIL
+document_000787.html,38,56,Prince Es sterhdzy,PER,Q597865
+document_000787.html,322,359,monument of the Archduchess Christina,MISC,Q3862685
+document_000787.html,392,416,Church of the Augustines,LOC,Q693869
+document_000789.html,246,263,The Soldier tired,MISC,NIL
+document_000790.html,0,8,Brussels,LOC,Q239
+document_000791.html,105,125,Philharmonic Soviety,ORG,Q1292443
+document_000791.html,176,194,Messrs. Br oadwood,ORG,Q1699418
+document_000792.html,53,63,Padetewski,PER,Q191957
+document_000793.html,59,66,Tinctor,PER,Q370512
+document_000793.html,178,184,France,LOC,Q142
+document_000793.html,222,228,Europe,LOC,Q46
+document_000794.html,272,282,Ben Davies,PER,Q4888470
+document_000794.html,308,322,Herr Rosenthal,PER,Q213772
+document_000795.html,237,244,England,LOC,Q21
+document_000795.html,249,257,Scotland,LOC,Q22
+document_000798.html,172,183,Mr. Pierson,PER,Q97011
+document_000799.html,0,9,Mr. Moody,PER,NIL
+document_000800.html,242,247,Leeds,LOC,NIL
+document_000800.html,317,337,Mendelssohn Concerto,MISC,NIL
+document_000801.html,245,252,Lagraye,PER,NIL
+document_000803.html,103,107,Urio,LOC,Q244231
+document_000803.html,239,246,Te Deum,MISC,NIL
+document_000803.html,253,263,Magnificat,MISC,NIL
+document_000806.html,212,225,Last Judgment,MISC,Q1218918
+document_000806.html,264,273,Cathedral,LOC,Q1736200
+document_000813.html,0,11,Mr. DRESELr,PER,Q96415095
+document_000813.html,148,171,two Songs without Words,MISC,Q732949
+document_000813.html,204,215,Spring Song,MISC,NIL
+document_000813.html,232,237,Etude,MISC,NIL
+document_000813.html,297,302,Etude,MISC,NIL
+document_000814.html,75,95,Barbiere di Siviglia,MISC,Q632743
+document_000817.html,152,163,The Revenge,MISC,NIL
+document_000817.html,0,3,The,MISC,NIL
+document_000819.html,131,138,Holland,LOC,Q102911
+document_000819.html,107,130,His Majesty the King of,PER,Q154287
+document_000820.html,155,165,Moorfields,LOC,Q2572630
+document_000820.html,140,150,Portuguese,LOC,NIL
+document_000823.html,68,74,Aussig,LOC,Q156974
+document_000824.html,50,55,LapRa,MISC,Q472318
+document_000824.html,153,164,His Majesty,PER,Q130586
+document_000825.html,4,24,Rev. Wiliam Gostling,PER,Q15994466
+document_000825.html,83,95,Mr. Gostling,PER,Q3181623
+document_000825.html,111,119,St. Paul,LOC,Q173882
+document_000826.html,0,14,Madame Vestris,PER,Q6696635
+document_000826.html,180,191,Cherry ripe,MISC,Q5092463
+document_000827.html,14,24,Marseilles,LOC,Q23482
+document_000829.html,148,155,Stewart,PER,Q4444837
+document_000829.html,130,143,Bridal Chorus,MISC,NIL
+document_000831.html,55,62,M. Sons,PER,NIL
+document_000833.html,61,66,Lille,LOC,Q648
+document_000834.html,44,59,Hymne au Soleil,MISC,NIL
+document_000835.html,92,113,Day of the Coronation,MISC,NIL
+document_000837.html,57,74,Pastoral Symphony,MISC,Q246433
+document_000837.html,78,87,Beethoven,PER,Q255
+document_000838.html,6,19,Miss Stephens,PER,Q5052928
+document_000838.html,45,57,Drury - Lane,LOC,Q1756626
+document_000838.html,84,94,Dr. Crotch,PER,Q718709
+document_000838.html,157,167,Dr. Crotch,PER,Q718709
+document_000838.html,143,153,Miss Paton,PER,Q16888398
+document_000839.html,69,88,Dovrefeld Mountains,LOC,Q2100974
+document_000839.html,94,102,Mr. Gaui,PER,NIL
+document_000840.html,13,18,Grisi,PER,Q287812
+document_000841.html,67,73,Oxford,LOC,Q34217
+document_000841.html,156,168,Lincolnshire,LOC,Q23090
+document_000842.html,23,36,Mrs. Weichsel,PER,Q5362421
+document_000842.html,68,75,C. Bach,PER,Q106641
+document_000844.html,122,135,Parish Church,LOC,Q2322532
+document_000844.html,139,144,Leeds,LOC,Q39121
+document_000846.html,49,59,Mr. Newman,PER,Q7348018
+document_000847.html,109,124,Signorina Barbi,PER,Q3611669
+document_000847.html,126,141,Mr. Joseph Maas,PER,Q686719
+document_000847.html,143,165,Madame Norman - Néruda,PER,Q78938
+document_000849.html,120,127,Nivelle,LOC,Q319463
+document_000849.html,139,146,Brabant,LOC,Q1122
+document_000850.html,230,237,England,LOC,Q21
+document_000851.html,185,197,Philharmonic,ORG,Q856125
+document_000851.html,228,242,Crystal Palace,LOC,Q202902
+document_000852.html,162,179,Ciro riconosciuto,MISC,Q5770270
+document_000852.html,187,203,Achille in Siria,MISC,Q5702001
+document_000852.html,82,95,La Zingarella,MISC,NIL
+document_000852.html,215,223,Vologeso,MISC,NIL
+document_000853.html,6,25,Mademoiselle Bonini,PER,Q5479435
+document_000854.html,28,47,Gewandhaus Concerts,LOC,Q519613
+document_000854.html,51,58,Leipzig,LOC,Q2079
+document_000854.html,73,89,FErpinanp Ui1LER,PER,Q213530
+document_000857.html,38,64,Amateur Orchestral Society,ORG,NIL
+document_000857.html,94,110,Mr. Ralph Horner,PER,NIL
+document_000857.html,127,138,Advent Hymn,MISC,NIL
+document_000858.html,164,189,Mr. George William Warren,PER,Q20726537
+document_000859.html,214,228,Dalla sua pace,MISC,Q192039
+document_000860.html,41,49,Festival,MISC,Q3525932
+document_000860.html,117,127,Gloucester,LOC,Q170497
+document_000860.html,129,137,Hereford,LOC,Q204720
+document_000860.html,143,152,Worcester,LOC,Q1646181
+document_000862.html,98,117,Hotel des Invalides,LOC,Q188977
+document_000863.html,177,215,Concerto for two violins and orchestra,MISC,NIL
+document_000867.html,115,120,Norma,MISC,Q320353
+document_000868.html,104,113,Mr. Parry,PER,Q6251304
+document_000869.html,115,122,Vandyke,PER,Q150679
+document_000870.html,41,47,France,LOC,Q142
+document_000870.html,49,56,Fngland,LOC,Q21
+document_000870.html,58,65,Ireland,LOC,Q22890
+document_000870.html,11,21,Revolution,MISC,NIL
+document_000871.html,148,156,Ortolani,PER,NIL
+document_000873.html,164,178,Madame Novello,PER,Q4322567
+document_000873.html,213,222,Mr. Weiss,PER,Q8022239
+document_000877.html,45,53,Hereford,LOC,Q204720
+document_000877.html,71,80,Worcester,LOC,Q1646181
+document_000880.html,0,9,Scarlatti,PER,Q167837
+document_000880.html,64,79,Concerti grossi,MISC,Q2991921
+document_000882.html,25,33,Cervetto,PER,Q1364637
+document_000882.html,68,75,Lindley,PER,Q18593452
+document_000884.html,58,70,Quintet in C,MISC,Q17025624
+document_000885.html,133,143,Mey erbecr,PER,Q105237
+document_000885.html,7,12,Opera,ORG,NIL
+document_000885.html,90,93,the,MISC,NIL
+document_000886.html,0,7,Fischer,PER,Q820692
+document_000886.html,125,131,Cramer,PER,Q455212
+document_000888.html,124,130,Handel,PER,Q7302
+document_000888.html,46,70,Gateshead Choral Society,ORG,NIL
+document_000889.html,40,44,Bach,PER,Q1339
+document_000892.html,151,169,Mr. Norman Salmond,PER,Q5442324
+document_000892.html,171,188,M. Johannes Wolff,PER,Q21129875
+document_000893.html,162,168,Wilbye,PER,Q682089
+document_000897.html,93,101,Brussels,LOC,Q239
+document_000898.html,29,40,Camden Road,LOC,Q5025807
+document_000898.html,74,81,Athalie,MISC,Q19259756
+document_000899.html,184,195,I Trovatore,MISC,Q203470
+document_000900.html,0,8,M. Fétis,PER,Q523581
+document_000901.html,16,22,Ceylon,LOC,Q854
+document_000903.html,24,39,Court of Vienna,ORG,NIL
+document_000904.html,434,440,Europe,LOC,Q46
+document_000906.html,383,391,Agazzari,PER,Q395563
+document_000911.html,121,129,Hamerton,PER,Q52498671
+document_000912.html,31,46,Judas Maccabeus,MISC,Q993971
+document_000913.html,50,57,Naumann,PER,Q213927
+document_000914.html,406,413,Hanover,LOC,Q164079
+document_000915.html,57,69,Lord Paisley,PER,Q3806590
+document_000916.html,590,595,Cowen,PER,Q1452734
+document_000918.html,0,13,Mr. Moscheles,PER,Q159551
+document_000922.html,2,8,Wilson,PER,Q6264502
+document_000924.html,41,65,Mrs. Mounsey BartnoLomew,PER,Q4766585
+document_000925.html,92,110,Madame Rudersdorff,PER,Q17575680
+document_000925.html,118,136,Leipzig Gewandhaus,LOC,Q519613
+document_000925.html,502,518,Mr. Edward Lloyd,PER,Q5344187
+document_000925.html,76,81,Medea,MISC,NIL
+document_000925.html,236,241,Saffo,MISC,NIL
+document_000925.html,344,355,150th Psalm,MISC,NIL
+document_000926.html,0,10,Mr. Bishop,PER,Q1200639
+document_000927.html,122,129,Convent,LOC,NIL
