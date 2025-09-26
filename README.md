@@ -1,7 +1,7 @@
 # MHEL-LLAMO
 Multilingual Historical Entity Linking with Large Language Models (LLMs)
 
-This project aims to provide a benchmark for open-source LLMs in Historical Entity Linking by using an ensemble approach which combines a multilingual bi-encoder model, i.e. BELA, for candidate retrieval with prompt engineering for candidate selection.
+This project aims to provide a benchmark for open-source LLMs in Historical Entity Linking by using an ensemble approach which combines a multilingual bi-encoder model, i.e. BELA, for candidate retrieval with prompt engineering for NIL prediction and candidate selection.
 
 
 ## Install Requirements
@@ -26,21 +26,23 @@ pip install -r requirements_llms.txt
 ```
 conda activate bela39
 
-python get_candidates.py --dataset_path ./test_data/DZ_IT --output_dir ./results/DZ_IT --top_k 50 --lang it
+python get_candidates.py --dataset_path ./test_data/HIPE_EN --output_dir ./results/HIPE_EN --top_k 50 --lang en
 ```
 
 ## Perform Candidate Selection with LLM and Compute Metrics
 ```
 conda activate llm
 
-python filter_and_prompt.py \
---json_f results/DZ_IT/candidates_test_top50_it.json \
---dataset_path ./test_data/DZ_IT \
---output_dir ./results/DZ_IT \ 
---threshold 20.7 \ # optional
+python filter_and_prompt_chain.py \
+--json_f results/HIPE_EN/candidates_test_top50_en.json \
+--dataset_path ./test_data/HIPE_EN \
+--output_dir ./results/HIPE_EN \ 
+--threshold 21.24 \ # optional
 --n_candidates 20 \ # optional
---model_id meta-llama/Llama-3.1-8B-Instruct \
+--model_id mistralai/Mistral-Small-24B-Instruct-2501 \
 --hf_token your_secret_token # only with gated models
 
-python eval.py --path_data ./test_data/DZ_IT --path_results ./results/DZ_IT
+python eval.py --path_data ./test_data/HIPE_EN --path_results ./results/HIPE_EN
 ```
+
+For more accurate parameters, see our publication.
