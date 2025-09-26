@@ -1,0 +1,307 @@
+doc_id,start_pos,end_pos,surface,gt_id,type,identifier,title,answer,score
+hidden_test_sv_1,185,200,Robert Lydecken,NIL,PER,NIL,Robert Lydecken,no,0
+hidden_test_sv_1,552,558,Viborg,Q14657,LOC,Q14657,Viborg,"```json {""wikipedia_page"": ""Viborg"", ""wikidata_id"": ""Q14657""} ```",22.360347747802734
+hidden_test_sv_1,570,580,Petersburg,Q656,LOC,Q656,Sankt Petersburg,"```json {""wikipedia_page"": ""Sankt Petersburg"", ""wikidata_id"": ""Q656""} ```",21.0201358795166
+hidden_test_sv_1,598,606,Sip-pola,Q999878,LOC,Q999878,Sippola,"```json {""wikipedia_page"": ""Sippola"", ""wikidata_id"": ""Q999878""} ```",14.86375904083252
+hidden_test_sv_1,774,804,villaägarin-nan E. M. Schalien,NIL,PER,NIL,villaägarin-nan E. M. Schalien,no,0
+hidden_test_sv_1,973,1012,"Fru Alma Fohström, vårcelebra sångerska",Q4948406,PER,Q4948406,Alma Fohström,"```json {""wikipedia_page"": ""Alma Fohström"", ""wikidata_id"": ""Q4948406""} ```",14.017291069030762
+hidden_test_sv_1,1133,1139,fru F.,Q4948406,PER,Q4948406,Alma Fohström,"```json {""wikipedia_page"": ""Alma Fohström"", ""wikidata_id"": ""Q4948406""} ```",10.611488342285156
+hidden_test_sv_1,1172,1193,Kejs. operan i Moskva,Q138908,ORG,Q138908,Bolsjojteatern,"```json {""wikipedia_page"": ""Bolsjojteatern"", ""wikidata_id"": ""Q138908""} ```",18.936779022216797
+hidden_test_sv_1,1347,1353,fru F.,Q4948406,PER,Q4948406,Alma Fohström,"```json {""wikipedia_page"": ""Alma Fohström"", ""wikidata_id"": ""Q4948406""} ```",8.657441139221191
+hidden_test_sv_1,1419,1435,Svenska teaterns,Q926046,ORG,Q926046,Svenska Teatern,,33.01322555541992
+hidden_test_sv_1,1519,1530,Z. Topelius,Q139549,PER,Q139549,Zacharias Topelius,"```json {""wikipedia_page"": ""Zacharias Topelius"", ""wikidata_id"": ""Q139549""} ```",23.534929275512695
+hidden_test_sv_1,2008,2034,Akademiska sångför-eningen,Q4411935,PER,Q4411935,Akademiska Sångföreningen,"```json {""wikipedia_page"": ""Akademiska Sångföreningen"", ""wikidata_id"": ""Q4411935""} ```",24.394378662109375
+hidden_test_sv_1,2064,2086,statsrådet Z. Topelius,Q139549,PER,Q139549,Zacharias Topelius,"```json {""wikipedia_page"": ""Zacharias Topelius"", ""wikidata_id"": ""Q139549""} ```",15.451251029968262
+hidden_test_sv_1,2303,2309,Pacius,Q327024,PER,Q327024,Fredrik Pacius,"```json {""wikipedia_page"": ""Fredrik Pacius"", ""wikidata_id"": ""Q327024""} ```",16.608489990234375
+hidden_test_sv_1,2325,2331,Collan,Q1730669,PER,Q1730669,Karl Collan,"```json {""wikipedia_page"": ""Karl Collan"", ""wikidata_id"": ""Q1730669""} ```",18.495454788208008
+hidden_test_sv_1,2376,2385,Merikanto,Q455630,PER,Q455630,Oskar Merikanto,"```json {""wikipedia_page"": ""Oskar Merikanto"", ""wikidata_id"": ""Q455630""} ```",17.69576072692871
+hidden_test_sv_1,2394,2398,Bach,Q1339,PER,Q1339,Johann Sebastian Bach,"```json {""wikipedia_page"": ""Johann Sebastian Bach"", ""wikidata_id"": ""Q1339""} ```",16.60712432861328
+hidden_test_sv_1,2487,2493,Flodin,Q4355102,PER,Q4355102,Karl Flodin,"```json {""wikipedia_page"": ""Karl Flodin"", ""wikidata_id"": ""Q4355102""} ```",19.071691513061523
+hidden_test_sv_1,2521,2529,Sibelius,Q45682,PER,Q45682,Jean Sibelius,"```json {""wikipedia_page"": ""Jean Sibelius"", ""wikidata_id"": ""Q45682""} ```",24.484716415405273
+hidden_test_sv_1,2628,2646,Gerhard Hauptmanns,Q43523,PER,Q43523,Gerhart Hauptmann,,27.30874252319336
+hidden_test_sv_1,2763,2775,Yrjö Veijola,Q17384831,PER,Q17384831,Yrjö Weilin,,31.707942962646484
+hidden_test_sv_1,2983,2992,herr Salo,NIL,PER,NIL,herr Salo,no,0
+hidden_test_sv_1,3062,3080,herrAdolf Lindfors,Q11849798,PER,Q11849798,Adolf Lindfors,"```json {""wikipedia_page"": ""Adolf Lindfors"", ""wikidata_id"": ""Q11849798""} ```",19.140005111694336
+hidden_test_sv_1,3141,3150,Helsingör,Q26881,LOC,Q26881,Helsingör,,26.04082679748535
+hidden_test_sv_1,3341,3344,Åbo,Q38511,LOC,Q38511,Åbo,,26.93710708618164
+hidden_test_sv_1,3788,3793,Hangö,Q216790,LOC,Q216790,Hangö,"```json {""wikipedia_page"": ""Hangö"", ""wikidata_id"": ""Q216790""} ```",24.574296951293945
+hidden_test_sv_1,4412,4420,Stet-tin,Q393,LOC,Q393,Stettin,"```json {""wikipedia_page"": ""Stettin"", ""wikidata_id"": ""Q393""} ```",18.096887588500977
+hidden_test_sv_1,4589,4597,Sandhamn,Q2634733,LOC,Q2634733,Sandhamn,"```json {""wikipedia_page"": ""Sandhamn"", ""wikidata_id"": ""Q2634733""} ```",21.129344940185547
+hidden_test_sv_1,4639,4645,Ekenäs,Q1004838,LOC,Q1004838,Ekenäs,"```json {""wikipedia_page"": ""Ekenäs"", ""wikidata_id"": ""Q1004838""} ```",24.31632423400879
+hidden_test_sv_1,4714,4720,Ekenäs,Q1004838,LOC,Q1004838,Ekenäs,"```json {""wikipedia_page"": ""Ekenäs"", ""wikidata_id"": ""Q1004838""} ```",24.06039810180664
+hidden_test_sv_1,5250,5255,Hangö,Q216790,LOC,Q216790,Hangö,,25.37591552734375
+hidden_test_sv_1,5507,5520,Viborgsbladet,Q18662795,PROD,Q18662795,Wiborgsbladet,,28.77001953125
+hidden_test_sv_1,5998,6008,Leppävirta,Q614088,LOC,Q614088,Leppävirta,,30.63861656188965
+hidden_test_sv_1,6044,6050,Viborg,Q14657,LOC,Q14657,Viborg,,29.88943862915039
+hidden_test_sv_1,6138,6158,firmanHackman & C:os,Q5400319,ORG,Q5400319,Hackman Abp,"```json {""wikipedia_page"": ""Hackman Abp"", ""wikidata_id"": ""Q5400319""} ```",12.842594146728516
+hidden_test_sv_1,6730,6745,Robert Lydecken,NIL,PER,NIL,Robert Lydecken,no,0
+hidden_test_sv_1,6991,6997,Viborg,Q14657,LOC,Q14657,Viborg,"```json {""wikipedia_page"": ""Viborg"", ""wikidata_id"": ""Q14657""} ```",17.549184799194336
+hidden_test_sv_2,803,811,Kakkinen,NIL,PER,NIL,Kakkinen,no,0
+hidden_test_sv_2,922,930,Koskelin,Q17381816,PER,Q17381816,William Koskelin,"```json {""wikipedia_page"": ""William Koskelin"", ""wikidata_id"": ""Q17381816""} ```",22.639667510986328
+hidden_test_sv_2,1011,1021,Lm Meurman,Q3375788,PER,Q3375788,Agathon Meurman,"```json {""wikipedia_page"": ""Agathon Meurman"", ""wikidata_id"": ""Q3375788""} ```",19.906789779663086
+hidden_test_sv_2,2203,2216,Lm Tensikkala,NIL,PER,NIL,Lm Tensikkala,no,0
+hidden_test_sv_2,2228,2234,Torppa,Q17384313,PER,Q17384313,Juho Torppa,"```json {""wikipedia_page"": ""Juho Torppa"", ""wikidata_id"": ""Q17384313""} ```",18.55472755432129
+hidden_test_sv_2,2983,2990,Kiipula,Q11873702,PER,Q11873702,Kustaa Kiipula,"```json {""wikipedia_page"": ""Kustaa Kiipula"", ""wikidata_id"": ""Q11873702""} ```",21.652494430541992
+hidden_test_sv_2,3325,3333,lm Värri,NIL,PER,NIL,lm Värri,no,0
+hidden_test_sv_2,3804,3813,Lm. Laine,Q17382045,PER,Q17382045,Oskari Laine,"```json {""wikipedia_page"": ""Oskari Laine"", ""wikidata_id"": ""Q17382045""} ```",20.549318313598633
+hidden_test_sv_2,5281,5287,La.bor,NIL,ORG,NIL,La.bor,no,0
+hidden_test_sv_2,5387,5407,för-eningen Pellervo,Q18690754,ORG,Q18690754,Pellervo,"```json {""wikipedia_page"": ""Pellervo"", ""wikidata_id"": ""Q18690754""} ```",19.16646957397461
+hidden_test_sv_2,5456,5468,Åboaktiebank,Q5491317,ORG,Q5491317,Åbo Aktiebank,,28.37701988220215
+hidden_test_sv_2,5827,5832,Borgå,Q193367,LOC,Q193367,Borgå,"```json {""wikipedia_page"": ""Borgå"", ""wikidata_id"": ""Q193367""} ```",24.241090774536133
+hidden_test_sv_2,6280,6285,Borgå,Q193367,LOC,Q193367,Borgå,"```json {""wikipedia_page"": ""Borgå"", ""wikidata_id"": ""Q193367""} ```",23.778833389282227
+hidden_test_sv_2,6292,6344,hans mångårige f. d.principal konsul C. F. Tojkander,NIL,PER,NIL,hans mångårige f. d.principal konsul C. F. Tojkander,no,0
+hidden_test_sv_2,6393,6414,vännen Gusti Björkman,NIL,PER,NIL,vännen Gusti Björkman,no,0
+hidden_test_sv_2,6458,6461,Åbo,Q38511,LOC,Q38511,Åbo,"```json {""wikipedia_page"": ""Åbo"", ""wikidata_id"": ""Q38511""} ```",21.472801208496094
+hidden_test_sv_2,6629,6634,Hangö,Q216790,LOC,Q216790,Hangö,"```json {""wikipedia_page"": ""Hangö"", ""wikidata_id"": ""Q216790""} ```",22.929746627807617
+hidden_test_sv_2,6700,6705,Hangö,Q216790,LOC,Q216790,Hangö,"```json {""wikipedia_page"": ""Hangö"", ""wikidata_id"": ""Q216790""} ```",22.947673797607422
+hidden_test_sv_2,7812,7818,Vibbl.,Q18662795,PROD,Q18662795,Wiborgsbladet,"```json {""wikipedia_page"": ""Wiborgsbladet"", ""wikidata_id"": ""Q18662795""} ```",10.652005195617676
+hidden_test_sv_2,8066,8084,Kapten Uno Baarman,NIL,PER,NIL,Kapten Uno Baarman,"```json {""wikipedia_page"": """", ""wikidata_id"": """"} ```",0
+hidden_test_sv_2,8162,8168,Lahtis,Q28911,LOC,Q28911,Lahtis,"```json {""wikipedia_page"": ""Lahtis"", ""wikidata_id"": ""Q28911""} ```",20.31751251220703
+hidden_test_sv_2,8172,8179,Heinola,Q849934,LOC,Q849934,Heinola,"```json {""wikipedia_page"": ""Heinola"", ""wikidata_id"": ""Q849934""} ```",22.078725814819336
+hidden_test_sv_3,0,6,BERLIN,Q64,LOC,Q64,Berlin,,25.513050079345703
+hidden_test_sv_3,39,46,Marocko,Q1028,LOC,Q1028,Marocko,"```json {""wikipedia_page"": ""Marocko"", ""wikidata_id"": ""Q1028""} ```",20.86400604248047
+hidden_test_sv_3,69,79,Abdul Aziz,Q307132,PER,Q307132,Abdelaziz av Marocko,"```json {""wikipedia_page"": ""Abdelaziz av Marocko"", ""wikidata_id"": ""Q307132""} ```",14.634057998657227
+hidden_test_sv_3,153,159,Europa,Q46,LOC,Q46,Europa,"```json {""wikipedia_page"": ""Europa"", ""wikidata_id"": ""Q46""} ```",24.057226181030273
+hidden_test_sv_3,295,313,Vossische Zei-tung,Q675003,PROD,Q675003,Vossische Zeitung,"```json {""wikipedia_page"": ""Vossische Zeitung"", ""wikidata_id"": ""Q675003""} ```",18.116191864013672
+hidden_test_sv_3,396,403,Marocko,Q1028,LOC,Q1028,Marocko,"```json {""wikipedia_page"": ""Marocko"", ""wikidata_id"": ""Q1028""} ```",23.12895393371582
+hidden_test_sv_3,508,515,Marocko,Q1028,LOC,Q1028,Marocko,"```json {""wikipedia_page"": ""Marocko"", ""wikidata_id"": ""Q1028""} ```",21.897310256958008
+hidden_test_sv_3,517,523,Europa,Q46,LOC,Q46,Europa,"```json {""wikipedia_page"": ""Europa"", ""wikidata_id"": ""Q46""} ```",20.721757888793945
+hidden_test_sv_3,872,880,BUDAPEST,Q1781,LOC,Q1781,Budapest,,25.0707950592041
+hidden_test_sv_3,1055,1066,Lesinashamn,NIL,LOC,NIL,Lesinashamn,no,0
+hidden_test_sv_3,1434,1457,konstitutionellaTurkiet,Q43,LOC,Q43,Turkiet,"```json {""wikipedia_page"": ""Turkiet"", ""wikidata_id"": ""Q43""} ```",15.015153884887695
+hidden_test_sv_3,1654,1660,Europa,Q46,LOC,Q46,Europa,"```json {""wikipedia_page"": ""Europa"", ""wikidata_id"": ""Q46""} ```",21.498390197753906
+hidden_test_sv_3,2083,2092,Armeniens,Q399,LOC,Q399,Armenien,"```json {""wikipedia_page"": ""Armenien"", ""wikidata_id"": ""Q399""} ```",22.879549026489258
+hidden_test_sv_3,2113,2120,Turkiet,Q43,LOC,Q43,Turkiet,"```json {""wikipedia_page"": ""Turkiet"", ""wikidata_id"": ""Q43""} ```",23.641010284423828
+hidden_test_sv_3,4105,4114,Marseille,Q23482,LOC,Q23482,Marseille,,26.920013427734375
+hidden_test_sv_3,4135,4165,"gruppens ledare, MinasTscheras",NIL,PER,NIL,"gruppens ledare, MinasTscheras",no,0
+hidden_test_sv_3,4241,4250,Hentschak,NIL,ORG,NIL,Hentschak,no,0
+hidden_test_sv_3,4335,4339,Marx,Q9061,PER,Q9061,Karl Marx,"```json {""wikipedia_page"": ""Karl Marx"", ""wikidata_id"": ""Q9061""} ```",24.0258846282959
+hidden_test_sv_3,4614,4629,Dasch-nakzutjun,Q318657,ORG,Q318657,Armeniska revolutionsfederationen,"```json {""wikipedia_page"": ""Armeniska revolutionsfederationen"", ""wikidata_id"": ""Q318657""} ```",23.78849983215332
+hidden_test_sv_3,5315,5329,Daschnakzutjun,Q318657,ORG,Q318657,Armeniska revolutionsfederationen,"```json {""wikipedia_page"": ""Armeniska revolutionsfederationen"", ""wikidata_id"": ""Q318657""} ```",17.462488174438477
+hidden_test_sv_3,5617,5627,Ar-meniens,Q399,LOC,Q399,Armenien,"```json {""wikipedia_page"": ""Armenien"", ""wikidata_id"": ""Q399""} ```",21.94989776611328
+hidden_test_sv_3,5915,5924,Kaukasien,Q18869,LOC,Q18869,Kaukasien,"```json {""wikipedia_page"": ""Kaukasien"", ""wikidata_id"": ""Q18869""} ```",22.763731002807617
+hidden_test_sv_3,6027,6037,Kaukasiens,Q18869,LOC,Q18869,Kaukasien,"```json {""wikipedia_page"": ""Kaukasien"", ""wikidata_id"": ""Q18869""} ```",21.94426155090332
+hidden_test_sv_3,6093,6105,Mindre Asien,Q12824780,LOC,Q12824780,Mindre Asien,"```json {""wikipedia_page"": ""Mindre Asien"", ""wikidata_id"": ""Q12824780""} ```",22.667255401611328
+hidden_test_sv_3,6195,6212,turkiska Armenien,Q399,LOC,Q399,Armenien,"```json {""wikipedia_page"": ""Armenien"", ""wikidata_id"": ""Q399""} ```",16.567747116088867
+hidden_test_sv_3,6438,6456,turkiska Armeniens,Q399,LOC,Q399,Armenien,"```json {""wikipedia_page"": ""Armenien"", ""wikidata_id"": ""Q399""} ```",23.138315200805664
+hidden_test_sv_3,6739,6756,prins Sabaheddins,Q2110643,PER,Q2110643,Prins Sabahaddin,"```json {""wikipedia_page"": ""Prins Sabahaddin"", ""wikidata_id"": ""Q2110643""} ```",17.972829818725586
+hidden_test_sv_3,6996,7008,Mindre Asien,Q12824780,LOC,Q12824780,Mindre Asien,"```json {""wikipedia_page"": ""Mindre Asien"", ""wikidata_id"": ""Q12824780""} ```",21.604148864746094
+hidden_test_sv_4,0,57,"Den år 1826 aflidne rikskanslern,grefve N. P. Rumjantseff",Q546048,PER,Q546048,Nikolaj Rumjantsev,"```json {""wikipedia_page"": ""Nikolaj Rumjantsev"", ""wikidata_id"": ""Q546048""} ```",19.39663314819336
+hidden_test_sv_4,190,200,Petersburg,Q656,LOC,Q656,Sankt Petersburg,,26.38698959350586
+hidden_test_sv_4,415,421,Moskva,Q649,LOC,Q649,Moskva,,26.342517852783203
+hidden_test_sv_4,602,611,Rysslands,Q34266,LOC,Q34266,Kejsardömet Ryssland,"```json {""wikipedia_page"": ""Kejsardömet Ryssland"", ""wikidata_id"": ""Q34266""} ```",19.77617073059082
+hidden_test_sv_4,697,703,Moskva,Q649,LOC,Q649,Moskva,,26.012479782104492
+hidden_test_sv_4,708,720,helaRyssland,Q34266,LOC,Q34266,Kejsardömet Ryssland,"```json {""wikipedia_page"": ""Kejsardömet Ryssland"", ""wikidata_id"": ""Q34266""} ```",11.981853485107422
+hidden_test_sv_4,808,813,Nancy,Q40898,LOC,Q40898,Nancy,"```json {""wikipedia_page"": ""Nancy"", ""wikidata_id"": ""Q40898""} ```",19.72687530517578
+hidden_test_sv_4,986,991,Nancy,Q40898,LOC,Q40898,Nancy,"```json {""wikipedia_page"": ""Nancy"", ""wikidata_id"": ""Q40898""} ```",20.922691345214844
+hidden_test_sv_4,1101,1106,Nancy,Q40898,LOC,Q40898,Nancy,"```json {""wikipedia_page"": ""Nancy"", ""wikidata_id"": ""Q40898""} ```",22.87773323059082
+hidden_test_sv_4,1237,1251,Petit Parisien,Q831299,PROD,Q831299,Le Petit Parisien,,26.95374298095703
+hidden_test_sv_4,3246,3260,”Agence Havas”,Q2826560,ORG,Q2826560,Agence Havas,"```json {""wikipedia_page"": ""Agence Havas"", ""wikidata_id"": ""Q2826560""} ```",15.40655517578125
+hidden_test_sv_4,3340,3345,Nancy,Q40898,LOC,Q40898,Nancy,"```json {""wikipedia_page"": ""Nancy"", ""wikidata_id"": ""Q40898""} ```",23.448562622070312
+hidden_test_sv_4,4432,4436,Metz,Q22690,LOC,Q22690,Metz,"```json {""wikipedia_page"": ""Metz"", ""wikidata_id"": ""Q22690""} ```",23.79922866821289
+hidden_test_sv_4,4858,4863,Nancy,Q40898,LOC,Q40898,Nancy,"```json {""wikipedia_page"": ""Nancy"", ""wikidata_id"": ""Q40898""} ```",15.35228443145752
+hidden_test_sv_4,4928,4937,Le Temps:,Q639137,PROD,Q639137,Le Temps,"```json {""wikipedia_page"": ""Le Temps"", ""wikidata_id"": ""Q639137""} ```",17.560888290405273
+hidden_test_sv_4,5118,5129,I.u-néville,Q208794,LOC,Q208794,Lunéville,"```json {""wikipedia_page"": ""Lunéville"", ""wikidata_id"": ""Q208794""} ```",11.360956192016602
+hidden_test_sv_5,609,626,Bonns universitet,Q152171,ORG,Q152171,Bonns universitet,,30.911733627319336
+hidden_test_sv_5,1533,1546,kejsarWilhelm,Q2677,PER,Q2677,Vilhelm II av Tyskland,"```json {""wikipedia_page"": ""Vilhelm II av Tyskland"", ""wikidata_id"": ""Q2677""} ```",17.896690368652344
+hidden_test_sv_5,2145,2164,bröder-na Faschadin,NIL,PER,NIL,bröder-na Faschadin,no,0
+hidden_test_sv_5,2450,2467,Kon-stapeln Toivo,NIL,PER,NIL,Kon-stapeln Toivo,no,0
+hidden_test_sv_5,2695,2704,Brahestad,Q622592,LOC,Q622592,Brahestad,"```json {""wikipedia_page"": ""Brahestad"", ""wikidata_id"": ""Q622592""} ```",16.6814022064209
+hidden_test_sv_5,2779,2784,Hangö,Q216790,LOC,Q216790,Hangö,"```json {""wikipedia_page"": ""Hangö"", ""wikidata_id"": ""Q216790""} ```",24.521318435668945
+hidden_test_sv_5,2821,2824,Abo,Q38511,LOC,Q38511,Åbo,"```json {""wikipedia_page"": ""Åbo"", ""wikidata_id"": ""Q38511""} ```",14.904815673828125
+hidden_test_sv_5,2852,2857,Slite,Q1495534,LOC,Q1495534,Slite,"```json {""wikipedia_page"": ""Slite"", ""wikidata_id"": ""Q1495534""} ```",19.530858993530273
+hidden_test_sv_5,2859,2868,Köpenhamn,Q1748,LOC,Q1748,Köpenhamn,"```json {""wikipedia_page"": ""Köpenhamn"", ""wikidata_id"": ""Q1748""} ```",18.86639404296875
+hidden_test_sv_5,2872,2876,Hull,Q128147,LOC,Q128147,Kingston upon Hull,"```json {""wikipedia_page"": ""Kingston upon Hull"", ""wikidata_id"": ""Q128147""} ```",15.805288314819336
+hidden_test_sv_5,2910,2922,Hel-singfors,Q1757,LOC,Q1757,Helsingfors,"```json {""wikipedia_page"": ""Helsingfors"", ""wikidata_id"": ""Q1757""} ```",19.883882522583008
+hidden_test_sv_5,2950,2954,Riga,Q1773,LOC,Q1773,Riga,"```json {""wikipedia_page"": ""Riga"", ""wikidata_id"": ""Q1773""} ```",22.2467041015625
+hidden_test_sv_5,2992,3003,Helsingfors,Q1757,LOC,Q1757,Helsingfors,"```json {""wikipedia_page"": ""Helsingfors"", ""wikidata_id"": ""Q1757""} ```",22.68768310546875
+hidden_test_sv_5,3031,3040,Stockholm,Q1754,LOC,Q1754,Stockholm,"```json {""wikipedia_page"": ""Stockholm"", ""wikidata_id"": ""Q1754""} ```",20.816810607910156
+hidden_test_sv_5,3075,3082,Bre-men,Q24879,LOC,Q24879,Bremen,"```json {""wikipedia_page"": ""Bremen"", ""wikidata_id"": ""Q24879""} ```",15.38955307006836
+hidden_test_sv_5,3087,3090,Åbo,Q38511,LOC,Q38511,Åbo,,26.486331939697266
+hidden_test_sv_5,3121,3132,Helsingfors,Q1757,LOC,Q1757,Helsingfors,"```json {""wikipedia_page"": ""Helsingfors"", ""wikidata_id"": ""Q1757""} ```",24.128097534179688
+hidden_test_sv_5,3168,3177,Stockholm,Q1754,LOC,Q1754,Stockholm,"```json {""wikipedia_page"": ""Stockholm"", ""wikidata_id"": ""Q1754""} ```",21.52940559387207
+hidden_test_sv_5,3204,3215,Helsingfors,Q1757,LOC,Q1757,Helsingfors,"```json {""wikipedia_page"": ""Helsingfors"", ""wikidata_id"": ""Q1757""} ```",20.08917808532715
+hidden_test_sv_5,3220,3234,S:t Petersburg,Q656,LOC,Q656,Sankt Petersburg,"```json {""wikipedia_page"": ""Sankt Petersburg"", ""wikidata_id"": ""Q656""} ```",21.850187301635742
+hidden_test_sv_5,3262,3269,Hamburg,Q1055,LOC,Q1055,Hamburg,"```json {""wikipedia_page"": ""Hamburg"", ""wikidata_id"": ""Q1055""} ```",23.91470718383789
+hidden_test_sv_5,3295,3301,H:fors,Q1757,LOC,Q1757,Helsingfors,"```json {""wikipedia_page"": ""Helsingfors"", ""wikidata_id"": ""Q1757""} ```",16.13817596435547
+hidden_test_sv_6,1330,1339,Nord-sjön,Q1693,LOC,Q1693,Nordsjön,,26.498605728149414
+hidden_test_sv_6,2970,2979,Östersjön,Q545,LOC,Q545,Östersjön,,29.029083251953125
+hidden_test_sv_6,3073,3084,Kielkanalen,Q144825,LOC,Q144825,Kielkanalen,"```json {""wikipedia_page"": ""Kielkanalen"", ""wikidata_id"": ""Q144825""} ```",24.180288314819336
+hidden_test_sv_6,3275,3282,Sverige,Q34,LOC,Q34,Sverige,"```json {""wikipedia_page"": ""Sverige"", ""wikidata_id"": ""Q34""} ```",24.526870727539062
+hidden_test_sv_6,3283,3292,STOCKHOLM,Q1754,LOC,Q1754,Stockholm,"```json {""wikipedia_page"": ""Stockholm"", ""wikidata_id"": ""Q1754""} ```",23.437698364257812
+hidden_test_sv_6,3451,3473,F. N. B.Lord kitchener,Q216129,PER,Q216129,"Herbert Kitchener, 1:e earl Kitchener","```json {""wikipedia_page"": ""Herbert Kitchener, 1:e earl Kitchener"", ""wikidata_id"": ""Q216129""} ```",11.611100196838379
+hidden_test_sv_6,3483,3489,LONDON,Q84,LOC,Q84,London,,26.13109016418457
+hidden_test_sv_6,3525,3539,lord Kitchener,Q216129,PER,Q216129,"Herbert Kitchener, 1:e earl Kitchener","```json {""wikipedia_page"": ""Herbert Kitchener, 1:e earl Kitchener"", ""wikidata_id"": ""Q216129""} ```",23.911584854125977
+hidden_test_sv_6,3607,3616,Rysslands,Q34266,LOC,Q34266,Kejsardömet Ryssland,"```json {""wikipedia_page"": ""Kejsardömet Ryssland"", ""wikidata_id"": ""Q34266""} ```",9.77818489074707
+hidden_test_sv_6,3967,3976,Kitchener,Q216129,PER,Q216129,"Herbert Kitchener, 1:e earl Kitchener","```json {""wikipedia_page"": ""Herbert Kitchener, 1:e earl Kitchener"", ""wikidata_id"": ""Q216129""} ```",24.02196502685547
+hidden_test_sv_6,4330,4338,Grekland,Q41,LOC,Q41,Grekland,"```json {""wikipedia_page"": ""Grekland"", ""wikidata_id"": ""Q41""} ```",19.87818717956543
+hidden_test_sv_6,4350,4356,LONDON,Q84,LOC,Q84,London,,25.659696578979492
+hidden_test_sv_6,4379,4392,Morning Posts,Q1750567,PROD,Q1750567,The Morning Post,"```json {""wikipedia_page"": ""The Morning Post"", ""wikidata_id"": ""Q1750567""} ```",20.038528442382812
+hidden_test_sv_6,4586,4592,Briand,Q179888,PER,Q179888,Aristide Briand,"```json {""wikipedia_page"": ""Aristide Briand"", ""wikidata_id"": ""Q179888""} ```",11.200004577636719
+hidden_test_sv_6,4613,4616,Rom,Q220,LOC,Q220,Rom,"```json {""wikipedia_page"": ""Rom"", ""wikidata_id"": ""Q220""} ```",23.981908798217773
+hidden_test_sv_6,4710,4717,ltalien,Q172579,LOC,Q172579,Kungariket Italien,"```json {""wikipedia_page"": ""Kungariket Italien"", ""wikidata_id"": ""Q172579""} ```",15.816638946533203
+hidden_test_sv_6,4722,4730,Grekland,Q41,LOC,Q41,Grekland,"```json {""wikipedia_page"": ""Grekland"", ""wikidata_id"": ""Q41""} ```",23.753320693969727
+hidden_test_sv_6,5078,5084,Peking,Q956,LOC,Q956,Peking,,25.330415725708008
+hidden_test_sv_6,5189,5195,Hoangn,NIL,LOC,NIL,Hoangn,no,0
+hidden_test_sv_6,5379,5418,till vissgrad frisinnade Tsjngtsjitungs,NIL,PER,NIL,till vissgrad frisinnade Tsjngtsjitungs,no,0
+hidden_test_sv_6,6340,6362,Pekings förbjudna stad,Q80290,LOC,Q80290,Förbjudna staden,"```json {""wikipedia_page"": ""Förbjudna staden"", ""wikidata_id"": ""Q80290""} ```",11.62636947631836
+hidden_test_sv_7,1644,1656,Ryska Rikets,Q34266,LOC,Q34266,Kejsardömet Ryssland,"```json {""wikipedia_page"": ""Kejsardömet Ryssland"", ""wikidata_id"": ""Q34266""} ```",23.832426071166992
+hidden_test_sv_7,3325,3336,Helsingfors,Q1757,LOC,Q1757,Helsingfors,,30.890880584716797
+hidden_test_sv_7,3795,3806,SeveriNyman,Q11893224,PER,Q11893224,,,28.335214614868164
+hidden_test_sv_7,4000,4010,Tammerfors,Q40840,LOC,Q40840,Tammerfors,"```json {""wikipedia_page"": ""Tammerfors"", ""wikidata_id"": ""Q40840""} ```",22.540449142456055
+hidden_test_sv_7,6175,6222,"Generalguvernören, general-adjutanten Bobrikoff",Q380350,PER,Q380350,Nikolaj Bobrikov,"```json {""wikipedia_page"": ""Nikolaj Bobrikov"", ""wikidata_id"": ""Q380350""} ```",14.235458374023438
+hidden_test_sv_7,6272,6283,Peters-burg,Q656,LOC,Q656,Sankt Petersburg,,25.351940155029297
+hidden_test_sv_7,6448,6454,Europa,Q46,LOC,Q46,Europa,"```json {""wikipedia_page"": ""Europa"", ""wikidata_id"": ""Q46""} ```",20.516969680786133
+hidden_test_sv_7,6470,6484,S:t Petersburg,Q656,LOC,Q656,Sankt Petersburg,,25.561704635620117
+hidden_test_sv_7,6933,6941,Eu-ropas,Q46,LOC,Q46,Europa,"```json {""wikipedia_page"": ""Europa"", ""wikidata_id"": ""Q46""} ```",23.315860748291016
+hidden_test_sv_7,7019,7024,Borgå,Q193367,LOC,Q193367,Borgå,"```json {""wikipedia_page"": ""Borgå"", ""wikidata_id"": ""Q193367""} ```",23.707965850830078
+hidden_test_sv_7,7304,7310,Fru H.,NIL,PER,NIL,Fru H.,no,0
+hidden_test_sv_7,7828,7844,Anna LuciaAmberg,NIL,PER,NIL,Anna LuciaAmberg,no,0
+hidden_test_sv_7,7863,7882,S:t Ber-tils socken,Q121715,LOC,Q121715,S:t Bertils,"```json {""wikipedia_page"": ""S:t Bertils"", ""wikidata_id"": ""Q121715""} ```",21.387630462646484
+hidden_test_sv_7,8025,8059,"pro-fessorn, friherre Nordenskiöld",Q156749,PER,Q156749,Adolf Erik Nordenskiöld,"```json {""wikipedia_page"": ""Adolf Erik Nordenskiöld"", ""wikidata_id"": ""Q156749""} ```",12.312448501586914
+hidden_test_sv_7,8075,8086,Helsingfors,Q1757,LOC,Q1757,Helsingfors,,26.83297348022461
+hidden_test_sv_7,8184,8202,Svenska Riksmuseet,Q1420103,ORG,Q1420103,Naturhistoriska riksmuseet,,29.938745498657227
+hidden_test_sv_8,149,155,Verdun,Q154748,LOC,Q154748,Verdun,"```json {""wikipedia_page"": ""Verdun"", ""wikidata_id"": ""Q154748""} ```",17.38184356689453
+hidden_test_sv_8,507,515,Bel-gien,Q31,LOC,Q31,Belgien,"```json {""wikipedia_page"": ""Belgien"", ""wikidata_id"": ""Q31""} ```",19.153064727783203
+hidden_test_sv_8,885,898,general Einem,Q62716,PER,Q62716,Karl von Einem,"```json {""wikipedia_page"": ""Karl von Einem"", ""wikidata_id"": ""Q62716""} ```",15.14719295501709
+hidden_test_sv_8,901,910,Champagne,Q273827,LOC,Q273827,Champagne,"```json {""wikipedia_page"": ""Champagne"", ""wikidata_id"": ""Q273827""} ```",18.117685317993164
+hidden_test_sv_8,915,934,gene-ral Falkenhayn,Q57153,PER,Q57153,Erich von Falkenhayn,"```json {""wikipedia_page"": ""Erich von Falkenhayn"", ""wikidata_id"": ""Q57153""} ```",18.38169288635254
+hidden_test_sv_8,937,943,Elsass,Q1142,LOC,Q1142,Alsace,"```json {""wikipedia_page"": ""Alsace"", ""wikidata_id"": ""Q1142""} ```",18.625656127929688
+hidden_test_sv_8,1441,1449,Douamont,Q1113111,LOC,Q1113111,Douaumont,"```json {""wikipedia_page"": ""Douaumont"", ""wikidata_id"": ""Q1113111""} ```",16.51813316345215
+hidden_test_sv_8,1466,1470,Mars,NIL,LOC,NIL,Mars,no,0
+hidden_test_sv_8,1472,1479,Choisel,NIL,LOC,NIL,Choisel,no,0
+hidden_test_sv_8,1481,1487,Sartem,NIL,LOC,NIL,Sartem,no,0
+hidden_test_sv_8,1694,1700,Erbois,NIL,LOC,NIL,Erbois,no,0
+hidden_test_sv_8,2101,2106,Ypres,Q102728,LOC,Q102728,Ypern,"```json {""wikipedia_page"": ""Ypern"", ""wikidata_id"": ""Q102728""} ```",18.53217887878418
+hidden_test_sv_8,2111,2116,Arras,Q131329,LOC,Q131329,Arras,"```json {""wikipedia_page"": ""Arras"", ""wikidata_id"": ""Q131329""} ```",18.153196334838867
+hidden_test_sv_9,1542,1547,Paris,Q90,LOC,Q90,Paris,"```json {""wikipedia_page"": ""Paris"", ""wikidata_id"": ""Q90""} ```",22.857419967651367
+hidden_test_sv_9,1822,1854,vice hä-radshöfdingen F. Procopé,Q56403628,PER,Q56403628,Fredrik Procopé,"```json {""wikipedia_page"": ""Fredrik Procopé"", ""wikidata_id"": ""Q56403628""} ```",19.10438346862793
+hidden_test_sv_9,1875,1885,Tammerfors,Q40840,LOC,Q40840,Tammerfors,"```json {""wikipedia_page"": ""Tammerfors"", ""wikidata_id"": ""Q40840""} ```",24.634469985961914
+hidden_test_sv_10,43,49,London,Q84,LOC,Q84,London,"```json {""wikipedia_page"": ""London"", ""wikidata_id"": ""Q84""} ```",15.179086685180664
+hidden_test_sv_10,80,85,Paris,Q90,LOC,Q90,Paris,"```json {""wikipedia_page"": ""Paris"", ""wikidata_id"": ""Q90""} ```",16.97270393371582
+hidden_test_sv_10,105,112,Hamberg,Q1055,LOC,Q1055,Hamburg,"```json {""wikipedia_page"": ""Hamburg"", ""wikidata_id"": ""Q1055""} ```",21.040782928466797
+hidden_test_sv_10,166,175,Amsterdam,Q727,LOC,Q727,Amsterdam,"```json {""wikipedia_page"": ""Amsterdam"", ""wikidata_id"": ""Q727""} ```",12.770284652709961
+hidden_test_sv_10,191,200,Stockholm,Q1754,LOC,Q1754,Stockholm,"```json {""wikipedia_page"": ""Stockholm"", ""wikidata_id"": ""Q1754""} ```",14.060431480407715
+hidden_test_sv_10,223,237,S:t Petersburg,Q656,LOC,Q656,Sankt Petersburg,"```json {""wikipedia_page"": ""Sankt Petersburg"", ""wikidata_id"": ""Q656""} ```",16.038179397583008
+hidden_test_sv_10,259,265,London,Q84,LOC,Q84,London,"```json {""wikipedia_page"": ""London"", ""wikidata_id"": ""Q84""} ```",15.843179702758789
+hidden_test_sv_10,290,299,Amsterdam,Q727,LOC,Q727,Amsterdam,"```json {""wikipedia_page"": ""Amsterdam"", ""wikidata_id"": ""Q727""} ```",14.25764274597168
+hidden_test_sv_10,315,322,Hamburg,Q1055,LOC,Q1055,Hamburg,"```json {""wikipedia_page"": ""Hamburg"", ""wikidata_id"": ""Q1055""} ```",17.72496795654297
+hidden_test_sv_10,339,344,Paris,Q90,LOC,Q90,Paris,"```json {""wikipedia_page"": ""Paris"", ""wikidata_id"": ""Q90""} ```",14.54688835144043
+hidden_test_sv_10,528,542,handl. Willman,NIL,PER,NIL,handl. Willman,no,0
+hidden_test_sv_10,547,552,Borgå,Q193367,LOC,Q193367,Borgå,"```json {""wikipedia_page"": ""Borgå"", ""wikidata_id"": ""Q193367""} ```",17.618356704711914
+hidden_test_sv_10,579,584,Elimä,Q1000113,LOC,Q1000113,Elimä,"```json {""wikipedia_page"": ""Elimä"", ""wikidata_id"": ""Q1000113""} ```",17.417747497558594
+hidden_test_sv_10,586,606,kypar:ne Blu=menberg,NIL,PER,NIL,kypar:ne Blu=menberg,no,0
+hidden_test_sv_10,680,698,fruarne Hakyan=der,NIL,PER,NIL,fruarne Hakyan=der,no,0
+hidden_test_sv_10,717,723,B:borg,Q180233,LOC,Q180233,Björneborg,"```json {""wikipedia_page"": ""Björneborg"", ""wikidata_id"": ""Q180233""} ```",12.544390678405762
+hidden_test_sv_10,838,843,Elimä,Q1000113,LOC,Q1000113,Elimä,"```json {""wikipedia_page"": ""Elimä"", ""wikidata_id"": ""Q1000113""} ```",14.031939506530762
+hidden_test_sv_10,888,893,Raumo,Q37013,LOC,Q37013,Raumo,"```json {""wikipedia_page"": ""Raumo"", ""wikidata_id"": ""Q37013""} ```",17.733726501464844
+hidden_test_sv_10,933,939,Lindén,NIL,PER,NIL,Lindén,no,0
+hidden_test_sv_10,971,982,Strand=berg,NIL,PER,NIL,Strand=berg,no,0
+hidden_test_sv_10,988,996,Wikström,NIL,PER,NIL,Wikström,no,0
+hidden_test_sv_10,1009,1017,Glogtn 8,NIL,LOC,NIL,Glogtn 8,no,0
+hidden_test_sv_10,1206,1212,T:fors,Q40840,LOC,Q40840,Tammerfors,"```json {""wikipedia_page"": ""Tammerfors"", ""wikidata_id"": ""Q40840""} ```",13.91019344329834
+hidden_test_sv_10,1213,1229,S. Magasinsgtn 5,NIL,LOC,NIL,S. Magasinsgtn 5,no,0
+hidden_test_sv_10,1310,1320,S:t Michel,Q190583,LOC,Q190583,S:t Michel,"```json {""wikipedia_page"": ""S:t Michel"", ""wikidata_id"": ""Q190583""} ```",18.849407196044922
+hidden_test_sv_10,1373,1378,Borgå,Q193367,LOC,Q193367,Borgå,"```json {""wikipedia_page"": ""Borgå"", ""wikidata_id"": ""Q193367""} ```",22.729543685913086
+hidden_test_sv_10,1457,1460,Åbo,Q38511,LOC,Q38511,Åbo,,26.1085205078125
+hidden_test_sv_10,1549,1555,Ekenäs,Q1004838,LOC,Q1004838,Ekenäs,"```json {""wikipedia_page"": ""Ekenäs"", ""wikidata_id"": ""Q1004838""} ```",21.74647331237793
+hidden_test_sv_10,1611,1617,T:fors,Q40840,LOC,Q40840,Tammerfors,"```json {""wikipedia_page"": ""Tammerfors"", ""wikidata_id"": ""Q40840""} ```",16.39642333984375
+hidden_test_sv_10,1799,1802,Åbo,Q38511,LOC,Q38511,Åbo,,26.26372718811035
+hidden_test_sv_10,1892,1898,Ekenäs,Q1004838,LOC,Q1004838,Ekenäs,"```json {""wikipedia_page"": ""Ekenäs"", ""wikidata_id"": ""Q1004838""} ```",19.588123321533203
+hidden_test_sv_10,1900,1906,T:fors,Q40840,LOC,Q40840,Tammerfors,"```json {""wikipedia_page"": ""Tammerfors"", ""wikidata_id"": ""Q40840""} ```",14.672493934631348
+hidden_test_sv_10,1910,1913,Åbo,Q38511,LOC,Q38511,Åbo,"```json {""wikipedia_page"": ""Åbo"", ""wikidata_id"": ""Q38511""} ```",19.698694229125977
+hidden_test_sv_11,2268,2279,Helsingfors,Q1757,LOC,Q1757,Helsingfors,"```json {""wikipedia_page"": ""Helsingfors"", ""wikidata_id"": ""Q1757""} ```",24.978174209594727
+hidden_test_sv_11,2370,2380,Petersburg,Q656,LOC,Q656,Sankt Petersburg,"```json {""wikipedia_page"": ""Sankt Petersburg"", ""wikidata_id"": ""Q656""} ```",24.751712799072266
+hidden_test_sv_11,3702,3719,Newski-prospektet,Q382500,LOC,Q382500,Nevskij prospekt,"```json {""wikipedia_page"": ""Nevskij prospekt"", ""wikidata_id"": ""Q382500""} ```",16.49468231201172
+hidden_test_sv_11,5223,5241,grannens Agrafisna,NIL,PER,NIL,grannens Agrafisna,no,0
+hidden_test_sv_11,5302,5308,Mascha,NIL,PER,NIL,Mascha,no,0
+hidden_test_sv_12,0,7,Italien,Q38,LOC,Q38,Italien,"```json {""wikipedia_page"": ""Italien"", ""wikidata_id"": ""Q38""} ```",21.422271728515625
+hidden_test_sv_12,159,164,Genua,Q1449,LOC,Q1449,Genua,"```json {""wikipedia_page"": ""Genua"", ""wikidata_id"": ""Q1449""} ```",23.583446502685547
+hidden_test_sv_12,341,348,Piemont,Q1216,LOC,Q1216,Piemonte,"```json {""wikipedia_page"": ""Piemonte"", ""wikidata_id"": ""Q1216""} ```",20.251462936401367
+hidden_test_sv_12,555,573,Lombardiet=Venedig,Q209857,LOC,Q209857,Kungariket Lombardiet-Venetien,"```json {""wikipedia_page"": ""Kungariket Lombardiet-Venetien"", ""wikidata_id"": ""Q209857""} ```",17.279315948486328
+hidden_test_sv_12,810,821,Theißarméen,NIL,ORG,NIL,Theißarméen,no,0
+hidden_test_sv_12,850,855,Pesth,Q210205,LOC,Q210205,Pest,"```json {""wikipedia_page"": ""Pest"", ""wikidata_id"": ""Q210205""} ```",16.225059509277344
+hidden_test_sv_12,944,951,Kossuth,Q157040,PER,Q157040,Lajos Kossuth,"```json {""wikipedia_page"": ""Lajos Kossuth"", ""wikidata_id"": ""Q157040""} ```",22.684268951416016
+hidden_test_sv_12,1060,1064,Arad,Q173591,LOC,Q173591,Arad,"```json {""wikipedia_page"": ""Arad"", ""wikidata_id"": ""Q173591""} ```",20.6285400390625
+hidden_test_sv_12,1135,1149,djerfwe Görgey,Q716001,PER,Q716001,Artúr Görgey,"```json {""wikipedia_page"": ""Artúr Görgey"", ""wikidata_id"": ""Q716001""} ```",10.70361328125
+hidden_test_sv_12,1203,1213,Jellachich,Q154418,PER,Q154418,Josip Jelačić,"```json {""wikipedia_page"": ""Josip Jelačić"", ""wikidata_id"": ""Q154418""} ```",18.102418899536133
+hidden_test_sv_12,1227,1232,Pesth,Q210205,LOC,Q210205,Pest,"```json {""wikipedia_page"": ""Pest"", ""wikidata_id"": ""Q210205""} ```",17.822021484375
+hidden_test_sv_12,1282,1290,Szegedin,Q81581,LOC,Q81581,Szeged,"```json {""wikipedia_page"": ""Szeged"", ""wikidata_id"": ""Q81581""} ```",22.199190139770508
+hidden_test_sv_12,1445,1452,Kossuth,Q157040,PER,Q157040,Lajos Kossuth,"```json {""wikipedia_page"": ""Lajos Kossuth"", ""wikidata_id"": ""Q157040""} ```",19.694725036621094
+hidden_test_sv_12,1479,1485,Olmütz,Q81137,LOC,Q81137,Olomouc,"```json {""wikipedia_page"": ""Olomouc"", ""wikidata_id"": ""Q81137""} ```",20.74802017211914
+hidden_test_sv_12,1494,1503,Dembinski,Q970945,PER,Q970945,Henryk Dembiński,"```json {""wikipedia_page"": ""Henryk Dembiński"", ""wikidata_id"": ""Q970945""} ```",16.54591941833496
+hidden_test_sv_12,1557,1561,Prag,Q1085,LOC,Q1085,Prag,"```json {""wikipedia_page"": ""Prag"", ""wikidata_id"": ""Q1085""} ```",19.162534713745117
+hidden_test_sv_12,1792,1799,Turkiet,Q43,LOC,Q43,Turkiet,"```json {""wikipedia_page"": ""Turkiet"", ""wikidata_id"": ""Q43""} ```",21.850841522216797
+hidden_test_sv_12,1807,1811,Wien,Q1741,LOC,Q1741,Wien,"```json {""wikipedia_page"": ""Wien"", ""wikidata_id"": ""Q1741""} ```",21.665597915649414
+hidden_test_sv_12,1867,1873,Galacz,Q170996,LOC,Q170996,Galați,"```json {""wikipedia_page"": ""Galați"", ""wikidata_id"": ""Q170996""} ```",19.773269653320312
+hidden_test_sv_12,2049,2068,Donaufurstendömenas,Q627527,LOC,Q627527,Donaufurstendömena,"```json {""wikipedia_page"": ""Donaufurstendömena"", ""wikidata_id"": ""Q627527""} ```",14.16796588897705
+hidden_test_sv_12,2181,2188,Turkiet,Q43,LOC,Q43,Turkiet,"```json {""wikipedia_page"": ""Turkiet"", ""wikidata_id"": ""Q43""} ```",22.21786117553711
+hidden_test_sv_12,2264,2270,Patras,Q133123,LOC,Q133123,Patras,"```json {""wikipedia_page"": ""Patras"", ""wikidata_id"": ""Q133123""} ```",11.622955322265625
+hidden_test_sv_12,2457,2467,Wallachiet,Q171393,LOC,Q171393,Valakiet,"```json {""wikipedia_page"": ""Valakiet"", ""wikidata_id"": ""Q171393""} ```",21.206912994384766
+hidden_test_sv_12,2478,2491,Siebenbürgens,Q39473,LOC,Q39473,Transsylvanien,"```json {""wikipedia_page"": ""Transsylvanien"", ""wikidata_id"": ""Q39473""} ```",17.3221435546875
+hidden_test_sv_12,2540,2555,Grefwe Radetzky,Q153500,PER,Q153500,Josef Wenzel Radetzky von Radetz,"```json {""wikipedia_page"": ""Josef Wenzel Radetzky von Radetz"", ""wikidata_id"": ""Q153500""} ```",17.81353187561035
+hidden_test_sv_12,2619,2626,Florens,Q2044,LOC,Q2044,Florens,"```json {""wikipedia_page"": ""Florens"", ""wikidata_id"": ""Q2044""} ```",23.1319637298584
+hidden_test_sv_12,2693,2705,Karl Alberts,Q181261,PER,Q181261,Karl Albert av Sardinien,"```json {""wikipedia_page"": ""Karl Albert av Sardinien"", ""wikidata_id"": ""Q181261""} ```",17.183116912841797
+hidden_test_sv_12,2719,2724,Paris,Q90,LOC,Q90,Paris,"```json {""wikipedia_page"": ""Paris"", ""wikidata_id"": ""Q90""} ```",20.65034294128418
+hidden_test_sv_12,2860,2868,Bosforen,Q35958,LOC,Q35958,Bosporen,"```json {""wikipedia_page"": ""Bosporen"", ""wikidata_id"": ""Q35958""} ```",18.622690200805664
+hidden_test_sv_12,2920,2933,Dardanellerna,Q6514,LOC,Q6514,Dardanellerna,"```json {""wikipedia_page"": ""Dardanellerna"", ""wikidata_id"": ""Q6514""} ```",20.693145751953125
+hidden_test_sv_12,2934,2937,Åbo,Q38511,LOC,Q38511,Åbo,"```json {""wikipedia_page"": ""Åbo"", ""wikidata_id"": ""Q38511""} ```",16.414594650268555
+hidden_test_sv_12,2995,3066,"Rektorn wid Lägre Elementarskolan i Brahestad, Mag. CarlAugust Finelius",Q20736672,PER,Q20736672,,"```json {""wikipedia_page"": """", ""wikidata_id"": ""Q20736672""} ```",16.462125778198242
+hidden_test_sv_13,1212,1215,Åbo,Q38511,LOC,Q38511,Åbo,"```json {""wikipedia_page"": ""Åbo"", ""wikidata_id"": ""Q38511""} ```",24.31548500061035
+hidden_test_sv_13,1270,1282,Henr. Heikel,Q3072579,PER,Q3072579,Henrik Heikel,,30.406232833862305
+hidden_test_sv_15,137,145,Suometar,Q21483135,PROD,Q21483135,Suometar,"```json {""wikipedia_page"": ""Suometar"", ""wikidata_id"": ""Q21483135""} ```",15.083459854125977
+hidden_test_sv_15,255,263,Sawolaks,Q853706,LOC,Q853706,Savolax,"```json {""wikipedia_page"": ""Savolax"", ""wikidata_id"": ""Q853706""} ```",18.871328353881836
+hidden_test_sv_15,344,355,St. Michels,Q190583,LOC,Q190583,S:t Michel,"```json {""wikipedia_page"": ""S:t Michel"", ""wikidata_id"": ""Q190583""} ```",18.150121688842773
+hidden_test_sv_15,368,382,Jorois socknar,Q1641672,LOC,Q1641672,Jorois,"```json {""wikipedia_page"": ""Jorois"", ""wikidata_id"": ""Q1641672""} ```",20.065969467163086
+hidden_test_sv_15,392,399,Warkaus,Q683525,LOC,Q683525,Varkaus,"```json {""wikipedia_page"": ""Varkaus"", ""wikidata_id"": ""Q683525""} ```",24.148256301879883
+hidden_test_sv_15,451,460,Heinäwesi,Q1009124,LOC,Q1009124,Heinävesi,,25.16757583618164
+hidden_test_sv_15,465,473,Libelitz,Q608803,LOC,Q608803,Libelits,"```json {""wikipedia_page"": ""Libelits"", ""wikidata_id"": ""Q608803""} ```",18.002578735351562
+hidden_test_sv_15,479,486,Joensuu,Q186237,LOC,Q186237,Joensuu,,27.40728187561035
+hidden_test_sv_15,521,527,Kuopio,Q162279,LOC,Q162279,Kuopio,"```json {""wikipedia_page"": ""Kuopio"", ""wikidata_id"": ""Q162279""} ```",23.06865882873535
+hidden_test_sv_15,575,612,aflidne kapellanenHenrik Schwartbergs,NIL,PER,NIL,aflidne kapellanenHenrik Schwartbergs,no,0
+hidden_test_sv_15,735,749,Karlö pastorat,NIL,ORG,NIL,Karlö pastorat,no,0
+hidden_test_sv_15,773,783,Säresniemi,Q11895753,LOC,Q11895753,Säräisniemi,"```json {""wikipedia_page"": ""Säräisniemi"", ""wikidata_id"": ""Q11895753""} ```",19.98653793334961
+hidden_test_sv_17,65,72,Sverige,Q34,LOC,Q34,Sverige,"```json {""wikipedia_page"": ""Sverige"", ""wikidata_id"": ""Q34""} ```",21.09667205810547
+hidden_test_sv_17,117,124,Italien,Q172579,LOC,Q172579,Kungariket Italien,"```json {""wikipedia_page"": ""Kungariket Italien"", ""wikidata_id"": ""Q172579""} ```",16.718429565429688
+hidden_test_sv_17,220,226,Sverge,Q34,LOC,Q34,Sverige,"```json {""wikipedia_page"": ""Sverige"", ""wikidata_id"": ""Q34""} ```",12.985350608825684
+hidden_test_sv_17,302,309,Sver-ge,Q34,LOC,Q34,Sverige,"```json {""wikipedia_page"": ""Sverige"", ""wikidata_id"": ""Q34""} ```",14.715527534484863
+hidden_test_sv_17,507,513,Sverge,Q34,LOC,Q34,Sverige,"```json {""wikipedia_page"": ""Sverige"", ""wikidata_id"": ""Q34""} ```",11.135896682739258
+hidden_test_sv_17,616,624,Siberien,Q5428,LOC,Q5428,Sibirien,"```json {""wikipedia_page"": ""Sibirien"", ""wikidata_id"": ""Q5428""} ```",16.01439666748047
+hidden_test_sv_17,1140,1154,Illustr. Tidn.,Q10534563,PROD,Q10534563,Illustrerad Tidning,,25.596128463745117
+hidden_test_sv_18,0,5,Paris,Q90,LOC,Q90,Paris,"```json {""wikipedia_page"": ""Paris"", ""wikidata_id"": ""Q90""} ```",20.0180721282959
+hidden_test_sv_18,213,231,departementen Eure,Q3372,LOC,Q3372,Eure,"```json {""wikipedia_page"": ""Eure"", ""wikidata_id"": ""Q3372""} ```",11.612919807434082
+hidden_test_sv_18,233,238,Somme,Q12770,LOC,Q12770,Somme,"```json {""wikipedia_page"": ""Somme"", ""wikidata_id"": ""Q12770""} ```",22.57021141052246
+hidden_test_sv_18,387,392,Paris,Q90,LOC,Q90,Paris,"```json {""wikipedia_page"": ""Paris"", ""wikidata_id"": ""Q90""} ```",22.803850173950195
+hidden_test_sv_18,636,648,FILANDS BANK,Q194060,ORG,Q194060,Finlands Bank,"```json {""wikipedia_page"": ""Finlands Bank"", ""wikidata_id"": ""Q194060""} ```",19.48705291748047
+hidden_test_sv_18,661,667,London,Q84,LOC,Q84,London,"```json {""wikipedia_page"": ""London"", ""wikidata_id"": ""Q84""} ```",21.86071014404297
+hidden_test_sv_18,683,690,Hamburg,Q1055,LOC,Q1055,Hamburg,"```json {""wikipedia_page"": ""Hamburg"", ""wikidata_id"": ""Q1055""} ```",24.893646240234375
+hidden_test_sv_18,708,717,Amsterdam,Q727,LOC,Q727,Amsterdam,"```json {""wikipedia_page"": ""Amsterdam"", ""wikidata_id"": ""Q727""} ```",24.664440155029297
+hidden_test_sv_18,733,742,Stockholm,Q1754,LOC,Q1754,Stockholm,"```json {""wikipedia_page"": ""Stockholm"", ""wikidata_id"": ""Q1754""} ```",23.42188835144043
+hidden_test_sv_18,760,774,St. Petersburg,Q656,LOC,Q656,Sankt Petersburg,"```json {""wikipedia_page"": ""Sankt Petersburg"", ""wikidata_id"": ""Q656""} ```",20.330562591552734
+hidden_test_sv_18,817,823,London,Q84,LOC,Q84,London,"```json {""wikipedia_page"": ""London"", ""wikidata_id"": ""Q84""} ```",18.073637008666992
+hidden_test_sv_18,832,839,Hamburg,Q1055,LOC,Q1055,Hamburg,"```json {""wikipedia_page"": ""Hamburg"", ""wikidata_id"": ""Q1055""} ```",21.98214340209961
+hidden_test_sv_18,844,853,Amsterdam,Q727,LOC,Q727,Amsterdam,"```json {""wikipedia_page"": ""Amsterdam"", ""wikidata_id"": ""Q727""} ```",20.26740837097168
+hidden_test_sv_18,859,868,Stockholm,Q1754,LOC,Q1754,Stockholm,"```json {""wikipedia_page"": ""Stockholm"", ""wikidata_id"": ""Q1754""} ```",19.307456970214844
+hidden_test_sv_18,894,908,St. Petersburg,Q656,LOC,Q656,Sankt Petersburg,"```json {""wikipedia_page"": ""Sankt Petersburg"", ""wikidata_id"": ""Q656""} ```",18.121891021728516
+hidden_test_sv_18,935,949,ST. PETERSBURG,Q656,LOC,Q656,Sankt Petersburg,"```json {""wikipedia_page"": ""Sankt Petersburg"", ""wikidata_id"": ""Q656""} ```",19.87042236328125
+hidden_test_sv_18,960,966,London,Q84,LOC,Q84,London,"```json {""wikipedia_page"": ""London"", ""wikidata_id"": ""Q84""} ```",17.997684478759766
+hidden_test_sv_18,992,1001,Amsterdam,Q727,LOC,Q727,Amsterdam,"```json {""wikipedia_page"": ""Amsterdam"", ""wikidata_id"": ""Q727""} ```",19.63920021057129
+hidden_test_sv_18,1020,1028,Ham-burg,Q1055,LOC,Q1055,Hamburg,"```json {""wikipedia_page"": ""Hamburg"", ""wikidata_id"": ""Q1055""} ```",20.437702178955078
+hidden_test_sv_18,1046,1053,Belgien,Q31,LOC,Q31,Belgien,"```json {""wikipedia_page"": ""Belgien"", ""wikidata_id"": ""Q31""} ```",14.426773071289062
+hidden_test_sv_18,1105,1114,STOCKHOLM,Q1754,LOC,Q1754,Stockholm,"```json {""wikipedia_page"": ""Stockholm"", ""wikidata_id"": ""Q1754""} ```",21.132930755615234
+hidden_test_sv_18,1125,1131,London,Q84,LOC,Q84,London,"```json {""wikipedia_page"": ""London"", ""wikidata_id"": ""Q84""} ```",19.50914764404297
+hidden_test_sv_18,1172,1179,Hamburg,Q1055,LOC,Q1055,Hamburg,"```json {""wikipedia_page"": ""Hamburg"", ""wikidata_id"": ""Q1055""} ```",22.704458236694336
+hidden_test_sv_18,1220,1230,Am-sterdam,Q727,LOC,Q727,Amsterdam,"```json {""wikipedia_page"": ""Amsterdam"", ""wikidata_id"": ""Q727""} ```",18.10367202758789
+hidden_test_sv_18,1267,1276,Köpenhamn,Q1748,LOC,Q1748,Köpenhamn,"```json {""wikipedia_page"": ""Köpenhamn"", ""wikidata_id"": ""Q1748""} ```",23.31163787841797
+hidden_test_sv_18,1319,1322,ÅBO,Q38511,LOC,Q38511,Åbo,"```json {""wikipedia_page"": ""Åbo"", ""wikidata_id"": ""Q38511""} ```",15.439650535583496
+hidden_test_sv_19,3,15,Borgå stifts,Q10433218,ORG,Q10433218,Borgå stift 1723-1923,"```json {""wikipedia_page"": ""Borgå stift 1723-1923"", ""wikidata_id"": ""Q10433218""} ```",22.752042770385742
+hidden_test_sv_19,41,66,pro-fessor A. F. Granfelt,Q5768295,PER,Q5768295,Axel Fredrik Granfelt,"```json {""wikipedia_page"": ""Axel Fredrik Granfelt"", ""wikidata_id"": ""Q5768295""} ```",17.84491539001465
+hidden_test_sv_19,74,78,Hbl.,Q613979,PROD,Q613979,Hufvudstadsbladet,"```json {""wikipedia_page"": ""Hufvudstadsbladet"", ""wikidata_id"": ""Q613979""} ```",9.62260627746582
+hidden_test_sv_19,135,139,Wasa,Q125080,LOC,Q125080,Vasa,"```json {""wikipedia_page"": ""Vasa"", ""wikidata_id"": ""Q125080""} ```",21.05145263671875
+hidden_test_sv_19,151,160,Åbo stift,Q1365769,ORG,Q1365769,Åbo ärkestift,"```json {""wikipedia_page"": ""Åbo ärkestift"", ""wikidata_id"": ""Q1365769""} ```",20.870380401611328
+hidden_test_sv_20,337,347,Sandefjord,Q109005,LOC,Q109005,Sandefjords kommun,,26.172069549560547
+hidden_test_sv_20,483,489,Medevi,Q6805278,ORG,Q6805278,Medevi brunn,"```json {""wikipedia_page"": ""Medevi brunn"", ""wikidata_id"": ""Q6805278""} ```",14.201330184936523
+hidden_test_sv_20,546,551,Paris,Q90,LOC,Q90,Paris,"```json {""wikipedia_page"": ""Paris"", ""wikidata_id"": ""Q90""} ```",24.569660186767578
+hidden_test_sv_20,1517,1535,sir Charles Dilkes,Q338114,PER,Q338114,Charles Wentworth Dilke,"```json {""wikipedia_page"": ""Charles Wentworth Dilke"", ""wikidata_id"": ""Q338114""} ```",23.475019454956055
+hidden_test_sv_20,1662,1679,sir Charles Dilke,Q338114,PER,Q338114,Charles Wentworth Dilke,"```json {""wikipedia_page"": ""Charles Wentworth Dilke"", ""wikidata_id"": ""Q338114""} ```",21.523649215698242
+hidden_test_sv_20,1713,1725,mrs Crawford,NIL,PER,NIL,mrs Crawford,no,0
