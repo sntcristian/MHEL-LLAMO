@@ -29,7 +29,7 @@ conda activate bela39
 python get_candidates.py --dataset_path ./test_data/HIPE_EN --output_dir ./results/HIPE_EN --top_k 50 --lang en
 ```
 
-## Perform Candidate Selection with LLM and Compute Metrics
+## Perform NIL Prediction and Candidate Selection with LLM and Compute Metrics
 ```
 conda activate llm
 
