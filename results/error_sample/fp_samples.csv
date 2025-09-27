@@ -7,16 +7,7 @@ sn83030483-1790-03-03-a-i0004,232,240,Brufiels,Q239,LOC,NIL,Brufiels,no.,0.0,hip
 sn84020750-1840-07-18-a-i0001,5,22,the Pennsylvanian,NIL,PROD,Q2475732,Province of Pennsylvania,"```json {""wikipedia_page"":""Province of Pennsylvania"", ""wikidata_id"":""Q2475732""} ```",7.339473247528076,hipe_en,0,0,0,1,0,0
 sn86063397-1900-06-26-a-i0002,1642,1653,N. B. Scott,Q1966467,PER,NIL,N. B. Scott,No.,0.0,hipe_en,1,0,0,0,0,0
 sn86063397-1900-06-26-a-i0002,797,810,Colonel 'Dick,Q1066346,PER,NIL,Colonel 'Dick,No.,0.0,hipe_en,1,0,0,0,0,0
-sn84020750-1840-07-18-a-i0001,1679,1691,Pennsylvania,Q1400,LOC,Q2475732,Province of Pennsylvania,"```json {""wikipedia_page"": ""Province of Pennsylvania"", ""wikidata_id"": ""Q2475732""} ```",17.451648712158203,hipe_en,0,0,0,1,0,0
-sn83030483-1790-03-03-a-i0004,491,506,General D’Alton,Q3934904,PER,NIL,General D’Alton,No,0.0,hipe_en,1,0,0,0,0,0
-sn92063852-1950-02-25-a-i0005,497,537,Fiist Lady of the Republic. Madam Estine,Q18926909,PER,NIL,Fiist Lady of the Republic. Madam Estine,No.,0.0,hipe_en,1,0,0,0,0,0
-sn83020874-1830-02-03-a-i0003,396,405,New Haven,NIL,LOC,Q49145,New Haven,"```json {""wikipedia_page"":""New Haven"", ""wikidata_id"":""Q49145""} ```",24.260883331298828,hipe_en,0,1,0,0,0,0
-sn89058133-1920-04-22-a-i0003,179,189,Cookeville,Q2456192,LOC,NIL,Cookeville,No.,0.0,hipe_en,1,0,0,0,0,0
-sn91068761-1960-03-30-a-i0003,417,449,North Carolina Kgg Associa¬ tion,NIL,ORG,Q24534487,North Carolina Growers Association,"```json {""wikipedia_page"":""North Carolina Growers Association"", ""wikidata_id"":""Q24534487""} ```",18.952131271362305,hipe_en,0,0,0,1,0,0
-sn84026272-1800-10-16-a-i0001,164,183,Alexan¬ der Addison,NIL,PER,Q25184130,Alexander Addison,"```json {""wikipedia_page"":""Alexander Addison"", ""wikidata_id"":""Q25184130""} ```",22.7692985534668,hipe_en,0,1,0,0,0,0
-sn83030483-1790-01-02-a-i0004,7,15,VIRGINIA,Q64358128,LOC,Q1070529,Colony of Virginia,"```json {""wikipedia_page"":""Colony of Virginia"",""wikidata_id"":""Q1070529""} ```",13.144692420959473,hipe_en,0,0,0,1,0,0
-sn86063397-1900-06-26-a-i0002,1859,1864,HANNA,Q509441,PER,NIL,HANNA,No.,0.0,hipe_en,1,0,0,0,0,0
-sn82014385-1810-04-04-a-i0003,256,266,Port Maria,Q203040,LOC,NIL,Port Maria,No.,0.0,hipe_en,1,0,0,0,0,0
+sn84020750-1840-07-18-a-i0001,1679,1691,Pennsylvania,Q1400,LOC,Q2475732,Province of Pennsylvania,"```json {""wikipedia_page"": ""Province of Pennsylvania"", ""wikidata_id"": ""Q2475732""} ```",17.451648712158203,hipe_en,0,0,1,0,0,0
 EXP-1828-06-12-a-i0001,10593,10607,Prés de _Reuse,NIL,LOC,Q68657,Rueyres-les-Prés,"```json {""wikipedia_page"":""Rueyres-les-Prés"", ""wikidata_id"":""Q68657""} ```",13.793129920959473,hipe_fr,1,0,0,0,0,0
 EXP-1868-04-22-a-i0042,968,975,Salford,Q1142118,LOC,Q47952,Salford,"```json {""wikipedia_page"":""Salford"", ""wikidata_id"":""Q47952""} ```",21.19684600830078,hipe_fr,0,0,0,0,0,1
 EXP-1828-06-12-a-i0001,5327,5332,Ponts,Q68617,LOC,NIL,Ponts,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0.0,hipe_fr,1,0,0,0,0,0
@@ -25,177 +16,86 @@ GDL-1968-11-02-a-i0267,7770,7775,Paris,Q90,LOC,Q3278478,Ville de Paris,"```json 
 GDL-1848-07-04-a-i0001,8359,8367,FIUBOUKG,Q12640,LOC,Q906681,Thiébouhans,"```json {""wikipedia_page"":""Thiébouhans"", ""wikidata_id"":""Q906681""} ```",4.869844436645508,hipe_fr,1,0,0,0,0,0
 GDL-1848-07-04-a-i0001,2609,2615,Luceme,Q12121,LOC,NIL,Luceme,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0.0,hipe_fr,1,0,0,0,0,0
 EXP-1798-02-15-a-i0004,3509,3520,M. Ghatenay,NIL,PER,Q15967996,Jean-Baptiste Garnier,"```json {""wikipedia_page"":""Jean-Baptiste Garnier"", ""wikidata_id"":""Q15967996""} ```",13.850349426269531,hipe_fr,1,0,0,0,0,0
-GDL-1918-05-16-a-i0086,221,231,Montdidier,Q21970,LOC,Q74308,Montdidier,"```json {""wikipedia_page"":""Montdidier"", ""wikidata_id"":""Q74308""} ```",18.661117553710938,hipe_fr,1,0,0,0,0,0
-EXP-1868-04-22-a-i0042,623,631,Thédoros,NIL,PER,Q2418786,Théodoros fils de Séleucos,"```json { ""wikipedia_page"": ""Théodoros fils de Séleucos"", ""wikidata_id"": ""Q2418786"" } ```",14.722734451293944,hipe_fr,1,0,0,0,0,0
-EXP-1878-02-14-a-i0050,1227,1231,ROKE,Q220,LOC,NIL,ROKE,"```json {""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL""} ```",0.0,hipe_fr,1,0,0,0,0,0
-IMP-1908-10-03-a-i0027,5999,6024,baron James de Rothschild,Q6128825,PER,Q922667,James de Rothschild,"```json {""wikipedia_page"":""James de Rothschild"", ""wikidata_id"":""Q922667""} ```",19.486980438232425,hipe_fr,0,0,0,1,0,0
-GDL-1948-07-15-a-i0035,2903,2920,"M. Ruedi, notaire",NIL,PER,Q189010,notaire,"```json {""wikipedia_page"":""notaire"", ""wikidata_id"":""Q189010""} ```",15.86703109741211,hipe_fr,0,0,0,0,1,0
-GDL-1978-06-23-a-i0197,1537,1590,"M. Holding Carter, porte-parole du Département d'Etat",Q5875974,PER,Q17279657,porte-parole du département d'État des États-Unis,"```json {""wikipedia_page"":""porte-parole du département d'État des États-Unis"", ""wikidata_id"":""Q17279657""} ```",16.18428611755371,hipe_fr,0,0,0,0,1,0
-IMP-1988-12-30-a-i0015,268,279,Marie-Laure,NIL,PER,Q109044425,Marie-Laure,"```json {""wikipedia_page"":""Marie-Laure"", ""wikidata_id"":""Q109044425""} ```",17.17051124572754,hipe_fr,1,0,0,0,0,0
-GDL-1968-05-30-a-i0128,1137,1139,Ap,Q40469,ORG,Q118,avril,"```json { ""wikipedia_page"": ""avril"", ""wikidata_id"": ""Q118"" } ```",6.001918792724609,hipe_fr,0,0,0,0,0,0
 NZZ-1938-09-13-b-p0001,7661,7680,"Kopp (soz., Zürich)",NIL,PER,Q122063,Elisabeth Kopp,,21.856426239013672,hipe_de,0,0,0,0,0,0
 NZZ-1858-04-20-a-p0003,1164,1174,St. Gallen,Q12746,LOC,Q25607,St. Gallen,,24.77943992614746,hipe_de,0,0,0,0,0,0
-NZZ-1878-01-07-b-p0002,3708,3720,Kronst. Ztg.,NIL,PROD,Q107742706,Kronstädter Zeitung,"```json {""wikipedia_page"":""Kronstädter Zeitung"", ""wikidata_id"":""Q107742706""} ```",10.641090393066406,hipe_de,0,0,0,0,0,0
-tageblatt-1918-04-23-a-i0010,4938,4950,Haoasmeldung,Q516033,ORG,NIL,Haoasmeldung,no,0.0,hipe_de,0,0,0,0,0,0
-tageblatt-1918-06-14-a-i0004,2079,2097,Journal des Tebats,Q2565164,PROD,NIL,Journal des Tebats,no,0.0,hipe_de,0,0,0,0,0,0
-NZZ-1888-03-08-b-p0002,4684,4691,Serbien,Q403,LOC,Q241748,Königreich Serbien,"```json {""wikipedia_page"": ""Königreich Serbien"", ""wikidata_id"": ""Q241748""} ```",17.042085647583008,hipe_de,0,0,0,0,0,0
-tageblatt-1928-05-09-a-i0020,2852,2862,Marc Nurel,Q1430,PER,NIL,Marc Nurel,No.,0.0,hipe_de,0,0,0,0,0,0
-tageblatt-1948-07-29-a-i0034,1186,1195,Bulgarien,Q219,LOC,Q121932,Volksrepublik Bulgarien,"```json {""wikipedia_page"": ""Volksrepublik Bulgarien"", ""wikidata_id"": ""Q121932""} ```",17.94175910949707,hipe_de,0,0,0,0,0,0
-NZZ-1918-09-09-c-p0002,165,179,La Basséekanal,Q1032668,LOC,Q1032701,Canal latéral à l’Oise,"```json {""wikipedia_page"": ""Canal latéral à l’Oise"", ""wikidata_id"": ""Q1032701""} ```",18.07025909423828,hipe_de,0,0,0,0,0,0
-tageblatt-1938-11-08-a-i0056,282,300,Vicomte Rothermere,Q336483,PER,NIL,Vicomte Rothermere,no,0.0,hipe_de,0,0,0,0,0,0
-NZZ-1888-03-08-b-p0002,4812,4819,Bosnien,Q225,LOC,Q188736,Bosnien,,22.187074661254883,hipe_de,0,0,0,0,0,0
-NZZ-1888-03-08-b-p0002,2534,2544,Belleville,Q815949,LOC,Q1440685,Belleville,,23.397438049316406,hipe_de,0,0,0,0,0,0
-tageblatt-1918-04-23-a-i0010,90,103,Züricher Post,NIL,PROD,Q110492514,Züricher Post,,21.93654060363769,hipe_de,0,0,0,0,0,0
-NZZ-1938-09-13-b-p0001,3319,3330,Mühlebaches,NIL,LOC,Q60847746,Mühlebach,,26.741926193237305,hipe_de,0,0,0,0,0,0
-NZZ-1938-09-13-b-p0001,74,115,"Präsident Dr. J. Eugster (freis., Zürich)",Q1392141,PER,Q1852929,Liste der Ständeräte des Kantons Zürich,,22.757442474365234,hipe_de,0,0,0,0,0,0
-NZZ-1938-09-13-b-p0001,9770,9775,Kaegi,Q4668150,PER,NIL,Kaegi,no,0.0,hipe_de,0,0,0,0,0,0
-hidden_test_fr_30,7444,7449,Lille,NIL,LOC,Q648,Lille,,22.21534919738769,newseye_fr,0,0,0,0,0,0
-hidden_test_fr_5,917,930,CLICHY-PALACE,NIL,LOC,Q201982,Clichy,,22.498458862304688,newseye_fr,0,0,0,0,0,0
-hidden_test_fr_17,10468,10485,Banque Parisienne,NIL,ORG,Q2883414,Banque nationale de Paris,,27.975868225097656,newseye_fr,0,0,0,0,0,0
-hidden_test_fr_16,6667,6674,Déjazet,Q437167,PER,Q3527454,théâtre Déjazet,"```json {""wikipedia_page"":""théâtre Déjazet"", ""wikidata_id"":""Q3527454""} ```",15.46986484527588,newseye_fr,0,0,0,0,0,0
-hidden_test_fr_20,4199,4213,Varenne-St-H-p,Q18276998,LOC,Q1625490,Varennes-Saint-Sauveur,"```json {""wikipedia_page"":""Varennes-Saint-Sauveur"", ""wikidata_id"":""Q1625490""} ```",11.945412635803224,newseye_fr,0,0,0,0,0,0
-hidden_test_fr_17,11806,11823,M. de Montali¬vet,Q240902,PER,Q713950,Jean-Pierre de Montalivet,"```json {""wikipedia_page"": ""Jean-Pierre de Montalivet"", ""wikidata_id"": ""Q713950""} ```",18.720474243164062,newseye_fr,0,0,0,0,0,0
-hidden_test_fr_30,8130,8134,Agen,NIL,LOC,Q6625,Agen,,23.268096923828125,newseye_fr,0,0,0,0,0,0
-hidden_test_fr_24,1081,1090,M. Galmot,Q3172205,PER,Q3173410,Jean Marmot,,26.37702178955078,newseye_fr,0,0,0,0,0,0
-hidden_test_fr_21,9669,9675,Horace,NIL,PER,Q3140443,Horace Bianchon,"```json {""wikipedia_page"":""Horace Bianchon"", ""wikidata_id"":""Q3140443""} ```",17.450122833251953,newseye_fr,0,0,0,0,0,0
-hidden_test_fr_14,2815,2822,Chambre,Q58910280,ORG,Q320283,Chambre des députés,"```json {""wikipedia_page"": ""Chambre des députés"", ""wikidata_id"": ""Q320283""} ```",12.560190200805664,newseye_fr,0,0,0,0,0,0
-hidden_test_fr_23,4530,4547,lieutenant Pascal,Q2267959,PER,NIL,lieutenant Pascal,no,0.0,newseye_fr,0,0,0,0,0,0
-hidden_test_fr_18,19,60,"M. le général Lewal, ministre de laguerre",Q318984,PER,NIL,"M. le général Lewal, ministre de laguerre",no,0.0,newseye_fr,0,0,0,0,0,0
-hidden_test_fr_14,21486,21505,"104, rue Ri¬chelieu",NIL,ORG,Q2915495,rue de Richelieu,,23.46451187133789,newseye_fr,0,0,0,0,0,0
-hidden_test_fr_28,3267,3281,rue de Ri¬voli,NIL,LOC,Q141747,rue de Rivoli,,25.97579765319824,newseye_fr,0,0,0,0,0,0
-hidden_test_de_2_sent277,113,122,Innsbruck,NIL,LOC,Q1735,Innsbruck,"```json {""wikipedia_page"":""Innsbruck"", ""wikidata_id"":""Q1735""} ```",23.06831741333008,newseye_de,0,0,0,0,0,0
-hidden_test_de_1_sent197,1119,1127,Hainfeld,NIL,LOC,Q671275,Hainfeld,"```json {""wikipedia_page"": ""Hainfeld"", ""wikidata_id"": ""Q671275""} ```",12.288896560668944,newseye_de,0,0,0,0,0,0
-hidden_test_de_7_sent95,44,68,Maria=Threresien=Str. 25,Q647485,LOC,NIL,Maria=Threresien=Str. 25,no,0.0,newseye_de,0,0,0,0,0,0
-hidden_test_de_13_sent165,198,202,Enns,Q217524,LOC,Q260089,Enns,"```json {""wikipedia_page"":""Enns"", ""wikidata_id"":""Q260089""} ```",20.877626419067383,newseye_de,0,0,0,0,0,0
-hidden_test_de_1_sent195,679,694,Kaltenleutgeben,NIL,LOC,Q665008,Kaltenleutgeben,"```json {""wikipedia_page"": ""Kaltenleutgeben"", ""wikidata_id"": ""Q665008""} ```",17.155651092529297,newseye_de,0,0,0,0,0,0
-hidden_test_de_2_sent328,10,13,Rom,NIL,LOC,Q220,Rom,"```json {""wikipedia_page"":""Rom"", ""wikidata_id"":""Q220""} ```",22.94176483154297,newseye_de,0,0,0,0,0,0
-hidden_test_de_13_sent256,618,627,Cimpersky,NIL,PER,Q364939,Adolf Šimperský,"```json {""wikipedia_page"": ""Adolf Šimperský"", ""wikidata_id"": ""Q364939""} ```",16.57098960876465,newseye_de,0,0,0,0,0,0
-hidden_test_de_1_sent197,13,21,Hainfeld,NIL,LOC,Q671275,Hainfeld,"```json {""wikipedia_page"":""Hainfeld"", ""wikidata_id"":""Q671275""} ```",17.337507247924805,newseye_de,0,0,0,0,0,0
-hidden_test_de_1_sent194,59,63,Wien,NIL,LOC,Q1741,Wien,"```json {""wikipedia_page"":""Wien"", ""wikidata_id"":""Q1741""} ```",20.463869094848636,newseye_de,0,0,0,0,0,0
-hidden_test_de_10_sent16,6,14,Preussen,Q38872,LOC,Q27306,Königreich Preußen,"```json {""wikipedia_page"":""Königreich Preußen"", ""wikidata_id"":""Q27306""} ```",12.769682884216309,newseye_de,0,0,0,0,0,0
-hidden_test_de_1_sent239,22,26,Wien,NIL,LOC,Q1741,Wien,"```json {""wikipedia_page"":""Wien"", ""wikidata_id"":""Q1741""} ```",14.042095184326172,newseye_de,0,0,0,0,0,0
-hidden_test_de_1_sent197,1079,1094,Kaltenleutgeben,NIL,LOC,Q665008,Kaltenleutgeben,"```json {""wikipedia_page"":""Kaltenleutgeben"", ""wikidata_id"":""Q665008""} ```",14.615208625793455,newseye_de,0,0,0,0,0,0
-hidden_test_sv_2,118,132,Finlands Banks,NIL,ORG,Q194060,Finlands Bank,,26.267534255981445,newseye_sv,0,0,0,0,0,0
-hidden_test_sv_7,6678,6685,Finland,Q62633,LOC,Q33,Finland,"```json {""wikipedia_page"": ""Finland"", ""wikidata_id"": ""Q33""} ```",24.64869880676269,newseye_sv,0,0,0,0,0,0
-hidden_test_sv_13,257,269,Nylandsgatan,Q18662573,LOC,Q27170703,Nylandsgatan,"```json {""wikipedia_page"": ""Nylandsgatan"", ""wikidata_id"": ""Q27170703""} ```",18.821514129638672,newseye_sv,0,0,0,0,0,0
-hidden_test_sv_17,391,397,Sverge,Q34,LOC,NIL,Sverge,"```json {""wikipedia_page"": ""Sverige"", ""wikidata_id"": ""Q34""} ```",0.0,newseye_sv,0,0,0,0,0,0
-hidden_test_sv_3,317,326,Frankrike,Q70802,LOC,Q142,Frankrike,"```json {""wikipedia_page"": ""Frankrike"", ""wikidata_id"": ""Q142""} ```",23.048486709594727,newseye_sv,0,0,0,0,0,0
-hidden_test_sv_1,1778,1798,psendony-men Alceste,NIL,PER,Q61002,pseudonym,"```json {""wikipedia_page"": ""pseudonym"", ""wikidata_id"": ""Q61002""} ```",12.676937103271484,newseye_sv,0,0,0,0,0,0
-hidden_test_sv_6,5333,5348,provinsen Hupch,Q46862,LOC,NIL,provinsen Hupch,no,0.0,newseye_sv,0,0,0,0,0,0
-hidden_test_sv_10,1043,1059,fröken von Essen,NIL,PER,Q435209,Siri von Essen,"```json {""wikipedia_page"": ""Siri von Essen"", ""wikidata_id"": ""Q435209""} ```",12.854129791259766,newseye_sv,0,0,0,0,0,0
-hidden_test_sv_6,5065,5075,norra Kina,NIL,LOC,Q148,Kina,"```json {""wikipedia_page"": ""Kina"", ""wikidata_id"": ""Q148""} ```",14.27794361114502,newseye_sv,0,0,0,0,0,0
-hidden_test_sv_7,6513,6521,Finlands,Q62633,LOC,Q33,Finland,"```json {""wikipedia_page"": ""Finland"", ""wikidata_id"": ""Q33""} ```",22.66450881958008,newseye_sv,0,0,0,0,0,0
-hidden_test_sv_5,2645,2661,kapten Söderlund,NIL,PER,Q100722549,Carl Rudenschiöld,"```json {""wikipedia_page"": ""Carl Rudenschiöld"", ""wikidata_id"": ""Q100722549""} ```",14.599602699279783,newseye_sv,0,0,0,0,0,0
-hidden_test_sv_2,7412,7440,Viborg arbetaren P.Pelkonens,NIL,PER,Q14657,Viborg,"```json {""wikipedia_page"": ""Viborg"", ""wikidata_id"": ""Q14657""} ```",14.96641445159912,newseye_sv,0,0,0,0,0,0
-hidden_test_fi_2,267,295,MerivakuutusosakeyhtiöTriton,NIL,ORG,Q97198894,Merivakuutus Oy Triton,"```json {""wikipedia_page"": ""Merivakuutus Oy Triton"", ""wikidata_id"": ""Q97198894""} ```",23.950424194335938,newseye_fi,0,0,0,0,0,0
-hidden_test_fi_22,138,152,Kustaawin pit.,Q807900,LOC,NIL,Kustaawin pit.,no,0.0,newseye_fi,0,0,0,0,0,0
-hidden_test_fi_3,3313,3340,agronoomi Nicolai Fabricius,NIL,PER,Q1781198,maataloustieteilijä,"```json {""wikipedia_page"": ""maataloustieteilijä"", ""wikidata_id"": ""Q1781198""} ```",18.28823471069336,newseye_fi,0,0,0,0,0,0
-hidden_test_fi_4,4589,4611,Ottovon Nordenskjöldin,NIL,PER,Q440310,Otto Nordenskjöld,"```json {""wikipedia_page"": ""Otto Nordenskjöld"", ""wikidata_id"": ""Q440310""} ```",24.158184051513672,newseye_fi,0,0,0,0,0,0
-hidden_test_fi_3,2488,2511,räätäliNikolai Knjaseff,NIL,PER,Q242468,vaatturi,"```json {""wikipedia_page"": """", ""wikidata_id"": ""Q242468""} ```",14.609779357910156,newseye_fi,0,0,0,0,0,0
-hidden_test_fi_4,1172,1201,JalkarannanJaakkolan metsästä,NIL,LOC,Q18659455,Jalkaranta,"```json {""wikipedia_page"": ""Jalkaranta"", ""wikidata_id"": ""Q18659455""} ```",19.91008949279785,newseye_fi,0,0,0,0,0,0
-hidden_test_fi_9,0,16,Ruhtinas Bülowin,NIL,PER,Q4943356,,"```json {""wikipedia_page"": """", ""wikidata_id"": ""Q4943356""} ```",6.022074699401856,newseye_fi,0,0,0,0,0,0
-hidden_test_fi_4,3884,3909,taitellija Th. Vaenerberg,NIL,PER,Q6228261,Thorsten Waenerberg,"```json {""wikipedia_page"": ""Thorsten Waenerberg"", ""wikidata_id"": ""Q6228261""} ```",14.571901321411133,newseye_fi,0,0,0,0,0,0
-hidden_test_fi_6,881,897,Asiamies Castrén,Q5604855,PER,Q106076116,Lauri Castrén,"```json {""wikipedia_page"": ""Lauri Castrén"", ""wikidata_id"": ""Q106076116""} ```",11.27538013458252,newseye_fi,0,0,0,0,0,0
-hidden_test_fi_4,4800,4822,kapt. E. G. Henschenin,NIL,PER,Q1533688,Godefridus Henschenius,"```json {""wikipedia_page"": ""Godefridus Henschenius"", ""wikidata_id"": ""Q1533688""} ```",20.09705924987793,newseye_fi,0,0,0,0,0,0
-hidden_test_fi_3,3452,3500,"hierojatar, les-kirouva Maria Lovisa Tsheepanoff",NIL,PER,Q2419397,terapeutti,"```json {""wikipedia_page"": ""terapeutti"", ""wikidata_id"": ""Q2419397""} ```",14.38747787475586,newseye_fi,0,0,0,0,0,0
-hidden_test_fi_1,1706,1715,Venäjällä,Q34266,LOC,Q159,Venäjä,"```json {""wikipedia_page"": ""Venäjä"", ""wikidata_id"": ""Q159""} ```",19.52863883972168,newseye_fi,0,0,0,0,0,0
-cu31924087948174_0059,1484,1491,Phoebus,Q3382132,PER,Q37340,Apollo,"```json {""wikipedia_page"": ""Apollo"", ""wikidata_id"": ""Q37340""} ```",17.520896911621094,ajmc_en,0,0,0,0,0,0
-sophoclesplaysa05campgoog_0099,934,944,Slob. For.,Q107029507,WORK,NIL,Slob. For.,"```json {""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL""} ```",0.0,ajmc_en,0,0,0,0,0,0
-cu31924087948174_0061,147,156,Oed. Tyr.,Q148643,WORK,NIL,Oed. Tyr.,"```json {""wikipedia_page"":""Oedipus Tyrannus"", ""wikidata_id"":""NIL""} ```",0.0,ajmc_en,0,0,0,0,0,0
-cu31924087948174_0022,75,80,Jahnl,Q66001,PER,NIL,Jahnl,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0.0,ajmc_en,0,0,0,0,0,0
-sophoclesplaysa05campgoog_0099,2299,2310,Eur. Helen.,Q614607,WORK,Q1248812,Helen,"```json { ""wikipedia_page"": ""Helen"", ""wikidata_id"": ""Q1248812"" } ```",16.830881118774414,ajmc_en,0,0,0,0,0,0
-sophoclesplaysa05campgoog_0099,2626,2630,Κuhn,Q97582,PER,NIL,Κuhn,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0.0,ajmc_en,0,0,0,0,0,0
-sophoclesplaysa05campgoog_0102,2388,2393,O. T.,Q148643,WORK,NIL,O. T.,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0.0,ajmc_en,0,0,0,0,0,0
-sophoclesplaysa05campgoog_0102,387,390,El.,Q540161,WORK,Q3721321,Elegies,"```json { ""wikipedia_page"": ""Elegies"", ""wikidata_id"": ""Q3721321"" } ```",5.28476095199585,ajmc_en,0,0,0,0,0,0
-sophoclesplaysa05campgoog_0102,100,103,Ph.,Q1415903,WORK,Q244161,Phaedo,"```json {""wikipedia_page"":""Phaedo"", ""wikidata_id"":""Q244161""} ```",8.347354888916016,ajmc_en,0,0,0,0,0,0
-sophoclesplaysa05campgoog_0099,304,308,Eur.,Q48305,PER,NIL,Eur.,"```json { ""wikipedia_page"": ""Euripides"", ""wikidata_id"": ""NIL"" } ```",0.0,ajmc_en,0,0,0,0,0,0
-sophoclesplaysa05campgoog_0107,241,245,Aπt.,Q241077,WORK,Q3237044,Epistulae ad Atticum,"```json {""wikipedia_page"":""Epistulae ad Atticum"", ""wikidata_id"":""Q3237044""} ```",8.227823257446289,ajmc_en,0,0,0,0,0,0
-sophoclesplaysa05campgoog_0107,406,414,Pind. P.,Q3411444,WORK,Q134929,Pindar,"```json {""wikipedia_page"": ""Pindar"", ""wikidata_id"": ""Q134929""} ```",12.479124069213867,ajmc_en,0,0,0,0,0,0
-cu31924087948174_0062,918,926,Pind. P.,Q3411444,WORK,Q134929,Pindar,"```json {""wikipedia_page"": ""Pindar"", ""wikidata_id"": ""Q134929""} ```",9.266938209533691,ajmc_en,0,0,0,0,0,0
-cu31924087948174_0061,1126,1135,"Tecmessa,",Q10796858,PER,Q3516977,Tecmessa,"```json {""wikipedia_page"":""Tecmessa"", ""wikidata_id"":""Q3516977""} ```",13.992656707763672,ajmc_en,0,0,0,0,0,0
-sophoclesplaysa05campgoog_0102,1056,1059,El.,Q733444,WORK,Q8275,Iliad,"```json { ""wikipedia_page"": ""Iliad"", ""wikidata_id"": ""Q8275"" } ```",6.171131134033203,ajmc_en,0,0,0,0,0,0
-sophoclesplaysa05campgoog_0099,891,897,Phrym.,NIL,WORK,Q36751,Phrygian,"```json {""wikipedia_page"": ""Phrygian"", ""wikidata_id"": ""Q36751""} ```",12.952181816101074,ajmc_en,0,0,0,0,0,0
-cu31924087948174_0060,2365,2368,11.,Q8275,WORK,NIL,11.,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0.0,ajmc_en,0,0,0,0,0,0
-cu31924087948174_0059,2066,2075,Sophocles,Q11950683,PER,Q7235,Sophocles,"```json { ""wikipedia_page"": ""Sophocles"", ""wikidata_id"": ""Q7235"" } ```",33.50968170166016,ajmc_en,0,0,0,0,0,0
-lestragdiesdeso00tourgoog_0067,251,264,"Lemnos,lcarie",Q209576,LOC,Q192483,Lemnos,"```json {""wikipedia_page"":""Lemnos"", ""wikidata_id"":""Q192483""} ```",12.726658821105955,ajmc_fr,0,0,0,0,0,0
-lestragdiesdeso00tourgoog_0154,929,935,Ælect.,Q733444,WORK,Q3587592,Électre,"```json {""wikipedia_page"":""Électre"", ""wikidata_id"":""Q3587592""} ```",13.94661808013916,ajmc_fr,0,0,0,0,0,0
-lestragdiesdeso00tourgoog_0089,893,900,Électre,Q733444,WORK,NIL,Électre,"```json {""wikipedia_page"":"""",""wikidata_id"":""NIL""} ```",0.0,ajmc_fr,0,0,0,0,0,0
-lestragdiesdeso00tourgoog_0064,658,665,Ellendt,Q18411800,PER,NIL,Ellendt,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0.0,ajmc_fr,0,0,0,0,0,0
-lestragdiesdeso00tourgoog_0121,870,877,Élecrrc,Q733444,WORK,Q131651,Électre,"```json { ""wikipedia_page"": ""Électre"", ""wikidata_id"": ""Q131651"" } ```",8.920804977416992,ajmc_fr,0,0,0,0,0,0
-lestragdiesdeso00tourgoog_0142,1237,1244,Panatk.,Q87746403,WORK,Q3893205,Panégyrique,"```json {""wikipedia_page"":""Panégyrique"", ""wikidata_id"":""Q3893205""} ```",14.462451934814451,ajmc_fr,0,0,0,0,0,0
-lestragdiesdeso00tourgoog_0067,1093,1108,OEdipe ἃ Οοίοπε,Q294001,WORK,Q130890,Œdipe,"```json {""wikipedia_page"":""Œdipe"", ""wikidata_id"":""Q130890""} ```",19.417694091796875,ajmc_fr,0,0,0,0,0,0
-lestragdiesdeso00tourgoog_0025,2008,2012,Neue,NIL,PER,Q124711,Christian Friedrich Neue,"```json {""wikipedia_page"":""Christian Friedrich Neue"", ""wikidata_id"":""Q124711""} ```",15.345009803771973,ajmc_fr,0,0,0,0,0,0
-lestragdiesdeso00tourgoog_0081,312,319,Athènes,Q1524,LOC,Q844930,Athènes,"```json {""wikipedia_page"":""Athènes"", ""wikidata_id"":""Q844930""} ```",23.821401596069336,ajmc_fr,0,0,0,0,0,0
-lestragdiesdeso00tourgoog_0134,272,284,Dis- cours V,NIL,WORK,Q2941633,Catalogue des œuvres d'Aristote selon Diogène Laërce,"```json { ""wikipedia_page"": ""Catalogue des œuvres d'Aristote selon Diogène Laërce"", ""wikidata_id"": ""Q2941633"" } ```",9.879036903381348,ajmc_fr,0,0,0,0,0,0
-lestragdiesdeso00tourgoog_0154,976,985,[Wunder.],Q15438962,PER,NIL,[Wunder.],"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0.0,ajmc_fr,0,0,0,0,0,0
-lestragdiesdeso00tourgoog_0025,1014,1018,Rhin,Q21198444,LOC,Q584,Rhin,"```json {""wikipedia_page"":""Rhin"", ""wikidata_id"":""Q584""} ```",21.70619010925293,ajmc_fr,0,0,0,0,0,0
-lestragdiesdeso00tourgoog_0067,1013,1024,"d’Aristote,",Q868,PER,Q1051198,Physique,"```json {""wikipedia_page"": ""Physique"", ""wikidata_id"": ""Q1051198""} ```",12.078269004821776,ajmc_fr,0,0,0,0,0,0
-lestragdiesdeso00tourgoog_0061,1199,1209,Philoctète,Q1415903,WORK,Q212827,Philoctète,"```json {""wikipedia_page"":""Philoctète"", ""wikidata_id"":""Q212827""} ```",18.343788146972656,ajmc_fr,0,0,0,0,0,0
-lestragdiesdeso00tourgoog_0067,608,613,Phil.,Q1415903,WORK,Q334570,Philon de Byzance,"```json {""wikipedia_page"":""Philon de Byzance"", ""wikidata_id"":""Q334570""} ```",15.386138916015623,ajmc_fr,0,0,0,0,0,0
-lestragdiesdeso00tourgoog_0097,1496,1505,OEd. Col.,Q294001,WORK,Q44996,Oxford English Dictionary,"```json {""wikipedia_page"":""Oxford English Dictionary"", ""wikidata_id"":""Q44996""} ```",11.232306480407717,ajmc_fr,0,0,0,0,0,0
-Wecklein1894_0055,296,300,Ant.,Q241077,WORK,Q272006,Antaios,"```json {""wikipedia_page"":""Antaios"", ""wikidata_id"":""Q272006""} ```",10.70645523071289,ajmc_de,0,0,0,0,0,0
-Wecklein1894_0008,487,496,Sophokles,Q11950683,PER,Q7235,Sophokles,"```json {""wikipedia_page"": ""Sophokles"", ""wikidata_id"": ""Q7235""} ```",36.655120849609375,ajmc_de,0,0,0,0,0,0
-sophokle1v3soph_0049,436,439,11.,Q8275,WORK,Q1658482,"Ilias, 11. Buch","```json {""wikipedia_page"": ""Ilias, 11. Buch"", ""wikidata_id"": ""Q1658482""} ```",4.750767230987549,ajmc_de,0,0,0,0,0,0
-Wecklein1894_0055,1074,1078,Ant.,Q241077,WORK,Q335560,Antiphon von Rhamnus,"```json {""wikipedia_page"":""Antiphon von Rhamnus"", ""wikidata_id"":""Q335560""} ```",7.758544921875,ajmc_de,0,0,0,0,0,0
-Wecklein1894_0039,660,667,Teukros,Q878184,PER,Q1513788,Teukros,"```json {""wikipedia_page"": ""Teukros"", ""wikidata_id"": ""Q1513788""} ```",17.577260971069336,ajmc_de,0,0,0,0,0,0
-sophokle1v3soph_0051,328,331,Od.,Q47231,PER,Q35160,Odyssee,"```json {""wikipedia_page"": ""Odyssee"", ""wikidata_id"": ""Q35160""} ```",14.679041862487791,ajmc_de,0,0,0,0,0,0
-Wecklein1894_0022,1502,1511,Eur. Med.,Q286381,WORK,NIL,Eur. Med.,"```json {""wikipedia_page"":""Euripides"", ""wikidata_id"":""Q38618""} ```",0.0,ajmc_de,0,0,0,0,0,0
-sophokle1v3soph_0092,1043,1058,Eur. Herc. Fur.,Q1233835,WORK,NIL,Eur. Herc. Fur.,"```json {""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL""} ```",0.0,ajmc_de,0,0,0,0,0,0
-Wecklein1894_0008,1059,1068,Sophokles,Q11950683,PER,Q7235,Sophokles,"```json {""wikipedia_page"":""Sophokles"", ""wikidata_id"":""Q7235""} ```",31.043779373168945,ajmc_de,0,0,0,0,0,0
-Wecklein1894_0023,631,635,Ant.,Q241077,WORK,NIL,Ant.,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0.0,ajmc_de,0,0,0,0,0,0
-sophokle1v3soph_0075,1050,1053,Od.,Q35160,WORK,Q47231,Odysseus,"```json {""wikipedia_page"":""Odysseus"", ""wikidata_id"":""Q47231""} ```",12.227553367614746,ajmc_de,0,0,0,0,0,0
-Wecklein1894_0063,725,728,El.,Q733444,WORK,Q8275,Ilias,"```json { ""wikipedia_page"": ""Ilias"", ""wikidata_id"": ""Q8275"" } ```",7.398914337158203,ajmc_de,0,0,0,0,0,0
-sophokle1v3soph_0092,691,696,0. C.,Q294001,WORK,Q12899100,C.,"```json {""wikipedia_page"":""C."", ""wikidata_id"":""Q12899100""} ```",4.712309837341309,ajmc_de,0,0,0,0,0,0
-sophokle1v3soph_0067,59,63,Ant.,Q241077,WORK,Q294923,Athenaios,"```json {""wikipedia_page"":""Athenaios"", ""wikidata_id"":""Q294923""} ```",11.96947193145752,ajmc_de,0,0,0,0,0,0
-sophokle1v3soph_0092,777,784,500. C.,Q294001,WORK,Q12899100,C.,"```json {""wikipedia_page"": ""C."", ""wikidata_id"": ""Q12899100""} ```",6.335058689117432,ajmc_de,0,0,0,0,0,0
-sophokle1v3soph_0075,829,832,Od.,Q47231,PER,Q35160,Odyssee,"```json {""wikipedia_page"":""Odyssee"", ""wikidata_id"":""Q35160""} ```",14.367318153381348,ajmc_de,0,0,0,0,0,0
-document_000488.html,51,55,City,Q84,LOC,Q23311,City of London,"```json {""wikipedia_page"":""City of London"", ""wikidata_id"":""Q23311""} ```",16.036144256591797,mhercl_en,0,0,0,0,0,0
-document_000250.html,0,6,Sontag,Q64098,PER,NIL,Sontag,No.,0.0,mhercl_en,0,0,0,0,0,0
-document_000348.html,61,71,Drury Lane,Q1756626,LOC,Q1261392,Drury Lane,"```json {""wikipedia_page"":""Drury Lane"", ""wikidata_id"":""Q1261392""} ```",26.8726749420166,mhercl_en,0,0,0,0,0,0
-document_000204.html,59,71,Dr. Sullivan,NIL,PER,Q212692,Arthur Sullivan,"```json { ""wikipedia_page"": ""Arthur Sullivan"", ""wikidata_id"": ""Q212692"" } ```",12.200105667114258,mhercl_en,0,0,0,0,0,0
-document_000511.html,60,69,Mr. Pixis,Q571716,PER,NIL,Mr. Pixis,no,0.0,mhercl_en,0,0,0,0,0,0
-document_000667.html,18,34,Signor de Beguis,Q3770409,PER,NIL,Signor de Beguis,no,0.0,mhercl_en,0,0,0,0,0,0
-document_000619.html,95,115,Westminster Aquarium,Q7373667,LOC,NIL,Westminster Aquarium,No.,0.0,mhercl_en,0,0,0,0,0,0
-document_000280.html,40,61,Chevalier de Lorraine,Q916954,PER,NIL,Chevalier de Lorraine,no,0.0,mhercl_en,0,0,0,0,0,0
-document_000580.html,37,52,Arthur O’ Leary,Q17984779,PER,NIL,Arthur O’ Leary,no,0.0,mhercl_en,0,0,0,0,0,0
-document_000831.html,55,62,M. Sons,NIL,PER,Q60830277,Maurice Sons,"```json {""wikipedia_page"":""Maurice Sons"", ""wikidata_id"":""Q60830277""} ```",16.437883377075195,mhercl_en,0,0,0,0,0,0
-document_000553.html,37,47,M. Jullien,Q660539,PER,NIL,M. Jullien,No.,0.0,mhercl_en,0,0,0,0,0,0
-document_000774.html,176,185,M. Vivier,Q16947558,PER,NIL,M. Vivier,no.,0.0,mhercl_en,0,0,0,0,0,0
-document_000351.html,0,13,Dr. Harington,Q18671401,PER,NIL,Dr. Harington,no,0.0,mhercl_en,0,0,0,0,0,0
-document_000294.html,62,71,Mr. Lloyd,Q5344187,PER,Q4799541,Arthur Lloyd,"```json {""wikipedia_page"":""Arthur Lloyd"", ""wikidata_id"":""Q4799541""} ```",16.988126754760742,mhercl_en,0,0,0,0,0,0
-document_000442.html,0,7,Society,NIL,ORG,Q17107601,Society of Seven,"```json { ""wikipedia_page"": ""Society of Seven"", ""wikidata_id"": ""Q17107601"" } ```",15.493906021118164,mhercl_en,0,0,0,0,0,0
-document_000365.html,4,21,Duke of Edinburgh,Q158143,PER,NIL,Duke of Edinburgh,no.,0.0,mhercl_en,0,0,0,0,0,0
-document_000159.html,99,110,Mr. Clifton,Q6224338,PER,NIL,Mr. Clifton,No.,0.0,mhercl_en,0,0,0,0,0,0
-document_000103.html,11,23,Ettore Fiori,Q55912552,PER,NIL,Ettore Fiori,no,0.0,mhercl_en,0,0,0,0,0,0
-document_000673.html,33,48,Catholic Clergy,Q1195138,ORG,Q177826,clergy,"```json {""wikipedia_page"":""clergy"", ""wikidata_id"":""Q177826""} ```",23.89925765991211,mhercl_en,0,0,0,0,0,0
-document_000314.html,54,64,Rudolstadt,Q517107,LOC,Q695316,Schwarzburg-Rudolstadt,"```json {""wikipedia_page"":""Schwarzburg-Rudolstadt"", ""wikidata_id"":""Q695316""} ```",16.685302734375,mhercl_en,0,0,0,0,0,0
-document_000254.html,0,10,Mr. Linley,Q5541748,PER,NIL,Mr. Linley,no,0.0,mhercl_en,0,0,0,0,0,0
-document_000886.html,125,131,Cramer,Q455212,PER,Q78303,Wilhelm Cramer,"```json {""wikipedia_page"":""Wilhelm Cramer"", ""wikidata_id"":""Q78303""} ```",25.642898559570312,mhercl_en,0,0,0,0,0,0
-document_000669.html,36,51,String Quintett,Q3133298,MISC,Q4388065,String Quintet No. 1,"```json {""wikipedia_page"":""String Quintet No. 1"", ""wikidata_id"":""Q4388065""} ```",28.14671516418457,mhercl_en,0,0,0,0,0,0
-document_000486.html,54,65,Massaniello,Q470773,MISC,Q735619,Masaniello,"```json {""wikipedia_page"":""Masaniello"", ""wikidata_id"":""Q735619""} ```",10.905366897583008,mhercl_en,0,0,0,0,0,0
-document_000529.html,0,11,M. Barriere,Q726908,PER,NIL,M. Barriere,No.,0.0,mhercl_en,0,0,0,0,0,0
-document_000360.html,369,377,Augusteo,Q3616668,LOC,Q3516747,Teatro Augusteo,"```json {""wikipedia_page"":""Teatro Augusteo"", ""wikidata_id"":""Q3516747""} ```",21.595014572143555,mhercl_it,0,0,0,0,0,0
-document_000052.html,733,749,Elena D’Ambrosio,NIL,PER,Q3337909,Nella Anfuso,"```json {""wikipedia_page"": ""Nella Anfuso"", ""wikidata_id"": ""Q3337909""} ```",23.64970588684082,mhercl_it,0,0,0,0,0,0
-document_000051.html,247,265,Casa degli Artisti,Q3661195,LOC,NIL,Casa degli Artisti,No.,0.0,mhercl_it,0,0,0,0,0,0
-document_000123.html,81,87,Halery,Q313917,PER,Q65648,Charles Hallé,"```json {""wikipedia_page"":""Charles Hallé"", ""wikidata_id"":""Q65648""} ```",16.967185974121094,mhercl_it,0,0,0,0,0,0
-document_000190.html,214,239,S. M. la Regina di Spagna,Q538125,PER,NIL,S. M. la Regina di Spagna,no,0.0,mhercl_it,0,0,0,0,0,0
-document_000194.html,142,156,teatro di Bari,NIL,LOC,Q845517,Teatro Piccinni,"```json {""wikipedia_page"":""Teatro Piccinni"", ""wikidata_id"":""Q845517""} ```",18.804861068725582,mhercl_it,0,0,0,0,0,0
-document_000138.html,144,156,Duca Alfonso,Q188346,PER,NIL,Duca Alfonso,No.,0.0,mhercl_it,0,0,0,0,0,0
-document_000192.html,249,259,Nuova York,Q60,LOC,NIL,Nuova York,No.,0.0,mhercl_it,0,0,0,0,0,0
-document_000472.html,72,81,Paoliceli,Q3847363,PER,NIL,Paoliceli,no,0.0,mhercl_it,0,0,0,0,0,0
-document_000076.html,222,229,Firenze,Q2044,LOC,Q3982074,Teatro Niccolini,"```json {""wikipedia_page"":""Teatro Niccolini"", ""wikidata_id"":""Q3982074""} ```",18.0172061920166,mhercl_it,0,0,0,0,0,0
-document_000104.html,136,144,Ugonottt,Q466848,MISC,NIL,Ugonottt,No.,0.0,mhercl_it,0,0,0,0,0,0
-document_000105.html,364,370,Odette,NIL,MISC,Q3880852,Odette,"```json {""wikipedia_page"":""Odette"", ""wikidata_id"":""Q3880852""} ```",17.43263053894043,mhercl_it,0,0,0,0,0,0
-document_000271.html,23,27,Roma,Q220,LOC,NIL,Roma,no,0.0,mhercl_it,0,0,0,0,0,0
-document_000155.html,50,64,Alfredo Bajesi,NIL,PER,Q28358617,Alfredo Bigeschi,"```json {""wikipedia_page"":""Alfredo Bigeschi"", ""wikidata_id"":""Q28358617""} ```",30.40285301208496,mhercl_it,0,0,0,0,0,0
-document_000133.html,41,53,Re di Lahore,Q2456112,MISC,NIL,Re di Lahore,no,0.0,mhercl_it,0,0,0,0,0,0
-document_000076.html,73,80,Salvini,Q719180,PER,NIL,Salvini,no,0.0,mhercl_it,0,0,0,0,0,0
-document_000086.html,22,30,Squarcia,Q102279050,PER,Q2877483,Bruno Squarcia,"```json {""wikipedia_page"":""Bruno Squarcia"", ""wikidata_id"":""Q2877483""} ```",15.540169715881348,mhercl_it,0,0,0,0,0,0
-document_000443.html,23,29,Italia,Q38,LOC,Q172579,Regno d'Italia,"```json {""wikipedia_page"": ""Regno d'Italia"", ""wikidata_id"": ""Q172579""} ```",16.58313751220703,mhercl_it,0,0,0,0,0,0
-document_000118.html,196,202,Torino,Q495,LOC,Q183202,Teatro Regio,"```json {""wikipedia_page"":""Teatro Regio"", ""wikidata_id"":""Q183202""} ```",19.699115753173828,mhercl_it,0,0,0,0,0,0
-document_000085.html,136,141,Pozzi,Q26196588,PER,NIL,Pozzi,No,0.0,mhercl_it,0,0,0,0,0,0
-document_000035.html,92,99,Ranuzzi,Q1442098,PER,Q1243484,Angelo Maria Ranuzzi,"```json {""wikipedia_page"": ""Angelo Maria Ranuzzi"", ""wikidata_id"": ""Q1243484""} ```",25.867769241333008,mhercl_it,0,0,0,0,0,0
-document_000506.html,134,138,Arte,NIL,ORG,Q735,arte,"```json {""wikipedia_page"":""arte"", ""wikidata_id"":""Q735""} ```",8.43681526184082,mhercl_it,0,0,0,0,0,0
-document_000462.html,411,422,H. Méilhade,NIL,PER,Q723648,Henri Meilhac,"```json {""wikipedia_page"":""Henri Meilhac"", ""wikidata_id"":""Q723648""} ```",23.512563705444336,mhercl_it,0,0,0,0,0,0
-document_000222.html,210,219,Guarnieri,Q1165357,PER,Q453267,Giuseppe Guarneri del Gesù,"```json {""wikipedia_page"":""Giuseppe Guarneri del Gesù"", ""wikidata_id"":""Q453267""} ```",24.36150360107422,mhercl_it,0,0,0,0,0,0
-document_000063.html,32,43,Pittagorici,NIL,MISC,Q191359,scuola pitagorica,"```json {""wikipedia_page"":""scuola pitagorica"", ""wikidata_id"":""Q191359""} ```",14.738298416137695,mhercl_it,0,0,0,0,0,0
+NZZ-1878-01-07-b-p0002,3708,3720,Kronst. Ztg.,NIL,PROD,Q107742706,Kronstädter Zeitung,"```json {""wikipedia_page"":""Kronstädter Zeitung"", ""wikidata_id"":""Q107742706""} ```",10.641090393066406,hipe_de,0,1,0,0,0,0
+tageblatt-1918-04-23-a-i0010,4938,4950,Haoasmeldung,Q516033,ORG,NIL,Haoasmeldung,no,0.0,hipe_de,1,0,0,0,0,0
+tageblatt-1918-06-14-a-i0004,2079,2097,Journal des Tebats,Q2565164,PROD,NIL,Journal des Tebats,no,0.0,hipe_de,1,0,0,0,0,0
+NZZ-1888-03-08-b-p0002,4684,4691,Serbien,Q403,LOC,Q241748,Königreich Serbien,"```json {""wikipedia_page"": ""Königreich Serbien"", ""wikidata_id"": ""Q241748""} ```",17.042085647583008,hipe_de,0,1,0,0,0,0
+tageblatt-1928-05-09-a-i0020,2852,2862,Marc Nurel,Q1430,PER,NIL,Marc Nurel,No.,0.0,hipe_de,1,0,0,0,0,0
+tageblatt-1948-07-29-a-i0034,1186,1195,Bulgarien,Q219,LOC,Q121932,Volksrepublik Bulgarien,"```json {""wikipedia_page"": ""Volksrepublik Bulgarien"", ""wikidata_id"": ""Q121932""} ```",17.94175910949707,hipe_de,0,1,0,0,0,0
+hidden_test_fr_30,7444,7449,Lille,NIL,LOC,Q648,Lille,,22.21534919738769,newseye_fr,0,1,0,0,0,0
+hidden_test_fr_5,917,930,CLICHY-PALACE,NIL,LOC,Q201982,Clichy,,22.498458862304688,newseye_fr,1,0,0,0,0,0
+hidden_test_fr_17,10468,10485,Banque Parisienne,NIL,ORG,Q2883414,Banque nationale de Paris,,27.975868225097656,newseye_fr,1,0,0,0,0,0
+hidden_test_fr_16,6667,6674,Déjazet,Q437167,PER,Q3527454,théâtre Déjazet,"```json {""wikipedia_page"":""théâtre Déjazet"", ""wikidata_id"":""Q3527454""} ```",15.46986484527588,newseye_fr,0,0,0,1,0,0
+hidden_test_fr_20,4199,4213,Varenne-St-H-p,Q18276998,LOC,Q1625490,Varennes-Saint-Sauveur,"```json {""wikipedia_page"":""Varennes-Saint-Sauveur"", ""wikidata_id"":""Q1625490""} ```",11.945412635803224,newseye_fr,1,0,0,0,0,0
+hidden_test_fr_17,11806,11823,M. de Montali¬vet,Q240902,PER,Q713950,Jean-Pierre de Montalivet,"```json {""wikipedia_page"": ""Jean-Pierre de Montalivet"", ""wikidata_id"": ""Q713950""} ```",18.720474243164062,newseye_fr,0,0,0,1,0,0
+hidden_test_fr_30,8130,8134,Agen,NIL,LOC,Q6625,Agen,,23.268096923828125,newseye_fr,0,1,0,0,0,0
+hidden_test_de_2_sent277,113,122,Innsbruck,NIL,LOC,Q1735,Innsbruck,"```json {""wikipedia_page"":""Innsbruck"", ""wikidata_id"":""Q1735""} ```",23.06831741333008,newseye_de,0,1,0,0,0,0
+hidden_test_de_1_sent197,1119,1127,Hainfeld,NIL,LOC,Q671275,Hainfeld,"```json {""wikipedia_page"": ""Hainfeld"", ""wikidata_id"": ""Q671275""} ```",12.288896560668944,newseye_de,0,1,0,0,0,0
+hidden_test_de_7_sent95,44,68,Maria=Threresien=Str. 25,Q647485,LOC,NIL,Maria=Threresien=Str. 25,no,0.0,newseye_de,1,0,0,0,0,0
+hidden_test_de_13_sent165,198,202,Enns,Q217524,LOC,Q260089,Enns,"```json {""wikipedia_page"":""Enns"", ""wikidata_id"":""Q260089""} ```",20.877626419067383,newseye_de,0,0,0,1,0,0
+hidden_test_de_1_sent195,679,694,Kaltenleutgeben,NIL,LOC,Q665008,Kaltenleutgeben,"```json {""wikipedia_page"": ""Kaltenleutgeben"", ""wikidata_id"": ""Q665008""} ```",17.155651092529297,newseye_de,0,1,0,0,0,0
+hidden_test_de_2_sent328,10,13,Rom,NIL,LOC,Q220,Rom,"```json {""wikipedia_page"":""Rom"", ""wikidata_id"":""Q220""} ```",22.94176483154297,newseye_de,0,1,0,0,0,0
+hidden_test_sv_2,118,132,Finlands Banks,NIL,ORG,Q194060,Finlands Bank,,26.267534255981445,newseye_sv,0,1,0,0,0,0
+hidden_test_sv_7,6678,6685,Finland,Q62633,LOC,Q33,Finland,"```json {""wikipedia_page"": ""Finland"", ""wikidata_id"": ""Q33""} ```",24.64869880676269,newseye_sv,0,0,1,0,0,0
+hidden_test_sv_13,257,269,Nylandsgatan,Q18662573,LOC,Q27170703,Nylandsgatan,"```json {""wikipedia_page"": ""Nylandsgatan"", ""wikidata_id"": ""Q27170703""} ```",18.821514129638672,newseye_sv,1,0,0,0,0,0
+hidden_test_sv_17,391,397,Sverge,Q34,LOC,NIL,Sverge,"```json {""wikipedia_page"": ""Sverige"", ""wikidata_id"": ""Q34""} ```",0.0,newseye_sv,1,0,0,0,0,0
+hidden_test_sv_3,317,326,Frankrike,Q70802,LOC,Q142,Frankrike,"```json {""wikipedia_page"": ""Frankrike"", ""wikidata_id"": ""Q142""} ```",23.048486709594727,newseye_sv,0,0,1,0,0,0
+hidden_test_sv_1,1778,1798,psendony-men Alceste,NIL,PER,Q61002,pseudonym,"```json {""wikipedia_page"": ""pseudonym"", ""wikidata_id"": ""Q61002""} ```",12.676937103271484,newseye_sv,0,0,0,1,0,0
+hidden_test_fi_2,267,295,MerivakuutusosakeyhtiöTriton,NIL,ORG,Q97198894,Merivakuutus Oy Triton,"```json {""wikipedia_page"": ""Merivakuutus Oy Triton"", ""wikidata_id"": ""Q97198894""} ```",23.950424194335938,newseye_fi,0,1,0,0,0,0
+hidden_test_fi_22,138,152,Kustaawin pit.,Q807900,LOC,NIL,Kustaawin pit.,no,0.0,newseye_fi,1,0,0,0,0,0
+hidden_test_fi_3,3313,3340,agronoomi Nicolai Fabricius,NIL,PER,Q1781198,maataloustieteilijä,"```json {""wikipedia_page"": ""maataloustieteilijä"", ""wikidata_id"": ""Q1781198""} ```",18.28823471069336,newseye_fi,0,0,0,1,0,0
+hidden_test_fi_4,4589,4611,Ottovon Nordenskjöldin,NIL,PER,Q440310,Otto Nordenskjöld,"```json {""wikipedia_page"": ""Otto Nordenskjöld"", ""wikidata_id"": ""Q440310""} ```",24.158184051513672,newseye_fi,1,0,0,0,0,0
+hidden_test_fi_3,2488,2511,räätäliNikolai Knjaseff,NIL,PER,Q242468,vaatturi,"```json {""wikipedia_page"": """", ""wikidata_id"": ""Q242468""} ```",14.609779357910156,newseye_fi,0,0,0,1,0,0
+hidden_test_fi_4,1172,1201,JalkarannanJaakkolan metsästä,NIL,LOC,Q18659455,Jalkaranta,"```json {""wikipedia_page"": ""Jalkaranta"", ""wikidata_id"": ""Q18659455""} ```",19.91008949279785,newseye_fi,0,0,0,0,1,0
+cu31924087948174_0059,1484,1491,Phoebus,Q3382132,PER,Q37340,Apollo,"```json {""wikipedia_page"": ""Apollo"", ""wikidata_id"": ""Q37340""} ```",17.520896911621094,ajmc_en,0,0,1,0,0,0
+sophoclesplaysa05campgoog_0099,934,944,Slob. For.,Q107029507,WORK,NIL,Slob. For.,"```json {""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL""} ```",0.0,ajmc_en,1,0,0,0,0,0
+cu31924087948174_0061,147,156,Oed. Tyr.,Q148643,WORK,NIL,Oed. Tyr.,"```json {""wikipedia_page"":""Oedipus Tyrannus"", ""wikidata_id"":""NIL""} ```",0.0,ajmc_en,1,0,0,0,0,0
+cu31924087948174_0022,75,80,Jahnl,Q66001,PER,NIL,Jahnl,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0.0,ajmc_en,1,0,0,0,0,0
+sophoclesplaysa05campgoog_0099,2299,2310,Eur. Helen.,Q614607,WORK,Q1248812,Helen,"```json { ""wikipedia_page"": ""Helen"", ""wikidata_id"": ""Q1248812"" } ```",16.830881118774414,ajmc_en,0,1,0,0,0,0
+sophoclesplaysa05campgoog_0099,2626,2630,Κuhn,Q97582,PER,NIL,Κuhn,"```json { ""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL"" } ```",0.0,ajmc_en,1,0,0,0,0,0
+sophoclesplaysa05campgoog_0102,2388,2393,O. T.,Q148643,WORK,NIL,O. T.,"```json {""wikipedia_page"":"""", ""wikidata_id"":""NIL""} ```",0.0,ajmc_en,1,0,0,0,0,0
+sophoclesplaysa05campgoog_0102,387,390,El.,Q540161,WORK,Q3721321,Elegies,"```json { ""wikipedia_page"": ""Elegies"", ""wikidata_id"": ""Q3721321"" } ```",5.28476095199585,ajmc_en,1,0,0,0,0,0
+sophoclesplaysa05campgoog_0102,100,103,Ph.,Q1415903,WORK,Q244161,Phaedo,"```json {""wikipedia_page"":""Phaedo"", ""wikidata_id"":""Q244161""} ```",8.347354888916016,ajmc_en,1,0,0,0,0,0
+lestragdiesdeso00tourgoog_0067,251,264,"Lemnos,lcarie",Q209576,LOC,Q192483,Lemnos,"```json {""wikipedia_page"":""Lemnos"", ""wikidata_id"":""Q192483""} ```",12.726658821105955,ajmc_fr,0,1,0,0,0,0
+lestragdiesdeso00tourgoog_0154,929,935,Ælect.,Q733444,WORK,Q3587592,Électre,"```json {""wikipedia_page"":""Électre"", ""wikidata_id"":""Q3587592""} ```",13.94661808013916,ajmc_fr,1,0,0,0,0,0
+lestragdiesdeso00tourgoog_0089,893,900,Électre,Q733444,WORK,NIL,Électre,"```json {""wikipedia_page"":"""",""wikidata_id"":""NIL""} ```",0.0,ajmc_fr,1,0,0,0,0,0
+lestragdiesdeso00tourgoog_0064,658,665,Ellendt,Q18411800,PER,NIL,Ellendt,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0.0,ajmc_fr,1,0,0,0,0,0
+lestragdiesdeso00tourgoog_0121,870,877,Élecrrc,Q733444,WORK,Q131651,Électre,"```json { ""wikipedia_page"": ""Électre"", ""wikidata_id"": ""Q131651"" } ```",8.920804977416992,ajmc_fr,0,0,0,1,0,0
+lestragdiesdeso00tourgoog_0142,1237,1244,Panatk.,Q87746403,WORK,Q3893205,Panégyrique,"```json {""wikipedia_page"":""Panégyrique"", ""wikidata_id"":""Q3893205""} ```",14.462451934814451,ajmc_fr,1,0,0,0,0,0
+lestragdiesdeso00tourgoog_0067,1093,1108,OEdipe ἃ Οοίοπε,Q294001,WORK,Q130890,Œdipe,"```json {""wikipedia_page"":""Œdipe"", ""wikidata_id"":""Q130890""} ```",19.417694091796875,ajmc_fr,0,0,0,1,0,0
+lestragdiesdeso00tourgoog_0025,2008,2012,Neue,NIL,PER,Q124711,Christian Friedrich Neue,"```json {""wikipedia_page"":""Christian Friedrich Neue"", ""wikidata_id"":""Q124711""} ```",15.345009803771973,ajmc_fr,0,1,0,0,0,0
+Wecklein1894_0055,296,300,Ant.,Q241077,WORK,Q272006,Antaios,"```json {""wikipedia_page"":""Antaios"", ""wikidata_id"":""Q272006""} ```",10.70645523071289,ajmc_de,1,0,0,0,0,0
+Wecklein1894_0008,487,496,Sophokles,Q11950683,PER,Q7235,Sophokles,"```json {""wikipedia_page"": ""Sophokles"", ""wikidata_id"": ""Q7235""} ```",36.655120849609375,ajmc_de,0,1,0,0,0,0
+sophokle1v3soph_0049,436,439,11.,Q8275,WORK,Q1658482,"Ilias, 11. Buch","```json {""wikipedia_page"": ""Ilias, 11. Buch"", ""wikidata_id"": ""Q1658482""} ```",4.750767230987549,ajmc_de,0,0,0,0,0,1
+Wecklein1894_0055,1074,1078,Ant.,Q241077,WORK,Q335560,Antiphon von Rhamnus,"```json {""wikipedia_page"":""Antiphon von Rhamnus"", ""wikidata_id"":""Q335560""} ```",7.758544921875,ajmc_de,1,0,0,0,0,0
+Wecklein1894_0039,660,667,Teukros,Q878184,PER,Q1513788,Teukros,"```json {""wikipedia_page"": ""Teukros"", ""wikidata_id"": ""Q1513788""} ```",17.577260971069336,ajmc_de,1,0,0,0,0,0
+sophokle1v3soph_0051,328,331,Od.,Q47231,PER,Q35160,Odyssee,"```json {""wikipedia_page"": ""Odyssee"", ""wikidata_id"": ""Q35160""} ```",14.679041862487791,ajmc_de,0,0,0,1,0,0
+Wecklein1894_0022,1502,1511,Eur. Med.,Q286381,WORK,NIL,Eur. Med.,"```json {""wikipedia_page"":""Euripides"", ""wikidata_id"":""Q38618""} ```",0.0,ajmc_de,1,0,0,0,0,0
+sophokle1v3soph_0092,1043,1058,Eur. Herc. Fur.,Q1233835,WORK,NIL,Eur. Herc. Fur.,"```json {""wikipedia_page"": ""NIL"", ""wikidata_id"": ""NIL""} ```",0.0,ajmc_de,1,0,0,0,0,0
+document_000488.html,51,55,City,Q84,LOC,Q23311,City of London,"```json {""wikipedia_page"":""City of London"", ""wikidata_id"":""Q23311""} ```",16.036144256591797,mhercl_en,0,0,0,0,0,1
+document_000250.html,0,6,Sontag,Q64098,PER,NIL,Sontag,No.,0.0,mhercl_en,1,0,0,0,0,0
+document_000348.html,61,71,Drury Lane,Q1756626,LOC,Q1261392,Drury Lane,"```json {""wikipedia_page"":""Drury Lane"", ""wikidata_id"":""Q1261392""} ```",26.8726749420166,mhercl_en,0,0,0,1,0,0
+document_000204.html,59,71,Dr. Sullivan,NIL,PER,Q212692,Arthur Sullivan,"```json { ""wikipedia_page"": ""Arthur Sullivan"", ""wikidata_id"": ""Q212692"" } ```",12.200105667114258,mhercl_en,0,1,0,0,0,0
+document_000511.html,60,69,Mr. Pixis,Q571716,PER,NIL,Mr. Pixis,no,0.0,mhercl_en,1,0,0,0,0,0
+document_000667.html,18,34,Signor de Beguis,Q3770409,PER,NIL,Signor de Beguis,no,0.0,mhercl_en,1,0,0,0,0,0
+document_000619.html,95,115,Westminster Aquarium,Q7373667,LOC,NIL,Westminster Aquarium,No.,0.0,mhercl_en,1,0,0,0,0,0
+document_000280.html,40,61,Chevalier de Lorraine,Q916954,PER,NIL,Chevalier de Lorraine,no,0.0,mhercl_en,1,0,0,0,0,0
+document_000580.html,37,52,Arthur O’ Leary,Q17984779,PER,NIL,Arthur O’ Leary,no,0.0,mhercl_en,1,0,0,0,0,0
+document_000831.html,55,62,M. Sons,NIL,PER,Q60830277,Maurice Sons,"```json {""wikipedia_page"":""Maurice Sons"", ""wikidata_id"":""Q60830277""} ```",16.437883377075195,mhercl_en,0,1,0,0,0,0
+document_000553.html,37,47,M. Jullien,Q660539,PER,NIL,M. Jullien,No.,0.0,mhercl_en,1,0,0,0,0,0
+document_000774.html,176,185,M. Vivier,Q16947558,PER,NIL,M. Vivier,no.,0.0,mhercl_en,1,0,0,0,0,0
+document_000360.html,369,377,Augusteo,Q3616668,LOC,Q3516747,Teatro Augusteo,"```json {""wikipedia_page"":""Teatro Augusteo"", ""wikidata_id"":""Q3516747""} ```",21.595014572143555,mhercl_it,1,0,0,0,0,0
+document_000052.html,733,749,Elena D’Ambrosio,NIL,PER,Q3337909,Nella Anfuso,"```json {""wikipedia_page"": ""Nella Anfuso"", ""wikidata_id"": ""Q3337909""} ```",23.64970588684082,mhercl_it,1,0,0,0,0,0
+document_000051.html,247,265,Casa degli Artisti,Q3661195,LOC,NIL,Casa degli Artisti,No.,0.0,mhercl_it,1,0,0,0,0,0
+document_000123.html,81,87,Halery,Q313917,PER,Q65648,Charles Hallé,"```json {""wikipedia_page"":""Charles Hallé"", ""wikidata_id"":""Q65648""} ```",16.967185974121094,mhercl_it,1,0,0,0,0,0
+document_000190.html,214,239,S. M. la Regina di Spagna,Q538125,PER,NIL,S. M. la Regina di Spagna,no,0.0,mhercl_it,1,0,0,0,0,0
+document_000194.html,142,156,teatro di Bari,NIL,LOC,Q845517,Teatro Piccinni,"```json {""wikipedia_page"":""Teatro Piccinni"", ""wikidata_id"":""Q845517""} ```",18.804861068725582,mhercl_it,1,0,0,0,0,0
+document_000138.html,144,156,Duca Alfonso,Q188346,PER,NIL,Duca Alfonso,No.,0.0,mhercl_it,1,0,0,0,0,0
+document_000192.html,249,259,Nuova York,Q60,LOC,NIL,Nuova York,No.,0.0,mhercl_it,1,0,0,0,0,0
+document_000472.html,72,81,Paoliceli,Q3847363,PER,NIL,Paoliceli,no,0.0,mhercl_it,1,0,0,0,0,0
+document_000076.html,222,229,Firenze,Q2044,LOC,Q3982074,Teatro Niccolini,"```json {""wikipedia_page"":""Teatro Niccolini"", ""wikidata_id"":""Q3982074""} ```",18.0172061920166,mhercl_it,0,0,0,1,0,0
+document_000104.html,136,144,Ugonottt,Q466848,MISC,NIL,Ugonottt,No.,0.0,mhercl_it,1,0,0,0,0,0
+document_000105.html,364,370,Odette,NIL,MISC,Q3880852,Odette,"```json {""wikipedia_page"":""Odette"", ""wikidata_id"":""Q3880852""} ```",17.43263053894043,mhercl_it,1,0,0,0,0,0
+document_000271.html,23,27,Roma,Q220,LOC,NIL,Roma,no,0.0,mhercl_it,1,0,0,0,0,0

@@ -1,0 +1,23 @@
+Total:
+false: 60
+exact: 18
+close: 5
+related: 13
+broader: 1
+narrower: 3
+
+PER SOURCE:
+            falseMatch  exactMatch  closeMatch  relatedMatch  broaderMatch  narrowerMatch
+source                                                                                   
+ajmc_de              5           1           0             1             0              1
+ajmc_en              7           1           1             0             0              0
+ajmc_fr              4           2           0             2             0              0
+hipe_de              3           3           0             0             0              0
+hipe_en              6           1           1             1             0              0
+hipe_fr              5           0           1             1             0              1
+mhercl_en            8           2           0             1             0              1
+mhercl_it           12           0           0             1             0              0
+newseye_de           1           4           0             1             0              0
+newseye_fi           2           1           0             2             1              0
+newseye_fr           3           2           0             2             0              0
+newseye_sv           2           1           2             1             0              0
