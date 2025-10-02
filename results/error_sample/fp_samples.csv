@@ -16,8 +16,8 @@ GDL-1968-11-02-a-i0267,7770,7775,Paris,Q90,LOC,Q3278478,Ville de Paris,"```json 
 GDL-1848-07-04-a-i0001,8359,8367,FIUBOUKG,Q12640,LOC,Q906681,Thiébouhans,"```json {""wikipedia_page"":""Thiébouhans"", ""wikidata_id"":""Q906681""} ```",4.869844436645508,hipe_fr,1,0,0,0,0,0
 GDL-1848-07-04-a-i0001,2609,2615,Luceme,Q12121,LOC,NIL,Luceme,"```json {""wikipedia_page"":""NIL"", ""wikidata_id"":""NIL""} ```",0.0,hipe_fr,1,0,0,0,0,0
 EXP-1798-02-15-a-i0004,3509,3520,M. Ghatenay,NIL,PER,Q15967996,Jean-Baptiste Garnier,"```json {""wikipedia_page"":""Jean-Baptiste Garnier"", ""wikidata_id"":""Q15967996""} ```",13.850349426269531,hipe_fr,1,0,0,0,0,0
-NZZ-1938-09-13-b-p0001,7661,7680,"Kopp (soz., Zürich)",NIL,PER,Q122063,Elisabeth Kopp,,21.856426239013672,hipe_de,0,0,0,0,0,0
-NZZ-1858-04-20-a-p0003,1164,1174,St. Gallen,Q12746,LOC,Q25607,St. Gallen,,24.77943992614746,hipe_de,0,0,0,0,0,0
+NZZ-1938-09-13-b-p0001,7661,7680,"Kopp (soz., Zürich)",NIL,PER,Q122063,Elisabeth Kopp,,21.856426239013672,hipe_de,1,0,0,0,0,0
+NZZ-1858-04-20-a-p0003,1164,1174,St. Gallen,Q12746,LOC,Q25607,St. Gallen,,24.77943992614746,hipe_de,0,0,0,0,0,1
 NZZ-1878-01-07-b-p0002,3708,3720,Kronst. Ztg.,NIL,PROD,Q107742706,Kronstädter Zeitung,"```json {""wikipedia_page"":""Kronstädter Zeitung"", ""wikidata_id"":""Q107742706""} ```",10.641090393066406,hipe_de,0,1,0,0,0,0
 tageblatt-1918-04-23-a-i0010,4938,4950,Haoasmeldung,Q516033,ORG,NIL,Haoasmeldung,no,0.0,hipe_de,1,0,0,0,0,0
 tageblatt-1918-06-14-a-i0004,2079,2097,Journal des Tebats,Q2565164,PROD,NIL,Journal des Tebats,no,0.0,hipe_de,1,0,0,0,0,0

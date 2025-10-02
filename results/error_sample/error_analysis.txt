@@ -1,10 +1,10 @@
 Total:
-false: 60
+false: 59
 exact: 18
 close: 5
 related: 13
 broader: 1
-narrower: 3
+narrower: 4
 
 PER SOURCE:
             falseMatch  exactMatch  closeMatch  relatedMatch  broaderMatch  narrowerMatch
@@ -12,7 +12,7 @@ source
 ajmc_de              5           1           0             1             0              1
 ajmc_en              7           1           1             0             0              0
 ajmc_fr              4           2           0             2             0              0
-hipe_de              3           3           0             0             0              0
+hipe_de              4           3           0             0             0              1
 hipe_en              6           1           1             1             0              0
 hipe_fr              5           0           1             1             0              1
 mhercl_en            8           2           0             1             0              1
