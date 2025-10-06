@@ -47,7 +47,7 @@ python filter_and_prompt_chain.py \
 python eval.py --path_data ./test_data/HIPE_EN --path_results ./results/HIPE_EN
 ```
 
-## Reproducing Our Results
+## Reproducing Benchmark Study
 
 The following table reports the configuration which obtained the best F1 score on 4 benchmarks: HIPE-2020, NewsEye, AJMC and MHERCL. 
 
