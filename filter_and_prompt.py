@@ -27,7 +27,7 @@ def main():
     parser.add_argument("--dataset_path", type=str, required=True, help="Path to dataset directory")
     parser.add_argument("--output_dir", type=str, required=True, help="Output directory for results")
     parser.add_argument("--threshold", type=float, default=0, help="Threshold to be used to filter hard negatives.")
-    parser.add_argument("--model_id", type=str, default="meta-llama/Llama-3.1-8B-Instruct", help="Huggingface repo of LLM")
+    parser.add_argument("--model_id", type=str, default="mistralai/Mistral-Small-24B-Instruct-2501", help="Huggingface repo of LLM")
     parser.add_argument("--hf_token", type=str, default="", help="Huggingface token to access restricted repo.")
     parser.add_argument("--n_candidates", type=int, default=50, help="Number of candidates to put in prompt.")
 

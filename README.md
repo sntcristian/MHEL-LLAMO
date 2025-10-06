@@ -1,7 +1,9 @@
 # MHEL-LLAMO
 Multilingual Historical Entity Linking with Large Language Models (LLMs)
 
-This project aims to provide a benchmark for open-source LLMs in Historical Entity Linking by using an ensemble approach which combines a multilingual bi-encoder model, i.e. BELA, for candidate retrieval with prompt engineering for NIL prediction and candidate selection.
+This project aims to provide a benchmark for open-source LLMs in Historical Entity Linking by using an ensemble approach which combines a multilingual bi-encoder model, i.e. BELA, for candidate retrieval with prompt chaining for NIL prediction and candidate selection.
+
+<img src="mhel-llamo.jpg" alt="drawing" width="700"/>
 
 
 ## Install Requirements
@@ -45,4 +47,21 @@ python filter_and_prompt_chain.py \
 python eval.py --path_data ./test_data/HIPE_EN --path_results ./results/HIPE_EN
 ```
 
-For more accurate parameters, see our publication.
+## Reproducing Our Results
+
+The following table reports the configuration which obtained the best F1 score on 4 benchmarks: HIPE-2020, NewsEye, AJMC and MHERCL. All LLMs were 
+
+| Dataset \(Language\)    | Script             |  N. of Candidates         |    Threshold           |    Model            | F1    |
+| ----------------------- | ------------------ | ------------------------- | ---------------------- | -----------------   | ----- |
+| HIPE-2020 (de) | filter_and_prompt_chain.py | 30                         | 21.4 | mistralai/Mistral-Small-24B-Instruct-2501   | 0.62 |
+| HIPE-2020 (en) | filter_and_prompt_chain.py | 20                         | \- | mistralai/Mistral-Small-24B-Instruct-2501   | 0.723 |
+| HIPE-2020 (fr) | filter_and_prompt.py | 20                         | \- | mistralai/Mistral-Small-24B-Instruct-2501   | 0.692 |
+| NewsEye (de) | filter_and_prompt_chain.py | 30                         | 25 | mistralai/Mistral-Small-24B-Instruct-2501   | 0.556 |
+| NewsEye (fi) | filter_and_prompt_chain.py | 20                         | \- | LumiOpen/Llama-Poro-2-8B-Instruct   | 0.509 |
+| NewsEye (fr) | filter_and_prompt_chain.py | 20                         | 21.35 | mistralai/Mistral-Small-24B-Instruct-2501   | 0.662 |
+| NewsEye (sv) | filter_and_prompt_chain.py | 20                         | 25 | google/gemma-3-27b-it   | 0.521 |
+| AJMC (de) | filter_and_prompt.py | 50                         | 21.5 | mistralai/Mistral-Small-24B-Instruct-2501   | 0.521 |
+| AJMC (en) | filter_and_prompt.py | 50                         | \- | mistralai/Mistral-Small-24B-Instruct-2501   | 0.496 |
+| HIPE-2020 (fr) | filter_and_prompt.py | 20                         | \- | mistralai/Mistral-Small-24B-Instruct-2501   | 0.636 |
+| MHERCL (en) | filter_and_prompt_chain.py | 20                         | \- | mistralai/Mistral-Small-24B-Instruct-2501   | 0.7 |
+| MHERCL (it) | filter_and_prompt_chain.py | 20                         | \- | mistralai/Mistral-Small-24B-Instruct-2501   | 0.698 |
