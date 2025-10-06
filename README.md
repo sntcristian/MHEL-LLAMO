@@ -49,7 +49,7 @@ python eval.py --path_data ./test_data/HIPE_EN --path_results ./results/HIPE_EN
 
 ## Reproducing Our Results
 
-The following table reports the configuration which obtained the best F1 score on 4 benchmarks: HIPE-2020, NewsEye, AJMC and MHERCL. All LLMs were 
+The following table reports the configuration which obtained the best F1 score on 4 benchmarks: HIPE-2020, NewsEye, AJMC and MHERCL. 
 
 | Dataset \(Language\)    | Script             |  N. of Candidates         |    Threshold           |    Model            | F1    |
 | ----------------------- | ------------------ | ------------------------- | ---------------------- | -----------------   | ----- |
@@ -65,3 +65,11 @@ The following table reports the configuration which obtained the best F1 score o
 | HIPE-2020 (fr) | filter_and_prompt.py | 20                         | \- | mistralai/Mistral-Small-24B-Instruct-2501   | 0.636 |
 | MHERCL (en) | filter_and_prompt_chain.py | 20                         | \- | mistralai/Mistral-Small-24B-Instruct-2501   | 0.7 |
 | MHERCL (it) | filter_and_prompt_chain.py | 20                         | \- | mistralai/Mistral-Small-24B-Instruct-2501   | 0.698 |
+
+All experiments were carried by using a list of candidates retrieved by BELA, containing labels, descriptions and other metadata in the language of the dataset. An example is available [here](results\HIPE_FR\candidates_test_top50_fr.json).
+
+For reducing computational costs, we suggest using [mistralai/Ministral-8B-Instruct-2410](https://huggingface.co/mistralai/Ministral-8B-Instruct-2410) for competitive performances in English, French and German and [google/gemma-3-12b-it](https://huggingface.co/google/gemma-3-12b-it) for Swedish.
+
+## Citation
+
+TO BE UPDATED
