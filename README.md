@@ -1,9 +1,10 @@
 # MHEL-LLAMO
-Multilingual Historical Entity Linking with Large Language Models (LLMs)
+
+This is the official repository of the paper "[It’s All About the Confidence: An Unsupervised Approach for Multilingual Historical Entity Linking using Large Language Models](https://hal.science/hal-05440300/)".
 
 This project aims to provide a benchmark for open-source LLMs in Historical Entity Linking by using an ensemble approach which combines a multilingual bi-encoder model, i.e. BELA, for candidate retrieval with prompt chaining for NIL prediction and candidate selection.
 
-<img src="mhel-llamo.jpg" alt="drawing" width="700"/>
+<img src="mhel-llamo.png" alt="drawing" width="700"/>
 
 
 ## Install Requirements
