@@ -2,7 +2,7 @@
 
 This is the official repository of the paper "[It’s All About the Confidence: An Unsupervised Approach for Multilingual Historical Entity Linking using Large Language Models](https://hal.science/hal-05440300/)".
 
-This project aims to provide a new state of the art in Historical Entity Linking by using an ensemble approach which combines a multilingual bi-encoder model, i.e. BELA, for candidate retrieval with prompt chaining for NIL prediction and candidate selection.
+This project aims to provide a new state of the art in Historical Entity Linking by using an ensemble approach which combines a multilingual bi-encoder model \(BELA\) for candidate retrieval with prompt chaining for NIL prediction and candidate selection.
 
 <img src="mhel-llamo.png" alt="drawing" width="700"/>
 
