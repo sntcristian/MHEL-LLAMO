@@ -73,4 +73,24 @@ On low-resource settings, we suggest using [mistralai/Ministral-8B-Instruct-2410
 
 ## Citation
 
-TO BE UPDATED
+```
+@inproceedings{santini-etal-2026-confidence,
+    title = "It{'}s All About the Confidence: An Unsupervised Approach for Multilingual Historical Entity Linking using Large Language Models",
+    author = "Santini, Cristian  and
+      van Erp, Marieke  and
+      Alam, Mehwish",
+    editor = "Demberg, Vera  and
+      Inui, Kentaro  and
+      Marquez, Llu{\'i}s",
+    booktitle = "Proceedings of the 19th Conference of the {E}uropean Chapter of the {A}ssociation for {C}omputational {L}inguistics (Volume 1: Long Papers)",
+    month = mar,
+    year = "2026",
+    address = "Rabat, Morocco",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.eacl-long.184/",
+    doi = "10.18653/v1/2026.eacl-long.184",
+    pages = "3939--3954",
+    ISBN = "979-8-89176-380-7",
+    abstract = "Despite the recent advancements in NLP with the advent of Large Language Models (LLMs), Entity Linking (EL) for historical texts remains challenging due to linguistic variation, noisy inputs, and evolving semantic conventions. Existing solutions either require substantial training data or rely on domain-specific rules that limit scalability. In this paper, we present MHEL-LLaMo (Multilingual Historical Entity Linking with Large Language MOdels), an unsupervised ensemble approach combining a Small Language Model (SLM) and an LLM. MHEL-LLaMo leverages a multilingual bi-encoder (BELA) for candidate retrieval and an instruction-tuned LLM for NIL prediction and candidate selection via prompt chaining. Our system uses SLM{'}s confidence scores to discriminate between easy and hard samples, applying an LLM only for hard cases. This strategy reduces computational costs while preventing hallucinations on straightforward cases. We evaluate MHEL-LLaMo on four established benchmarks in six European languages (English, Finnish, French, German, Italian and Swedish) from the 19th and 20th centuries. Results demonstrate that MHEL-LLaMo outperforms state-of-the-art models without requiring fine-tuning, offering a scalable solution for low-resource historical EL. Our error analysis reveals that 41{\%} of false predictions exhibit semantic proximity to ground truth entities, highlighting the LLM{'}s accurate disambiguation of historical references."
+}
+```
